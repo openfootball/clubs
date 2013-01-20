@@ -1,0 +1,30 @@
+##################################
+##  Copa América 2011 (Argentina)
+#
+#   more info -> http://en.wikipedia.org/wiki/2011_Copa_América
+#             -> http://de.wikipedia.org/wiki/Copa_América_2011
+
+## fix: change time zone to ??
+
+
+league: america
+season: 2011
+start_at: 2011-07-01 12:00
+
+##############
+# 12 Teams (fifa three-letter country codes)
+#
+#   - Argentien
+#   - Kolumbien
+#   - Uruguay
+#   - Brasilien
+#   - Mexiko
+#   - Ecuador
+#   - Chile
+#   - Paraguay
+#   - Peru
+#   - Venezuela
+#   - Bolvien
+#   - Costa Rica
+
+teams: arg, col, uru, bra, mex, ecu, chi, par, per, ven, bol, crc

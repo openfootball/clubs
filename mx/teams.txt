@@ -1,0 +1,40 @@
+# encoding: utf-8
+
+# see http://es.wikipedia.org/wiki/Primera_División_de_México
+# official site @ www.ligamx.net
+#
+#  18 teams
+
+# use three letter codes used by
+#   - Record -> http://www.record.com.mx
+#   - Televisa Deportes -> http://televisadeportes.esmas.com
+
+
+america,   América|Club América|América de Mexico,  AME, city:mexico
+cruzazul,  Cruz Azul,                       CAZ, city:mexico
+pumas,     Pumas|UNAM|Pumas UNAM,                      PUM, city:mexico   # NB: televisa uses UNM
+
+monterrey, Monterrey|CF Monterrey,          MTY, city:monterrey
+tigres,    Tigres|Tigres UANL,                     TIG, city:monterrey
+
+chivas,    Guadalajara|Chivas|Guadalajara Chivas|Deportivo Guadalajara,    GUA, city:guadalajara
+atlas,     Atlas,                           ATS, city:guadalajara
+
+
+atlante,   Atlante,                         ATL, city:cancun    # NB: televisa uses ATN
+jaguares,  Jaguares|Chiapas|Jaguares de Chiapas, JAG, city:tuxtla
+leon,      León|Club León,           LEO, city:leon
+
+
+morelia,   Morelia|Monarcas|Monarcas Morelia|Atletico Monarcas Morelia,  MOR,   city:morelia
+pachuca,   Pachuca,                  PAC,  city:pachuca
+puebla,    Puebla|Puebla F.C. ,             PUE,  city:puebla
+queretaro, Querétaro|Querétaro F.C.,           QRO, city:queretaro
+sanluis,   San Luis|Club San Luis,            SNL,  city:sanluispotosi
+
+santos,    Santos|Santos Laguna,           SAN, city:torreon   # NB: televisa uses STS
+tijuana,   Tijuana|Club Tijuana,            TIJ, city:tijuana
+toluca,    Toluca|Deportivo Toluca, TOL, city:toluca
+
+
+

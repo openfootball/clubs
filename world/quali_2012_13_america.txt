@@ -1,0 +1,41 @@
+#############################################################
+##  WM 2014 - Qualification North/Central America & Caribbean Islands
+
+#
+# note: fix: play_at times and timezones
+#  what timezone to use?
+
+
+
+Group 2 | Mexiko, Costa Rica, El Salvador, Guyana
+
+
+1. Spieltag / Group 2
+
+2012-06-09 12:00  Mexiko  -  Guyana           3:1
+2012-06-09 12:00  Costa Rica  - El Salvador   2:2
+
+2. Spieltag / Group 2
+
+2012-06-13 12:00  Guyana  - Costa Rica        0:4
+2012-06-13 12:00  El Salvador  -  Mexiko      1:2
+
+3. Spieltag / Group 2
+
+2012-09-08 12:00  El Salvador  -  Guyana      2:2
+2012-09-08 12:00  Costa Rica  -  Mexiko       0:2
+
+4. Spieltag / Group 2
+
+2012-09-12 12:00  Guyana  -  El Salvador      2:3
+2012-09-12 12:00  Mexiko  -  Costa Rica       1:0
+
+5. Spieltag / Group 2
+
+2012-10-13 12:00  Guyana  -  Mexiko           0:5
+2012-10-13 12:00  El Salvador  -  Costa Rica  0:1
+
+6. Spieltag / Group 2
+
+2012-10-17 12:00  Mexiko  -  El Salvador      2:0
+2012-10-17 12:00  Costa Rica  -  Guyana       7:0

@@ -1,0 +1,39 @@
+# encoding: utf-8
+
+#### NB:
+
+## use en/teams.txt for English Teams
+## use es/teams.txt for Spanish Teams
+## use de/teams.txt for German Teams
+## use it/teams.txt for Italian Teams
+## use fr/teams.txt for French Teams
+## use at/teams.txt for Austrian Teams
+
+porto,        FC Porto,                        pt, city:porto
+benfica,      Benfica Lissabon|Benfica Lis.,   pt, city:lisboa
+braga,        Sporting Braga,                  pt, city:braga
+sporting,     Sporting Lisboa,                 pt, city:lisboa
+
+
+kiew,         Dynamo Kiew|FC Dynamo Kiew|Dynamo Kiev,          ua, city:kiev
+donezk,       Schachtjor Donezk|Shakhtar Don.|Shakhtar Donetsk,    ua, city:donetsk
+metalist,     FC Metalist Kharkiv,      ua, city:kharkov
+
+zenit,        Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg, ru, city:stpetersburg
+spartak,      Spartak Moskau|Spartak Moscow,     ru, city:moskva
+moskva,       PFC CSKA Moskva,          ru, city:moskva
+
+anderlecht,   RSC Anderlecht,       be, city:brussel
+
+ajax,         Ajax Amsterdam,       nl, city:amsterdam
+az,           AZ Alkmaar,               nl, city:alkmaar
+
+zagreb,       Dinamo Zagreb|NK Dinamo Zagreb,        hr, city:zagreb
+olympiacos,   Olympiakos Piräus|Olympiakos P.,    gr, city:piraeus
+nordsjalland, FC Nordsjælland|Nordsjaelland,      dk, city:farum
+borissow,     BATE Borissow|Bate Borisov,           by, city:borisov
+celtic,       Celtic Glasgow,          sc, city:glasgow
+galatasaray,  Galatasaray|Galatasaray Istanbul,           tr, city:istanbul
+cluj,         CFR Cluj,              ro, city:cluj
+basel,        FC Basel 1893,            ch, city:basel
+apoel,        APOEL Nikosia,            cy, city:nikosia

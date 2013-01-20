@@ -1,0 +1,42 @@
+
+###
+## Serie A
+##  20 teams
+##
+## see http://en.wikipedia.org/wiki/Serie_A
+##
+## official -> legaseriea.it
+
+
+## use three letter abbrevations from legaseriea.it
+
+milan,        AC Milan|Associazione Calcio Milan,    MIL,     city:milano
+inter,        FC Internazionale Milano,    INT,  city:milano
+
+lazio,        SS Lazio|Società Sportiva Lazio|Lazio Roma, LAZ, city:roma
+roma,         AS Roma|Associazione Sportiva Roma, ROM, city:roma
+
+genoa,        Genoa CFC, Genoa Cricket and Football Club, GEN, city:genoa
+sampdoria,    Unione Calcio Sampdoria|Sampdoria Genoa, SAM, city:genoa
+
+juventus,     Juventus Football Club|Juventus FC|Juventus Torino, JUV,  city:torino
+torino,       Torino Football Club|Torino FC,  TOR, city:torino
+
+napoli,       SSC Napoli|Società Sportiva Calcio Napoli,   NAP,      city:napoli
+
+
+atalanta,     Atalanta Bergamasca Calcio|Atalanta|Atalanta Bergamo|Atalanta BC, ATA,  city:bergamo
+bologna,      Bologna|FC Bologna, Bologna Football Club 1909,  BOL, city:bologna
+cagliari,     Cagliari Calcio,  CAG, city:cagliari
+catania,      Calcio Catania,   CAT, city:catania
+verona,       Chievo Verona|Associazione Calcio Chievo Verona, CHI, city:verona
+fiorentina,   ACF Fiorentina|AC Firenze|Associazione Calcio Firenze Fiorentina, FIO, city:firenze
+
+
+palermo,      Palermo|US Palermo|Unione Sportiva Città di Palermo, PAL, city:palermo
+parma,        Parma FC|Parma Football Club, PAR, city:parma
+pescara,      Pescara Calcio|Delfino Pescara 1936,  PES,  city:pescara
+
+siena,        AC Siena|Associazione Calcio Siena, SIE, city:siena
+
+udinese,      Udinese Calcio, UDI, city:udine

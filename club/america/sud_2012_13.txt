@@ -1,0 +1,49 @@
+#################################
+## Copa Sudamericana 2012/13
+
+###
+## fix: time zone and times??
+
+
+1. Runde // Achtelfinale - Hinspiele
+
+2012-09-26 12:00  Deportivo Quito  2:0   CA Tigre
+2012-09-26 12:00  Independiente   2:1   Liverpool FC Montevideo
+2012-09-27 12:00  Barcelona SC Guayaquil   0:1  Grêmio
+2012-09-27 12:00  LDU de Loja   1:1  São Paulo FC
+2012-09-28 12:00  CA Colón   1:2    Cerro Porteño
+2012-10-03 12:00  U. de Chile   2:2  CS Emelec
+2012-10-03 12:00  Palmeiras   3:1   Millonarios Bogotá
+2012-10-04 12:00  Universidad Católica  2:0   Atlético Goianiense
+
+
+2. Runde // Achtelfinale - Rückspiele
+
+2012-10-24 12:00  Atlético Goianiense   3:1   Universidad Católica
+2012-10-24 12:00  Millonarios Bogotá    3:0   Palmeiras
+2012-10-24 12:00  Cerro Porteño         2:1   CA Colón
+2012-10-25 12:00  Grêmio                2:1   Barcelona SC Guayaquil
+2012-10-25 12:00  São Paulo FC             0:0   LDU de Loja
+2012-10-26 12:00  CS Emelec                0:1   U. de Chile
+2012-10-26 12:00  CA Tigre              4:0   Deportivo Quito
+2012-10-26 12:00  Liverpool FC Montevideo   1:2   Independiente
+
+
+3. Runde // Viertelfinale - Hinspiele
+
+2012-10-31 12:00  Grêmio          1:0   Millonarios Bogotá
+2012-11-01 12:00  Cerro Porteño   1:0   CA Tigre
+2012-11-01 12:00  U. de Chile     0:2   São Paulo FC
+2012-11-02 12:00  Independiente   2:2   Universidad Católica
+
+
+4. Runde // Viertelfinale - Rückspiele
+
+2012-11-07 12:00  CA Tigre       4:2  Cerro Porteño  
+2012-11-07 12:00  São Paulo FC    5:0  U. de Chile
+2012-11-07 12:00  Universidad Católica 2:1  Independiente
+2012-11-07 12:00  Millonarios      -  Grêmio
+
+
+
+

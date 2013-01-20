@@ -1,0 +1,228 @@
+
+## todo: use  Time.cst('2012-07-27 19:30') for timezone
+## todo: add jornada for rounds as option
+
+# Los horarios son correspondientes al Tiempo del Centro de México (UTC −6 y UTC −5 en horario de verano)
+#
+# see http://es.wikipedia.org/wiki/Torneo_Apertura_2012_(México)
+
+Jornada 1  // 20, 21 y 22 de julio
+
+2012-07-20 19:30 Chiapas 0 - 4 Tigres
+2012-07-20 19:30 Tijuana 2 - 0 Puebla
+2012-07-21 17:00 Querétaro 0 - 2 León
+2012-07-21 17:00 Cruz Azul 0 - 0 Morelia
+2012-07-21 19:00 Santos 2 - 1 San Luis
+2012-07-21 19:00 Monterrey 0 - 0 América
+2012-07-21 21:00 Atlas 1 - 1 UNAM
+2012-07-22 12:00 Toluca 2 - 1 Guadalajara
+2012-07-22 18:00 Atlante 0 - 0 Pachuca
+
+
+Jornada 2   // 27, 28 y 29 de julio
+
+2012-07-27 19:30 Morelia 1 - 0 Monterrey
+2012-07-27 21:30 León 4 - 0 Tijuana
+2012-07-28 17:00 América 4 - 2 Chiapas
+2012-07-28 19:00 Pachuca 0 - 3 Atlas
+2012-07-28 19:00 Tigres 2 - 1 Atlante
+2012-07-28 21:00 San Luis 1 - 2 Cruz Azul
+2012-07-29 12:00 Puebla 1 - 3 Toluca
+2012-07-29 12:00 UNAM 3 - 0 Querétaro
+2012-07-29 17:00 Guadalajara 0 - 1 Santos
+
+
+Jornada 3   // 3, 4, y 5 de agosto
+
+2012-08-03 19:00 Santos 2 - 2 Puebla
+2012-08-03 17:30 Tijuana 1 - 0 UNAM
+2012-08-03 21:30 Morelia 3 - 3 San Luis
+2012-08-04 17:00 Cruz Azul 0 - 0 Guadalajara
+2012-08-04 17:00 Querétaro 0 - 1 Pachuca
+2012-08-04 19:00 Monterrey 2 - 1 Chiapas
+2012-08-04 21:00 Atlas 0 - 0 Tigres
+2012-08-05 12:00 Toluca 2 - 1 León
+2012-08-05 18:00 Atlante 2 - 2 América
+
+
+Jornada 4   // 10, 11 y 12 de agosto
+
+2012-08-10 19:30 Chiapas 1 - 2 Atlante
+2012-08-10 21:30 León 3 - 0 Santos
+2012-08-11 17:00 América 1 - 1 Atlas
+2012-08-11 19:00 Pachuca 2 - 2 Tijuana
+2012-08-11 19:00 Tigres 2 - 2 Querétaro
+2012-08-11 21:00 San Luis 1 - 1 Monterrey
+2012-08-12 12:00 Puebla 0 - 1 Cruz Azul
+2012-08-12 12:00 UNAM 1 - 2 Toluca
+2012-08-12 17:00 Guadalajara 1 - 1 Morelia
+
+
+Jornada 5   // 17, 18 y 19 de agosto
+
+2012-08-17 17:30 Tijuana 2 - 1 Tigres
+2012-08-17 21:30 Morelia 3 - 0 Puebla
+2012-08-17 21:30 Cruz Azul 1 - 1 León
+2012-08-18 17:00 Querétaro 0 - 4 América
+2012-08-18 19:00 Santos 1 - 2 UNAM
+2012-08-18 19:00 Monterrey 1 - 1 Atlante
+2012-08-18 21:00 San Luis 0 - 1 Guadalajara
+2012-08-18 21:00 Atlas 1 - 1 Chiapas
+2012-08-19 12:00 Toluca 1 - 0 Pachuca
+
+
+Jornada 6   // 24, 25 y 26 de agosto
+
+2012-08-24 19:30 Chiapas 2 - 1 Querétaro
+2012-08-24 20:30 León 1 - 3 Morelia
+2012-08-25 17:00 América 0 - 1 Tijuana
+2012-08-25 19:00 Pachuca 0 - 0 Santos
+2012-08-25 19:00 Tigres 1 - 1 Toluca
+2012-08-26 12:00 Puebla 1 - 0 San Luis
+2012-08-26 12:00 UNAM 0 - 1 Cruz Azul
+2012-08-26 17:00 Guadalajara 1 - 2 Monterrey
+2012-08-26 18:00 Atlante 1 - 0 Atlas
+
+
+Jornada 7   // 31 de agosto, 1 y 2 de septiembre
+
+2012-08-31 17:30 Tijuana 2 - 0 Chiapas
+2012-08-31 21:30 Morelia 0 - 1 UNAM
+2012-09-01 17:00 Cruz Azul 1 - 1 Pachuca
+2012-09-01 17:00 Querétaro 0 - 1 Atlante
+2012-09-01 19:00 Santos 3 - 1 Tigres
+2012-09-01 19:00 Monterrey 1 - 1 Atlas
+2012-09-01 21:00 San Luis 0 - 2 León
+2012-09-02 12:00 Toluca 1 - 1 América
+2012-09-02 17:00 Guadalajara 1 - 1 Puebla
+
+
+Jornada 8   // 14, 15 y 16 de septiembre
+
+2012-09-14 19:30 Chiapas 2 - 0 Toluca
+2012-09-14 19:30 Pachuca 3 - 2 Morelia
+2012-09-14 21:30 León 1 - 2 Guadalajara
+2012-09-15 17:00 América 2 - 0 Santos
+2012-09-15 19:00 Tigres 2 - 0 Cruz Azul
+2012-09-15 21:00 Atlas 0 - 0 Querétaro
+2012-09-16 12:00 Puebla 2 - 3 Monterrey
+2012-09-16 12:00 UNAM 0 - 1 San Luis
+2012-09-16 18:00 Atlante 1 - 2 Tijuana
+
+
+Jornada  9 // 21, 22 y 23 de septiembre
+
+2012-09-21 19:30 Puebla 1 - 1 León
+2012-09-21 21:30 Morelia 1 - 1 Tigres
+2012-09-22 17:00 Cruz Azul 1 - 1 América
+2012-09-22 19:00 Santos 0 - 0 Chiapas
+2012-09-22 19:00 Monterrey 3 - 2 Querétaro
+2012-09-22 19:00 San Luis 1 - 0 Pachuca
+2012-09-22 19:30 Tijuana 1 - 1 Atlas
+2012-09-23 12:00 Toluca 1 - 0 Atlante
+2012-09-23 17:00 Guadalajara 0 - 0 UNAM
+
+
+Jornada  10 // 28, 29 y 30 de septiembre
+
+2012-09-28 19:30 Chiapas 1 - 0 Cruz Azul
+2012-09-28 21:30 León 2 - 0 Monterrey
+2012-09-29 17:00 América 1 - 1 Morelia
+2012-09-29 17:00 Querétaro 0 - 1 Tijuana
+2012-09-29 19:00 Pachuca 1 - 0 Guadalajara
+2012-09-29 19:00 Tigres 0 - 0 San Luis
+2012-09-29 21:00 Atlas 1 - 3 Toluca
+2012-09-30 12:00 UNAM 2 - 1 Puebla
+2012-09-30 18:00 Atlante 1 - 3 Santos
+
+
+Jornada  11 // 2, 3 y 4 de octubre
+
+2012-10-02 19:00 Guadalajara 2 - 1 Tigres
+2012-10-02 20:30 San Luis 1 - 2 América
+2012-10-03 19:00 Puebla 2 - 0 Pachuca
+2012-10-03 19:00 Toluca 4 - 1 Querétaro
+2012-10-03 19:00 Cruz Azul 4 - 0 Atlante
+2012-10-03 20:00 Santos 2 - 1 Atlas
+2012-10-03 20:30 León 2 - 1 UNAM
+2012-10-03 21:00 Monterrey 1 - 1 Tijuana
+2012-10-04 20:00 Morelia 1 - 1 Chiapas
+
+
+Jornada  12 // 6 y 7 de octubre
+
+2012-10-06 17:00 América 1 - 3 Guadalajara
+2012-10-06 19:00 Querétaro 1 - 1 Santos
+2012-10-06 19:00 Pachuca 1 - 1 León
+2012-10-06 19:00 Tigres 1 - 2 Puebla
+2012-10-06 21:00 Atlas 1 - 1 Cruz Azul
+2012-10-07 12:00 UNAM 3 - 2 Monterrey
+2012-10-07 17:00 Chiapas 4 - 0 San Luis
+2012-10-07 18:00 Atlante 2 - 2 Morelia
+2012-10-07 18:00 Tijuana 1 - 0 Toluca
+
+
+Jornada  13 // 12, 13 y 14 de octubre
+
+2012-10-13 17:00 Cruz Azul 3 - 2 Querétaro
+2012-10-13 19:00 León 2 - 0 Tigres
+2012-10-13 19:00 Santos 2 - 2 Tijuana
+2012-10-13 19:00 San Luis 2 - 2 Atlante
+2012-10-14 12:00 UNAM 1 - 0 Pachuca
+2012-10-14 17:00 Guadalajara 1 - 1 Chiapas
+2012-10-23 20:30 Morelia 2 - 0 Atlas
+2012-10-25 21:00 Puebla 0 - 1 América
+2012-11-07 20:30 Monterrey 2 - 2 Toluca
+
+
+Jornada  14 // 19, 20 y 21 de octubre
+
+2012-10-19 19:30 Chiapas 2 - 0 Puebla
+2012-10-19 19:30 Tijuana 2 - 2 Cruz Azul
+2012-10-20 17:00 América 2 - 1 León
+2012-10-20 17:00 Querétaro 1 - 2 Morelia
+2012-10-20 19:00 Pachuca 1 - 1 Monterrey
+2012-10-20 19:00 Tigres 5 - 0 UNAM
+2012-10-20 21:00 Atlas 2 - 3 San Luis
+2012-10-21 12:00 Toluca 4 - 1 Santos
+2012-10-21 18:00 Atlante 3 - 1 Guadalajara
+
+
+Jornada  15 // 26, 27 y 28 de octubre
+
+2012-10-26 21:30 León 4 - 1 Chiapas
+2012-10-27 17:00 Cruz Azul 3 - 0 Toluca
+2012-10-27 17:00 San Luis 0 - 0 Querétaro
+2012-10-27 19:00 Morelia 1 - 1 Tijuana
+2012-10-27 19:00 Pachuca 1 - 0 Tigres
+2012-10-27 19:00 Monterrey 3 - 2 Santos
+2012-10-28 12:00 UNAM 0 - 1 América
+2012-10-28 12:00 Puebla 1 - 2 Atlante
+2012-10-28 17:00 Guadalajara 2 - 0 Atlas
+
+
+Jornada  16 // 2, 3 y 4 de noviembre
+
+2012-11-02 19:30 Chiapas 3 - 0 UNAM
+2012-11-02 21:30 Santos 2 - 1 Cruz Azul
+2012-11-03 17:00 América 4 - 0 Pachuca
+2012-11-03 17:00 Querétaro 0 - 1 Guadalajara
+2012-11-03 19:00 Monterrey 0 - 1 Tigres
+2012-11-03 18:30 Tijuana 0 - 0 San Luis
+2012-11-04 12:00 Toluca 0 - 0 Morelia
+2012-11-04 16:00 Atlas 2 - 2 Puebla
+2012-11-04 18:00 Atlante 2 - 3 León
+
+
+Jornada  17 // 9, 10 y 11 de noviembre
+
+2012-11-09 21:30 León 3 - 1 Atlas
+2012-11-09 21:30 Morelia 2 - 0 Santos
+2012-11-10 17:00 Cruz Azul 1 - 1 Monterrey
+2012-11-10 19:00 Tigres 1 - 1 América
+2012-11-10 19:00 Pachuca 2 - 1 Chiapas
+2012-11-10 21:00 San Luis 0 - 2 Toluca
+2012-11-11 12:00 UNAM 3 - 2 Atlante
+2012-11-11 12:00 Puebla 0 - 1 Querétaro
+2012-11-11 17:00 Guadalajara 0 - 2 Tijuana
+

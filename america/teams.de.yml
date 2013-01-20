@@ -1,0 +1,26 @@
+# encoding: utf-8
+
+##############
+## south america
+
+arg: Argentinien
+bra: Brasilien
+chi: Chile
+par: Paraguay
+uru: Uruguay
+col: Kolumbien
+ecu: Ecuador
+per: Peru
+ven: Venezuela
+bol: Bolivien
+
+
+#####################
+#### north/central america & caribbean islands
+
+mex: Mexiko
+usa: Vereinigte Staaten
+hon: Honduras
+crc: Costa Rica
+slv: El Salvador
+guy: Guyana

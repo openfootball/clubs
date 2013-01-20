@@ -1,0 +1,9 @@
+
+tigre,         Club Atlético Tigre|CA Tigre|Tigre
+colon,         CA Colón|Club Atlético Colón (Santa Fe)
+independiente, Independiente|CA Independiente de Avellaneda
+bocajuniors,   Club Atlético Boca Juniors|Boca Juniors
+velez,         Club Atlético Vélez Sarsfield|CA Vélez
+
+
+

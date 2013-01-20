@@ -1,0 +1,36 @@
+# encoding: utf-8
+
+pol: Polen
+gre: Griechenland
+rus: Russland
+cze: Tschechien
+ned: Niederlande
+den: Dänemark
+ger: Deutschland
+por: Portugal
+esp: Spanien
+ita: Italien
+irl: Irland
+cro: Kroatien
+ukr: Ukraine
+swe: Schweden
+fra: Frankreich
+eng: England
+
+## some more teams for wm quali
+
+fro: Färöer|Färöer Inseln
+kaz: Kasachstan
+aut: Österreich
+blr: Weißrussland
+fin: Finnland
+geo: Georgien
+  
+## some more teams for wm 2010
+
+sui: Schweiz
+srb: Serbien
+svn: Slowenien
+svk: Slowakei
+tur: Türkei
+rou: Rumänien

@@ -1,0 +1,29 @@
+# Liguilla Clausura 2013
+
+
+Cuartos de Final / Ida      // 8 y 9 de mayo
+
+# add fixtures here
+
+Cuartos de Final / Vuelta   // 11 y 12 de mayo
+
+# add fixtures here
+
+
+Semifinal / Ida             // 15 y 16 de mayo
+
+# add fixtures here
+
+Semifinal / Vuelta          // 18 y 19 de mayo
+
+# add fixtures here
+
+
+Final / Ida                 // 23 de mayo
+
+# add fixtures here
+
+Final / Vuelta              // 26 de mayo
+
+# add fixtures here
+

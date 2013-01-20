@@ -1,0 +1,15 @@
+
+
+saopaulo,   São Paulo FC|São Paulo|FC São Paulo|São Paulo SP
+gremio,     Grêmio Porto Alegre|Grêmio|Grêmio RS
+palmeiras,  SE Palmeiras São Paulo|SE Palmeiras|Palmeiras|Palmeiras SP
+atleticogo,  Atlético Goianiense|Atlético GO
+corinthians, Corinthians São Paulo|Corinthians|Corinthians SP
+santos,        FC Santos|Santos|Santos SP
+internacional, Internacional Porto Alegre|Internacional|Internacional RS
+fluminense,    Fluminense Rio de Janeiro|Fluminense|Fluminense RJ
+flamengo, Flamengo Rio de Janeiro|Flamengo|Flamengo RJ
+vascodegama, Vasco da Gama Rio de Janeiro|Vasco|Vasco Da Gama RJ
+
+
+

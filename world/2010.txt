@@ -1,0 +1,215 @@
+############################
+##  World Cup 2010
+ 
+
+######
+# Groups
+
+Gruppe A  |  Südafrika    Mexiko              Uruguay          Frankreich
+Gruppe B  |  Argentinien  Nigeria             Südkorea         Griechenland
+Gruppe C  |  England      Vereinigte Staaten  Algerien         Slowenien
+Gruppe D  |  Deutschland  Australien          Serbien          Ghana
+Gruppe E  |  Niederlande  Dänemark            Japan            Kamerun
+Gruppe F  |  Italien      Paraguay            Neuseeland       Slowakei
+Gruppe G  |  Brasilien    Nordkorea           Elfenbeinküste   Portugal
+Gruppe H  |  Spanien      Schweiz             Honduras         Chile
+
+
+################
+## Gruppe A
+
+1. Spieltag / Gruppe A
+
+(1) Fr  2010-06-11 16:00    Südafrika - Mexiko     1:1
+(2) Fr  2010-06-11 20:30    Uruguay - Frankreich   0:0
+ 
+6. Spieltag / Gruppe A
+
+(17) Mi  2010-06-16 20:30    Südafrika - Uruguay    0:3
+
+7. Spieltag / Gruppe A
+
+(18) Do  2010-06-17 20:30    Frankreich - Mexiko    0:2
+
+12. Spieltag / Gruppe A
+
+(33) Di  2010-06-22 16:00    Mexiko     - Uruguay    0:1
+(34) Di  2010-06-22 16:00    Frankreich - Südafrika  1:2
+
+#################
+## Gruppe B
+
+2. Spieltag / Gruppe B
+
+(4) Sa  2010-06-12 13:30    Südkorea - Griechenland   2:0
+(3) Sa  2010-06-12 16:00    Argentinien - Nigeria   1:0
+
+7. Spieltag / Gruppe B
+
+(20) Do  2010-06-17 13:30    Argentinien - Südkorea  4:1
+(19) Do  2010-06-17 16:00    Griechenland - Nigeria  2:1
+
+12. Spieltag / Gruppe B
+
+(35) Di  2010-06-22 20:30    Nigeria - Südkorea  2:2
+(36) Di  2010-06-22 20:30    Griechenland - Argentinien  0:2
+
+#################
+## Gruppe C
+
+2. Spieltag / Gruppe C
+
+(5) Sa  2010-06-12 20:30    England - USA   1:1
+
+3. Spieltag / Gruppe C
+
+(6) So  2010-06-13 13:30    Algerien - Slowenien  0:1
+
+8. Spieltag / Gruppe C
+
+(22) Fr  2010-06-18 16:00    Slowenien - USA   2:2
+(23) Fr  2010-06-18 20:30    England - Algerien  0:0
+
+13. Spieltag / Gruppe C
+
+(38) Mi  2010-06-23 16:00    USA - Algerien  1:0
+(37) Mi  2010-06-23 16:00    Slowenien - England  0:1
+
+################
+## Gruppe D
+
+3. Spieltag / Gruppe D
+
+(8) So   2010-06-13 16:00    Serbien - Ghana   0:1
+(7) So   2010-06-13 20:30    Deutschland - Australien  4:0
+
+8. Spieltag / Gruppe D
+
+(21) Fr  2010-06-18 13:30    Deutschland - Serbien  0:1
+
+9. Spieltag / Gruppe D
+
+(24) Sa   2010-06-19 16:00    Ghana - Australien  1:1
+
+13. Spieltag / Gruppe D
+
+(40) Mi   2010-06-23 20:30    Australien - Serbien  2:1
+(39) Mi   2010-06-23 20:30    Ghana - Deutschland  0:1
+
+##############
+## Gruppe E
+
+4. Spieltag / Gruppe E
+
+(9) Mo    2010-06-14 13:30   Niederlande - Dänemark  2:0
+(10) Mo   2010-06-14 16:00   Japan - Kamerun  1:0
+
+9. Spieltag / Gruppe E
+
+(25) Sa   2010-06-19 13:30   Niederlande - Japan  1:0
+(26) Sa   2010-06-19 20:30   Kamerun - Dänemark  1:2
+
+14. Spieltag / Gruppe E
+
+(43) Do    2010-06-24 20:30   Dänemark - Japan   1:3
+(44) Do    2010-06-24 20:30   Kamerun - Niederlande   1:2
+
+##################
+## Gruppe F
+
+4. Spieltag / Gruppe F
+
+(11) Mo    2010-06-14 20:30   Italien - Paraguay  1:1
+
+5. Spieltag / Gruppe F
+
+(12) Di    2010-06-15 13:30   Neuseeland - Slowakei   1:1
+
+10. Spieltag / Gruppe F
+
+(27) So   2010-06-20 13:30   Slowakei - Paraguay   0:2
+(28) So   2010-06-20 16:00   Italien - Neuseeland  1:1
+
+14. Spieltag / Gruppe F
+
+(41) Do  2010-06-24 16:00   Slowakei - Italien   3:2
+(42) Do  2010-06-24 16:00   Paraguay - Neuseeland   0:0
+
+########################
+## Gruppe G
+
+5. Spieltag / Gruppe G
+
+(13) Di  2010-06-15 16:00   Elfenbeinküste - Portugal  0:0
+(14) Di  2010-06-15 20:30   Brasilien - Nordkorea   2:1
+
+10. Spieltag / Gruppe G
+
+(29) So  2010-06-20 20:30   Brasilien - Elfenbeinküste  3:1
+
+11. Spieltag / Gruppe G
+
+(30) Mo   2010-06-21 13:30   Portugal - Nordkorea   7:0
+
+15. Spieltag / Gruppe G
+
+(45) Fr   2010-06-25 16:00   Portugal - Brasilien  0:0
+(46) Fr   2010-06-25 16:00   Nordkorea - Elfenbeinküste  0:3
+
+
+#####################
+## Gruppe H
+
+6. Spieltag / Gruppe H
+
+(15) Mi   2010-06-16 13:30   Honduras - Chile  0:1
+(16) Mi   2010-06-16 16:00   Spanien - Schweiz  0:1
+
+11. Spieltag / Gruppe H
+
+(31) Mo   2010-06-21 16:00   Chile - Schweiz  1:0
+(32) Mo   2010-06-21 20:30   Spanien - Honduras  2:0
+
+15. Spieltag / Gruppe H
+
+(47) Fr   2010-06-25 20:30   Chile - Spanien  1:2
+(48) Fr   2010-06-25 20:30   Schweiz - Honduras  0:0
+
+
+####
+## Finalrunde // Knockout stage
+
+16. Runde //  Achtelfinale // Round of 16
+
+(49) Sa   2010-06-26 16:00   Uruguay -  Südkorea  2:1
+(50) Sa   2010-06-26 20:30   Vereinigte Staaten - Ghana  1:1 1:2nV
+(51) So   2010-06-27 16:00   Deutschland - England 4:1
+(52) So   2010-06-27 20:30   Argentinien - Mexiko 3:1
+(53) Mo   2010-06-28 16:00   Niederlande - Slowakei 2:1
+(54) Mo   2010-06-28 20:30   Brasilien - Chile 3:0
+(55) Di   2010-06-29 16:00   Paraguay - Japan  0:0 0:0nV 5:3iE
+(56) Di   2010-06-29 20:30   Spanien - Portugal 1:0
+
+
+17. Runde //  Viertelfinale // Quarter-finals
+
+(57) Fr   2010-07-02 16:00   Niederlande - Brasilien  2:1
+(58) Fr   2010-07-02 20:30   Uruguay - Ghana   1:1 1:1nV 4:2iE
+(59) Sa   2010-07-03 16:00   Argentinien - Deutschland  0:4
+(60) Sa   2010-07-03 20:30   Paraguay - Spanien  0:1
+
+
+18. Runde //  Halbfinale // Semi-finals
+
+(61) Di   2010-07-06 20:30   Uruguay - Niederlande  2:3
+(62) Mi   2010-07-07 20:30   Deutschland - Spanien  0:1
+
+
+19. Runde //  Spiel um Platz 3 // Third-place play-off
+
+(63) Sa  2010-07-10 20:30  Uruguay - Deutschland  2:3
+
+
+20. Runde // Finale // Final
+
+(64) So   2010-07-11 20:30  Niederlande - Spanien  0:0 0:1nV

@@ -1,0 +1,25 @@
+# encoding: utf-8
+
+########################
+## africa
+  
+alg, Algerien,       ALG, dz
+civ, Elfenbeinküste, CIV, ci
+gha, Ghana,          GHA, gh
+cmr, Kamerun,        CMR, cm
+nga, Nigeria,        NGA, ng
+rsa, Südafrika,      RSA, za
+
+
+#############################
+## asia w/ australia
+
+aus, Australien, AUS, au
+jpn, Japan,      JPN, jp
+prk, Nordkorea,  PRK, kp
+kor, Südkorea, KOR, kr
+
+###############################
+## oceania
+  
+nzl, Neuseeland, NZL, nz

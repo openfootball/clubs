@@ -1,0 +1,134 @@
+# 
+# Champions League CONCACAF
+#  - CONCACAF = North/Central America & Carribean
+#
+# see http://en.wikipedia.org/wiki/2011-12_CONCACAF_Champions_League
+#     http://es.wikipedia.org/wiki/Concacaf_Liga_Campeones_2011-2012
+#
+#
+# Dates           July 26, 2011 – April 25, 2012
+# Teams           24 (from 12 associations)
+# Matches played  78
+#
+# NB: Does NOT include preliminary round 
+
+######
+# Groups
+
+Group A |  Los Angeles Galaxy    Morelia              Alajuelense       Motagua
+Group B |  Santos Laguna         Isidro Metapán       Colorado Rapids   Real España
+Group C |  UNAM                  Toronto FC           FC Dallas         Tauro
+Group D |  Monterrey             Seattle Sounders FC  Comunicaciones    Herediano
+
+
+################
+## Group A
+
+Matchday 1 / Group A //  August 16–18, 2011
+
+2011-08-16  Los Angeles Galaxy  2:0  Motagua
+2011-08-16  Alajuelense         1:0  Monarcas Morelia
+
+
+Matchday 2 / Group A //  August 23–25, 2011
+
+2011-08-25  Los Angeles Galaxy  2:0  Alajuelense
+2011-08-25  Monarcas Morelia    4:0  Motagua
+
+
+Matchday 3 / Group A //  September 13–15, 2011
+
+2011-09-13  Monarcas Morelia    2:1  Los Angeles Galaxy
+2011-09-15  Motagua             2:4  Alajuelense
+
+
+Matchday 4 / Group A //  September 20–22, 2011
+
+2011-09-21  Alajuelense         1:0  Los Angeles Galaxy
+2011-09-22  Motagua             0:2  Monarcas Morelia
+
+
+Matchday 5 / Group A //  September 27–29, 2011
+
+2011-09-28  Los Angeles Galaxy  2:1  Monarcas Morelia
+2011-09-29  Alajuelense         1:0  Motagua
+
+
+Matchday 6 / Group A //  October 18–20, 2011
+
+2011-10-18  Monarcas Morelia    2:1  Alajuelense
+2011-10-20  Motagua             0:1  Los Angeles Galaxy
+
+
+################
+## Group B
+
+Matchday 1 / Group A //  August 16–18, 2011
+Matchday 2 / Group A //  August 23–25, 2011
+Matchday 3 / Group A //  September 13–15, 2011
+Matchday 4 / Group A //  September 20–22, 2011
+Matchday 5 / Group A //  September 27–29, 2011
+Matchday 6 / Group A //  October 18–20, 2011
+
+################
+## Group C
+
+Matchday 1 / Group A //  August 16–18, 2011
+Matchday 2 / Group A //  August 23–25, 2011
+Matchday 3 / Group A //  September 13–15, 2011
+Matchday 4 / Group A //  September 20–22, 2011
+Matchday 5 / Group A //  September 27–29, 2011
+Matchday 6 / Group A //  October 18–20, 2011
+
+################
+## Group D
+
+Matchday 1 / Group A //  August 16–18, 2011
+Matchday 2 / Group A //  August 23–25, 2011
+Matchday 3 / Group A //  September 13–15, 2011
+Matchday 4 / Group A //  September 20–22, 2011
+Matchday 5 / Group A //  September 27–29, 2011
+Matchday 6 / Group A //  October 18–20, 2011
+
+
+###################
+# Knockout Stage
+
+
+
+Quarterfinals / 1st Leg //  March 6–8, 2012
+
+2012-03-06 Morelia           1 - 3  Monterrey
+2012-03-07 Toronto           2 - 2  LA Galaxy
+2012-03-07 Seattle Sounders  2 - 1  Santos Laguna
+2012-03-08 Metapán           2 - 1  Pumas
+
+
+Quarterfinals / 2nd Leg //  March 13–15, 2012
+
+2012-03-13 Monterrey      4 - 1  Morelia
+2012-03-14 LA Galaxy      1 - 2  Toronto
+2012-03-14 Santos Laguna  6 - 1  Seattle Sounders
+2012-03-15 Pumas          8 - 0  Metapán
+
+
+Semifinals / 1st Leg //   March 27–29, 2012
+
+2012-03-28 Toronto    1 - 1  Santos Laguna
+2012-03-28 Monterrey  3 - 0  Pumas
+
+
+Semifinals / 2nd Leg //   April 3–5, 2012
+
+2012-04-04 Santos Laguna  6 - 2  Toronto
+2012-04-04 Pumas          1 - 1  Monterrey
+
+
+
+Finals / 1st Leg   //   April 17–19, 2012
+
+2012-04-18 Monterrey  2 - 0  Santos Laguna
+
+Finals / 2nd Leg   //   April 24–26, 2012
+
+2012-04-25 Santos Laguna  2 - 1  Monterrey

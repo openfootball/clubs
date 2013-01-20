@@ -1,0 +1,114 @@
+#########################################################
+##  Euro 2008  Austria-Switzerland (7 June - 29 June)
+
+
+############
+# Groups
+#
+
+Gruppe A  |  Schweiz       Tschechien  Portugal     Türkei
+Gruppe B  |  Österreich    Kroatien    Deutschland  Polen
+Gruppe C  |  Niederlande   Italien     Rumänien     Frankreich
+Gruppe D  |  Griechenland  Schweden    Spanien      Russland
+
+
+##################
+## Gruppenphase  / Group stage
+
+#########
+# Gruppe A
+
+1. Runde / Gruppe A
+
+2008-06-07 18:00   Schweiz     -  Tschechien    0:1
+2008-06-07 20:45   Portugal    -  Türkei        2:0
+
+2. Runde / Gruppe A
+
+2008-06-11 18:00   Tschechien  -  Portugal      1:3
+2008-06-11 20:45   Schweiz     -  Türkei        1:2
+
+3. Runde / Gruppe A
+
+2008-06-15 20:45   Schweiz     -  Portugal      2:0
+2008-06-15 20:45   Türkei      -  Tschechien    3:2
+
+
+#######
+# Gruppe B
+
+1. Runde / Gruppe B
+
+2008-06-08 18:00   Österreich  -  Kroatien     0:1
+2008-06-08 20:45   Deutschland -  Polen        2:0
+
+2. Runde / Gruppe B
+
+2008-06-12 18:00   Kroatien    -  Deutschland  2:1
+2008-06-12 20:45   Österreich  -  Polen        1:1
+
+3. Runde / Gruppe B
+
+2008-06-16 20:45   Polen       -  Kroatien     0:1
+2008-06-16 20:45   Österreich  -  Deutschland  0:1
+
+
+###########
+# Gruppe C
+
+1. Runde / Gruppe C
+
+2008-06-09 18:00  Rumänien     -    Frankreich  0:0
+2008-06-09 20:45  Niederlande  -    Italien     3:0
+
+2. Runde / Gruppe C
+
+2008-06-13 18:00  Italien      -    Rumänien    1:1
+2008-06-13 20:45  Niederlande  -    Frankreich  4:1
+
+3. Runde / Gruppe C
+
+2008-06-17 20:45  Niederlande  -    Rumänien    2:0
+2008-06-17 20:45  Frankreich   -    Italien     0:2
+
+
+############
+# Gruppe D
+
+1. Runde / Gruppe D
+
+2008-06-10 18:00  Spanien       -    Russland   4:1
+2008-06-10 20:45  Griechenland  -    Schweden   0:2
+
+2. Runde / Gruppe D
+
+2008-06-14 18:00  Schweden      -    Spanien    1:2
+2008-06-14 20:45  Griechenland  -    Russland   0:1
+
+3. Runde / Gruppe D
+
+2008-06-18 20:45  Griechenland  -    Spanien    1:2
+2008-06-18 20:45  Russland      -    Schweden   2:0
+
+
+#################
+# Finalrunde / Knockout phase
+
+
+4. Runde // Viertelfinale /  Quarter-finals
+
+Do 2008-06-19 20:45   Portugal    -    Deutschland   2:3
+Fr 2008-06-20 20:45   Kroatien    -    Türkei        1:3iE  1:1nV  0:0
+Sa 2008-06-21 20:45   Niederlande -    Russland      1:3nV  1:1
+So 2008-06-22 20:45   Spanien     -    Italien       4:2iE  0:0nV  0:0
+
+5. Runde // Halbfinale  / Semi-finals
+
+Mi 2008-06-25 20:45  Deutschland   -   Türkei   3:2
+Do 2008-06-26 20:45  Russland      -   Spanien  0:3
+
+
+6. Runde // Finale  /  Final
+
+So 2008-06-29 20:45   Deutschland  -   Spanien  0:1
+
