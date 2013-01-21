@@ -24,13 +24,13 @@ independiente, Independiente|CA Independiente de Avellaneda|Club Atlético Indep
 racing,        Racing|Racing Club,  city:buenosaires  # Avellaneda sits in the metropolitan area of the Greater Buenos Aires
 quilmes,       Quilmes|Quilmes AC|Quilmes Atlético Club,  city:buenosaires   # Quilmes is a city in the province of Buenos Aires
 lanus,         Lanús|Club Atlético Lanús,   city:buenosaires  #  Lanús is a city in  Greater Buenos Aires
-arsenal,       Arsenal|Arsenal FC|Arsenal Fútbol Club,  city:buenosaires #  Sarandí es una ciudad de la Zona Sur del Gran Buenos Aires
+arsenal,       Arsenal|Arsenal de Sarandí|Arsenal FC|Arsenal Fútbol Club,  city:buenosaires #  Sarandí es una ciudad de la Zona Sur del Gran Buenos Aires
 
 estudiantes,   Estudiantes|Estudiantes LP|Club Estudiantes de La Plata, city:laplata
 
 # Provincia Santa Fe
 
-colon,         Colón|CA Colón|Club Atlético Colón|Club Atlético Colón (Santa Fe), city:santafe
+colon,         Colón|Colón Santa Fe|CA Colón|Club Atlético Colón|Club Atlético Colón (Santa Fe), city:santafe
 union,         Unión|Unión Santa Fe|Club Atlético Unión,  city:santafe
 
 newells,       Newell's|N.O. Boys|Club Atlético Newell's Old Boys, city:rosario

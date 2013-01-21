@@ -1,0 +1,24 @@
+##################################
+# Gold Cup / Copa de Oro 2011
+#
+# see en.wikipedia.org/wiki/2011_CONCACAF_Gold_Cup
+#
+#  official -> www.goldcup.org or www.copaoro.org
+#
+#   United States, June 5–25, 2011
+#
+#   12 teams, 25 matches
+#
+#  every two years
+#
+#  North American zone   / 3 teams
+#  Central American zone / 5 teams
+#  Caribbean zone        / 4 teams
+
+
+
+Group A |  Mexico      Costa Rica      El Salvador    Cuba
+Group B |  Jamaica     Honduras        Guatemala      Grenada
+Group C |  Panama      United States   Canada         Guadeloupe
+
+
