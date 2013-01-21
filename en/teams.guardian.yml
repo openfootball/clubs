@@ -1,6 +1,7 @@
 ##
 ## team names as used in the guardian newspaper (england)
 ##  see www.guardian.co.uk/football/premierleague/tables
+##      www.guardian.co.uk/football/clubs
 
 ## premier league 20 teams
 
@@ -11,7 +12,7 @@ mancity:     Manchester City
 arsenal:     Arsenal
 everton:     Everton
 tottenham:   Tottenham Hotspur
-westbrom:    West Bromwich Albion
+westbrom:    West Brom
 westham:     West Ham United
 fulham:      Fulham
 newcastle:   Newcastle United
