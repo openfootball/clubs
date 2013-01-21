@@ -20,7 +20,27 @@ bol, Bolivia,     BOL, bo
 
 mex, Mexico,        MEX, mx
 usa, United States, USA, us
+can, Canada,        CAN, ca
+
+
+### central america
+
 hon, Honduras,      HON, hn
 crc, Costa Rica,    CRC, cr
 slv, El Salvador,   SLV, sv
+pan, Panama,        PAN, pa
+gua, Guatemala,     GUA, gt
+
+### caribbean islands
+
+jam, Jamaica,       JAM, jm
+cub, Cuba,          CUB, cu
+hai, Haiti,         HAI, ht
+
+tri, Trinidad and Tobago, TRI, tt
+grn, Grenada,       GRN, gd
+
 guy, Guyana,        GUY, gy
+
+gpe, Guadeloupe,    GPE, gp     # todo/fix: add to world db as dependency for france
+mtq, Martinique,    MTQ, mq     # todo/fix: add to world db as dependency for france
