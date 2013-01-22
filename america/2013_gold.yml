@@ -1,0 +1,44 @@
+##################################
+# Gold Cup / Copa de Oro 2013
+#
+# see http://en.wikipedia.org/wiki/2013_CONCACAF_Gold_Cup
+#
+# official -> www.goldcup.org or www.copaoro.org
+#
+#   United States, 7 July 2013 to 28 July 201
+#
+#   12 teams
+#
+#  every two years (12th edition)
+
+
+## fix: change time zone to ??
+
+
+league: gold
+season: 2013
+start_at: 2013-07-07 12:00
+
+##############
+# 12 Teams (fifa three-letter country codes)
+#
+# North American zone (3 teams)
+# - United States
+# - Mexico
+# - Canada
+#
+# Caribbean zone (4 teams)
+# - Cuba
+# - Trinidad and Tobago
+# - Haiti
+# - Martinique
+#
+# Central American zone (5 teams)
+# - Costa Rica
+# - ??
+# - ??
+# - ??
+# - ??
+
+
+teams: usa, mex, can, cub, tri, hai, mtq, crc

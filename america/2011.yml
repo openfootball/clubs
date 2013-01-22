@@ -1,8 +1,17 @@
 ##################################
-##  Copa América 2011 (Argentina)
+##  Copa América 2011 Argentina
+#    July 1 to July 24, 2011
 #
-#   more info -> http://en.wikipedia.org/wiki/2011_Copa_América
-#             -> http://de.wikipedia.org/wiki/Copa_América_2011
+#   more info -> en.wikipedia.org/wiki/2011_Copa_América
+#             -> de.wikipedia.org/wiki/Copa_América_2011
+#
+#   official -> ca2011.com
+#
+#  Teams:   12 (from 2 confederations)
+#  Matches: 26
+#
+#  every four years (next in 2015 in Chile)
+
 
 ## fix: change time zone to ??
 
@@ -14,17 +23,20 @@ start_at: 2011-07-01 12:00
 ##############
 # 12 Teams (fifa three-letter country codes)
 #
-#   - Argentien
-#   - Kolumbien
+#  South America (10 teams)
+#   - Argentia
+#   - Colombia
 #   - Uruguay
-#   - Brasilien
-#   - Mexiko
+#   - Brasil
 #   - Ecuador
 #   - Chile
 #   - Paraguay
 #   - Peru
 #   - Venezuela
-#   - Bolvien
+#   - Bolvia
+#
+# Invitees (2 teams)
+#   - Mexiko
 #   - Costa Rica
 
-teams: arg, col, uru, bra, mex, ecu, chi, par, per, ven, bol, crc
+teams: arg, col, uru, bra, ecu, chi, par, per, ven, bol, mex, crc
