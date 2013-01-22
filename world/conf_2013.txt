@@ -1,8 +1,9 @@
 ##############################
 #
 #  FIFA Confederations Cup 2013 - Brasil 
-#    - Dates:  15 June – 30 June
-#    - Teams:  8 (from 6 confederations)
+#    - Dates:   15 June – 30 June
+#    - Teams:   8 (from 6 confederations)
+#    - Matches: 16
 #
 #  see http://en.wikipedia.org/wiki/2013_FIFA_Confederations_Cup
 #
@@ -23,16 +24,17 @@ Group B  |  Spain       Uruguay      Tahiti       !!African Champion
 ############
 # Group A
 
-## todo: add match days / rounds
-# add japan n tahiti to teams ??
-
-# check w/ -> www.fifa.com/confederationscup/matches
+Matchday 1 / Group A
 
 (1)  2013-06-15 16:00   Brazil  -  Japan
 (2)  2013-06-16 16:00   Mexico  -  Italy
 
+Matchday 2 / Group A
+
 (5)  2013-06-19 16:00   Brazil  -  Mexico
 (6)  2013-06-19 19:00   Italy   -  Japan
+
+Matchday 3 / Group A
 
 (9)  2013-06-22 16:00   Italy   -  Brazil
 (10) 2013-06-22 16:00   Japan   -  Mexico
@@ -41,12 +43,17 @@ Group B  |  Spain       Uruguay      Tahiti       !!African Champion
 #############
 # Group B
 
+Matchday 1 / Group B
 
 (3)  2013-06-16 19:00   Spain    -  Uruguay
 (4)  2013-06-17 16:00   Tahiti   - !!African Champion
 
+Matchday 2 / Group B
+
 (7)  2013-06-20 16:00   Spain    -  Tahiti
 (8)  2013-06-20 19:00   !!African Champion  -  Uruguay
+
+Matchday 3 / Group B
 
 (11) 2013-06-23 16:00   !!African Champion  -  Spain
 (12) 2013-06-23 16:00   Uruguay  -  Tahiti

@@ -13,7 +13,6 @@
 
 
 
-
 ##########
 # Groups
 
@@ -24,24 +23,39 @@ Group B  |  Brazil     United States     Italy        Egypt
 ############
 # Group A
 
-## todo: add match days / rounds
-# add iraq n egypt to teams ??
+Matchday 1 / Group A
 
+(1)  2009-06-14 16:00  South Africa  0–0  Iraq
+(2)  2009-06-14 20:30  New Zealand   0–5  Spain
 
-(1)  2009-06-14 12:00  South Africa  0–0  Iraq
-(2)  2009-06-14 12:00  New Zealand   0–5  Spain
+Matchday 3 / Group A
 
-(5)  2009-06-17 12:00  Spain         1–0  Iraq
-(6)  2009-06-17 12:00  South Africa  2–0  New Zealand
+(5)  2009-06-17 16:00  Spain         1–0  Iraq
+(6)  2009-06-17 20:30  South Africa  2–0  New Zealand
 
-(9)  2009-06-20 12:00  Iraq          0–0  New Zealand
-(10) 2009-06-20 12:00  Spain         2–0  South Africa
+Matchday 5 / Group A
+
+(9)  2009-06-20 20:30  Iraq          0–0  New Zealand
+(10) 2009-06-20 20:30  Spain         2–0  South Africa
 
 
 ############
 # Group B
 
-# see -> http://www.fifa.com/tournaments/archive/confederationscup/southafrica2009/results/index.html
+Matchday 2 / Group B
+
+(3)  2009-06-15 16:00  Brazil         4–3  Egypt
+(4)  2009-06-15 20:30  United States  1–3  Italy
+
+Matchday 4 / Group B
+
+(7)  2009-06-18 16:00  United States  0–3  Brazil
+(8)  2009-06-18 20:30  Egypt          1–0  Italy
+
+Matchday 6 / Group B
+
+(11) 2009-06-21 20:30  Italy          0–3  Brazil
+(12) 2009-06-21 20:30  Egypt          0–3  United States
 
 
 ####################
@@ -49,12 +63,17 @@ Group B  |  Brazil     United States     Italy        Egypt
 
 Semi-finals
 
+(13) 2009-06-24 20:30  Spain   0–2  United States
+(14) 2009-06-25 20:30  Brazil  1–0  South Africa
 
 
 Third place play-off
 
+(15) 2009-06-28 15:00  Spain   2-2 3–2nV   South Africa
 
 
 Final
+
+(16) 2009-06-28 20:30  United States  2–3  Brazil
 
 

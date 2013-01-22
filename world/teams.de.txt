@@ -1,0 +1,28 @@
+# encoding: utf-8
+
+########################
+## africa
+  
+alg: Algerien
+civ: Elfenbeinküste
+gha: Ghana
+cmr: Kamerun
+nga: Nigeria
+rsa: Südafrika
+egy: Ägypten
+
+
+#############################
+## asia w/ australia
+
+aus: Australien
+jpn: Japan
+prk: Nordkorea
+kor: Südkorea
+irq: Iraq
+
+###############################
+## oceania
+  
+nzl: Neuseeland
+tah: Tahiti
