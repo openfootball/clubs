@@ -1,5 +1,7 @@
 ##############
-## south america
+## south america (10 teams)
+##
+## see www.fifa.com/worldcup/preliminaries/southamerica/teams
 
 arg, Argentina,   ARG, ar
 bra, Brasil,      BRA, br
@@ -12,9 +14,13 @@ per, Peru,        PER, pe
 ven, Venezuela,   VEN, ve
 bol, Bolivia,     BOL, bo
 
-
 #####################
-#### north/central america & caribbean islands
+## north/central america & caribbean islands (35 teams)
+##
+## see www.fifa.com/worldcup/preliminaries/nccamerica/teams
+
+
+### north america (3 teams)
 
 mex, Mexico,        MEX, mx
 usa, United States, USA, us
@@ -38,7 +44,10 @@ hai, Haiti,         HAI, ht
 tri, Trinidad and Tobago, TRI, tt
 grn, Grenada,       GRN, gd
 
-guy, Guyana,        GUY, gy
-
 gpe, Guadeloupe,    GPE, gp     # todo/fix: add to world db as dependency for france
 mtq, Martinique,    MTQ, mq     # todo/fix: add to world db as dependency for france
+
+
+## NB: guyana and suriname are part of north/central & caribbean
+
+guy, Guyana,        GUY, gy
