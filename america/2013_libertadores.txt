@@ -1,0 +1,17 @@
+#########################
+#  Copa Libertadores de América 2013
+#
+#  see en.wikipedia.org/wiki/2013_Copa_Libertadores
+#      es.wikipedia.org/wiki/Copa_Libertadores_2013
+#
+#  official -> www.conmebol.com/secciones/copa_santander_libertadores.html
+#              www.conmebol.com/pages/estadisticas_copa_santander_libertadores.html
+#
+#  Dates:  January 22 – July 24, 2013
+#  Teams:  38 (from 11 associations)
+#  Matches:  138
+#
+#  every year
+
+
+

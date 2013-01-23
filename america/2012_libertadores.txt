@@ -1,0 +1,14 @@
+#########################
+#  Copa Libertadores de América 2012
+#
+#  see en.wikipedia.org/wiki/2012_Copa_Libertadores
+#      es.wikipedia.org/wiki/Copa_Libertadores_2012
+#
+#  official -> www.conmebol.com/secciones/copa_santander_libertadores.html
+#
+#   Dates    January 24 – July 4, 2012
+#   Teams    38 (from 11 associations)
+#   Matches  138
+#
+#  every year
+
