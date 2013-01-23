@@ -1,0 +1,70 @@
+
+
+
+########################
+# El Salvador, sv
+
+metapan, Isidro Metapán|Asociación Deportiva Isidro Metapán, city:metapan, sv
+aguila,  Águila|Club Deportivo Águila, city:sansalvador, sv
+fas,     CD FAS|Club Deportivo FAS|Futbolistas Asociados Santanecos, FAS, city:santaana, sv
+alianza, Alianza|Alianza FC|Alianza Fútbol Club, city:sansalvador, sv
+
+#########################
+# Costa Rica, cr
+
+alajuelense, Alajuelense|LD Alajuelense, city:alajuela, cr   #  23 kilómetros al oeste de San José
+herediano, Herediano|CS Herediano, city:heredia, cr   #  10 km al noroeste de San José
+
+#########################
+# Honduras, hn
+
+olimpia, Olimpia|CD Olimpia, city:tegucigalpa, hn
+marathon, Marathón|CD Marathón, city:sanpedrosula, hn
+espana, Real España|Real CD España, city:sanpedrosula, hn
+motagua, Motagua|CD Motagua, city:tegucigalpa, hn
+
+##########################
+# Guatemala, gt
+
+municipal, Municipal|CSD Municipal, city:guatemala, gt
+xelaju, Xelajú|Club Xelajú MC, city:quetzaltenango, gt
+comunicaciones, Comunicaciones|Comunicaciones FC, city:guatemala, gt
+
+##########################
+# Panama, pa
+
+chorrillo, Chorrillo|Chorrillo FC, city:panama, pa
+tauro, Tauro|Tauro FC, city:panama, pa
+arabeunido, Árabe Unido|Club Deportivo Árabe Unido, DAU, city:colon, pa
+sanfrancisco, San Francisco|San Francisco FC|San Francisco Fútbol Club de La Chorrera, city:lachorrera, pa
+
+############################
+# Nicaragua, ni
+
+esteli, Real Estelí|Real Estelí FC, city:esteli, ni
+
+
+#############################
+# Trinidad and Tobago, tt
+
+caledonia, Caledonia AIA, city:arima, tt     # Malabar is a residential district incorporated into the borough of Arima
+wconnection, W Connection, city:narabella, tt
+
+
+######################
+# Puerto Rico, pr
+
+puertorico, Puerto Rico Islanders|Puerto Rico Islanders FC, city:bayamon, pr
+
+
+######################
+# Haiti, ht
+
+tempete, Tempête|Tempête FC|Tempête Football Club, TFC, city:saintmarc, ht
+
+######################
+# Guyana, gy
+
+alphaunited, Alpha United|Alpha United FC, city:providence, gy
+
+
