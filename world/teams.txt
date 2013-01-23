@@ -1,3 +1,10 @@
+
+
+# NB:
+#  for european teams see  europe/teams.txt
+#  for american teams see  america/teams.txt
+
+
 ########################
 ## africa
 
