@@ -44,8 +44,27 @@ nacional, Nacional|Club Nacional, city:asuncion, py
 porteno,  Cerro Porteño|Club Cerro Porteño, py
 
 
+##########################
+# Peru, pe
+
+juanaurich, Juan Aurich|Club Juan Aurich S.A, city:chiclayo, pe
+alianzalima, Alianza Lima|Club Alianza Lima, city:lima, pe
+sporthuancayo, Sport Huancayo, city:huancayo, pe
+
 
 ########################
 # Uruguay, uy
 
 liverpoolfc, Liverpool FC Montevideo|Liverpool FC|Liverpool Fútbol Club|Liverpool Montevideo, uy
+nacional, Nacional|Club Nacional de Football, city:montevideo, uy
+defensorsporting, Defensor Sporting|Defensor Sporting Club, city:montevideo, uy
+penarol, Peñarol|CA Peñarol|Club Atlético Peñarol, city:montevideo, uy
+
+
+############################
+# Venezuela, ve
+
+deportivotachira, Deportivo Táchira|Deportivo Táchira Fútbol Club, city:sancristobal, ve
+zamora, Zamora|Zamora FC|Zamora Fútbol Club, city:barinas, ve
+caracas, Caracas|Caracas FC|Caracas Fútbol Club, city:caracas, ve
+
