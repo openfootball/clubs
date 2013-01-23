@@ -1,4 +1,10 @@
-# encoding: utf-8
+
+
+# NB:
+#  for mexican teams see mx/teams.txt
+#  for argentinian teams see ar/teams.txt
+#  for brasilian teams see br/teams.txt
+
 
 ########################
 # United States, us

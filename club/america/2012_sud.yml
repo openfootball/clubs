@@ -1,38 +1,33 @@
-# encoding: utf-8
-
 #################################
-## Copa Sudamericana 2012/13
+#  Copa Sudamericana 2012
+#
+#  see en.wikipedia.org/wiki/2012_Copa_Sudamericana
+
+
 
 ###
-## fix: time zone and times??
+# todo/fix: time zone and times??
 
 
-sud = Event.create!( league:   League.find_by_key!('copa.sud'),
-                     season:   Season.find_by_key!('2012/13'),
-                     start_at: Time.cet( '2012-08-03 12:00' ))
+league: copa.sud
+season: 2012
+start_at: 2012-08-03 12:00
 
+teams:
+- tigre
+- colon
+- independiente
+- saopaulo
+- gremio
+- palmeiras
+- atleticogo
+- udechile
+- cduc
+- millonarios
+- quito
+- emelec
+- loja
+- barcelonasc
+- liverpoolfc
+- porteno
 
-team_keys_sud = [
- 'tigre',
- 'colon',
- 'independiente',
- 'saopaulo',
- 'gremio',
- 'palmeiras',
- 'atleticogo',
- 'udechile',
- 'cduc',
- 'millonarios',
- 'quito',
- 'emelec',
- 'loja',
- 'barcelonasc',
- 'liverpoolfc',
- 'porteno'
-]
-
-
-sud.add_teams_from_ary!( team_keys_sud )
-
-## The End
-#################

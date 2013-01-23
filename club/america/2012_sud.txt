@@ -1,8 +1,24 @@
 #################################
-## Copa Sudamericana 2012/13
+# Copa Sudamericana 2012
+#
+#  see en.wikipedia.org/wiki/2012_Copa_Sudamericana
+#      es.wikipedia.org/wiki/Copa_Sudamericana_2012
+#
+#  official -> www.conmebol.com/secciones/copa_sudamericana.html
+#
+#  Dates    July 24 – December 12, 2012
+#  Teams    47 (from 10 associations/countries)
+#  Matches  92
+#
+#  every year
+
+
+
+
+
 
 ###
-## fix: time zone and times??
+# fix: time zone and times??
 
 
 1. Runde // Achtelfinale - Hinspiele
