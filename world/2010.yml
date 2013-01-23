@@ -1,7 +1,7 @@
 ##################################
 #  World Cup 2010 South Africa
 #
-#   more info -> de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2010
+#   more info -> de.wikipedia.org/wiki/FuÃŸball-Weltmeisterschaft_2010
 #
 # 32 teams
 # 64 games
@@ -17,9 +17,10 @@ season: 2010
 start_at: 2010-06-11 12:00
 
 
+
 ##############
 # Europa (13 team)
-# Südamerika (5 teams)
+# SÃ¼damerika (5 teams)
 # Nord- und Mittelamerika (3 teams)
 # Afrika (6 teams)
 # Asien mit Australien (4 teams)
@@ -27,7 +28,7 @@ start_at: 2010-06-11 12:00
 
 
 teams:
-- den   # Dänemark  /// Europa
+- den   # DÃ¤nemark  /// Europa
 - ger   # Deutschland
 - eng   # England
 - fra   # Frankreich
@@ -40,7 +41,7 @@ teams:
 - srb   # Serbien
 - svk   # Slowakei
 - svn   # Slowenien
-- arg   # Argentinien  /// Südamerika
+- arg   # Argentinien  /// SÃ¼damerika
 - bra   # Brasilien
 - chi   # Chile
 - par   # Paraguay
@@ -49,13 +50,13 @@ teams:
 - usa   # Vereinigte Staaten
 - hon   # Honduras
 - alg   # Algerien          /// Afrika
-- civ   # Elfenbeinküste
+- civ   # ElfenbeinkÃ¼ste
 - gha   # Ghana
 - cmr   # Kamerun
 - nga   # Nigeria
-- rsa   # Südafrika
+- rsa   # SÃ¼dafrika
 - aus   # Australien  /// Asien mit Australien
 - jpn   # Japan
 - prk   # Nordkorea
-- kor   # Südkorea
+- kor   # SÃ¼dkorea
 - nzl   # Neuseeland  /// Ozeanien

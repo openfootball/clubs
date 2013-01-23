@@ -10,7 +10,6 @@
 
 
 
-
 ####################
 # Quali Round 1
 
@@ -52,60 +51,58 @@ Group 2 | Mexiko, Costa Rica, El Salvador, Guyana
 # Hexagonal - Quali Round 2,
 #  6 February to 15 October 2013
 #
-#  see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_CONCACAF_Fourth_Round
+#  see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_â€“_CONCACAF_Fourth_Round
 #
 # NB: The three group winners and three group runners-up from round 1 qualify
 
 
 ## todo/fix: check to allow HEX for group id
-# tood: allow 06.02.2013 as date format ?? why? why not??
+# todo/fix: allow 06.02.2013 as date format ?? why? why not??
+# todo/fix: use required  match days / rounds
 
-##  todo: change USA to United States?
-
-Group HEX | Costa Rica   Honduras   Mexiko  Panama   Jamaica   USA
-
-# todo: use required  match days / rounds
-# todo: change names to en
+Group HEX | Costa Rica   Honduras   Mexico  Panama   Jamaica   United States
 
 
-06.02.2013 15:00 Honduras  -  USA
-06.02.2013 20:30 Mexiko   -  Jamaika
+
+
+06.02.2013 15:00 Honduras  -  United States
+06.02.2013 20:30 Mexico   -  Jamaica
 06.02.2013 21:00 Panama  -  Costa Rica
 
-22.03.2013 12:00 Honduras  -   Mexiko
-22.03.2013 12:00 Jamaika  -  Panama
-22.03.2013 12:00 USA  - Costa Rica
+22.03.2013 12:00 Honduras  -   Mexico
+22.03.2013 12:00 Jamaica  -  Panama
+22.03.2013 12:00 United States  - Costa Rica
 
-26.03.2013 12:00 Costa Rica  -  Jamaika
-26.03.2013 12:00 Mexiko  -  USA
+26.03.2013 12:00 Costa Rica  -  Jamaica
+26.03.2013 12:00 Mexico  -  United States
 26.03.2013 12:00 Panama  -  Honduras
 
-04.06.2013 12:00 Jamaika  -  Mexiko
+04.06.2013 12:00 Jamaica  -  Mexico
 
-07.06.2013 12:00 Panama  -   Mexiko
-07.06.2013 12:00 Jamaika  -  USA
+07.06.2013 12:00 Panama  -   Mexico
+07.06.2013 12:00 Jamaica  -  United States
 07.06.2013 12:00 Costa Rica  -  Honduras
 
-11.06.2013 12:00 Mexiko  -  Costa Rica
-11.06.2013 12:00 USA  -  Panama
-11.06.2013 12:00 Honduras  -  Jamaika
+11.06.2013 12:00 Mexico  -  Costa Rica
+11.06.2013 12:00 United States  -  Panama
+11.06.2013 12:00 Honduras  -  Jamaica
 
-18.06.2013 12:00 USA  -  Honduras
+18.06.2013 12:00 United States  -  Honduras
 18.06.2013 12:00 Costa Rica  -  Panama
 
-06.09.2013 12:00 Mexiko  -  Honduras
-06.09.2013 12:00 Panama  -  Jamaika
-06.09.2013 12:00 Costa Rica  -  USA
+06.09.2013 12:00 Mexico  -  Honduras
+06.09.2013 12:00 Panama  -  Jamaica
+06.09.2013 12:00 Costa Rica  -  United States
 
-10.09.2013 12:00 USA  -  Mexiko
+10.09.2013 12:00 United States  -  Mexico
 10.09.2013 12:00 Honduras  -  Panama
-10.09.2013 12:00 Jamaika  -  Costa Rica
+10.09.2013 12:00 Jamaica  -  Costa Rica
 
-11.10.2013 12:00 Mexiko  -  Panama
+11.10.2013 12:00 Mexico  -  Panama
 11.10.2013 12:00 Honduras  -  Costa Rica
-11.10.2013 12:00 USA  -  Jamaika
+11.10.2013 12:00 United States  -  Jamaica
 
-15.10.2013 12:00 Costa Rica  -  Mexiko
-15.10.2013 12:00 Jamaika  -  Honduras
-15.10.2013 12:00 Panama  -  USA
+15.10.2013 12:00 Costa Rica  -  Mexico
+15.10.2013 12:00 Jamaica  -  Honduras
+15.10.2013 12:00 Panama  -  United States
 
