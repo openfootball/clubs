@@ -18,30 +18,33 @@
 ## todo/fix: add/check teams
 
 
+# see http://www.conmebol.com/export/sites/conmebol/Docs/Copa_Libertadores/2013/Prog_1ay2aFase_Libertadores_2013.pdf
+#  for official match days
+
 ##########
 # First Stage
 
 # G1 -> Group 2 Quali
 
-2013-01-22 20:15   Tigre 	2–1	 Deportivo Anzoátegui
-2013-01-29 17:45   Deportivo Anzoátegui 	v	 Tigre
+2013-01-22 20:15   Tigre                2–1  Deportivo Anzoátegui
+2013-01-29 17:45   Deportivo Anzoátegui  v   Tigre
 
 # G2 -> Group 8 Quali
 
-2013-01-23 19:00   LDU Quito 	v	 Grêmio
-2013-01-30 22:00   Grêmio 	v	 LDU Quito
+2013-01-23 19:00   LDU Quito  v  Grêmio
+2013-01-30 22:00   Grêmio     v  LDU Quito
 
-2013-01-24 19:15   Deportes Tolima 	v	 Universidad César Vallejo
-2013-01-31 19:45   Universidad César Vallejo 	v	 Deportes Tolima
+2013-01-24 19:15   Deportes Tolima  v  Universidad César Vallejo
+2013-01-31 19:45   Universidad César Vallejo  v  Deportes Tolima
 
-2013-01-24 20:00   Defensor Sporting 	v	 Olimpia
-2013-01-31 19:15   Olimpia 	v	 Defensor Sporting
+2013-01-24 20:00   Defensor Sporting  v  Olimpia
+2013-01-31 19:15   Olimpia            v  Defensor Sporting
 
-2013-01-23 22:00   São Paulo 	v	 Bolívar
-2013-01-30 20:00   Bolívar 	v	 São Paulo
+2013-01-23 22:00   São Paulo  v  Bolívar
+2013-01-30 20:00   Bolívar    v  São Paulo
 
-2013-01-22 19:45   León 	1–1	 Iquique
-2013-01-29 22:00   Iquique 	v	 León
+2013-01-22 19:45   León    1–1  Iquique
+2013-01-29 22:00   Iquique  v  León
 
 
 ############

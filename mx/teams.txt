@@ -15,7 +15,7 @@ cruzazul,  Cruz Azul,                       CAZ, city:mexico
 pumas,     Pumas|UNAM|Pumas UNAM,                      PUM, city:mexico   # NB: televisa uses UNM
 
 monterrey, Monterrey|CF Monterrey,          MTY, city:monterrey
-tigres,    Tigres|Tigres UANL,                     TIG, city:monterrey
+tigres,    Tigres|UANL|Tigres UANL,                     TIG, city:monterrey
 
 chivas,    Guadalajara|Chivas|Guadalajara Chivas|Deportivo Guadalajara,    GUA, city:guadalajara
 atlas,     Atlas,                           ATS, city:guadalajara

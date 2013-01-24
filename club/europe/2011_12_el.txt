@@ -1,0 +1,61 @@
+#################################
+# Europa League 2011/12
+#
+#  see en.wikipedia.org/wiki/2011–12_UEFA_Europa_League
+#
+#  official -> www.uefa.com/uefaeuropaleague
+#
+# Competition proper
+#   Dates:  15 September 2011 – 9 May 2012 
+#   Teams:  48+8 
+#
+# Qualifying
+#   Dates: 30 June – 25 August 2011
+#   Teams: 161+33 (from 53 associations)
+#
+#  every year
+
+
+## todo: move el.rb to code/ruby/el.rb
+
+
+(1) Viertelfinale / Hinspiele  //   Do 29. März 2012
+
+
+(2) Viertelfinale / Rückspiele //   Do  5. April 2012
+
+# todo: see en.wikipedia.org/wiki/2011–12_UEFA_Europa_League_knockout_phase
+
+games_el8 = [
+  [[ 1, az,          [2, 1], valencia,   Time.cet('2012-03-29 21:05') ],
+   [ 1, valencia,    [4, 0], az,         Time.cet('2012-04-05 21:05') ]],
+  [[ 2, schalke,     [2, 4], athletic,   Time.cet('2012-03-29 21:05') ],
+   [ 2, athletic,    [2, 2], schalke,    Time.cet('2012-04-05 21:05') ]],
+  [[ 3, sporting,    [2, 1], metalist,   Time.cet('2012-03-29 21:05') ],
+   [ 3, metalist,    [1, 1], sporting,   Time.cet('2012-04-05 21:05') ]],
+  [[ 4, atletico,    [2, 1], hannover,   Time.cet('2012-03-29 21:05') ],
+   [ 4, hannover,    [1, 2], atletico,   Time.cet('2012-04-05 21:05') ]]
+]
+
+
+Game.create_knockout_pairs_from_ary!( games_el8, el8, el8_2 )
+
+
+
+
+
+(3) Halbfinale    / Hinspiele  //   Do 19. April 2012
+
+2012-04-19 21:05   Atlético Madrid  4–2  Valencia
+2012-04-19 21:05   Sporting CP      2–1  Athletic Bilbao
+
+(4) Halbfinale    / Rückspiele //   Do 26. April 2012
+
+2012-04-26 21:05   Valencia         0–1  Atlético Madrid
+2012-04-26 21:05   Athletic Bilbao  3–1  Sporting CP
+
+
+(5) Finale                     //   Mi  9. Mai 2012
+
+2012-05-09 20:45   Atlético Madrid   3–0  Athletic Bilbao
+
