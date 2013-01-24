@@ -9,6 +9,8 @@
 bolivar, Bolívar|Club Bolívar, city:lapaz, bo
 thestrongest, The Strongest|Club The Strongest, city:lapaz, bo
 realpotosi, Real Potosí|Club Bamin Real Potosí, city:potosi, bo
+sanjose, San José|Club Deportivo San José, city:oruro, bo
+
 
 ###################
 # Chile, cl
@@ -17,22 +19,33 @@ udechile, Universidad de Chile|U. de Chile|Club Universidad de Chile, city:santi
 cduc,     Universidad Católica|CDUC|CD Universidad Católica|Club Deportivo Universidad Católica, city:santiago, cl
 unionespanola, Unión Española|Club Unión Española S.A.D.P, city:santiago, cl  # Independencia located in Santiago metro
 
+huachipato, Huachipato|CD Huachipato|Club Deportivo Huachipato, city:talcahuano, cl
+iquique,    Iquique|Deportes Iquique|Club Deportes Iquique, city:iquique, cl
+
+
 #######################
 # Colombia, co
 
-millonarios, Millonarios Bogotá|Millonarios|Millonarios FC, co
+millonarios, Millonarios Bogotá|Millonarios|Millonarios FC|Millonarios Fútbol Club, city:bogota, co
+santafe, Santa Fe|Corporación Deportiva Santa Fe|Independiente Santa Fe, city:bogota, co
+
 atleticonacional, Atlético Nacional|Club Atlético Nacional S.A., city:medellin, co
 junior, Junior|Junior de Barranquilla|Corporación Popular Deportiva Junior, city:barranquilla, co
 oncecaldas, Once Caldas|Corporación Deportiva Once Caldas, city:manizales, co
+deportestolima, Deportes Tolima, city:ibague, co
+
 
 ########################
 # Ecuador, ec
 
 quito,       Deportivo Quito|Sociedad Deportivo Quito, city:quito, ec
 elnacional,  El Nacional|Club Deportivo El Nacional,   city:quito, ec
+ligadequito, LDU Quito|LDU de Quito|Liga de Quito|Liga Deportiva Universitaria de Quito, city:quito, ec
+
 emelec,      CS Emelec|Emelec|Club Sport Emelec, city:guayaquil, ec
-barcelonasc, Barcelona SC Guayaquil|Barcelona SC|Barcelona Guayaquil, city:guayaquil, ec
-loja,        LDU Loja|LDU de Loja|Liga de Loja, ec
+barcelonasc, Barcelona SC Guayaquil|Barcelona SC|Barcelona Sporting Club|Barcelona Guayaquil, city:guayaquil, ec
+
+loja,        LDU Loja|LDU de Loja|Liga de Loja|Liga Deportiva Universitaria de Loja, city:loja, ec
 
 
 ############################
@@ -47,9 +60,15 @@ porteno,  Cerro Porteño|Club Cerro Porteño, py
 ##########################
 # Peru, pe
 
-juanaurich, Juan Aurich|Club Juan Aurich S.A, city:chiclayo, pe
 alianzalima, Alianza Lima|Club Alianza Lima, city:lima, pe
+sportingcristal, Sporting Cristal|Club Sporting Cristal, city:lima, pe
+
+juanaurich, Juan Aurich|Club Juan Aurich S.A, city:chiclayo, pe
+
 sporthuancayo, Sport Huancayo, city:huancayo, pe
+
+realgarcilaso, Real Garcilaso|Asociación Civil Real Atlético Garcilaso, city:cuzco, pe
+trujillo,   Universidad César Vallejo|Club Deportivo Universidad César Vallejo, city:trujillo, pe
 
 
 ########################
@@ -64,7 +83,8 @@ penarol, Peñarol|CA Peñarol|Club Atlético Peñarol, city:montevideo, uy
 ############################
 # Venezuela, ve
 
+caracas, Caracas|Caracas FC|Caracas Fútbol Club, city:caracas, ve
 deportivotachira, Deportivo Táchira|Deportivo Táchira Fútbol Club, city:sancristobal, ve
 zamora, Zamora|Zamora FC|Zamora Fútbol Club, city:barinas, ve
-caracas, Caracas|Caracas FC|Caracas Fútbol Club, city:caracas, ve
-
+deportivolara, Deportivo Lara|Club Deportivo Lara, city:barquisimeto, ve
+Deportivoanzoategui, Deportivo Anzoátegui|Deportivo Anzoátegui Sport Club, city:puertolacruz, ve
