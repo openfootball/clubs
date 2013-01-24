@@ -16,32 +16,22 @@
 #  every year
 
 
-## todo: move el.rb to code/ruby/el.rb
+# see en.wikipedia.org/wiki/2011–12_UEFA_Europa_League_knockout_phase
 
 
 (1) Viertelfinale / Hinspiele  //   Do 29. März 2012
 
+2012-03-29 21:05   AZ               2–1  Valencia
+2012-03-29 21:05   Schalke 04       2–4  Athletic Bilbao
+2012-03-29 21:05   Sporting CP      2–1  Metalist Kharkiv
+2012-03-29 21:05   Atlético Madrid  2–1  Hannover 96
 
 (2) Viertelfinale / Rückspiele //   Do  5. April 2012
 
-# todo: see en.wikipedia.org/wiki/2011–12_UEFA_Europa_League_knockout_phase
-
-games_el8 = [
-  [[ 1, az,          [2, 1], valencia,   Time.cet('2012-03-29 21:05') ],
-   [ 1, valencia,    [4, 0], az,         Time.cet('2012-04-05 21:05') ]],
-  [[ 2, schalke,     [2, 4], athletic,   Time.cet('2012-03-29 21:05') ],
-   [ 2, athletic,    [2, 2], schalke,    Time.cet('2012-04-05 21:05') ]],
-  [[ 3, sporting,    [2, 1], metalist,   Time.cet('2012-03-29 21:05') ],
-   [ 3, metalist,    [1, 1], sporting,   Time.cet('2012-04-05 21:05') ]],
-  [[ 4, atletico,    [2, 1], hannover,   Time.cet('2012-03-29 21:05') ],
-   [ 4, hannover,    [1, 2], atletico,   Time.cet('2012-04-05 21:05') ]]
-]
-
-
-Game.create_knockout_pairs_from_ary!( games_el8, el8, el8_2 )
-
-
-
+2012-04-05 21:05  Valencia          4–0  AZ
+2012-04-05 21:05  Athletic Bilbao   2–2  Schalke 04
+2012-04-05 21:05  Metalist Kharkiv  1–1  Sporting CP
+2012-04-05 21:05  Hannover 96       1–2  Atlético Madrid
 
 
 (3) Halbfinale    / Hinspiele  //   Do 19. April 2012
@@ -57,5 +47,5 @@ Game.create_knockout_pairs_from_ary!( games_el8, el8, el8_2 )
 
 (5) Finale                     //   Mi  9. Mai 2012
 
-2012-05-09 20:45   Atlético Madrid   3–0  Athletic Bilbao
+2012-05-09 20:45   Atlético Madrid  3–0  Athletic Bilbao
 
