@@ -40,7 +40,7 @@ loja,        LDU Loja|LDU de Loja|Liga de Loja, ec
 
 libertad, Club Libertad Asunción|Libertad|Libertad Ascunción, city:asuncion, py
 olimpia,  Olimpia|Club Olimpia, city:asuncion, py
-nacional, Nacional|Club Nacional, city:asuncion, py
+nacional, Nacional|Nacional de Asunción|Club Nacional, city:asuncion, py
 porteno,  Cerro Porteño|Club Cerro Porteño, py
 
 
@@ -56,7 +56,7 @@ sporthuancayo, Sport Huancayo, city:huancayo, pe
 # Uruguay, uy
 
 liverpoolfc, Liverpool FC Montevideo|Liverpool FC|Liverpool Fútbol Club|Liverpool Montevideo, uy
-nacional, Nacional|Club Nacional de Football, city:montevideo, uy
+nacional, Nacional|Nacional de Montevideo|Club Nacional de Football, city:montevideo, uy
 defensorsporting, Defensor Sporting|Defensor Sporting Club, city:montevideo, uy
 penarol, Peñarol|CA Peñarol|Club Atlético Peñarol, city:montevideo, uy
 

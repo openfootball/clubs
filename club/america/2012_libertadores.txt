@@ -39,12 +39,12 @@
 
 ## fix: two teams w/ name nacional!!!
 
-Group 1  |  Santos           Internacional         The Strongest         Juan Aurich
-Group 2  |  Lanús            Emelec                Flamengo              Olimpia
-Group 3  |  Unión Española   Bolívar               Junior                Universidad Católica
-Group 4  |  Fluminense       Boca Juniors          Arsenal               Zamora
-Group 5  |  Libertad         Vasco da Gama         Nacional              Alianza Lima
-Group 6  |  Corinthians      Cruz Azul             Nacional              Deportivo Táchira
+Group 1  |  Santos           Internacional         The Strongest            Juan Aurich
+Group 2  |  Lanús            Emelec                Flamengo                 Olimpia
+Group 3  |  Unión Española   Bolívar               Junior                   Universidad Católica
+Group 4  |  Fluminense       Boca Juniors          Arsenal                  Zamora
+Group 5  |  Libertad         Vasco da Gama         Nacional de Montevideo   Alianza Lima
+Group 6  |  Corinthians      Cruz Azul             Nacional de Asunción     Deportivo Táchira
 Group 7  |  Vélez Sársfield  Deportivo Quito       Defensor Sporting     Guadalajara
 Group 8  |  Universidad de Chile     Atlético Nacional    Godoy Cruz      Peñarol
 

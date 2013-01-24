@@ -1,0 +1,11 @@
+
+
+#######################################
+## internationl tournaments & cups w/ national teams
+
+
+euro:     Eurocopa           ## change key to europe (to match folder structure?)
+america:  Copa América
+world:     World Cup      ## change key to world??
+world.quali.europe:    World Cup Quali Europe
+world.quali.america:   World Cup Quali North/Central America and Caribbean

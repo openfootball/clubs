@@ -1,20 +1,7 @@
 ##################################
-##  Copa América 2011 Argentina
-#    July 1 to July 24, 2011
-#
-#   more info -> en.wikipedia.org/wiki/2011_Copa_América
-#             -> de.wikipedia.org/wiki/Copa_América_2011
-#
-#   official -> ca2011.com
-#
-#  Teams:   12 (from 2 confederations)
-#  Matches: 26
-#
-#  every four years (next in 2015 in Chile)
-
+#  Copa América 2011 Argentina / July 1 to July 24, 2011
 
 ## fix: change time zone to ??
-
 
 league: america
 season: 2011
