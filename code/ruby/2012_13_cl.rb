@@ -1,9 +1,9 @@
 # encoding: utf-8
 
-# note: timezone for games (play_at) is *always* CET (central european time)
-
 #################################
-## Champions League 2012/13
+# Champions League 2012/13
+
+# note: timezone for games (play_at) is *always* CET (central european time)
 
 cl = Event.create!( league:   League.find_by_key!('cl'),
                     season:   Season.find_by_key!('2012/13'),
@@ -319,6 +319,3 @@ Game.create_pairs_from_ary_for_group!( games_clf, clf )
 Game.create_pairs_from_ary_for_group!( games_clg, clg )
 Game.create_pairs_from_ary_for_group!( games_clh, clh )
 
-
-## The End
-#################

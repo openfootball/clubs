@@ -32,17 +32,60 @@ zenit,        Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg, ru, ci
 spartak,      Spartak Moskau|Spartak Moscow,     ru, city:moskva
 moskva,       CSKA Moskva|PFC CSKA Moskva,          ru, city:moskva
 
+#########################
+# Belgium, be
+
 anderlecht,   RSC Anderlecht,       be, city:brussel
+
+
+###########################
+# Netherlands, nl
 
 ajax,         Ajax Amsterdam,       nl, city:amsterdam
 az,           AZ Alkmaar,               nl, city:alkmaar
 
+
+#############################
+# Croatia, hr
+
 zagreb,       Dinamo Zagreb|NK Dinamo Zagreb,        hr, city:zagreb
+
+#######################
+# Greece, gr
+
 olympiacos,   Olympiakos Piräus|Olympiakos P.,    gr, city:piraeus
+
+###########################
+# Denmark, dk
+
 nordsjalland, FC Nordsjælland|Nordsjaelland,      dk, city:farum
+
+##########################
+# Belarus, by
+
 borissow,     BATE Borissow|Bate Borisov,           by, city:borisov
+
+###################
+#  Scotland, sc
+
 celtic,       Celtic Glasgow,          sc, city:glasgow
+
+#########################
+#  Turkey, tr
+
 galatasaray,  Galatasaray|Galatasaray Istanbul,           tr, city:istanbul
+
+######################
+# Romania, ro
+
 cluj,         CFR Cluj,              ro, city:cluj
+
+########################
+# Switzerland, ch
+
 basel,        Basel|FC Basel 1893,            ch, city:basel
+
+#############################
+# Cyprus, cy
+
 apoel,        APOEL Nikosia,            cy, city:nikosia

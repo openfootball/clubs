@@ -62,7 +62,3 @@ Badge.create!( team: zenit,
                league: League.find_by_key!('el'),
                season: Season.find_by_key!('2007/08') )
 
-
-
-## The End
-#################

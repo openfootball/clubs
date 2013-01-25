@@ -1,0 +1,217 @@
+#################################
+# Champions League 2012/13
+#
+#  see en.wikipedia.org/wiki/2012–13_UEFA_Champions_League
+#      de.wikipedia.org/wiki/UEFA_Champions_League_2012/13
+#
+#  official -> www.uefa.com/uefachampionsleague/season=2013
+#
+#  Competition proper
+#    Dates: 18 September 2012 – 25 May 2013
+#    Teams: 32 (group stage)
+#
+#  Qualifying
+#    Dates: 3 July – 29 August 2012
+#    Teams: 76 (from 52 associations/countries)
+
+
+######################################
+# Gruppenphase (8 Groups x 4 Teams)
+
+Gruppe A  |  Paris Saint-Germain   FC Porto               Dynamo Kiew              Dinamo Zagreb
+Gruppe B  |  FC Schalke 04         FC Arsenal             Olympiakos Piräus        HSC Montpellier
+Gruppe C  |  FC Málaga             AC Mailand             Zenit Sankt Petersburg   RSC Anderlecht
+Gruppe D  |  Borussia Dortmund     Real Madrid            Ajax Amsterdam           Manchester City
+Gruppe E  |  Juventus Turin        Schachtar Donezk       FC Chelsea               FC Nordsjælland
+Gruppe F  |  Bayern München        FC Valencia            BATE Baryssau            OSC Lille
+Gruppe G  |  FC Barcelona          Celtic Glasgow         Benfica Lissabon         Spartak Moskau
+Gruppe H  |  Manchester United     Galatasaray Istanbul   CFR Cluj                 SC Braga
+
+(1)  Spieltag 1   // Di./Mi., 18.+19. Sep 2012
+(2)  Spieltag 2   // Di./Mi., 2.+3. Okt 2012
+(3)  Spieltag 3   // Di./Mi., 23.+24. Okt 2012
+(4)  Spieltag 4   // Di./Mi., 6.+7. Nov 2012
+(5)  Spieltag 5   // Di./Mi., 20.+21. Nov 2012
+(6)  Spieltag 6   // Di./Mi., 4.+5. Dez 2012
+
+#################################
+# Gruppe A
+
+2012-09-18 20:45  Dinamo Zagreb 0:2 FC Porto             /  Spieltag 1
+2012-09-18 20:45  Paris Saint-Germain 4:1 Dynamo Kiew  /  Spieltag 1
+
+2012-10-03 20:45  Dynamo Kiew 2:0 Dinamo Zagreb        /  Spieltag 2
+2012-10-03 20:45  FC Porto 1:0 Paris Saint-Germain          /  Spieltag 2
+
+2012-10-24 20:45  Dinamo Zagreb 0:2 Paris Saint-Germain   /  Spieltag 3
+2012-10-24 20:45  FC Porto 3:2 Dynamo Kiew                   /  Spieltag 3
+
+2012-11-06 20:45  Dynamo Kiew 0:0 FC Porto               /  Spieltag 4
+2012-11-06 20:45  Paris Saint-Germain 4:0 Dinamo Zagreb  /  Spieltag 4
+
+2012-11-21 20:45  Dynamo Kiew 0:2 Paris Saint-Germain    /  Spieltag 5
+2012-11-21 20:45  FC Porto 3:0 Dinamo Zagreb                  /  Spieltag 5
+
+2012-12-04 20:45  Paris Saint-Germain 2:1 FC Porto       /  Spieltag 6
+2012-12-04 20:45  Dinamo Zagreb 1:1 Dynamo Kiew            /  Spieltag 6
+
+
+#################################
+# Gruppe B
+
+
+
+#################################
+# Gruppe C
+
+
+
+#################################
+# Gruppe D
+
+
+
+
+#################################
+# Gruppe E
+
+
+
+#################################
+# Gruppe F
+
+
+
+
+#################################
+# Gruppe G
+
+
+
+
+#################################
+# Gruppe H
+
+
+
+
+
+
+
+(7)  Achtelfinale             // Di./Mi., 12.+13./19.+20. Feb 2013
+(8)  Achtelfinale Rückspiele  // Di./Mi., 5.+6./12.+13. Mär 2013
+(9)  Viertelfinale            // Di./Mi., 2.+3. Apr 2013
+(10) Viertelfinale Rückspiele // Di./Mi., 9.+10. Apr 2013
+(11) Halbfinale               // Di./Mi., 23.+24. Apr 2013
+(12) Halbfinale Rückspiele    // Di./Mi., 30. Apr/1. Mai 2013
+(13) Finale                   // Sa. 25. Mai 2013
+
+
+
+games_clb = [
+  [[ 3, montpellier, [1,2], arsenal,     Time.cet('2012-09-18 20:45'), clr1 ],
+   [ 4, arsenal,     [2,0], montpellier, Time.cet('2012-11-21 20:45'), clr5 ]],
+  [[ 4, olympiacos,  [1,2], schalke,     Time.cet('2012-09-18 20:45'), clr1 ],
+   [ 3, schalke,     [1,0], olympiacos,  Time.cet('2012-11-21 20:45'), clr5 ]],
+  [[ 3, arsenal,     [3,1], olympiacos,  Time.cet('2012-10-03 20:45'), clr2 ],
+   [ 3, olympiacos,  [2,1], arsenal,     Time.cet('2012-12-04 20:45'), clr6 ]],
+  [[ 4, schalke,     [2,2], montpellier, Time.cet('2012-10-03 20:45'), clr2 ],
+   [ 4, montpellier, [1,1], schalke,     Time.cet('2012-12-04 20:45'), clr6 ]],
+  [[ 3, arsenal,     [0,2], schalke,     Time.cet('2012-10-24 20:45'), clr3 ],
+   [ 3, schalke,     [2,2], arsenal,     Time.cet('2012-11-06 20:45'), clr4 ]],
+  [[ 4, montpellier, [1,2], olympiacos,  Time.cet('2012-10-24 20:45'), clr3 ],
+   [ 4, olympiacos,  [3,1], montpellier, Time.cet('2012-11-06 20:45'), clr4 ]]
+]
+
+games_clc = [
+  [[ 5, malaga,     [3,0], zenit,      Time.cet('2012-09-18 20:45'), clr1 ],
+   [ 5, zenit,      [2,2], malaga,     Time.cet('2012-11-21 18:00'), clr5 ]],
+  [[ 6, milan,      [0,0], anderlecht, Time.cet('2012-09-18 20:45'), clr1 ],
+   [ 6, anderlecht, [1,3], milan,      Time.cet('2012-11-21 20:45'), clr5 ]],
+  [[ 5, zenit,      [2,3], milan,      Time.cet('2012-10-03 18:00'), clr2 ],
+   [ 5, milan,      [0,1], zenit,      Time.cet('2012-12-04 20:45'), clr6 ]],
+  [[ 6, anderlecht, [0,3], malaga,     Time.cet('2012-10-03 20:45'), clr2 ],
+   [ 6, malaga,     [2,2], anderlecht, Time.cet('2012-12-04 20:45'), clr6 ]],
+  [[ 5, zenit,      [1,0], anderlecht, Time.cet('2012-10-24 18:00'), clr3 ],
+   [ 5, anderlecht, [1,0], zenit,      Time.cet('2012-11-06 20:45'), clr4 ]],
+  [[ 6, malaga,     [1,0], milan,      Time.cet('2012-10-24 20:45'), clr3 ],
+   [ 6, milan,      [1,1], malaga,     Time.cet('2012-11-06 20:45'), clr4 ]]
+]
+
+games_cld = [
+  [[ 7, madrid,   [3,2], mancity,  Time.cet('2012-09-18 20:45'), clr1 ],
+   [ 7, mancity,  [1,1], madrid,   Time.cet('2012-11-21 20:45'), clr5 ]],
+  [[ 8, dortmund, [1,0], ajax,     Time.cet('2012-09-18 20:45'), clr1 ],
+   [ 8, ajax,     [1,4], dortmund, Time.cet('2012-11-21 20:45'), clr5 ]],
+  [[ 7, ajax,     [1,4], madrid,   Time.cet('2012-10-03 20:45'), clr2 ],
+   [ 8, madrid,   [4,1], ajax,     Time.cet('2012-12-04 20:45'), clr6 ]],
+  [[ 8, mancity,  [1,1], dortmund, Time.cet('2012-10-03 20:45'), clr2 ],
+   [ 7, dortmund, [1,0], mancity,  Time.cet('2012-12-04 20:45'), clr6 ]],
+  [[ 7, dortmund, [2,1], madrid,   Time.cet('2012-10-24 20:45'), clr3 ],
+   [ 8, madrid,   [2,2], dortmund, Time.cet('2012-11-06 20:45'), clr4 ]],
+  [[ 8, ajax,     [3,1], mancity,  Time.cet('2012-10-24 20:45'), clr3 ],
+   [ 7, mancity,  [2,2], ajax,     Time.cet('2012-11-06 20:45'), clr4 ]]
+]
+
+
+games_cle = [
+  [[ 9,  chelsea,      [2,2], juventus,     Time.cet('2012-09-19 20:45'), clr1 ],
+   [ 9,  juventus,     [3,0], chelsea,      Time.cet('2012-11-20 20:45'), clr5 ]],
+  [[ 10, donezk,       [2,0], nordsjalland, Time.cet('2012-09-19 20:45'), clr1 ],
+   [ 10, nordsjalland, [2,5], donezk,       Time.cet('2012-11-20 20:45'), clr5 ]],
+  [[ 9,  nordsjalland, [0,4], chelsea,      Time.cet('2012-10-02 20:45'), clr2 ],
+   [ 9,  chelsea,      [6,1], nordsjalland, Time.cet('2012-12-05 20:45'), clr6 ]],
+  [[ 10, juventus,     [1,1], donezk,       Time.cet('2012-10-02 20:45'), clr2 ],
+   [ 10, donezk,       [0,1], juventus,     Time.cet('2012-12-05 20:45'), clr6 ]],
+  [[ 9,  donezk,       [2,1], chelsea,      Time.cet('2012-10-23 20:45'), clr3 ],
+   [ 9,  chelsea,      [3,2], donezk,       Time.cet('2012-11-07 20:45'), clr4 ]],
+  [[ 10, nordsjalland, [1,1], juventus,     Time.cet('2012-10-23 20:45'), clr3 ],
+   [ 10, juventus,     [4,0], nordsjalland, Time.cet('2012-11-07 20:45'), clr4 ]]
+]
+
+games_clf = [
+  [[ 11, bayern,   [2,1], valencia, Time.cet('2012-09-19 20:45'), clr1 ],
+   [ 11, valencia, [1,1], bayern,   Time.cet('2012-11-20 20:45'), clr5 ]],
+  [[ 12, lille,    [1,3], borissow, Time.cet('2012-09-19 20:45'), clr1 ],
+   [ 12, borissow, [0,2], lille,    Time.cet('2012-11-20 20:45'), clr5 ]],
+  [[ 11, borissow, [3,1], bayern,   Time.cet('2012-10-02 20:45'), clr2 ],
+   [ 12, bayern,   [4,1], borissow, Time.cet('2012-12-05 20:45'), clr6 ]],
+  [[ 12, valencia, [2,0], lille,    Time.cet('2012-10-02 20:45'), clr2 ],
+   [ 11, lille,    [0,1], valencia, Time.cet('2012-12-05 20:45'), clr6 ]],
+  [[ 11, lille,    [0,1], bayern,   Time.cet('2012-10-23 20:45'), clr3 ],
+   [ 11, bayern,   [6,1], lille,    Time.cet('2012-11-07 20:45'), clr4 ]],
+  [[ 12, borissow, [0,3], valencia, Time.cet('2012-10-23 20:45'), clr3 ],
+   [ 12, valencia, [4,2], borissow, Time.cet('2012-11-07 20:45'), clr4 ]]
+]
+
+games_clg = [
+  [[ 13, celtic,    [0,0], benfica,   Time.cet('2012-09-19 20:45'), clr1 ],
+   [ 14, benfica,   [2,1], celtic,    Time.cet('2012-11-20 20:45'), clr5 ]],
+  [[ 14, barcelona, [3,2], spartak,   Time.cet('2012-09-19 20:45'), clr1 ],
+   [ 13, spartak,   [0,3], barcelona, Time.cet('2012-11-20 18:00'), clr5 ]],
+  [[ 13, spartak,   [2,3], celtic,    Time.cet('2012-10-02 18:00'), clr2 ],
+   [ 14, celtic,    [2,1], spartak,   Time.cet('2012-12-05 20:45'), clr6 ]],
+  [[ 14, benfica,   [0,2], barcelona, Time.cet('2012-10-02 20:45'), clr2 ],
+   [ 13, barcelona, [0,0], benfica,   Time.cet('2012-12-05 20:45'), clr6 ]],
+  [[ 13, spartak,   [2,1], benfica,   Time.cet('2012-10-23 18:00'), clr3 ],
+   [ 14, benfica,   [2,0], spartak,   Time.cet('2012-11-07 20:45'), clr4 ]],
+  [[ 14, barcelona, [2,1], celtic,    Time.cet('2012-10-23 20:45'), clr3 ],
+   [ 13, celtic,    [2,1], barcelona, Time.cet('2012-11-07 20:45'), clr4 ]]
+]
+
+games_clh = [
+  [[ 15, manunited,   [1,0], galatasaray, Time.cet('2012-09-19 20:45'), clr1 ],
+   [ 15, galatasaray, [1,0], manunited,   Time.cet('2012-11-20 20:45'), clr5 ]],
+  [[ 16, braga,       [0,2], cluj,        Time.cet('2012-09-19 20:45'), clr1 ],
+   [ 16, cluj,        [3,1], braga,       Time.cet('2012-11-20 20:45'), clr5 ]],
+  [[ 15, cluj,        [1,2], manunited,   Time.cet('2012-10-02 20:45'), clr2 ],
+   [ 16, manunited,   [0,1], cluj,        Time.cet('2012-12-05 20:45'), clr6 ]],
+  [[ 16, galatasaray, [0,2], braga,       Time.cet('2012-10-02 20:45'), clr2 ],
+   [ 15, braga,       [1,2], galatasaray, Time.cet('2012-12-05 20:45'), clr6 ]],
+  [[ 15, manunited,   [3,2], braga,       Time.cet('2012-10-23 20:45'), clr3 ],
+   [ 15, braga,       [1,3], manunited,   Time.cet('2012-11-07 20:45'), clr4 ]],
+  [[ 16, galatasaray, [1,1], cluj,        Time.cet('2012-10-23 20:45'), clr3 ],
+   [ 16, cluj,        [1,3], galatasaray, Time.cet('2012-11-07 20:45'), clr4 ]]
+]
+
+

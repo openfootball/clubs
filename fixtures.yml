@@ -18,12 +18,12 @@ stage:    Stage|Phase|Rounds
 
 
 
-### Knock out rounds
+### Knockout rounds
 
-round32:        Round of 32
-round16:        Round of 16
-quarterfinals:  Quarterfinals|Quarter-finals
-semifinals:     Semifinals|Semi-finals
+round32:        Round of 32|Last 32
+round16:        Round of 16|Last 16
+quarterfinals:  Quarterfinals|Quarter-finals|Quarters
+semifinals:     Semifinals|Semi-finals|Semis
 thirdplace:     Third-place play-off
 final:          Final|Finals
 

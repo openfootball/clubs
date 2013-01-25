@@ -1,0 +1,47 @@
+#################################
+# Champions League 2012/13
+
+
+league: cl
+season: 2012/13
+start_at: 2012-09-18 18:30
+team3: false
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+###############
+# Teams
+
+teams:
+- porto
+- kiew
+- paris
+- zagreb
+- arsenal
+- schalke
+- olympiacos
+- montpellier
+- milan
+- zenit
+- anderlecht
+- malaga
+- madrid
+- mancity
+- ajax
+- dortmund
+- chelsea
+- donezk
+- juventus
+- nordsjalland
+- bayern
+- valencia
+- lille
+- borissow
+- barcelona
+- benfica
+- spartak
+- celtic
+- manunited
+- braga
+- galatasaray
+- cluj
