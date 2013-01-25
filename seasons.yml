@@ -1,0 +1,17 @@
+
+###
+# use period for season? why? why not? 
+#   - semantic hairsplitting?  make it an alias? why? why not? who cares?
+
+seasons:
+- 2012/13
+- 2011/12
+- 2010/11
+- 2009/10
+- 2008/09
+- 2007/08
+- 2012       # years only
+- 2011
+- 2010
+- 2009
+- 2008

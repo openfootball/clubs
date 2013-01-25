@@ -16,7 +16,3 @@ Season.create!( key: '2011', title: '2011' )
 Season.create!( key: '2010', title: '2010' )
 Season.create!( key: '2009', title: '2009' )
 Season.create!( key: '2008', title: '2008' )
-
-
-## The End
-#################
