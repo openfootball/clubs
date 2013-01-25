@@ -61,6 +61,3 @@ games_ofb1 = [
 Game.create_knockouts_from_ary!( games_ofb8, ofb8 )
 Game.create_knockouts_from_ary!( games_ofb4, ofb4 )
 Game.create_knockouts_from_ary!( games_ofb1, ofb1 )
-
-## The End
-#################

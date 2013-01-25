@@ -25,6 +25,3 @@ team_keys_bl = [
  'ksv' ]
 
 bl.add_teams_from_ary!( team_keys_bl )
-
-## The End
-#################

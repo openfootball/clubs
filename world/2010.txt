@@ -179,7 +179,7 @@ Gruppe H  |  Spanien      Schweiz             Honduras         Chile
 ####
 ## Finalrunde // Knockout stage
 
-16. Runde //  Achtelfinale // Round of 16
+(16) Achtelfinale // Round of 16
 
 (49) Sa   2010-06-26 16:00   Uruguay -  Südkorea  2:1
 (50) Sa   2010-06-26 20:30   Vereinigte Staaten - Ghana  1:1 1:2nV
@@ -191,7 +191,7 @@ Gruppe H  |  Spanien      Schweiz             Honduras         Chile
 (56) Di   2010-06-29 20:30   Spanien - Portugal 1:0
 
 
-17. Runde //  Viertelfinale // Quarter-finals
+(17) Viertelfinale // Quarter-finals
 
 (57) Fr   2010-07-02 16:00   Niederlande - Brasilien  2:1
 (58) Fr   2010-07-02 20:30   Uruguay - Ghana   1:1 1:1nV 4:2iE
@@ -199,17 +199,17 @@ Gruppe H  |  Spanien      Schweiz             Honduras         Chile
 (60) Sa   2010-07-03 20:30   Paraguay - Spanien  0:1
 
 
-18. Runde //  Halbfinale // Semi-finals
+(18) Halbfinale // Semi-finals
 
 (61) Di   2010-07-06 20:30   Uruguay - Niederlande  2:3
 (62) Mi   2010-07-07 20:30   Deutschland - Spanien  0:1
 
 
-19. Runde //  Spiel um Platz 3 // Third-place play-off
+(19) Spiel um Platz 3 // Third-place play-off
 
 (63) Sa  2010-07-10 20:30  Uruguay - Deutschland  2:3
 
 
-20. Runde // Finale // Final
+(20) Finale // Final
 
 (64) So   2010-07-11 20:30  Niederlande - Spanien  0:0 0:1nV
