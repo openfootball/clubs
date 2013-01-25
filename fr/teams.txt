@@ -13,7 +13,7 @@
 paris,        Paris St. Germain|Paris S.Germai|Paris Saint Germain|Paris Saint-Germain, PSG,  city:paris
 montpellier,  HSC Montpellier|Montpellier|Montpellier Hérault SC,  MHS,     city:montpellier
 lille,        OSC Lille|Lille OSC|LOSC Lille,    LIL,         city:lille
-marseille,    Olympique Marseille|Olympique de Marseille,  OM,   city:marseille
+marseille,    Marseille|Olympique Marseille|Olympique de Marseille,  OM,   city:marseille
 
 lyon,         Olympique Lyonnais,  OL, city:lyon
 bordeaux,     Girondins de Bordeaux|FC Girondins de Bordeaux|Football Club des Girondins de Bordeaux, BOR, city:bordeaux

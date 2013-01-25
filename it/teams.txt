@@ -10,8 +10,8 @@
 
 ## use three letter abbrevations from legaseriea.it
 
-milan,        AC Milan|Associazione Calcio Milan,    MIL,     city:milano
-inter,        FC Internazionale Milano,    INT,  city:milano
+milan,        Milan|AC Milan|Associazione Calcio Milan,    MIL,     city:milano
+inter,        Internazionale|FC Internazionale Milano,    INT,  city:milano
 
 lazio,        SS Lazio|Società Sportiva Lazio|Lazio Roma, LAZ, city:roma
 roma,         AS Roma|Associazione Sportiva Roma, ROM, city:roma
@@ -22,7 +22,7 @@ sampdoria,    Unione Calcio Sampdoria|Sampdoria Genoa, SAM, city:genoa
 juventus,     Juventus Football Club|Juventus FC|Juventus Torino, JUV,  city:torino
 torino,       Torino Football Club|Torino FC,  TOR, city:torino
 
-napoli,       SSC Napoli|Società Sportiva Calcio Napoli,   NAP,      city:napoli
+napoli,       Napoli|SSC Napoli|Società Sportiva Calcio Napoli,   NAP,      city:napoli
 
 
 atalanta,     Atalanta Bergamasca Calcio|Atalanta|Atalanta Bergamo|Atalanta BC, ATA,  city:bergamo
