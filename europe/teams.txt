@@ -1,4 +1,3 @@
-# encoding: utf-8
 
 pol, Poland,        POL, pl
 gre, Greece, GRE, gr

@@ -1,5 +1,15 @@
 #########################################################
-##  Euro 2008  Austria-Switzerland (7 June - 29 June)
+#  Euro 2008  Austria-Switzerland (7 June - 29 June)
+#
+
+# see en.wikipedia.org/wiki/UEFA_Euro_2008
+#     de.wikipedia.org/wiki/Fußball-Europameisterschaft_2008
+#
+#  16 teams
+#  31 games
+#  22 days
+
+
 
 
 ############

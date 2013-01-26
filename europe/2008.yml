@@ -1,0 +1,30 @@
+#########################################################
+#  Euro 2008  Austria-Switzerland (7 June - 29 June)
+
+league: euro
+season: 2008
+start_at: 2008-06-07 18:00
+team3: false
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+########
+# 16 teams
+
+teams:
+- sui
+- cze
+- por
+- tur
+- aut
+- cro
+- ger
+- pol
+- ned
+- ita
+- rou
+- fra
+- gre
+- swe
+- esp
+- rus
