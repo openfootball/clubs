@@ -1,0 +1,26 @@
+######################################
+# Oesterreichische Bundesliga 2012/13
+
+
+league: at
+season: 2012/13
+start_at: 2012-07-21 12:00
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+
+########
+# 10 Bundeliga Teams
+
+teams:
+- salzburg
+- rapid
+- admira
+- austria
+- sturm
+- ried
+- innsbruck
+- mattersburg
+- wrneustadt
+- wac

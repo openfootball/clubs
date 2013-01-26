@@ -1,7 +1,7 @@
 ######################################
-## Oesterreichische Bundesliga 2012/13
-##
-## more info => http://bundesliga.at
+# Oesterreichische Bundesliga 2012/13
+#
+# more info -> bundesliga.at
 
 
 1. Runde  -  Sa+So 21.+22. Jul 2012

@@ -2,15 +2,16 @@
 #  Euro 2012 - Poland-Ukraine
 #
 #  see en.wikipedia.org/wiki/UEFA_Euro_2012
-#      de.wikipedia.org/wiki/Fußball-Europameisterschaft_2012
+#      de.wikipedia.org/wiki/FuÃŸball-Europameisterschaft_2012
 #
 #  official -> www.uefa.com/uefaeuro
 #
-# Dates:   8 June – 1 July 2012
+# Dates:   8 June â€“ 1 July 2012
 # Teams:   16
 # Matches: 31
 #
 # every four years (next in 2016 in France)
+
 
 
 
