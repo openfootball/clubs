@@ -1,0 +1,29 @@
+#################################
+# ÖFB Cup 2011/12
+
+
+league: at.cup
+season: 2011/12
+start_at: 2011-10-10 17:00
+team3: false       # no game for 3rd/4th place
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+#############
+# Teams
+
+teams:
+- sturm             # bundesliga teams
+- ried
+- salzburg
+- austria
+- rapid
+- innsbruck
+- wrneustadt
+- ksv
+- mattersburg
+- admira
+- hartberg        # erste liga and friends
+- groedig
+- juniors
+- austrial

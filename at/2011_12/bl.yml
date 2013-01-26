@@ -1,0 +1,26 @@
+###########################################
+# Oesterreichische Bundesliga 2011/12
+
+league: at
+season: 2011/12
+start_at: 2012-04-07 00:00
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+######################
+# 10 teams
+
+teams:
+- salzburg
+- rapid
+- admira
+- austria
+- sturm
+- ried
+- innsbruck
+- mattersburg
+- wrneustadt
+- ksv
+
+

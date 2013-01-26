@@ -1,9 +1,10 @@
 ######################################
-## Oesterreichische Bundesliga 2011/12
-##
-## more info => http://bundesliga.at
+# Oesterreichische Bundesliga 2011/12
+#
+# more info => bundesliga.at
 
 # note: timezone for games (play_at) is *always* CET (central european time)
+
 
 
 29. Runde  /  Sa+So 7.+8. April 2012

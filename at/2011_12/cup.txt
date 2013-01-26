@@ -1,0 +1,27 @@
+#################################
+# ÖFB Cup 2011/12
+
+
+
+(1) Viertelfinale   //   Di+Mi 10.+11. April 2012
+(2) Halbfinale      //   Di+Mi 1.+2. Mai 2012
+(3) Finale          //   So 20. Mai 2012
+
+
+### fix: change to plain text fixtures
+
+games_ofb8 = [
+  [ groedig,   [2, 3],       ried,     Time.cet('2012-04-10 18:00') ],
+  [ austrial,  [1, 2],       austria,  Time.cet('2012-04-11 18:00') ],
+  [ sturm,     [2, 2, 2, 4], hartberg, Time.cet('2012-04-11 19:00') ],
+  [ salzburg,  [4, 1],       juniors,  Time.cet('2012-04-11 19:00') ]
+]
+
+games_ofb4 = [
+  [ hartberg,  [0, 1], salzburg, Time.cet('2012-05-01 18:00') ],
+  [ ried,      [2, 0], austria,  Time.cet('2012-05-02 20:30') ]
+]
+
+games_ofb1 = [
+  [ salzburg, [3,0], ried, Time.cet('2012-05-20 16:00') ]
+]
