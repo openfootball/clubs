@@ -13,9 +13,9 @@ stage:      Gruppenphase|Qualifikation|Play-off|Finalrunde|K.-o.-Phase
 round32:        Sechzehntelfinale
 round16:        Achtelfinale
 quarterfinals:  Viertelfinale
-semifinals:     Halbfinale
+semifinals:     Halbfinale|Semifinale
 thirdplace:     Spiel um Platz 3
-final:          Finale
+final:          Finale|Endspiel
 
 ### Pair matches/games if marked with leg1 n leg2
 

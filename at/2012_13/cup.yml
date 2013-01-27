@@ -1,0 +1,74 @@
+##################################
+# ÖFB Cup 2012/13
+
+league: at.cup
+season: 2012/13
+start_at: 2012-07-13 12:00
+team3: false      # no game for 3rd/4th place
+
+
+teams:
+- salzburg  # 10 Bundeliga Teams
+- rapid
+- admira
+- austria
+- sturm
+- ried
+- innsbruck
+- mattersburg
+- wrneustadt
+- wac
+- ksv         # 10 Erste Liga Teams
+- altach
+- austrial
+- stpoelten
+- linz
+- groedig
+- lustenau
+- vienna
+- hartberg
+- horn
+- hard    # regionalliga west teams
+- bregenz
+- dornbirn
+- kufstein
+- wattens
+- austrias
+- pinzgau
+- stjohann
+- vsv     # regionalliga mitte teams
+- klagenfurt
+- austriak
+- kalsdorf
+- gratkorn
+- allerheiligen
+- leoben
+- gak
+- pasching
+- voecklamarkt
+- stflorian
+- wallern
+- lask
+- sollenau    # regionalliga ost teams
+- amstetten
+- retz
+- fac
+- schwechat
+- wienersk
+- ostbahn
+- oberwart
+- parndorf
+- stegersbach
+- wolfurt    # noch einige teams
+- schwaz
+- reutte
+- spittal
+- sak
+- dsc
+- micheldorf
+- badvoeslau
+- gaflenz
+- ardagger
+- rohrendorf
+- heiligenkreuz
+- viktoria

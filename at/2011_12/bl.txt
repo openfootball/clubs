@@ -1,7 +1,14 @@
 ######################################
 # Oesterreichische Bundesliga 2011/12
 #
-# more info => bundesliga.at
+# see de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2011/12
+#
+# official -> bundesliga.at
+#
+#  Teams: 10
+#  Matches: 180 (=36 Rounds x 5 Matches)
+#  Rounds: 36 (each 5 Matches)
+
 
 # note: timezone for games (play_at) is *always* CET (central european time)
 
