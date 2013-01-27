@@ -11,18 +11,19 @@
 
 1. Runde   -  Fr-So 13.-15. Juli 2012   !!Knockout (Knockout??)  // Knockout??
 
-fac            0:1               altach         2012-07-12 19:00
-# hard         1:0               schwaz         2012-07-13 18:30
-dsc            1:2               hartberg       2012-07-13 19:00
-gratkorn       0:0 0:0nV 4:5iE   innsbruck      2012-07-13 19:00
-# pasching     2:1               austrias       2012-07-13 19:00
-parndorf       0:3               admira         2012-07-13 19:00
-voecklamarkt   3:4               lustenau       2012-07-13 19:00
-#  kalsdorf    3:1               wallern        2012-07-13 19:00
-wattens        0:1               sturm          2012-07-13 19:00
-# vsv          4:2               rohrendorf     2012-07-13 19:00
-pinzgau        0:4               groedig        2012-07-13 19:15
-# amstetten    0:1               schwechat      2012-07-13 19:30
+2012-07-12 19:00   FAC Team für Wien – SCR Altach  0:1
+#  2012-07-13 18:30   FC Hard – SC Schwaz   1:0
+2012-07-13 19:00   Deutschlandsberger SC  – TSV Hartberg         1:2
+2012-07-13 19:00   FC Gratkorn – FC Wacker Innsbruck     0:0 0:0nV 4:5iE
+#  2012-07-13 19:00   FC Pasching – Sportverein Austria Salzburg    2:1
+2012-07-13 19:00   SC-ESV Parndorf 1919 – FC Admira Wacker Mödling      0:3
+2012-07-13 19:00   Union Vöcklamarkt – FC Lustenau 07  3:4
+#  2012-07-13 19:00   SC Kalsdorf – SV Wallern    3:1
+2012-07-13 19:00   WSG Wattens – SK Sturm Graz       0:1
+#  2012-07-13 19:00   Villacher SV – FC Rohrendorf/Gedersdorf         4:2
+2012-07-13 19:15   FC Pinzgau Saalfelden – SV Grödig       0:4
+#  2012-07-13 19:30   SKU Amstetten – SV Schwechat   0:1
+
 stflorian      2:1               linz           2012-07-13 19:30
 austriak       3:2               horn           2012-07-13 19:30
 # sak          0:5               allerheiligen  2012-07-13 19:30
