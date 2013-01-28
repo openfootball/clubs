@@ -1,15 +1,13 @@
-# encoding: utf-8
-
-#################################
+################################
 # Primera División de España - La Liga
 #  20 teams
-#  see -> http://es.wikipedia.org/wiki/Primera_División_de_España
-#      -> http://en.wikipedia.org/wiki/La_Liga
+#  see es.wikipedia.org/wiki/Primera_División_de_España
+#      en.wikipedia.org/wiki/La_Liga
 #
 #  official -> lfp.es
 #
 #
-#  use offical three letter codes from lfp.es
+#  NB: use offical three letter codes from lfp.es
 
 barcelona, FC Barcelona|Fútbol Club Barcelona,    BAR,     city:barcelona
 espanyol,  Espanyol Barcelona|Real CD Espanyol|Real Club Deportivo Espanyol|Real Club Deportivo Español,  ESP, city:barcelona

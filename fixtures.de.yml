@@ -10,10 +10,10 @@ stage:      Gruppenphase|Qualifikation|Play-off|Finalrunde|K.-o.-Phase
 
 ### Knock out rounds
 
-round32:        Sechzehntelfinale
-round16:        Achtelfinale
-quarterfinals:  Viertelfinale
-semifinals:     Halbfinale|Semifinale
+round32:        Sechzehntelfinale|1/16 Finale
+round16:        Achtelfinale|1/8 Finale
+quarterfinals:  Viertelfinale|1/4 Finale
+semifinals:     Halbfinale|Semifinale|1/2 Finale
 thirdplace:     Spiel um Platz 3
 final:          Finale|Endspiel
 
