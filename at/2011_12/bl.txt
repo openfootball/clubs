@@ -1,5 +1,5 @@
 ######################################
-# Oesterreichische Bundesliga 2011/12
+# Österreichische Bundesliga 2011/12
 #
 # see de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2011/12
 #
