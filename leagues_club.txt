@@ -1,0 +1,41 @@
+#############################
+#  national leagues & cups
+
+at,     Österr. Bundesliga, at
+at.cup, ÖFB Cup, at
+de,     Deutsche Bundesliga, de
+en,     English Premier League, en
+es,     Primera División,       es
+it,     Serie A,                it
+fr,     Ligue 1,                fr
+nl,     Eredivisie,             nl
+pt,     SuperLiga,              pt
+ru,     Premier Liga,           ru
+ro,     Romania Liga 1,         ro
+
+
+## todo: make apertura into season?? remove from league? why? why not?
+
+mx.apertura, México Primera División Apertura, mx
+
+br,     Campeonato Brasileiro Série A, br
+
+#### League.create_from_ary!( leagues_club, club: true )
+
+
+
+########################################
+## international leagues w/ football clubs teams
+
+
+cl,                Champions League  # change key to europe.cl to match folder structure?
+el,                Europa League     # change key to europe.el to match folder structure?
+copa.libertadores, Copa Libertadores # change key to america.libertadores
+copa.sud,          Copa Sudamericana # change key to america.sud
+
+
+## todo add champions league concaf (north/central america & caribbean)
+
+#### League.create_from_ary!( leagues_club_intl, club: true )
+
+
