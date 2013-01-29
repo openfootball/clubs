@@ -1,5 +1,7 @@
 #######################################
 # internationl tournaments & cups w/ national teams
+#
+# - League.create_from_ary!( leagues_intl, club: false )
 
 
 euro,      Euro           ## change key to europe (to match folder structure?)
@@ -9,6 +11,5 @@ world.quali.europe,    World Cup Quali Europe
 world.quali.america,   World Cup Quali North/Central America and Caribbean
 
 
-### League.create_from_ary!( leagues_intl, club: false )
 
 

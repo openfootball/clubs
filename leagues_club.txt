@@ -1,5 +1,7 @@
 #############################
 #  national leagues & cups
+#
+#  - League.create_from_ary!( leagues_club, club: true )
 
 at,     Österr. Bundesliga, at
 at.cup, ÖFB Cup, at
@@ -20,13 +22,11 @@ mx.apertura, México Primera División Apertura, mx
 
 br,     Campeonato Brasileiro Série A, br
 
-#### League.create_from_ary!( leagues_club, club: true )
-
-
 
 ########################################
-## international leagues w/ football clubs teams
-
+#  international leagues w/ football clubs teams
+#
+#  - League.create_from_ary!( leagues_club_intl, club: true )
 
 cl,                Champions League  # change key to europe.cl to match folder structure?
 el,                Europa League     # change key to europe.el to match folder structure?
@@ -35,7 +35,5 @@ copa.sud,          Copa Sudamericana # change key to america.sud
 
 
 ## todo add champions league concaf (north/central america & caribbean)
-
-#### League.create_from_ary!( leagues_club_intl, club: true )
 
 
