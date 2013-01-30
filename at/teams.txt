@@ -59,13 +59,13 @@ lask,          LASK Linz,              Regionalliga Mitte/OÖ,  LAS
 
 sollenau,    1. SC Sollenau|SC Sollenau,       Regionalliga Ost/OÖ,    SOL
 amstetten,   SKU Amstetten,        Regionalliga Ost/NÖ,    AMS
-retz,        SV Retz,              Regionalliga Ost/NÖ,    RET
+retz,        SV Retz|SC Retz,              Regionalliga Ost/NÖ,    RET   # todo/fix: remove SC Retz? - original name is ??
 fac ,        FAC Team für Wien,    Regionalliga Ost/Wien,  FAC
 schwechat,   SV Schwechat,         Regionalliga Ost/Wien,  SCH
-wienersk,    Wiener SK,            Regionalliga Ost/Wien,  WIE
+wienersk,    Wiener SK|Wiener Sportklub,      Regionalliga Ost/Wien,  WIE
 ostbahn,     SC Ostbahn XI,        Regionalliga Ost/Wien,  OST
 oberwart,    SV Oberwart,          Regionalliga Ost/Bgld., OBE
-parndorf,    SC/ESV Parndorf 1919, Regionalliga Ost/Bgld., PAR
+parndorf,    SC/ESV Parndorf 1919|SC-ESV Parndorf 1919, Regionalliga Ost/Bgld., PAR
 stegersbach, SV Stegersbach,       Regionalliga Ost/Bgld., STE
 
 ## Misc

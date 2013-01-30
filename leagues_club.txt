@@ -19,6 +19,7 @@ ro,     Romania Liga 1,         ro
 ## todo: make apertura into season?? remove from league? why? why not?
 
 mx.apertura, México Primera División Apertura, mx
+mx.clausura, México Primera División Clausura, mx
 
 br,     Campeonato Brasileiro Série A, br
 

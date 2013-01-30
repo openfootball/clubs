@@ -2,7 +2,7 @@
 # Österreichische Bundesliga 2012/13 -  Frühjahr
 
 
-21. Runde  - Sa 16. Feb 2013
+21. Runde  // Sa 16. Feb 2013
 
 2013-02-16 12:00  SV Ried  -  FC Wacker Innsbruck
 2013-02-16 12:00  Rapid Wien  -  Austria Wien
@@ -10,7 +10,7 @@
 2013-02-16 12:00  Wolfsberger AC  -  RB Salzburg
 2013-02-16 12:00  FC Admira Wacker  -  SC Wiener Neustadt
 
-22. Runde - Sa 23. Feb 2013
+22. Runde // Sa 23. Feb 2013
 
 2013-02-23 12:00  SC Wiener Neustadt  -  SV Ried
 2013-02-23 12:00  Sturm Graz  -  Wolfsberger AC
@@ -18,7 +18,7 @@
 2013-02-23 12:00  Austria Wien  -  FC Admira Wacker
 2013-02-23 12:00  FC Wacker Innsbruck  -  SV Mattersburg
 
-23. Runde - Di 26. Feb 2013
+23. Runde // Di 26. Feb 2013
 
 2013-02-26 12:00  SV Ried  -  Austria Wien
 2013-02-26 12:00  Rapid Wien  -  Sturm Graz
@@ -26,7 +26,7 @@
 2013-02-26 12:00  Wolfsberger AC  -  SV Mattersburg
 2013-02-26 12:00  FC Admira Wacker  -  RB Salzburg
 
-24. Runde - Sa 02. Mar 2013
+24. Runde // Sa 02. Mar 2013
 
 2013-03-02 12:00  Sturm Graz  -  FC Admira Wacker
 2013-03-02 12:00  RB Salzburg  -  SC Wiener Neustadt

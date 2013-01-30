@@ -223,30 +223,31 @@ Jornada  17 // 3, 4 y 5 de mayo
 ###########################################
 # Liguilla Clausura 2013
 
+### fix: use spanish names only
 
-Cuartos de Final / Ida      // 8 y 9 de mayo
-
-# add fixtures here
-
-Cuartos de Final / Vuelta   // 11 y 12 de mayo
+18. Runde / Cuartos de Final / Ida      // 8 y 9 de mayo
 
 # add fixtures here
 
-
-Semifinal / Ida             // 15 y 16 de mayo
-
-# add fixtures here
-
-Semifinal / Vuelta          // 18 y 19 de mayo
+19. Runde / Cuartos de Final / Vuelta   // 11 y 12 de mayo
 
 # add fixtures here
 
 
-Final / Ida                 // 23 de mayo
+20. Runde / Semifinal / Ida             // 15 y 16 de mayo
 
 # add fixtures here
 
-Final / Vuelta              // 26 de mayo
+21. Runde / Semifinal / Vuelta          // 18 y 19 de mayo
+
+# add fixtures here
+
+
+22. Runde / Final / Ida                 // 23 de mayo
+
+# add fixtures here
+
+23. Runde / Final / Vuelta              // 26 de mayo
 
 # add fixtures here
 
