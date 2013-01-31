@@ -1,25 +1,21 @@
 
-## fix: remove _ underscore from key (not supported)
+dinamobu,           Dinamo Bucuresti,       FCD, city:bucuresti
+rapidbu,            Rapid Bucuresti,        RBU, city:bucuresti
+steaua,             Steaua Bucuresti,       SBU, city:bucuresti
 
+cfr,                CFR Cluj,               CFR, city:cluj
+ucluj,              U Cluj,                 UCJ, city:cluj
 
 astra,              Astra Ploiesti,         AFC
 ceahlau,            Ceahlaul Piatra Neamt,  FCC
-cfr,                CFR Cluj,               CFR
 chiajna,            Concordia Chiajna,      CCH
 iasi,               CSMS Iasi,              CSI
-dinamo,             Dinamo Bucuresti,       FCD
 fcbrasov,           FC Brasov,              FCB
-gazmetan_severin,   FC Severin,             FCS
+gazmetanseverin,    FC Severin,             FCS
 vaslui,             FC Vaslui,              FCV
-gazmetan_medias,    Gaz Metan Medias,       GMM
-gloria_bistrita,    Gloria Bistrita,        GBS
+gazmetanmedias,     Gaz Metan Medias,       GMM
+gloriabistrita,     Gloria Bistrita,        GBS
 otelul,             Otelul Galati,          OTG
 pandurii,           Pandurii Tg Jiu,        PTJ
 petrolul,           Petrolul Ploiesti,      PPL
-
-## fix: at/rapid!!!! already taken 
-
-rapid,              Rapid Bucuresti,        RBU
-steaua,             Steaua Bucuresti,       SBU
-u_cluj,             U Cluj,                 UCJ
-viitorul_constanta, Viitorul Constanta,     VCT
+viitorulconstanta,  Viitorul Constanta,     VCT

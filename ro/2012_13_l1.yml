@@ -1,0 +1,32 @@
+######################################
+# Romania Liga1 2012/13
+
+
+league: ro
+season: 2012/13
+start_at: 2012-07-01 12:00
+
+# todo/fix/note: timezone for games (play_at) is *always* eet (eastern european time)
+
+###################
+# 18 teams
+
+teams:
+- astra
+- ceahlau
+- cfr
+- chiajna
+- iasi
+- dinamobu
+- fcbrasov
+- gazmetanseverin
+- vaslui
+- gazmetanmedias
+- gloriabistrita
+- otelul
+- pandurii
+- petrolul
+- rapidbu
+- steaua
+- ucluj
+- viitorulconstanta

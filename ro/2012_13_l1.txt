@@ -1,0 +1,74 @@
+######################################
+# Romania Liga1 2012/13
+#
+#   official -> liga1.ro
+
+# note: timezone for games (play_at) is *always* eet (eastern european time)
+
+# todo: add romanian locale e.g. fixtures.ro.yml
+
+
+Round 1 // 1. Runda
+
+Pandurii Tg Jiu        -  U Cluj                  2012-07-20 18:30
+Gaz Metan Medias       -  Dinamo Bucuresti        2012-07-20 20:20
+Petrolul Ploiesti      -  Ceahlaul Piatra Neamt   2012-07-21 19:00
+CFR Cluj               -  FC Severin              2012-07-21 21:30
+CSMS Iasi              -  Otelul Galati           2012-07-22 19:00
+Gloria Bistrita        -  Astra Ploiesti          2012-07-22 19:00
+Rapid Bucuresti        -  FC Vaslui               2012-07-22 21:30
+Viitorul Constanta     -  FC Brasov               2012-07-23 19:00
+Steaua Bucuresti       -  Concordia Chiajna       2012-07-23 21:30
+
+
+Round 2 // 2. Runda
+
+Concordia Chiajna      -  Viitorul Constanta      2012-07-28 18:30
+FC Brasov              -  FC Severin              2012-07-28 20:20
+Dinamo Bucuresti       -  CSMS Iasi               2012-07-29 19:00
+Otelul Galati          -  Rapid Bucuresti         2012-07-29 21:30
+Ceahlaul Piatra Neamt  -  CFR Cluj                2012-07-30 19:00
+FC Vaslui              -  Petrolul Ploiesti       2012-07-30 19:00
+Gaz Metan Medias       -  Pandurii Tg Jiu         2012-07-30 21:30
+U Cluj                 -  Gloria Bistrita         2012-07-31 19:00
+Astra Ploiesti         -  Steaua Bucuresti        2012-07-31 21:30
+
+
+Round 3 // 3. Runda
+
+Steaua Bucuresti       -  U Cluj                  2012-08-03 18:30
+Viitorul Constanta     -  Astra Ploiesti          2012-08-03 20:20
+FC Severin             -  Concordia Chiajna       2012-08-04 19:00
+Petrolul Ploiesti      -  Otelul Galati           2012-08-04 21:30
+Rapid Bucuresti        -  CSMS Iasi               2012-08-05 19:00
+CFR Cluj               -  FC Vaslui               2012-08-05 19:00
+Pandurii Tg Jiu        -  FC Vaslui               2012-08-05 21:30
+Gloria Bistrita        -  Gaz Metan Medias        2012-08-06 19:00
+FC Brasov              -  Dinamo Bucuresti        2012-08-06 21:30
+
+
+Round 4 // 4. Runda
+
+CSMS Iasi              -  Petrolul Ploiesti       2012-08-11 18:30
+Concordia Chiajna      -  FC Brasov               2012-08-11 20:20
+Dinamo Bucuresti       -  Rapid Bucuresti         2012-08-12 19:00
+Otelul Galati          -  CFR Cluj                2012-08-12 21:30
+Ceahlaul Piatra Neamt  -  Gloria Bistrita         2012-08-13 19:00
+FC Vaslui              -  Pandurii Tg Jiu         2012-08-13 19:00
+Gaz Metan Medias       -  Steaua Bucuresti        2012-08-13 21:30
+U Cluj                 -  Viitorul Constanta      2012-08-14 19:00
+Astra Ploiesti         -  FC Severin              2012-08-14 21:30
+
+
+Round 5 // 5. Runda
+
+Steaua Bucuresti       -  Ceahlaul Piatra Neamt   2012-08-18 18:30
+Viitorul Constanta     -  Gaz Metan Medias        2012-08-18 20:20
+FC Severin             -  U Cluj                  2012-08-19 19:00
+Petrolul Ploiesti      -  Rapid Bucuresti         2012-08-19 21:30
+CFR Cluj               -  CSMS Iasi               2012-08-20 19:00
+Pandurii Tg Jiu        -  Otelul Galati           2012-08-20 19:00
+Gloria Bistrita        -  FC Vaslui               2012-08-20 21:30
+Concordia Chiajna      -  Dinamo Bucuresti        2012-08-21 19:00
+FC Brasov              -  Astra Ploiesti          2012-08-21 21:30
+
