@@ -1,7 +1,5 @@
 #############################
 #  national leagues & cups
-#
-#  - League.create_from_ary!( leagues_club, club: true )
 
 at,     Österr. Bundesliga, at
 at.cup, ÖFB Cup, at
@@ -26,8 +24,6 @@ br,     Campeonato Brasileiro Série A, br
 
 ########################################
 #  international leagues w/ football clubs teams
-#
-#  - League.create_from_ary!( leagues_club_intl, club: true )
 
 cl,                Champions League  # change key to europe.cl to match folder structure?
 el,                Europa League     # change key to europe.el to match folder structure?

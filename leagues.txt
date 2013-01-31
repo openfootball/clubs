@@ -1,7 +1,5 @@
 #######################################
 # internationl tournaments & cups w/ national teams
-#
-# - League.create_from_ary!( leagues_intl, club: false )
 
 
 euro,      Euro           ## change key to europe (to match folder structure?)

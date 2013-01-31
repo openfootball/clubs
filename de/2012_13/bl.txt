@@ -1,10 +1,10 @@
 #######
 # Deutsche Bundesliga 2012/13 Fixtures
 #
-# Note: to import into db use sport.db command line tool e.g.
+# see de.wikipedia.org/wiki/Fußball-Bundesliga_2012/13
 #
-#   $ sportdb -e de.2012/13 de/2012_13/bl     # import fixtures into DB from plain text
-#   $ sportdb -g -e de.2012/13 de/2012_13/bl  # generate Ruby fixtures from DB
+#  official -> bundesliga.de
+
 
 1. Spieltag
 
