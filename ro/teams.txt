@@ -1,4 +1,3 @@
-# encoding: utf-8
 
 ## fix: remove _ underscore from key (not supported)
 

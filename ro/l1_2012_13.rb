@@ -131,7 +131,3 @@ Game.create_from_ary!( games_l102, l102 )
 Game.create_from_ary!( games_l103, l103 )
 Game.create_from_ary!( games_l104, l104 )
 Game.create_from_ary!( games_l105, l105 )
-
-
-## The End
-#################
