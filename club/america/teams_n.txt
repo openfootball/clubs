@@ -23,6 +23,6 @@ dallas, FC Dallas, city:dallas, us
 
 # NB: three canadian teams play in mls w/ us teams
 
-toronto, Toronto FC, TFC, city:toronto, ca
+toronto, Toronto|Toronto FC, TFC, city:toronto, ca
 vancouver, Vancouver Whitecaps, city:vancouver, ca
 montreal, Montreal Impact, city:montreal, ca

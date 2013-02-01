@@ -25,12 +25,11 @@ br,     Campeonato Brasileiro Série A, br
 ########################################
 #  international leagues w/ football clubs teams
 
-cl,                Champions League  # change key to europe.cl to match folder structure?
+cl,                Champions League (Europe)  # change key to europe.cl to match folder structure?
 el,                Europa League     # change key to europe.el to match folder structure?
 copa.libertadores, Copa Libertadores # change key to america.libertadores
 copa.sud,          Copa Sudamericana # change key to america.sud
+america.cl,        Champions League (North/Central America & Caribbean)   # concaf
 
-
-## todo add champions league concaf (north/central america & caribbean)
 
 

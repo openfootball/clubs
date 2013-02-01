@@ -14,14 +14,13 @@
 
 
 
-
-
-
 ###
 # fix: time zone and times??
+#
+#  use spanish names for rounds
 
 
-1. Runde // Achtelfinale - Hinspiele
+(1) Achtelfinale - Hinspiele
 
 2012-09-26 12:00  Deportivo Quito  2:0   CA Tigre
 2012-09-26 12:00  Independiente   2:1   Liverpool FC Montevideo
@@ -33,7 +32,7 @@
 2012-10-04 12:00  Universidad Católica  2:0   Atlético Goianiense
 
 
-2. Runde // Achtelfinale - Rückspiele
+(2) Achtelfinale - Rückspiele
 
 2012-10-24 12:00  Atlético Goianiense   3:1   Universidad Católica
 2012-10-24 12:00  Millonarios Bogotá    3:0   Palmeiras
@@ -45,7 +44,7 @@
 2012-10-26 12:00  Liverpool FC Montevideo   1:2   Independiente
 
 
-3. Runde // Viertelfinale - Hinspiele
+(3) Viertelfinale - Hinspiele
 
 2012-10-31 12:00  Grêmio          1:0   Millonarios Bogotá
 2012-11-01 12:00  Cerro Porteño   1:0   CA Tigre
@@ -53,13 +52,9 @@
 2012-11-02 12:00  Independiente   2:2   Universidad Católica
 
 
-4. Runde // Viertelfinale - Rückspiele
+(4) Viertelfinale - Rückspiele
 
 2012-11-07 12:00  CA Tigre       4:2  Cerro Porteño  
 2012-11-07 12:00  São Paulo FC    5:0  U. de Chile
 2012-11-07 12:00  Universidad Católica 2:1  Independiente
 2012-11-07 12:00  Millonarios      -  Grêmio
-
-
-
-

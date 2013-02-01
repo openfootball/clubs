@@ -9,7 +9,12 @@
 #
 #  NB: use offical three letter codes from lfp.es
 
-barcelona, FC Barcelona|Fútbol Club Barcelona,    BAR,     city:barcelona
+###
+# todo: improve team name matcher
+#   sort by length first to enable greediest match of team name, for example, 
+#    Espanyol Barcelona instead of Barcelona 
+
+barcelona, Barcelona|FC Barcelona|Fútbol Club Barcelona,    BAR,     city:barcelona
 espanyol,  Espanyol Barcelona|Real CD Espanyol|Real Club Deportivo Espanyol|Real Club Deportivo Español,  ESP, city:barcelona
 
 madrid,    Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD,       city:madrid

@@ -6,7 +6,7 @@
 ## nb: three letter codes (tags) taken from official bundesliga.de site
 
 bayern,      FC Bayern München|Bayern München,    FCB, city:muenchen
-schalke,     FC Schalke 04,                       S04, city:gelsenkirchen
+schalke,     Schalke 04|FC Schalke 04,                       S04, city:gelsenkirchen
 dortmund,    Borussia Dortmund|Bor. Dortmund,     BVB, city:dortmund
 frankfurt,   Eintracht Frankfurt|E. Frankfurt,    FFM, city:frankfurt
 hannover,    Hannover 96,                         H96, city:hannover

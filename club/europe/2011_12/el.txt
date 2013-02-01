@@ -7,7 +7,7 @@
 #
 # Competition proper
 #   Dates:  15 September 2011 – 9 May 2012 
-#   Teams:  48+8 
+#   Teams:  48+8 (8 from champions league)
 #
 # Qualifying
 #   Dates: 30 June – 25 August 2011
@@ -21,14 +21,14 @@
 
 (1) Viertelfinale / Hinspiele  //   Do 29. März 2012
 
-2012-03-29 21:05   AZ               2–1  Valencia
+2012-03-29 21:05   AZ Alkmaar       2–1  Valencia
 2012-03-29 21:05   Schalke 04       2–4  Athletic Bilbao
 2012-03-29 21:05   Sporting CP      2–1  Metalist Kharkiv
 2012-03-29 21:05   Atlético Madrid  2–1  Hannover 96
 
 (2) Viertelfinale / Rückspiele //   Do  5. April 2012
 
-2012-04-05 21:05  Valencia          4–0  AZ
+2012-04-05 21:05  Valencia          4–0  AZ Alkmaar
 2012-04-05 21:05  Athletic Bilbao   2–2  Schalke 04
 2012-04-05 21:05  Metalist Kharkiv  1–1  Sporting CP
 2012-04-05 21:05  Hannover 96       1–2  Atlético Madrid

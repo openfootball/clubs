@@ -4,7 +4,7 @@
 ########################
 # El Salvador, sv
 
-metapan, Isidro Metapán|Asociación Deportiva Isidro Metapán, city:metapan, sv
+metapan, Metapán|Isidro Metapán|Asociación Deportiva Isidro Metapán, city:metapan, sv
 aguila,  Águila|Club Deportivo Águila, city:sansalvador, sv
 fas,     CD FAS|Club Deportivo FAS|Futbolistas Asociados Santanecos, FAS, city:santaana, sv
 alianza, Alianza|Alianza FC|Alianza Fútbol Club, city:sansalvador, sv

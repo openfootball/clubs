@@ -19,7 +19,8 @@ corinthians,   Corinthians|Corinthians SP|Corinthians São Paulo|Sport Club Cori
 saopaulo,      São Paulo|São Paulo FC|FC São Paulo|São Paulo SP|São Paulo Futebol Clube,  SAO, city:saopaulo
 portuguesa,    Portuguesa|Portuguesa SP|Portuguesa São Paulo|Associação Portuguesa de Desportos, POR, city:saopaulo
 
-santos,       Santos|Santos SP|Santos FC|FC Santos|Santos Futebol Clube,             SAN, city:santos
+## nb: santos key taken by Santos Laguna - liga mx - thus, use santossp for now
+santossp,       Santos|Santos SP|Santos FC|FC Santos|Santos Futebol Clube,             SAN, city:santos
 pontepreta,   Ponte Preta|Associação Atlética Ponte Preta,          PON, city:campinas
 
 

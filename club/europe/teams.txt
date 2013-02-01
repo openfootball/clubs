@@ -6,15 +6,16 @@
 #  use it/teams.txt for Italian Teams
 #  use fr/teams.txt for French Teams
 #  use at/teams.txt for Austrian Teams
+#  use ro/teams.txt for Romanian Teams
 
 
 ################################
 # Portugal, pt
 
 porto,        FC Porto,                        pt, city:porto
-benfica,      Benfica Lissabon|Benfica Lis.,   pt, city:lisboa
+benfica,      Benfica|Benfica Lissabon|Benfica Lis.,   pt, city:lisboa
 braga,        Sporting Braga,                  pt, city:braga
-sporting,     Sporting Lisboa,                 pt, city:lisboa
+sporting,     Sporting Lisboa|Sporting CP|Sporting Clube de Portugal,    pt, city:lisboa
 
 
 ################################
@@ -22,7 +23,7 @@ sporting,     Sporting Lisboa,                 pt, city:lisboa
 
 kiew,         Dynamo Kiew|FC Dynamo Kiew|Dynamo Kiev,          ua, city:kiev
 donezk,       Schachtjor Donezk|Shakhtar Don.|Shakhtar Donetsk,    ua, city:donetsk
-metalist,     FC Metalist Kharkiv,      ua, city:kharkov
+metalist,     FC Metalist Kharkiv|Metalist Kharkiv,      ua, city:kharkov
 
 
 #############################
@@ -75,10 +76,6 @@ celtic,       Celtic Glasgow,          sc, city:glasgow
 
 galatasaray,  Galatasaray|Galatasaray Istanbul,           tr, city:istanbul
 
-######################
-# Romania, ro
-
-cluj,         CFR Cluj,              ro, city:cluj
 
 ########################
 # Switzerland, ch
@@ -88,4 +85,4 @@ basel,        Basel|FC Basel 1893,            ch, city:basel
 #############################
 # Cyprus, cy
 
-apoel,        APOEL Nikosia,            cy, city:nikosia
+apoel,        APOEL|APOEL Nikosia,            cy, city:nikosia
