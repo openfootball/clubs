@@ -1,4 +1,4 @@
-# 
+#######################################################
 # Champions League CONCACAF
 #  - CONCACAF = North/Central America & Carribean
 #
@@ -294,7 +294,7 @@ Matchday 6  / Group  8  //   October 23-25, 2012
 ###################
 # Knockout Stage
 
-Quarterfinals / 1st Leg // March 5–7, 2013
+(7) Quarterfinals / 1st Leg // March 5–7, 2013
 
 2013-03-05 20:00  Houston Dynamo - Santos Laguna
 2013-03-06 20:00  Xelajú - Monterrey
@@ -302,7 +302,7 @@ Quarterfinals / 1st Leg // March 5–7, 2013
 2013-03-07 20:00  Herediano - LA Galaxy
 
 
-Quarterfinals / 2nd Leg // March 12–14, 2013
+(8) Quarterfinals / 2nd Leg // March 12–14, 2013
 
 2013-03-12 20:00  Monterrey - Xelajú
 2013-03-12 20:00  Seattle Sounders - Tigres UANL
@@ -310,13 +310,13 @@ Quarterfinals / 2nd Leg // March 12–14, 2013
 2013-03-13 20:00  LA Galaxy - Herediano
 
 
-Semifinals  / 1st Leg    // April 2–4, 2013
+(9) Semifinals  / 1st Leg    // April 2–4, 2013
 
-Semifinals  / 2nd Leg    // April 9–11, 2013
+(10) Semifinals  / 2nd Leg    // April 9–11, 2013
 
 
-Finals  / 1st Leg       // April 24, 2013
+(11) Finals  / 1st Leg       // April 24, 2013
 
-Finals  / 2nd Leg       // May 1, 2013
+(12) Finals  / 2nd Leg       // May 1, 2013
 
 

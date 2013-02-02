@@ -1,6 +1,9 @@
 #########################
 #  Copa Libertadores de América 2012
 
+league: copa.libertadores
+season: 2012
+start_at: 2012-01-24 12:00
 
 ######
 # Teams
@@ -16,4 +19,43 @@
 #   Venezuela   - 3 teams
 #   Mexico      - 3 teams
 
+teams:
+- sporthuancayo
+- realpotosi
+- caracas
+- elnacional
+- oncecaldas
+- tigres
+- santossp      # Group 1
+- interrs
+- thestrongest
+- juanaurich
+- lanus         # Group 2
+- emelec
+- flamengo
+- olimpia
+- unionespanola # Group 3
+- bolivar
+- junior
+- cduc
+- fluminense    # Group 4
+- bocajuniors
+- arsenal        # todo: check key - conflict w/ arsenal in london -change to ??
+- zamora
+- libertad      # Group 5
+- vascodagama
+- nacional       # Nacional de Montevideo
+- alianzalima
+- corinthians   # Group 6
+- cruzazul
+- nacionalasuncion  # Nacional de Asuncion  - what key to use?
+- deportivotachira
+- velez          # Group 7
+- quito
+- defensorsporting
+- chivas
+- udechile       # Group 8
+- atleticonacional
+- godoycruz
+- penarol
 

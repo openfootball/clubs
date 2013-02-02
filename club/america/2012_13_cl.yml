@@ -1,0 +1,36 @@
+#######################################
+# Champions League CONCACAF 2012/13
+
+league: america.cl
+season: 2012/13
+start_at: 2011-07-31 12:00
+
+
+#########
+# 24 teams (from 11 associations)
+
+teams:
+- santos       # group 1
+- toronto
+- aguila
+- herediano    # group 2
+- saltlake
+- tauro
+- houston      # group 3
+- olimpia
+- fas
+- seattle      # group 4
+- marathon
+- caledonia
+- galaxy       # group 5
+- puertorico
+- metapan
+- tigres       # group 6
+- alajuelense
+- esteli
+- monterrey    # group 7
+- municipal
+- chorrillo
+- xelaju       # group 8
+- chivas
+- wconnection

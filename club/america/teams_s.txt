@@ -53,7 +53,7 @@ loja,        LDU Loja|LDU de Loja|Liga de Loja|Liga Deportiva Universitaria de L
 
 libertad, Club Libertad Asunción|Libertad|Libertad Ascunción, city:asuncion, py
 olimpia,  Olimpia|Club Olimpia, city:asuncion, py
-nacional, Nacional|Nacional de Asunción|Club Nacional, city:asuncion, py
+nacionalasuncion, Nacional|Nacional de Asunción|Club Nacional, city:asuncion, py
 porteno,  Cerro Porteño|Club Cerro Porteño, py
 
 
@@ -87,4 +87,4 @@ caracas, Caracas|Caracas FC|Caracas Fútbol Club, city:caracas, ve
 deportivotachira, Deportivo Táchira|Deportivo Táchira Fútbol Club, city:sancristobal, ve
 zamora, Zamora|Zamora FC|Zamora Fútbol Club, city:barinas, ve
 deportivolara, Deportivo Lara|Club Deportivo Lara, city:barquisimeto, ve
-Deportivoanzoategui, Deportivo Anzoátegui|Deportivo Anzoátegui Sport Club, city:puertolacruz, ve
+deportivoanzoategui, Deportivo Anzoátegui|Deportivo Anzoátegui Sport Club, city:puertolacruz, ve
