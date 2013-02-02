@@ -4,6 +4,7 @@
 league: copa.libertadores
 season: 2012
 start_at: 2012-01-24 12:00
+team3: false
 
 ######
 # Teams
