@@ -1,0 +1,23 @@
+#########################
+#  Copa Libertadores de América 2013
+
+league: copa.libertadores
+season: 2013
+start_at: 2013-01-22 12:00
+
+
+teams:
+- tigre
+- deportivoanzoategui
+- gremio
+- ligadequito
+- trujillo
+- deportestolima
+- olimpia
+- defensorsporting
+- bolivar
+- saopaulo
+- leon
+- iquique
+
+## add group teams
