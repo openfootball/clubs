@@ -1,4 +1,4 @@
-#########################
+########################################
 #  Copa Libertadores de América 2013
 
 league: copa.libertadores
@@ -8,17 +8,42 @@ team3: false
 
 
 teams:
-- tigre
+
 - deportivoanzoategui
-- gremio
 - ligadequito
 - trujillo
-- deportestolima
-- olimpia
 - defensorsporting
 - bolivar
-- saopaulo
 - leon
+- barcelonasc     # Group 1   # nb: key conflicts w/ barcelona (use bercelonasc or something else??)
+- nacional
+- bocajuniors
+- toluca
+- sportingcristal # Group 2
+- libertad
+- palmeiras
+- tigre
+- arsenal         # Group 3   # nb: fix use differnt key; conflicts w/ arsenal
+- thestrongest
+- atleticomg
+- saopaulo
+- velez           # Group 4
+- penarol
+- emelec
 - iquique
-
-## add group teams
+- corinthians     # Group 5
+- sanjose
+- millonarios
+- tijuana
+- santafe         # Group 6
+- porteno
+- realgarcilaso
+- deportestolima
+- deportivolara   # Group 7
+- udechile
+- newells
+- olimpia
+- fluminense      # Group 8
+- huachipato
+- caracas
+- gremio

@@ -11,23 +11,52 @@ Get a copy of the `football.db` file. That's it.
 
 ## Football (Soccer) Events
 
-International w/ national teams (e.g. Austria, England, etc.)
+### International w/ national teams (e.g. Austria, England, etc.)
 
-* [World Cup Quali 2012/13, World Cup 2010](https://github.com/geraldb/football.db/tree/master/world)
+World
+
+* [FIFA World Cup 2010, 2014](https://github.com/geraldb/football.db/tree/master/world)
+* [FIFA World Cup Quali 2014](https://github.com/geraldb/football.db/tree/master/world)
+* [FIFA Confederations Cup 2009, 2013](https://github.com/geraldb/football.db/tree/master/world)
+
+America (North/Central America and the Caribeans, South America)
+
+* [CONCACAF Copa Oro / Gold Cup 2011, 2013](https://github.com/geraldb/football.db/tree/master/amercia)
+* [CONMEBOL Copa América 2011, 2015](https://github.com/geraldb/football.db/tree/master/amercia)
+
+Europe
+
 * [UEFA European Football Championship (Euro) 2012, 2008](https://github.com/geraldb/football.db/tree/master/europe)
 
-International w/ football club teams (e.g. FC Barcelona, Manchester Utd, etc.)
+### International w/ football club teams (e.g. Barcelona, Manchester Utd, etc.)
+
+Amercia (North/Central America and the Caribeans, South America)
+
+* [CONCACAF Champions League 2011/12, 2012/13](https://github.com/geraldb/football.db/tree/master/club/america)
+* [CONMEBOL Copa Sudamericana 2012](https://github.com/geraldb/football.db/tree/master/club/america)
+* [CONMEBOL Copa Libertadores 2012, 2013](https://github.com/geraldb/football.db/tree/master/club/america)
+
+Europe
 
 * [UEFA Champions League 2011/12, 2012/13](https://github.com/geraldb/football.db/tree/master/club/europe)
 * [UEFA Europa League 2011/12](https://github.com/geraldb/football.db/tree/master/club/europe)
 
-National leagues & cups w/ football club teams 
+### National leagues & cups w/ football club teams 
+
+Europe
 
 * [English Permier League 2012/13](https://github.com/geraldb/football.db/tree/master/en)
 * [Deutsche Bundesliga 2012/13](https://github.com/geraldb/football.db/tree/master/de)
-* [Österreichische Bundesliga 2011/12, 2012/13](https://github.com/geraldb/football.db/tree/master/at), [ÖFB Cup 2011/12, 2012/13](https://github.com/geraldb/sport.db/tree/master/at)
+* [Österreichische Bundesliga 2011/12, 2012/13](https://github.com/geraldb/football.db/tree/master/at),
+  [ÖFB Cup 2011/12, 2012/13](https://github.com/geraldb/sport.db/tree/master/at)
 * [Romania Liga 1 2012/13](https://github.com/geraldb/football.db/tree/master/ro)
+
+North America
+
 * [México Primera División Apertura 2012](https://github.com/geraldb/football.db/tree/master/mx)
+
+South America
+
 
 Anything missing? Add your leagues, teams, fixtures and more.
 

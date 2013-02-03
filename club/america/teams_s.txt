@@ -9,7 +9,7 @@
 bolivar, Bolívar|Club Bolívar, city:lapaz, bo
 thestrongest, The Strongest|Club The Strongest, city:lapaz, bo
 realpotosi, Real Potosí|Club Bamin Real Potosí, city:potosi, bo
-sanjose, San José|Club Deportivo San José, city:oruro, bo
+sanjose, San José|Club Deportivo San José, city:oruro, bo      # check: conflict w/ sanjose en us?? exists??
 
 
 ###################
@@ -43,7 +43,7 @@ elnacional,  El Nacional|Club Deportivo El Nacional,   city:quito, ec
 ligadequito, LDU Quito|LDU de Quito|Liga de Quito|Liga Deportiva Universitaria de Quito, city:quito, ec
 
 emelec,      CS Emelec|Emelec|Club Sport Emelec, city:guayaquil, ec
-barcelonasc, Barcelona SC Guayaquil|Barcelona SC|Barcelona Sporting Club|Barcelona Guayaquil, city:guayaquil, ec
+barcelonasc, Barcelona|Barcelona SC Guayaquil|Barcelona SC|Barcelona Sporting Club|Barcelona Guayaquil, city:guayaquil, ec
 
 loja,        LDU Loja|LDU de Loja|Liga de Loja|Liga Deportiva Universitaria de Loja, city:loja, ec
 

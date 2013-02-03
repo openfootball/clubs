@@ -1,4 +1,4 @@
-#########################
+##########################################
 #  Copa Libertadores de América 2013
 #
 #  see en.wikipedia.org/wiki/2013_Copa_Libertadores
@@ -7,57 +7,330 @@
 #  official -> www.conmebol.com/secciones/copa_santander_libertadores.html
 #              www.conmebol.com/pages/estadisticas_copa_santander_libertadores.html
 #
-#  Dates:  January 22 – July 24, 2013
+#  Dates:  January 22 - July 24, 2013
 #  Teams:  38 (from 11 associations)
 #  Matches:  138
 #
 #  every year
 
 
+###
+# fix: check  Vélez Sársfield  check if a get escaped ?? w/ regex
+
 ##
-## todo/fix: add/check teams
+# NB: tip - do NOT forget to replace unicode-dash, that is, – w/ "plain"-dash, that is, -
+#   otherwise scores won't get matched
+
+###
+# NB:  no extra time is played in playoffs -  except for the final!!
+
+## NB: no game for 3rd place
 
 
 # see http://www.conmebol.com/export/sites/conmebol/Docs/Copa_Libertadores/2013/Prog_1ay2aFase_Libertadores_2013.pdf
 #  for official match days
 
-##########
+############################
 # First Stage
 
-(1) Matchday P.1 -  Leg 1 / Ida
+(1) Matchday P.1  /  1st Leg  //   January 22–24
 
-2013-01-22 20:15   Tigre                2–1  Deportivo Anzoátegui  // G1
-2013-01-23 19:00   LDU Quito    v  Grêmio    // G2
-2013-01-24 19:15   Deportes Tolima  v  Universidad César Vallejo  // G3
-2013-01-24 20:00   Defensor Sporting  v  Olimpia               // G4
-2013-01-23 22:00   São Paulo  v  Bolívar          // G5
-2013-01-22 19:45   León    1–1  Iquique          // G6
+2013-01-22 20:15   Tigre              2-1  Deportivo Anzoátegui       // Match G1
+2013-01-23 19:00   LDU Quito          1-0  Grêmio                     // Match G2
+2013-01-24 19:15   Deportes Tolima    1-0  Universidad César Vallejo  // Match G3
+2013-01-24 20:00   Defensor Sporting  0-0  Olimpia                    // Match G4
+2013-01-23 22:00   São Paulo          5-0  Bolívar                    // Match G5
+2013-01-22 19:45   León               1-1  Iquique                    // Match G6
 
 
-(2) Matchday P.2 - Leg 2 / Vuelta
+(2) Matchday P.2  /  2nd Leg  // January 29–31
 
-2013-01-29 17:45   Deportivo Anzoátegui  v   Tigre                 // G1
-2013-01-30 22:00   Grêmio     v  LDU Quito                  // G2
-2013-01-31 19:45   Universidad César Vallejo  v  Deportes Tolima  // G3
-2013-01-31 19:15   Olimpia            v  Defensor Sporting     // G4
-2013-01-30 20:00   Bolívar    v  São Paulo        // G5
-2013-01-29 22:00   Iquique  v  León              // G6
+2013-01-29 17:45   Deportivo Anzoátegui       0-3  Tigre                // Match G1
+2013-01-30 22:00   Grêmio                     1-0 5-4iE  LDU Quito      // Match G2
+2013-01-31 19:45   Universidad César Vallejo  1-1  Deportes Tolima      // Match G3
+2013-01-31 19:15   Olimpia                    2-0  Defensor Sporting    // Match G4
+2013-01-30 20:00   Bolívar                    4-3  São Paulo            // Match G5
+2013-01-29 22:00   Iquique                    1-1 4-2iE  León           // Match G6
+
+
+#############################################
+# Second Stage  //  February 12 to April 18
+
+Group 1  |  Barcelona          Nacional         Boca Juniors          Toluca
+Group 2  |  Sporting Cristal   Libertad         Palmeiras             Tigre
+Group 3  |  Arsenal            The Strongest    Atlético Mineiro      São Paulo
+Group 4  |  Vélez Sársfield    Peñarol          Emelec                Iquique
+Group 5  |  Corinthians        San José         Millonarios           Tijuana
+Group 6  |  Santa Fe           Cerro Porteño    Real Garcilaso        Deportes Tolima
+Group 7  |  Deportivo Lara     Universidad de Chile  Newell's Old Boys   Olimpia
+Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
+
+
+##################
+# Group 1
+
+(3) Matchday 1 / Group 1  //  February 12–14
+
+2013-02-12 20:15  Nacional  v  Barcelona
+2013-02-13 21:00  Boca Juniors  v  Toluca
+
+(4) Matchday 2 / Group 1  //  February 19–21
+
+2013-02-19 20:45  Toluca  v  Nacional
+
+(5) Matchday 3 / Group 1  //  February 26–28
+
+2013-02-27 17:45  Barcelona  v  Boca Juniors
+
+(6) Matchday 4 / Group 1  //  March 5–7
+
+2013-03-06 21:15  Toluca  v  Barcelona
+2013-03-07 21:30  Boca Juniors  v  Nacional
+
+(7) Matchday 5 / Group 1  //  March 12–14
+
+2013-03-13 17:45  Barcelona  v  Toluca
+2013-03-14 19:15  Nacional  v  Boca Juniors
+
+(8) Matchday 6 / Group 1  //  April 2–4
+
+2013-04-03 19:45  Boca Juniors  v  Barcelona
+2013-04-04 19:15  Nacional  v  Toluca
+
+(9) Matchday 7 / Group 1  //  April 9–11
+
+(10) Matchday 8 / Group 1  //  April 16–18
+
+2013-04-17 17:45  Barcelona  v  Nacional
+2013-04-17 17:45  Toluca  v  Boca Juniors
+
+
+##################
+# Group 2
+
+(3) Matchday 1 / Group 2  //  February 12–14
+
+2013-02-14 22:00  Palmeiras  v  Sporting Cristal
+
+(4) Matchday 2 / Group 2  //  February 19–21
+
+2013-02-21 19:15  Tigre  v  Libertad
+
+(5) Matchday 3 / Group 2  //  February 26–28
+
+2013-02-28 19:15  Libertad  v  Palmeiras
+2013-02-28 21:45  Sporting Cristal  v  Tigre
+
+(6) Matchday 4 / Group 2  //  March 5–7
+
+2013-03-06 19:45  Libertad  v  Sporting Cristal
+2013-03-06 19:45  Tigre  v  Palmeiras
+
+(7) Matchday 5 / Group 2  //  March 12–14
+
+2013-03-12 21:45  Sporting Cristal  v  Libertad
+
+(8) Matchday 6 / Group 2  //  April 2–4
+
+2013-04-02 21:30  Palmeiras  v  Tigre
+
+(9) Matchday 7 / Group 2  //  April 9–11
+
+2013-04-09 19:15  Tigre  v  Sporting Cristal
+2013-04-11 19:15  Palmeiras  v  Libertad
+
+(10) Matchday 8 / Group 2  //  April 16–18
+
+2013-04-18 21:15  Libertad  v  Tigre
+2013-04-18 20:15  Sporting Cristal  v  Palmeiras
+
+
+##################
+# Group 3
+
+(3) Matchday 1 / Group 3  //  February 12–14
+
+2013-02-13 22:00  Atlético Mineiro  v  São Paulo
+2013-02-14 20:00  The Strongest  v  Arsenal
+
+(4) Matchday 2 / Group 3  //  February 19–21
+
+(5) Matchday 3 / Group 3  //  February 26–28
+
+2013-02-26 21:45  Arsenal  v  Atlético Mineiro
+2013-02-28 21:30  São Paulo  v  The Strongest
+
+(6) Matchday 4 / Group 3  //  March 5–7
+
+2013-03-07 19:15  São Paulo  v  Arsenal
+2013-03-07 21:30  Atlético Mineiro  v  The Strongest
+
+(7) Matchday 5 / Group 3  //  March 12–14
+
+2013-03-13 21:00  The Strongest  v  Atlético Mineiro
+2013-03-14 21:30  Arsenal  v  São Paulo
+
+(8) Matchday 6 / Group 3  //  April 2–4
+
+2013-04-03 22:00  Atlético Mineiro  v  Arsenal
+2013-04-04 20:30  The Strongest  v  São Paulo
+
+(9) Matchday 7 / Group 3  //  April 9–11
+
+(10) Matchday 8 / Group 3  //  April 16–18
+
+2013-04-17 22:00  Arsenal  v  The Strongest
+2013-04-17 22:00  São Paulo  v  Atlético Mineiro
+
+
+##################
+# Group 4
+
+(3) Matchday 1 / Group 4  //  February 12–14
+
+2013-02-12 19:30  Emelec  v  Vélez Sársfield
+2013-02-12 23:45  Iquique  v  Peñarol
+
+(4) Matchday 2 / Group 4  //  February 19–21
+
+2013-02-19 20:15  Peñarol  v  Emelec
+2013-02-20 19:45  Vélez Sársfield  v  Iquique
+
+(5) Matchday 3 / Group 4  //  February 26–28
+
+2013-02-26 20:30  Peñarol  v  Vélez Sársfield
+2013-02-27 24:15  Iquique  v  Emelec
+
+(6) Matchday 4 / Group 4  //  March 5–7
+
+2013-03-05 21:45  Emelec  v  Iquique
+
+(7) Matchday 5 / Group 4  //  March 12–14
+
+2013-03-12 19:15  Vélez Sársfield  v  Peñarol
+
+(8) Matchday 6 / Group 4  //  April 2–4
+
+2013-04-02 21:45  Emelec  v  Peñarol
+2013-04-03 23:15  Iquique  v  Vélez Sársfield    # NB: changed date from 24:15 to 23:15 (24:15 is invalid, check - use 00:15?)
+
+(9) Matchday 7 / Group 4  //  April 9–11
+
+2013-04-09 21:30  Peñarol  v  Iquique
+2013-04-09 21:30  Vélez Sársfield  v  Emelec
+
+(10) Matchday 8 / Group 4  //  April 16–18
+
+
+##################
+# Group 5
+
+(3) Matchday 1 / Group 5  //  February 12–14
+
+(4) Matchday 2 / Group 5  //  February 19–21
+
+(5) Matchday 3 / Group 5  //  February 26–28
+
+(6) Matchday 4 / Group 5  //  March 5–7
+
+(7) Matchday 5 / Group 5  //  March 12–14
+
+(8) Matchday 6 / Group 5  //  April 2–4
+
+(9) Matchday 7 / Group 5  //  April 9–11
+
+(10) Matchday 8 / Group 5  //  April 16–18
+
+
+##################
+# Group 6
+
+(3) Matchday 1 / Group 6  //  February 12–14
+
+(4) Matchday 2 / Group 6  //  February 19–21
+
+(5) Matchday 3 / Group 6  //  February 26–28
+
+(6) Matchday 4 / Group 6  //  March 5–7
+
+(7) Matchday 5 / Group 6  //  March 12–14
+
+(8) Matchday 6 / Group 6  //  April 2–4
+
+(9) Matchday 7 / Group 6  //  April 9–11
+
+(10) Matchday 8 / Group 6  //  April 16–18
+
+
+##################
+# Group 7
+
+(3) Matchday 1 / Group 7  //  February 12–14
+
+(4) Matchday 2 / Group 7  //  February 19–21
+
+(5) Matchday 3 / Group 7  //  February 26–28
+
+(6) Matchday 4 / Group 7  //  March 5–7
+
+(7) Matchday 5 / Group 7  //  March 12–14
+
+(8) Matchday 6 / Group 7  //  April 2–4
+
+(9) Matchday 7 / Group 7  //  April 9–11
+
+(10) Matchday 8 / Group 7  //  April 16–18
+
+
+##################
+# Group 8
+
+(3) Matchday 1 / Group 8  //  February 12–14
+
+(4) Matchday 2 / Group 8  //  February 19–21
+
+(5) Matchday 3 / Group 8  //  February 26–28
+
+(6) Matchday 4 / Group 8  //  March 5–7
+
+(7) Matchday 5 / Group 8  //  March 12–14
+
+(8) Matchday 6 / Group 8  //  April 2–4
+
+(9) Matchday 7 / Group 8  //  April 9–11
+
+(10) Matchday 8 / Group 8  //  April 16–18
+
+
+################
+# Round of 16
+
+(11) Round of 16 / 1st Leg   //  
+
+(12) Round of 16 / 2nd Leg   // 
+
+
+##################
+# Quarterfinals
+
+(13) Quarterfinal / 1st Leg   // 
+
+(14) Quarterfinal / 2nd Leg   //
+
+
+##############
+# Semifinals
+
+(15) Semifinals  / 1st Leg   //
+
+(16) Semifinals  / 2nd Leg   //
 
 
 ############
-# Second Stage
+# Finals
 
-# Group 1  |  Barcelona          Nacional         Boca Juniors          Toluca
-# Group 2  |  Sporting Cristal   Libertad         Palmeiras
-# Group 3  |  Arsenal            The Strongest    Atlético Mineiro
-# Group 4  |  Vélez Sársfield    Peñarol          Emelec 
-# Group 5  |  Corinthians        San José         Millonarios           Tijuana
-# Group 6  |  Santa Fe           Cerro Porteño    Real Garcilaso
-# Group 7  |  Deportivo Lara     Universidad de Chile  Newell's Old Boys
-# Group 8  |  Fluminense         Huachipato       Caracas
+(17) Final / 1st Leg  // 
 
-
-
-
+(18) Final / 2nd Leg  //
 
 
