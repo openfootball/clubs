@@ -16,7 +16,7 @@
 
 
 ############
-# Groups
+# Gruppen
 #
 
 Gruppe A  |  POL  GRE  RUS  CZE
@@ -27,7 +27,7 @@ Gruppe D  |  UKR  SWE  FRA  ENG
 
 
 ##################
-## Gruppenphase  / Group stage
+## Gruppenphase 
 
 
 #############
@@ -107,9 +107,9 @@ Gruppe D  |  UKR  SWE  FRA  ENG
 
 
 #################
-# Finalrunde / Knockout phase
+# Finalrunde
 
-4. Runde // Viertelfinale /  Quarter-finals
+(4) Viertelfinale
 
 (25) CZE  0:1             POR  2012-06-21 20:45
 (26) GER  4:2             GRE  2012-06-22 20:45
@@ -117,12 +117,12 @@ Gruppe D  |  UKR  SWE  FRA  ENG
 (28) ENG  0:0 0:0nV 2:4iE ITA  2012-06-24 20:45
 
 
-5. Runde // Halbfinale  / Semi-finals
+(5) Halbfinale
 
 (29)  POR  0:0 0:0nV 2:4iE  ESP  2012-06-27 20:45
 (30)  GER  1:2              ITA  2012-06-28 20:45
 
 
-6. Runde // Finale  /  Final
+(6) Finale
 
 (31)  ESP  4:0  ITA   2012-07-01 20:45

@@ -199,7 +199,7 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 (5) Matchday 3 / Group 4  //  February 26–28
 
 2013-02-26 20:30  Peñarol  v  Vélez Sársfield
-2013-02-27 24:15  Iquique  v  Emelec
+2013-02-27 23:15  Iquique  v  Emelec           # NB: changed date from 24:15 to 23:15 (24:15 is invalid, check - use 00:15?)      
 
 (6) Matchday 4 / Group 4  //  March 5–7
 
@@ -229,15 +229,33 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (4) Matchday 2 / Group 5  //  February 19–21
 
+2013-02-19 19:30  Millonarios  v  Tijuana
+2013-02-20 21:00  San José  v  Corinthians
+
 (5) Matchday 3 / Group 5  //  February 26–28
+
+2013-02-26 19:15  Tijuana  v  San José
+2013-02-27 22:00  Corinthians  v  Millonarios
 
 (6) Matchday 4 / Group 5  //  March 5–7
 
+2013-03-06 17:00  Tijuana  v  Corinthians
+2013-03-07 21:45  Millonarios  v  San José
+
 (7) Matchday 5 / Group 5  //  March 12–14
+
+2013-03-13  22:00  Corinthians  v  Tijuana
+2013-03-14  20:30  San José  v  Millonarios
 
 (8) Matchday 6 / Group 5  //  April 2–4
 
+2013-04-03 18:45  San José  v  Tijuana
+2013-04-03 20:00  Millonarios  v  Corinthians
+
 (9) Matchday 7 / Group 5  //  April 9–11
+
+2013-04-10 22:00  Corinthians  v  San José
+2013-04-10 18:00  Tijuana  v  Millonarios
 
 (10) Matchday 8 / Group 5  //  April 16–18
 
@@ -247,19 +265,39 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (3) Matchday 1 / Group 6  //  February 12–14
 
+2013-02-13 21:15  Real Garcilaso  v  Santa Fe
+2013-02-14 21:15  Deportes Tolima  v  Cerro Porteño
+
 (4) Matchday 2 / Group 6  //  February 19–21
+
+2013-02-21 21:30  Cerro Porteño  v  Real Garcilaso
+2013-02-21 21:45  Santa Fe  v  Deportes Tolima
 
 (5) Matchday 3 / Group 6  //  February 26–28
 
+2013-02-26 17:45  Deportes Tolima  v  Real Garcilaso
+
 (6) Matchday 4 / Group 6  //  March 5–7
+
+2013-03-07 19:15  Cerro Porteño  v  Santa Fe
 
 (7) Matchday 5 / Group 6  //  March 12–14
 
+2013-03-14 21:45  Santa Fe  v  Cerro Porteño
+
 (8) Matchday 6 / Group 6  //  April 2–4
+
+2013-04-02 19:30  Real Garcilaso  v  Deportes Tolima
 
 (9) Matchday 7 / Group 6  //  April 9–11
 
+2013-04-09 21:45  Deportes Tolima  v  Santa Fe
+2013-04-10 17:45  Real Garcilaso  v  Cerro Porteño
+
 (10) Matchday 8 / Group 6  //  April 16–18
+
+2013-04-16 21:15  Cerro Porteño  v  Deportes Tolima
+2013-04-16 20:15  Santa Fe  v  Real Garcilaso
 
 
 ##################
@@ -267,17 +305,35 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (3) Matchday 1 / Group 7  //  February 12–14
 
+2013-02-12 21:30  Universidad de Chile  v  Deportivo Lara
+2013-02-14 18:45  Newell's Old Boys  v  Olimpia
+
 (4) Matchday 2 / Group 7  //  February 19–21
+
+2013-02-19 21:30  Olimpia  v  Universidad de Chile
+2013-02-21 17:45  Deportivo Lara  v  Newell's Old Boys
 
 (5) Matchday 3 / Group 7  //  February 26–28
 
 (6) Matchday 4 / Group 7  //  March 5–7
 
+2013-03-05 19:15  Olimpia  v  Deportivo Lara
+2013-03-05 21:30  Newell's Old Boys  v  Universidad de Chile
+
 (7) Matchday 5 / Group 7  //  March 12–14
+
+2013-03-12 21:30  Universidad de Chile  v  Newell's Old Boys
+2013-03-13 18:15  Deportivo Lara  v  Olimpia
 
 (8) Matchday 6 / Group 7  //  April 2–4
 
+2013-04-02 19:15  Universidad de Chile  v  Olimpia
+2013-04-04 19:15  Newell's Old Boys  v  Deportivo Lara
+
 (9) Matchday 7 / Group 7  //  April 9–11
+
+2013-04-11 20:00  Deportivo Lara  v  Universidad de Chile
+2013-04-11 21:30  Olimpia  v  Newell's Old Boys
 
 (10) Matchday 8 / Group 7  //  April 16–18
 
@@ -287,19 +343,39 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (3) Matchday 1 / Group 8  //  February 12–14
 
+2013-02-13 19:30  Caracas  v  Fluminense
+2013-02-14 19:45  Grêmio  v  Huachipato
+
 (4) Matchday 2 / Group 8  //  February 19–21
+
+2013-02-20 19:45  Huachipato  v  Caracas
+2013-02-20 22:00  Fluminense  v  Grêmio
 
 (5) Matchday 3 / Group 8  //  February 26–28
 
+2013-02-27 22:00  Huachipato  v  Fluminense
+
 (6) Matchday 4 / Group 8  //  March 5–7
+
+2013-03-05 21:30  Grêmio  v  Caracas
+2013-03-06 22:00  Fluminense  v  Huachipato
 
 (7) Matchday 5 / Group 8  //  March 12–14
 
+2013-03-12 20:00  Caracas  v  Grêmio
+
 (8) Matchday 6 / Group 8  //  April 2–4
+
+2013-04-04 20:00  Caracas  v  Huachipato
 
 (9) Matchday 7 / Group 8  //  April 9–11
 
+2013-04-10 22:00  Grêmio  v  Fluminense
+
 (10) Matchday 8 / Group 8  //  April 16–18
+
+2013-04-18 19:00  Huachipato  v  Grêmio
+2013-04-18 20:00  Fluminense  v  Caracas
 
 
 ################

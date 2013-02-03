@@ -102,23 +102,23 @@ Gruppe D  |  Griechenland  Schweden    Spanien      Russland
 
 
 #################
-# Finalrunde / Knockout phase
+# Finalrunde
 
 
-4. Runde // Viertelfinale /  Quarter-finals
+(4) Viertelfinale
 
 Do 2008-06-19 20:45   Portugal    -    Deutschland   2:3
 Fr 2008-06-20 20:45   Kroatien    -    Türkei        1:3iE  1:1nV  0:0
 Sa 2008-06-21 20:45   Niederlande -    Russland      1:3nV  1:1
 So 2008-06-22 20:45   Spanien     -    Italien       4:2iE  0:0nV  0:0
 
-5. Runde // Halbfinale  / Semi-finals
+(5) Halbfinale
 
 Mi 2008-06-25 20:45  Deutschland   -   Türkei   3:2
 Do 2008-06-26 20:45  Russland      -   Spanien  0:3
 
 
-6. Runde // Finale  /  Final
+(6) Finale
 
 So 2008-06-29 20:45   Deutschland  -   Spanien  0:1
 
