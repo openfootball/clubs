@@ -9,6 +9,7 @@ Get a copy of the `football.db` file. That's it.
 
 ![](https://raw.github.com/geraldb/football.db/master/i/sqlitestudio.png)
 
+
 ## Football (Soccer) Events
 
 ### International w/ national teams (e.g. Austria, England, etc.)
@@ -22,7 +23,7 @@ World
 America (North/Central America and the Caribeans, South America)
 
 * [CONCACAF Copa Oro / Gold Cup 2011, 2013](https://github.com/geraldb/football.db/tree/master/amercia)
-* [CONMEBOL Copa América 2011, 2015](https://github.com/geraldb/football.db/tree/master/amercia)
+* [CONMEBOL Copa AmÃ©rica 2011, 2015](https://github.com/geraldb/football.db/tree/master/amercia)
 
 Europe
 
@@ -47,13 +48,13 @@ Europe
 
 * [English Permier League 2012/13](https://github.com/geraldb/football.db/tree/master/en)
 * [Deutsche Bundesliga 2012/13](https://github.com/geraldb/football.db/tree/master/de)
-* [Österreichische Bundesliga 2011/12, 2012/13](https://github.com/geraldb/football.db/tree/master/at),
-  [ÖFB Cup 2011/12, 2012/13](https://github.com/geraldb/sport.db/tree/master/at)
+* [Ã–sterreichische Bundesliga 2011/12, 2012/13](https://github.com/geraldb/football.db/tree/master/at),
+  [Ã–FB Cup 2011/12, 2012/13](https://github.com/geraldb/sport.db/tree/master/at)
 * [Romania Liga 1 2012/13](https://github.com/geraldb/football.db/tree/master/ro)
 
 North America
 
-* [México Primera División Apertura 2012](https://github.com/geraldb/football.db/tree/master/mx)
+* [MÃ©xico Primera DivisiÃ³n Apertura 2012](https://github.com/geraldb/football.db/tree/master/mx)
 
 South America
 

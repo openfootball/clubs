@@ -1,17 +1,17 @@
 #################################
 # Champions League 2012/13
 #
-#  see en.wikipedia.org/wiki/2012–13_UEFA_Champions_League
+#  see en.wikipedia.org/wiki/2012-13_UEFA_Champions_League
 #      de.wikipedia.org/wiki/UEFA_Champions_League_2012/13
 #
 #  official -> www.uefa.com/uefachampionsleague/season=2013
 #
 #  Competition proper
-#    Dates: 18 September 2012 – 25 May 2013
+#    Dates: 18 September 2012 - 25 May 2013
 #    Teams: 32 (group stage)
 #
 #  Qualifying
-#    Dates: 3 July – 29 August 2012
+#    Dates: 3 July - 29 August 2012
 #    Teams: 76 (from 52 associations/countries)
 
 
@@ -27,75 +27,179 @@ Gruppe F  |  Bayern München        FC Valencia            BATE Baryssau        
 Gruppe G  |  FC Barcelona          Celtic Glasgow         Benfica Lissabon         Spartak Moskau
 Gruppe H  |  Manchester United     Galatasaray Istanbul   CFR Cluj                 SC Braga
 
-(1)  Spieltag 1   // Di./Mi., 18.+19. Sep 2012
-(2)  Spieltag 2   // Di./Mi., 2.+3. Okt 2012
-(3)  Spieltag 3   // Di./Mi., 23.+24. Okt 2012
-(4)  Spieltag 4   // Di./Mi., 6.+7. Nov 2012
-(5)  Spieltag 5   // Di./Mi., 20.+21. Nov 2012
-(6)  Spieltag 6   // Di./Mi., 4.+5. Dez 2012
 
 #################################
 # Gruppe A
 
-2012-09-18 20:45  Dinamo Zagreb 0:2 FC Porto             /  Spieltag 1
-2012-09-18 20:45  Paris Saint-Germain 4:1 Dynamo Kiew  /  Spieltag 1
+Spieltag 1 / Gruppe A  // Di./Mi., 18.+19. Sep 2012
 
-2012-10-03 20:45  Dynamo Kiew 2:0 Dinamo Zagreb        /  Spieltag 2
-2012-10-03 20:45  FC Porto 1:0 Paris Saint-Germain          /  Spieltag 2
+2012-09-18 20:45  Dinamo Zagreb 0-2 FC Porto
+2012-09-18 20:45  Paris Saint-Germain 4-1 Dynamo Kiew
 
-2012-10-24 20:45  Dinamo Zagreb 0:2 Paris Saint-Germain   /  Spieltag 3
-2012-10-24 20:45  FC Porto 3:2 Dynamo Kiew                   /  Spieltag 3
+Spieltag 2 / Gruppe A  // Di./Mi., 2.+3. Okt 2012
 
-2012-11-06 20:45  Dynamo Kiew 0:0 FC Porto               /  Spieltag 4
-2012-11-06 20:45  Paris Saint-Germain 4:0 Dinamo Zagreb  /  Spieltag 4
+2012-10-03 20:45  Dynamo Kiew 2-0 Dinamo Zagreb
+2012-10-03 20:45  FC Porto 1-0 Paris Saint-Germain
 
-2012-11-21 20:45  Dynamo Kiew 0:2 Paris Saint-Germain    /  Spieltag 5
-2012-11-21 20:45  FC Porto 3:0 Dinamo Zagreb                  /  Spieltag 5
+Spieltag 3 / Gruppe A  // Di./Mi., 23.+24. Okt 2012
 
-2012-12-04 20:45  Paris Saint-Germain 2:1 FC Porto       /  Spieltag 6
-2012-12-04 20:45  Dinamo Zagreb 1:1 Dynamo Kiew            /  Spieltag 6
+2012-10-24 20:45  Dinamo Zagreb 0-2 Paris Saint-Germain
+2012-10-24 20:45  FC Porto 3-2 Dynamo Kiew
+
+Spieltag 4 / Gruppe A  // Di./Mi., 6.+7. Nov 2012
+
+2012-11-06 20:45  Dynamo Kiew 0-0 FC Porto
+2012-11-06 20:45  Paris Saint-Germain 4-0 Dinamo Zagreb
+
+Spieltag 5 / Gruppe A  // Di./Mi., 20.+21. Nov 2012
+
+2012-11-21 20:45  Dynamo Kiew 0-2 Paris Saint-Germain
+2012-11-21 20:45  FC Porto 3-0 Dinamo Zagreb
+
+Spieltag 6 / Gruppe A  // Di./Mi., 4.+5. Dez 2012
+
+2012-12-04 20:45  Paris Saint-Germain 2-1 FC Porto
+2012-12-04 20:45  Dinamo Zagreb 1-1 Dynamo Kiew
 
 
 #################################
 # Gruppe B
 
+Spieltag 1 / Gruppe B  // Di./Mi., 18.+19. Sep 2012
+
+2012-09-18 20:45  Montpellier  1-2  Arsenal
+2012-09-18 20:45  Olympiacos  1-2  Schalke 04
+
+Spieltag 2 / Gruppe B  // Di./Mi., 2.+3. Okt 2012
+
+2012-10-03 20:45  Schalke 04  2-2  Montpellier
+2012-10-03 20:45  Arsenal  3-1  Olympiacos
+
+Spieltag 3 / Gruppe B  // Di./Mi., 23.+24. Okt 2012
+
+2012-10-24 20:45  Arsenal  0-2  Schalke 04
+2012-10-24 20:45  Montpellier  1-2  Olympiacos
+
+Spieltag 4 / Gruppe B  // Di./Mi., 6.+7. Nov 2012
+
+2012-11-06 20:45  Schalke 04  2-2  Arsenal
+2012-11-06 20:45  Olympiacos  3-1  Montpellier
+
+Spieltag 5 / Gruppe B  // Di./Mi., 20.+21. Nov 2012
+
+2012-11-21 20:45  Arsenal  2-0  Montpellier
+2012-11-21 20:45  Schalke 04  1-0  Olympiacos
+
+Spieltag 6 / Gruppe B  // Di./Mi., 4.+5. Dez 2012
+
+2012-12-04 20:45  Montpellier  1-1  Schalke 04
+2012-12-04 20:45  Olympiacos  2-1  Arsenal
 
 
 #################################
 # Gruppe C
 
+Spieltag 1 / Gruppe C  // Di./Mi., 18.+19. Sep 2012
+
+Spieltag 2 / Gruppe C  // Di./Mi., 2.+3. Okt 2012
+
+Spieltag 3 / Gruppe C  // Di./Mi., 23.+24. Okt 2012
+
+Spieltag 4 / Gruppe C  // Di./Mi., 6.+7. Nov 2012
+
+Spieltag 5 / Gruppe C  // Di./Mi., 20.+21. Nov 2012
+
+Spieltag 6 / Gruppe C  // Di./Mi., 4.+5. Dez 2012
 
 
 #################################
 # Gruppe D
 
+Spieltag 1 / Gruppe D  // Di./Mi., 18.+19. Sep 2012
+
+Spieltag 2 / Gruppe D  // Di./Mi., 2.+3. Okt 2012
+
+Spieltag 3 / Gruppe D  // Di./Mi., 23.+24. Okt 2012
+
+Spieltag 4 / Gruppe D  // Di./Mi., 6.+7. Nov 2012
+
+Spieltag 5 / Gruppe D  // Di./Mi., 20.+21. Nov 2012
+
+Spieltag 6 / Gruppe D  // Di./Mi., 4.+5. Dez 2012
 
 
 
 #################################
 # Gruppe E
 
+Spieltag 1 / Gruppe E  // Di./Mi., 18.+19. Sep 2012
+
+Spieltag 2 / Gruppe E  // Di./Mi., 2.+3. Okt 2012
+
+Spieltag 3 / Gruppe E  // Di./Mi., 23.+24. Okt 2012
+
+Spieltag 4 / Gruppe E  // Di./Mi., 6.+7. Nov 2012
+
+Spieltag 5 / Gruppe E  // Di./Mi., 20.+21. Nov 2012
+
+Spieltag 6 / Gruppe E  // Di./Mi., 4.+5. Dez 2012
 
 
 #################################
 # Gruppe F
 
+Spieltag 1 / Gruppe F  // Di./Mi., 18.+19. Sep 2012
+
+Spieltag 2 / Gruppe F  // Di./Mi., 2.+3. Okt 2012
+
+Spieltag 3 / Gruppe F  // Di./Mi., 23.+24. Okt 2012
+
+Spieltag 4 / Gruppe F  // Di./Mi., 6.+7. Nov 2012
+
+Spieltag 5 / Gruppe F  // Di./Mi., 20.+21. Nov 2012
+
+Spieltag 6 / Gruppe F  // Di./Mi., 4.+5. Dez 2012
 
 
 
 #################################
 # Gruppe G
 
+Spieltag 1 / Gruppe G  // Di./Mi., 18.+19. Sep 2012
+
+Spieltag 2 / Gruppe G  // Di./Mi., 2.+3. Okt 2012
+
+Spieltag 3 / Gruppe G  // Di./Mi., 23.+24. Okt 2012
+
+Spieltag 4 / Gruppe G  // Di./Mi., 6.+7. Nov 2012
+
+Spieltag 5 / Gruppe G  // Di./Mi., 20.+21. Nov 2012
+
+Spieltag 6 / Gruppe G  // Di./Mi., 4.+5. Dez 2012
 
 
 
 #################################
 # Gruppe H
 
+Spieltag 1 / Gruppe H  // Di./Mi., 18.+19. Sep 2012
+
+Spieltag 2 / Gruppe H  // Di./Mi., 2.+3. Okt 2012
+
+Spieltag 3 / Gruppe H  // Di./Mi., 23.+24. Okt 2012
+
+Spieltag 4 / Gruppe H  // Di./Mi., 6.+7. Nov 2012
+
+Spieltag 5 / Gruppe H  // Di./Mi., 20.+21. Nov 2012
+
+Spieltag 6 / Gruppe H  // Di./Mi., 4.+5. Dez 2012
+
+
+########################
+# Finalrunden
+
 
 (7)  Achtelfinale             // Di./Mi., 12.+13./19.+20. Feb 2013
-
-
 
 
 (8)  Achtelfinale Rückspiele  // Di./Mi., 5.+6./12.+13. Mär 2013
@@ -109,20 +213,6 @@ Gruppe H  |  Manchester United     Galatasaray Istanbul   CFR Cluj              
 
 
 
-games_clb = [
-  [[ 3, montpellier, [1,2], arsenal,     Time.cet('2012-09-18 20:45'), clr1 ],
-   [ 4, arsenal,     [2,0], montpellier, Time.cet('2012-11-21 20:45'), clr5 ]],
-  [[ 4, olympiacos,  [1,2], schalke,     Time.cet('2012-09-18 20:45'), clr1 ],
-   [ 3, schalke,     [1,0], olympiacos,  Time.cet('2012-11-21 20:45'), clr5 ]],
-  [[ 3, arsenal,     [3,1], olympiacos,  Time.cet('2012-10-03 20:45'), clr2 ],
-   [ 3, olympiacos,  [2,1], arsenal,     Time.cet('2012-12-04 20:45'), clr6 ]],
-  [[ 4, schalke,     [2,2], montpellier, Time.cet('2012-10-03 20:45'), clr2 ],
-   [ 4, montpellier, [1,1], schalke,     Time.cet('2012-12-04 20:45'), clr6 ]],
-  [[ 3, arsenal,     [0,2], schalke,     Time.cet('2012-10-24 20:45'), clr3 ],
-   [ 3, schalke,     [2,2], arsenal,     Time.cet('2012-11-06 20:45'), clr4 ]],
-  [[ 4, montpellier, [1,2], olympiacos,  Time.cet('2012-10-24 20:45'), clr3 ],
-   [ 4, olympiacos,  [3,1], montpellier, Time.cet('2012-11-06 20:45'), clr4 ]]
-]
 
 games_clc = [
   [[ 5, malaga,     [3,0], zenit,      Time.cet('2012-09-18 20:45'), clr1 ],
