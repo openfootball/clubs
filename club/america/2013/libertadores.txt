@@ -14,21 +14,20 @@
 #  every year
 
 
-###
-# fix: check  Vélez Sársfield  check if a get escaped ?? w/ regex
 
 ##
 # NB: tip - do NOT forget to replace unicode-dash, that is, – w/ "plain"-dash, that is, -
 #   otherwise scores won't get matched
 
 ###
-# NB:  no extra time is played in playoffs -  except for the final!!
-
-## NB: no game for 3rd place
+# NB:
+#  - no extra time is played in playoffs -  except for the final!!
+#  - no game for 3rd place
 
 
 # see http://www.conmebol.com/export/sites/conmebol/Docs/Copa_Libertadores/2013/Prog_1ay2aFase_Libertadores_2013.pdf
 #  for official match days
+
 
 ############################
 # First Stage
@@ -97,8 +96,6 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 2013-04-03 19:45  Boca Juniors  v  Barcelona
 2013-04-04 19:15  Nacional  v  Toluca
 
-(9) Matchday 7 / Group 1  //  April 9–11
-
 (10) Matchday 8 / Group 1  //  April 16–18
 
 2013-04-17 17:45  Barcelona  v  Nacional
@@ -153,8 +150,6 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 2013-02-13 22:00  Atlético Mineiro  v  São Paulo
 2013-02-14 20:00  The Strongest  v  Arsenal
 
-(4) Matchday 2 / Group 3  //  February 19–21
-
 (5) Matchday 3 / Group 3  //  February 26–28
 
 2013-02-26 21:45  Arsenal  v  Atlético Mineiro
@@ -174,8 +169,6 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 2013-04-03 22:00  Atlético Mineiro  v  Arsenal
 2013-04-04 20:30  The Strongest  v  São Paulo
-
-(9) Matchday 7 / Group 3  //  April 9–11
 
 (10) Matchday 8 / Group 3  //  April 16–18
 
@@ -219,13 +212,9 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 2013-04-09 21:30  Peñarol  v  Iquique
 2013-04-09 21:30  Vélez Sársfield  v  Emelec
 
-(10) Matchday 8 / Group 4  //  April 16–18
-
 
 ##################
 # Group 5
-
-(3) Matchday 1 / Group 5  //  February 12–14
 
 (4) Matchday 2 / Group 5  //  February 19–21
 
@@ -256,8 +245,6 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 2013-04-10 22:00  Corinthians  v  San José
 2013-04-10 18:00  Tijuana  v  Millonarios
-
-(10) Matchday 8 / Group 5  //  April 16–18
 
 
 ##################
@@ -334,8 +321,6 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 2013-04-11 20:00  Deportivo Lara  v  Universidad de Chile
 2013-04-11 21:30  Olimpia  v  Newell's Old Boys
-
-(10) Matchday 8 / Group 7  //  April 16–18
 
 
 ##################

@@ -18,16 +18,16 @@
 #   otherwise scores won't get matched
 
 ###
-# NB:  no extra time is played in playoffs -  except for the final!!
-
-## NB: no game for 3rd place
+# NB:
+#  - no extra time is played in playoffs -  except for the final!!
+#  - no game for 3rd place
 
 ##########
 # First Stage   January 24 to February 2, 2012
 
 (1) Matchday P.1  /  1st Leg  // January 24-26
 
-2012-01-24 20:15   Arsenal         3-0  Sport Huancayo     // Match G1
+2012-01-24 20:15   Arsenal         3-0  Sport Huancayo     // Match G1   ## NB: (G=Ganador)
 2012-01-25 20:00   Real Potosí     2-1  Flamengo           // Match G2
 2012-01-26 20:45   Peñarol         4-0  Caracas            // Match G3
 2012-01-24 20:30   El Nacional     1-0  Libertad           // Match G4
@@ -97,8 +97,6 @@ Group 8  |  Universidad de Chile     Atlético Nacional    Godoy Cruz      Peña
 2012-04-04 21:50   Internacional  1-1  Santos
 2012-04-05 20:30   Juan Aurich    1-0  The Strongest
 
-(11) Matchday 9 / Group 1  //  April 10-12
-
 (12) Matchday 10 / Group 1 //  April 17-19
 
 2012-04-19 17:45   Juan Aurich    1-0  Internacional
@@ -147,8 +145,6 @@ Group 8  |  Universidad de Chile     Atlético Nacional    Godoy Cruz      Peña
 2012-04-12 19:30  Flamengo  3-0  Lanús
 2012-04-12 18:30  Olimpia  2-3  Emelec
 
-(12) Matchday 10 / Group 2 //  April 17-19
-
 
 ##############
 # Group 3
@@ -157,8 +153,6 @@ Group 8  |  Universidad de Chile     Atlético Nacional    Godoy Cruz      Peña
 
 2012-02-08 18:45  Unión Española        2-0  Junior
 2012-02-09 21:15  Universidad Católica  1-1  Bolívar
-
-(4) Matchday 2 / Group 3  //  February 14-16
 
 (5) Matchday 3 / Group 3  //  February 21-23
 
@@ -170,8 +164,6 @@ Group 8  |  Universidad de Chile     Atlético Nacional    Godoy Cruz      Peña
 
 2012-03-06 21:45  Unión Española  1-1  Universidad Católica
 2012-03-08 22:00  Junior          0-1  Bolívar
-
-(7) Matchday 5 / Group 3  //  March 13-15
 
 (8) Matchday 6 / Group 3  //  March 20-22
 
@@ -219,14 +211,10 @@ Group 8  |  Universidad de Chile     Atlético Nacional    Godoy Cruz      Peña
 2012-03-14 19:45  Arsenal     1-2  Boca Juniors
 2012-03-14 19:45  Fluminense  1-0  Zamora
 
-(8) Matchday 6 / Group 4  //  March 20-22
-
 (9) Matchday 7 / Group 4  //  March 27-29
 
 2012-03-29 19:45  Boca Juniors  2-0  Arsenal
 2012-03-29 20:30  Zamora        0-1  Fluminense
-
-(10) Matchday 8 / Group 4  //  April 3-5
 
 (11) Matchday 9 / Group 4  //  April 10-12
 
@@ -251,8 +239,6 @@ Group 8  |  Universidad de Chile     Atlético Nacional    Godoy Cruz      Peña
 (4) Matchday 2 / Group 1  //  February 14-16
 
 2012-02-16 20:15  Nacional de Montevideo  1-2  Libertad
-
-(5) Matchday 3 / Group 1  //  February 21-23
 
 (6) Matchday 4 / Group 1  //  March 6-8
 
@@ -280,8 +266,6 @@ Group 8  |  Universidad de Chile     Atlético Nacional    Godoy Cruz      Peña
 
 2012-04-12 21:50  Nacional de Montevideo  0-1  Vasco da Gama
 2012-04-12 19:50  Alianza Lima            1-2  Libertad
-
-(12) Matchday 10 / Group 1 //  April 17-19
 
 
 ##############
@@ -362,8 +346,6 @@ Group 8  |  Universidad de Chile     Atlético Nacional    Godoy Cruz      Peña
 
 2012-03-28 19:45  Defensor Sporting  1-0  Guadalajara
 
-(10) Matchday 8 / Group 7  //  April 3-5
-
 (11) Matchday 9 / Group 7  //  April 10-12
 
 2012-04-10 16:30  Deportivo Quito  2-0  Defensor Sporting
@@ -377,8 +359,6 @@ Group 8  |  Universidad de Chile     Atlético Nacional    Godoy Cruz      Peña
 
 ##############
 # Group 8
-
-(3) Matchday 1 / Group 8  //  February 7-9
 
 (4) Matchday 2 / Group 8  //  February 14-16
 
@@ -394,8 +374,6 @@ Group 8  |  Universidad de Chile     Atlético Nacional    Godoy Cruz      Peña
 
 2012-03-06 20:30  Peñarol  1-1  Universidad de Chile
 2012-03-08 21:45  Godoy Cruz  4-4  Atlético Nacional
-
-(7) Matchday 5 / Group 8  //  March 13-15
 
 (8) Matchday 6 / Group 8  //  March 20-22
 
