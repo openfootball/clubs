@@ -10,7 +10,7 @@ schalke,     Schalke 04|FC Schalke 04,                       S04, city:gelsenkir
 dortmund,    Borussia Dortmund|Bor. Dortmund,     BVB, city:dortmund
 frankfurt,   Eintracht Frankfurt|E. Frankfurt,    FFM, city:frankfurt
 hannover,    Hannover 96,                         H96, city:hannover
-leverkusen,  Bayer 04 Leverkusen|Bay. Leverkusen, B04, city:leverkusen
+leverkusen,  Bayer 04 Leverkusen|Bayer Leverkusen|Bay. Leverkusen, B04, city:leverkusen
 duesseldorf, Fortuna Düsseldorf|F. Düsseldorf,    F95, city:duesseldorf
 hsv,         Hamburger SV,                        HSV, city:hamburg
 mainz,       1. FSV Mainz 05|FSV Mainz 05,        M05, city:mainz
