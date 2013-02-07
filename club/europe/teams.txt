@@ -21,10 +21,10 @@ sporting,     Sporting Lisboa|Sporting CP|Sporting Clube de Portugal,    pt, cit
 ################################
 # Ukraine, ua
 
-kiew,         Dynamo Kiew|FC Dynamo Kiew|Dynamo Kiev,          ua, city:kiev
+kiew,         Dynamo Kiew|FC Dynamo Kiew|Dynamo Kiev|Dynamo Kyiv,          ua, city:kiev
 donezk,       Schachtjor Donezk|Shakhtar Don.|Shakhtar Donetsk|Schachtar Donezk,    ua, city:donetsk
 metalist,     FC Metalist Kharkiv|Metalist Kharkiv,      ua, city:kharkov
-
+dnipro,       FC Dnipro|FC Dnipro Dnipropetrovsk|Dnipro Dnipropetrovsk, ua, city:dnipropetrovsk
 
 #############################
 # Russia, ru
@@ -32,11 +32,14 @@ metalist,     FC Metalist Kharkiv|Metalist Kharkiv,      ua, city:kharkov
 zenit,        Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg, ru, city:stpetersburg
 spartak,      Spartak Moskau|Spartak Moscow,     ru, city:moskva
 moskva,       CSKA Moskva|PFC CSKA Moskva,          ru, city:moskva
+rubinkazan,   Rubin Kazan|FC Rubin Kazan,                      ru, city:kazan
+anzhi,        Anzhi Makhachkala|FC Anzhi Makhachkala,                ru, city:makhachkala
 
 #########################
 # Belgium, be
 
 anderlecht,   Anderlecht|RSC Anderlecht,       be, city:brussel
+genk,         Genk|KRC Genk|Koninklijke Racing Club Genk, be, city:genk
 
 
 ###########################
@@ -54,7 +57,7 @@ zagreb,       Dinamo Zagreb|NK Dinamo Zagreb,        hr, city:zagreb
 #######################
 # Greece, gr
 
-olympiacos,   Olympiakos Piräus|Olympiakos P.,    gr, city:piraeus
+olympiacos,   Olympiakos Piräus|Olympiakos P.|Olympiacos,    gr, city:piraeus
 
 ###########################
 # Denmark, dk
@@ -64,7 +67,7 @@ nordsjalland, FC Nordsjælland|Nordsjælland,      dk, city:farum
 ##########################
 # Belarus, by
 
-borissow,     BATE Borissow|Bate Borisov,           by, city:borisov
+borissow,     BATE Borissow|BATE Borisov|Bate Borisov,           by, city:borisov
 
 ###################
 #  Scotland, sc
@@ -74,7 +77,8 @@ celtic,       Celtic|Celtic Glasgow,          sc, city:glasgow
 #########################
 #  Turkey, tr
 
-galatasaray,  Galatasaray|Galatasaray Istanbul,           tr, city:istanbul
+galatasaray,  Galatasaray|Galatasaray Istanbul,     tr, city:istanbul
+fenerbahce,   Fenerbahçe|Fenerbahçe SK|Fenerbahçe Spor Kulübü|Fenerbahçe Sports Club,      tr, city:istanbul
 
 
 ########################
@@ -86,3 +90,9 @@ basel,        Basel|FC Basel 1893,            ch, city:basel
 # Cyprus, cy
 
 apoel,        APOEL|APOEL Nikosia,            cy, city:nikosia
+
+##############################
+# Czech Republic, cz
+
+praha, Sparta Praha|Sparta Prague|AC Sparta Praha|AC Sparta Prague,      cz, city:praha
+plzen, Viktoria Plzeň|FC Viktoria Plzeň,                     cz, city:plzen

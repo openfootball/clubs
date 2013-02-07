@@ -1,7 +1,7 @@
 
-dinamobu,           Dinamo Bucuresti,       FCD, city:bucuresti
-rapidbu,            Rapid Bucuresti,        RBU, city:bucuresti
-steaua,             Steaua Bucuresti,       SBU, city:bucuresti
+dinamobu,           Dinamo București,       FCD, city:bucuresti
+rapidbu,            Rapid București,        RBU, city:bucuresti
+steaua,             Steaua București,       SBU, city:bucuresti
 
 cfr,                CFR Cluj,               CFR, city:cluj
 ucluj,              U Cluj,                 UCJ, city:cluj

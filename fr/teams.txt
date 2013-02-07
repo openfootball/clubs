@@ -15,8 +15,8 @@ montpellier,  HSC Montpellier|Montpellier|Montpellier Hérault SC,  MHS,     cit
 lille,        OSC Lille|Lille OSC|LOSC Lille,    LIL,         city:lille
 marseille,    Marseille|Olympique Marseille|Olympique de Marseille,  OM,   city:marseille
 
-lyon,         Olympique Lyonnais,  OL, city:lyon
-bordeaux,     Girondins de Bordeaux|FC Girondins de Bordeaux|Football Club des Girondins de Bordeaux, BOR, city:bordeaux
+lyon,         Lyon|Olympique Lyonnais,  OL, city:lyon
+bordeaux,     Bordeaux|Girondins de Bordeaux|FC Girondins de Bordeaux|Football Club des Girondins de Bordeaux, BOR, city:bordeaux
 nice,         OGC Nice|Olympique Gymnaste Club Nice Côte d'Azur,  NIC,    city:nice
 rennes,       Stade Rennais FC|Stade Rennais Football Club, REN, city:rennes
 lorient,      FC Lorient,  LOR,  city:lorient

@@ -1,0 +1,49 @@
+#################################
+# Europa League 2012/13
+
+
+league: el
+season: 2012/13
+start_at: 2012-09-20 12:00
+team3: false
+
+
+## fix/todo: add timezone cet
+
+
+###############
+# Teams
+
+teams:
+- borissow
+- fenerbahce
+- inter
+- cfr
+- levante
+- olympiacos
+- zenit
+- liverpool
+- kiew
+- bordeaux
+- leverkusen
+- benfica
+- newcastle
+- metalist
+- stuttgart
+- genk
+- atletico
+- rubinkazan
+- ajax
+- steaua
+- basel
+- dnipro
+- anzhi
+- hannover
+- chelsea
+- praha
+- mgladbach
+- lazio
+- tottenham
+- lyon
+- napoli
+- plzen

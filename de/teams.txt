@@ -19,7 +19,7 @@ freiburg,    SC Freiburg,                         SCF, city:freiburg
 bremen,      Werder Bremen,                       BRE, city:bremen
 hoffenheim,  1899 Hoffenheim|TSG 1899 Hoffenheim, HOF, city:hoffenheim
 nuernberg,   1. FC Nürnberg,                      FCN, city:nuernberg
-stuttgart,   VfB Stuttgart,                       VFB, city:stuttgart
+stuttgart,   Stuttgart|VfB Stuttgart,             VFB, city:stuttgart
 augsburg,    FC Augsburg,                         FCA, city:augsburg
 wolfsburg,   VfL Wolfsburg,                       WOB, city:wolfsburg
 fuerth,      Greuther Fürth|SPVGG Greuther Fürth, SGF, city:fuerth

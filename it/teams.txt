@@ -13,7 +13,7 @@
 milan,        Milan|AC Milan|Associazione Calcio Milan,    MIL,     city:milano
 inter,        Internazionale|FC Internazionale Milano,    INT,  city:milano
 
-lazio,        SS Lazio|Società Sportiva Lazio|Lazio Roma, LAZ, city:roma
+lazio,        Lazio|SS Lazio|Società Sportiva Lazio|Lazio Roma, LAZ, city:roma
 roma,         AS Roma|Associazione Sportiva Roma, ROM, city:roma
 
 genoa,        Genoa CFC, Genoa Cricket and Football Club, GEN, city:genoa
