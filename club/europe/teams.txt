@@ -12,9 +12,9 @@
 ################################
 # Portugal, pt
 
-porto,        FC Porto,                        pt, city:porto
+porto,        Porto|FC Porto,                        pt, city:porto
 benfica,      Benfica|Benfica Lissabon|Benfica Lis.,   pt, city:lisboa
-braga,        Sporting Braga,                  pt, city:braga
+braga,        Braga|Sporting Braga,                  pt, city:braga
 sporting,     Sporting Lisboa|Sporting CP|Sporting Clube de Portugal,    pt, city:lisboa
 
 
@@ -22,7 +22,7 @@ sporting,     Sporting Lisboa|Sporting CP|Sporting Clube de Portugal,    pt, cit
 # Ukraine, ua
 
 kiew,         Dynamo Kiew|FC Dynamo Kiew|Dynamo Kiev,          ua, city:kiev
-donezk,       Schachtjor Donezk|Shakhtar Don.|Shakhtar Donetsk,    ua, city:donetsk
+donezk,       Schachtjor Donezk|Shakhtar Don.|Shakhtar Donetsk|Schachtar Donezk,    ua, city:donetsk
 metalist,     FC Metalist Kharkiv|Metalist Kharkiv,      ua, city:kharkov
 
 
@@ -36,13 +36,13 @@ moskva,       CSKA Moskva|PFC CSKA Moskva,          ru, city:moskva
 #########################
 # Belgium, be
 
-anderlecht,   RSC Anderlecht,       be, city:brussel
+anderlecht,   Anderlecht|RSC Anderlecht,       be, city:brussel
 
 
 ###########################
 # Netherlands, nl
 
-ajax,         Ajax Amsterdam,       nl, city:amsterdam
+ajax,         Ajax|Ajax Amsterdam,       nl, city:amsterdam
 az,           AZ Alkmaar,               nl, city:alkmaar
 
 
@@ -59,7 +59,7 @@ olympiacos,   Olympiakos Piräus|Olympiakos P.,    gr, city:piraeus
 ###########################
 # Denmark, dk
 
-nordsjalland, FC Nordsjælland|Nordsjaelland,      dk, city:farum
+nordsjalland, FC Nordsjælland|Nordsjælland,      dk, city:farum
 
 ##########################
 # Belarus, by
@@ -69,7 +69,7 @@ borissow,     BATE Borissow|Bate Borisov,           by, city:borisov
 ###################
 #  Scotland, sc
 
-celtic,       Celtic Glasgow,          sc, city:glasgow
+celtic,       Celtic|Celtic Glasgow,          sc, city:glasgow
 
 #########################
 #  Turkey, tr

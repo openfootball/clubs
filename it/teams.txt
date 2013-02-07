@@ -19,7 +19,7 @@ roma,         AS Roma|Associazione Sportiva Roma, ROM, city:roma
 genoa,        Genoa CFC, Genoa Cricket and Football Club, GEN, city:genoa
 sampdoria,    Unione Calcio Sampdoria|Sampdoria Genoa, SAM, city:genoa
 
-juventus,     Juventus Football Club|Juventus FC|Juventus Torino, JUV,  city:torino
+juventus,     Juventus|Juventus Football Club|Juventus FC|Juventus Torino, JUV,  city:torino
 torino,       Torino Football Club|Torino FC,  TOR, city:torino
 
 napoli,       Napoli|SSC Napoli|Società Sportiva Calcio Napoli,   NAP,      city:napoli
