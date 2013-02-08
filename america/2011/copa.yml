@@ -3,7 +3,7 @@
 
 ## fix: change time zone to ??
 
-league: america
+league: america.copa
 season: 2011
 start_at: 2011-07-01 12:00
 
@@ -14,7 +14,7 @@ start_at: 2011-07-01 12:00
 #   - Argentia
 #   - Colombia
 #   - Uruguay
-#   - Brasil
+#   - Brazil
 #   - Ecuador
 #   - Chile
 #   - Paraguay
@@ -26,4 +26,17 @@ start_at: 2011-07-01 12:00
 #   - Mexiko
 #   - Costa Rica
 
-teams: arg, col, uru, bra, ecu, chi, par, per, ven, bol, mex, crc
+teams:
+- arg
+- col
+- uru
+- bra
+- ecu
+- chi
+- par
+- per
+- ven
+- bol
+- mex
+- crc
+

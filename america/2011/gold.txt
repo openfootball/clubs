@@ -1,6 +1,6 @@
 ##################################
 # Gold Cup / Copa de Oro 2011
-#  United States, June 5–25, 2011
+#  United States, June 5-25, 2011
 #
 # see en.wikipedia.org/wiki/2011_CONCACAF_Gold_Cup
 #
@@ -29,20 +29,20 @@ Group C |  Panama      United States   Canada         Guadeloupe
 
 Matchday 1 / Group A
 
-2011-06-05 18:00   Costa Rica   5–0  Cuba
-2011-06-05 20:00   Mexico       5–0  El Salvador
+2011-06-05 18:00   Costa Rica   5-0  Cuba
+2011-06-05 20:00   Mexico       5-0  El Salvador
 
 
 Matchday 4 / Group A
 
-2011-06-09 19:00   Costa Rica   1–1  El Salvador
-2011-06-09 21:00   Cuba         0–5  Mexico
+2011-06-09 19:00   Costa Rica   1-1  El Salvador
+2011-06-09 21:00   Cuba         0-5  Mexico
 
 
 Matchday 7 / Group A
 
-2011-06-12 18:00   El Salvador  6–1  Cuba
-2011-06-12 20:00   Mexico       4–1  Costa Rica
+2011-06-12 18:00   El Salvador  6-1  Cuba
+2011-06-12 20:00   Mexico       4-1  Costa Rica
 
 
 ###########
@@ -50,19 +50,19 @@ Matchday 7 / Group A
 
 Matchday 2 / Group B
 
-2011-06-06 21:00   Jamaica    4–0  Grenada
-2011-06-06 23:00   Honduras   0–0  Guatemala
+2011-06-06 21:00   Jamaica    4-0  Grenada
+2011-06-06 23:00   Honduras   0-0  Guatemala
 
 
 Matchday 5 / Group B
 
-2011-06-10 19:00   Jamaica    2–0  Guatemala
-2011-06-10 21:00   Grenada    1–7  Honduras
+2011-06-10 19:00   Jamaica    2-0  Guatemala
+2011-06-10 21:00   Grenada    1-7  Honduras
 
 Matchday 8 / Group B
 
-2011-06-13 19:00   Guatemala  4–0  Grenada
-2011-06-13 21:00   Honduras   0–1  Jamaica
+2011-06-13 19:00   Guatemala  4-0  Grenada
+2011-06-13 21:00   Honduras   0-1  Jamaica
 
 
 ###########
@@ -70,40 +70,40 @@ Matchday 8 / Group B
 
 Matchday 3 / Group C
 
-2011-06-07 18:00   Panama         3–2  Guadeloupe
-2011-06-07 20:00   United States  2–0  Canada
+2011-06-07 18:00   Panama         3-2  Guadeloupe
+2011-06-07 20:00   United States  2-0  Canada
 
 Matchday 6 / Group C
 
-2011-06-11 18:00   Canada         1–0  Guadeloupe
-2011-06-11 20:00   United States  1–2  Panama
+2011-06-11 18:00   Canada         1-0  Guadeloupe
+2011-06-11 20:00   United States  1-2  Panama
 
 Matchday 9 / Group C
 
-2011-06-14 19:00   Canada         1–1  Panama
-2011-06-14 21:00   Guadeloupe     0–1  United States
+2011-06-14 19:00   Canada         1-1  Panama
+2011-06-14 21:00   Guadeloupe     0-1  United States
 
 
 #####################
 # Knock out phase
 
 
-Quarterfinals
+(10) Quarterfinals
 
-2011-06-18 17:00   Costa Rica   1–1 1-1nV 2-4iE   Honduras
+2011-06-18 17:00   Costa Rica   1-1 1-1nV 2-4iE   Honduras
 2011-06-18 20:00   Mexico       2-1               Guatemala
-2011-06-19 15:00   Jamaica      0–2               United States
+2011-06-19 15:00   Jamaica      0-2               United States
 2011-06-19 18:00   Panama       1-1 1-1nV 5-3iE   El Salvador
 
 
-Semifinals
+(11) Semifinals
 
-2011-06-22 19:00  United States  1–0        Panama
+2011-06-22 19:00  United States  1-0        Panama
 2011-06-22 22:00  Honduras       0-0 0-2nV  Mexico
 
 
-Final
+(12) Final
 
-2011-06-25 21:00  United States  2–4  Mexico
+2011-06-25 21:00  United States  2-4  Mexico
 
 

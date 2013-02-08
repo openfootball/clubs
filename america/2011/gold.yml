@@ -4,7 +4,7 @@
 ## fix: change time zone to ??
 
 
-league: gold
+league: america.gold
 season: 2011
 start_at: 2011-06-05 12:00
 
@@ -29,4 +29,16 @@ start_at: 2011-06-05 12:00
 # - El Salvador
 # - Guatemala
 
-teams: usa, mex, can, jam, gpe, cub, grn, hon, crc, pan, slv, gua
+teams:
+- usa
+- mex
+- can
+- jam
+- gpe
+- cub
+- grn
+- hon
+- crc
+- pan
+- slv
+- gua

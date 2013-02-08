@@ -5,7 +5,7 @@
 ## fix: change time zone to ??
 
 
-league: america
+league: america.copa
 season: 2015
 start_at: 2015-07-01 12:00
 
@@ -28,4 +28,16 @@ start_at: 2015-07-01 12:00
 #   - Mexiko
 #   - Japan
 
-teams: arg, col, uru, bra, ecu, chi, par, per, ven, bol, mex, jpn
+teams:
+- arg
+- col
+- uru
+- bra
+- ecu
+- chi
+- par
+- per
+- ven
+- bol
+- mex
+- jpn    # NB: requires teams from asia!!

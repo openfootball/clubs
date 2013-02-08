@@ -4,7 +4,7 @@
 ## fix: change time zone to ??
 
 
-league: gold
+league: america.gold
 season: 2013
 start_at: 2013-07-07 12:00
 
@@ -30,4 +30,12 @@ start_at: 2013-07-07 12:00
 # - ??
 
 
-teams: usa, mex, can, cub, tri, hai, mtq, crc
+teams:
+- usa
+- mex
+- can
+- cub
+- tri
+- hai
+- mtq
+- crc

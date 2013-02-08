@@ -30,6 +30,5 @@ irq, Iraq,         IRQ, iq
 ## oceania
   
 nzl, New Zealand,  NZL, nz
-
 tah, Tahiti,       TAH, pf      ### fix: add to world.db !!!!
 # NB: pf = stands for Polynésie Française in french

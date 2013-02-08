@@ -4,7 +4,7 @@
 ## see www.fifa.com/worldcup/preliminaries/southamerica/teams
 
 arg, Argentina,   ARG, ar
-bra, Brasil,      BRA, br
+bra, Brazil,      BRA, br
 chi, Chile,       CHI, cl
 par, Paraguay,    PAR, py
 uru, Uruguay,     URU, uy
@@ -43,6 +43,7 @@ hai, Haiti,         HAI, ht
 
 tri, Trinidad and Tobago, TRI, tt
 grn, Grenada,       GRN, gd
+
 
 gpe, Guadeloupe,    GPE, gp     # todo/fix: add to world db as dependency for france
 mtq, Martinique,    MTQ, mq     # todo/fix: add to world db as dependency for france
