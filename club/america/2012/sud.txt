@@ -70,5 +70,6 @@
 
 (8) Final / Vuelta    //  12 de diciembre
 
-2012-12-05 21:50  São Paulo  2-0  Tigre
+2012-12-05 21:50  São Paulo  2-0  Tigre   ## NB: * strafverifiziert 2-0 - add flag??
+
 
