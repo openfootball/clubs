@@ -1,7 +1,9 @@
 ##################################
 #  World Cup 2014 Brazil
 
-
+season: 2014
+league: world
+start_at: 2014-06-12 12:00
 
 ######
 # 32 Teams
@@ -14,4 +16,7 @@
 # Oceania (OFC): 0 or 1 place
 #
 # see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification
+
+
+
 

@@ -2,7 +2,7 @@
 # internationl tournaments & cups w/ national teams
 
 
-euro,                  Euro           ## change key to europe (to match folder structure?)
+euro,                  Euro           ## change key to europe (to match folder structure) - why? why not?
 
 america.copa,          Copa América
 america.gold,          Gold Cup / Copa de Oro
@@ -10,6 +10,7 @@ america.gold,          Gold Cup / Copa de Oro
 world.conf,            Confederations Cup
 world,                 World Cup
 world.quali.europe,    World Cup Quali Europe
+world.quali.europe.c,  World Cup Quali Europe Group C
 world.quali.america,   World Cup Quali North/Central America and Caribbean
 
 
