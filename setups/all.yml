@@ -1,4 +1,5 @@
-### all fixtures
+####################
+# all fixtures
 
 seasons:
 - seasons
@@ -6,6 +7,22 @@ seasons:
 leagues:
 - leagues
 - leagues_club
+
+######################
+# teams
+
+#
+# use
+#
+# teams:
+#   world: world/teams,america/teams,europe/teams
+#   at:  at/teams,at/teams2
+#   de: de/teams
+#   etc.
+#
+#  why? why not??
+#
+
 
 world_teams:
 - world/teams
@@ -51,9 +68,13 @@ club_america_teams:
 - club/america/teams_c
 - club/america/teams_n
 - club/america/teams_s
-  
-  
-# ar_fixtures:
+
+
+############################
+# fixtures
+
+
+# ar:
 
 br:
   br.2013: br/2013/cb
@@ -67,55 +88,49 @@ mx:
 at:
   at.2011/12: at/2011_12/bl
   at.cup.2011/12: at/2011_12/cup
-#  at.2012/13: at/2012_13/bl, at/2012_13/bl2
+  at.2012/13: at/2012_13/bl,at/2012_13/bl2
   at.cup.2012/13: at/2012_13/cup
   
 de:
   de.2012/13: de/2012_13/bl
   
   
-#  EN_FIXTURES = [
-#    ['en.2012/13',     'en/2012_13/pl' ]
-#  ]
-#  
-#  RO_FIXTURES = [
-#    ['ro.2012/13',     'ro/2012_13/l1' ]
-#  ]
-#  
-#  
-#  EUROPE_FIXTURES = [
-#    ['euro.2008', 'europe/2008/euro'],
-#    ['euro.2012', 'europe/2012/euro'],
-#  ]
-#    
-#  AMERICA_FIXTURES = [
-#   ['america.copa.2011', 'america/2011/copa'],
-#   ['america.gold.2011', 'america/2011/gold'],
-#   ['america.gold.2013', 'america/2013/gold'],
-#   ['america.copa.2015', 'america/2015/copa'],
-#  ]
-#  
-#  WORLD_FIXTURES = [
-#   ['world.conf.2009', 'world/2009/conf'],
-#   ['world.2010',      'world/2010/cup'],
-#   ['world.quali.america.2014', 'world/2014/quali_america'],
-#   ['world.quali.europe.c.2014', 'world/2014/quali_europe_c'],
-#   ['world.quali.europe.2014', 'world/2014/quali_europe', 'world/2014/quali_europe_c', 'world/2014/quali_europe_i'],
-#   ['world.2014',      'world/2014/cup'],
-#  ]
-#  
-#  CLUB_EUROPE_FIXTURES = [
-#    ['cl.2011/12',     'club/europe/2011_12/cl'],
-#    ['el.2011/12',     'club/europe/2011_12/el'],
-#    ['cl.2012/13',     'club/europe/2012_13/cl'],
-#    ['el.2012/13',     'club/europe/2012_13/el'],
-#  ]
-#  
-#  CLUB_AMERICA_FIXTURES = [
-#   ['america.cl.2011/12',     'club/america/2011_12/cl'],
-#   ['copa.libertadores.2012', 'club/america/2012/libertadores' ],
-#   ['copa.sud.2012',          'club/america/2012/sud'],
-#   ['america.cl.2012/13',     'club/america/2012_13/cl'],
-#   ['copa.libertadores.2013', 'club/america/2013/libertadores' ]
-#  ]
+en:
+  en.2012/13: en/2012_13/pl
+
+ro:
+  ro.2012/13: ro/2012_13/l1
+
+
+
+euro:
+  euro.2008: europe/2008/euro
+  euro.2012: europe/2012/euro
+
+amercia:
+  america.copa.2011: america/2011/copa
+  america.gold.2011: america/2011/gold
+  america.gold.2013: america/2013/gold
+  america.copa.2015: america/2015/copa
+
+world:
+  world.conf.2009: world/2009/conf
+  world.2010: world/2010/cup
+  world.quali.america.2014: world/2014/quali_america
+  world.quali.europe.c.2014: world/2014/quali_europe_c
+  world.quali.europe.2014: world/2014/quali_europe,world/2014/quali_europe_c,world/2014/quali_europe_i
+  world.2014: world/2014/cup
+
+club_europe:
+  cl.2011/12: club/europe/2011_12/cl
+  el.2011/12: club/europe/2011_12/el
+  cl.2012/13: club/europe/2012_13/cl
+  el.2012/13: club/europe/2012_13/el
+
+club_america:
+  america.cl.2011/12: club/america/2011_12/cl
+  copa.libertadores.2012: club/america/2012/libertadores
+  copa.sud.2012: club/america/2012/sud
+  america.cl.2012/13: club/america/2012_13/cl
+  copa.libertadores.2013: club/america/2013/libertadores
 
