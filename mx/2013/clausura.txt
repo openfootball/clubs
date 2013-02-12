@@ -1,28 +1,28 @@
 
 Jornada  1 // 4, 5 y 6 de enero
 
-2013-01-05 19:30  Morelia 3 - 3 Cruz Azul 
-2013-01-05 17:00  América 2 - 1 Monterrey 
-2013-01-05 19:00  Tigres 3 - 0 Chiapas 
-2013-01-05 19:00  Pachuca 2 - 0 Atlante 
-2013-01-05 20:06  León 2 - 2 Querétaro  
-2013-01-05 21:00  San Luis 1 - 1 Santos  
-2013-01-06 12:00  UNAM 1 - 1 Atlas  
-2013-01-06 16:00  Puebla 1 - 2 Tijuana  
-2013-01-06 17:00  Guadalajara 1 - 1 Toluca
+2013-01-05 19:30  Morelia  3-3 Cruz Azul
+2013-01-05 17:00  América  2-1 Monterrey
+2013-01-05 19:00  Tigres   3-0 Chiapas
+2013-01-05 19:00  Pachuca  2-0 Atlante
+2013-01-05 20:06  León     2-2 Querétaro
+2013-01-05 21:00  San Luis 1-1 Santos
+2013-01-06 12:00  UNAM     1-1 Atlas
+2013-01-06 16:00  Puebla   1-2 Tijuana
+2013-01-06 17:00  Guadalajara 1-1 Toluca
 
 
 Jornada  2 // 11, 12 y 13 de enero
 
-2013-01-11 19:30 Chiapas 0 - 2 América 
-2013-01-11 21:30 Santos 2 - 0 Guadalajara 
-2013-01-12 17:00 Querétaro 2 - 1 UNAM 
-2013-01-12 17:00 Cruz Azul 2 - 1 San Luis 
-2013-01-12 19:00 Monterrey 1 - 0 Morelia 
-2013-01-12 17:00 Tijuana 1 - 0 León 
-2013-01-12 21:00 Atlas 2 - 0 Pachuca 
-2013-01-13 12:00 Toluca 1 - 1 Puebla 
-2013-01-13 18:00 Atlante 1 - 3 Tigres 
+2013-01-11 19:30 Chiapas   0-2 América
+2013-01-11 21:30 Santos    2-0 Guadalajara
+2013-01-12 17:00 Querétaro 2-1 UNAM
+2013-01-12 17:00 Cruz Azul 2-1 San Luis
+2013-01-12 19:00 Monterrey 1-0 Morelia
+2013-01-12 17:00 Tijuana   1-0 León
+2013-01-12 21:00 Atlas     2-0 Pachuca
+2013-01-13 12:00 Toluca    1-1 Puebla
+2013-01-13 18:00 Atlante   1-3 Tigres
 
 
 Jornada  3 // 18, 19 y 20 de enero

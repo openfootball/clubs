@@ -1,2 +1,44 @@
+#########################
+# setup for uss
 
-## setup for uss
+seasons:
+- seasons
+
+leagues:
+- leagues
+- leagues_club
+
+######################
+# teams
+
+
+## todo/check: if all teams for world.quali.europe.c are in europe/teams
+
+world_teams:
+- europe/teams
+
+club_europe_teams:
+- at/teams
+- at/teams2
+- de/teams
+- en/teams
+- es/teams
+- fr/teams
+- it/teams
+- ro/teams
+- club/europe/teams
+
+
+############################
+# fixtures
+
+at:
+  at.2012/13: at/2012_13/bl,at/2012_13/bl2
+  at.cup.2012/13: at/2012_13/cup
+
+world:
+  world.quali.europe.c.2014: world/2014/quali_europe_c
+
+club_europe:
+  cl.2012/13: club/europe/2012_13/cl
+  el.2012/13: club/europe/2012_13/el
