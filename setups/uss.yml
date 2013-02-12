@@ -25,6 +25,7 @@ club_europe_teams:
 - es/teams
 - fr/teams
 - it/teams
+- nl/teams
 - ro/teams
 - club/europe/teams
 
@@ -41,4 +42,4 @@ world:
 
 club_europe:
   cl.2012/13: club/europe/2012_13/cl
-  el.2012/13: club/europe/2012_13/el
+##  el.2012/13: club/europe/2012_13/el

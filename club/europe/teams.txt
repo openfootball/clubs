@@ -7,6 +7,7 @@
 #  use fr/teams.txt for French Teams
 #  use at/teams.txt for Austrian Teams
 #  use ro/teams.txt for Romanian Teams
+#  use nl/teams.txt for Teams from Netherlands
 
 
 ################################
@@ -40,13 +41,6 @@ anzhi,        Anzhi Makhachkala|FC Anzhi Makhachkala,                ru, city:ma
 
 anderlecht,   Anderlecht|RSC Anderlecht,       be, city:brussel
 genk,         Genk|KRC Genk|Koninklijke Racing Club Genk, be, city:genk
-
-
-###########################
-# Netherlands, nl
-
-ajax,         Ajax|Ajax Amsterdam,       nl, city:amsterdam
-az,           AZ Alkmaar,               nl, city:alkmaar
 
 
 #############################

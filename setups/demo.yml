@@ -1,3 +1,53 @@
+###############################
+# setup for demo
 
-### setup for demo
 
+seasons:
+- seasons
+
+leagues:
+- leagues
+- leagues_club
+
+######################
+# teams
+
+world_teams:
+- world/teams
+- america/teams
+- europe/teams
+
+club_europe_teams:
+- at/teams
+- de/teams
+- en/teams
+- es/teams
+- fr/teams
+- it/teams
+- nl/teams
+- ro/teams
+- club/europe/teams
+
+club_america_teams:
+- ar/teams
+- br/teams
+- mx/teams
+- club/america/teams_c
+- club/america/teams_n
+- club/america/teams_s
+
+
+############################
+# fixtures
+
+
+world:
+  world.conf.2013: world/2013/conf
+  world.quali.america.2014: world/2014/quali_america
+  world.quali.europe.2014: world/2014/quali_europe,world/2014/quali_europe_c,world/2014/quali_europe_i
+
+club_europe:
+  cl.2012/13: club/europe/2012_13/cl
+
+club_america:
+  copa.libertadores.2013: club/america/2013/libertadores

@@ -24,10 +24,10 @@ start_at: 2013-07-07 12:00
 #
 # Central American zone (5 teams)
 # - Costa Rica
-# - ??
-# - ??
-# - ??
-# - ??
+# - Honduras
+# - El Salvador
+# - Belize
+# - Panama
 
 
 teams:
@@ -39,3 +39,8 @@ teams:
 - hai
 - mtq
 - crc
+- hon
+- slv
+- blz
+- pan
+

@@ -1,7 +1,7 @@
 ##################################
 # Gold Cup / Copa de Oro 2013
 #
-# see http://en.wikipedia.org/wiki/2013_CONCACAF_Gold_Cup
+# see en.wikipedia.org/wiki/2013_CONCACAF_Gold_Cup
 #
 # official -> www.goldcup.org or www.copaoro.org
 #
