@@ -34,6 +34,7 @@ crc, Costa Rica,    CRC, cr
 slv, El Salvador,   SLV, sv
 pan, Panama,        PAN, pa
 gua, Guatemala,     GUA, gt
+blz, Belize,        BLZ, bz
 
 ### caribbean islands
 
@@ -49,6 +50,6 @@ gpe, Guadeloupe,    GPE, gp     # todo/fix: add to world db as dependency for fr
 mtq, Martinique,    MTQ, mq     # todo/fix: add to world db as dependency for france
 
 
-## NB: guyana and suriname are part of north/central & caribbean
+## NB: guyana and suriname are part of north/central & caribbean according to fifa
 
 guy, Guyana,        GUY, gy
