@@ -1,14 +1,16 @@
 ################################
-##
-##  Ligue 1
-##
-## see http://en.wikipedia.org/wiki/Ligue_1
-##     http://fr.wikipedia.org/wiki/Championnat_de_France_de_football
-##   20 teams
-##
-## official -> lfp.fr/ligue1 (french) / ligue1.com (english)
-##
-## two/three letter codes from -> http://en.wikipedia.org/wiki/2012–13_Ligue_1
+#
+# Ligue 1
+#
+# see en.wikipedia.org/wiki/Ligue_1
+#     fr.wikipedia.org/wiki/Championnat_de_France_de_football
+#
+#   20 teams
+#
+# official -> lfp.fr/ligue1 (french) / ligue1.com (english)
+#
+# two/three letter codes from -> en.wikipedia.org/wiki/2012-13_Ligue_1
+#   fix: use letter codes from ligue1 (wikipedia letters are not common)
 
 paris,        Paris St. Germain|Paris S.Germai|Paris Saint Germain|Paris Saint-Germain, PSG,  city:paris
 montpellier,  HSC Montpellier|Montpellier|Montpellier Hérault SC,  MHS,     city:montpellier

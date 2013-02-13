@@ -51,7 +51,7 @@ Matchday 6 / Group 2
 # Hexagonal - Quali Round 2,
 #  6 February to 15 October 2013
 #
-#  see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_CONCACAF_Fourth_Round
+#  see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_-_CONCACAF_Fourth_Round
 #
 # NB: The three group winners and three group runners-up from round 1 qualify
 

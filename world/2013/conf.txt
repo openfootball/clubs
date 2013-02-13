@@ -1,7 +1,7 @@
 ##############################
 #
 #  FIFA Confederations Cup 2013 - Brasil 
-#    - Dates:   15 June – 30 June
+#    - Dates:   15 June - 30 June
 #    - Teams:   8 (from 6 confederations)
 #    - Matches: 16
 #
