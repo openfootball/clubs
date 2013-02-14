@@ -2,7 +2,8 @@
 #  World Cup 2014 - Qualification North/Central America & Caribbean Islands
 #
 # see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_(CONCACAF)
-
+#   fourth round see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_CONCACAF_Fourth_Round
+#
 
 
 # note: fix: play_at times and timezones
@@ -65,9 +66,9 @@ Group HEX | Costa Rica   Honduras   Mexico  Panama   Jamaica   United States
 
 (7) Matchday 1 / Group HEX
 
-2013-02-06 15:00 Honduras  -  United States
-2013-02-06 20:30 Mexico   -  Jamaica
-2013-02-06 21:00 Panama  -  Costa Rica
+2013-02-06 15:00 Honduras  2-1  United States
+2013-02-06 20:30 Mexico    0-0  Jamaica
+2013-02-06 21:00 Panama    2-2  Costa Rica
 
 (8) Matchday 2 / Group HEX
 

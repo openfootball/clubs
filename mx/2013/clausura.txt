@@ -1,14 +1,23 @@
+###########################################
+# Liga MX Clausura 2013 (plus Liguilla)
+#
+#  see  en -> nil/does not exist
+#
+#    es.wikipedia.org/wiki/Torneo_Clausura_2013_(México)
+#
+#  official -> 
+
 
 Jornada  1 // 4, 5 y 6 de enero
 
-2013-01-05 19:30  Morelia  3-3 Cruz Azul
-2013-01-05 17:00  América  2-1 Monterrey
-2013-01-05 19:00  Tigres   3-0 Chiapas
-2013-01-05 19:00  Pachuca  2-0 Atlante
-2013-01-05 20:06  León     2-2 Querétaro
-2013-01-05 21:00  San Luis 1-1 Santos
-2013-01-06 12:00  UNAM     1-1 Atlas
-2013-01-06 16:00  Puebla   1-2 Tijuana
+2013-01-05 19:30  Morelia     3-3 Cruz Azul
+2013-01-05 17:00  América     2-1 Monterrey
+2013-01-05 19:00  Tigres      3-0 Chiapas
+2013-01-05 19:00  Pachuca     2-0 Atlante
+2013-01-05 20:06  León        2-2 Querétaro
+2013-01-05 21:00  San Luis    1-1 Santos
+2013-01-06 12:00  UNAM        1-1 Atlas
+2013-01-06 16:00  Puebla      1-2 Tijuana
 2013-01-06 17:00  Guadalajara 1-1 Toluca
 
 
@@ -27,54 +36,54 @@ Jornada  2 // 11, 12 y 13 de enero
 
 Jornada  3 // 18, 19 y 20 de enero
 
-2013-01-18 19:30 Chiapas - Monterrey
-2013-01-18 20:36 León - Toluca
-2013-01-19 17:00 América - Atlante
-2013-01-19 19:00 Tigres - Atlas
-2013-01-19 19:00 Pachuca - Querétaro
-2013-01-19 21:00 San Luis - Morelia
-2013-01-20 12:00 UNAM - Tijuana
-2013-01-20 12:00 Puebla - Santos
-2013-01-20 17:00 Guadalajara - Cruz Azul
+2013-01-18 19:30 Chiapas     1-1 Monterrey
+2013-01-18 20:36 León        1-2 Toluca
+2013-01-19 17:00 América     4-0 Atlante
+2013-01-19 19:00 Tigres      1-0 Atlas
+2013-01-19 19:00 Pachuca     1-1 Querétaro
+2013-01-19 21:00 San Luis    1-2 Morelia
+2013-01-20 12:00 UNAM        1-2 Tijuana
+2013-01-20 12:00 Puebla      2-1 Santos
+2013-01-20 17:00 Guadalajara 1-1 Cruz Azul
 
 
 Jornada  4 // 25, 26 y 27 de enero
 
-2013-01-25 19:30 Morelia - Guadalajara
-2013-01-25 21:30 Santos - León
-2013-01-26 17:00 Querétaro - Tigres
-2013-01-26 17:00 Cruz Azul - Puebla
-2013-01-26 19:00 Monterrey - San Luis
-2013-01-26 17:00 Tijuana - Pachuca
-2013-01-26 21:00 Atlas - América
-2013-01-27 12:00 Toluca - UNAM
-2013-01-27 18:00 Atlante - Chiapas
+2013-01-25 19:30 Morelia   1-1 Guadalajara
+2013-01-25 21:30 Santos    2-0 León
+2013-01-26 17:00 Querétaro 0-2 Tigres
+2013-01-26 17:00 Cruz Azul 4-0 Puebla
+2013-01-26 19:00 Monterrey 3-2 San Luis
+2013-01-26 17:00 Tijuana   2-0 Pachuca
+2013-01-26 21:00 Atlas     2-1 América
+2013-01-27 12:00 Toluca    0-1 UNAM
+2013-01-27 18:00 Atlante   4-3 Chiapas
 
 
 Jornada  5 // 1, 2 y 3 de febrero
 
-2013-02-01 19:30 Chiapas - Atlas
-2013-02-02 17:00 América - Querétaro
-2013-02-02 19:00 Tigres - Tijuana
-2013-02-02 19:00 Pachuca - Toluca
-2013-02-02 20:06 León - Cruz Azul
-2013-02-03 12:00 UNAM - Santos
-2013-02-03 12:00 Puebla - Morelia
-2013-02-03 17:00 Guadalajara - San Luis
-2013-02-03 18:00 Atlante - Monterrey
+2013-02-01 19:30 Chiapas     1-2 Atlas
+2013-02-02 17:00 América     3-0 Querétaro
+2013-02-02 19:00 Tigres      2-2 Tijuana
+2013-02-02 19:00 Pachuca     1-0 Toluca
+2013-02-02 20:06 León        2-2 Cruz Azul
+2013-02-03 12:00 UNAM        0-0 Santos
+2013-02-03 12:00 Puebla      3-1 Morelia
+2013-02-03 17:00 Guadalajara 1-1 San Luis
+2013-02-03 18:00 Atlante     3-1 Monterrey
 
 
 Jornada  6 // 8, 9 y 10 de febrero
 
-2013-02-08 19:30 Morelia - León
-2013-02-08 21:30 Santos - Pachuca
-2013-02-09 17:00 Querétaro - Chiapas
-2013-02-09 17:00 Cruz Azul - UNAM
-2013-02-09 19:00 Monterrey - Guadalajara
-2013-02-09 17:00 Tijuana - América
-2013-02-09 21:00 Atlas - Atlante
-2013-02-09 21:00 San Luis - Puebla
-2013-02-10 12:00 Toluca - Tigres
+2013-02-08 19:30 Morelia   1-0 León
+2013-02-08 21:30 Santos    0-1 Pachuca
+2013-02-09 17:00 Querétaro 1-1 Chiapas
+2013-02-09 17:00 Cruz Azul 1-1 UNAM
+2013-02-09 19:00 Monterrey 0-1 Guadalajara
+2013-02-09 17:00 Tijuana   1-2 América
+2013-02-09 21:00 Atlas     2-1 Atlante
+2013-02-09 21:00 San Luis  1-3 Puebla
+2013-02-10 12:00 Toluca    1-4 Tigres
 
 
 Jornada  7 // 15, 16 y 17 de febrero

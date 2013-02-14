@@ -2,6 +2,9 @@
 #  Copa Libertadores de América 2013
 #
 #  see en.wikipedia.org/wiki/2013_Copa_Libertadores
+#    - 1st stage see en.wikipedia.org/wiki/2013_Copa_Libertadores_First_Stage
+#    - 2nd stage see en.wikipedia.org/wiki/2013_Copa_Libertadores_Second_Stage
+#
 #      es.wikipedia.org/wiki/Copa_Libertadores_2013
 #
 #  official -> www.conmebol.com/secciones/copa_santander_libertadores.html
@@ -70,8 +73,8 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (3) Matchday 1 / Group 1  //  February 12-14
 
-2013-02-12 20:15  Nacional  v  Barcelona
-2013-02-13 21:00  Boca Juniors  v  Toluca
+2013-02-12 20:15  Nacional      2-2  Barcelona
+2013-02-13 21:00  Boca Juniors  1-2  Toluca
 
 (4) Matchday 2 / Group 1  //  February 19-21
 
@@ -147,7 +150,7 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (3) Matchday 1 / Group 3  //  February 12-14
 
-2013-02-13 22:00  Atlético Mineiro  v  São Paulo
+2013-02-13 22:00  Atlético Mineiro  2-1  São Paulo
 2013-02-14 20:00  The Strongest  v  Arsenal
 
 (5) Matchday 3 / Group 3  //  February 26-28
