@@ -14,6 +14,7 @@ leagues:
 
 world_teams:
 - world/teams
+- africa/teams
 - america/teams
 - europe/teams
 

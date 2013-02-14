@@ -26,6 +26,7 @@ leagues:
 
 world_teams:
 - world/teams
+- africa/teams
 - america/teams
 - europe/teams
 
@@ -110,6 +111,9 @@ euro:
   euro.2008: europe/2008/euro
   euro.2012: europe/2012/euro
 
+africa:
+  africa.cup.2013: africa/2013/cup
+
 amercia:
   america.copa.2011: america/2011/copa
   america.gold.2011: america/2011/gold
@@ -121,7 +125,7 @@ world:
   world.2010: world/2010/cup
   world.conf.2013: world/2013/conf
   world.quali.america.2014: world/2014/quali_america
-  world.quali.europe.c.2014: world/2014/quali_europe_c
+###  world.quali.europe.c.2014: world/2014/quali_europe_c
   world.quali.europe.2014: world/2014/quali_europe,world/2014/quali_europe_c,world/2014/quali_europe_i
   world.2014: world/2014/cup
 

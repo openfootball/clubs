@@ -1,0 +1,124 @@
+##########################################################
+# Africa Cup of Nations 2013
+#   South Africa, 19 January - 10 February
+#
+#  see en.wikipedia.org/wiki/2013_Africa_Cup_of_Nations
+#
+#  official -> afcon2013online.com
+#
+# 16 teams
+# 32 matches
+#
+#  every two years (odd-years starting in 2013), next cup in 2015 in Morocco
+
+
+Group A  |  South Africa           Cape Verde      Morocco      Angola
+Group B  |  Ghana                  Mali            Congo DR     Niger
+Group C  |  Burkina Faso           Nigeria         Zambia       Ethiopia
+Group D  |  Côte d'Ivoire          Togo            Tunisia      Algeria
+
+
+
+###############
+# Group A
+
+Matchday 1 / Group A
+
+(1)  2013-01-19 18:00   South Africa  0-0  Cape Verde
+(2)  2013-01-19 21:00   Angola        0-0  Morocco
+
+Matchday 2 / Group A
+
+(9)  2013-01-23 17:00   South Africa  2-0  Angola
+(10) 2013-01-23 20:00   Morocco       1-1  Cape Verde
+
+Matchday 3 / Group A
+
+(17) 2013-01-27 19:00   Morocco       2-2  South Africa
+(18) 2013-01-27 19:00   Cape Verde    2-1  Angola
+
+
+##################
+# Group B
+
+Matchday 1 / Group B
+
+(3)  2013-01-20 17:00   Ghana     2-2  Congo DR
+(4)  2013-01-20 20:00   Mali      1-0  Niger
+
+Matchday 2 / Group B
+
+(11) 2013-01-24 17:00   Ghana     1-0  Mali
+(12) 2013-01-24 20:00   Niger     0-0  Congo DR
+
+Matchday 3 / Group B
+
+(19) 2013-01-28 19:00   Niger     0-3  Ghana
+(20) 2013-01-28 19:00   Congo DR  1-1  Mali
+
+
+##################
+# Group C
+
+Matchday 1 / Group C
+
+(5)  2013-01-21 17:00   Zambia        1-1  Ethiopia
+(6)  2013-01-21 20:00   Nigeria       1-1  Burkina Faso
+
+Matchday 2 / Group C
+
+(13) 2013-01-25 17:00   Zambia        1-1  Nigeria
+(14) 2013-01-25 20:00   Burkina Faso  4-0  Ethiopia
+
+Matchday 3 / Group C
+
+(21) 2013-01-29 19:00   Burkina Faso  0-0  Zambia
+(22) 2013-01-29 19:00   Ethiopia      0-2  Nigeria
+
+
+###################
+# Group D
+
+Matchday 1 / Group D
+
+(7)  2013-01-22 17:00   Côte d'Ivoire  2-1  Togo
+(8)  2013-01-22 20:00   Tunisia        1-0  Algeria
+
+Matchday 2 / Group D
+
+(15) 2013-01-26 17:00   Côte d'Ivoire  3-0  Tunisia
+(16) 2013-01-26 20:00   Algeria        0-2  Togo
+
+Matchday 3 / Group D
+
+(23) 2013-01-30 19:00   Algeria        2-2  Côte d'Ivoire
+(24) 2013-01-30 19:00   Togo           1-1  Tunisia
+
+
+
+#################
+# Knockout phase
+
+(4) Quarter-finals
+
+(25) 2013-02-02 20:30   South Africa   1-1 1-1nV 1-3iE  Mali
+(26) 2013-02-02 17:00   Ghana          2-0              Cape Verde
+(27) 2013-02-03 20:30   Burkina Faso   0-0 1-0nV        Togo
+(28) 2013-02-03 17:00   Côte d'Ivoire  1-2              Nigeria
+
+
+(5) Semi-finals
+
+(29) 2013-02-06 17:00   Mali          1-4              Nigeria
+(30) 2013-02-06 20:30   Burkina Faso  1-1 1-1nV 3-2iE  Ghana
+
+
+(6) Third place
+
+(31) 2013-02-09 20:00   Mali     3-1  Ghana
+
+
+(7) Final
+
+(32) 2013-02-10 20:30   Nigeria  1-0  Burkina Faso
+

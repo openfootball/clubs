@@ -46,8 +46,8 @@ tri, Trinidad and Tobago, TRI, tt
 grn, Grenada,       GRN, gd
 
 
-gpe, Guadeloupe,    GPE, gp     # todo/fix: add to world db as dependency for france
-mtq, Martinique,    MTQ, mq     # todo/fix: add to world db as dependency for france
+gpe, Guadeloupe,    GPE, gp
+mtq, Martinique,    MTQ, mq
 
 
 ## NB: guyana and suriname are part of north/central & caribbean according to fifa

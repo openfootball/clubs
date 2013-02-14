@@ -7,6 +7,8 @@ euro,                  Euro           ## change key to europe (to match folder s
 america.copa,          Copa América
 america.gold,          Gold Cup / Copa de Oro
 
+africa.cup,            Africa Cup of Nations / Coupe d'Afrique des Nations
+
 world.conf,            Confederations Cup
 world,                 World Cup
 world.quali.europe,    World Cup Quali Europe
