@@ -21,22 +21,22 @@
 
 (1) Sechzehntelfinale / Hinspiele   //  Do 14. Februar 2013
 
-2013-02-14 18:00  Zenit St. Petersburg  v  Liverpool
-2013-02-14 18:00  Anzhi Makhachkala     v  Hannover 96
-2013-02-14 19:00  BATE Borisov          v  Fenerbahçe
-2013-02-14 19:00  Levante               v  Olympiacos
-2013-02-14 19:00  Dynamo Kyiv           v  Bordeaux
-2013-02-14 19:00  Bayer Leverkusen      v  Benfica
-2013-02-14 19:00  Ajax                  v  Steaua București
-2013-02-14 19:00  Sparta Prague         v  Chelsea
-2013-02-14 19:00  Napoli                v  Viktoria Plzeň
-2013-02-14 21:05  Internazionale        v  CFR Cluj
-2013-02-14 21:05  Newcastle United      v  Metalist Kharkiv
-2013-02-14 21:05  Stuttgart             v  Genk
-2013-02-14 21:05  Atlético Madrid       v  Rubin Kazan
-2013-02-14 21:05  Basel                 v  Dnipro Dnipropetrovsk
-2013-02-14 21:05  Borussia Mönchengladbach  v  Lazio
-2013-02-14 21:05  Tottenham Hotspur     v  Lyon
+2013-02-14 18:00  Zenit St. Petersburg  2:0  Liverpool
+2013-02-14 18:00  Anzhi Makhachkala     3:1  Hannover 96
+2013-02-14 19:00  BATE Borisov          0:0  Fenerbahçe
+2013-02-14 19:00  Levante               3:0  Olympiacos
+2013-02-14 19:00  Dynamo Kyiv           1:1  Bordeaux
+2013-02-14 19:00  Bayer Leverkusen      0:1  Benfica
+2013-02-14 19:00  Ajax                  2:0  Steaua București
+2013-02-14 19:00  Sparta Prague         0:1  Chelsea
+2013-02-14 19:00  Napoli                0:3  Viktoria Plzeň
+2013-02-14 21:05  Internazionale        2:0  CFR Cluj
+2013-02-14 21:05  Newcastle United      0:0  Metalist Kharkiv
+2013-02-14 21:05  Stuttgart             1:1  Genk
+2013-02-14 21:05  Atlético Madrid       0:2  Rubin Kazan
+2013-02-14 21:05  Basel                 2:0  Dnipro Dnipropetrovsk
+2013-02-14 21:05  Borussia Mönchengladbach  3:3  Lazio
+2013-02-14 21:05  Tottenham Hotspur     2:1  Lyon
 
 (2) Sechzehntelfinale / Rückspiele  //  Do 21. Februar 2013
 
