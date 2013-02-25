@@ -1,6 +1,8 @@
 # Welcome to `football.db`
 
 A free open public domain football (soccer) database & schema
+for use in any (programming) language
+(e.g. uses plain text fixtures/data sets)
 
 ## Usage
 
@@ -83,10 +85,12 @@ Try the `sport.db` Web Admin demo running
 on Heroku [`sportdbdemo.herokuapp.com`](http://sportdbdemo.herokuapp.com).
 
 
-## Tables, Schema, Command Line Tool, Plain Text Fixtures & Format etc.
+## More Info
 
-See the [`sport.db` project](https://github.com/geraldb/sport.db) for more.
-
+For more info about the database tables and schema,
+the command line tool, the plain text fixture format
+and more
+see the [`sport.db` project](https://github.com/geraldb/sport.db).
 
 ## License
 
