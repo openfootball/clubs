@@ -11,7 +11,7 @@
 ## todo: add cities
 
 ajax,         Ajax|Ajax Amsterdam,        city:amsterdam
-az,           AZ Alkmaar,                 city:alkmaar
+alkmaar,      AZ Alkmaar,                 city:alkmaar      ### NB: for now key must be at least three letters, thus, az will not work use alkmaar instead or should we use azalkmaar?
 
 denhaag,      ADO Den Haag|Den Haag
 groningen,    FC Groningen|Groningen

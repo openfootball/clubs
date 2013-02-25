@@ -33,9 +33,12 @@ world_teams:
 at_teams:
 - at/teams
 - at/teams2
+- at/teams3
+- at/teamsx
 
 de_teams:
 - de/teams
+- de/teams2
 
 en_teams:
 - en/teams

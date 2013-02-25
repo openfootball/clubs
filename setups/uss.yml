@@ -20,6 +20,8 @@ world_teams:
 club_europe_teams:
 - at/teams
 - at/teams2
+- at/teams3
+- at/teamsx
 - de/teams
 - en/teams
 - es/teams
