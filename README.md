@@ -1,11 +1,27 @@
-Welcome to `football.db`
-=====================
+# Welcome to `football.db`
 
-A Free Open Public Domain Football (Soccer) Database & Schema
+A free open public domain football (soccer) database & schema
 
 ## Usage
 
-Get a copy of the `football.db` file. That's it.
+Build yourself a copy of the `football.db` from the plain text fixtures
+in three steps.
+
+Step 1:  Get a copy of the `world.db` fixtures
+
+    $ git clone git://github.com/geraldb/world.db.git
+
+Step 2:  Get a copy the `football.db` fixtures
+
+    $ git clone git://github.com/geraldb/football.db.git
+
+Step 3:  Let's build the `football.db`
+
+    $ sportdb setup --include ./football.db --worldinclude ./world.db --dbname football.db
+
+That's it.
+
+
 
 ![](https://raw.github.com/geraldb/football.db/master/i/sqlitestudio.png)
 
@@ -67,33 +83,9 @@ Try the `sport.db` Web Admin demo running
 on Heroku [`sportdbdemo.herokuapp.com`](http://sportdbdemo.herokuapp.com).
 
 
-## Tables, Schema
+## Tables, Schema, Command Line Tool, Plain Text Fixtures & Format etc.
 
-See the [sport.db docu](https://github.com/geraldb/sport.db) for more.
-
-
-## Command Line Tool
-
-See the [`sportdb` command line tool docu](https://github.com/geraldb/sport.db.ruby) for more.
-
-
-## Build Your Own `football.db` Version
-
-See the [sport.db docu](https://github.com/geraldb/sport.db) for more.
-
-
-## Plain Text Fixtures & Format
-
-See the [sport.db docu](https://github.com/geraldb/sport.db) for more.
-
-
-
-## Real World Usage
-
-[sport.db Web Admin](https://github.com/geraldb/sport.db.admin) - `sport.db` Web Admin Tool in Ruby on Rails (version 3.2 and up).
-
-[Sportbook](http://geraldb.github.com/sportbook) - A free, open source sports betting pool
-in Ruby on Rails (version 3.2 and up). 
+See the [`sport.db` project](https://github.com/geraldb/sport.db) for more.
 
 
 ## License
