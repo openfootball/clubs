@@ -1,0 +1,25 @@
+######################################
+# Österreichische 1. Liga 2012/13
+
+league: at.2
+season: 2012/13
+start_at: 2012-07-21 12:00   ## todo: check start date
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+
+########
+# 10 Teams
+
+teams:
+- ksv
+- altach
+- austrial
+- stpoelten
+- linz
+- groedig
+- lustenau
+- vienna
+- hartberg
+- horn

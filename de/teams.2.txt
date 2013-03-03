@@ -15,9 +15,9 @@ herthabsc,    Hertha BSC,     BSC, city:berlin          ### check: use only hert
 klautern,     1. FC Kaiserlautern|K'lautern,      FCK, city:kaiserslautern
 fsvfrankfurt, FSV Frankfurt|FSV Frankfurt 1899,  FSV, city:frankfurt
 koeln,        1. FC Köln|Köln,           KOE, city:koeln
-unionberlin,  Union Berlin|1. FC Union Berlin,   FCU, city: berlin
+unionberlin,  Union Berlin|1. FC Union Berlin,   FCU, city:berlin
 cottbus,      Energie Cottbus|Cottbus|FC Energie Cottbus,        FCE, city:cottbus
-tsvmuenchen,  1860 München|TSV München 1860,   M60, city: muenchen    ### check: allow use of number in key eg muenchen1860?
+tsvmuenchen,  1860 München|TSV München 1860,   M60, city:muenchen    ### check: allow use of number in key eg muenchen1860?
 aalen,        VfR Aalen|Aalen,          AAL,  city:aalen
 ingolstadt,   FC Ingolstadt 04|Ingolstadt,     FCI, city:ingolstadt
 paderborn,    SC Paderborn 07|Paderborn,      SCP, city:paderborn

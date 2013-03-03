@@ -14,4 +14,4 @@ ardagger,      Ardagger SCU,          Landesliga/NÖ,    ARD
 rohrendorf,    SC Rohrendorf,         2. Landesliga West/NÖ, ROH
 heiligenkreuz, SV Heiligenkreuz,      2. Liga Süd/NÖ,   HEI
 viktoria,      Wiener Viktoria|SC Wiener Viktoria,       Wiener Stadtliga, VIK
-juniors,       FC RB Juniors Salzburg|FC Red Bull Salzburg II
+salzburgii,    FC RB Juniors Salzburg|FC Red Bull Salzburg II
