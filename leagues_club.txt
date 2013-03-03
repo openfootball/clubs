@@ -9,6 +9,7 @@
 
 at,     Österr. Bundesliga, at
 at.2,   Österr. Erste Liga, at
+at.cup, ÖFB Cup, at
 
 # todo/check: use groups for West/Mitte/Ost??
 #  and just juse at.3, Österr. Regionalliga
@@ -16,11 +17,11 @@ at.2,   Österr. Erste Liga, at
 at.3.1, Österr. Regionaliga West, at
 at.3.2, Österr. Regionaliga Mitte, at
 at.3.3, Österr. Regionalliga Ost, at
-at.cup, ÖFB Cup, at
 
 de,     Deutsche 1. Bundesliga, de
 de.2,   Deutsche 2. Bundesliga, de
 de.3,   Deutsche 3. Liga, de
+de.cup, DFB Pokal, de
 
 en,     English Premier League, en
 es,     Primera División,       es
