@@ -1,0 +1,25 @@
+##############################################
+# de club fixtures (national leagues only)
+
+seasons:
+- seasons
+
+leagues:
+- leagues_club
+
+######################
+# teams
+
+de_teams:
+- de/teams
+- de/teams.2
+- de/teams.3
+
+
+############################
+# fixtures
+
+de:
+  de.2012/13: de/2012_13/bl
+  de.2.2012/13: de/2012_13/l2
+  de.3.2012/13: de/2012_13/l3

@@ -38,7 +38,8 @@ at_teams:
 
 de_teams:
 - de/teams
-- de/teams2
+- de/teams.2
+- de/teams.3
 
 en_teams:
 - en/teams
@@ -100,8 +101,10 @@ at:
   
 de:
   de.2012/13: de/2012_13/bl
-  
-  
+  de.2.2012/13: de/2012_13/l2
+  de.3.2012/13: de/2012_13/l3
+
+
 en:
   en.2012/13: en/2012_13/pl
 
