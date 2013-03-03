@@ -4,34 +4,131 @@
 
 21. Runde  // Sa 16. Feb 2013
 
-2013-02-16 12:00  SV Ried  -  FC Wacker Innsbruck
-2013-02-16 12:00  Rapid Wien  -  Austria Wien
-2013-02-16 12:00  SV Mattersburg  -  Sturm Graz
-2013-02-16 12:00  Wolfsberger AC  -  RB Salzburg
-2013-02-16 12:00  FC Admira Wacker  -  SC Wiener Neustadt
+2013-02-16 12:00  SV Ried  -  FC Wacker Innsbruck   3:0
+2013-02-16 12:00  Rapid Wien  -  Austria Wien    1:2
+2013-02-16 12:00  SV Mattersburg  -  Sturm Graz    0:0
+### game postponed - todo add postponed flag
+2013-02-16 12:00  Wolfsberger AC  -  RB Salzburg   
+2013-02-16 12:00  FC Admira Wacker  -  SC Wiener Neustadt  1:2
 
 22. Runde // Sa 23. Feb 2013
 
-2013-02-23 12:00  SC Wiener Neustadt  -  SV Ried
-2013-02-23 12:00  Sturm Graz  -  Wolfsberger AC
-2013-02-23 12:00  RB Salzburg  -  Rapid Wien
-2013-02-23 12:00  Austria Wien  -  FC Admira Wacker
-2013-02-23 12:00  FC Wacker Innsbruck  -  SV Mattersburg
+2013-02-23 12:00  SC Wiener Neustadt  -  SV Ried  0:0
+2013-02-23 12:00  Sturm Graz  -  Wolfsberger AC    1:3
+2013-02-23 12:00  RB Salzburg  -  Rapid Wien     3:3
+2013-02-23 12:00  Austria Wien  -  FC Admira Wacker    4:0
+2013-02-23 12:00  FC Wacker Innsbruck  -  SV Mattersburg   2:0
 
 23. Runde // Di 26. Feb 2013
 
-2013-02-26 12:00  SV Ried  -  Austria Wien
-2013-02-26 12:00  Rapid Wien  -  Sturm Graz
-2013-02-26 12:00  FC Wacker Innsbruck  -  SC Wiener Neustadt
+2013-02-26 12:00  SV Ried  -  Austria Wien    1:3
+2013-02-26 12:00  Rapid Wien  -  Sturm Graz   1:1
+2013-02-26 12:00  FC Wacker Innsbruck  -  SC Wiener Neustadt    1:0
+
+### games postponed - todo add postponed flag
 2013-02-26 12:00  Wolfsberger AC  -  SV Mattersburg
 2013-02-26 12:00  FC Admira Wacker  -  RB Salzburg
 
 24. Runde // Sa 02. Mar 2013
 
-2013-03-02 12:00  Sturm Graz  -  FC Admira Wacker
-2013-03-02 12:00  RB Salzburg  -  SC Wiener Neustadt
-2013-03-02 12:00  Austria Wien  -  FC Wacker Innsbruck
-2013-03-02 12:00  SV Mattersburg  -  SV Ried
-2013-03-02 12:00  Wolfsberger AC  -  Rapid Wien
+2013-03-02 12:00  Sturm Graz  -  FC Admira Wacker  1:2
+2013-03-02 12:00  RB Salzburg  -  SC Wiener Neustadt  3:1
+2013-03-02 12:00  Austria Wien  -  FC Wacker Innsbruck  4:0
+2013-03-02 12:00  SV Mattersburg  -  SV Ried     1:0
+2013-03-02 12:00  Wolfsberger AC  -  Rapid Wien    2:1
 
+25. Runde
 
+2013-03-09 16:00   SC Wiener Neustadt   Austria Wien
+2013-03-09 18:30   SV Ried   Sturm Graz
+2013-03-09 18:30   Rapid Wien   SV Mattersburg
+2013-03-09 18:30   FC Admira Wacker   Wolfsberger AC
+2013-03-10 16:00   FC Wacker Innsbruck   RB Salzburg
+
+26. Runde
+
+2013-03-16 16:00   Rapid Wien   FC Admira Wacker
+2013-03-16 18:30   Sturm Graz   FC Wacker Innsbruck
+2013-03-16 18:30   RB Salzburg   SV Ried
+2013-03-16 18:30   Wolfsberger AC   SC Wiener Neustadt
+2013-03-17 17:00   SV Mattersburg   Austria Wien
+
+27. Runde
+
+2013-03-30 16:00   FC Admira Wacker   SV Mattersburg
+2013-03-30 18:30   SV Ried   Rapid Wien
+2013-03-30 18:30   SC Wiener Neustadt   Sturm Graz
+2013-03-30 18:30   FC Wacker Innsbruck   Wolfsberger AC
+2013-03-31 16:00   Austria Wien   RB Salzburg
+
+28. Runde
+
+2013-04-06 15:00   RB Salzburg   Sturm Graz
+2013-04-06 15:00   FC Wacker Innsbruck   Rapid Wien
+2013-04-06 15:00   SC Wiener Neustadt   SV Mattersburg
+2013-04-06 15:00   Austria Wien   Wolfsberger AC
+2013-04-06 15:00   SV Ried   FC Admira Wacker
+
+29. Runde
+
+2013-04-13 15:00   Wolfsberger AC   SV Ried
+2013-04-13 15:00   Rapid Wien   SC Wiener Neustadt
+2013-04-13 15:00   SV Mattersburg   RB Salzburg
+2013-04-13 15:00   Sturm Graz   Austria Wien
+2013-04-13 15:00   FC Admira Wacker   FC Wacker Innsbruck
+
+30. Runde
+
+2013-04-20 15:00   FC Wacker Innsbruck   SV Ried
+2013-04-20 15:00   Austria Wien   Rapid Wien
+2013-04-20 15:00   Sturm Graz   SV Mattersburg
+2013-04-20 15:00   RB Salzburg   Wolfsberger AC
+2013-04-20 15:00   SC Wiener Neustadt   FC Admira Wacker
+
+31. Runde
+
+2013-04-27 15:00   SV Ried   SC Wiener Neustadt
+2013-04-27 15:00   Wolfsberger AC   Sturm Graz
+2013-04-27 15:00   Rapid Wien   RB Salzburg
+2013-04-27 15:00   FC Admira Wacker   Austria Wien
+2013-04-27 15:00   SV Mattersburg   FC Wacker Innsbruck
+
+32. Runde
+
+2013-05-04 15:00   Austria Wien   SV Ried
+2013-05-04 15:00   Sturm Graz   Rapid Wien
+2013-05-04 15:00   SC Wiener Neustadt   FC Wacker Innsbruck
+2013-05-04 15:00   SV Mattersburg   Wolfsberger AC
+2013-05-04 15:00   RB Salzburg   FC Admira Wacker
+
+33. Runde
+
+2013-05-11 15:00   FC Admira Wacker   Sturm Graz
+2013-05-11 15:00   SC Wiener Neustadt   RB Salzburg
+2013-05-11 15:00   FC Wacker Innsbruck   Austria Wien
+2013-05-11 15:00   SV Ried   SV Mattersburg
+2013-05-11 15:00   Rapid Wien   Wolfsberger AC
+
+34. Runde
+
+2013-05-18 15:00   Sturm Graz   SV Ried
+2013-05-18 15:00   Austria Wien   SC Wiener Neustadt
+2013-05-18 15:00   SV Mattersburg   Rapid Wien
+2013-05-18 15:00   RB Salzburg   FC Wacker Innsbruck
+2013-05-18 15:00   Wolfsberger AC   FC Admira Wacker
+
+35. Runde
+
+2013-05-22 15:00   FC Wacker Innsbruck   Sturm Graz
+2013-05-22 15:00   SV Ried   RB Salzburg
+2013-05-22 15:00   FC Admira Wacker   Rapid Wien
+2013-05-22 15:00   Austria Wien   SV Mattersburg
+2013-05-22 15:00   SC Wiener Neustadt   Wolfsberger AC
+
+36. Runde
+
+2013-05-26 15:00   Rapid Wien   SV Ried
+2013-05-26 15:00   Sturm Graz   SC Wiener Neustadt
+2013-05-26 15:00   RB Salzburg   Austria Wien
+2013-05-26 15:00   Wolfsberger AC   FC Wacker Innsbruck
+2013-05-26 15:00   SV Mattersburg   FC Admira Wacker

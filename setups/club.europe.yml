@@ -1,0 +1,50 @@
+####################
+# club europe fixtures
+
+seasons:
+- seasons
+
+leagues:
+- leagues_club
+
+######################
+# teams
+
+at_teams:
+- at/teams
+
+de_teams:
+- de/teams
+
+en_teams:
+- en/teams
+
+es_teams:
+- es/teams
+
+fr_teams:
+- fr/teams
+
+it_teams:
+- it/teams
+
+nl_teams:
+- nl/teams
+
+ro_teams:
+- ro/teams
+
+club_europe_teams:
+- club/europe/teams
+
+
+############################
+# fixtures
+
+2011_12:
+  cl.2011/12: club/europe/2011_12/cl
+  el.2011/12: club/europe/2011_12/el
+
+2012_13:
+  cl.2012/13: club/europe/2012_13/cl
+  el.2012/13: club/europe/2012_13/el

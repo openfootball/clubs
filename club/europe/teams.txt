@@ -78,7 +78,7 @@ fenerbahce,   Fenerbahçe|Fenerbahçe SK|Fenerbahçe Spor Kulübü|Fenerbahçe S
 ########################
 # Switzerland, ch
 
-basel,        Basel|FC Basel 1893,            ch, city:basel
+basel,        Basel|FC Basel|FC Basel 1893,            ch, city:basel
 
 #############################
 # Cyprus, cy
