@@ -3,7 +3,7 @@
 
 league: euro
 season: 2008
-start_at: 2008-06-07 18:00
+start_at: 2008-06-07
 team3: false
 
 # note: timezone for games (play_at) is *always* CET (central european time)

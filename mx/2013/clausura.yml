@@ -3,7 +3,7 @@
 
 league: mx.clausura
 season: 2013.1
-start_at: 2013-01-04 12:00
+start_at: 2013-01-04
 
 # note: timezone for games (play_at) is *always* CST (central standard time / -6 hours ??)
 

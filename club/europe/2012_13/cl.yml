@@ -4,7 +4,7 @@
 
 league: cl
 season: 2012/13
-start_at: 2012-09-18 18:30
+start_at: 2012-09-18
 team3: false
 
 # note: timezone for games (play_at) is *always* CET (central european time)

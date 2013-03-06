@@ -3,7 +3,7 @@
 
 league: euro
 season: 2012
-start_at: 2012-06-07 17:00
+start_at: 2012-06-07
 team3: false
 
 # note: timezone for games (play_at) is *always* CET (central european time)

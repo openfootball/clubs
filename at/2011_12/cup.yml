@@ -4,7 +4,7 @@
 
 league: at.cup
 season: 2011/12
-start_at: 2011-10-10 17:00
+start_at: 2011-10-10
 team3: false       # no game for 3rd/4th place
 
 # note: timezone for games (play_at) is *always* CET (central european time)

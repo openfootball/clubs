@@ -3,7 +3,7 @@
 
 league: de.3
 season: 2012/13
-start_at: 2012-07-21 12:00    # todo: check start date
+start_at: 2012-07-21    # todo: check start date
 
 
 # note: timezone for games (play_at) is *always* CET (central european time)
