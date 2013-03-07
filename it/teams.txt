@@ -1,14 +1,6 @@
-
-###
-## Serie A
-##  20 teams
-##
-## see http://en.wikipedia.org/wiki/Serie_A
-##
-## official -> legaseriea.it
-
-
-## use three letter abbrevations from legaseriea.it
+#########################
+# Serie A 2012/13
+# - 20 teams
 
 milan,        Milan|AC Milan|Associazione Calcio Milan,    MIL,     city:milano
 inter,        Internazionale|FC Internazionale Milano,    INT,  city:milano
@@ -16,7 +8,7 @@ inter,        Internazionale|FC Internazionale Milano,    INT,  city:milano
 lazio,        Lazio|SS Lazio|Società Sportiva Lazio|Lazio Roma, LAZ, city:roma
 roma,         AS Roma|Associazione Sportiva Roma, ROM, city:roma
 
-genoa,        Genoa CFC, Genoa Cricket and Football Club, GEN, city:genoa
+genoa,        Genoa CFC|Genoa Cricket and Football Club, GEN, city:genoa
 sampdoria,    Unione Calcio Sampdoria|Sampdoria Genoa, SAM, city:genoa
 
 juventus,     Juventus|Juventus Football Club|Juventus FC|Juventus Torino, JUV,  city:torino
@@ -26,7 +18,7 @@ napoli,       Napoli|SSC Napoli|Società Sportiva Calcio Napoli,   NAP,      cit
 
 
 atalanta,     Atalanta Bergamasca Calcio|Atalanta|Atalanta Bergamo|Atalanta BC, ATA,  city:bergamo
-bologna,      Bologna|FC Bologna, Bologna Football Club 1909,  BOL, city:bologna
+bologna,      Bologna|FC Bologna|Bologna Football Club 1909,  BOL, city:bologna
 cagliari,     Cagliari Calcio,  CAG, city:cagliari
 catania,      Calcio Catania,   CAT, city:catania
 verona,       Chievo Verona|Associazione Calcio Chievo Verona, CHI, city:verona
