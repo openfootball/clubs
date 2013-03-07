@@ -1,0 +1,11 @@
+
+at,     Österr. Bundesliga
+at.2,   Österr. Erste Liga
+at.cup, ÖFB Cup
+
+# todo/check: use groups for West/Mitte/Ost??
+#  and just use at.3, Österr. Regionalliga
+
+at.3.1, Österr. Regionaliga West
+at.3.2, Österr. Regionaliga Mitte
+at.3.3, Österr. Regionalliga Ost

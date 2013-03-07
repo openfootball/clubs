@@ -5,7 +5,7 @@ seasons:
 - seasons
 
 leagues:
-- leagues_club
+- de/leagues
 
 ######################
 # teams

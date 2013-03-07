@@ -1,0 +1,15 @@
+################################
+# Challenge League 2012/13
+#  - 10 Teams
+
+aarau,      FC Aarau|Aarau, city:aarau
+bellinzona, AC Bellinzona|Bellinzona, city:bellinzona
+wil,        FC Wil 1900|Wil, city:wil
+winterthur, FC Winterthur|Winterthur, city:winterthur
+chiasso,    FC Chiasso|Chiasso, city:chiasso
+lugano,     FC Lugano|Lugano, city:lugano
+biel,       FC Biel-Bienne|Biel-Bienne, city:biel
+wohlen,     FC Wohlen|Wohlen, city:wohlen
+locarno,    FC Locarno|Locarno, city:locarno
+
+vaduz,      FC Vaduz|Vaduz,  city:vaduz,  li     ### Liechtenstein !!!

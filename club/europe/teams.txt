@@ -7,7 +7,8 @@
 #  use fr/teams.txt for French Teams
 #  use at/teams.txt for Austrian Teams
 #  use ro/teams.txt for Romanian Teams
-#  use nl/teams.txt for Teams from Netherlands
+#  use nl/teams.txt for Dutch Teams (Netherlands)
+#  use ch/teams.txt for Swiss Teams (Switzerland)
 
 
 ################################
@@ -73,12 +74,6 @@ celtic,       Celtic|Celtic Glasgow,          sc, city:glasgow
 
 galatasaray,  Galatasaray|Galatasaray Istanbul,     tr, city:istanbul
 fenerbahce,   Fenerbahçe|Fenerbahçe SK|Fenerbahçe Spor Kulübü|Fenerbahçe Sports Club,      tr, city:istanbul
-
-
-########################
-# Switzerland, ch
-
-basel,        Basel|FC Basel|FC Basel 1893,            ch, city:basel
 
 #############################
 # Cyprus, cy

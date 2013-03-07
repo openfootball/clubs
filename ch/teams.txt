@@ -1,0 +1,14 @@
+########################
+# Super League 2012/13
+# - 10 Teams
+
+zuerich, FC Zürich, city:zuerich
+grasshopper, Grasshopper Club Zürich|Grasshoppers|Grasshoppers Zürich, city:zuerich
+basel, FC Basel 1893|Basel|FC Basel,  city:basel
+youngboys, BSC Young Boys|Young Boys|Young Boys Bern|Berner Sport Club Young Boys, city:bern
+servette, Servette FC|Servette|Servette FC Genève|Servette Genève, city:geneve
+lausanne, FC Lausanne-Sport|Lausanne|FC Lausanne, city:lausanne
+luzern, FC Luzern|Luzern, city:luzern
+stgallen, FC St. Gallen|St. Gallen, city:stgallen
+thun, FC Thun|Thun, city:thun
+sion, FC Sion|Sion, city:sion
