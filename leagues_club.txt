@@ -2,21 +2,90 @@
 #  national leagues & cups
 
 
+###########
+# All 53 UEFA (Europe incl. Isreal+Kazakhstan) Leagues
+
 #####
 # NB:
 #  at leagues in at/leagues.txt (Austria)
 #  de leagues in de/leagues.txt (Germany)
 #  ch leagues in ch/leagues.txt (Switzerland)
 
+es, Primera División,       es    # Use Liga for title ??
+pt, Primeira Liga,          pt    # Use Liga for title ??
+ad, Primera Divisió,        ad    # AND / Andorra
 
-en,     English Premier League, en
-es,     Primera División,       es
-it,     Serie A,                it
-fr,     Ligue 1,                fr
-nl,     Eredivisie,             nl
-pt,     SuperLiga,              pt
-ru,     Premier Liga,           ru
-ro,     Romania Liga 1,         ro
+fr, Ligue 1,                fr
+
+it, Serie A,                it    # ITA / Italy
+sm, Campionato,             sm    # SMR / San Marino
+mt, Premier League,         mt    # MLT / Malta
+
+nl, Eredivisie,             nl
+be, Belgian First League,   be
+lu, Division Nationale,     lu   # LUX
+
+ru, Premier Liga,           ru
+ua, Premier League,         ua    # UKR / Ukraine
+by, Vysshaya Liga,          by    # BLR / Belarus
+
+gr, Super League,           gr
+tr, Süper Lig,              tr
+cy, Division A,             cy    # CYP / Cyprus
+il, Ligat Ha'Al,            il    # ISR / Israel
+
+
+pl, Ekstraklasa,            pl
+cz, 1. Liga,                cz
+hu, 1. Liga,                hu    # HUN / Hungary
+hr, Prva Liga,              hr    # CRO / Croatia
+sk, Superliga,              sk    # SVK / Slovakia
+si, 1. Liga,                si    # SVN / Slovenia
+
+
+ro, Romania Liga 1,         ro    # ROU / Romania
+bg, A PFG,                  bg    # BUL / Bulgaria
+rs, Superliga,              rs    # SRB / Serbia
+ba, Premijer Liga,          ba    # BIH / Bosnia and Herzegovina
+md, Divizia Nationala,      md    # MDA / Moldova
+mk, Prva Liga,              mk    # MKD / Macedonia
+me, Prva crnogorska,        me    # MNE / Montenegro
+al, Kategoria Superiore,    al    # ALB / Albania
+
+
+# British Isles
+
+en, English Premier League, en    # ENG / England
+sc, Premier League,         sc    # SCO / Scotland
+wa, Premier League,         wa    # WAL / Wales
+nd, Premier League,         nr    # NIR / Northern Irland
+ie, Premier Division,       ie    # IRL / Irland
+
+
+# Nordic (Scandinavia & Baltics)
+
+fi, Veikkausliiga,          fi    # FIN / Finland
+se, Allsvenskan,            se    # SWE / Sweden
+no, Eliteserien,            no    # NOR / Norway
+lt, A Lyga,                 lt    # LTU / Lithuania
+lv, Virsliga,               lv    # LVA / Latvija
+ee, Meistriliiga,           ee    # EST / Estonia
+
+is, Urvalsdeild,              is  # ISL / Iceland
+fo, Faroese Premier Division, fo  # FRO / Faroe Islands
+
+dk, Superligaen,            dk    # DEN / Denmark
+
+
+# South Caucasus
+
+az, Premyer Liqasi,         az    # AZE / Azerbaijan
+am, Bardzraguyn khumb,      am    # ARM / Armenia
+ge, Umaglesi Liga,          ge    # GEO / Georgia
+
+kz, Premier League,         kz    # KAZ / Kazakhstan
+
+
 
 
 #############
