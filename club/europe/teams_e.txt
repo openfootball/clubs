@@ -1,0 +1,91 @@
+###################################
+# Eastern Europe Teams
+
+####
+# NB:
+#  use ro/teams.txt for Romanian Teams
+
+##############################
+# Bulgaria, bg
+
+levskisofia, PFC Levski Sofia,  bg
+cskasofia,   PFC CSKA Sofia,   bg
+lokomotivsofia, PFC Lokomotiv Sofia, bg
+litexlovech,     PFC Litex Lovech, bg
+chernomorevarna, PFC Cherno More Varna, bg
+razgrad, PFC Ludogorets Razgrad, bg
+zagora, PFC Beroe Stara Zagora, bg
+
+
+
+#############################
+# Russia, ru
+
+zenit,        Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg, ru, city:stpetersburg
+spartak,      Spartak Moskau|Spartak Moscow,     ru, city:moskva
+moskva,       CSKA Moskva|PFC CSKA Moskva,          ru, city:moskva
+lokomotiv,    FC Lokomotiv Moskva, ru
+dinamomoskva, FC Dinamo Moskva, ru
+fcmoskva,     FC Moskva, ru
+rubinkazan,   Rubin Kazan|FC Rubin Kazan,                      ru, city:kazan
+anzhi,        Anzhi Makhachkala|FC Anzhi Makhachkala,                ru, city:makhachkala
+vladikavkaz,  FC Alania Vladikavkaz, ru
+novosibirsk,  FC Sibir Novosibirsk, ru
+amkarperm,    FC Amkar Perm, ru
+samara,       PFC Krylya Sovetov Samara, ru
+
+################################
+# Ukraine, ua
+
+## fix: rename key to dynamokyiv
+kiew,         Dynamo Kiew|FC Dynamo Kiew|Dynamo Kiev|Dynamo Kyiv,          ua, city:kiev
+donezk,       Schachtjor Donezk|Shakhtar Don.|Shakhtar Donetsk|Schachtar Donezk,    ua, city:donetsk
+metalurh,     FC Metalurh Donetsk, ua
+metalist,     FC Metalist Kharkiv|Metalist Kharkiv,      ua, city:kharkov
+dnipro,       FC Dnipro|FC Dnipro Dnipropetrovsk|Dnipro Dnipropetrovsk, ua, city:dnipropetrovsk
+poltava,      FC Vorskla Poltava, ua
+lviv,         FC Karpaty Lviv, ua
+simferopol,   SC Tavriya Simferopol, ua
+arsenalkyiv,  FC Arsenal Kyiv, ua
+
+
+##########################
+# Belarus, by
+
+borissow,     BATE Borissow|BATE Borisov|Bate Borisov,           by, city:borisov
+gomel,        FC Gomel, by
+dinamominsk,  FC Dinamo Minsk, by
+parizanminsk, FC Partizan Minsk, by
+fcminsk,      FC Minsk, by
+dneprmogilev, FC Dnepr Mogilev, by
+soligorsk,    FC Shakhtyor Soligorsk, by
+novopolotsk,  FC Naftan Novopolotsk, by
+zhodino,      FC Torpedo Zhodino, by
+
+
+############################
+# Kazakhstan (KAZ), kz
+
+aktobe, FC Aktobe, kz
+
+##############################
+# Georgia (GEO), ge
+
+zestafoni,      FC Zestafoni, ge
+dinamotbilisi, FC Dinamo Tbilisi, ge
+rustavi,       FC Metalurgi Rustavi, ge
+
+#############################
+# Armenia (ARM), am
+
+pyunik, FC Pyunik, am
+
+##################################
+# Azerbaijan (AZE), az
+
+neftci,  Neftçi PFK, az
+qarabag, Qarabağ FK, az
+## todo: check key for bakl??
+baklfk,    Bakı FK, az
+interkakl, İnter Bakı PİK, az
+

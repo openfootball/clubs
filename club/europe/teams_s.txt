@@ -1,0 +1,134 @@
+###########################################
+# Southern Europe (includes Balkans)
+
+
+##################
+# NB:
+#  use es/teams.txt for Spanish Teams
+#  use it/teams.txt for Italian Teams
+
+
+#######################
+# Malta (MLT), mt
+
+valletta, Valletta FC, mt
+
+
+################################
+# Portugal, pt
+
+porto,        Porto|FC Porto,                        pt, city:porto
+benfica,      Benfica|Benfica Lissabon|Benfica Lis.,   pt, city:lisboa
+braga,        Braga|Sporting Braga,                  pt, city:braga
+sporting,     Sporting Lisboa|Sporting CP|Sporting Clube de Portugal,    pt, city:lisboa
+maritimo,         CS Marítimo, pt
+nacionaldamadeira,  CD Nacional|Nacional da Madeira , pt
+coimbra,            A. Académica de Coimbra, pt
+vitoriasc,            Vitória SC, pt
+vitoriafc,            Vitória FC, pt
+ferreira,           FC Paços de Ferreira, pt
+
+
+
+#############################
+# Croatia, hr
+
+zagreb,       Dinamo Zagreb|NK Dinamo Zagreb,        hr, city:zagreb
+hajduksplit,  HNK Hajduk Split, hr
+rnksplit,     RNK Split, hr
+koprivnica,   NK Slaven Koprivnica, hr
+varazdin,     NK Varaždin, hr
+rijeka,       HNK Rijeka, hr
+osijek,       NK Osijek, hr
+cibalia,      HNK Cibalia, hr
+sibenik,      HNK Šibenik, hr
+
+
+#############################
+# Serbia, rs
+
+partizan,      FK Partizan,     rs
+crvenazvezda,  FK Crvena zvezda, rs
+vojvodina,     FK Vojvodina, rs
+beograd,       OFK Beograd, rs
+zlatibor,      FK Spartak Zlatibor voda, rs
+uzice,         FK Sloboda Užice, rs
+rad,           FK Rad, rs
+
+##############################
+# Bosnia and Herzegovina (BIH), ba
+
+sarajevo, FK Sarajevo, ba
+zeljeznicar, FK Željezničar, ba
+zrinjski, HŠK Zrinjski, ba
+
+###########################
+# Macedonia (MKD), mk
+
+rabotnicki, FK Rabotnicki, mk
+
+#################################
+# Moldova (MDA), md
+
+sheriff,  FC Sheriff,  md
+chisinau, FC Dacia Chisinau, md
+
+#####################################
+#  Montenegro (MNE), me
+
+podgorica, FK Budućnost Podgorica, me
+mogren,    FK Mogren, me
+
+
+
+#######################
+# Greece, gr
+
+## fix: change city to athens?
+olympiacos,      Olympiakos Piräus|Olympiakos P.|Olympiacos,    gr, city:piraeus
+panathinaikos,   Panathinaikos FC, gr
+paok,            PAOK FC, gr
+aekathens,       AEK Athens FC, gr
+thessaloniki,    Aris Thessaloniki FC, gr
+atromitos,       Atromitos FC, gr
+tripolis,        Asteras Tripolis FC, gr
+olympiacosvolou, Olympiacos Volou FC, gr
+larissa,         Larissa FC, gr
+
+
+#########################
+#  Turkey, tr
+
+galatasaray,   Galatasaray|Galatasaray Istanbul,     tr, city:istanbul
+fenerbahce,    Fenerbahçe|Fenerbahçe SK|Fenerbahçe Spor Kulübü|Fenerbahçe Sports Club,      tr, city:istanbul
+besiktas,      Beşiktaş JK, tr
+trabzonspor,   Trabzonspor AŞ, tr
+bursaspor,     Bursaspor, tr
+sivasspor,     Sivasspor, tr
+eskisehirspor, Eskişehirspor, tr
+gaziantepspor, Gaziantepspor, tr
+kayserispor,   Kayserispor, tr
+
+
+#############################
+# Cyprus, cy
+
+apoel,           APOEL|APOEL Nikosia|APOEL FC,            cy, city:nikosia
+anorthosis,      Anorthosis Famagusta FC, cy
+omonia,          AC Omonia, cy
+larnaca,         AEK Larnaca FC, cy
+limassol,        AEL Limassol FC, cy
+apollonlimassol, Apollon Limassol FC, cy
+kinyraspeyias,   APOP/Kinyras Peyias FC, cy
+
+
+###############################
+# Isreal, il
+
+hapoeltelaviv,     Hapoel Tel-Aviv FC,      il
+bneiyehudatelaviv, Bnei Yehuda Tel-Aviv FC, il
+maccabitelaviv,    Maccabi Tel-Aviv FC,     il
+haifa,             Maccabi Haifa FC,        il
+kiryatshmona,      Hapoel Kiryat Shmona FC, il
+netanya,           Maccabi Netanya FC,      il
+beitarjerusalem,   Beitar Jerusalem FC,     il

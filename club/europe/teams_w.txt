@@ -1,0 +1,63 @@
+##################################################
+# Western Europe Teams (includes British Isles & Low Countries)
+
+##############################
+# NB:
+#  use en/teams.txt for English Teams
+#  use nl/teams.txt for Dutch Teams (Netherlands)
+#  use fr/teams.txt for French Teams
+
+
+#########################
+# Belgium, be
+
+anderlecht,    Anderlecht|RSC Anderlecht,       be, city:brussel
+genk,          Genk|KRC Genk|Koninklijke Racing Club Genk, be, city:genk
+standardliege, R. Standard de Liège, be
+brugge,        Club Brugge KV, be
+gent,          KAA Gent, be
+lokeren,       KSC Lokeren OV, be
+westerlo,      KVC Westerlo, be
+cerclebrugge,  Cercle Brugge KSV, be
+
+###########################
+# Luxembourg (LUX), lu
+
+dudelange, F91 Dudelange, lu
+differdange, FC Differdange 03, lu
+
+
+
+###################
+# Scotland, sc
+
+celtic,         Celtic|Celtic Glasgow,          sc, city:glasgow
+rangers,        Rangers FC,   sc
+midlothian,     Heart of Midlothian FC, sc
+motherwell,     Motherwell FC, sc
+dundeeunited,   Dundee United FC, sc
+hibernian,      Hibernian FC, sc
+aberdeen,       Aberdeen FC, sc
+saintjohnstone, Saint Johnstone FC, sc
+falkirk,        Falkirk FC, sc
+
+#######################
+# Irland, ie
+
+saintpatricks, Saint Patrick's Athletic FC,  ie
+shamrock,      Shamrock Rovers FC, ie
+bohemian,      Bohemian FC, ie
+
+#######################
+# Northern Ireland (NIR), nd
+
+linfield, Linfield FC, nd
+
+#######################
+# Wales, wa
+
+newsaints, The New Saints FC, wa
+
+
+
+

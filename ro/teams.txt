@@ -3,7 +3,7 @@ dinamobu,           Dinamo București,       FCD, city:bucuresti
 rapidbu,            Rapid București,        RBU, city:bucuresti
 steaua,             Steaua București,       SBU, city:bucuresti
 
-cfr,                CFR Cluj,               CFR, city:cluj
+cfrcluj,            CFR Cluj|CFR 1907 Cluj, CFR, city:cluj
 ucluj,              U Cluj,                 UCJ, city:cluj
 
 astra,              Astra Ploiesti,         AFC
@@ -11,7 +11,7 @@ ceahlau,            Ceahlaul Piatra Neamt,  FCC
 chiajna,            Concordia Chiajna,      CCH
 iasi,               CSMS Iasi,              CSI
 fcbrasov,           FC Brasov,              FCB
-gazmetanseverin,    FC Severin,             FCS
+severin,            FC Severin,             FCS
 vaslui,             FC Vaslui,              FCV
 gazmetanmedias,     Gaz Metan Medias,       GMM
 gloriabistrita,     Gloria Bistrita,        GBS
