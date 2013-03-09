@@ -39,6 +39,10 @@ at_teams:
 - at/teams.3
 - at/teams.x
 
+ch_teams:
+- ch/teams
+- ch/teams.2
+
 de_teams:
 - de/teams
 - de/teams.2
@@ -63,7 +67,11 @@ ro_teams:
 - ro/teams
 
 club_europe_teams:
-- club/europe/teams
+- club/europe/teams_c
+- club/europe/teams_e
+- club/europe/teams_n
+- club/europe/teams_s
+- club/europe/teams_w
 
 
 ar_teams:

@@ -13,6 +13,9 @@ leagues:
 at_teams:
 - at/teams
 
+ch_teams:
+- ch/teams
+
 de_teams:
 - de/teams
 
@@ -35,7 +38,11 @@ ro_teams:
 - ro/teams
 
 club_europe_teams:
-- club/europe/teams
+- club/europe/teams_c
+- club/europe/teams_e
+- club/europe/teams_n
+- club/europe/teams_s
+- club/europe/teams_w
 
 
 ############################

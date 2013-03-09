@@ -23,6 +23,7 @@ club_europe_teams:
 - at/teams2
 - at/teams3
 - at/teamsx
+- ch/teams
 - de/teams
 - en/teams
 - es/teams
@@ -30,7 +31,11 @@ club_europe_teams:
 - it/teams
 - nl/teams
 - ro/teams
-- club/europe/teams
+- club/europe/teams_c
+- club/europe/teams_e
+- club/europe/teams_n
+- club/europe/teams_s
+- club/europe/teams_w
 
 
 ############################
