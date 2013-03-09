@@ -7,9 +7,15 @@
 #  use at/teams.txt for Austrian Teams
 #  use ch/teams.txt for Swiss Teams (Switzerland)
 
+###############################
+# Liechtenstein (LIE), li
+
+vaduz,  FC Vaduz|Vaduz, city:vaduz, li
+eschen, FC USV Eschen/Mauren, li
+
 
 #############################
-# Poland, pl
+# Poland (POL), pl
 
 poznan,        KKS Lech Poznań,  pl
 krakow,        Wisła Kraków, pl
@@ -21,9 +27,10 @@ poloniawarszawa, KSP Polonia Warszawa, pl
 
 
 ##############################
-# Czech Republic, cz
+# Czech Republic (CZE), cz
 
 ## fix: change key to spartapraha
+
 praha,       Sparta Praha|Sparta Prague|AC Sparta Praha|AC Sparta Prague,      cz, city:praha
 slaviapraha, SK Slavia Praha, cz
 plzen,       Viktoria Plzeň|FC Viktoria Plzeň,                     cz, city:plzen
@@ -43,20 +50,38 @@ bratislava, ŠK Slovan Bratislava, sk
 trnava,     FC Spartak Trnava, sk
 senica,     FK Senica, sk
 kosice,     MFK Košice, sk
+bystrica,   Dukla Banská Bystrica, sk
+nitra,      FC Nitra, sk
+petrzalka,  MFK Petržalka, sk
+
 
 #############################
 # Hungary (HUN), hu
 
-debreceni, Debreceni VSC, hu
-videoton,  Videoton FC, hu
-budapest,  Budapest Honvéd FC, hu
-gyori,     Győri ETO FC, hu
-paksi,     Paksi SE, hu
+budapesthonved, Budapest Honvéd FC, hu
+mtkbudapest,    MTK Budapest, hu
+ferencvarosi,   Ferencvárosi TC, hu
+videoton,       Videoton FC, hu
+debreceni,      Debreceni VSC, hu
+gyori,          Győri ETO FC, hu
+paksi,         Paksi SE, hu
+kecskemeti,    Kecskeméti TE, hu
+ujpest,        Újpest FC, hu
+szombathelyi,  Szombathelyi Haladás, hu
+zalaegerszegi, Zalaegerszegi TE, hu
+
+
 
 #####################################
 # Slovenia (SVN), si
 
-maribor,   NK Maribor, si
-mura,      ND Mura 05, si
-ljubljana, NK Olimpija Ljubljana, si
+olimpijaljubljana, NK Olimpija Ljubljana, si
+ibljubljana,       NK IB Ljubljana, si
+maribor,           NK Maribor, si
+mura,              ND Mura 05, si
+koper,             FC Koper, si
+gorica,            ND Gorica, si
+domzale,           NK Domžale, si
+velenje,           NK Rudar Velenje, si
+celje,             NK Celje, si
 

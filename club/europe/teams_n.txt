@@ -5,12 +5,33 @@
 ##########################
 # Iceland (ISL), is
 
-reykjavik,      KR Reykjavík, is
-hafnarfjoerdur, FH Hafnarfjördur, is
+krreykjavik,      KR Reykjavík, is
+framreykjavik,    Fram Reykjavík, is
+valurreykjavik,   Valur Reykjavík, is
+hafnarfjoerdur,   FH Hafnarfjördur, is
+breidablik,       Breidablik, is
+akureyri,         Thór Akureyri, is
+vestmannaeyjar,   ÍBV Vestmannaeyjar, is
+fylkir,           Fylkir, is
+keflavik,         Keflavík, is
+akranes,          ÍA Akranes, is
+
+
+#############################
+# Faroe Islands (FRO), fo
+
+## todo: allow numbers in keys eg b36torshavn
+
+hbtorshavn, HB Tórshavn, fo
+bxxxvitorshavn, B36 Tórshavn, fo
+streymur,     EB/Streymur, fo
+runavik,      NSÍ Runavík, fo
+vikingur,     Víkingur, fo
+fuglafjordur, ÍF Fuglafjørdur, fo
 
 
 ###########################
-# Denmark, dk
+# Denmark (DEN), dk
 
 nordsjalland, FC Nordsjælland|Nordsjælland,      dk, city:farum
 kobenhavn,    FC København,   dk
@@ -24,7 +45,7 @@ aarhus,       AGF Aarhus,     dk
 
 
 ##############################
-# Norway, no
+# Norway (NOR), no
 
 rosenborg,    Rosenborg BK, no
 molde,        Molde FK, no
@@ -35,10 +56,12 @@ valerenga,    Vålerenga Fotball, no
 brann,        SK Brann, no
 stromsgodset, Strømsgodset IF, no
 fredrikstad,  Fredrikstad FK, no
+lillestrom,   Lillestrøm SK, no
+viking,       Viking FK, no
 
 
 #################################
-# Sweden, se
+# Sweden (SWE), se
 
 helsingborgs, Helsingborgs IF, se
 elfsborg,     IF Elfsborg, se
@@ -49,28 +72,57 @@ goeteborg,    IFK Göteborg, se
 haecken,      BK Häcken, se
 oerebro,      Örebro SK, se
 gefle,        Gefle IF, se
+djurgardens,  Djurgårdens IF, se
+
 
 ################################
-# Finland, fi
+# Finland (FIN), fi
 
-helsinki,   HJK Helsinki, fi
-turku,      FC Inter Turku, fi
-honkaespoo, FC Honka Espoo, fi
+helsinki,    HJK Helsinki, fi
+interturku,  FC Inter Turku, fi
+tpsturku,    TPS Turku, fi
+honkaespoo,  FC Honka Espoo, fi
+kuopio,      KuPS Kuopio, fi
+myllykosken, Myllykosken Pallo-47, fi
+lahti,       FC Lahti, fi
+jyvaskyla,   JJK Jyväskylä, fi
+haka,        Valkeakosken Haka, fi
+tampere,     Tampere United, fi
+
 
 #######################
 # Latvija (LVA), lv
 
-ventspils, FK Ventspils, lv
-liepajas,  SK Liepājas Metalurgs, lv
-skonto,    Skonto FC, lv
+ventspils,  FK Ventspils, lv
+liepajas,   SK Liepājas Metalurgs, lv
+skonto,     Skonto FC, lv
+daugavpils, FC Daugava Daugavpils, lv
+jelgava,    FK Jelgava, lv
+dinaburg,   FC Dinaburg, lv
+olimps,     JFK Olimps/RFS, lv
+
+
 
 #######################
 # Lithuania (LTU), lt
 
-ekranas, FK Ekranas, lt
+ekranas,   FK Ekranas, lt
+suduva,    FK Sūduva, lt
+tauras,    FK Tauras, lt
+vetra,     FK Vėtra, lt
+siauliai,  FC Šiauliai, lt
+zalgiris,  VMFD Žalgiris, lt
+kaunas,    FBK Kaunas, lt
+banga,     FK Banga, lt
+
 
 #######################
 # Estonia (EST), ee
 
-tallinn, FC Levadia Tallinn, ee
+levadiatallinn, FC Levadia Tallinn, ee
+floratallinn,   FC Flora Tallinn, ee
+tvmktallinn,    FC TVMK Tallinn, ee
+narva,          JK Trans Narva, ee
+kalju,          JK Nõmme Kalju, ee
+kalev,          JK Sillamäe Kalev, ee
 

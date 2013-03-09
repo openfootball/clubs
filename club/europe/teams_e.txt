@@ -5,8 +5,9 @@
 # NB:
 #  use ro/teams.txt for Romanian Teams
 
+
 ##############################
-# Bulgaria, bg
+# Bulgaria (BUL), bg
 
 levskisofia, PFC Levski Sofia,  bg
 cskasofia,   PFC CSKA Sofia,   bg
@@ -15,11 +16,24 @@ litexlovech,     PFC Litex Lovech, bg
 chernomorevarna, PFC Cherno More Varna, bg
 razgrad, PFC Ludogorets Razgrad, bg
 zagora, PFC Beroe Stara Zagora, bg
+plovdiv, PFC Lokomotiv Plovdiv 1936, bg
 
+
+
+#################################
+# Moldova (MDA), md
+
+daciachisinau,  FC Dacia Chisinau, md
+zimbruchisinau, FC Zimbru Chisinau, md
+sheriff,        FC Sheriff,  md
+iskrastal,      FC Iskra-Stal, md
+orhei,          FC Milsami Orhei, md
+balti,          FC Olimpia Balti, md
+otaci,          FC Nistru Otaci, md
 
 
 #############################
-# Russia, ru
+# Russia (RUS), ru
 
 zenit,        Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg, ru, city:stpetersburg
 spartak,      Spartak Moskau|Spartak Moscow,     ru, city:moskva
@@ -35,9 +49,10 @@ amkarperm,    FC Amkar Perm, ru
 samara,       PFC Krylya Sovetov Samara, ru
 
 ################################
-# Ukraine, ua
+# Ukraine (UKR), ua
 
 ## fix: rename key to dynamokyiv
+
 kiew,         Dynamo Kiew|FC Dynamo Kiew|Dynamo Kiev|Dynamo Kyiv,          ua, city:kiev
 donezk,       Schachtjor Donezk|Shakhtar Don.|Shakhtar Donetsk|Schachtar Donezk,    ua, city:donetsk
 metalurh,     FC Metalurh Donetsk, ua
@@ -50,7 +65,7 @@ arsenalkyiv,  FC Arsenal Kyiv, ua
 
 
 ##########################
-# Belarus, by
+# Belarus (BLR), by
 
 borissow,     BATE Borissow|BATE Borisov|Bate Borisov,           by, city:borisov
 gomel,        FC Gomel, by
@@ -66,7 +81,15 @@ zhodino,      FC Torpedo Zhodino, by
 ############################
 # Kazakhstan (KAZ), kz
 
-aktobe, FC Aktobe, kz
+aktobe,      FC Aktobe, kz
+karagandy,   FC Shakhter Karagandy, kz
+kostanay,    FC Tobol Kostanay, kz
+pavlodar,    FC Irtysh Pavlodar, kz
+shymkent,    FC Ordabasy Shymkent, kz
+atyrau,      FC Atyrau, kz
+taldykorgan, FC Zhetysu Taldykorgan, kz
+kokshetau,   FC Okzhetpes Kokshetau, kz
+
 
 ##############################
 # Georgia (GEO), ge
@@ -74,18 +97,37 @@ aktobe, FC Aktobe, kz
 zestafoni,      FC Zestafoni, ge
 dinamotbilisi, FC Dinamo Tbilisi, ge
 rustavi,       FC Metalurgi Rustavi, ge
+gori,          FC Dila Gori, ge
+georgia,       FC WIT Georgia, ge
+gagra,         FC Gagra, ge
+kutaisi,       FC Torpedo Kutaisi, ge
+
+
 
 #############################
 # Armenia (ARM), am
 
-pyunik, FC Pyunik, am
+pyunik,    FC Pyunik, am
+ulisses,   Ulisses FC, am
+mika,      FC Mika, am
+gandzasar, FC Gandzasar, am
+banants,   FC Banants, am
+shirak,    FC Shirak, am
+ararat,    FC Ararat, am
+
 
 ##################################
 # Azerbaijan (AZE), az
 
+## todo: check key for bakl?? or baku
+
+bakufk,    Bakı FK, az
+interbaku, İnter Bakı PİK, az
 neftci,  Neftçi PFK, az
 qarabag, Qarabağ FK, az
-## todo: check key for bakl??
-baklfk,    Bakı FK, az
-interkakl, İnter Bakı PİK, az
+lankaran,  Xäzär Länkäran FK, az
+suvalan,   Olimpik-Şüvälan PFK, az
+simurq,    Simurq PFK, az
+
+
 

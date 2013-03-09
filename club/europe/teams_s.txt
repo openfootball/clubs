@@ -12,10 +12,27 @@
 # Malta (MLT), mt
 
 valletta, Valletta FC, mt
+birkirkara, Birkirkara FC, mt
+floriana, Floriana FC, mt
+hibernians, Hibernians FC, mt
+sliema, Sliema Wanderers FC, mt
+marsaxlokk, Marsaxlokk FC, mt
+
+
+##########################
+#  San Marino (SMR), sm
+
+trefiori,  SP Tre Fiori, sm
+trepenne,  SP Tre Penne, sm
+dogana,    AC Juvenes-Dogana, sm
+lafiorita, SP La Fiorita, sm
+libertas,  AC Libertas, sm
+faetano,   SC Faetano, sm
+murata,    SS Murata, sm
 
 
 ################################
-# Portugal, pt
+# Portugal (POR), pt
 
 porto,        Porto|FC Porto,                        pt, city:porto
 benfica,      Benfica|Benfica Lissabon|Benfica Lis.,   pt, city:lisboa
@@ -29,9 +46,17 @@ vitoriafc,            Vitória FC, pt
 ferreira,           FC Paços de Ferreira, pt
 
 
+########################
+# Andorra (AND), ad
+
+santjulia,   UE Sant Julià, ad
+fcsantacoloma, FC Santa Coloma, ad
+uesantacoloma, UE Santa Coloma, ad
+lusitans,    FC Lusitans, ad
+
 
 #############################
-# Croatia, hr
+# Croatia (CRO), hr
 
 zagreb,       Dinamo Zagreb|NK Dinamo Zagreb,        hr, city:zagreb
 hajduksplit,  HNK Hajduk Split, hr
@@ -45,7 +70,7 @@ sibenik,      HNK Šibenik, hr
 
 
 #############################
-# Serbia, rs
+# Serbia (SRB), rs
 
 partizan,      FK Partizan,     rs
 crvenazvezda,  FK Crvena zvezda, rs
@@ -54,37 +79,67 @@ beograd,       OFK Beograd, rs
 zlatibor,      FK Spartak Zlatibor voda, rs
 uzice,         FK Sloboda Užice, rs
 rad,           FK Rad, rs
+jagodina,      FK Jagodina, rs
+cacak,         FK Borac Čačak, rs
+
 
 ##############################
 # Bosnia and Herzegovina (BIH), ba
 
-sarajevo, FK Sarajevo, ba
-zeljeznicar, FK Željezničar, ba
-zrinjski, HŠK Zrinjski, ba
+sarajevo,        FK Sarajevo, ba
+slavijasarajevo, FK Slavija Sarajevo, ba
+zeljeznicar,     FK Željezničar, ba
+zrinjski,        HŠK Zrinjski, ba
+brijeg,          NK Široki Brijeg, ba
+banjaluka,       FK Borac Banja Luka, ba
+modrica,         FK Modriča, ba
+
 
 ###########################
 # Macedonia (MKD), mk
 
-rabotnicki, FK Rabotnicki, mk
+metalurgskopje,   FK Metalurg Skopje, mk
+makedonijaskopje, FK Makedonija Skopje, mk
+rabotnicki,       FK Rabotnicki, mk
+renova,           FK Renova, mk
+shkendija,        FK Shkëndija 79, mk
+vardar,           FK Vardar, mk
+teteks,           FK Teteks, mk
+milano,           FK Milano, mk
+pelister,         FK Pelister, mk
 
-#################################
-# Moldova (MDA), md
-
-sheriff,  FC Sheriff,  md
-chisinau, FC Dacia Chisinau, md
 
 #####################################
 #  Montenegro (MNE), me
 
 podgorica, FK Budućnost Podgorica, me
 mogren,    FK Mogren, me
+zeta,      FK Zeta, me
+pljevlja,  FK Rudar Pljevlja, me
+petrovac,  OFK Petrovac, me
+niksic,    FK Čelik Nikšić, me
+sutjeska,  FK Sutjeska, me
 
+
+###################################
+# Albania (ALB), al
+
+kftirana,     KF Tirana, al
+dinamotirana, FK Dinamo Tirana, al
+skenderbeu,   KS Skënderbeu, al
+flamurtari,   KS Flamurtari, al
+vllaznia,    KF Vllaznia, al
+besa,        KS Besa, al
+teuta,       KS Teuta, al
+laci,        KF Laçi, al
+partizani,   FK Partizani, al
 
 
 #######################
-# Greece, gr
+# Greece (GRE), gr
 
-## fix: change city to athens?
+## fix: change city to athens for piraeus?
+
 olympiacos,      Olympiakos Piräus|Olympiakos P.|Olympiacos,    gr, city:piraeus
 panathinaikos,   Panathinaikos FC, gr
 paok,            PAOK FC, gr
@@ -97,7 +152,7 @@ larissa,         Larissa FC, gr
 
 
 #########################
-#  Turkey, tr
+#  Turkey (TUR), tr
 
 galatasaray,   Galatasaray|Galatasaray Istanbul,     tr, city:istanbul
 fenerbahce,    Fenerbahçe|Fenerbahçe SK|Fenerbahçe Spor Kulübü|Fenerbahçe Sports Club,      tr, city:istanbul
@@ -111,7 +166,7 @@ kayserispor,   Kayserispor, tr
 
 
 #############################
-# Cyprus, cy
+# Cyprus (CYP), cy
 
 apoel,           APOEL|APOEL Nikosia|APOEL FC,            cy, city:nikosia
 anorthosis,      Anorthosis Famagusta FC, cy
@@ -123,7 +178,7 @@ kinyraspeyias,   APOP/Kinyras Peyias FC, cy
 
 
 ###############################
-# Isreal, il
+# Isreal (ISR), il
 
 hapoeltelaviv,     Hapoel Tel-Aviv FC,      il
 bneiyehudatelaviv, Bnei Yehuda Tel-Aviv FC, il

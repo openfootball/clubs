@@ -12,4 +12,8 @@ biel,       FC Biel-Bienne|Biel-Bienne, city:biel
 wohlen,     FC Wohlen|Wohlen, city:wohlen
 locarno,    FC Locarno|Locarno, city:locarno
 
-vaduz,      FC Vaduz|Vaduz,  city:vaduz,  li     ### Liechtenstein !!!
+
+####
+# NB:
+#
+#  include club/europe/teams_c.txt for  FC Vaduz from Liechtenstein !!!
