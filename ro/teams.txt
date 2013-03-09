@@ -6,7 +6,7 @@ steaua,             Steaua București,       SBU, city:bucuresti
 cfrcluj,            CFR Cluj|CFR 1907 Cluj, CFR, city:cluj
 ucluj,              U Cluj,                 UCJ, city:cluj
 
-astra,              Astra Ploiesti,         AFC
+astra,              Astra Giurgiu,          AFC
 ceahlau,            Ceahlaul Piatra Neamt,  FCC
 chiajna,            Concordia Chiajna,      CCH
 iasi,               CSMS Iasi,              CSI
