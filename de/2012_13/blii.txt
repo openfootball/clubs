@@ -95,13 +95,13 @@
 
 25. Spieltag
 
-08.03.2013 20:30 (Fr)  FC Augsburg   1. FC Nürnberg
-09.03.2013 15:30 (Sa)  FC Schalke 04   Borussia Dortmund
-09.03.2013 15:30 (Sa)  1. FSV Mainz 05   Bayer Leverkusen
-09.03.2013 15:30 (Sa)  SC Freiburg   VfL Wolfsburg
-09.03.2013 15:30 (Sa)  SpVgg Greuther Fürth   1899 Hoffenheim
-09.03.2013 15:30 (Sa)  Bayern München   Fortuna Düsseldorf
-09.03.2013 18:30 (Sa)  Bor. Mönchengladbach   Werder Bremen
+08.03.2013 20:30 (Fr)  FC Augsburg   1. FC Nürnberg   1:2
+09.03.2013 15:30 (Sa)  FC Schalke 04   Borussia Dortmund    2:1
+09.03.2013 15:30 (Sa)  1. FSV Mainz 05   Bayer Leverkusen   1:0
+09.03.2013 15:30 (Sa)  SC Freiburg   VfL Wolfsburg          2:5
+09.03.2013 15:30 (Sa)  SpVgg Greuther Fürth   1899 Hoffenheim   0:3
+09.03.2013 15:30 (Sa)  Bayern München   Fortuna Düsseldorf      3:2
+09.03.2013 18:30 (Sa)  Bor. Mönchengladbach   Werder Bremen     1:1
 10.03.2013 15:30 (So)  Hannover 96   Eintracht Frankfurt
 10.03.2013 17:30 (So)  VfB Stuttgart   Hamburger SV
 

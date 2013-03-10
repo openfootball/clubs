@@ -86,8 +86,8 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (6) Matchday 4 / Group 1  //  March 5-7
 
-2013-03-06 21:15  Toluca  v  Barcelona
-2013-03-07 21:30  Boca Juniors  v  Nacional
+2013-03-06 21:15  Toluca  1-1  Barcelona
+2013-03-07 21:30  Boca Juniors  0-1  Nacional
 
 (7) Matchday 5 / Group 1  //  March 12-14
 
@@ -123,8 +123,8 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (6) Matchday 4 / Group 2  //  March 5-7
 
-2013-03-06 19:45  Libertad  v  Sporting Cristal
-2013-03-06 19:45  Tigre  v  Palmeiras
+2013-03-06 19:45  Libertad  2-2  Sporting Cristal
+2013-03-06 19:45  Tigre  1-0  Palmeiras
 
 (7) Matchday 5 / Group 2  //  March 12-14
 
@@ -160,8 +160,8 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (6) Matchday 4 / Group 3  //  March 5-7
 
-2013-03-07 19:15  São Paulo  v  Arsenal
-2013-03-07 21:30  Atlético Mineiro  v  The Strongest
+2013-03-07 19:15  São Paulo  1-1  Arsenal
+2013-03-07 21:30  Atlético Mineiro  2-1  The Strongest
 
 (7) Matchday 5 / Group 3  //  March 12-14
 
@@ -199,7 +199,7 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (6) Matchday 4 / Group 4  //  March 5-7
 
-2013-03-05 21:45  Emelec  v  Iquique
+2013-03-05 21:45  Emelec  2-1  Iquique
 
 (7) Matchday 5 / Group 4  //  March 12-14
 
@@ -231,8 +231,8 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (6) Matchday 4 / Group 5  //  March 5-7
 
-2013-03-06 17:00  Tijuana  v  Corinthians
-2013-03-07 21:45  Millonarios  v  San José
+2013-03-06 17:00  Tijuana      1-0  Corinthians
+2013-03-07 21:45  Millonarios  2-1  San José
 
 (7) Matchday 5 / Group 5  //  March 12-14
 
@@ -269,7 +269,7 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (6) Matchday 4 / Group 6  //  March 5-7
 
-2013-03-07 19:15  Cerro Porteño  v  Santa Fe
+2013-03-07 19:15  Cerro Porteño  1-2  Santa Fe
 
 (7) Matchday 5 / Group 6  //  March 12-14
 
@@ -305,8 +305,8 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (6) Matchday 4 / Group 7  //  March 5-7
 
-2013-03-05 19:15  Olimpia  v  Deportivo Lara
-2013-03-05 21:30  Newell's Old Boys  v  Universidad de Chile
+2013-03-05 19:15  Olimpia  2-2  Deportivo Lara
+2013-03-05 21:30  Newell's Old Boys  1-2  Universidad de Chile
 
 (7) Matchday 5 / Group 7  //  March 12-14
 
@@ -343,8 +343,8 @@ Group 8  |  Fluminense         Huachipato       Caracas               Grêmio
 
 (6) Matchday 4 / Group 8  //  March 5-7
 
-2013-03-05 21:30  Grêmio  v  Caracas
-2013-03-06 22:00  Fluminense  v  Huachipato
+2013-03-05 21:30  Grêmio  4-1  Caracas
+2013-03-06 22:00  Fluminense  1-1  Huachipato
 
 (7) Matchday 5 / Group 8  //  March 12-14
 

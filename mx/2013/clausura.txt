@@ -127,12 +127,12 @@ Jornada  9 // 1, 2 y 3 de marzo
 
 Jornada  10 // 8, 9 y 10 de marzo
 
-2013-03-08 19:30 Morelia 1-1 América
-2013-03-09 17:00 Cruz Azul - Chiapas
-2013-03-09 19:00 Monterrey - León
-2013-03-09 17:00 Tijuana - Querétaro
-2013-03-09 19:00 Santos - Atlante
-2013-03-09 21:00 San Luis - Tigres
+2013-03-08 19:30 Morelia   1-1 América
+2013-03-09 17:00 Cruz Azul 1-1 Chiapas
+2013-03-09 19:00 Monterrey 2-1 León
+2013-03-09 17:00 Tijuana   0-1 Querétaro
+2013-03-09 19:00 Santos    2-1 Atlante
+2013-03-09 21:00 San Luis  1-2 Tigres
 2013-03-10 12:00 Puebla - UNAM
 2013-03-10 12:00 Toluca - Atlas
 2013-03-10 17:00 Guadalajara - Pachuca
