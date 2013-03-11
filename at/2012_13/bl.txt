@@ -168,6 +168,6 @@
 15.12. 16:00  FC Wacker      3:1     Admira Wacker
 15.12. 16:00  FK Austria Wien      3:1     SK Sturm Graz
 15.12. 16:00  Wiener Neustadt      1:0     SK Rapid Wien
-15.12. 16:00  SV Ried      -     Wolfsberger AC     ## verlegt auf 20.02.2013, 18:30 (Mi)
+15.12. 16:00  SV Ried      1:1     Wolfsberger AC     ## verlegt auf 20.02.2013, 18:30 (Mi)
 
 ##  fix: add format/syntax for postponed games/matches
