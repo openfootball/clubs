@@ -27,7 +27,7 @@ lanus,         Lanús|Club Atlético Lanús,   city:buenosaires  #  Lanús is a 
 
 
 ## fix: use different key (conflict w/ arsenal en)
-arsenal,       Arsenal|Arsenal de Sarandí|Arsenal FC|Arsenal Fútbol Club,  city:buenosaires #  Sarandí es una ciudad de la Zona Sur del Gran Buenos Aires
+arsenalsarandi,    Arsenal|Arsenal de Sarandí|Arsenal FC|Arsenal Fútbol Club,  city:buenosaires #  Sarandí es una ciudad de la Zona Sur del Gran Buenos Aires
 
 estudiantes,   Estudiantes|Estudiantes LP|Club Estudiantes de La Plata, city:laplata
 

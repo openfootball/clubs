@@ -82,3 +82,5 @@ cefndruids, Cefn Druids AFC, wa
 neath,      Neath FC, wa
 porttalbot, Port Talbot Town FC, wa
 
+# NB: plays in english premiere league
+swansea,    Swansea City|Swansea,  SWA, wa, city:swansea

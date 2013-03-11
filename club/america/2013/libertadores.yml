@@ -15,15 +15,15 @@ teams:
 - defensorsporting
 - bolivar
 - leon
-- barcelonasc     # Group 1   # nb: key conflicts w/ barcelona (use bercelonasc or something else??)
+- barcelonaguayaquil  # Group 1
 - nacional
 - bocajuniors
 - toluca
-- sportingcristal # Group 2
+- sportingcristal   # Group 2
 - libertad
 - palmeiras
 - tigre
-- arsenal         # Group 3   # nb: fix use differnt key; conflicts w/ arsenal
+- arsenalsarandi  # Group 3
 - thestrongest
 - atleticomg
 - saopaulo

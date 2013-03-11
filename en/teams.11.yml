@@ -15,7 +15,6 @@ westbrom:    West Brom
 westham:     West Ham
 fulham:      Fulham
 newcastle:   Newcastle
-swansea:     Swansea
 stoke:       Stoke
 sunderland:  Sunderland
 liverpool:   Liverpool
@@ -25,3 +24,6 @@ southampton: Southampton
 reading:     Reading
 norwich:     Norwich
 qpr:         QPR
+
+
+## swansea:     Swansea

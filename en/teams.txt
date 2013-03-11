@@ -18,7 +18,6 @@ liverpool,   Liverpool|Liverpool FC|FC Liverpool,       LIV, city:liverpool
 
 westbrom,    West Bromwich Albion|West Brom,            WBA, city:westbrom
 newcastle,   Newcastle United|Newcastle,                NEW, city:newcastle
-swansea,     Swansea City|Swansea,                      SWA, city:swansea
 stoke,       Stoke City|Stoke,                          STK, city:stoke
 sunderland,  Sunderland|Sunderland AFC|AFC Sunderland,  SUN, city:sunderland
 wigan,       Wigan Athletic|Wigan,                      WIG, city:wigan
@@ -27,3 +26,6 @@ southampton, Southampton|Southampton FC|FC Southampton, SOU, city:southampton
 reading,     Reading|Reading FC|FC Reading,             RDG, city:reading
 norwich,     Norwich City|Norwich,                      NOR, city:norwich
 
+## NB: 
+##
+##  for Swansea City include club/europe/teams_w.txt  (from Wales)
