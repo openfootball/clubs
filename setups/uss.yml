@@ -20,9 +20,9 @@ world_teams:
 
 club_europe_teams:
 - at/teams
-- at/teams2
-- at/teams3
-- at/teamsx
+- at/teams.2
+- at/teams.3
+- at/teams.x
 - ch/teams
 - de/teams
 - en/teams
@@ -42,12 +42,12 @@ club_europe_teams:
 # fixtures
 
 at:
-  at.2012/13: at/2012_13/bl,at/2012_13/bl2
+  at.2012/13: at/2012_13/bl,at/2012_13/bl_ii
   at.cup.2012/13: at/2012_13/cup
 
 world:
   world.quali.europe.c.2014: world/2014/quali_europe_c
 
 club_europe:
-  cl.2012/13: club/europe/2012_13/cl
+  cl.2012/13: club/europe/2012_13/cl,club/europe/2012_13/cl_ii
 ##  el.2012/13: club/europe/2012_13/el

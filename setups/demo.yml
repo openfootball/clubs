@@ -54,7 +54,7 @@ world:
   world.quali.europe.2014: world/2014/quali_europe,world/2014/quali_europe_c,world/2014/quali_europe_i
 
 club_europe:
-  cl.2012/13: club/europe/2012_13/cl
+  cl.2012/13: club/europe/2012_13/cl,club/europe/2012_13/cl_ii
 
 club_america:
   copa.libertadores.2013: club/america/2013/libertadores

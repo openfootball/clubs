@@ -107,12 +107,12 @@ mx:
 at:
   at.2011/12:     at/2011_12/bl
   at.cup.2011/12: at/2011_12/cup
-  at.2012/13:     at/2012_13/bl,at/2012_13/blii
+  at.2012/13:     at/2012_13/bl,at/2012_13/bl_ii
   at.2.2012/13:   at/2012_13/l1
   at.cup.2012/13: at/2012_13/cup
 
 de:
-  de.2012/13:     de/2012_13/bl,de/2012_13/blii
+  de.2012/13:     de/2012_13/bl,de/2012_13/bl_ii
   de.2.2012/13:   de/2012_13/bl2
   de.3.2012/13:   de/2012_13/l3
   de.cup.2012/13: de/2012_13/cup
@@ -151,7 +151,7 @@ world:
 club_europe:
   cl.2011/12: club/europe/2011_12/cl
   el.2011/12: club/europe/2011_12/el
-  cl.2012/13: club/europe/2012_13/cl
+  cl.2012/13: club/europe/2012_13/cl,club/europe/2012_13/cl_ii
   el.2012/13: club/europe/2012_13/el
 
 club_america:
