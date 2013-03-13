@@ -34,8 +34,10 @@
 2013-03-12 20:45  Barcelona  4-0  Milan
 # Tore: L. Messi (5.), L. Messi (40.), D. Villa (55.), Jordi Alba (92.)
 
-2013-03-13 20:45  Málaga  v  Porto
-2013-03-13 20:45  Bayern München  v  Arsenal
+2013-03-13 20:45  Málaga  2-0  Porto
+# Tore: Isco (43.), R. Santa Cruz (77.)
+2013-03-13 20:45  Bayern München  0-2  Arsenal
+# Tore: O. Giroud (3.), L. Koscielny (86.)
 
 
 (9)  Viertelfinale            // Di./Mi., 2.+3. Apr 2013
