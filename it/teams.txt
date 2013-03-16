@@ -8,8 +8,8 @@ inter,        Internazionale|FC Internazionale Milano,    INT,  city:milano
 lazio,        Lazio|SS Lazio|Società Sportiva Lazio|Lazio Roma, LAZ, city:roma
 roma,         AS Roma|Associazione Sportiva Roma, ROM, city:roma
 
-genoa,        Genoa CFC|Genoa Cricket and Football Club, GEN, city:genoa
-sampdoria,    Unione Calcio Sampdoria|Sampdoria Genoa, SAM, city:genoa
+genoa,        Genoa CFC|Genoa Cricket and Football Club, GEN, city:genova
+sampdoria,    Unione Calcio Sampdoria|Sampdoria Genoa, SAM, city:genova
 
 juventus,     Juventus|Juventus Football Club|Juventus FC|Juventus Torino, JUV,  city:torino
 torino,       Torino Football Club|Torino FC,  TOR, city:torino

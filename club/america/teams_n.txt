@@ -11,7 +11,7 @@
 galaxy, Los Angeles Galaxy|LA Galaxy, LA, city:losangeles, us
 seattle, Seattle Sounders|Seattle Sounders FC, SEA, city:seattle, us
 houston, Houston Dynamo, HOU, city:houston, us
-saltlake, Real Salt Lake, RSL, city:saltlake, us
+saltlake, Real Salt Lake, RSL, city:saltlakecity, us
 sanjose, San Jose Earthquakes, SJ, city:sanjose, us
 kansascity, Sporting Kansas City|Sporting KC, city:kansascity, us
 colorado, Colorado Rapids, city:denver, us

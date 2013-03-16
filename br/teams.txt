@@ -83,5 +83,4 @@ figueirense, Figueirense|Figueirense SC|Figueirense Futebol Clube, FIG, city:flo
 
 #### Goiás (GO)
 
-atleticogo, Atlético GO|Atlético Goianiense|Atlético Clube Goianiense, ACG, city: goiania
-
+atleticogo, Atlético GO|Atlético Goianiense|Atlético Clube Goianiense, ACG, city:goiania
