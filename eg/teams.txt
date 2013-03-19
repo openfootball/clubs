@@ -1,0 +1,26 @@
+###########################################
+#  Egyptian Premier League 2012/13 Teams
+#
+# see en.wikipedia.org/wiki/2012-13_Egyptian_Premier_League
+#
+# 18 teams
+
+alahly,    Al Ahly|Al Ahly Cairo|Al Ahly SC|Al Ahly Sporting Club|النادي الأهلي للرياضة البدنية,      city:cairo
+zamalek,   Zamalek|Zamalek SC|Zamalek Sporting Club|نادى الزمالك,  city:giza
+ismaily,   Ismaily|Ismaily SC|النادى الإسماعيلى,  city:ismailia
+alittihad, Al Ittihad Al Sakandary [Alexandrian Union Club]|نادى الإتحاد السكندرى, city:alexandria
+
+almokawloonalarab,  Al Mokawloon Al Arab [Arab Contractors (Sporting Club)]|نادي المقاولون العرب الرياضي, city:cairo
+eldakhleya,  El Dakhleya|نادى الداخلية,  city:cairo
+elentagelharby, El Entag El Harby [Military Production]|الانتاج الحربي‎,  city:cairo
+elgouna, El Gouna|El Gouna FC|نادى الجونة,   city:hurghada
+enppi, Enppi|ENPPI Club|نادي إنبي,  city:cairo
+ghazlelmahalla, Ghazl El Mahalla|Ghazl El Mahalla SC|Ghazl El Mahalla Sporting Club|نادي_غزل_المحلة,  city:elmahallaelkubra
+haraselhodood, Haras El Hodood|Haras El-Hodood SC|نادي_حرس_الحدود,   city:alexandria
+ittihadelshorta, Ittihad El Shorta [Police Union]|اتحاد_الشرطة, city:cairo
+misrelmakasa, Misr El Makasa|مصر المقاصة,  city:fayoum
+petrojet,  Petrojet|Petrojet FC|Petrojet Football Club|نادي_بتروجيت,   city:suez
+smouha,    Smouha|Smouha SC|Smouha Sporting Club|نادى سموحة,  city:alexandria
+talaeaelgaish, Tala'ea El Gaish [Army's Vanguards]|Tala'ea El-Gaish SC|نادي طلائع الجيش الرياضي, city:cairo
+telephonatbanisweif, Telephonat Bani Sweif|تليفونات بني سويف,  city:banisweif
+wadidegla,  Wadi Degla|Wadi Degla FC|نادى وادى دجلة,  city:cairo

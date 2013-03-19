@@ -88,6 +88,15 @@ club_america_teams:
 - club/america/teams_n
 - club/america/teams_s
 
+kr_teams:
+- kr/teams
+
+jp_teams:
+- jp/teams
+
+eg_teams:
+- eg/teams
+
 
 ############################
 # fixtures
