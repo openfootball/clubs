@@ -5,9 +5,9 @@
 ## todo: use  Time.cst('2012-07-27 19:30') for timezones
 
 
-# Los horarios son correspondientes al Tiempo del Centro de México (UTC −6 y UTC −5 en horario de verano)
+# Los horarios son correspondientes al Tiempo del Centro de México (UTC -6 y UTC -5 en horario de verano)
 #
-# see http://es.wikipedia.org/wiki/Torneo_Apertura_2012_(México)
+# see es.wikipedia.org/wiki/Torneo_Apertura_2012_(México)
 
 Jornada 1  // 20, 21 y 22 de julio
 

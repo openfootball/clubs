@@ -3,7 +3,7 @@
 #
 # more info -> www.cbf.com.br/competicoes/campeonato-brasileiro
 #
-# Dates:  26 de maio – 8 de dezembro
+# Dates:  26 de maio - 8 de dezembro
 # Teams:  20
 #
 

@@ -1,7 +1,7 @@
 ############################
 # Premier League 2012/13
 #
-#  see en.wikipedia.org/wiki/2012–13_Premier_League
+#  see en.wikipedia.org/wiki/2012-13_Premier_League
 #
 #  es.wikipedia.org/wiki/Premier_League_2012/13
 #   (includes fixtures per round)

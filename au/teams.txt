@@ -10,7 +10,11 @@ brisbane,     Brisbane Roar,     BNR,    city:brisbane
 centralcoast, Central Coast Mariners, CCM,  city:gosford
 melbourneheart,   Melbourne Heart,     MBH,   city:melbourne
 melbournevictory, Melbourne Victory,   MBV,   city:melbourne
-newcastle, Newcastle Jets|Newcastle United Jets,    NUJ,   city:newcastle
+
+### NB:
+## do NOT use newcastle for key -> used by ennglish premier league -> not unique
+
+newcastlejets, Newcastle Jets|Newcastle United Jets,    NUJ,   city:newcastle
 perth, Perth Glory,           PTH,   city:perth
 sydneyfc,   Sydney FC,        SFC,   city:sydney
 westernsydney, Western Sydney Wanderers|WS Wanderers FC, WSW, city:sydney
