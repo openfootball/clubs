@@ -1,0 +1,17 @@
+######################################################
+# New Zealand Football Championship 2012-13 Teams
+#
+# see en.wikipedia.org/wiki/2012-13_ASB_Premiership
+#
+#  8 teams
+
+
+auckland,   Auckland City|Auckland City FC, AKL,  city:auckland
+canterbury, Canterbury United,  CAN, city:christchurch
+hawkesbay,  Hawke's Bay United, HBU, city:napier
+otago,      Otago United,  OTG, city:dunedin
+wellington, Team Wellington, WGN,    city:wellington
+waikato,    Waikato FC, WFC, city:hamilton
+waitakere,  Waitakere United, WTK, city:waitakerecity
+manawatu,   YoungHeart Manawatu, YHM,  city:palmerstonnorth
+

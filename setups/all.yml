@@ -97,6 +97,8 @@ jp_teams:
 eg_teams:
 - eg/teams
 
+nz_teams:
+- nz/teams
 
 ############################
 # fixtures
