@@ -88,14 +88,19 @@ club_america_teams:
 - club/america/teams_n
 - club/america/teams_s
 
+
+eg_teams:
+- eg/teams
+
+
 kr_teams:
 - kr/teams
 
 jp_teams:
 - jp/teams
 
-eg_teams:
-- eg/teams
+au_teams:
+- au/teams
 
 nz_teams:
 - nz/teams
