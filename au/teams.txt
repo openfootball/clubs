@@ -1,0 +1,19 @@
+######################################################
+# Australia A-League 2012-13 Teams
+#
+# see en.wikipedia.org/wiki/2012-13_A-League
+#
+# 10 teams
+
+adelaide,     Adelaide United,   ADU,    city:adelaide
+brisbane,     Brisbane Roar,     BNR,    city:brisbane
+centralcoast, Central Coast Mariners, CCM,  city:gosford
+melbourneheart,   Melbourne Heart,     MBH,   city:melbourne
+melbournevictory, Melbourne Victory,   MBV,   city:melbourne
+newcastle, Newcastle Jets|Newcastle United Jets,    NUJ,   city:newcastle
+perth, Perth Glory,           PTH,   city:perth
+sydneyfc,   Sydney FC,        SFC,   city:sydney
+westernsydney, Western Sydney Wanderers|WS Wanderers FC, WSW, city:sydney
+
+### NB:
+## Wellington Phoenix included in nz/teams !!

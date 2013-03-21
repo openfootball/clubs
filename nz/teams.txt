@@ -15,3 +15,7 @@ waikato,    Waikato FC, WFC, city:hamilton
 waitakere,  Waitakere United, WTK, city:waitakerecity
 manawatu,   YoungHeart Manawatu, YHM,  city:palmerstonnorth
 
+########
+# plays in australian a-league
+
+wellingtonphoenix, Wellington Phoenix, WPX, city:wellington
