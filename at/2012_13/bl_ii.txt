@@ -7,9 +7,10 @@
 2013-02-16 12:00  SV Ried  -  FC Wacker Innsbruck   3:0
 2013-02-16 12:00  Rapid Wien  -  Austria Wien    1:2
 2013-02-16 12:00  SV Mattersburg  -  Sturm Graz    0:0
-### game postponed - todo add postponed flag
-2013-02-16 12:00  Wolfsberger AC  -  RB Salzburg   1:1
 2013-02-16 12:00  FC Admira Wacker  -  SC Wiener Neustadt  1:2
+
+# NB: postponed/verschoben
+2013-02-16 12:00 => 2013-03-06 18:30   Wolfsberger AC  -  RB Salzburg   1:1
 
 22. Runde // Sa 23. Feb 2013
 
@@ -25,9 +26,9 @@
 2013-02-26 12:00  Rapid Wien  -  Sturm Graz   1:1
 2013-02-26 12:00  FC Wacker Innsbruck  -  SC Wiener Neustadt    1:0
 
-### games postponed - todo add postponed flag
-2013-02-26 12:00  Wolfsberger AC  -  SV Mattersburg
-2013-02-26 12:00  FC Admira Wacker  -  RB Salzburg
+# NB: two games postponed/verschoben
+2013-02-26 12:00 => 2013-03-13 18:30   Wolfsberger AC  -  SV Mattersburg  1:0
+2013-02-26 12:00 => 2013-03-13 18:30   FC Admira Wacker  -  RB Salzburg   1:1
 
 24. Runde // Sa 02. Mar 2013
 
@@ -47,11 +48,11 @@
 
 26. Runde
 
-2013-03-16 16:00   Rapid Wien   FC Admira Wacker
-2013-03-16 18:30   Sturm Graz   FC Wacker Innsbruck
-2013-03-16 18:30   RB Salzburg   SV Ried
-2013-03-16 18:30   Wolfsberger AC   SC Wiener Neustadt
-2013-03-17 17:00   SV Mattersburg   Austria Wien
+2013-03-16 16:00   Rapid Wien   FC Admira Wacker        1:1
+2013-03-16 18:30   Sturm Graz   FC Wacker Innsbruck     3:2
+2013-03-16 18:30   RB Salzburg   SV Ried                2:2
+2013-03-16 18:30   Wolfsberger AC   SC Wiener Neustadt  1:1
+2013-03-17 17:00   SV Mattersburg   Austria Wien        0:4
 
 27. Runde
 
