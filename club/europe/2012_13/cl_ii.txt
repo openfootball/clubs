@@ -41,7 +41,21 @@
 
 
 (9)  Viertelfinale            // Di./Mi., 2.+3. Apr 2013
+
+2013-04-02 20:45 (Di)  Paris Saint-Germain   Barcelona
+2013-04-02 20:45 (Di)  Bayern München   Juventus
+2013-04-03 20:45 (Mi)  Málaga   Borussia Dortmund
+2013-04-03 20:45 (Mi)  Real Madrid   Galatasaray
+
+
 (10) Viertelfinale Rückspiele // Di./Mi., 9.+10. Apr 2013
+
+2013-04-09 20:45 (Di)  Borussia Dortmund   Málaga CF
+2013-04-09 20:45 (Di)  Galatasaray   Real Madrid
+2013-04-10 20:45 (Mi)  FC Barcelona   Paris Saint-Germain
+2013-04-10 20:45 (Mi)  Juventus   Bayern München
+
+
 (11) Halbfinale               // Di./Mi., 23.+24. Apr 2013
 (12) Halbfinale Rückspiele    // Di./Mi., 30. Apr/1. Mai 2013
 (13) Finale                   // Sa. 25. Mai 2013

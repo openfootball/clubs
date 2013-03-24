@@ -16,7 +16,7 @@
 #  every year
 
 
-# see en.wikipedia.org/wiki/2012-13_UEFA_Europa_League_knockout_phase
+# see en.wikipedia.org/wiki/2012–13_UEFA_Europa_League_knockout_phase
 
 
 (1) Sechzehntelfinale / Hinspiele   //  Do 14. Februar 2013
@@ -72,20 +72,30 @@
 
 (4) Achtelfinale / Rückspiele   //  Do 14. März 2013
 
-2013-03-14 18:00 (Do)  Rubin Kazan   Levante
-2013-03-14 18:00 (Do)  Zenit St. Petersburg   FC Basel
-2013-03-14 19:00 (Do)  Internazionale   Tottenham Hotspur
-2013-03-14 21:05 (Do)  Fenerbahçe   Viktoria Plzeň
-2013-03-14 21:05 (Do)  Bordeaux   Benfica
-2013-03-14 21:05 (Do)  Newcastle United   Anzhi Makhachkala
-2013-03-14 21:05 (Do)  Lazio Roma   VfB Stuttgart
-2013-03-14 21:05 (Do)  Chelsea FC   Steaua București
-
+2013-03-14 18:00 (Do)  Rubin Kazan           2:0nV 0:0 Levante
+2013-03-14 18:00 (Do)  Zenit St. Petersburg  1:0       FC Basel
+2013-03-14 19:00 (Do)  Internazionale        4:1nV 3:0 Tottenham Hotspur
+2013-03-14 21:05 (Do)  Fenerbahçe            1:1       Viktoria Plzeň
+2013-03-14 21:05 (Do)  Bordeaux              2:3       Benfica
+2013-03-14 21:05 (Do)  Newcastle United      1:0       Anzhi Makhachkala
+2013-03-14 21:05 (Do)  Lazio Roma            3:1       VfB Stuttgart
+2013-03-14 21:05 (Do)  Chelsea FC            3:1       Steaua București
 
 
 (5) Viertelfinale / Hinspiele  //   Do  4. April 2013
 
+2013-04-04 21:05 (Do)  Chelsea FC   Rubin Kazan
+2013-04-04 21:05 (Do)  Tottenham Hotspur   FC Basel
+2013-04-04 21:05 (Do)  Fenerbahçe   Lazio Roma
+2013-04-04 21:05 (Do)  Benfica   Newcastle United
+
+
 (6) Viertelfinale / Rückspiele //   Do 11. April 2013
+
+2013-04-11 21:05 (Do)  Rubin Kazan   Chelsea FC
+2013-04-11 21:05 (Do)  FC Basel   Tottenham Hotspur
+2013-04-11 21:05 (Do)  Lazio Roma   Fenerbahçe
+2013-04-11 21:05 (Do)  Newcastle United   Benfica
 
 
 (7) Halbfinale    / Hinspiele  //   Do  25. April 2013

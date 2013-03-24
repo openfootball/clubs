@@ -127,28 +127,28 @@ Jornada  9 // 1, 2 y 3 de marzo
 
 Jornada  10 // 8, 9 y 10 de marzo
 
-2013-03-08 19:30 Morelia     1-1 América
-2013-03-09 17:00 Cruz Azul   1-1 Chiapas
-2013-03-09 19:00 Monterrey   2-1 León
-2013-03-09 17:00 Tijuana     0-1 Querétaro
-2013-03-09 19:00 Santos      2-1 Atlante
-2013-03-09 21:00 San Luis    1-2 Tigres
-2013-03-10 12:00 Puebla      0-1 UNAM
-2013-03-10 12:00 Toluca      0-1 Atlas
-2013-03-10 17:00 Guadalajara 1-0 Pachuca
+2013-03-08 19:30 Morelia      1-1  América
+2013-03-09 17:00 Cruz Azul    1-1  Chiapas
+2013-03-09 19:00 Monterrey    2-1  León
+2013-03-09 17:00 Tijuana      0-1  Querétaro
+2013-03-09 19:00 Santos       2-1  Atlante
+2013-03-09 21:00 San Luis     1-2  Tigres
+2013-03-10 12:00 Puebla       0-1  UNAM
+2013-03-10 12:00 Toluca       0-1  Atlas
+2013-03-10 17:00 Guadalajara  1-0  Pachuca
 
 
 Jornada  11 // 15, 16 y 17 de marzo
 
-2013-03-15 19:30 Chiapas - Morelia
-2013-03-16 17:00 Querétaro - Toluca
-2013-03-16 17:00 América - San Luis
-2013-03-16 19:00 Tigres - Guadalajara
-2013-03-16 17:00 Tijuana - Monterrey
-2013-03-16 19:00 Pachuca - Puebla
-2013-03-16 21:00 Atlas - Santos
-2013-03-17 12:00 UNAM - León
-2013-03-17 18:00 Atlante - Cruz Azul
+2013-03-15 19:30 Chiapas    1-1  Morelia
+2013-03-16 17:00 Querétaro  1-0  Toluca
+2013-03-16 17:00 América    1-1  San Luis
+2013-03-16 19:00 Tigres     1-1  Guadalajara
+2013-03-16 17:00 Tijuana    2-2  Monterrey
+2013-03-16 19:00 Pachuca    2-1  Puebla
+2013-03-16 21:00 Atlas      1-2  Santos
+2013-03-17 12:00 UNAM       0-0  León
+2013-03-17 18:00 Atlante    0-3  Cruz Azul
 
 
 Jornada  12 // 29, 30 y 31 de marzo

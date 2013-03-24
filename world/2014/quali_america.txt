@@ -72,9 +72,9 @@ Group HEX | Costa Rica   Honduras   Mexico  Panama   Jamaica   United States
 
 (8) Matchday 2 / Group HEX
 
-2013-03-22 12:00 Honduras  -   Mexico
-2013-03-22 12:00 Jamaica  -  Panama
-2013-03-22 12:00 United States  - Costa Rica
+2013-03-22 12:00 Honduras       2-2  Mexico
+2013-03-22 12:00 Jamaica        1-1  Panama
+2013-03-22 12:00 United States  1-0  Costa Rica
 
 (9) Matchday 3 / Group HEX
 

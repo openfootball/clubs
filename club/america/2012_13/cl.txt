@@ -2,8 +2,8 @@
 # Champions League CONCACAF
 #  - CONCACAF = North/Central America & Carribean
 #
-# see http://en.wikipedia.org/wiki/2012-13_CONCACAF_Champions_League
-#     http://es.wikipedia.org/wiki/Concacaf_Liga_Campeones_2012-2013
+# see en.wikipedia.org/wiki/2012-13_CONCACAF_Champions_League
+#     es.wikipedia.org/wiki/Concacaf_Liga_Campeones_2012-2013
 #
 # Dates   July 31, 2012 - May 1, 2013
 # Teams   24 (from 11 associations)
@@ -263,15 +263,21 @@ Matchday 6  / Group  8  //   October 23-25, 2012
 
 (8) Quarterfinals / 2nd Leg // March 12-14, 2013
 
-2013-03-12 20:00  Monterrey - Xelajú
-2013-03-12 20:00  Seattle Sounders - Tigres UANL
-2013-03-13 20:00  Santos Laguna  - Houston Dynamo
-2013-03-13 20:00  LA Galaxy - Herediano
+2013-03-12 20:00  Monterrey - Xelajú   1:1
+2013-03-12 20:00  Seattle Sounders - Tigres UANL  3:1
+2013-03-13 20:00  Santos Laguna  - Houston Dynamo   3:0
+2013-03-13 20:00  LA Galaxy - Herediano     4:1
 
 
 (9) Semifinals  / 1st Leg    // April 2-4, 2013
 
+2013-04-02 20:00  Seattle Sounders     Santos Laguna
+2013-04-03 20:00  LA Galaxy            Monterrey
+
 (10) Semifinals  / 2nd Leg    // April 9-11, 2013
+
+2013-04-09 20:00  Santos Laguna     Seattle Sounders
+2013-04-10 20:00  Monterrey        LA Galaxy
 
 
 (11) Finals  / 1st Leg       // April 24, 2013

@@ -170,5 +170,4 @@
 15.12. 16:00  Wiener Neustadt      1:0     SK Rapid Wien
 
 # NB: postponed game
-15.12. 16:00 => 2013-02-20 18:30   SV Ried      1:1     Wolfsberger AC
-
+2012-12-15 16:00 => 2013-02-20 18:30   SV Ried      1:1     Wolfsberger AC

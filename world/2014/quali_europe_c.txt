@@ -35,9 +35,9 @@ Matchday 4  / Group C  //  Tu  Oct 16, 2012
 
 Matchday 5 / Group C  //  Fr  Mar 22, 2013
 
-(11)  Kazakhstan  -  Germany   2013-03-22 15:00
-(12)  Austria  -  Faroe Islands   2013-03-22 15:00
-(13)  Sweden  -  Irland   2013-03-22 15:00
+(11)  Kazakhstan  0:3  Germany   2013-03-22 15:00
+(12)  Austria  6:0  Faroe Islands   2013-03-22 15:00
+(13)  Sweden  0:0  Irland   2013-03-22 15:00
 
 
 Matchday 6 / Group C  //  Tu  Mar 26, 2013
