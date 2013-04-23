@@ -16,16 +16,17 @@ pre {
 ### Agenda
 
 - What's `football.db `?
-- Example: Breweries - `breweries.txt`
-- Example: Beers  - `beers.txt`
-- How to use `beer.db` in Ruby
-- What's `world.db `?
-- How to use `beer.db` & `world.db` in Ruby
-- How to use HTTP JSON API - `GET /beer/guinness`
-- Design - Plain text format options
-- Design - Better comma separated values (CSV) format
-- Design - "Magic" - Use folder and file names for values and structure
-- Design - "Magic" - Use text patterns (regex) for fields
+- Example: La Liga - `es/teams.txt`
+- Example: Champions League - `club/europe/2012_13/cl_ii.txt`
+- Leagues and Tournaments / National Teams
+- Intn'l Club Tournaments (Champions Leagues & Friends)
+- National Club Leagues & Cups
+- How to use `football.db` in JavaScript
+- How to use HTTP JSON API - `GET /event/euro.2012/teams`
+- How to use HTTP JSON API II - `GET /event/euro.2012/rounds`
+- How to use HTTP JSON API III - `GET /event/euro.2012/round/6`
+- How to use HTTP JSON(P) API in JavaScript & jQuery
+- All-Together Now - Machday Widget Example -  `footballdb.widget.js`
 
 
 
@@ -49,7 +50,7 @@ barcelona, Barcelona|FC Barcelona|Fútbol Club Barcelona, BAR, city:barcelona
 ```
 
 
-# Example: Teams La Liga - `es/teams.txt`
+# Example: La Liga - `es/teams.txt`
 
 ```
 ################################
@@ -76,11 +77,11 @@ osasuna,   Osasuna|CA Osasuna|Club Atlético Osasuna, OSA, city:pamplona
 ...
 ```
 
-Source: [`en/teams.txt`](https://github.com/geraldb/football.db/blob/master/es/teams.txt)
+Source: [`es/teams.txt`](https://github.com/geraldb/football.db/blob/master/es/teams.txt)
 
 
 
-# Example: Matches Champions League - `club/europe/2012_13/cl_ii.txt`
+# Example: Champions League - `club/europe/2012_13/cl_ii.txt`
 
 ```
 ####################################
@@ -184,21 +185,24 @@ Source: [`world/2010/cup.txt`](https://github.com/geraldb/football.db/blob/maste
 ######################################################
 # Österreichische Bundesliga 2012/13 -  Frühjahr
 
-21. Runde  // Sa 16. Feb 2013
+21. Runde  // Sa+So 16.+17. Feb 2013
 
-2013-02-16 12:00  SV Ried  -  FC Wacker Innsbruck   3:0
-2013-02-16 12:00  Rapid Wien  -  Austria Wien    1:2
-2013-02-16 12:00  SV Mattersburg  -  Sturm Graz    0:0
-2013-02-16 12:00  FC Admira Wacker  -  SC Wiener Neustadt  1:2
-2013-02-16 12:00 => 2013-03-06 18:30   Wolfsberger AC  -  RB Salzburg   1:1
+2013-02-16 16:00  SV Ried  -  FC Wacker Innsbruck   3:0
+2013-02-16 18:30  SV Mattersburg  -  Sturm Graz    0:0
+2013-02-16 18:30  FC Admira Wacker  -  SC Wiener Neustadt  1:2
+2013-02-16 18:30 => 2013-03-06 18:30   Wolfsberger AC  -  RB Salzburg   1:1
 
-22. Runde // Sa 23. Feb 2013
+2013-02-17 16:00  Rapid Wien  -  Austria Wien    1:2
 
-2013-02-23 12:00  SC Wiener Neustadt  -  SV Ried  0:0
-2013-02-23 12:00  Sturm Graz  -  Wolfsberger AC    1:3
-2013-02-23 12:00  RB Salzburg  -  Rapid Wien     3:3
-2013-02-23 12:00  Austria Wien  -  FC Admira Wacker    4:0
-2013-02-23 12:00  FC Wacker Innsbruck  -  SV Mattersburg   2:0
+
+22. Runde // Sa+So 23.+24. Feb 2013
+
+2013-02-23 16:00  FC Wacker Innsbruck  -  SV Mattersburg   2:0
+2013-02-23 18:30  SC Wiener Neustadt  -  SV Ried  0:0
+2013-02-23 18:30  Sturm Graz  -  Wolfsberger AC    1:3
+2013-02-23 18:30  Austria Wien  -  FC Admira Wacker    4:0
+
+2013-02-24 16:00  RB Salzburg  -  Rapid Wien     3:3
 
 ...
 ```
@@ -217,9 +221,11 @@ Source: [`at/2012_13/bl_ii.txt`](https://github.com/geraldb/football.db/blob/mas
 
 ### North America
 
-- México Primera División Apertura 2012
+- México Primera División Apertura 2012, Clausura 2013
 
 ### South America
+
+- Campeonato Brasileiro Série A
 
 Anything missing? Add your leagues, teams, fixtures and more.
 
@@ -228,7 +234,7 @@ Anything missing? Add your leagues, teams, fixtures and more.
 
 # How to use `football.db` in JavaScript
 
-Use the football.db HTTP JSON(P) API - Examples
+Use the `football.db` HTTP JSON(P) API - Examples
 
 List all teams for an event (league+season) `/event/:key/teams`
 
@@ -315,33 +321,33 @@ GET /event/euro.2012/rounds
 
 
 
-# How to use HTTP JSON API (Cont.) - `GET /event/euro.2012/round/1`
+# How to use HTTP JSON API (Cont.) - `GET /event/euro.2012/round/6`
 
 List all games in a round for an event `/event/:key/round/:pos`
 
 ```
-GET /event/euro.2012/round/1
+GET /event/euro.2012/round/6
 
 {
   "event": { "key":"euro.2012", "title":"Euro 2012" },
-  "round": { "pos":1,"title":"1. Round" },
+  "round": { pos": 6, "title": "Final" },
   "games":
   [
-    {"team1_key":"pol",
-     "team1_title":"Poland",
-     "team1_code":"POL",
-     "team2_key":"gre",
-     "team2_title":"Greece",
-     "team2_code":"GRE",
-     "play_at":"2012/06/08",
-     "score1":1,
-     "score2":1,
-     "score3":null,
-     "score4":null,
-     "score5":null,
-     "score6":null
-    },
-    ...
+    {
+    "team1_key": "esp",
+    "team1_title": "Spain",
+    "team1_code": "ESP",
+    "team2_key": "ita",
+    "team2_title": "Italy",
+    "team2_code": "ITA",
+    "play_at": "2012/07/01",
+    "score1": 4,
+    "score2": 0,
+    "score3": null,
+    "score4": null,
+    "score5": null,
+    "score6": null
+    }
   ]
 }
 ```
@@ -382,8 +388,8 @@ Use like:
 
 ```
 var footballdb_widget = footballdb_widget_new( '#widget', '/api/v1' )
-footballdb_widget.update( 'en.2011_12', '5' )
-footballdb_widget_update( 'de.2011_13', '2' )
+footballdb_widget.update( 'euro.2012', '1' )
+footballdb_widget_update( 'euro.2012', '2' )
 etc.
 ```
 
@@ -399,7 +405,7 @@ Euro 2012 - Semi-finals
 Source:
 
 ```
-var sportdb_widget_new = function( widget_id, api_path_prefix ) {
+var footballdb_widget_new = function( widget_id, api_path_prefix ) {
   
   var _api_path_prefix = '';
   var _$widget;
@@ -461,7 +467,7 @@ var sportdb_widget_new = function( widget_id, api_path_prefix ) {
      update: _update
   }
   
-} // fn sportdb_widget_new
+} // fn football_widget_new
 ```
 
 
@@ -475,3 +481,55 @@ var sportdb_widget_new = function( widget_id, api_path_prefix ) {
 
 ### Questions? Comments?
 
+
+
+# Bonus: What's `beer.db `?
+
+A free open public domain beer database & schema
+for use in any (programming) language
+
+
+(e.g. uses plain text fixtures/data sets)
+
+```
+### Brewery
+
+guinness, St. James's Gate Brewery / Guinness Brewery, 1759, D, city:dublin
+```
+
+```
+### Beer
+
+Guinness|Guinness Draught, 4.2%, by:guinness, irish_dry_stout|dry_stout|stout
+```
+
+# Bonus: How to use HTTP JSON API - `GET /beer/guinness`
+
+Get beer by key `/beer/:key`
+
+```
+GET /beer/guinness
+
+{
+  "beer":
+  {
+    "key":"guinness",
+    "title":"Guinness",
+    "synonyms": "Guinness Draught",
+    "abv":"4.2",
+    "srm":null,
+    "og":null,
+    "tags":["irish_dry_stout","dry_stout","stout"],
+    "brewery":
+    {
+      "key": "guinness",
+      "title": "St. James's Gate Brewery / Guinness Brewery"
+    },
+    "country":
+    {
+      "key":"ie",
+      "title":"Irland"
+    }
+  }
+}
+```
