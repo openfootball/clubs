@@ -15,7 +15,7 @@ pre {
 
 ### Agenda
 
-- What's `football.db `?
+- What's `football.db`?
 - Example: La Liga - `es/teams.txt`
 - Example: Champions League - `club/europe/2012_13/cl_ii.txt`
 - Leagues and Tournaments / National Teams
@@ -26,11 +26,11 @@ pre {
 - How to use HTTP JSON API II - `GET /event/euro.2012/rounds`
 - How to use HTTP JSON API III - `GET /event/euro.2012/round/6`
 - How to use HTTP JSON(P) API in JavaScript & jQuery
-- All-Together Now - Machday Widget Example -  `footballdb.widget.js`
+- All Together Now - Machday Widget Example -  `footballdb.widget.js`
 
 
 
-# What's `football.db `?
+# What's `football.db`?
 
 A free open public domain football (soccer) database & schema
 for use in any (programming) language
@@ -382,7 +382,7 @@ That’s it.
 
 
 
-# All-Together Now - Machday Widget Example -  `footballdb.widget.js`
+# All Together Now - Machday Widget Example -  `footballdb.widget.js`
 
 Use like:
 
@@ -483,7 +483,7 @@ var footballdb_widget_new = function( widget_id, api_path_prefix ) {
 
 
 
-# Bonus: What's `beer.db `?
+# Bonus: What's `beer.db`?
 
 A free open public domain beer database & schema
 for use in any (programming) language
