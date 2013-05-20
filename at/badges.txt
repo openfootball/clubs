@@ -1,4 +1,0 @@
-
-at,     2011/12, salzburg, Meister
-at.cup, 2011/12, salzburg, Cupsieger
-at,     2011/12, wac,      Aufsteiger
