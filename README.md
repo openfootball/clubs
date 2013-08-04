@@ -30,7 +30,7 @@ Egyptian Premier League
 
 #### Wikipedia
 
-- [2012-13_Egyptian_Premier_League](http://en.wikipedia.org/wiki/2012-13_Egyptian_Premier_League)
+- [2012–13_Egyptian_Premier_League](http://en.wikipedia.org/wiki/2012–13_Egyptian_Premier_League)
 
 
 ### Japan
@@ -65,7 +65,7 @@ Australia A-League
 
 #### Wikipedia
 
-- [2012-13_A-League](http://en.wikipedia.org/wiki/2012-13_A-League)
+- [2012–13_A-League](http://en.wikipedia.org/wiki/2012–13_A-League)
 
 
 ### New Zealand
@@ -76,7 +76,7 @@ New Zealand Football Championship
 
 #### Wikipedia
 
-- [2012-13_ASB_Premiership](http://en.wikipedia.org/wiki/2012-13_ASB_Premiership)
+- [2012–13_ASB_Premiership](http://en.wikipedia.org/wiki/2012–13_ASB_Premiership)
 
 
 
