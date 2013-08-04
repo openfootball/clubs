@@ -1,8 +1,7 @@
 ###########################################
-#  Egyptian Premier League 2012/13 Teams
-#
-# see en.wikipedia.org/wiki/2012-13_Egyptian_Premier_League
-#
+# Egyptian Premier League 2012/13 Teams
+
+
 # 18 teams
 
 alahly,    Al Ahly|Al Ahly Cairo|Al Ahly SC|Al Ahly Sporting Club|النادي الأهلي للرياضة البدنية,      city:cairo

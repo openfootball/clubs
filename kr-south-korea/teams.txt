@@ -1,8 +1,7 @@
 #######################################
 # K-League 2013 Teams
-#
-# see en.wikipedia.org/wiki/2013_K_League_Classic
-#
+
+
 # 14 teams
 
 busanipar,   Busan I'Park|Busan IPark|Busan IPark FC|부산 아이파크,          city:busan

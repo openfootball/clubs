@@ -1,8 +1,7 @@
-######################################################
+########################################
 # Australia A-League 2012-13 Teams
-#
-# see en.wikipedia.org/wiki/2012-13_A-League
-#
+
+
 # 10 teams
 
 adelaide,     Adelaide United,   ADU,    city:adelaide

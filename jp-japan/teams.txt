@@ -1,8 +1,7 @@
 #######################################
 # J. League Division 1 2013 Teams
-#
-# see en.wikipedia.org/wiki/2013_J._League_Division_1
-#
+
+
 # 18 teams
 
 niigata,   Albirex Niigata|アルビレックス新潟      # Niigata & Seiro, Niigata
