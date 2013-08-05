@@ -2,7 +2,7 @@
 # all fixtures
 
 data:
-- world!/data/seasons
+- world!/setups/data/seasons
 
 
 teams:
