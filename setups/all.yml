@@ -1,14 +1,9 @@
 ####################
 # all fixtures
 
-data:
-- world!/setups/data/seasons
-
-
 teams:
 - world!/eg-egypt/teams
 - world!/jp-japan/teams
 - world!/kr-south-korea/teams
 - world!/au-australia/teams
 - world!/nz-new-zealand/teams
-

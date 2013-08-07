@@ -9,7 +9,7 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data.  Teams and events include:
+Free open public domain football data. Teams and events include:
 
 - Egypt
 - Japan
@@ -17,6 +17,11 @@ Free open public domain football data.  Teams and events include:
 - Australia
 - New Zealand
 
+
+## Build Your Own `football.db` Copy
+
+Use the `sportdb` command line tool to build your own `football.db` copy
+from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
 
 ## Questions? Comments?
