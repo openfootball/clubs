@@ -1,0 +1,38 @@
+#########################################
+# FIFA Club World Cup / Morocco 2013
+#
+#
+# note: All times Western European Time (UTC±0)
+
+
+Play-off for quarter-finals
+
+(1) Wed Dec/11 19:30   Raja Casablanca   2-1  Auckland City FC     # Stade Adrar, Agadir
+
+
+Quarter-finals
+
+(2) Sat Dec/14 16:00   Guangzhou Evergrande FC  - Al Ahly SC     # Stade Adrar, Agadir
+(3) Sat Dec/14 19:30   Raja Casablanca          - CF Monterrey   # Stade Adrar, Agadir
+
+
+Semi-finals
+
+## (4) Tue Dec/17 19:30   Winner Match 2 - Bayern München    # Stade Adrar, Agadir
+## (6) Wed Dec/18 19:30   Winner Match 3 - Atlético Mineiro  # Stade de Marrakech, Marrakesh
+
+
+Match for fifth place
+
+## (5) Wed Dec/18 16:30   Loser Match 2 - Loser Match 3   # Stade de Marrakech, Marrakesh
+
+
+Match for third place
+
+## (7) Sat Dec/21 16:30   Loser Match 4  - Loser Match 6   # Stade de Marrakech, Marrakesh
+
+
+Final
+
+## (8) Sat Dec/21 19:30   Winner Match 4 -  Winner Match 6  # Stade de Marrakech, Marrakesh
+

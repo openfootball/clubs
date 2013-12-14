@@ -1,0 +1,21 @@
+#########################################
+# FIFA Club World Cup / Morocco 2013
+#
+#  see en.wikipedia.org/wiki/2013_FIFA_Club_World_Cup
+
+league: world.club
+season: 2013
+start_at: 2013-12-11
+
+
+# Teams 7 (from 6 confederations)
+
+teams:
+-    # Brazil / Atlético Mineiro / CONMEBOL
+-    # Germany / Bayern Munich / UEFA
+-    # China  / Guangzhou Evergrande / AFC
+-    # Egypt  / Al-Ahly /  CAF
+-    # Mexico / Monterrey / CONCACAF 
+-    # New Zealand / Auckland City / OFC
+-    # Morocco / Raja Casablanca / CAF
+
