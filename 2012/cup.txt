@@ -2,41 +2,42 @@
 # FIFA Club World Cup / Japan 2012
 #
 #  see en.wikipedia.org/wiki/2012_FIFA_Club_World_Cup
-#
+
+
 # note: All times Japan Standard Time (UTC+09:00).
 
-
+### fix: replace Round 1, Round 2, etc. add round names to parser
 ## todo: add to lang for knockout round!!!
 
-Play-off for quarter-finals
+
+(1) Round 1  -  Play-off for quarter-finals
 
 (1) Thu Dec/6 19:45    Sanfrecce Hiroshima  1-0  Auckland City FC  # International Stadium Yokohama, Yokohama
 
 
-Quarter-finals
+(2) Quarter-finals
 
-(2) Sun Dec/9 16:00    Ulsan Hyundai        1-3   CF Monterrey       # Toyota Stadium, Toyota
-(3) Sun Dec/9 19:30    Sanfrecce Hiroshima  1-2   Al-Ahly SC   # Toyota Stadium, Toyota
+(2) Sun Dec/9 16:00    Ulsan Hyundai        1-3   CF Monterrey      # Toyota Stadium, Toyota
+(3) Sun Dec/9 19:30    Sanfrecce Hiroshima  1-2   Al-Ahly SC        # Toyota Stadium, Toyota
 
 
-Match for fifth place
+(3) Round 3  -  Match for fifth place
 
 (4) Wed Dec/12 16:30   Ulsan Hyundai  2-3  Sanfrecce Hiroshima   # Toyota Stadium, Toyota
 
 
-Semi-finals
+(4) Round 4  -  Semi-finals
 
 (5) Wed Dec/12 19:30   Al-Ahly SC    0–1  Corinthians    # Toyota Stadium, Toyota
 (6) Thu Dec/13 19:30   CF Monterrey  1–3  Chelsea FC     # International Stadium Yokohama, Yokohama
 
 
-Match for third place
+(5) Round 5  -  Match for third place
 
 (7) Sun Dec/16 16:30   Al-Ahly SC  0-2   CF Monterrey   # International Stadium Yokohama, Yokohama
 
 
-Final
+(6) Final
 
 (8) Sun Dec/16 19:30  Corinthians   1–0  Chelsea FC   # International Stadium Yokohama, Yokoham
-
 

@@ -11,11 +11,10 @@ start_at: 2013-12-11
 # Teams 7 (from 6 confederations)
 
 teams:
--    # Brazil / Atlético Mineiro / CONMEBOL
--    # Germany / Bayern Munich / UEFA
--    # China  / Guangzhou Evergrande / AFC
--    # Egypt  / Al-Ahly /  CAF
--    # Mexico / Monterrey / CONCACAF 
--    # New Zealand / Auckland City / OFC
--    # Morocco / Raja Casablanca / CAF
-
+- atleticomg   # Brazil / Atlético Mineiro / CONMEBOL
+- bayern       # Germany / Bayern Munich / UEFA
+- guangzhou    # China  / Guangzhou Evergrande / AFC
+- alahly       # Egypt  / Al-Ahly /  CAF
+- monterrey    # Mexico / Monterrey / CONCACAF 
+- auckland     # New Zealand / Auckland City / OFC
+- casablanca   # Morocco / Raja Casablanca / CAF

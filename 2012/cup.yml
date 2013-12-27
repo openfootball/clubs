@@ -11,12 +11,11 @@ start_at: 2012-12-06
 # Teams 7 (from 6 confederations)
 
 teams:
--  # Brazil / Corinthians / CONMEBOL
--  # England / Chelsea / UEFA
--  # South Korea / Ulsan Hyundai / AFC
--  # Egypt / Al-Ahly / CAF
--  # Mexico / Monterrey / CONCACAF
--  # New Zealand / Auckland City /  OFC
--  # Japan / Sanfrecce Hiroshima /  AFC
-
+- corinthians   # Brazil / Corinthians / CONMEBOL
+- chelsea       # England / Chelsea / UEFA
+- uhfc          # South Korea / Ulsan Hyundai / AFC
+- alahly        # Egypt / Al-Ahly / CAF
+- monterrey     # Mexico / Monterrey / CONCACAF
+- auckland      # New Zealand / Auckland City /  OFC
+- hiroshima     # Japan / Sanfrecce Hiroshima /  AFC
 

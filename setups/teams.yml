@@ -1,8 +1,5 @@
-####################
-# all fixtures
-
-leagues:
-- world!/leagues
+################
+# teams
 
 teams:
 - world!/eg-egypt/teams
@@ -12,9 +9,3 @@ teams:
 - world!/cn-china/teams
 - world!/au-australia/teams
 - world!/nz-new-zealand/teams
-
-2012:
-- world!/2012/cup
-
-2013:
-- world!/2013/cup

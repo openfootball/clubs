@@ -1,38 +1,40 @@
 #########################################
 # FIFA Club World Cup / Morocco 2013
-#
-#
+
+
 # note: All times Western European Time (UTC±0)
 
+### fix: replace Round 1, Round 2, etc. add round names to parser
 
-Play-off for quarter-finals
+
+(1) Round 1  -  Play-off for quarter-finals
 
 (1) Wed Dec/11 19:30   Raja Casablanca   2-1  Auckland City FC     # Stade Adrar, Agadir
 
 
-Quarter-finals
+(2) Quarter-finals
 
-(2) Sat Dec/14 16:00   Guangzhou Evergrande FC  - Al-Ahly SC     # Stade Adrar, Agadir
-(3) Sat Dec/14 19:30   Raja Casablanca          - CF Monterrey   # Stade Adrar, Agadir
-
-
-Semi-finals
-
-## (4) Tue Dec/17 19:30   Winner Match 2 - Bayern München    # Stade Adrar, Agadir
-## (6) Wed Dec/18 19:30   Winner Match 3 - Atlético Mineiro  # Stade de Marrakech, Marrakesh
+(2) Sat Dec/14 16:00   Guangzhou Evergrande FC  2-0        Al Ahly SC     # Stade Adrar, Agadir
+(3) Sat Dec/14 19:30   Raja Casablanca          2-1nV 1-1  CF Monterrey   # Stade Adrar, Agadir
 
 
-Match for fifth place
+(3) Semi-finals
 
-## (5) Wed Dec/18 16:30   Loser Match 2 - Loser Match 3   # Stade de Marrakech, Marrakesh
-
-
-Match for third place
-
-## (7) Sat Dec/21 16:30   Loser Match 4  - Loser Match 6   # Stade de Marrakech, Marrakesh
+(4) Tue Dec/17 19:30   Guangzhou Evergrande FC  0-3  Bayern München    # Stade Adrar, Agadir
+(6) Wed Dec/18 19:30   Raja Casablanca          3-1  Atlético Mineiro  # Stade de Marrakech, Marrakesh
 
 
-Final
+(4) Round 4 - Match for fifth place
 
-## (8) Sat Dec/21 19:30   Winner Match 4 -  Winner Match 6  # Stade de Marrakech, Marrakesh
+(5) Wed Dec/18 16:30   Al Ahly SC  1-5  CF Monterrey     # Stade de Marrakech, Marrakesh
+
+
+(5) Round 5 - Match for third place
+
+(7) Sat Dec/21 16:30   Guangzhou Evergrande  2-3  Atlético Mineiro   # Stade de Marrakech, Marrakesh
+
+
+(6) Final
+
+(8) Sat Dec/21 19:30   Bayern München  2-0  Raja Casablanca   # Stade de Marrakech, Marrakesh
 

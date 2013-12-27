@@ -11,9 +11,17 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 Free open public domain football data. Teams and events include:
 
+International
+
+- FIFA Club World Cup
+
+National
+
 - Egypt
+- Morocco
 - Japan
 - South Korea
+- China
 - Australia
 - New Zealand
 

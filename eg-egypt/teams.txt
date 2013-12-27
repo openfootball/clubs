@@ -4,7 +4,7 @@
 
 # 18 teams
 
-alahly,    Al Ahly|Al Ahly Cairo|Al Ahly SC|Al Ahly Sporting Club|النادي الأهلي للرياضة البدنية,      city:cairo
+alahly,    Al Ahly|Al-Ahly|Al Ahly Cairo|Al Ahly SC|Al Ahly Sporting Club|النادي الأهلي للرياضة البدنية,      city:cairo
 zamalek,   Zamalek|Zamalek SC|Zamalek Sporting Club|نادى الزمالك,  city:giza
 ismaily,   Ismaily|Ismaily SC|النادى الإسماعيلى,  city:ismailia
 alittihad, Al Ittihad Al Sakandary [Alexandrian Union Club]|نادى الإتحاد السكندرى, city:alexandria
