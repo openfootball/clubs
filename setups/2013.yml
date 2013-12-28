@@ -1,0 +1,14 @@
+leagues:
+- world!/leagues
+
+teams:
+- world!/eg-egypt/teams
+- world!/ma-morocco/teams
+- world!/jp-japan/teams
+- world!/kr-south-korea/teams
+- world!/cn-china/teams
+- world!/au-australia/teams
+- world!/nz-new-zealand/teams
+
+2013:
+- world!/2013/cup
