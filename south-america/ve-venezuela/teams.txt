@@ -1,0 +1,9 @@
+############################
+# Venezuela, ve
+
+caracas, Caracas|Caracas FC|Caracas Fútbol Club, city:caracas, ve
+deportivotachira, Deportivo Táchira|Deportivo Táchira Fútbol Club, city:sancristobal, ve
+zamora, Zamora|Zamora FC|Zamora Fútbol Club, city:barinas, ve
+deportivolara, Deportivo Lara|Club Deportivo Lara, city:barquisimeto, ve
+deportivoanzoategui, Deportivo Anzoátegui|Deportivo Anzoátegui Sport Club, city:puertolacruz, ve
+

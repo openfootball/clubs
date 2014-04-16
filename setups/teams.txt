@@ -1,0 +1,32 @@
+################
+# Teams
+
+#  todo:  use world!/ why ?? why not??
+
+africa/eg-egypt/teams
+africa/ma-morocco/teams
+
+asia/jp-japan/teams
+asia/kr-south-korea/teams
+asia/cn-china/teams
+
+caribbean/teams
+
+central-america/teams
+
+north-america/ca-canada/teams
+north-amercia/us-united-states/teams
+
+pacific/au-australia/teams
+pacific/nz-new-zealand/teams
+
+south-america/ar-argentina/teams
+south-america/bo-bolivia/teams
+south-america/cl-chile/teams
+south-america/co-colombia/teams
+south-america/ec-ecuador/teams
+south-america/pe-peru/teams
+south-america/py-paraguay/teams
+south-america/uy-uruguay/teams
+south-america/ve-venezuela/teams
+south-america/teams

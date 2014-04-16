@@ -1,0 +1,9 @@
+########################
+# Uruguay, uy
+
+liverpoolmontevideo, Liverpool FC Montevideo|Liverpool FC|Liverpool Fútbol Club|Liverpool Montevideo, uy
+nacional, Nacional|Nacional de Montevideo|Club Nacional de Football, city:montevideo, uy
+defensorsporting, Defensor Sporting|Defensor Sporting Club, city:montevideo, uy
+penarol, Peñarol|CA Peñarol|Club Atlético Peñarol, city:montevideo, uy
+
+

@@ -1,0 +1,50 @@
+#######################################
+# Primera División de Argentina
+
+
+# 20 teams
+
+
+allboys,       All Boys|Club Atlético All Boys, city:buenosaires
+argentinos,    Argentions|Argentinos Jrs|Asociación Atlética Argentinos Juniors, city:buenosaires
+bocajuniors,   Boca|Boca Jrs|Boca Juniors|Club Atlético Boca Juniors, city:buenosaires
+riverplate,    River|River Plate|Club Atlético River Plate,  city:buenosaires
+sanlorenzo,    San Lorenzo|CA San Lorenzo de Almagro|Club Atlético San Lorenzo de Almagro,  city:buenosaires
+velez,         Vélez|Vélez Sarsfield|CA Vélez|CA Vélez Sarsfield|Club Atlético Vélez Sarsfield,  city:buenosaires
+
+# greater buneos aires
+
+tigre,         Tigre|CA Tigre|Club Atlético Tigre,  city:buenosaires  # Victoria Victoria es una ciudad del partido de San Fernando, en la zona centro-este de la provincia de Buenos Aires y parte del Gran Buenos Aires
+independiente, Independiente|CA Independiente de Avellaneda|Club Atlético Independiente, city:buenosaires #  Avellaneda sits in the metropolitan area of the Greater Buenos Aires
+racing,        Racing|Racing Club,  city:buenosaires  # Avellaneda sits in the metropolitan area of the Greater Buenos Aires
+quilmes,       Quilmes|Quilmes AC|Quilmes Atlético Club,  city:buenosaires   # Quilmes is a city in the province of Buenos Aires
+lanus,         Lanús|CA Lanús|Club Atlético Lanús,   city:buenosaires  #  Lanús is a city in  Greater Buenos Aires
+
+
+## fix: use different key (conflict w/ arsenal en)
+arsenalsarandi,    Arsenal|Arsenal de Sarandí|Arsenal FC|Arsenal Fútbol Club,  city:buenosaires #  Sarandí es una ciudad de la Zona Sur del Gran Buenos Aires
+
+estudiantes,   Estudiantes|Estudiantes LP|Club Estudiantes de La Plata, city:laplata
+
+# Provincia Santa Fe
+
+colon,         Colón|Colón Santa Fe|CA Colón|Club Atlético Colón|Club Atlético Colón (Santa Fe), city:santafe
+union,         Unión|Unión Santa Fe|Club Atlético Unión,  city:santafe
+
+newells,       Newell's|N.O. Boys|Newell's Old Boys|CA Newell's Old Boys|Club Atlético Newell's Old Boys, city:rosario
+
+rafaela,       At. de Rafaela|Atl. Rafaela|Atlético Rafaela|Atlético de Rafaela|Asociación Mutual Social y Deportiva Atlético de Rafaela, city:rafaela
+
+# Provincia Córdoba
+
+belgrano,      Belgrano|Club Atlético Belgrano, city:cordoba
+
+# Provincia Mendoza
+
+godoycruz,     Godoy Cruz|Club Deportivo Godoy Cruz Antonio Tomba, city:mendoza  # Godoy Cruy is a city in Greater Menoza
+
+# Provincia San Juan
+
+sanmartin,     San Martín|San Martín San Juan|Club Atlético San Martín,  city:sanjuan
+
+

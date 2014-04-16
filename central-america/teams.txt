@@ -1,0 +1,50 @@
+
+########################
+# El Salvador, sv
+
+metapan, Metapán|I. Metapán|Isidro Metapán|Asociación Deportiva Isidro Metapán, city:metapan, sv
+aguila,  Águila|Club Deportivo Águila, city:sansalvador, sv
+fas,     CD FAS|Club Deportivo FAS|Futbolistas Asociados Santanecos, FAS, city:santaana, sv
+alianza, Alianza|Alianza FC|Alianza Fútbol Club, city:sansalvador, sv
+luisangelfirpo, L.A. Firpo|Luis Ángel Firpo|CD Luis Ángel Firpo, sv    # change key to lafirpo
+
+
+#########################
+# Costa Rica, cr
+
+alajuelense, Alajuelense|LD Alajuelense, city:alajuela, cr   #  23 kilómetros al oeste de San José
+herediano, Herediano|CS Herediano, city:heredia, cr   #  10 km al noroeste de San José
+cartagines, Cartaginés|CS Cartaginés, cr  
+
+
+#########################
+# Honduras, hn
+
+olimpia, Olimpia|CD Olimpia, city:tegucigalpa, hn
+marathon, Marathón|CD Marathón, city:sanpedrosula, hn
+espana, Real España|Real CD España, city:sanpedrosula, hn
+motagua, Motagua|CD Motagua, city:tegucigalpa, hn
+cdvictoria, Victoria|CD Victoria, hn
+
+##########################
+# Guatemala, gt
+
+municipal, Municipal|CSD Municipal, city:guatemala, gt
+xelaju, Xelajú|Club Xelajú MC, city:quetzaltenango, gt
+comunicaciones, Comunicaciones|CSD Comuni.|Comunicaciones FC, city:guatemala, gt
+heredia, Heredia|Heredia Jaguares de Peten, gt
+
+##########################
+# Panama, pa
+
+chorrillo, Chorrillo|Chorrillo FC, city:panama, pa
+tauro, Tauro|Tauro FC, city:panama, pa
+arabeunido, Árabe Unido|Árabe U.|Club Deportivo Árabe Unido, DAU, city:colon, pa
+sanfrancisco, San Francisco|San Francisco FC|San Francisco Fútbol Club de La Chorrera, city:lachorrera, pa
+sportingsanmiguelito, Sporting SM|Sporting San Miguelito, pa    # change key to sportingsm
+
+############################
+# Nicaragua, ni
+
+esteli, R. Estelí|Real Estelí|Real Estelí FC, city:esteli, ni
+

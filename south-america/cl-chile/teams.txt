@@ -1,0 +1,11 @@
+###################
+# Chile, cl
+
+udechile, Universidad de Chile|U. de Chile|Club Universidad de Chile, city:santiago, cl
+cduc,     Universidad Católica|CDUC|CD Universidad Católica|Club Deportivo Universidad Católica, city:santiago, cl
+unionespanola, Unión Española|Club Unión Española S.A.D.P, city:santiago, cl  # Independencia located in Santiago metro
+
+huachipato, Huachipato|CD Huachipato|Club Deportivo Huachipato, city:talcahuano, cl
+iquique,    Iquique|Deportes Iquique|Club Deportes Iquique, city:iquique, cl
+
+
