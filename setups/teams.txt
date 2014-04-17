@@ -31,7 +31,7 @@ europe/teams_southern
 europe/teams_western
 
 north-america/ca-canada/teams
-north-amercia/us-united-states/teams
+north-america/us-united-states/teams
 
 pacific/au-australia/teams
 pacific/nz-new-zealand/teams
