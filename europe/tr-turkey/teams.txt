@@ -1,0 +1,13 @@
+#########################
+#  Turkey (TUR), tr
+
+galatasaray,   Galatasaray|Galatasaray Istanbul,    city:istanbul
+fenerbahce,    Fenerbahçe|Fenerbahçe SK|Fenerbahçe Spor Kulübü|Fenerbahçe Sports Club,  city:istanbul
+besiktas,      Beşiktaş JK
+trabzonspor,   Trabzonspor AŞ
+bursaspor,     Bursaspor
+sivasspor,     Sivasspor
+eskisehirspor, Eskişehirspor
+gaziantepspor, Gaziantepspor
+kayserispor,   Kayserispor
+

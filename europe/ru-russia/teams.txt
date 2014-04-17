@@ -1,0 +1,15 @@
+#############################
+# Russia (RUS), ru
+
+zenit,        Zenit|Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg, city:stpetersburg
+spartak,      Spartak Moskau|Spartak Moscow,   city:moskva
+moskva,       CSKA Moskva|PFC CSKA Moskva|CSKA Moscow,  city:moskva
+lokomotiv,    FC Lokomotiv Moskva
+dinamomoskva, FC Dinamo Moskva
+fcmoskva,     FC Moskva
+rubinkazan,   Rubin Kazan|FC Rubin Kazan,                     city:kazan
+anzhi,        Anzhi Makhachkala|FC Anzhi Makhachkala,         city:makhachkala
+vladikavkaz,  FC Alania Vladikavkaz
+novosibirsk,  FC Sibir Novosibirsk
+amkarperm,    FC Amkar Perm
+samara,       PFC Krylya Sovetov Samara

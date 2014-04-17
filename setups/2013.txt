@@ -16,6 +16,22 @@ caribbean/teams
 
 central-america/teams
 
+europe/be-belgium/teams
+europe/ch-switzerland/teams
+europe/cz-czech-republic/teams
+europe/fr-france/teams
+europe/nl-netherlands/teams
+europe/pt-portugal/teams
+europe/ro-romania/teams
+europe/ru-russia/teams
+europe/tr-turkey/teams
+europe/ua-ukraine/teams
+europe/teams_central
+europe/teams_eastern
+europe/teams_northern
+europe/teams_southern
+europe/teams_western
+
 north-america/ca-canada/teams
 north-amercia/us-united-states/teams
 

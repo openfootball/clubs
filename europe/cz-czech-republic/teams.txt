@@ -1,0 +1,15 @@
+##############################
+# Czech Republic (CZE), cz
+
+## fix: change key to spartapraha
+
+praha,       Sparta Praha|Sparta Prague|AC Sparta Praha|AC Sparta Prague,    city:praha
+slaviapraha, SK Slavia Praha
+plzen,       Plzeň|Viktoria Plzeň|FC Viktoria Plzeň,       city:plzen
+liberec,     FC Slovan Liberec
+boleslav,    FK Mladá Boleslav
+jablonec,    FK Jablonec
+ostrava,     FC Baník Ostrava
+olomouc,     SK Sigma Olomouc
+teplice,     FK Teplice
+

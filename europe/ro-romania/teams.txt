@@ -1,0 +1,21 @@
+
+dinamobu,           Dinamo București,       FCD, city:bucuresti
+rapidbu,            Rapid București,        RBU, city:bucuresti
+steaua,             Steaua|Steaua București,       SBU, city:bucuresti
+
+cfrcluj,            CFR Cluj|CFR 1907 Cluj, CFR, city:cluj
+ucluj,              U Cluj,                 UCJ, city:cluj
+
+astra,              Astra Giurgiu,          AFC
+ceahlau,            Ceahlaul Piatra Neamt,  FCC
+chiajna,            Concordia Chiajna,      CCH
+iasi,               CSMS Iasi,              CSI
+fcbrasov,           FC Brasov,              FCB
+severin,            FC Severin,             FCS
+vaslui,             FC Vaslui,              FCV
+gazmetanmedias,     Gaz Metan Medias,       GMM
+gloriabistrita,     Gloria Bistrita,        GBS
+otelul,             Otelul Galati,          OTG
+pandurii,           Pandurii Tg Jiu,        PTJ
+petrolul,           Petrolul Ploiesti,      PPL
+viitorulconstanta,  Viitorul Constanta,     VCT

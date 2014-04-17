@@ -1,0 +1,3 @@
+
+pt, Primeira Liga      # 2 CL/GR, CL/4.QR, EL/GR, EL/4.QR, EL/3.QR  -- POR / Portugal (5)  ##  Use Liga for title ??
+

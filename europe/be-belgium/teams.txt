@@ -1,0 +1,11 @@
+#########################
+# Belgium (BEL), be
+
+anderlecht,    Anderlecht|RSC Anderlecht,       city:brussel
+genk,          Genk|KRC Genk|Koninklijke Racing Club Genk, city:genk
+standardliege, R. Standard de Liège
+brugge,        Club Brugge KV
+gent,          KAA Gent
+lokeren,       KSC Lokeren OV
+westerlo,      KVC Westerlo
+cerclebrugge,  Cercle Brugge KSV

@@ -1,0 +1,14 @@
+################################
+# Portugal (POR), pt
+
+porto,        Porto|FC Porto,                        city:porto
+benfica,      Benfica|Benfica Lisboa|Benfica Lissabon|Benfica Lis.,   city:lisboa
+braga,        Braga|Sporting Braga,                  city:braga
+sporting,     Sporting Lisboa|Sporting CP|Sporting Clube de Portugal,    city:lisboa
+maritimo,         CS Marítimo
+nacionaldamadeira,  CD Nacional|Nacional da Madeira
+coimbra,            A. Académica de Coimbra
+vitoriasc,            Vitória SC
+vitoriafc,            Vitória FC
+ferreira,           FC Paços de Ferreira    # todo: change key to pacosferreira ???
+
