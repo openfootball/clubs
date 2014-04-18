@@ -1,6 +1,7 @@
-################
-# Teams
+########################################
+# All Teams
 
+# Teams
 #  todo:  use world!/ why ?? why not??
 
 africa/eg-egypt/teams
@@ -46,3 +47,4 @@ south-america/py-paraguay/teams
 south-america/uy-uruguay/teams
 south-america/ve-venezuela/teams
 south-america/teams
+
