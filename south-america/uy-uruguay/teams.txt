@@ -1,9 +1,69 @@
-########################
-# Uruguay, uy
+##################
+# Uruguay (uy)
 
-liverpoolmontevideo, Liverpool FC Montevideo|Liverpool FC|Liverpool Fútbol Club|Liverpool Montevideo, uy
-nacional, Nacional|Nacional de Montevideo|Club Nacional de Football, city:montevideo, uy
-defensorsporting, Defensor Sporting|Defensor Sporting Club, city:montevideo, uy
-penarol, Peñarol|CA Peñarol|Club Atlético Peñarol, city:montevideo, uy
+[liverpoolmontevideo]
+  Liverpool|Liverpool FC|Liverpool Fútbol Club|Liverpool FC Montevideo|Liverpool Montevideo
+  // Montevideo
 
+[nacional]
+  Nacional|Nacional de Montevideo|Club Nacional de Football, C. N. de F., 1899
+  // Montevideo
+
+[defensorsporting]
+  Defensor|Defensor Sporting|Defensor Sporting Club
+  // Montevideo
+  
+[penarol]
+  Peñarol|CA Peñarol|Club Atlético Peñarol
+  // Montevideo
+
+[cerro]
+  Cerro|CA Cerro|Club Atlético Cerro, 1922
+  // Montevideo
+
+[danubio]
+  Danubio|Danubio FC|Danubio Fútbol Club, 1932
+  // Montevideo
+
+[eltanquesisley]
+  El Tanque Sisley|Deportivo El Tanque Sisley, 1941
+  // Montevideo
+
+[fenix]
+  Fénix|Centro Atlético Fénix, 1916
+  // Montevideo
+
+[miramarmisiones]
+  Miramar Misiones|CS Miramar Misiones|Club Sportivo Miramar Misiones, 1906
+  // Montevideo
+
+[wanderers]
+  Wanderers|Montevideo Wanderers|Montevideo Wanderers FC|Montevideo Wanderers Fútbol Club, 1902
+  // Montevideo
+
+[racingdemontevideo]
+  Racing|Racing CM|Racing Club de Montevideo, 1919
+  // Montevideo
+
+[rentistas]
+  Rentistas|CA Rentistas|Club Atlético Rentistas, 1933
+  // Montevideo
+
+# note: riverplate used for club in argentina
+[riverplatemontevideo]
+  River Plate|CA River Plate|Club Atlético River Plate, 1932
+  // Montevideo
+
+
+[juventud]
+  Juventud|Juventud de Las Piedras|Club Atlético Juventud de Las Piedras, 1935
+  // Las Piedras
+
+[cerrolargo]
+  Cerro Largo|Cerro Largo FC|Cerro Largo Fútbol Club, 2002
+  // Melo
+
+[sudamerica]  
+  Sud América|Institución Atlética Sud América|I.A.S.A, 1914
+  // San José
 
