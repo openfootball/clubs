@@ -10,9 +10,9 @@
   // Montevideo
 
 [defensorsporting]
-  Defensor|Defensor Sporting|Defensor Sporting Club
+  Defensor|Defensor Sporting|Defensor Sp.|Defensor Sporting Club
   // Montevideo
-  
+
 [penarol]
   Peñarol|CA Peñarol|Club Atlético Peñarol
   // Montevideo

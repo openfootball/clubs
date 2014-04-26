@@ -1,11 +1,29 @@
-#######################
-# Colombia, co
+###################
+# Colombia (co)
 
-millonarios, Millonarios Bogotá|Millonarios|Millonarios FC|Millonarios Fútbol Club, city:bogota, co
-santafe, Santa Fe|Corporación Deportiva Santa Fe|Independiente Santa Fe, city:bogota, co
 
-atleticonacional, Atlético Nacional|Club Atlético Nacional S.A., city:medellin, co
-junior, Junior|Junior de Barranquilla|Corporación Popular Deportiva Junior, city:barranquilla, co
-oncecaldas, Once Caldas|Corporación Deportiva Once Caldas, city:manizales, co
-deportestolima, Deportes Tolima, city:ibague, co
+[millonarios]
+  Millonarios Bogotá|Millonarios|Millonarios FC|Millonarios Fútbol Club
+  // Bogotá
+
+[santafe]
+  Santa Fe|Corporación Deportiva Santa Fe|Independiente Santa Fe
+  // Bogotá
+
+
+[atleticonacional]
+  At. Nacional|Atlético Nacional|Club Atlético Nacional S.A.
+  // Medellín
+  
+[junior]
+  Junior|Junior de Barranquilla|Corporación Popular Deportiva Junior
+  // Barranquilla
+
+[oncecaldas]
+  Once Caldas|Corporación Deportiva Once Caldas
+  // Manizales
+
+[deportestolima]
+  Deportes Tolima
+  // Ibagué
 

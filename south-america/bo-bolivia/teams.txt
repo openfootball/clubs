@@ -1,10 +1,11 @@
 ###################
-# Bolivia, bo
+# Bolivia (bo)
 
 bolivar, Bolívar|Club Bolívar, city:lapaz, bo
-thestrongest, The Strongest|Club The Strongest, city:lapaz, bo
+thestrongest, Strongest|The Strongest|Club The Strongest, city:lapaz, bo
 realpotosi, Real Potosí|Club Bamin Real Potosí, city:potosi, bo
 sanjose, San José|Club Deportivo San José, city:oruro, bo      # check: conflict w/ sanjose en us?? exists??
 
 orientepetrolero, Oriente Petrolero|Club Deportivo Oriente Petrolero,  bo   # city -- Santa Cruz de la Sierra
+
 
