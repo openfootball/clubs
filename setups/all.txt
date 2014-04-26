@@ -1,8 +1,5 @@
-####################
-# All Fixtures
-
-# Leagues
-world!/leagues
+########################################
+# All Leagues, Teams n Fixtures
 
 
 # Teams
@@ -52,9 +49,3 @@ south-america/uy-uruguay/teams
 south-america/ve-venezuela/teams
 south-america/teams
 
-
-# 2012
-world!/2012/cup
-
-# 2013
-world!/2013/cup

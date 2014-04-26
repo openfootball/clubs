@@ -9,22 +9,29 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data. Teams and events include:
+Free open public domain football data for the world's football clubs n
+leagues. Example:
 
-International
+~~~
+porto,        Porto|FC Porto
+benfica,      Benfica|Benfica Lisboa|Benfica Lissabon|Benfica Lis.
+braga,        Braga|Sporting Braga
+sporting,     Sporting Lisboa|Sporting CP|Sporting Clube de Portugal
+maritimo,     CS Marítimo
+coimbra,      A. Académica de Coimbra
+...
+~~~
 
-- FIFA Club World Cup
-
-National
-
-- Egypt
-- Morocco
-- Japan
-- South Korea
-- China
-- Australia
-- New Zealand
-
+~~~
+ad, Primera Divisió
+sm, Campionato
+gr, Super League
+il, Ligat Ha'Al
+pl, Ekstraklasa
+hr, Prva Liga
+sk, Superliga
+...
+~~~
 
 ## Build Your Own `football.db` Copy
 
