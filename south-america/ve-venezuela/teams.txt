@@ -23,11 +23,11 @@
 [zamora]
   Zamora|Zamora FC|Zamora Fútbol Club
   // Barinas
-  
+
 [deportivolara]
   Dvo. Lara|Deportivo Lara|Club Deportivo Lara
   // Barquisimeto
-  
+
 [deportivoanzoategui]
   Dvo. Anzoátegui|Deportivo Anzoátegui|Deportivo Anzoátegui Sport Club
   // Puerto La Cruz
@@ -36,7 +36,7 @@
   Mineros|AC Mineros|Mineros de Guayana
   // Ciudad Guayana
 
-[atleticoelvigía]
+[atleticoelvigia]
   Atlético El Vigía
   // El Vigía
 
