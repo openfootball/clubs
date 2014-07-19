@@ -27,11 +27,23 @@ marsaxlokk, Marsaxlokk FC, mt
 trefiori,  SP Tre Fiori, sm
 trepenne,  SP Tre Penne, sm
 dogana,    AC Juvenes-Dogana, sm
-lafiorita, SP La Fiorita, sm
+lafiorita, SP La Fiorita|La Fiorita, sm
 libertas,  AC Libertas, sm
 faetano,   SC Faetano, sm
 murata,    SS Murata, sm
 
+
+############################
+#  Gibraltar (GIB), gi
+
+lincolnfc,          Lincoln FC|Lincoln Red Imps FC, gi
+manchestersixtytwo, Manchester 62 FC, gi     ## fix - allow 62 in key - why, who not??
+lynxfc,             Lynx FC, gi
+collegeeuropafc,    College Europa FC, gi
+glacisunitedfc,     Glacis United FC, gi
+lionsgibraltarfc,   Lions Gibraltar FC, gi
+stjosephsfrac,      St Joseph's FRAC, gi
+gibraltarphoenixfc, Gibraltar Phoenix FC, gi
 
 
 ########################

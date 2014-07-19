@@ -22,7 +22,7 @@ akranes,          ÍA Akranes, is
 
 ## todo: allow numbers in keys eg b36torshavn
 
-hbtorshavn, HB Tórshavn, fo
+hbtorshavn, HB Tórshavn|Havnar Bóltfelag|Havnar Bóltfelag Tórshavn, fo
 bxxxvitorshavn, B36 Tórshavn, fo
 streymur,     EB/Streymur, fo
 runavik,      NSÍ Runavík, fo
@@ -119,7 +119,7 @@ banga,     FK Banga, lt
 #######################
 # Estonia (EST), ee
 
-levadiatallinn, FC Levadia Tallinn, ee
+levadiatallinn, FC Levadia Tallinn|Levadia Tallinn, ee
 floratallinn,   FC Flora Tallinn, ee
 tvmktallinn,    FC TVMK Tallinn, ee
 narva,          JK Trans Narva, ee

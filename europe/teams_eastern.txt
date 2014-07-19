@@ -81,7 +81,7 @@ pyunik,    FC Pyunik, am
 ulisses,   Ulisses FC, am
 mika,      FC Mika, am
 gandzasar, FC Gandzasar, am
-banants,   FC Banants, am
+banants,   FC Banants|Banants, am
 shirak,    FC Shirak, am
 ararat,    FC Ararat, am
 
