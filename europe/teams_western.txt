@@ -38,7 +38,7 @@ queenofthesouth, Queen of the South FC, sc
 #######################
 # Irland (IRL), ie
 
-saintpatricks, Saint Patrick's Athletic FC,  ie
+saintpatricks, Saint Patrick's Athletic FC|St Patrick's Athletic,  ie
 shamrock,      Shamrock Rovers FC, ie
 bohemian,      Bohemian FC, ie
 sligorovers,   Sligo Rovers FC, ie

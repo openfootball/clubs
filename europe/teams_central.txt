@@ -33,7 +33,7 @@ poloniawarszawa, KSP Polonia Warszawa, pl
 # Slovakia (SVK), sk
 
 zilina,     MŠK Žilina, sk
-bratislava, ŠK Slovan Bratislava, sk
+bratislava, ŠK Slovan Bratislava|Slovan Bratislava, sk
 trnava,     FC Spartak Trnava, sk
 senica,     FK Senica, sk
 kosice,     MFK Košice, sk
@@ -49,7 +49,7 @@ budapesthonved, Budapest Honvéd FC, hu
 mtkbudapest,    MTK Budapest, hu
 ferencvarosi,   Ferencvárosi TC, hu
 videoton,       Videoton FC, hu
-debreceni,      Debreceni VSC, hu
+debreceni,      Debreceni VSC|Debrecen, hu
 gyori,          Győri ETO FC, hu
 paksi,         Paksi SE, hu
 kecskemeti,    Kecskeméti TE, hu

@@ -13,7 +13,7 @@
 #######################
 # Malta (MLT), mt
 
-valletta, Valletta FC, mt
+valletta, Valletta FC|Valletta, mt
 birkirkara, Birkirkara FC, mt
 floriana, Floriana FC, mt
 hibernians, Hibernians FC, mt
@@ -72,7 +72,7 @@ sibenik,      HNK Šibenik, hr
 #############################
 # Serbia (SRB), rs
 
-partizan,      FK Partizan,     rs
+partizan,      FK Partizan|Partizan,     rs
 crvenazvezda,  FK Crvena zvezda, rs
 vojvodina,     FK Vojvodina, rs
 beograd,       OFK Beograd, rs
@@ -89,7 +89,7 @@ cacak,         FK Borac Čačak, rs
 sarajevo,        FK Sarajevo, ba
 slavijasarajevo, FK Slavija Sarajevo, ba
 zeljeznicar,     FK Željezničar, ba
-zrinjski,        HŠK Zrinjski, ba
+zrinjski,        HŠK Zrinjski|Zrinjski Mostar, ba
 brijeg,          NK Široki Brijeg, ba
 banjaluka,       FK Borac Banja Luka, ba
 modrica,         FK Modriča, ba
@@ -100,13 +100,15 @@ modrica,         FK Modriča, ba
 
 metalurgskopje,   FK Metalurg Skopje, mk
 makedonijaskopje, FK Makedonija Skopje, mk
-rabotnicki,       FK Rabotnicki, mk
+rabotnicki,       FK Rabotnički|Rabotnički, mk
 renova,           FK Renova, mk
 shkendija,        FK Shkëndija 79, mk
 vardar,           FK Vardar, mk
 teteks,           FK Teteks, mk
 milano,           FK Milano, mk
 pelister,         FK Pelister, mk
+
+
 
 
 #####################################
@@ -118,7 +120,7 @@ zeta,      FK Zeta, me
 pljevlja,  FK Rudar Pljevlja, me
 petrovac,  OFK Petrovac, me
 niksic,    FK Čelik Nikšić, me
-sutjeska,  FK Sutjeska, me
+sutjeska,  FK Sutjeska|Sutjeska Nikšić, me
 
 
 ###################################
@@ -126,7 +128,7 @@ sutjeska,  FK Sutjeska, me
 
 kftirana,     KF Tirana, al
 dinamotirana, FK Dinamo Tirana, al
-skenderbeu,   KS Skënderbeu, al
+skenderbeu,   KS Skënderbeu|Skënderbeu Korçë, al
 flamurtari,   KS Flamurtari, al
 vllaznia,    KF Vllaznia, al
 besa,        KS Besa, al
@@ -151,7 +153,6 @@ olympiacosvolou, Olympiacos Volou FC, gr
 larissa,         Larissa FC, gr
 
 
-
 #############################
 # Cyprus (CYP), cy
 
@@ -163,14 +164,3 @@ limassol,        AEL Limassol FC, cy
 apollonlimassol, Apollon Limassol FC, cy
 kinyraspeyias,   APOP/Kinyras Peyias FC, cy
 
-
-###############################
-# Isreal (ISR), il
-
-hapoeltelaviv,     Hapoel Tel-Aviv FC,      il
-bneiyehudatelaviv, Bnei Yehuda Tel-Aviv FC, il
-maccabitelaviv,    Maccabi Tel-Aviv FC,     il
-haifa,             Maccabi Haifa FC,        il
-kiryatshmona,      Hapoel Kiryat Shmona FC, il
-netanya,           Maccabi Netanya FC,      il
-beitarjerusalem,   Beitar Jerusalem FC,     il

@@ -16,9 +16,10 @@ cskasofia,   PFC CSKA Sofia,   bg
 lokomotivsofia, PFC Lokomotiv Sofia, bg
 litexlovech,     PFC Litex Lovech, bg
 chernomorevarna, PFC Cherno More Varna, bg
-razgrad, Ludogorets|PFC Ludogorets Razgrad, bg    # todo: change key to ludogorets ??
+razgrad, Ludogorets|PFC Ludogorets Razgrad|Ludogorets Razgrad, bg    # todo: change key to ludogorets ??
 zagora, PFC Beroe Stara Zagora, bg
 plovdiv, PFC Lokomotiv Plovdiv 1936, bg
+
 
 
 
@@ -27,17 +28,18 @@ plovdiv, PFC Lokomotiv Plovdiv 1936, bg
 
 daciachisinau,  FC Dacia Chisinau, md
 zimbruchisinau, FC Zimbru Chisinau, md
-sheriff,        FC Sheriff,  md
+sheriff,        FC Sheriff|Sheriff Tiraspol,  md
 iskrastal,      FC Iskra-Stal, md
 orhei,          FC Milsami Orhei, md
 balti,          FC Olimpia Balti, md
 otaci,          FC Nistru Otaci, md
 
 
+
 ##########################
 # Belarus (BLR), by
 
-borissow,     BATE Borissow|BATE Borisov|Bate Borisov,           by, city:borisov
+borissow,     BATE Borissow|BATE Borisov|Bate Borisov|BATE Borisov,           by, city:borisov
 gomel,        FC Gomel, by
 dinamominsk,  FC Dinamo Minsk, by
 parizanminsk, FC Partizan Minsk, by
@@ -46,19 +48,6 @@ dneprmogilev, FC Dnepr Mogilev, by
 soligorsk,    FC Shakhtyor Soligorsk, by
 novopolotsk,  FC Naftan Novopolotsk, by
 zhodino,      FC Torpedo Zhodino, by
-
-
-############################
-# Kazakhstan (KAZ), kz
-
-aktobe,      FC Aktobe, kz
-karagandy,   Shakhter|FC Shakhter Karagandy, kz     # todo - change key to shakhter ??
-kostanay,    FC Tobol Kostanay, kz
-pavlodar,    FC Irtysh Pavlodar, kz
-shymkent,    FC Ordabasy Shymkent, kz
-atyrau,      FC Atyrau, kz
-taldykorgan, FC Zhetysu Taldykorgan, kz
-kokshetau,   FC Okzhetpes Kokshetau, kz
 
 
 ##############################
@@ -98,6 +87,4 @@ qarabag, Qarabağ FK, az
 lankaran,  Xäzär Länkäran FK, az
 suvalan,   Olimpik-Şüvälan PFK, az
 simurq,    Simurq PFK, az
-
-
 

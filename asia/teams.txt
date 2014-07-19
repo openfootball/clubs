@@ -1,0 +1,14 @@
+
+############################
+# Kazakhstan (KAZ), kz
+
+aktobe,      FC Aktobe, kz
+karagandy,   Shakhter|FC Shakhter Karagandy, kz     # todo - change key to shakhter ??
+kostanay,    FC Tobol Kostanay, kz
+pavlodar,    FC Irtysh Pavlodar, kz
+shymkent,    FC Ordabasy Shymkent, kz
+atyrau,      FC Atyrau, kz
+taldykorgan, FC Zhetysu Taldykorgan, kz
+kokshetau,   FC Okzhetpes Kokshetau, kz
+
+

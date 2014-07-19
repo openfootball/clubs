@@ -54,7 +54,7 @@ aalesunds,    Aalesunds FK, no
 stabaek,      Stabæk Fotball, no
 valerenga,    Vålerenga Fotball, no
 brann,        SK Brann, no
-stromsgodset, Strømsgodset IF, no
+stromsgodset, Strømsgodset IF|Strømsgodset, no
 fredrikstad,  Fredrikstad FK, no
 lillestrom,   Lillestrøm SK, no
 viking,       Viking FK, no
@@ -78,7 +78,7 @@ djurgardens,  Djurgårdens IF, se
 ################################
 # Finland (FIN), fi
 
-helsinki,    HJK Helsinki, fi
+helsinki,    HJK Helsinki|Helsingin Jalkapalloklubi|HJK, fi
 interturku,  FC Inter Turku, fi
 tpsturku,    TPS Turku, fi
 honkaespoo,  FC Honka Espoo, fi
@@ -111,7 +111,7 @@ suduva,    FK Sūduva, lt
 tauras,    FK Tauras, lt
 vetra,     FK Vėtra, lt
 siauliai,  FC Šiauliai, lt
-zalgiris,  VMFD Žalgiris, lt
+zalgiris,  VMFD Žalgiris|Žalgiris Vilnius, lt
 kaunas,    FBK Kaunas, lt
 banga,     FK Banga, lt
 
