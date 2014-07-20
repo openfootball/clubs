@@ -93,7 +93,7 @@ tampere,     Tampere United, fi
 #######################
 # Latvija (LVA), lv
 
-ventspils,  FK Ventspils, lv
+ventspils,  FK Ventspils|Ventspils, lv
 liepajas,   SK Liepājas Metalurgs, lv
 skonto,     Skonto FC, lv
 daugavpils, FC Daugava Daugavpils, lv

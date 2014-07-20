@@ -54,7 +54,7 @@ drogheda,      Drogheda United FC, ie
 
 linfield,     Linfield FC, nd
 glentoran,    Glentoran FC, nd
-cliftonville, Cliftonville FC, nd
+cliftonville, Cliftonville FC|Cliftonville, nd
 crusaders,    Crusaders FC, nd
 portadown,    Portadown FC, nd
 lisburn,      Lisburn Distillery FC, nd

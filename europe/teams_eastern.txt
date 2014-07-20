@@ -16,7 +16,7 @@ cskasofia,   PFC CSKA Sofia,   bg
 lokomotivsofia, PFC Lokomotiv Sofia, bg
 litexlovech,     PFC Litex Lovech, bg
 chernomorevarna, PFC Cherno More Varna, bg
-razgrad, Ludogorets|PFC Ludogorets Razgrad|Ludogorets Razgrad, bg    # todo: change key to ludogorets ??
+ludogorets,      Ludogorets|PFC Ludogorets Razgrad|Ludogorets Razgrad, bg
 zagora, PFC Beroe Stara Zagora, bg
 plovdiv, PFC Lokomotiv Plovdiv 1936, bg
 
@@ -54,7 +54,7 @@ zhodino,      FC Torpedo Zhodino, by
 # Georgia (GEO), ge
 
 zestafoni,      FC Zestafoni, ge
-dinamotbilisi, FC Dinamo Tbilisi, ge
+dinamotbilisi, FC Dinamo Tbilisi|Dinamo Tbilisi, ge
 rustavi,       FC Metalurgi Rustavi, ge
 gori,          FC Dila Gori, ge
 georgia,       FC WIT Georgia, ge
@@ -83,7 +83,7 @@ ararat,    FC Ararat, am
 bakufk,    Bakı FK, az
 interbaku, İnter Bakı PİK, az
 neftci,  Neftçi PFK, az
-qarabag, Qarabağ FK, az
+qarabag, Qarabağ FK|Qarabağ, az
 lankaran,  Xäzär Länkäran FK, az
 suvalan,   Olimpik-Şüvälan PFK, az
 simurq,    Simurq PFK, az

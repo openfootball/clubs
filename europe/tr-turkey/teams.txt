@@ -3,7 +3,7 @@
 
 galatasaray,   Galatasaray|Galatasaray Istanbul,    city:istanbul
 fenerbahce,    Fenerbahçe|Fenerbahçe SK|Fenerbahçe Spor Kulübü|Fenerbahçe Sports Club,  city:istanbul
-besiktas,      Beşiktaş JK
+besiktas,      Beşiktaş JK|Beşiktaş
 trabzonspor,   Trabzonspor AŞ
 bursaspor,     Bursaspor
 sivasspor,     Sivasspor
