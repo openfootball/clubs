@@ -1,4 +1,0 @@
-
-
-ch,    Super League
-ch.2,  Challenge League

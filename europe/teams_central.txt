@@ -12,8 +12,7 @@
 ###############################
 # Liechtenstein (LIE), li
 
-vaduz,  FC Vaduz|Vaduz, VAD, city:vaduz, li
-eschen, FC USV Eschen/Mauren, li
+eschen, FC USV Eschen/Mauren, li      ### check if plays in swiss leagues (3rd league promotion - if yes, move)???
 
 
 #############################
