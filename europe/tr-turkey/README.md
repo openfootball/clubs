@@ -1,8 +1,5 @@
 # Turkey (tr)
 
-## Links
-
-
 
 ## Questions? Comments?
 

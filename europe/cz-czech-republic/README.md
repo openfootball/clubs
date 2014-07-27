@@ -1,8 +1,5 @@
 # Czech Republic (cz)
 
-## Links
-
-
 
 
 ## Questions? Comments?

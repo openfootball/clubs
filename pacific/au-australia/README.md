@@ -1,13 +1,10 @@
-# Australia
+# Australia (au)
 
 
-## Links
 
-### Australia A-League
+## Questions? Comments?
 
-- 10 Teams
-
-#### Wikipedia
-
-- [2012–13_A-League](http://en.wikipedia.org/wiki/2012–13_A-League)
+Send them along to the
+[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
+Thanks!
 

@@ -58,3 +58,25 @@ cliftonville, Cliftonville FC|Cliftonville, nd
 crusaders,    Crusaders FC, nd
 portadown,    Portadown FC, nd
 lisburn,      Lisburn Distillery FC, nd
+
+
+##########################
+# Wales (WAL), wal
+#
+# note: welsh teams playing in the english leagues (e.g. premier league, championship etc.)
+#              listed in eng-england repo (!)
+
+newsaints,  The New Saints FC|The New Saints, wa
+bangorcity, Bangor City FC|Bangor City, wa
+llanelli,   Llanelli AFC, wa
+rhyl,       Rhyl FC, wa
+cefndruids, Cefn Druids AFC, wa
+neath,      Neath FC, wa
+porttalbot, Port Talbot Town FC, wa
+
+
+
+
+
+
+

@@ -1,9 +1,5 @@
 # Portugal (pt)
 
-## Links
-
-
-
 
 ## Questions? Comments?
 

@@ -1,11 +1,10 @@
-# New Zealand
+# New Zealand (nz)
 
-## Links
 
-### New Zealand Football Championship
 
-- 8 teams
+## Questions? Comments?
 
-#### Wikipedia
+Send them along to the
+[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
+Thanks!
 
-- [2012–13_ASB_Premiership](http://en.wikipedia.org/wiki/2012–13_ASB_Premiership)

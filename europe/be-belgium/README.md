@@ -1,8 +1,5 @@
 # Belgium (be)
 
-## Links
-
-
 
 
 ## Questions? Comments?

@@ -1,9 +1,5 @@
 # Russia (ru)
 
-## Links
-
-
-
 
 ## Questions? Comments?
 

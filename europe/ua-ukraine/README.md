@@ -1,8 +1,5 @@
 # Ukraine (ua)
 
-## Links
-
-
 
 ## Questions? Comments?
 
