@@ -1,0 +1,77 @@
+###########################
+#  Scottish Premiership
+
+
+## note; three letter codes from wikipedia
+
+[celtic]
+  Celtic|Celtic FC, 1887, CEL
+  // Glasgow
+  www.celticfc.net
+  wikipedia: Celtic_F.C.
+
+[motherwell]
+  Motherwell|Motherwell FC, 1886, MOT
+  // Motherwell
+  www.motherwellfc.co.uk
+  wikipedia: Motherwell_F.C.
+
+[dundeeunited]
+  Dundee United|Dundee Utd|Dundee United FC|Dundee Hibernian, 1909, DND
+  // Dundee
+  www.dundeeunitedfc.co.uk
+  wikipedia: Dundee_United_F.C.
+
+[aberdeen]
+  Aberdeen|Aberdeen FC, 1903, ABE
+  // Aberdeen
+  www.afc.co.uk
+  wikipedia: Aberdeen_F.C.
+
+[stjohnstone]
+  St Johnstone|Saint Johnstone FC|St. Johnstone, 1884, STJ
+  // Perth
+  www.perthstjohnstonefc.co.uk
+  wikipedia: St._Johnstone_F.C.
+
+[invernessct]
+  Inverness CT|Inverness Caledonian Thistle FC|Caley Thistle|ICT|The Caley Jags, 1994, INV
+  // Inverness
+  www.ictfc.com
+  wikipedia: Interness_Caledonian_Thistle_F.C.
+
+[dundee]
+  Dundee|Dundee FC, 1893, DUN
+  // Dundee
+  www.dundeefc.co.uk
+  wikipedia: Dundee_F.C.
+
+[kilmarnock]
+  Kilmarnock|Kilmarnock FC|Killie, 1869, KIL
+  // Kilmarnock
+  www.kilmarnockfc.co.uk
+  wikipedia: Kilmarnock_F.C.
+
+[partickthistle]
+  Partick Thistle|Partick Thistle FC|Jags, 1876, PAR
+  // Glasgow
+  www.ptfc.co.uk
+  wikipedia: Partick_Thistle_F.C.
+
+[rosscounty]
+  Ross County|Ross County FC, 1929, ROS
+  // Dingwall
+  www.rosscountyfootballclub.co.uk
+  wikipedia: Ross_County_F.C.
+
+[stmirren]
+  St Mirren|Saint Mirren FC|St. Mirren, 1877, STM
+  // Paisley
+  www.saintmirren.net
+  wikipedia: St._Mirren_F.C.
+
+[hamilton]
+  Hamilton Accies|Hamilton Academical FC|Hamilton, 1874, HAM
+  // Hamilton
+  www.acciesfc.co.uk
+  wikipedia: Hamilton_Academical_F.C.
