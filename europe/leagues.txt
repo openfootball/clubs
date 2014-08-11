@@ -27,6 +27,7 @@
 # tr, Süper Lig,              tr    # CL/GR, CL/3.QR, EL/4.QR, EL/3.QR, EL/2.QR  -- TUR / Turkey (11)
 # be, Belgian First League,   be   # CL/GR, CL/3.QR, EL/4.QR, EL/3.QR, EL/2.QR  -  BEL / Belgium (12)
 # cz, 1. Liga,                cz    # 16 Teams (1 CL, 2 EL, 2↓↑)  CL/2.QR, EL/3.QR, 2 EL/2.QR  -- CZE / Czech Republic (19)
+sc, Scottish Premiership,     sc    # CL/2.QR, EL/3.QR, 2 EL/2.QR  -- SCO / Scotland (18)
 
 
 ad, Primera Divisió,        ad    # 1 CL/1.QR, 2 EL/1.QR   --  AND / Andorra (52)
@@ -62,7 +63,6 @@ al, Kategoria Superiore,    al    # CL/2.QR, 3 EL/1.QR  -- ALB / Albania (44)
 
 # British Isles
 
-sc, Premier League,         sc    # CL/2.QR, EL/3.QR, 2 EL/2.QR  -- SCO / Scotland (18)
 wa, Premier League,         wa    # CL/2.QR, 3 EL/1.QR  -- WAL / Wales (46)
 nd, Premier League,         nr    # CL/2.QR, 3 EL/1.QR  -- NIR / Northern Irland (48)
 ie, Premier Division,       ie    # 12 Teams (1 CL, 2 EL, 1-2↓↑)  CL/2.QR, EL/2.QR, 2 EL/1.QR  -- IRL / Irland (33)

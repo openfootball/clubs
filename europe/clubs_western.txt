@@ -24,16 +24,18 @@ letzebuerg,   Racing FC Union Lëtzebuerg, lu
 ###################
 # Scotland (SCO), sc
 
-celtic,          Celtic|Celtic Glasgow,          sc, city:glasgow
-rangers,         Rangers FC,   sc
-midlothian,      Heart of Midlothian FC, sc
-motherwell,      Motherwell FC, sc
-dundeeunited,    Dundee United FC, sc
-hibernian,       Hibernian FC, sc
-aberdeen,        Aberdeen FC, sc
-saintjohnstone,  Saint Johnstone FC, sc
-falkirk,         Falkirk FC, sc
-queenofthesouth, Queen of the South FC, sc
+celtic,         Celtic|Celtic FC, sc, city:Glasgow
+motherwell,     Motherwell|Motherwell FC, sc
+dundeeunited,   Dundee United|Dundee Utd|Dundee United FC|Dundee Hibernian, sc, city:Dundee
+aberdeen,       Aberdeen|Aberdeen FC, sc, city:Aberdeen
+stjohnstone,    St Johnstone|Saint Johnstone FC|St. Johnstone, sc, city:Perth
+invernessct,    Inverness CT|Inverness Caledonian Thistle FC|Caley Thistle|ICT|The Caley Jags, sc, city:Inverness
+dundee,         Dundee|Dundee FC, sc, city:Dundee
+kilmarnock,     Kilmarnock|Kilmarnock FC|Killie, sc
+partickthistle, Partick Thistle|Partick Thistle FC|Jags, sc, city:Glasgow
+rosscounty,     Ross County|Ross County FC, sc
+stmirren,       St Mirren|Saint Mirren FC|St. Mirren, sc
+hamilton,       Hamilton Accies|Hamilton Academical FC|Hamilton, sc
 
 #######################
 # Irland (IRL), ie
