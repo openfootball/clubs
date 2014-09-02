@@ -7,6 +7,7 @@ africa/ma-morocco/clubs
 asia/cn-china/clubs
 asia/jp-japan/clubs
 asia/kr-south-korea/clubs
+asia/clubs
 
 caribbean/clubs
 
