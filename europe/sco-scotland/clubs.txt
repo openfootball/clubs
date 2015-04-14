@@ -4,6 +4,10 @@
 
 ## note; three letter codes from wikipedia
 
+##
+##  check w/ clubs_western (remove scottish clubs in clubs_western if duplicate; all others move here)
+
+
 [celtic]
   Celtic|Celtic FC, 1887, CEL
   // Glasgow

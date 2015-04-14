@@ -19,7 +19,7 @@ europe/nl-netherlands/clubs
 europe/pt-portugal/clubs
 europe/ro-romania/clubs
 europe/ru-russia/clubs
-europe/sc-scotland/clubs
+europe/sco-scotland/clubs
 europe/tr-turkey/clubs
 europe/ua-ukraine/clubs
 europe/clubs_central
