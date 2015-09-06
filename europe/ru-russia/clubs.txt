@@ -1,7 +1,7 @@
 #############################
 # Russia (RUS), ru
 
-zenit,        Zenit|Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg, city:stpetersburg
+zenit,        Zenit|Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg|Zenit Saint Petersburg, city:stpetersburg
 spartak,      Spartak Moskva|Spartak Moskau|Spartak Moscow,   city:moskva
 moskva,       CSKA Moskva|PFC CSKA Moskva|CSKA Moscow,  city:moskva
 lokomotiv,    FC Lokomotiv Moskva
