@@ -2,28 +2,37 @@
 # Russia (RUS), ru
 
 [lokomotiv]
-  Lokomotiv|Lokomotiv Moscow|FC Lokomotiv|FC Lokomotiv Moskva
+  Lokomotiv|Lokomotiv Moscow|FC Lokomotiv|FC Lokomotiv Moskva, 1923
   // Moskva
+  wikipedia: FC_Lokomotiv_Moscow
+  www.fclm.ru
+
+[cskamoskva]
+  CSKA Moskva|PFC CSKA Moskva|CSKA Moscow|PFK CSKA Moscow|CSKA|PFK CSCA, 1911
+  // Moskva
+  wikipedia: PFC_CSKA_Moscow
+  www.pfc-cska.com
+
+[dinamomoskva]
+  Dynamo|Dinamo|Dynamo Moscow|Dinamo Moscow|FC Dinamo Moskva, 1923
+  // Moskva
+  wikipedia: FC_Dynamo_Moscow
+  www.fcdynamo.ru
+
+[spartak]
+  Spartak|Spartak Moskva|Spartak Moskau|Spartak Moscow|FC Spartak, 1922
+  // Moskva
+  wikipedia: FC_Spartak_Moscow
+  www.spartak.com
 
 [fcmoskva]
   Moskva|FC Moskva
   // Moskva
 
-[cskamoskva]
-  CSKA Moskva|PFC CSKA Moskva|CSKA Moscow|PFK CSKA Moscow|CSKA|PFK CSCA
-  // Moskva
-
-[dinamomoskva]
-   Dynamo|Dinamo|Dynamo Moscow|Dinamo Moscow|FC Dinamo Moskva
-  // Moskva
-
-[spartak]
-  Spartak|Spartak Moskva|Spartak Moskau|Spartak Moscow|FC Spartak
-  // Moskva
-
 [torpedo]
   Torpedo|Torpedo Moscow
   // Moskva
+
 
 [zenit]
   Zenit|Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg|Zenit Saint Petersburg|FC Zenit Saint Petersburg
