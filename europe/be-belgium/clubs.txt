@@ -8,17 +8,7 @@
   wikipedia: R.S.C._Anderlecht
   www.rsca.be
 
-[genk]
-  Genk|KRC Genk|K.R.C. Genk|Koninklijke Racing Club Genk, 1988
-  // Genk    ## Limburg > Flanders
-  wikipedia: K.R.C._Genk
-  www.krcgenk.be
 
-[standardliege]
-  R. Standard de Liège|Standard Liège|Royal Standard de Liège, 1898
-  // Liège     ## Liège > Wallonia
-  wikipedia: Standard_Liège
-  www.standard.be
 
 [brugge]
   Club Brugge|Club Brugge KV|Club Brugge Koninklijke Voetbalvereniging, 1891
@@ -32,6 +22,24 @@
   wikipedia: Cercle_Brugge_K.S.V.
   www.cerclebrugge.be
 
+[oostende]
+  Oostende|KV Oostende|K.V. Oostende|Koninklijke Voetbalclub Oostende, 1981
+  // Ostend     ## West Flanders > Flanders
+  wikipedia: K.V._Oostende
+  www.kvo.be
+
+[zultewaregem]
+  Zulte Waregem|SV Zulte Waregem|S.V. Zulte Waregem|Sportvereniging Zulte Waregem, 1950
+  // Waregem    ## West Flanders > Flanders
+  wikipedia: S.V._Zulte_Waregem 
+  www.essevee.be
+
+[kortrijk]
+  Kortrijk|KV Kortrijk|K.V. Kortrijk|Koninklijke Voetbalclub Kortrijk, 1901
+  // Kortrijk      ## West Flanders > Flanders
+  wikipedia: K.V._Kortrijk
+  www.kvk.be
+
 [gent]
   Gent|K.A.A. Gent|KAA Gent|Koninklijke Atletiek Associatie Gent, 1864
   // Ghent    ## East Flanders > Flanders
@@ -44,17 +52,35 @@
   wikipedia: K.S.C._Lokeren_Oost-Vlaanderen
   www.sporting.be
 
+[waaslandbeveren]
+  Waasland-Beveren
+  // Beveren      ## East Flanders > Flanders
+  wikipedia: Waasland-Beveren
+  www.waasland-beveren.be
+
 [westerlo]
   Westerlo|KVC Westerlo|K.V.C. Westerlo|Koninklijke Voetbal Club Westerlo, 1933
   // Westerlo   ## Antwerp > Flanders
   wikipedia: K.V.C._Westerlo
   www.kvcwesterlo.be
 
-[oostende]
-  Oostende|KV Oostende|K.V. Oostende|Koninklijke Voetbalclub Oostende, 1981
-  // Ostend     ## West Flanders > Flanders
-  wikipedia: K.V._Oostende
-  www.kvo.be
+[mechelen]
+  Mechelen|KV Mechelen|Yellow Red Koninklijke Voetbalclub Mechelen, 1904
+  // Mechelen    ## Antwerp > Flanders
+  wikipedia: KV_Mechelen
+  www.kvmechelen.be  
+
+[genk]
+  Genk|KRC Genk|K.R.C. Genk|Koninklijke Racing Club Genk, 1988
+  // Genk    ## Limburg > Flanders
+  wikipedia: K.R.C._Genk
+  www.krcgenk.be
+
+[sinttruiden]
+  Sint-Truiden|K. Sint-Truidense VV
+  // Sint-Truiden     ## Limburg > Flanders
+  wikipedia: Sint-Truidense_V.V.
+  www.stvv.com 
 
 [leuven]
   Leuven|OH Leuven|Oud-Heverlee Leuven, 2002
@@ -62,11 +88,12 @@
   wikipedia: Oud-Heverlee_Leuven
   www.ohl.be
 
-[mechelen]
-  Mechelen|KV Mechelen|Yellow Red Koninklijke Voetbalclub Mechelen, 1904
-  // Mechelen    ## Antwerp > Flanders
-  wikipedia: KV_Mechelen
-  www.kvmechelen.be  
+
+[standardliege]
+  R. Standard de Liège|Standard Liège|Royal Standard de Liège, 1898
+  // Liège     ## Liège > Wallonia
+  wikipedia: Standard_Liège
+  www.standard.be
 
 [charleroi]
   Charleroi|R. Charleroi SC|Sporting Charleroi|Royal Charleroi Sporting Club
@@ -80,24 +107,3 @@
   wikipedia: Royal_Mouscron-Péruwelz
   www.rmp-foot.be
 
-
-
-[zultewaregem]
-  Zulte Waregem|SV Zulte Waregem|S.V. Zulte Waregem|Sportvereniging Zulte Waregem, 1950
-  // Waregem
-  wikipedia: S.V._Zulte_Waregem 
-
-[sinttruiden]
-  Sint-Truiden|K. Sint-Truidense VV
-  // Sint-Truiden
-  wikipedia: Sint-Truidense_V.V.
-
-[waaslandbeveren]
-  Waasland-Beveren
-  // Beveren
-  wikipedia: Waasland-Beveren
-
-[kortrijk]
-  Kortrijk|KV Kortrijk|K.V. Kortrijk|Koninklijke Voetbalclub Kortrijk, 1901
-  // Kortrijk
-  wikipedia: K.V._Kortrijk
