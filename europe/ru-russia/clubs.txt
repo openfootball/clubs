@@ -1,15 +1,38 @@
 #############################
 # Russia (RUS), ru
 
-zenit,        Zenit|Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg|Zenit Saint Petersburg, city:stpetersburg
-spartak,      Spartak Moskva|Spartak Moskau|Spartak Moscow,   city:moskva
-moskva,       CSKA Moskva|PFC CSKA Moskva|CSKA Moscow,  city:moskva
-lokomotiv,    FC Lokomotiv Moskva
-dinamomoskva, FC Dinamo Moskva
-fcmoskva,     FC Moskva
-rubinkazan,   Rubin Kazan|FC Rubin Kazan,                     city:kazan
-anzhi,        Anzhi Makhachkala|FC Anzhi Makhachkala,         city:makhachkala
-vladikavkaz,  FC Alania Vladikavkaz
-novosibirsk,  FC Sibir Novosibirsk
-amkarperm,    FC Amkar Perm
-samara,       PFC Krylya Sovetov Samara
+alaniia,            Alania| Alania Vladikavkaz,                                      city:Vladikovkaz
+amkar,              Amkar| Amkar Perm| FC Amkar Perm,                                city:Perm
+anzhi,              Anzhi| Anzhi Makhachkala | FC Anzhi Makhachkala,                 city:Makhachkala
+arsenal,            Arsenal| Arsenal Tula| FC Arsenal Tula,                          city:Tula
+chernomorets,       Chernomorets (N)|Chernomorets | Chernomorets Novorosisk,         city:Novorosisk
+cska,               CSKA| PFK CSCA| CSKA Moscow| PFK CSKA Moscow,                    city:Moscow
+dynamo,             Dynamo|Dinamo|Dynamo Moscow|Dinamo Moscow,                       city:Moscow
+khimki,             Khimki | FC Khimki,                                              city:Khimki
+krasnodar,          Krasnodar|FC Krasnodar|Krasnodar Krasnodar,                      city:Krasnodar
+krylia,             Krylia Sovetov|Kryl'ia Sovetov|Krylia Sovetov Samara,            city:Samara
+kuban,              Kuban| Kuban' |FC Kuban |Kuban Krasnodar,                        city:Krasnodar
+lokomotiv,          Lokomotiv|Lokomotiv Moscow| FC Lokomotiv,                        city:Moscow
+luch,               Luch |Luch Energia Vladivostok,                                  city:Vladivostok
+mordovia,           Mordovia|Mordovia Saransk | FC Mordovia,                         city:Saransk
+moskva,             Moskva| FC Moskva,                                               city:Moscow
+nalchik,            Spartak Nalchik| Nalchik,                                        city:Nalchik
+nizhnii,            Nizhnii Novgorod | Nizhny Novgorod,                              city:Nizhny Novgorod
+rostov,             Rostov|Rostov Rostov-on-Don| FC Rostov,                          city:Rostov-on-Don
+rotor,              Rotor,                                                           city:Volgograd
+rubin,              Rubin|Rubin Kazan,                                               city:Kazan
+saturn,             Saturn,                                                          city:Ramenskoe
+shinnik,            Shinnik,                                                         city:Yaroslavl
+sibir,              Sibir'| Sibir| FC Sibir,                                         city:Novosibirsk
+ska,                SKA-Energiia| SKA Energia,                                       city:Khabarovsk
+sokol,              Sokol,                                                           city:Saratov
+spartak,            Spartak| Spartak Moscow | FC Spartak,                            city:Moscow
+terek,              Terek|Terek Grozny,                                              city:Grozny
+tom,                Tom| Tom'| Tom Tomsk,                                            city:Tomsk
+torpedo,            Torpedo|Torpedo Moscow,                                          city:Moscow
+tosno,              Tosno,                                                           city:Tosno
+ufa,                Ufa|Ufa Ufa,                                                     city:Ufa
+ural,               Ural|Ural Yekaterinburg,                                         city:Yekaterinburg
+uralan,             Uralan,                                                          city:Elista
+volga,              Volga| Volga Nizhnii Novgorod,                                   city:Nizhny Novgorod
+zenit,              Zenit|Zenit St.Petersburg | FC Zenit Saint Petersburg,           city:St.Petersburg
