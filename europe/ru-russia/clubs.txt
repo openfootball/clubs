@@ -1,38 +1,78 @@
 #############################
 # Russia (RUS), ru
 
-alaniia,            Alania| Alania Vladikavkaz,                                      city:Vladikovkaz
-amkar,              Amkar| Amkar Perm| FC Amkar Perm,                                city:Perm
-anzhi,              Anzhi| Anzhi Makhachkala | FC Anzhi Makhachkala,                 city:Makhachkala
-arsenal,            Arsenal| Arsenal Tula| FC Arsenal Tula,                          city:Tula
-chernomorets,       Chernomorets (N)|Chernomorets | Chernomorets Novorosisk,         city:Novorosisk
-cska,               CSKA| PFK CSCA| CSKA Moscow| PFK CSKA Moscow,                    city:Moscow
-dynamo,             Dynamo|Dinamo|Dynamo Moscow|Dinamo Moscow,                       city:Moscow
-khimki,             Khimki | FC Khimki,                                              city:Khimki
-krasnodar,          Krasnodar|FC Krasnodar|Krasnodar Krasnodar,                      city:Krasnodar
-krylia,             Krylia Sovetov|Kryl'ia Sovetov|Krylia Sovetov Samara,            city:Samara
-kuban,              Kuban| Kuban' |FC Kuban |Kuban Krasnodar,                        city:Krasnodar
-lokomotiv,          Lokomotiv|Lokomotiv Moscow| FC Lokomotiv,                        city:Moscow
-luch,               Luch |Luch Energia Vladivostok,                                  city:Vladivostok
-mordovia,           Mordovia|Mordovia Saransk | FC Mordovia,                         city:Saransk
-moskva,             Moskva| FC Moskva,                                               city:Moscow
-nalchik,            Spartak Nalchik| Nalchik,                                        city:Nalchik
-nizhnii,            Nizhnii Novgorod | Nizhny Novgorod,                              city:Nizhny Novgorod
-rostov,             Rostov|Rostov Rostov-on-Don| FC Rostov,                          city:Rostov-on-Don
-rotor,              Rotor,                                                           city:Volgograd
-rubin,              Rubin|Rubin Kazan,                                               city:Kazan
-saturn,             Saturn,                                                          city:Ramenskoe
-shinnik,            Shinnik,                                                         city:Yaroslavl
-sibir,              Sibir'| Sibir| FC Sibir,                                         city:Novosibirsk
-ska,                SKA-Energiia| SKA Energia,                                       city:Khabarovsk
-sokol,              Sokol,                                                           city:Saratov
-spartak,            Spartak| Spartak Moscow | FC Spartak,                            city:Moscow
-terek,              Terek|Terek Grozny,                                              city:Grozny
-tom,                Tom| Tom'| Tom Tomsk,                                            city:Tomsk
-torpedo,            Torpedo|Torpedo Moscow,                                          city:Moscow
-tosno,              Tosno,                                                           city:Tosno
-ufa,                Ufa|Ufa Ufa,                                                     city:Ufa
-ural,               Ural|Ural Yekaterinburg,                                         city:Yekaterinburg
-uralan,             Uralan,                                                          city:Elista
-volga,              Volga| Volga Nizhnii Novgorod,                                   city:Nizhny Novgorod
-zenit,              Zenit|Zenit St.Petersburg | FC Zenit Saint Petersburg,           city:St.Petersburg
+[lokomotiv]
+  Lokomotiv|Lokomotiv Moscow|FC Lokomotiv|FC Lokomotiv Moskva
+  // Moskva
+
+[fcmoskva]
+  Moskva|FC Moskva
+  // Moskva
+
+[cskamoskva]
+  CSKA Moskva|PFC CSKA Moskva|CSKA Moscow|PFK CSKA Moscow|CSKA|PFK CSCA
+  // Moskva
+
+[dinamomoskva]
+   Dynamo|Dinamo|Dynamo Moscow|Dinamo Moscow|FC Dinamo Moskva
+  // Moskva
+
+[spartak]
+  Spartak|Spartak Moskva|Spartak Moskau|Spartak Moscow|FC Spartak
+  // Moskva
+
+[torpedo]
+  Torpedo|Torpedo Moscow
+  // Moskva
+
+[zenit]
+  Zenit|Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg|Zenit Saint Petersburg|FC Zenit Saint Petersburg
+  // St. Petersburg
+
+[rubinkazan]
+  Rubin Kazan|FC Rubin Kazan|Rubin
+  // Kazan
+
+[anzhi]
+  Anzhi Makhachkala|FC Anzhi Makhachkala|Anzhi
+  // Makhachkala
+
+[vladikavkaz]
+  FC Alania Vladikavkaz|Alania|Alania Vladikavkaz
+  // Vladikovkaz
+
+[novosibirsk]
+  FC Sibir Novosibirsk|Sibir'|Sibir|FC Sibir
+  // Novosibirsk
+
+[amkarperm]
+  FC Amkar Perm|Amkar|Amkar Perm
+  // Perm
+
+[samara]
+  PFC Krylya Sovetov Samara|Krylia Sovetov|Kryl'ia Sovetov|Krylia Sovetov Samara
+  // Samara
+
+
+arsenaltula,        Arsenal| Arsenal Tula| FC Arsenal Tula,                          // Tula
+chernomorets,       Chernomorets (N)|Chernomorets | Chernomorets Novorosisk,         // Novorosisk
+khimki,             Khimki | FC Khimki,                                              // Khimki
+krasnodar,          Krasnodar|FC Krasnodar|Krasnodar Krasnodar,                      // Krasnodar
+kuban,              Kuban| Kuban' |FC Kuban |Kuban Krasnodar,                        // Krasnodar
+luch,               Luch |Luch Energia Vladivostok,                                  // Vladivostok
+mordovia,           Mordovia|Mordovia Saransk | FC Mordovia,                         // Saransk
+nalchik,            Spartak Nalchik| Nalchik,                                        // Nalchik
+nizhnii,            Nizhnii Novgorod | Nizhny Novgorod,                              // Nizhny Novgorod
+rostov,             Rostov|Rostov Rostov-on-Don| FC Rostov,                          // Rostov-on-Don
+rotor,              Rotor,                                                           // Volgograd
+saturn,             Saturn,                                                          // Ramenskoe
+shinnik,            Shinnik,                                                         // Yaroslavl
+ska,                SKA-Energiia| SKA Energia,                                       // Khabarovsk
+sokol,              Sokol,                                                           // Saratov
+terek,              Terek|Terek Grozny,                                              // Grozny
+tom,                Tom| Tom'| Tom Tomsk,                                            // Tomsk
+tosno,              Tosno,                                                           // Tosno
+ufa,                Ufa|Ufa Ufa,                                                     // Ufa
+ural,               Ural|Ural Yekaterinburg,                                         // Yekaterinburg
+uralan,             Uralan,                                                          // Elista
+volga,              Volga| Volga Nizhnii Novgorod,                                   // Nizhny Novgorod
