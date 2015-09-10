@@ -2,7 +2,25 @@
 #  Eredivisie
 
 
-## todo: add cities
+#  Ajax|AFC Ajax
+# Heracles|Heracles Almelo
+# Feyenoord
+# Roda|Roda JC
+# Zwolle|PEC Zwolle
+# PSV Eindhoven|PSV
+# Vitesse
+# Heerenveen|sc Heerenveen
+# NEC Nijmegen|NEC
+# Utrecht|FC Utrecht
+# Den Haag|ADO Den Haag
+# Excelsior|SBV Excelsior
+# Groningen|FC Groningen
+# AZ Alkmaar|AZ
+# Willem II
+# Twente|FC Twente
+# Cambuur|SC Cambuur
+# De Graafschap
+
 
 ajax,         Ajax|Ajax Amsterdam,        city:amsterdam
 alkmaar,      AZ Alkmaar,                 city:alkmaar      ### NB: for now key must be at least three letters, thus, az will not work use alkmaar instead or should we use azalkmaar?
