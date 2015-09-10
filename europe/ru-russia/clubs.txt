@@ -35,28 +35,40 @@
 
 
 [zenit]
-  Zenit|Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg|Zenit Saint Petersburg|FC Zenit Saint Petersburg
+  Zenit|Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg|Zenit Saint Petersburg|FC Zenit Saint Petersburg, 1925
   // St. Petersburg
+  wikipedia: FC_Zenit_Saint_Petersburg
+  www.fc-zenit.ru
+
 
 [rubinkazan]
-  Rubin Kazan|FC Rubin Kazan|Rubin
-  // Kazan
+  Rubin Kazan|FC Rubin Kazan|Rubin, 1958
+  // Kazan     ##  Tatarstan (Republic of) > Volga (Federal District)
+  wikipedia: FC_Rubin_Kazan
+  www.rubinfc.com
+
+[amkarperm]
+  FC Amkar Perm|Amkar|Amkar Perm, 1994
+  // Perm      ##  Perm Krai  > Volga (Federal District)
+  wikipedia: FC_Amkar_Perm
+  www.fc-amkar.org
+
 
 [anzhi]
-  Anzhi Makhachkala|FC Anzhi Makhachkala|Anzhi
-  // Makhachkala
+  Anzhi Makhachkala|FC Anzhi Makhachkala|Anzhi, 1991
+  // Makhachkala      ## Dagestan (Republic of) >  North Caucasian (Federal District)  
+  wikipedia: FC_Anzhi_Makhachkala    
+  www.fc-anji.ru
 
-[vladikavkaz]
-  FC Alania Vladikavkaz|Alania|Alania Vladikavkaz
-  // Vladikovkaz
+
 
 [novosibirsk]
   FC Sibir Novosibirsk|Sibir'|Sibir|FC Sibir
   // Novosibirsk
 
-[amkarperm]
-  FC Amkar Perm|Amkar|Amkar Perm
-  // Perm
+[vladikavkaz]
+  FC Alania Vladikavkaz|Alania|Alania Vladikavkaz
+  // Vladikovkaz
 
 [samara]
   PFC Krylya Sovetov Samara|Krylia Sovetov|Kryl'ia Sovetov|Krylia Sovetov Samara
