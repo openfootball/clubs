@@ -1,15 +1,104 @@
 ##############################
 # Czech Republic (CZE), cz
 
-## fix: change key to spartapraha
 
-praha,       Sparta Praha|Sparta Prague|AC Sparta Praha|AC Sparta Prague,    city:praha
-slaviapraha, SK Slavia Praha
-plzen,       Plzeň|Viktoria Plzeň|FC Viktoria Plzeň,       city:plzen
-liberec,     FC Slovan Liberec
-boleslav,    FK Mladá Boleslav
-jablonec,    FK Jablonec
-ostrava,     FC Baník Ostrava
-olomouc,     SK Sigma Olomouc
-teplice,     FK Teplice
+[spartapraha]
+  Sparta Praha|Sparta Prague|AC Sparta Praha|AC Sparta Prague|Athletic Club Sparta Praha, 1893
+  // Praha
+  wikipedia: AC_Sparta_Prague
+  www.sparta.cz
+
+[slaviapraha]
+  Slavia Praha|SK Slavia Praha|Sportovní klub Slavia Praha, 1892
+  // Praha
+  wikipedia: SK_Slavia_Prague
+  www.slavia.cz
+
+[duklapraha]
+  Dukla|FK Dukla Praha, 1958
+  // Praha
+  wikipedia: FK_Dukla_Prague
+  www.fkdukla.cz
+
+[bohemians]
+  Bohemians 1905|Bohemians Praha 1905, 1905
+  // Praha
+  wikipedia: Bohemians_1905
+  www.bohemians.cz
+
+
+[boleslav]
+  Mladá Boleslav|FK Mladá Boleslav|Fotbalový klub Mladá Boleslav, 1902
+  // Mladá Boleslav   ## Central Bohemia
+  wikipedia: FK_Mladá_Boleslav
+  www.fkmb.cz  
+
+[pribram]
+  Příbram|1. FK Příbram, 1928
+  // Příbram      ## Central Bohemia
+  wikipedia: 1._FK_Příbram
+  www.fkpribram.cz
+
+
+[plzen]
+  Plzeň|Viktoria Plzeň|FC Viktoria Plzeň|Football Club Viktoria Plzeň, 1911
+  // Plzeň      ## Plzeň
+  wikipedia: FC_Viktoria_Plzeň
+  www.fcviktoria.cz
+
+[liberec]
+  Liberec|FC Slovan Liberec|Football Club Slovan Liberec, 1958
+  // Liberec    ## Liberec
+  wikipedia: FC_Slovan_Liberec
+  www.fcslovanliberec.cz
+
+[jablonec]
+  Jablonec|FK Jablonec, 1945
+  // Jablonec nad Nisou     ## Liberec
+  wikipedia: FK_Baumit_Jablonec
+  www.fkjablonec.cz
+
+
+[ostrava]
+  Baník|FC Baník Ostrava, 1922
+  // Ostrava      ## Moravian-Silesian
+  wikipedia: FC_Baník_Ostrava
+  www.fcb.cz
+
+[olomouc]
+  Sigma|SK Sigma Olomouc, 1919
+  // Olomouc     ## Olomouc
+  wikipedia: SK_Sigma_Olomouc
+  www.sigmafotbal.cz
+
+[teplice]
+  Teplice|FK Teplice, 1945 
+  // Teplice   ## Ústí nad Labem
+  wikipedia: FK_Teplice
+  www.fkteplice.cz 
+
+[slovacko]
+  Slovácko|1. FC Slovácko, 1927
+  // Uherské Hradiště    ## Zlín
+  wikipedia: 1._FC_Slovácko
+  www.fcslovacko.cz
+
+[zlin]
+  Zlín|FC Zlín, 1919
+  // Zlín     ## Zlín
+  wikipedia: FC_Fastav_Zlín
+  www.fcfastavzlin.cz
+
+[jihlava]
+  Jihlava|FC Vysočina Jihlava, 1948
+  // Jihlava  ## Vysočina
+  wikipedia: FC_Vysočina_Jihlava
+  www.fcvysocina.cz
+
+[brno]
+  Brno|FC Zbrojovka Brno, 1913
+  // Brno     ## South Moravia
+  wikipedia: FC_Zbrojovka_Brno
+  www.fczbrno.cz
+
 
