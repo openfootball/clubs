@@ -2,43 +2,136 @@
 #  Eredivisie
 
 
-#  Ajax|AFC Ajax
-# Heracles|Heracles Almelo
-# Feyenoord
-# Roda|Roda JC
-# Zwolle|PEC Zwolle
-# PSV Eindhoven|PSV
-# Vitesse
-# Heerenveen|sc Heerenveen
-# NEC Nijmegen|NEC
-# Utrecht|FC Utrecht
-# Den Haag|ADO Den Haag
-# Excelsior|SBV Excelsior
-# Groningen|FC Groningen
-# AZ Alkmaar|AZ
-# Willem II
-# Twente|FC Twente
-# Cambuur|SC Cambuur
-# De Graafschap
+[ajax]
+  Ajax|AFC Ajax|Ajax Amsterdam|Amsterdamsche Football Club Ajax, 1900
+  // Amsterdam   ## North Holland
+  wikipedia: AFC_Ajax
+  www.ajax.nl
+
+[alkmaar]        ## Note: for now key must be at least three letters, thus, az will not work use alkmaar instead or should we use azalkmaar?
+  AZ Alkmaar|AZ|Alkmaar Zaanstreek, 1967
+  // Alkmaar   ## North Holland
+  wikipedia: AZ_Alkmaar
+  www.az.nl  
 
 
-ajax,         Ajax|Ajax Amsterdam,        city:amsterdam
-alkmaar,      AZ Alkmaar,                 city:alkmaar      ### NB: for now key must be at least three letters, thus, az will not work use alkmaar instead or should we use azalkmaar?
+[denhaag]
+  ADO Den Haag|Den Haag|Alles Door Oefening Den Haag, 1905
+  // Den Haag     ## South Holland
+  wikipedia: ADO_Den_Haag
+  www.adodenhaag.nl
 
-denhaag,      ADO Den Haag|Den Haag
-groningen,    FC Groningen|Groningen
-twente,       FC Twente|Twente
-utrecht,      FC Utrecht|Utrecht
-zwolle,       PEC Zwolle
-feyenoord,    Feyenoord|Feyenoord Rotterdam
-heracles,     Heracles Almelo|Heracles
-breda,        NAC Breda
-nec,          NEC|NEC Nijmegen|Nijmegen Eendracht Combinatie|Nijmegen
-psv,          PSV|PSV Eindhoven|Philips Sport Vereniging
-waalwijk,     RKC Waalwijk|Waalwijk
-roda,         Roda JC|Roda JC Kerkrade|Roda Kerkrade|Roda
-heerenveen,   SC Heerenveen|Heerenveen
-vitesse,      Vitesse|Vitesse Arnhem
-venlo,        VVV-Venlo|Venlo
-willemii,     Willem II|Willem II Tilburg
+[feyenoord]
+  Feyenoord|Feyenoord Rotterdam, 1908
+  // Rotterdam    ## South Holland
+  wikipedia: Feyenoord
+  www.feyenoord.nl
 
+[excelsior]
+  Excelsior|SBV Excelsior|Stichting Betaald Voetbal Excelsior, 1902
+  // Rotterdam    ## South Holland
+  wikipedia: S.B.V._Excelsior
+  www.sbvexcelsior.nl
+
+
+[heracles]
+  Heracles Almelo|Heracles, 1903
+  // Almelo      ## Overijssel
+  wikipedia: Heracles_Almelo
+  www.heracles.nl
+
+[twente]
+  FC Twente|Twente|Football Club Twente, 1965
+  // Enschede      ## Overijssel
+  wikipedia: FC_Twente
+  www.fctwente.nl
+
+[zwolle]
+  Zwolle|PEC Zwolle|Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle, 1910
+  // Zwolle    ## Overijssel
+  wikipedia: PEC_Zwolle
+  www.peczwolle.nl
+
+
+[groningen]
+  FC Groningen|Groningen|Football Club Groningen, 1971
+  // Groningen    ## Groningen 
+  wikipedia: FC_Groningen
+  www.fcgroningen.nl
+
+[utrecht]
+  FC Utrecht|Utrecht|Football Club Utrecht, 1970
+  // Utrecht   ## Utrecht
+  wikipedia: FC_Utrecht
+  www.fcutrecht.nl
+
+
+
+[breda]
+  NAC Breda|NOAD ADVENDO Combinatie Breda, 1912
+  // Breda    ## North Brabant
+  wikipedia: NAC_Breda
+  www.nac.nl
+
+[nec]
+  NEC Nijmegen|Nijmegen Eendracht Combinatie|Nijmegen|NEC, 1900
+  // Nijmegen   ## Gelderland
+  wikipedia: N.E.C._(football_club)
+  www.nec-nijmegen.nl
+
+[vitesse]
+  Vitesse|Vitesse Arnhem|Stichting Betaald Voetbal Vitesse, 1892
+  // Arnhem    ## Gelderland
+  wikipedia: Vitesse
+  www.vitesse.nl
+
+[degraafschap]
+  De Graafschap|Vereniging Betaald Voetbal De Graafschap, 1954
+  // Doetinchem      ## Gelderland
+  wikipedia: De_Graafschap
+  www.degraafschap.nl
+
+
+[psv]
+  PSV Eindhoven|Philips Sport Vereniging|PSV, 1913
+  // Eindhoven    ## North Brabant
+  wikipedia: PSV_Eindhoven
+  www.psv.nl
+
+[waalwijk]
+  RKC Waalwijk|Waalwijk|Rooms Katholieke Combinatie Waalwijk, 1940
+  // Waalwijk    ## North Brabant 
+  wikipedia: RKC_Waalwijk
+  www.rkcwaalwijk.nl
+
+[willemii]
+  Willem II|Willem II Tilburg, 1896
+  // Tilburg   ## North Brabant
+  wikipedia: Willem_II_(football_club)
+  www.willem-ii.nl
+
+
+[roda]
+  Roda JC|Roda JC Kerkrade|Roda Kerkrade|Roda|Sportvereniging Roda Juliana Combinatie Kerkrade, 1962
+  // Kerkrade    ## Limburg
+  wikipedia: Roda_JC_Kerkrade
+  www.rodajc.nl
+
+[venlo]
+  VVV-Venlo|Venlo|Venlose Voetbal Vereniging Venlo, 1903
+  // Venlo   ## Limburg
+  wikipedia: VVV-Venlo
+  www.vvv-venlo.nl
+
+
+[heerenveen]
+  SC Heerenveen|Heerenveen|Sportclub Heerenveen, 1920
+  // Heerenveen    ## Friesland
+  wikipedia: SC_Heerenveen
+  www.sc-heerenveen.nl  
+
+[cambuur]
+  Cambuur|SC Cambuur, 1964
+  // Leeuwarden    ## Friesland
+  wikipedia: SC_Cambuur
+  www.cambuur.nl
