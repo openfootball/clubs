@@ -53,7 +53,7 @@
   www.sporting.be
 
 [waaslandbeveren]
-  Waasland-Beveren
+  Waasland-Beveren, 1936
   // Beveren      ## East Flanders > Flanders
   wikipedia: Waasland-Beveren
   www.waasland-beveren.be
@@ -77,7 +77,7 @@
   www.krcgenk.be
 
 [sinttruiden]
-  Sint-Truiden|K. Sint-Truidense VV
+  Sint-Truiden|K. Sint-Truidense VV|Koninklijke Sint-Truidense Voetbalvereniging, 1924
   // Sint-Truiden     ## Limburg > Flanders
   wikipedia: Sint-Truidense_V.V.
   www.stvv.com 
@@ -96,7 +96,7 @@
   www.standard.be
 
 [charleroi]
-  Charleroi|R. Charleroi SC|Sporting Charleroi|Royal Charleroi Sporting Club
+  Charleroi|R. Charleroi SC|Sporting Charleroi|Royal Charleroi Sporting Club, 1904
   // Charleroi    ## Hainaut > Wallonia
   wikipedia: R._Charleroi_S.C.
   www.sporting-charleroi.be
