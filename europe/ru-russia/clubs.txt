@@ -75,25 +75,25 @@
   // Samara
 
 
-arsenaltula,        Arsenal| Arsenal Tula| FC Arsenal Tula,                          // Tula
-chernomorets,       Chernomorets (N)|Chernomorets | Chernomorets Novorosisk,         // Novorosisk
-khimki,             Khimki | FC Khimki,                                              // Khimki
-krasnodar,          Krasnodar|FC Krasnodar|Krasnodar Krasnodar,                      // Krasnodar
-kuban,              Kuban| Kuban' |FC Kuban |Kuban Krasnodar,                        // Krasnodar
-luch,               Luch |Luch Energia Vladivostok,                                  // Vladivostok
-mordovia,           Mordovia|Mordovia Saransk | FC Mordovia,                         // Saransk
-nalchik,            Spartak Nalchik| Nalchik,                                        // Nalchik
-nizhnii,            Nizhnii Novgorod | Nizhny Novgorod,                              // Nizhny Novgorod
-rostov,             Rostov|Rostov Rostov-on-Don| FC Rostov,                          // Rostov-on-Don
-rotor,              Rotor,                                                           // Volgograd
-saturn,             Saturn,                                                          // Ramenskoe
-shinnik,            Shinnik,                                                         // Yaroslavl
-ska,                SKA-Energiia| SKA Energia,                                       // Khabarovsk
-sokol,              Sokol,                                                           // Saratov
-terek,              Terek|Terek Grozny,                                              // Grozny
-tom,                Tom| Tom'| Tom Tomsk,                                            // Tomsk
-tosno,              Tosno,                                                           // Tosno
-ufa,                Ufa|Ufa Ufa,                                                     // Ufa
-ural,               Ural|Ural Yekaterinburg,                                         // Yekaterinburg
-uralan,             Uralan,                                                          // Elista
-volga,              Volga| Volga Nizhnii Novgorod,                                   // Nizhny Novgorod
+arsenaltula,        Arsenal| Arsenal Tula| FC Arsenal Tula,             // Tula
+chernomorets,       Chernomorets | Chernomorets Novorosisk,             // Novorosisk
+khimki,             Khimki | FC Khimki,                                 // Khimki
+krasnodar,          Krasnodar|FC Krasnodar|Krasnodar Krasnodar,         // Krasnodar
+kuban,              Kuban| Kuban' |FC Kuban |Kuban Krasnodar,           // Krasnodar
+luch,               Luch |Luch Energia Vladivostok,                     // Vladivostok
+mordovia,           Mordovia|Mordovia Saransk | FC Mordovia,            // Saransk
+nalchik,            Spartak Nalchik| Nalchik,                           // Nalchik
+nizhnii,            Nizhnii Novgorod | Nizhny Novgorod,                 // Nizhny Novgorod
+rostov,             Rostov|Rostov Rostov-on-Don| FC Rostov,             // Rostov-on-Don
+rotor,              Rotor,                                              // Volgograd
+saturn,             Saturn,                                             // Ramenskoe
+shinnik,            Shinnik,                                            // Yaroslavl
+ska,                SKA-Energiia| SKA Energia,                          // Khabarovsk
+sokol,              Sokol,                                              // Saratov
+terek,              Terek|Terek Grozny,                                 // Grozny
+tom,                Tom| Tom'| Tom Tomsk,                               // Tomsk
+tosno,              Tosno,                                              // Tosno
+ufa,                Ufa|Ufa Ufa,                                        // Ufa
+ural,               Ural|Ural Yekaterinburg,                            // Yekaterinburg
+uralan,             Uralan,                                             // Elista
+volga,              Volga| Volga Nizhnii Novgorod,                      // Nizhny Novgorod
