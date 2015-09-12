@@ -52,7 +52,6 @@ sk, Superliga,              sk    # CL/2.QR, 2 EL/2.QR, EL/1.QR  -- SVK / Slovak
 si, 1. Liga,                si    # CL/2.QR, EL/2.QR, 2 EL/1.QR  -- SVN / Slovenia (34)
 
 
-bg, A PFG,                  bg    # CL/2.QR, EL/2.QR, 2 EL/1.QR  -- BUL / Bulgaria (28)
 rs, Superliga,              rs    # CL/2.QR, 2 EL/2.QR, EL/1.QR  -- SRB / Serbia (27)
 ba, Premijer Liga,          ba    # CL/2.QR, EL/2.QR, 2 EL/1.QR  -- BIH / Bosnia and Herzegovina (32)
 md, Divizia Nationala,      md    # 12 Teams (1 CL, 2 EL, 2↓↑)  CL/2.QR, 3 EL/1.QR  -- MDA / Moldova (36)

@@ -1,0 +1,80 @@
+##############################
+# Bulgaria (BUL), bg
+
+
+[levskisofia]
+  Levski|PFC Levski Sofia|Professional Football Club Levski Sofia, 1914 
+  // Sofia
+  wikipedia: PFC_Levski_Sofia
+  www.levski.bg
+
+[slaviasofia]
+  Slavia Sofia|PFC Slavia Sofia|Professional Football Club Slavia Sofia, 1913
+  // Sofia
+  wikipedia: PFC_Slavia_Sofia
+  www.pfcslavia.com
+
+[cskasofia]
+  PFC CSKA Sofia, 1948
+  // Sofia
+  wikipedia: PFC_CSKA_Sofia
+  www.cska.bg
+
+[lokomotivsofia]
+  PFC Lokomotiv Sofia, 1929
+  // Sofia
+  wikipedia: PFC_Lokomotiv_Sofia
+
+
+[botevplovdiv]
+  Botev Plovdiv|PFC Botev Plovdiv, 1912
+  // Plovdiv   ## Plovdiv
+  wikipedia: PFC_Botev_Plovdiv
+  www.botevplovdiv.bg
+  
+[lokomotivplovdiv]
+  Lokomotiv Plovdiv|PFC Lokomotiv Plovdiv 1936, 1926
+  // Plovdiv   ## Plovdiv
+  wikipedia: PFC_Lokomotiv_Plovdiv
+  www.lokomotivpd.com
+
+
+
+[litexlovech]
+  Litex|PFC Litex Lovech|Professional Football Club Litex Lovech, 1921
+  // Lovech    ## Lovech
+  wikipedia: PFC_Litex_Lovech
+  www.pfclitex.com
+
+[chernomore]
+  Cherno More|PFC Cherno More Varna, 1913
+  // Varna      ## Varna
+  wikipedia: PFC_Cherno_More_Varna
+  www.chernomorepfc.bg
+
+[ludogorets]
+  Ludogorets|PFC Ludogorets Razgrad|Ludogorets Razgrad|Professional Football Club Ludogorets Razgrad, 1945 
+  // Razgrad   ## Razgrad
+  wikipedia: PFC_Ludogorets_Razgrad
+  www.ludogorets.com
+
+[beroe]
+  Beroe|PFC Beroe Stara Zagora|Professional Football Club Beroe, 1916
+  // Stara Zagora   ## Stara Zagora
+  wikipedia: PFC_Beroe_Stara_Zagora
+  www.beroe.bg
+
+
+[montana]
+  Montana|PFC Montana 1921|Professional Football Club Montana, 1921
+  // Montana        ## Montana
+  wikipedia: PFC_Montana
+  
+
+[blagoevgrad]    ## note: merged two clubs in 2009; PFC Pirin Blagoevgrad only "historic" name 
+  Blagoevgrad|FC Pirin Blagoevgrad|PFC Pirin Blagoevgrad, 1922  
+  // Blagoevgrad     ## Blagoevgrad
+  wikipedia: FC_Pirin_Blagoevgrad
+
+  
+

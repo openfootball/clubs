@@ -7,19 +7,7 @@
 #  use ua/teams.txt for Ukrainian Teams
 #  use ro/teams.txt for Romanian Teams
 
-
-##############################
-# Bulgaria (BUL), bg
-
-levskisofia, PFC Levski Sofia,  bg
-cskasofia,   PFC CSKA Sofia,   bg
-lokomotivsofia, PFC Lokomotiv Sofia, bg
-litexlovech,     PFC Litex Lovech, bg
-chernomorevarna, PFC Cherno More Varna, bg
-ludogorets,      Ludogorets|PFC Ludogorets Razgrad|Ludogorets Razgrad, bg
-zagora, PFC Beroe Stara Zagora, bg
-plovdiv, PFC Lokomotiv Plovdiv 1936, bg
-
+#  use bg-bulgaria/clubs.txt
 
 
 

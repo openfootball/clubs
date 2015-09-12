@@ -14,6 +14,7 @@ caribbean/clubs
 central-america/clubs
 
 europe/be-belgium/clubs
+europe/bg-bulgaria/clubs
 europe/cz-czech-republic/clubs
 europe/nl-netherlands/clubs
 europe/pt-portugal/clubs
