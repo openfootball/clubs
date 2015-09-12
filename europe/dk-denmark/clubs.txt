@@ -1,0 +1,84 @@
+###########################
+# Denmark (DEN), dk
+
+
+[kobenhavn]
+  København|FC København|Football Club København|FC Copenhagen, 1992
+  // København    ## Hovedstaden
+  wikipedia: F.C._Copenhagen
+  www.fck.dk
+
+[nordsjalland]
+  FC Nordsjælland|Nordsjælland|Football Club Nordsjælland, 1991
+  // Farum     ## Hovedstaden
+  wikipedia: FC_Nordsjælland
+  www.fcn.dk
+
+[brondby]
+  Brøndby|Brøndby IF|Brøndbyernes Idrætsforening, 1964
+  // Brøndby    ## Hovedstaden
+  wikipedia: Brøndby_IF
+  www.brondby.com
+
+
+[aalborg]
+  Aalborg BK|AaB|Aalborg Boldspilklub, 1885
+  // Aalborg    ## Nordjylland
+  wikipedia: AaB_Fodbold
+  fodbold.aabsport.dk
+
+[hobro]
+  Hobro|Hobro IK|Hobro Idræts Klub, 1913
+  // Hobro   ## Nordjylland 
+  wikipedia: Hobro_IK
+  www.hikfodbold.dk
+
+
+[midtjylland]
+  Midtjylland|FC Midtjylland|Football Club Midtjylland, 1999
+  // Herning   ## Midtjylland
+  wikipedia: FC_Midtjylland  
+  www.fcm.dk
+
+[aarhus]
+  AGF Aarhus|AGF|Aarhus Gymnastikforening, 1880
+  // Aarhus    ##  Midtjylland 
+  wikipedia: Aarhus_Gymnastikforening
+  www.agf.dk
+
+[viborg]
+  Viborg|Viborg FF|Viborg Fodsports Forening, 1896
+  // Viborg    ## Midtjylland
+  wikipedia: Viborg_FF
+  www.vff.dk
+
+
+[randers]
+  Randers|Randers FC|Randers Football Club, 2003
+  // Randers   ## Østjylland
+  wikipedia: Randers_FC
+  www.randersfc.dk
+
+
+[sonderjyske]
+  SønderjyskE|Sønderjysk Elitesport, 2004
+  // Haderslev   ## Syddanmark 
+  wikipedia: SønderjyskE_Fodbold
+  www.soenderjyske.dk
+
+[odense]
+  Odense BK|OB|Odense Boldklub, 1887 
+  // Odense    ## Syddanmark
+  wikipedia: Odense_Boldklub
+  www.ob.dk
+
+[esbjerg]
+  Esbjerg|Esbjerg fB|Esbjerg forenede Boldklubber, 1924
+  // Esbjerg   ## Syddanmark 
+  wikipedia: Esbjerg_fB
+  www.efb.dk
+
+
+[horsens]
+  AC Horsens
+

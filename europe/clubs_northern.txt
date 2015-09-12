@@ -30,19 +30,6 @@ vikingur,     Víkingur, fo
 fuglafjordur, ÍF Fuglafjørdur, fo
 
 
-###########################
-# Denmark (DEN), dk
-
-nordsjalland, FC Nordsjælland|Nordsjælland,      dk, city:farum
-kobenhavn,    FC København|FC Copenhagen,   dk
-aalborg,      Aalborg BK,     dk
-odense,       Odense BK,      dk
-brondby,      Brøndby IF,     dk
-midtjylland,  FC Midtjylland, dk
-randers,      Randers FC,     dk
-horsens,      AC Horsens,     dk
-aarhus,       AGF Aarhus,     dk
-
 
 ##############################
 # Norway (NOR), no

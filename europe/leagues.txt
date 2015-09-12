@@ -79,7 +79,6 @@ ee, Meistriliiga,           ee    # CL/2.QR, 3 EL/1.QR  -- EST / Estonia (47)
 is, Urvalsdeild,              is  # CL/2.QR, 3 EL/1.QR  -- ISL / Iceland (41)
 fo, Faroese Premier Division, fo  # CL/1.QR, 3 EL/1.QR  -- FRO / Faroe Islands (51)
 
-dk, Superligaen,            dk    # CL/GR, CL/3.QR, EL/4.QR, EL/3.QR, EL/2.QR  -- DEN / Denmark (13)
 
 
 # South Caucasus
