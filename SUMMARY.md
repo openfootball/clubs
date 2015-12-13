@@ -3,7 +3,7 @@
 ### Clubs
 
 
-**[africa/eg-egypt/clubs.txt}](africa/eg-egypt/clubs.txt)** _(18)_ -- 
+**[africa/eg-egypt/clubs.txt](africa/eg-egypt/clubs.txt)** _(18)_ -- 
 Al Ahly •
 Zamalek •
 Ismaily •
@@ -25,12 +25,12 @@ Wadi Degla
 
 
 
-**[africa/ma-morocco/clubs.txt}](africa/ma-morocco/clubs.txt)** _(1)_ -- 
+**[africa/ma-morocco/clubs.txt](africa/ma-morocco/clubs.txt)** _(1)_ -- 
 Raja Casablanca
 
 
 
-**[asia/clubs.txt}](asia/clubs.txt)** _(9)_ -- 
+**[asia/clubs.txt](asia/clubs.txt)** _(9)_ -- 
 Astana _(kz)_ •
 FC Aktobe _(kz)_ •
 Shakhter _(kz)_ •
@@ -43,12 +43,12 @@ FC Okzhetpes Kokshetau _(kz)_
 
 
 
-**[asia/cn-china/clubs.txt}](asia/cn-china/clubs.txt)** _(1)_ -- 
+**[asia/cn-china/clubs.txt](asia/cn-china/clubs.txt)** _(1)_ -- 
 Guangzhou Evergrande
 
 
 
-**[asia/jp-japan/clubs.txt}](asia/jp-japan/clubs.txt)** _(18)_ -- 
+**[asia/jp-japan/clubs.txt](asia/jp-japan/clubs.txt)** _(18)_ -- 
 Albirex Niigata •
 Kashima Antlers •
 Omiya Ardija •
@@ -70,7 +70,7 @@ Ventforet Kofu
 
 
 
-**[asia/kr-south-korea/clubs.txt}](asia/kr-south-korea/clubs.txt)** _(14)_ -- 
+**[asia/kr-south-korea/clubs.txt](asia/kr-south-korea/clubs.txt)** _(14)_ -- 
 Busan I'Park •
 Chunnam Dragons •
 Daegu FC •
@@ -88,7 +88,7 @@ Ulsan Hyundai
 
 
 
-**[caribbean/clubs.txt}](caribbean/clubs.txt)** _(5)_ -- 
+**[caribbean/clubs.txt](caribbean/clubs.txt)** _(5)_ -- 
 Caledonia _(tt)_ •
 W Connection _(tt)_ •
 Puerto Rico Islanders _(pr)_ •
@@ -97,7 +97,7 @@ Valencia _(ht)_
 
 
 
-**[central-america/clubs.txt}](central-america/clubs.txt)** _(23)_ -- 
+**[central-america/clubs.txt](central-america/clubs.txt)** _(23)_ -- 
 Metapán _(sv)_ •
 Águila _(sv)_ •
 CD FAS _(sv)_ •
@@ -124,7 +124,7 @@ R. Estelí _(ni)_
 
 
 
-**[europe/be-belgium/clubs.txt}](europe/be-belgium/clubs.txt)** _(17)_ -- 
+**[europe/be-belgium/clubs.txt](europe/be-belgium/clubs.txt)** _(17)_ -- 
 Anderlecht •
 Club Brugge •
 Cercle Brugge KSV •
@@ -145,7 +145,7 @@ Mouscron-Péruwelz
 
 
 
-**[europe/bg-bulgaria/clubs.txt}](europe/bg-bulgaria/clubs.txt)** _(12)_ -- 
+**[europe/bg-bulgaria/clubs.txt](europe/bg-bulgaria/clubs.txt)** _(12)_ -- 
 Levski •
 Slavia Sofia •
 PFC CSKA Sofia •
@@ -161,7 +161,7 @@ Blagoevgrad
 
 
 
-**[europe/clubs_central.txt}](europe/clubs_central.txt)** _(36)_ -- 
+**[europe/clubs_central.txt](europe/clubs_central.txt)** _(36)_ -- 
 FC USV Eschen/Mauren _(li)_ •
 KKS Lech Poznań _(pl)_ •
 Wisła Kraków _(pl)_ •
@@ -201,7 +201,7 @@ NK Celje _(si)_
 
 
 
-**[europe/clubs_eastern.txt}](europe/clubs_eastern.txt)** _(37)_ -- 
+**[europe/clubs_eastern.txt](europe/clubs_eastern.txt)** _(37)_ -- 
 FC Dacia Chisinau _(md)_ •
 FC Zimbru Chisinau _(md)_ •
 FC Sheriff _(md)_ •
@@ -242,7 +242,7 @@ Simurq PFK _(az)_
 
 
 
-**[europe/clubs_northern.txt}](europe/clubs_northern.txt)** _(68)_ -- 
+**[europe/clubs_northern.txt](europe/clubs_northern.txt)** _(68)_ -- 
 KR Reykjavík _(is)_ •
 Fram Reykjavík _(is)_ •
 Valur Reykjavík _(is)_ •
@@ -314,7 +314,7 @@ JK Sillamäe Kalev _(ee)_
 
 
 
-**[europe/clubs_southern.txt}](europe/clubs_southern.txt)** _(91)_ -- 
+**[europe/clubs_southern.txt](europe/clubs_southern.txt)** _(91)_ -- 
 Valletta FC _(mt)_ •
 Birkirkara FC _(mt)_ •
 Floriana FC _(mt)_ •
@@ -409,7 +409,7 @@ APOP/Kinyras Peyias FC _(cy)_
 
 
 
-**[europe/clubs_western.txt}](europe/clubs_western.txt)** _(41)_ -- 
+**[europe/clubs_western.txt](europe/clubs_western.txt)** _(41)_ -- 
 F91 Dudelange _(lu)_ •
 FC Differdange 03 _(lu)_ •
 AS Jeunesse Esch _(lu)_ •
@@ -454,7 +454,7 @@ Port Talbot Town FC _(wal)_
 
 
 
-**[europe/cz-czech-republic/clubs.txt}](europe/cz-czech-republic/clubs.txt)** _(16)_ -- 
+**[europe/cz-czech-republic/clubs.txt](europe/cz-czech-republic/clubs.txt)** _(16)_ -- 
 Sparta Praha •
 Slavia Praha •
 Dukla •
@@ -474,7 +474,7 @@ Brno
 
 
 
-**[europe/dk-denmark/clubs.txt}](europe/dk-denmark/clubs.txt)** _(13)_ -- 
+**[europe/dk-denmark/clubs.txt](europe/dk-denmark/clubs.txt)** _(13)_ -- 
 København •
 FC Nordsjælland •
 Brøndby •
@@ -491,7 +491,7 @@ AC Horsens
 
 
 
-**[europe/nl-netherlands/clubs.txt}](europe/nl-netherlands/clubs.txt)** _(21)_ -- 
+**[europe/nl-netherlands/clubs.txt](europe/nl-netherlands/clubs.txt)** _(21)_ -- 
 Ajax •
 AZ Alkmaar •
 ADO Den Haag •
@@ -516,7 +516,7 @@ Cambuur
 
 
 
-**[europe/pt-portugal/clubs.txt}](europe/pt-portugal/clubs.txt)** _(10)_ -- 
+**[europe/pt-portugal/clubs.txt](europe/pt-portugal/clubs.txt)** _(10)_ -- 
 Porto •
 Braga •
 Benfica •
@@ -530,7 +530,7 @@ Vitória FC
 
 
 
-**[europe/ro-romania/clubs.txt}](europe/ro-romania/clubs.txt)** _(18)_ -- 
+**[europe/ro-romania/clubs.txt](europe/ro-romania/clubs.txt)** _(18)_ -- 
 Dinamo București •
 Rapid București •
 Steaua •
@@ -552,7 +552,7 @@ Viitorul Constanta
 
 
 
-**[europe/ru-russia/clubs.txt}](europe/ru-russia/clubs.txt)** _(35)_ -- 
+**[europe/ru-russia/clubs.txt](europe/ru-russia/clubs.txt)** _(35)_ -- 
 Lokomotiv •
 CSKA Moskva •
 Dynamo •
@@ -591,7 +591,7 @@ Volga
 
 
 
-**[europe/sco-scotland/clubs.txt}](europe/sco-scotland/clubs.txt)** _(12)_ -- 
+**[europe/sco-scotland/clubs.txt](europe/sco-scotland/clubs.txt)** _(12)_ -- 
 Celtic •
 Motherwell •
 Dundee United •
@@ -607,7 +607,7 @@ Hamilton Accies
 
 
 
-**[europe/tr-turkey/clubs.txt}](europe/tr-turkey/clubs.txt)** _(9)_ -- 
+**[europe/tr-turkey/clubs.txt](europe/tr-turkey/clubs.txt)** _(9)_ -- 
 Galatasaray •
 Fenerbahçe •
 Beşiktaş JK •
@@ -620,7 +620,7 @@ Kayserispor
 
 
 
-**[europe/ua-ukraine/clubs.txt}](europe/ua-ukraine/clubs.txt)** _(9)_ -- 
+**[europe/ua-ukraine/clubs.txt](europe/ua-ukraine/clubs.txt)** _(9)_ -- 
 Dynamo Kiew •
 Shakhtar Donetsk •
 FC Metalurh Donetsk •
@@ -633,7 +633,7 @@ FC Arsenal Kyiv
 
 
 
-**[middle-east/clubs.txt}](middle-east/clubs.txt)** _(7)_ -- 
+**[middle-east/clubs.txt](middle-east/clubs.txt)** _(7)_ -- 
 Hapoel Tel-Aviv FC _(il)_ •
 Bnei Yehuda Tel-Aviv FC _(il)_ •
 Maccabi Tel-Aviv FC _(il)_ •
@@ -644,7 +644,7 @@ Beitar Jerusalem FC _(il)_
 
 
 
-**[pacific/au-australia/clubs.txt}](pacific/au-australia/clubs.txt)** _(9)_ -- 
+**[pacific/au-australia/clubs.txt](pacific/au-australia/clubs.txt)** _(9)_ -- 
 Adelaide United •
 Brisbane Roar •
 Central Coast Mariners •
@@ -657,7 +657,7 @@ Western Sydney Wanderers
 
 
 
-**[pacific/nz-new-zealand/clubs.txt}](pacific/nz-new-zealand/clubs.txt)** _(9)_ -- 
+**[pacific/nz-new-zealand/clubs.txt](pacific/nz-new-zealand/clubs.txt)** _(9)_ -- 
 Auckland City •
 Canterbury United •
 Hawke's Bay United •
@@ -670,7 +670,7 @@ Wellington Phoenix
 
 
 
-**[south-america/ar-argentina/clubs.txt}](south-america/ar-argentina/clubs.txt)** _(20)_ -- 
+**[south-america/ar-argentina/clubs.txt](south-america/ar-argentina/clubs.txt)** _(20)_ -- 
 All Boys •
 Argentions •
 Boca •
@@ -694,7 +694,7 @@ San Martín
 
 
 
-**[south-america/bo-bolivia/clubs.txt}](south-america/bo-bolivia/clubs.txt)** _(5)_ -- 
+**[south-america/bo-bolivia/clubs.txt](south-america/bo-bolivia/clubs.txt)** _(5)_ -- 
 Bolívar _(bo)_ •
 Strongest _(bo)_ •
 Real Potosí _(bo)_ •
@@ -703,7 +703,7 @@ Oriente Petrolero _(bo)_
 
 
 
-**[south-america/cl-chile/clubs.txt}](south-america/cl-chile/clubs.txt)** _(5)_ -- 
+**[south-america/cl-chile/clubs.txt](south-america/cl-chile/clubs.txt)** _(5)_ -- 
 Universidad de Chile _(cl)_ •
 Universidad Católica _(cl)_ •
 Unión Española _(cl)_ •
@@ -712,12 +712,12 @@ Iquique _(cl)_
 
 
 
-**[south-america/clubs.txt}](south-america/clubs.txt)** _(1)_ -- 
+**[south-america/clubs.txt](south-america/clubs.txt)** _(1)_ -- 
 Alpha United _(gy)_
 
 
 
-**[south-america/co-colombia/clubs.txt}](south-america/co-colombia/clubs.txt)** _(6)_ -- 
+**[south-america/co-colombia/clubs.txt](south-america/co-colombia/clubs.txt)** _(6)_ -- 
 Millonarios Bogotá •
 Santa Fe •
 At. Nacional •
@@ -727,7 +727,7 @@ Deportes Tolima
 
 
 
-**[south-america/ec-ecuador/clubs.txt}](south-america/ec-ecuador/clubs.txt)** _(6)_ -- 
+**[south-america/ec-ecuador/clubs.txt](south-america/ec-ecuador/clubs.txt)** _(6)_ -- 
 Deportivo Quito _(ec)_ •
 El Nacional _(ec)_ •
 LDU Quito _(ec)_ •
@@ -737,7 +737,7 @@ LDU Loja _(ec)_
 
 
 
-**[south-america/pe-peru/clubs.txt}](south-america/pe-peru/clubs.txt)** _(6)_ -- 
+**[south-america/pe-peru/clubs.txt](south-america/pe-peru/clubs.txt)** _(6)_ -- 
 Alianza Lima _(pe)_ •
 Sporting Cristal _(pe)_ •
 Juan Aurich _(pe)_ •
@@ -747,7 +747,7 @@ Universidad César Vallejo _(pe)_
 
 
 
-**[south-america/py-paraguay/clubs.txt}](south-america/py-paraguay/clubs.txt)** _(4)_ -- 
+**[south-america/py-paraguay/clubs.txt](south-america/py-paraguay/clubs.txt)** _(4)_ -- 
 Club Libertad Asunción _(py)_ •
 Olimpia _(py)_ •
 Nacional _(py)_ •
@@ -755,7 +755,7 @@ Cerro Porteño _(py)_
 
 
 
-**[south-america/uy-uruguay/clubs.txt}](south-america/uy-uruguay/clubs.txt)** _(16)_ -- 
+**[south-america/uy-uruguay/clubs.txt](south-america/uy-uruguay/clubs.txt)** _(16)_ -- 
 Liverpool •
 Nacional •
 Defensor •
@@ -775,7 +775,7 @@ Sud América
 
 
 
-**[south-america/ve-venezuela/clubs.txt}](south-america/ve-venezuela/clubs.txt)** _(18)_ -- 
+**[south-america/ve-venezuela/clubs.txt](south-america/ve-venezuela/clubs.txt)** _(18)_ -- 
 Caracas •
 Dvo. La Guaira •
 Dvo. Petare •
