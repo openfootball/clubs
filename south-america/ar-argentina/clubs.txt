@@ -6,7 +6,7 @@
 
 
 allboys,       All Boys|Club Atlético All Boys, city:buenosaires
-argentinos,    Argentions|Argentinos Jrs|Asociación Atlética Argentinos Juniors, city:buenosaires
+argentinos,    Argentinos|Argentinos Jrs|Asociación Atlética Argentinos Juniors, city:buenosaires
 bocajuniors,   Boca|Boca Jrs|Boca Juniors|Club Atlético Boca Juniors, city:buenosaires
 riverplate,    River|River Plate|Club Atlético River Plate,  city:buenosaires
 sanlorenzo,    San Lorenzo|CA San Lorenzo de Almagro|Club Atlético San Lorenzo de Almagro,  city:buenosaires
