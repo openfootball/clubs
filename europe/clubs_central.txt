@@ -20,7 +20,7 @@ eschen, FC USV Eschen/Mauren, li      ### check if plays in swiss leagues (3rd l
 
 poznan,        KKS Lech Poznań,  pl
 krakow,        Wisła Kraków, pl
-legiawarszawa, Legia|Legia Warszawa, pl      # todo: change key to legia ??
+legiawarszawa, Legia|Legia Warszawa|Legia Warsaw, pl      # todo: change key to legia ??
 wroclaw,       WKS Śląsk Wrocław, pl
 chorzow,       Ruch Chorzów, pl
 bialystok,     Jagiellonia Białystok, pl
@@ -70,4 +70,3 @@ gorica,            ND Gorica, si
 domzale,           NK Domžale, si
 velenje,           NK Rudar Velenje, si
 celje,             NK Celje, si
-
