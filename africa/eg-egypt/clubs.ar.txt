@@ -1,0 +1,25 @@
+###########################################
+# Egyptian Premier League 2012/13 Teams
+
+
+# 18 teams
+
+Al Ahly,                 النادي الأهلي للرياضة البدنية
+Zamalek,                 نادى الزمالك
+Ismaily,                 النادى الإسماعيلى
+Al Ittihad Al Sakandary, نادى الإتحاد السكندرى
+
+Al Mokawloon Al Arab,    نادي المقاولون العرب الرياضي
+El Dakhleya,             نادى الداخلية
+El Entag El Harby,       الانتاج الحربي‎
+El Gouna,                نادى الجونة
+Enppi,                   نادي إنبي
+Ghazl El Mahalla,        نادي_غزل_المحلة
+Haras El Hodood,         نادي_حرس_الحدود
+Ittihad El Shorta,       اتحاد_الشرطة
+Misr El Makasa,          مصر المقاصة
+Petrojet,                نادي_بتروجيت
+Smouha,                  نادى سموحة
+Tala'ea El Gaish,        نادي طلائع الجيش الرياضي
+Telephonat Bani Sweif,   تليفونات بني سويف
+Wadi Degla,              نادى وادى دجلة

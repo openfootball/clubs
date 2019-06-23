@@ -4,22 +4,22 @@
 
 # 18 teams
 
-alahly,    Al Ahly|Al-Ahly|Al Ahly Cairo|Al Ahly SC|Al Ahly Sporting Club|النادي الأهلي للرياضة البدنية,      city:cairo
-zamalek,   Zamalek|Zamalek SC|Zamalek Sporting Club|نادى الزمالك,  city:giza
-ismaily,   Ismaily|Ismaily SC|النادى الإسماعيلى,  city:ismailia
-alittihad, Al Ittihad Al Sakandary [Alexandrian Union Club]|نادى الإتحاد السكندرى, city:alexandria
+Al Ahly|Al-Ahly|Al Ahly Cairo|Al Ahly SC|Al Ahly Sporting Club,      city:cairo
+Zamalek|Zamalek SC|Zamalek Sporting Club,  city:giza
+Ismaily|Ismaily SC,  city:ismailia
+Al Ittihad Al Sakandary [Alexandrian Union Club], city:alexandria
 
-almokawloonalarab,  Al Mokawloon Al Arab [Arab Contractors (Sporting Club)]|نادي المقاولون العرب الرياضي, city:cairo
-eldakhleya,  El Dakhleya|نادى الداخلية,  city:cairo
-elentagelharby, El Entag El Harby [Military Production]|الانتاج الحربي‎,  city:cairo
-elgouna, El Gouna|El Gouna FC|نادى الجونة,   city:hurghada
-enppi, Enppi|ENPPI Club|نادي إنبي,  city:cairo
-ghazlelmahalla, Ghazl El Mahalla|Ghazl El Mahalla SC|Ghazl El Mahalla Sporting Club|نادي_غزل_المحلة,  city:elmahallaelkubra
-haraselhodood, Haras El Hodood|Haras El-Hodood SC|نادي_حرس_الحدود,   city:alexandria
-ittihadelshorta, Ittihad El Shorta [Police Union]|اتحاد_الشرطة, city:cairo
-misrelmakasa, Misr El Makasa|مصر المقاصة,  city:fayoum
-petrojet,  Petrojet|Petrojet FC|Petrojet Football Club|نادي_بتروجيت,   city:suez
-smouha,    Smouha|Smouha SC|Smouha Sporting Club|نادى سموحة,  city:alexandria
-talaeaelgaish, Tala'ea El Gaish [Army's Vanguards]|Tala'ea El-Gaish SC|نادي طلائع الجيش الرياضي, city:cairo
-telephonatbanisweif, Telephonat Bani Sweif|تليفونات بني سويف,  city:banisweif
-wadidegla,  Wadi Degla|Wadi Degla FC|نادى وادى دجلة,  city:cairo
+Al Mokawloon Al Arab [Arab Contractors (Sporting Club)], city:cairo
+El Dakhleya,  city:cairo
+El Entag El Harby [Military Production]‎,  city:cairo
+El Gouna|El Gouna FC,   city:hurghada
+Enppi|ENPPI Club,  city:cairo
+Ghazl El Mahalla|Ghazl El Mahalla SC|Ghazl El Mahalla Sporting Club,  city:elmahallaelkubra
+Haras El Hodood|Haras El-Hodood SC,   city:alexandria
+Ittihad El Shorta [Police Union], city:cairo
+Misr El Makasa,  city:fayoum
+Petrojet|Petrojet FC|Petrojet Football Club,   city:suez
+Smouha|Smouha SC|Smouha Sporting Club,  city:alexandria
+Tala'ea El Gaish [Army's Vanguards]|Tala'ea El-Gaish SC, city:cairo
+Telephonat Bani Sweif,  city:banisweif
+Wadi Degla|Wadi Degla FC,  city:cairo

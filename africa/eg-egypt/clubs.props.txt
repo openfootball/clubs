@@ -1,0 +1,26 @@
+###########################################
+# Egyptian Premier League 2012/13 Teams
+
+
+# 18 teams
+
+Key,                 Name
+alahly,              Al Ahly
+zamalek,             Zamalek
+ismaily,             Ismaily
+alittihad,           Al Ittihad Al Sakandary
+
+almokawloonalarab,   Al Mokawloon Al Arab
+eldakhleya,          El Dakhleya
+elentagelharby,      El Entag El Harby
+elgouna,             El Gouna
+enppi,               Enppi
+ghazlelmahalla,      Ghazl El Mahalla
+haraselhodood,       Haras El Hodood
+ittihadelshorta,     Ittihad El Shorta
+misrelmakasa,        Misr El Makasa
+petrojet,            Petrojet
+smouha,              Smouha
+talaeaelgaish,       Tala'ea El Gaish
+telephonatbanisweif, Telephonat Bani Sweif
+wadidegla,           Wadi Degla
