@@ -1,137 +1,98 @@
-###########################
-#  Eredivisie
+##########################################
+# nl-netherlands
 
 
-[ajax]
-  Ajax|AFC Ajax|Ajax Amsterdam|Amsterdamsche Football Club Ajax, 1900
-  // Amsterdam   ## North Holland
-  wikipedia: AFC_Ajax
-  www.ajax.nl
-
-[alkmaar]        ## Note: for now key must be at least three letters, thus, az will not work use alkmaar instead or should we use azalkmaar?
-  AZ Alkmaar|AZ|Alkmaar Zaanstreek, 1967
-  // Alkmaar   ## North Holland
-  wikipedia: AZ_Alkmaar
-  www.az.nl  
+Ajax Amsterdam, 1900,    Amsterdam › Noord-Holland
+  | Ajax | AFC Ajax | Amsterdamsche Football Club Ajax
 
 
-[denhaag]
-  ADO Den Haag|Den Haag|Alles Door Oefening Den Haag, 1905
-  // Den Haag     ## South Holland
-  wikipedia: ADO_Den_Haag
-  www.adodenhaag.nl
+Feyenoord Rotterdam, 1908,     Rotterdam › Zuid-Holland
+  | Feyenoord
 
-[feyenoord]
-  Feyenoord|Feyenoord Rotterdam, 1908
-  // Rotterdam    ## South Holland
-  wikipedia: Feyenoord
-  www.feyenoord.nl
-
-[excelsior]
-  Excelsior|SBV Excelsior|Stichting Betaald Voetbal Excelsior, 1902
-  // Rotterdam    ## South Holland
-  wikipedia: S.B.V._Excelsior
-  www.sbvexcelsior.nl
+Sparta Rotterdam,        Rotterdam › Zuid-Holland
+  | Sparta
+SBV Excelsior Rotterdam, 1902,   Rotterdam › Zuid-Holland    ## use SBV Excelsior - why? why not?
+  | Excelsior | SBV Excelsior | Stichting Betaald Voetbal Excelsior
 
 
-[heracles]
-  Heracles Almelo|Heracles, 1903
-  // Almelo      ## Overijssel
-  wikipedia: Heracles_Almelo
-  www.heracles.nl
-
-[twente]
-  FC Twente|Twente|Football Club Twente, 1965
-  // Enschede      ## Overijssel
-  wikipedia: FC_Twente
-  www.fctwente.nl
-
-[zwolle]
-  Zwolle|PEC Zwolle|Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle, 1910
-  // Zwolle    ## Overijssel
-  wikipedia: PEC_Zwolle
-  www.peczwolle.nl
-
-
-[groningen]
-  FC Groningen|Groningen|Football Club Groningen, 1971
-  // Groningen    ## Groningen 
-  wikipedia: FC_Groningen
-  www.fcgroningen.nl
-
-[utrecht]
-  FC Utrecht|Utrecht|Football Club Utrecht, 1970
-  // Utrecht   ## Utrecht
-  wikipedia: FC_Utrecht
-  www.fcutrecht.nl
+AZ Alkmaar, 1967,    Alkmaar    › Noord-Holland
+  | AZ | Alkmaar Zaanstreek
 
 
 
-[breda]
-  NAC Breda|NOAD ADVENDO Combinatie Breda, 1912
-  // Breda    ## North Brabant
-  wikipedia: NAC_Breda
-  www.nac.nl
-
-[nec]
-  NEC Nijmegen|Nijmegen Eendracht Combinatie|Nijmegen|NEC, 1900
-  // Nijmegen   ## Gelderland
-  wikipedia: N.E.C._(football_club)
-  www.nec-nijmegen.nl
-
-[vitesse]
-  Vitesse|Vitesse Arnhem|Stichting Betaald Voetbal Vitesse, 1892
-  // Arnhem    ## Gelderland
-  wikipedia: Vitesse
-  www.vitesse.nl
-
-[degraafschap]
-  De Graafschap|Vereniging Betaald Voetbal De Graafschap, 1954
-  // Doetinchem      ## Gelderland
-  wikipedia: De_Graafschap
-  www.degraafschap.nl
+SC Cambuur, 1964,   Leeuwarden › Friesland
+  | Cambuur
 
 
-[psv]
-  PSV Eindhoven|Philips Sport Vereniging|PSV, 1913
-  // Eindhoven    ## North Brabant
-  wikipedia: PSV_Eindhoven
-  www.psv.nl
-
-[waalwijk]
-  RKC Waalwijk|Waalwijk|Rooms Katholieke Combinatie Waalwijk, 1940
-  // Waalwijk    ## North Brabant 
-  wikipedia: RKC_Waalwijk
-  www.rkcwaalwijk.nl
-
-[willemii]
-  Willem II|Willem II Tilburg, 1896
-  // Tilburg   ## North Brabant
-  wikipedia: Willem_II_(football_club)
-  www.willem-ii.nl
+FC Den Bosch,    's-Hertogenbosch › Noord-Brabant
+  | Den Bosch
+ADO Den Haag, 1905,    Den Haag › Zuid-Holland
+  | Den Haag | Alles Door Oefening Den Haag
 
 
-[roda]
-  Roda JC|Roda JC Kerkrade|Roda Kerkrade|Roda|Sportvereniging Roda Juliana Combinatie Kerkrade, 1962
-  // Kerkrade    ## Limburg
-  wikipedia: Roda_JC_Kerkrade
-  www.rodajc.nl
 
-[venlo]
-  VVV-Venlo|Venlo|Venlose Voetbal Vereniging Venlo, 1903
-  // Venlo   ## Limburg
-  wikipedia: VVV-Venlo
-  www.vvv-venlo.nl
+FC Dordrecht,    Dordrecht › Zuid-Holland
+  | Dordrecht
+Fortuna Sittard, Sittard › Limburg
+  | For Sittard
+ Go Ahead Eagles, Deventer › Overijssel
 
 
-[heerenveen]
-  SC Heerenveen|Heerenveen|Sportclub Heerenveen, 1920
-  // Heerenveen    ## Friesland
-  wikipedia: SC_Heerenveen
-  www.sc-heerenveen.nl  
+BV De Graafschap, 1954,    Doetinchem  ## Gelderland
+  | Graafschap  | De Graafschap | Vereniging Betaald Voetbal De Graafschap
 
-[cambuur]
-  Cambuur|SC Cambuur, 1964
-  // Leeuwarden    ## Friesland
-  wikipedia: SC_Cambuur
-  www.cambuur.nl
+FC Groningen, 1971,  Groningen  ## Groningen
+  | Groningen | Football Club Groningen
+
+SC Heerenveen, 1920,   Heerenveen    ## Friesland
+  | Heerenveen | Sportclub Heerenveen
+
+Heracles Almelo, 1903,  Almelo   ## Overijssel
+  | Heracles
+
+MVV Maastricht, Maastricht
+NAC Breda, 1912,  Breda    ## North Brabant
+  | NOAD ADVENDO Combinatie Breda
+
+NEC Nijmegen, 1900,  Nijmegen    ## Gelderland
+  | Nijmegen | Nijmegen Eendracht Combinatie | NEC
+
+PSV Eindhoven, 1913,   Eindhoven     ## North Brabant
+  | Philips Sport Vereniging | PSV
+
+
+Roda JC Kerkrade, 1962,   Kerkrade   ## Limburg
+  | Roda | Roda JC | Roda Kerkrade
+  | Sportvereniging Roda Juliana Combinatie Kerkrade
+
+
+RBC Roosendaal, Roosendaal
+  | Roosendaal
+
+
+FC Twente, 1965,   Enschede   ## Overijssel
+  | Twente | Football Club Twente
+
+FC Utrecht, 1970,   Utrecht   ## Utrecht
+  | Utrecht | Football Club Utrecht
+
+VVV Venlo, 1903,    Venlo    ## Limburg     ## use VVV-Venlo - why? why not?
+  | VVV-Venlo | Venlo | Venlose Voetbal Vereniging Venlo
+
+Vitesse Arnhem, 1892,  Arnhem   ## Gelderland
+  | Vitesse | Stichting Betaald Voetbal Vitesse
+
+
+FC Volendam, Volendam
+  | Volendam
+RKC Waalwijk, 1940, Waalwijk     ## North Brabant
+  | Waalwijk | Rooms Katholieke Combinatie Waalwijk
+
+
+
+
+Willem II Tilburg, 1896,   Tilburg  ## North Brabant    ## use Willem II - why? why not?
+  | Willem II
+
+PEC Zwolle, 1910,   Zwolle   ## Overijssel
+  | Zwolle | Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle
