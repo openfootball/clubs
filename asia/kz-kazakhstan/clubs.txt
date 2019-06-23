@@ -1,10 +1,13 @@
 ############################
 # Kazakhstan (KAZ), kz
 
-Astana|FC Astana|Football Club Astana, 2009
+FC Astana, 2009
+  | Astana | Football Club Astana
 
-FC Aktobe|Aktobe
-Shakhter|FC Shakhter Karagandy
+FC Aktobe
+  | Aktobe
+FC Shakhter Karagandy
+  | Shakhter
 FC Tobol Kostanay
 FC Irtysh Pavlodar
 FC Ordabasy Shymkent

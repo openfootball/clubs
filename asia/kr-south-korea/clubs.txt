@@ -6,17 +6,31 @@
 
 ## todo/fix:  use new format/style for cities!!!!!
 
-Busan I'Park|Busan IPark|Busan IPark FC,          city:busan
-Chunnam Dragons|Chunnam Dragons FC,          city:gwangyang
-Daegu FC|Daegu,                 city:daegu
-Daejeon Citizen|Daejeon Citizen FC,          city:daejeon
-Gangwon FC|Gangwon,               city:gangneung
-Gyeongnam FC|Gyeongnam,             city:changwon
-Incheon United|Incheon United FC,           city:incheon
-Jeju United|Jeju United FC,              city:seogwipo
-Jeonbuk Motors|Jeonbuk Hyundai Motors|Jeonbuk Hyundai Motors FC,   city:jeonju
-Pohang Steelers|FC Pohang Steelers,          city:pohang
-Seongnam Ilhwa Chunma|Seongnam Ilhwa Chunma FC,    city:seongnam
-FC Seoul|Seoul,                 city:seoul
-Suwon Bluewings|Suwon Samsung Bluewings|Suwon Samsung Bluewings FC,  city:suwon
-Ulsan Hyundai|Ulsan Hyundai FC,            city:ulsan
+Busan I'Park,          city:busan
+  | Busan IPark | Busan IPark FC
+Chunnam Dragons,       city:gwangyang
+  | Chunnam Dragons FC
+Daegu FC,              city:daegu
+  | Daegu
+Daejeon Citizen,        city:daejeon
+  | Daejeon Citizen FC
+Gangwon FC,               city:gangneung
+  | Gangwon
+Gyeongnam FC,             city:changwon
+  | Gyeongnam
+Incheon United,           city:incheon
+  | Incheon United FC
+Jeju United,              city:seogwipo
+  | Jeju United FC
+Jeonbuk Motors,          city:jeonju
+  | Jeonbuk Hyundai Motors | Jeonbuk Hyundai Motors FC
+Pohang Steelers,         city:pohang
+  | FC Pohang Steelers
+Seongnam Ilhwa Chunma,    city:seongnam
+  | Seongnam Ilhwa Chunma FC
+FC Seoul,                 city:seoul
+  | Seoul
+Suwon Bluewings,          city:suwon
+  | Suwon Samsung Bluewings | Suwon Samsung Bluewings FC
+Ulsan Hyundai,            city:ulsan
+  | Ulsan Hyundai FC

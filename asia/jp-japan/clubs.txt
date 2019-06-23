@@ -8,7 +8,8 @@ Albirex Niigata       # Niigata & Seiro, Niigata
 Kashima Antlers       # Southwestern cities/towns of Ibaraki
 Omiya Ardija          # Omiya, Saitama
 Cerezo Osaka          # Osaka, Osaka
-Yokohama F. Marinos|Yokohama F Marinos    # Yokohama & Yokosuka, Kanagawa
+Yokohama F. Marinos   # Yokohama & Yokosuka, Kanagawa
+  | Yokohama F Marinos
 Kawasaki Frontale     # Kawasaki, Kanagawa
 Nagoya Grampus        # Nagoya, Aichi
 Júbilo Iwata          # Iwata, Shizuoka
@@ -19,6 +20,7 @@ Shimizu S-Pulse       # Shizuoka, Shizuoka
 Sagan Tosu            # Tosu, Saga
 Sanfrecce Hiroshima   # Hiroshima, Hiroshima
 Shonan Bellmare       # Southcentral cities/town in Kanagawa
-FC Tokyo|Tokyo        # Tokyo
+FC Tokyo,             Tokyo
+  | Tokyo
 Vegalta Sendai        # Sendai, Miyagi
 Ventforet Kofu        # All cities/towns in Yamanashi
