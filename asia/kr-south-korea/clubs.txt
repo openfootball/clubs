@@ -4,17 +4,19 @@
 
 # 14 teams
 
-busanipar,   Busan I'Park|Busan IPark|Busan IPark FC|부산 아이파크,          city:busan
-dragons,     Chunnam Dragons|Chunnam Dragons FC|전남 드래곤즈,          city:gwangyang
-daegufc,     Daegu FC|Daegu|대구 FC,                 city:daegu
-dcfc,        Daejeon Citizen|Daejeon Citizen FC|대전 시티즌,          city:daejeon
-gangwonfc,   Gangwon FC|Gangwon|강원 FC,               city:gangneung
-gyeongnamfc, Gyeongnam FC|Gyeongnam|경남 FC,             city:changwon
-incheonutd,  Incheon United|Incheon United FC|인천 유나이티드,           city:incheon
-jejeutd,     Jeju United|Jeju United FC|제주 유나이티드 FC,              city:seogwipo
-hyundaimotorsfc, Jeonbuk Motors|Jeonbuk Hyundai Motors|Jeonbuk Hyundai Motors FC|전북 현대 모터스,   city:jeonju
-steelers,    Pohang Steelers|FC Pohang Steelers|포항 스틸러스,          city:pohang
-sifc,       Seongnam Ilhwa Chunma|Seongnam Ilhwa Chunma FC|성남 일화 천마,    city:seongnam
-fcseoul,     FC Seoul|Seoul|FC 서울,                 city:seoul
-bluewings,   Suwon Bluewings|Suwon Samsung Bluewings|Suwon Samsung Bluewings FC|수원 블루윙즈,  city:suwon
-uhfc,        Ulsan Hyundai|Ulsan Hyundai FC|울산 현대,            city:ulsan
+## todo/fix:  use new format/style for cities!!!!!
+
+Busan I'Park|Busan IPark|Busan IPark FC,          city:busan
+Chunnam Dragons|Chunnam Dragons FC,          city:gwangyang
+Daegu FC|Daegu,                 city:daegu
+Daejeon Citizen|Daejeon Citizen FC,          city:daejeon
+Gangwon FC|Gangwon,               city:gangneung
+Gyeongnam FC|Gyeongnam,             city:changwon
+Incheon United|Incheon United FC,           city:incheon
+Jeju United|Jeju United FC,              city:seogwipo
+Jeonbuk Motors|Jeonbuk Hyundai Motors|Jeonbuk Hyundai Motors FC,   city:jeonju
+Pohang Steelers|FC Pohang Steelers,          city:pohang
+Seongnam Ilhwa Chunma|Seongnam Ilhwa Chunma FC,    city:seongnam
+FC Seoul|Seoul,                 city:seoul
+Suwon Bluewings|Suwon Samsung Bluewings|Suwon Samsung Bluewings FC,  city:suwon
+Ulsan Hyundai|Ulsan Hyundai FC,            city:ulsan

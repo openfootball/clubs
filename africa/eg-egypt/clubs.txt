@@ -4,6 +4,9 @@
 
 # 18 teams
 
+## todo/fix:  use new format/style for cities!!!!!
+
+
 Al Ahly|Al-Ahly|Al Ahly Cairo|Al Ahly SC|Al Ahly Sporting Club,      city:cairo
 Zamalek|Zamalek SC|Zamalek Sporting Club,  city:giza
 Ismaily|Ismaily SC,  city:ismailia

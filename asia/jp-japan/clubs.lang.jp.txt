@@ -1,0 +1,24 @@
+#######################################
+# J. League Division 1 2013 Teams
+
+
+# 18 teams
+
+Albirex Niigata,    アルビレックス新潟
+Kashima Antlers,    鹿島アントラーズ
+Omiya Ardija,       大宮アルディージャ
+Cerezo Osaka,       セレッソ大阪
+Yokohama F. Marinos, 横浜F・マリノス
+Kawasaki Frontale,   川崎フロンターレ
+Nagoya Grampus,      名古屋グランパス
+Júbilo Iwata,        ジュビロ磐田
+Oita Trinita,        大分トリニータ
+Urawa Red Diamonds,  浦和レッドダイヤモンズ
+Kashiwa Reysol,      柏レイソル
+Shimizu S-Pulse,     清水エスパルス
+Sagan Tosu,          サガン鳥栖
+Sanfrecce Hiroshima, サンフレッチェ広島
+Shonan Bellmare,     湘南ベルマーレ
+FC Tokyo,            FC東京
+Vegalta Sendai,      ベガルタ仙台
+Ventforet Kofu,      ヴァンフォーレ甲府

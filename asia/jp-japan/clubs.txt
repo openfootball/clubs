@@ -4,21 +4,21 @@
 
 # 18 teams
 
-niigata,   Albirex Niigata|アルビレックス新潟      # Niigata & Seiro, Niigata
-kashima,   Kashima Antlers|鹿島アントラーズ               # Southwestern cities/towns of Ibaraki
-omiya,     Omiya Ardija|大宮アルディージャ                 # Omiya, Saitama
-cosaka,    Cerezo Osaka|セレッソ大阪              # Osaka, Osaka
-yokohamafm, Yokohama F. Marinos|Yokohama F Marinos|横浜F・マリノス    # Yokohama & Yokosuka, Kanagawa
-kawasaki,  Kawasaki Frontale|川崎フロンターレ logo     # Kawasaki, Kanagawa
-nagoya,    Nagoya Grampus|名古屋グランパス                 # Nagoya, Aichi
-iwata,     Júbilo Iwata|ジュビロ磐田              # Iwata, Shizuoka
-oita,      Oita Trinita|大分トリニータ                  # All cities/towns in Oita
-urawa,     Urawa Red Diamonds|浦和レッドダイヤモンズ    # Urawa, Saitama
-kashiwa,   Kashiwa Reysol|柏レイソル             # Kashiwa, Chiba
-shimizu,   Shimizu S-Pulse|清水エスパルス       # Shizuoka, Shizuoka
-tosu,      Sagan Tosu|サガン鳥栖           # Tosu, Saga
-hiroshima, Sanfrecce Hiroshima|サンフレッチェ広島  # Hiroshima, Hiroshima
-shonan,    Shonan Bellmare|湘南ベルマーレ      # Southcentral cities/town in Kanagawa
-fctokyo,   FC Tokyo|Tokyo|FC東京           # Tokyo
-sendai,    Vegalta Sendai|ベガルタ仙台       # Sendai, Miyagi
-kofu,      Ventforet Kofu|ヴァンフォーレ甲府       # All cities/towns in Yamanashi
+Albirex Niigata       # Niigata & Seiro, Niigata
+Kashima Antlers       # Southwestern cities/towns of Ibaraki
+Omiya Ardija          # Omiya, Saitama
+Cerezo Osaka          # Osaka, Osaka
+Yokohama F. Marinos|Yokohama F Marinos    # Yokohama & Yokosuka, Kanagawa
+Kawasaki Frontale     # Kawasaki, Kanagawa
+Nagoya Grampus        # Nagoya, Aichi
+Júbilo Iwata          # Iwata, Shizuoka
+Oita Trinita          # All cities/towns in Oita
+Urawa Red Diamonds    # Urawa, Saitama
+Kashiwa Reysol        # Kashiwa, Chiba
+Shimizu S-Pulse       # Shizuoka, Shizuoka
+Sagan Tosu            # Tosu, Saga
+Sanfrecce Hiroshima   # Hiroshima, Hiroshima
+Shonan Bellmare       # Southcentral cities/town in Kanagawa
+FC Tokyo|Tokyo        # Tokyo
+Vegalta Sendai        # Sendai, Miyagi
+Ventforet Kofu        # All cities/towns in Yamanashi

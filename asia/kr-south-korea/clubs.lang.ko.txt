@@ -1,0 +1,20 @@
+#######################################
+# K-League 2013 Teams
+
+
+# 14 teams
+
+Busan I'Park,          부산 아이파크
+Chunnam Dragons,       전남 드래곤즈
+Daegu FC,              대구 FC
+Daejeon Citizen,       대전 시티즌
+Gangwon FC,            강원 FC
+Gyeongnam FC,          경남 FC
+Incheon United,        인천 유나이티드
+Jeju United,           제주 유나이티드 FC
+Jeonbuk Motors,        전북 현대 모터스
+Pohang Steelers,       포항 스틸러스
+Seongnam Ilhwa Chunma, 성남 일화 천마
+FC Seoul,              FC 서울
+Suwon Bluewings,       수원 블루윙즈
+Ulsan Hyundai,         울산 현대
