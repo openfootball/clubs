@@ -1,2 +1,3 @@
 
-Raja Casablanca|Raja Club Athletic    #  Casablanca
+Raja Casablanca,  Casablanca
+  | Raja Club Athletic

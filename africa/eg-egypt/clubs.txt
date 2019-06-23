@@ -7,22 +7,37 @@
 ## todo/fix:  use new format/style for cities!!!!!
 
 
-Al Ahly|Al-Ahly|Al Ahly Cairo|Al Ahly SC|Al Ahly Sporting Club,      city:cairo
-Zamalek|Zamalek SC|Zamalek Sporting Club,  city:giza
-Ismaily|Ismaily SC,  city:ismailia
-Al Ittihad Al Sakandary [Alexandrian Union Club], city:alexandria
+Al Ahly,   city:cairo
+  | Al-Ahly | Al Ahly Cairo | Al Ahly SC | Al Ahly Sporting Club
+Zamalek,   city:giza
+  | Zamalek SC | Zamalek Sporting Club
+Ismaily,   city:ismailia
+  | Ismaily SC
+Al Ittihad Al Sakandary, city:alexandria
+  | Alexandrian Union Club
 
-Al Mokawloon Al Arab [Arab Contractors (Sporting Club)], city:cairo
+Al Mokawloon Al Arab,   city:cairo
+  | Arab Contractors (Sporting Club)
 El Dakhleya,  city:cairo
-El Entag El Harby [Military Production]‎,  city:cairo
-El Gouna|El Gouna FC,   city:hurghada
-Enppi|ENPPI Club,  city:cairo
-Ghazl El Mahalla|Ghazl El Mahalla SC|Ghazl El Mahalla Sporting Club,  city:elmahallaelkubra
-Haras El Hodood|Haras El-Hodood SC,   city:alexandria
-Ittihad El Shorta [Police Union], city:cairo
+El Entag El Harby‎,  city:cairo
+  | Military Production
+El Gouna,   city:hurghada
+  | El Gouna FC
+Enppi,  city:cairo
+  | ENPPI Club
+Ghazl El Mahalla,  city:elmahallaelkubra
+  | Ghazl El Mahalla SC | Ghazl El Mahalla Sporting Club
+Haras El Hodood,  city:alexandria
+  | Haras El-Hodood SC
+Ittihad El Shorta, city:cairo
+  | Police Union
 Misr El Makasa,  city:fayoum
-Petrojet|Petrojet FC|Petrojet Football Club,   city:suez
-Smouha|Smouha SC|Smouha Sporting Club,  city:alexandria
-Tala'ea El Gaish [Army's Vanguards]|Tala'ea El-Gaish SC, city:cairo
+Petrojet,   city:suez
+  | Petrojet FC | Petrojet Football Club
+Smouha,  city:alexandria
+  | Smouha SC | Smouha Sporting Club
+Tala'ea El Gaish,  city:cairo
+  | Army's Vanguards | Tala'ea El-Gaish SC
 Telephonat Bani Sweif,  city:banisweif
-Wadi Degla|Wadi Degla FC,  city:cairo
+Wadi Degla,  city:cairo
+  | Wadi Degla FC
