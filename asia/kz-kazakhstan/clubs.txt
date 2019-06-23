@@ -1,13 +1,13 @@
 ############################
 # Kazakhstan (KAZ), kz
 
-astana,      Astana|FC Astana|Football Club Astana, 2009
+Astana|FC Astana|Football Club Astana, 2009
 
-aktobe,      FC Aktobe|Aktobe
-karagandy,   Shakhter|FC Shakhter Karagandy
-kostanay,    FC Tobol Kostanay
-pavlodar,    FC Irtysh Pavlodar
-shymkent,    FC Ordabasy Shymkent
-atyrau,      FC Atyrau
-taldykorgan, FC Zhetysu Taldykorgan
-kokshetau,   FC Okzhetpes Kokshetau
+FC Aktobe|Aktobe
+Shakhter|FC Shakhter Karagandy
+FC Tobol Kostanay
+FC Irtysh Pavlodar
+FC Ordabasy Shymkent
+FC Atyrau
+FC Zhetysu Taldykorgan
+FC Okzhetpes Kokshetau
