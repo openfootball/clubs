@@ -123,19 +123,6 @@ niksic,    FK Čelik Nikšić, me
 sutjeska,  FK Sutjeska|Sutjeska Nikšić, me
 
 
-###################################
-# Albania (ALB), al
-
-kftirana,     KF Tirana, al
-dinamotirana, FK Dinamo Tirana, al
-skenderbeu,   KS Skënderbeu|Skënderbeu Korçë, al
-flamurtari,   KS Flamurtari, al
-vllaznia,    KF Vllaznia, al
-besa,        KS Besa, al
-teuta,       KS Teuta, al
-laci,        KF Laçi, al
-partizani,   FK Partizani, al
-
 
 #######################
 # Greece (GRE), gr
@@ -163,4 +150,3 @@ larnaca,         AEK Larnaca FC, cy
 limassol,        AEL Limassol FC|AEL Limassol, cy
 apollonlimassol, Apollon Limassol FC, cy
 kinyraspeyias,   APOP/Kinyras Peyias FC, cy
-

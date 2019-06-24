@@ -2,49 +2,74 @@
 ########################
 # El Salvador, sv
 
-metapan, Metapán|I. Metapán|Isidro Metapán|Asociación Deportiva Isidro Metapán, city:metapan, sv
-aguila,  Águila|Club Deportivo Águila, city:sansalvador, sv
-fas,     CD FAS|Club Deportivo FAS|Futbolistas Asociados Santanecos, FAS, city:santaana, sv
-alianza, Alianza|Alianza FC|Alianza Fútbol Club, city:sansalvador, sv
-luisangelfirpo, L.A. Firpo|Luis Ángel Firpo|CD Luis Ángel Firpo, sv    # change key to lafirpo
+I. Metapán,    city:metapan, sv
+  | Metapán | Isidro Metapán | Asociación Deportiva Isidro Metapán
+Club Deportivo Águila, city:sansalvador, sv
+  | Águila
+Club Deportivo FAS, city:santaana, sv
+  | CD FAS | Futbolistas Asociados Santanecos
+Alianza FC,    city:sansalvador, sv
+  | Alianza | Alianza Fútbol Club
+Luis Ángel Firpo, sv
+  | L.A. Firpo | CD Luis Ángel Firpo
 
 
 #########################
 # Costa Rica, cr
 
-alajuelense, Alajuelense|LD Alajuelense, city:alajuela, cr   #  23 kilómetros al oeste de San José
-herediano, Herediano|CS Herediano, city:heredia, cr   #  10 km al noroeste de San José
-cartagines, Cartaginés|CS Cartaginés, cr  
+LD Alajuelense,    city:alajuela, cr   #  23 kilómetros al oeste de San José
+  | Alajuelense
+CS Herediano,      city:heredia, cr    #  10 km al noroeste de San José
+  | Herediano
+CS Cartaginés,     cr
+  | Cartaginés
 
 
 #########################
 # Honduras, hn
 
-olimpia, Olimpia|CD Olimpia, city:tegucigalpa, hn
-marathon, Marathón|CD Marathón, city:sanpedrosula, hn
-espana, Real España|Real CD España, city:sanpedrosula, hn
-motagua, Motagua|CD Motagua, city:tegucigalpa, hn
-cdvictoria, Victoria|CD Victoria, hn
+CD Olimpia,      city:tegucigalpa, hn
+  | Olimpia
+CD Marathón,     city:sanpedrosula, hn
+  | Marathón
+Real CD España,  city:sanpedrosula, hn
+  | Real España
+CD Motagua,      city:tegucigalpa, hn
+  | Motagua
+CD Victoria,     hn
+  | Victoria
+
 
 ##########################
 # Guatemala, gt
 
-municipal, Municipal|CSD Municipal, city:guatemala, gt
-xelaju, Xelajú|Club Xelajú MC, city:quetzaltenango, gt
-comunicaciones, Comunicaciones|CSD Comuni.|Comunicaciones FC, city:guatemala, gt
-heredia, Heredia|Heredia Jaguares de Peten, gt
+CSD Municipal,     city:guatemala, gt
+  | Municipal
+Club Xelajú MC,    city:quetzaltenango, gt
+  | Xelajú
+Comunicaciones FC,  city:guatemala, gt
+  | Comunicaciones | CSD Comuni.
+Heredia Jaguares de Peten, gt
+  | Heredia
+
 
 ##########################
 # Panama, pa
 
-chorrillo, Chorrillo|Chorrillo FC, city:panama, pa
-tauro, Tauro|Tauro FC, city:panama, pa
-arabeunido, Árabe Unido|Árabe U.|Club Deportivo Árabe Unido, DAU, city:colon, pa
-sanfrancisco, San Francisco|San Francisco FC|San Francisco Fútbol Club de La Chorrera, city:lachorrera, pa
-sportingsanmiguelito, Sporting SM|Sporting San Miguelito, pa    # change key to sportingsm
+Chorrillo FC,     city:panama, pa
+  | Chorrillo
+Tauro FC,         city:panama, pa
+  | Tauro
+Club Deportivo Árabe Unido,  city:colon, pa
+  | Árabe Unido | Árabe U.
+San Francisco FC,   city:lachorrera, pa
+  | San Francisco | San Francisco Fútbol Club de La Chorrera
+Sporting San Miguelito,   pa
+  | Sporting SM
+
 
 ############################
 # Nicaragua, ni
 
-esteli, R. Estelí|Real Estelí|Real Estelí FC, city:esteli, ni
-
+Real Estelí,      city:esteli, ni
+  | R. Estelí | Real Estelí FC

@@ -1,0 +1,17 @@
+###################################
+# Albania (ALB), al
+
+
+KF Tirana,           Tirana
+  | Klubi i Futbollit Tirana
+FK Partizani Tirana, Tirana
+  | FK Partizani
+FK Dinamo Tirana,    Tirana
+
+KS Skënderbeu
+  | Skënderbeu Korçë
+KS Flamurtari
+KF Vllaznia
+KS Besa
+KS Teuta
+KF Laçi

@@ -1,0 +1,3 @@
+Name,                       Code,   Country
+Club Deportivo FAS,         FAS,    sv
+Club Deportivo Árabe Unido, DAU,    pa

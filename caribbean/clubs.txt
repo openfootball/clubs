@@ -2,19 +2,23 @@
 #############################
 # Trinidad and Tobago, tt
 
-caledonia, Caledonia|Caledonia AIA, city:arima, tt     # Malabar is a residential district incorporated into the borough of Arima
-wconnection, W Connection|WC FC, city:narabella, tt
+Caledonia AIA, city:arima, tt     # Malabar is a residential district incorporated into the borough of Arima
+  | Caledonia
+W Connection, city:narabella, tt
+  | WC FC
 
 
 ######################
 # Puerto Rico, pr
 
-puertorico, Puerto Rico Islanders|Puerto Rico Islanders FC, city:bayamon, pr
+Puerto Rico Islanders, city:bayamon, pr
+  | Puerto Rico Islanders FC
 
 
 ######################
 # Haiti, ht
 
-tempete, Tempête|Tempête FC|Tempête Football Club, TFC, city:saintmarc, ht
-valenciafc, Valencia|Valencia FC, ht
-
+Tempête FC,   city:saintmarc, ht
+  | Tempête | Tempête Football Club
+Valencia FC, ht
+  | Valencia
