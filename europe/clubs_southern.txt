@@ -138,15 +138,3 @@ atromitos,       Atromitos FC, gr
 tripolis,        Asteras Tripolis FC, gr
 olympiacosvolou, Olympiacos Volou FC, gr
 larissa,         Larissa FC, gr
-
-
-#############################
-# Cyprus (CYP), cy
-
-apoel,           APOEL|APOEL Nikosia|APOEL FC,            cy, city:nikosia
-anorthosis,      Anorthosis Famagusta FC, cy
-omonia,          AC Omonia, cy
-larnaca,         AEK Larnaca FC, cy
-limassol,        AEL Limassol FC|AEL Limassol, cy
-apollonlimassol, Apollon Limassol FC, cy
-kinyraspeyias,   APOP/Kinyras Peyias FC, cy

@@ -24,20 +24,6 @@ otaci,          FC Nistru Otaci, md
 
 
 
-##########################
-# Belarus (BLR), by
-
-borissow,     BATE Borissow|BATE Borisov|Bate Borisov|BATE Borisov,           by, city:borisov
-gomel,        FC Gomel, by
-dinamominsk,  FC Dinamo Minsk, by
-parizanminsk, FC Partizan Minsk, by
-fcminsk,      FC Minsk, by
-dneprmogilev, FC Dnepr Mogilev, by
-soligorsk,    FC Shakhtyor Soligorsk, by
-novopolotsk,  FC Naftan Novopolotsk, by
-zhodino,      FC Torpedo Zhodino, by
-
-
 ##############################
 # Georgia (GEO), ge
 
@@ -75,4 +61,3 @@ qarabag, Qarabağ FK|Qarabağ, az
 lankaran,  Xäzär Länkäran FK, az
 suvalan,   Olimpik-Şüvälan PFK, az
 simurq,    Simurq PFK, az
-
