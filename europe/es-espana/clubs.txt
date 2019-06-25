@@ -1,0 +1,222 @@
+#####################################
+## España • Spain () - [es]
+
+
+Atlético Madrid,    Madrid › Comunidad de Madrid   ## use Atlético de Madrid - why? why not?
+  | Ath Madrid | Atletico Madrid
+Atlético Madrid B,  Madrid › Comunidad de Madrid
+  | Ath Madrid B
+
+Real Madrid CF,   Madrid › Comunidad de Madrid
+  | Real Madrid
+Real Madrid CF B, Madrid › Comunidad de Madrid
+  | Real Madrid B
+
+Getafe CF,      Madrid › Comunidad de Madrid
+  | Getafe
+Rayo Vallecano, Madrid › Comunidad de Madrid
+  | Vallecano
+
+AD Alcorcón, Alcorcón › Comunidad de Madrid   ## use Madrid (Alcorcón) - why? why not?
+  | Alcorcon
+
+
+
+Málaga CF,   Málaga › Andalucía
+  | Malaga
+Málaga CF B, Málaga › Andalucía
+  | Malaga B
+
+Sevilla FC,   Sevilla › Andalucía
+  | Sevilla
+Sevilla FC B, Sevilla › Andalucía
+  | Sevilla B
+
+Real Betis, Sevilla › Andalucía
+  | Betis
+
+Algeciras CF,     Algeciras › Andalucía
+  | Algeciras
+UD Almería,       Almería   › Andalucía
+  | Almeria
+Cádiz CF,         Cádiz     › Andalucía
+  | Cadiz
+Córdoba CF,       Córdoba   › Andalucía
+  | Cordoba
+Écija Balompié,   Écija     › Andalucía
+  | Ecija
+Real Jaén CF,     Jaén      › Andalucía
+  | Jaen
+
+## note: different from Granada 74 <=> Granda (CF) !!!
+##   see https://es.wikipedia.org/wiki/Granada_74_Club_de_Fútbol
+Granada CF, Granada › Andalucía
+  | Granada
+Granada 74, Granada › Andalucía
+  | Granada 74
+
+
+
+
+FC Barcelona,   Barcelona › Cataluña
+  | Barcelona
+FC Barcelona B, Barcelona › Cataluña
+  | Barcelona B
+
+RCD Español, Barcelona › Cataluña
+  | Espanol
+
+Gimnàstic Tarragona, Tarragona › Cataluña
+  | Gimnastic
+Girona FC,           Gerona    › Cataluña
+  | Girona
+
+RCD La Coruña,  La Coruña  › Galicia
+  | La Coruna
+RC Celta Vigo,  Vigo       › Galicia        ## use R. C. Celta de Vigo - why? why not?
+  | Celta
+SD Compostela,  Santiago de Compostela › Galicia
+  | Compostela
+Racing Ferrol,  Ferrol     › Galicia
+  | Ferrol
+
+Valencia CF,    Valencia › Comunidad Valenciana
+  | Valencia
+Levante UD,     Valencia › Comunidad Valenciana
+  | Levante
+
+Alicante CF,    Alicante › Comunidad Valenciana
+  | Alicante
+Hércules CF,    Alicante › Comunidad Valenciana
+  | Hercules
+
+CD Alcoyano,    Alcoy    › Comunidad Valenciana
+  | Alcoyano
+Elche CF,       Elche    › Comunidad Valenciana
+  | Elche
+CD Castellón,   Castellón de la Plana › Comunidad Valenciana
+  | Castellon
+
+Villarreal CF,    Villarreal › Comunidad Valenciana    ## fix typo Villareal
+  | Villarreal | Villareal
+Villarreal CF B,  Villarreal › Comunidad Valenciana
+  | Villarreal B
+
+
+Real Sociedad,     San Sebastián › País Vasco
+  | Sociedad
+Deportivo Alavés,  Vitoria       › País Vasco
+  | Alaves
+SD Eibar,          Eibar         › País Vasco
+  | Eibar
+
+Athletic Club Bilbao,   Bilbao › País Vasco    ## use Athletic Club - why? why not?
+  | Ath Bilbao
+Athletic Club Bilbao B, Bilbao › País Vasco
+  | Ath Bilbao B
+
+Sporting Gijón, Gijón › Asturias    ## use Sporting de Gijón - why? why not?
+  | Sp Gijon
+
+
+Albacete Balompié,  Albacete    › Castilla-La Mancha
+  | Albacete
+CD Guadalajara,     Guadalajara › Castilla-La Mancha
+  | Guadalajara
+
+CD Badajoz,      Badajoz      › Extremadura
+  | Badajoz
+CF Extremadura,  Almendralejo › Extremadura
+  | Extremadura
+CP Mérida,       Mérida       › Extremadura
+  | Merida
+
+Burgos CF,   Burgos          › Castilla y León
+  | Burgos
+CD Mirandés, Miranda de Ebro › Castilla y León
+  | Mirandes
+
+Real Murcia CF,      Murcia › Región de Murcia
+  | Murcia
+UCAM Murcia,         Murcia › Región de Murcia
+  | UCAM Murcia
+CF Ciudad de Murcia, Murcia › Región de Murcia
+  | Ciudad de Murcia
+
+FC Cartagena,  Cartagena › Región de Murcia
+  | Cartagena
+
+SD Huesca, Huesca › Aragón
+  | Huesca
+
+UD Las Palmas,          Las Palmas › Islas Canarias
+  | Las Palmas
+Universidad Las Palmas, Las Palmas › Islas Canarias
+  | U.Las Palmas
+
+RCD Mallorca,   Palma de Mallorca › Islas Baleares
+  | Mallorca
+RCD Mallorca B, Palma de Mallorca › Islas Baleares
+  | Mallorca B
+
+
+CD Leganés
+  | Leganes
+Cultural Leonesa
+  | Leonesa
+UE Lleida
+  | Lerida | Lleida
+UE Llagostera
+  | Llagostera
+CD Logroñés
+  | Logrones
+Lorca FC
+  | Lorca
+CD Lugo
+  | Lugo
+
+
+CD Numancia
+  | Numancia
+CA Osasuna
+  | Osasuna
+CD Ourense
+  | Ourense | Orense
+Real Oviedo
+  | Oviedo
+Polideportivo Ejido
+  | Poli Ejido
+SD Ponferradina
+  | Ponferradina
+Pontevedra CF
+  | Pontevedra
+
+Real Unión
+  | Real Union
+Recreativo Huelva
+  | Recreativo
+CF Reus
+  | Reus Deportiu
+CE Sabadell
+  | Sabadell
+UD Salamanca
+  | Salamanca
+Real Racing Santander
+  | Santander
+
+CD Tenerife
+  | Tenerife
+Terrassa FC
+  | Terrassa
+CD Toledo
+  | Toledo
+
+Real Valladolid CF
+  | Valladolid
+UD Vecindario
+  | Vecindario
+
+Xerez CD
+  | Xerez
+Real Zaragoza
+  | Zaragoza
