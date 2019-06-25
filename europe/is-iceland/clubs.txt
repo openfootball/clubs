@@ -1,0 +1,8 @@
+################################################
+# Iceland, is
+
+
+ÍA Akranes,   Akranes      # Íþróttabandalag Akraness
+  | IA Akranes    
+KR Reykjavík, Reykjavík    # Knattspyrnufélag Reykjavíkur
+  | KR Reykjavik
