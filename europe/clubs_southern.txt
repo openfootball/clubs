@@ -121,20 +121,3 @@ pljevlja,  FK Rudar Pljevlja, me
 petrovac,  OFK Petrovac, me
 niksic,    FK Čelik Nikšić, me
 sutjeska,  FK Sutjeska|Sutjeska Nikšić, me
-
-
-
-#######################
-# Greece (GRE), gr
-
-## fix: change city to athens for piraeus?
-
-olympiacos,      Olympiakos Piräus|Olympiakos P.|Olympiacos,    gr, city:piraeus
-panathinaikos,   Panathinaikos FC|Panathinaikos, gr
-paok,            PAOK FC, gr
-aekathens,       AEK Athens FC, gr
-thessaloniki,    Aris Thessaloniki FC, gr
-atromitos,       Atromitos FC, gr
-tripolis,        Asteras Tripolis FC, gr
-olympiacosvolou, Olympiacos Volou FC, gr
-larissa,         Larissa FC, gr
