@@ -1,0 +1,17 @@
+################################################
+# Finland (fi)
+
+
+HJK Helsinki, Helsinki    ## Helsingin Jalkapalloklubi
+  | Helsingin Jalkapalloklubi | HJK
+FC Haka Valkeakoski, Valkeakoski
+  | Haka Valkeakoski | Valkeakosken Haka
+
+FC Inter Turku
+TPS Turku
+FC Honka Espoo
+KuPS Kuopio
+Myllykosken Pallo-47
+FC Lahti
+JJK Jyväskylä
+Tampere United

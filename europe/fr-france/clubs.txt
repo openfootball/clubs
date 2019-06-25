@@ -1,0 +1,163 @@
+#############################################
+## France, fr
+##
+##  note: see mc.txt for monaco
+
+
+Paris Saint-Germain, Paris › Île-de-France
+  | Paris SG
+Paris FC,            Paris › Île-de-France
+
+##
+# Red Star History
+# - Red Star FC 93 (2003-2012)
+# - Red Star FC (2012-)
+Red Star FC,   Saint-Ouen › Île-de-France
+  | Red Star | Red Star 93
+
+
+Amiens SC,             Amiens   › Hauts-de-France
+  | Amiens
+Angers SCO,            Angers   › Pays de la Loire
+  | Angers
+Girondins de Bordeaux, Bordeaux › Nouvelle-Aquitaine
+  | Bordeaux
+
+Stade Malherbe Caen, Caen    ## use - SM Caean - why? why not?
+  | Caen
+Dijon FCO, Dijon
+  | Dijon
+EA Guingamp, Guingamp
+  | Guingamp
+Lille OSC, Lille
+  | Lille
+Olympique Lyonnais, Lyon
+  | Lyon | Olympique Lyon
+Olympique de Marseille, Marseille
+  | Marseille | Olympique Marseille
+FC Metz, Metz
+  | Metz
+
+Montpellier HSC, Montpellier   ## use - Montpellier Hérault SC - why? why not?
+  | Montpellier
+FC Nantes, Nantes
+  | Nantes
+OGC Nice, Nice
+  | Nice
+
+Stade Rennais FC, Rennes
+  | Rennes
+AS Saint-Étienne, Saint-Étienne
+  | St Etienne | AS Saint-Etienne
+RC Strasbourg, Strasbourg
+  | Strasbourg
+Toulouse FC, Toulouse
+  | Toulouse
+ES Troyes AC, Troyes
+  | Troyes
+Stade de Reims, Reims
+  | Reims
+Nîmes Olympique, Nîmes
+  | Nimes
+
+AC Ajaccio,  Ajaccio
+  | Ajaccio
+GFC Ajaccio, Ajaccio
+  | Ajaccio GFCO
+
+AJ Auxerre, Auxerre
+  | Auxerre
+Bourg-en-Bresse 01, Bourg-en-Bresse     ## use - Football Bourg-en-Bresse Péronnas 01 - why? why not?
+  | Bourg Peronnas
+Stade Brestois 29, Brest
+  | Brest
+LB Châteauroux, Châteauroux
+  | Chateauroux
+Clermont Foot 63, Clermont
+  | Clermont
+Le Havre AC, Le Havre
+  | Le Havre
+RC Lens, Lens
+  | Lens
+FC Lorient, Lorient
+  | Lorient
+AS Nancy Lorraine, Nancy
+  | Nancy
+Chamois Niortais FC, Niort
+  | Niort
+US Orléans, Orléans
+  | Orleans
+
+US Quevilly-Rouen Métropole,  Petit-Quevilly   ## use Quevilly-Rouen - why? why not?
+  | Quevilly Rouen
+FC Sochaux-Montbéliard, Montbéliard
+  | Sochaux
+Tours FC, Tours
+  | Tours
+Valenciennes FC, Valenciennes
+  | Valenciennes
+
+AC Arles-Avignon, Avignon
+  | Arles
+
+SC Bastia, Bastia
+  | Bastia
+CA Bastia, Bastia
+  | CA Bastia
+
+AS Beauvais Oise,  Beauvais Oise
+  | Beauvais
+
+Racing Besançon, Besançon   ## use Besançon RC - why? why not?
+  | Besancon
+US Boulogne,  Boulogne-sur-Mer
+  | Boulogne
+AS Cannes, Cannes
+  | Cannes
+FCO Charleville, Charleville-Mézières
+  | Charleville
+US Créteil, Créteil
+  | Creteil
+SAS Épinal,  Épinal
+  | Epinal
+Évian TG FC, Thonon-les-Bains     ## use Évian Thonon-Gaillard FC - why? why not?
+  | Evian Thonon Gaillard
+Grenoble Foot 38, Grenoble
+  | Grenoble
+FC Gueugnon, Gueugnon
+  | Gueugnon
+FC Istres, Istres
+  | Istres
+Stade Lavallois, Laval
+  | Laval
+Le Mans FC, Le Mans
+  | Le Mans
+FC Libourne-Saint-Seurin, Libourne
+  | Libourne
+CS Louhans-Cuiseaux,   Louhans  ## and Cuiseaux
+  | Louhans-Cuis.
+FC Martigues, Martigues
+  | Martigues
+FC Mulhouse, Mulhouse
+  | Mulhouse
+Perpignan FC,  Canet-en-Roussillon
+  | Perpignan
+
+
+FC Rouen,  Rouen
+  | Rouen
+CS Sedan-Ardennes,  Sedan
+  | Sedan
+FC Sète,  Sète
+  | Sete
+Stade Briochin, Saint-Brieuc
+  | St Brieuc
+Sporting Toulon Var, Toulon
+  | Toulon
+
+ASOA Valence, Valence   ## use Olympique Valence - why? why not?
+  | Valence
+Vannes OC,   Vannes
+  | Vannes
+Wasquehal Foot, Wasquehal     ## use ES Wasquehal - why? why not?
+  | Wasquehal

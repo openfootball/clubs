@@ -61,22 +61,6 @@ oerebro,      Örebro SK, se
 gefle,        Gefle IF, se
 djurgardens,  Djurgårdens IF, se
 
-
-################################
-# Finland (FIN), fi
-
-helsinki,    HJK Helsinki|Helsingin Jalkapalloklubi|HJK, fi
-interturku,  FC Inter Turku, fi
-tpsturku,    TPS Turku, fi
-honkaespoo,  FC Honka Espoo, fi
-kuopio,      KuPS Kuopio, fi
-myllykosken, Myllykosken Pallo-47, fi
-lahti,       FC Lahti, fi
-jyvaskyla,   JJK Jyväskylä, fi
-haka,        Valkeakosken Haka, fi
-tampere,     Tampere United, fi
-
-
 #######################
 # Latvija (LVA), lv
 
@@ -112,4 +96,3 @@ tvmktallinn,    FC TVMK Tallinn, ee
 narva,          JK Trans Narva, ee
 kalju,          JK Nõmme Kalju, ee
 kalev,          JK Sillamäe Kalev, ee
-
