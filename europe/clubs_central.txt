@@ -41,22 +41,6 @@ nitra,      FC Nitra, sk
 petrzalka,  MFK Petržalka, sk
 
 
-#############################
-# Hungary (HUN), hu
-
-budapesthonved, Budapest Honvéd FC, hu
-mtkbudapest,    MTK Budapest, hu
-ferencvarosi,   Ferencvárosi TC, hu
-videoton,       Videoton FC, hu
-debreceni,      Debreceni VSC, hu
-gyori,          Győri ETO FC, hu
-paksi,         Paksi SE, hu
-kecskemeti,    Kecskeméti TE, hu
-ujpest,        Újpest FC, hu
-szombathelyi,  Szombathelyi Haladás, hu
-zalaegerszegi, Zalaegerszegi TE, hu
-
-
 
 #####################################
 # Slovenia (SVN), si

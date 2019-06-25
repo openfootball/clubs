@@ -55,18 +55,6 @@ uesantacoloma, UE Santa Coloma, ad
 lusitans,    FC Lusitans, ad
 
 
-#############################
-# Croatia (CRO), hr
-
-zagreb,       Dinamo Zagreb|NK Dinamo Zagreb,        hr, city:zagreb   # todo: change key to dinamozagreb ???
-hajduksplit,  HNK Hajduk Split, hr
-rnksplit,     RNK Split, hr
-koprivnica,   NK Slaven Koprivnica, hr
-varazdin,     NK Varaždin, hr
-rijeka,       HNK Rijeka, hr
-osijek,       NK Osijek, hr
-cibalia,      HNK Cibalia, hr
-sibenik,      HNK Šibenik, hr
 
 
 #############################
