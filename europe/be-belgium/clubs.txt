@@ -1,5 +1,5 @@
 ##########################################
-# be-belgium   - [nl,fr,de]
+# Belgium (BEL), be - [nl,fr,de]
 
 
 RSC Anderlecht, 1908,   Brussels      ## use (just) Anderlecht or Brussel-Anderlecht ??

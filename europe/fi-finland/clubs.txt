@@ -1,5 +1,5 @@
-################################################
-# Finland (fi)
+################################
+# Finland (FIN), fi
 
 
 HJK Helsinki, Helsinki    ## Helsingin Jalkapalloklubi
