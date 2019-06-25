@@ -1,0 +1,206 @@
+##############################
+### Deutschland (), de
+
+
+Bayern München,   München › Bayern
+  | Bayern Munich | Bayern Muenchen
+TSV 1860 München, München › Bayern
+  | Munich 1860 | TSV 1860 Muenchen
+
+
+1. FC Nürnberg, Nürnberg › Bayern    ### todo: always map Nurnberg to 1. FC Nürnberg ?!
+  | Nurnberg | 1. FC Nuernberg
+Greuther Fürth, Fürth    › Bayern
+  | Greuther Furth | SpVgg Greuther Fuerth
+FC Augsburg,    Augsburg › Bayern
+  | Augsburg
+SpVgg Unterhaching,  Unterhaching › Bayern
+  | Unterhaching
+FC Ingolstadt 04,    Ingolstadt › Bayern               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
+  | Ingolstadt
+SSV Jahn Regensburg,   Regensburg › Bayern
+  | Regensburg
+1. FC Schweinfurt 05,  Schweinfurt › Bayern
+  | Schweinfurt
+Würzburger Kickers,     Würzburg › Bayern
+  | Wurzburger Kickers
+Wacker Burghausen,  Burghausen › Bayern
+  | Burghausen
+
+
+1. FC Köln,   Köln › Nordrhein-Westfalen
+  | FC Koln | 1. FC Koeln
+Fortuna Köln, Köln › Nordrhein-Westfalen
+  | F Koln  | Fortuna Koeln
+
+Fortuna Düsseldorf, Düsseldorf › Nordrhein-Westfalen
+  | Dusseldorf | Fortuna Dusseldorf | Fortuna Duesseldorf
+
+Borussia Dortmund,    Dortmund      › Nordrhein-Westfalen
+  | Dortmund
+FC Schalke 04,        Gelsenkirchen › Nordrhein-Westfalen
+  | Schalke 04
+Bayer 04 Leverkusen,  Leverkusen    › Nordrhein-Westfalen
+  | Leverkusen | Bayer Leverkusen
+MSV Duisburg,         Duisburg      › Nordrhein-Westfalen     ## until 1965/66 Meidericher SV
+  | Duisburg
+Bor. Mönchengladbach, Mönchengladbach › Nordrhein-Westfalen
+  | Bor. Moenchengladbach | M'Gladbach | M'gladbach | Borussia Monchengladbach
+
+VfL Bochum,            Bochum › Nordrhein-Westfalen
+  | Bochum
+SG Wattenscheid 09,    Bochum › Nordrhein-Westfalen   ## Bochum-Wattenscheid - Bochumer Stadtbezirk
+  | Wattenscheid
+
+Arminia Bielefeld,    Bielefeld     › Nordrhein-Westfalen
+  | Bielefeld
+Preussen Münster,     Münster       › Nordrhein-Westfalen
+  | Preussen Muenster
+Gütersloh,            Gütersloh     › Nordrhein-Westfalen
+  | Gutersloh
+KFC Uerdingen,        Krefeld       › Nordrhein-Westfalen     ## bis 1995 FC Bayer 05 Uerdingen
+  | Uerdingen | Bayer 05 Uerdingen
+Alemannia Aachen,     Aachen        › Nordrhein-Westfalen
+  | Aachen
+SC Paderborn 07,      Paderborn     › Nordrhein-Westfalen
+  | Paderborn
+Rot Weiss Ahlen,    Ahlen › Nordrhein-Westfalen
+  | Ahlen
+Rot-Weiß Oberhausen,   Oberhausen › Nordrhein-Westfalen
+  | Oberhausen | Rot-Weiss Oberhausen
+Sportfreunde Siegen,   Siegen › Nordrhein-Westfalen
+  | Siegen
+Wuppertaler SV,         Wuppertal › Nordrhein-Westfalen
+  | Wuppertaler
+Rot-Weiss Essen,     Essen › Nordrhein-Westfalen
+  | Essen | RW Essen
+##  - 2 (1): 1993-94
+##  - 2 (3): 2006-07 2004-05 1996-97
+## note:  Schwarz-Weiß Essen  (played in 2. liga too)
+
+
+
+1. FC Saarbrücken,   Saarbrücken › Saarland
+  | Saarbrucken | 1. FC Saarbruecken
+FC 08 Homburg,       Homburg     › Saarland
+  | Homburg
+Borussia Neunkirchen,  Neunkirchen › Saarland
+  | Borussia Neunkirchen
+
+Osnabrück,               Osnabrück › Niedersachsen
+  | Osnabruck
+VfL Wolfsburg,           Wolfsburg › Niedersachsen
+  | Wolfsburg
+Hannover 96,             Hannover › Niedersachsen
+  | Hannover
+Eintracht Braunschweig,  Braunschweig › Niedersachsen
+  | Braunschweig
+SV Meppen,              Meppen › Niedersachsen
+  | Meppen
+VfB Oldenburg,         Oldenburg › Niedersachsen
+  | Oldenburg
+
+Energie Cottbus,      Cottbus › Brandenburg
+  | Cottbus
+SV Babelsberg 03,     Potsdam › Brandenburg     ## (Potsdam-Babelsberg)
+  | Babelsberg
+
+Hertha BSC,            	Berlin › Berlin
+  | Hertha
+Tennis Borussia Berlin, Berlin › Berlin
+  | TB Berlin | TeBe Berlin
+1. FC Union Berlin,     Berlin › Berlin
+  | Union Berlin
+Blau-Weiß 90 Berlin (-1992), Berlin › Berlin
+  | Blau-Weiss 90 Berlin
+SC Tasmania 1900 Berlin (-1973), Berlin › Berlin
+  | Tasmania 1900 Berlin
+
+BFC Dynamo Berlin,     Berlin › Berlin
+  | BFC Dynamo
+
+Hamburger SV,      Hamburg › Hamburg
+  | Hamburg
+FC St. Pauli,      Hamburg › Hamburg   ## use stadtteil St. Pauli ??
+  | St Pauli | St. Pauli
+
+Werder Bremen,      Bremen › Bremen
+
+
+VfB Stuttgart,         Stuttgart › Baden-Württemberg
+  | Stuttgart
+Stuttgarter Kickers,   Stuttgart › Baden-Württemberg
+  | Stuttgarter K
+SC Freiburg,       	  Freiburg  › Baden-Württemberg
+  | Freiburg
+TSG 1899 Hoffenheim,  Sinsheim › Baden-Württemberg   ## Sinsheim-Hoffenheim
+  | Hoffenheim | 1899 Hoffenheim
+Karlsruher SC,        Karlsruhe › Baden-Württemberg
+  | Karlsruhe
+SSV Ulm 1846,         Ulm › Baden-Württemberg
+  | Ulm
+VfR Aalen,          Aalen › Baden-Württemberg
+  | Aalen
+1. FC Heidenheim,   Heidenheim an der Brenz › Baden-Württemberg
+  | Heidenheim
+SSV Reutlingen 05,     Reutlingen › Baden-Württemberg
+  | Reutlingen
+SV Sandhausen,         Sandhausen › Baden-Württemberg
+  | Sandhausen
+VfR Mannheim,        Mannheim › Baden-Württemberg
+  | Mannheim
+  ##  - 2 (8): 2002-03....1999-00 (4) 1996-97....1993-94 (4)
+SV Waldhof Mannheim,   Mannheim › Baden-Württemberg
+  | Waldhof Mannheim
+  ## note: SV Waldhof Mannheim (played in 1. liga and 2. liga too)
+
+
+
+Eintracht Frankfurt, Frankfurt am Main › Hessen
+  | Ein Frankfurt
+FSV Frankfurt,       Frankfurt am Main › Hessen
+  | FSV Frankfurt | Frankfurt FSV
+
+SV Darmstadt 98,       Darmstadt › Hessen
+  | Darmstadt
+SV Wehen Wiesbaden,     Wiesbaden › Hessen
+  | Wehen
+Kickers Offenbach,     Offenbach am Main › Hessen
+  | Offenbach
+
+1. FC Kaiserslautern, Kaiserslautern › Rheinland-Pfalz
+  | Kaiserslautern
+1. FSV Mainz 05,      Mainz          › Rheinland-Pfalz
+  | Mainz
+Eintracht Trier,      Trier          › Rheinland-Pfalz
+  | Ein Trier
+TuS Koblenz,         Koblenz        › Rheinland-Pfalz
+  | Koblenz
+
+Lübeck,               Lübeck  › Schleswig-Holstein
+  | Lubeck
+Holstein Kiel,       Kiel    › Schleswig-Holstein
+  | Holstein Kiel
+
+Hansa Rostock,        Rostock › Mecklenburg-Vorpommern
+  | Hansa Rostock
+
+Dynamo Dresden,      Dresden › Sachsen
+  | Dresden
+
+RB Leipzig,           Leipzig › Sachsen
+  | RB Leipzig
+VfB Leipzig (-2004),  Leipzig › Sachsen   ## note: 2004 aufgelöst in bl 1993/94
+  | Leipzig | VfB Leipzig
+
+Chemnitzer FC,       Chemnitz › Sachsen
+  | Chemnitz
+FC Erzgebirge Aue,   Aue      › Sachsen
+  | Erzgebirge Aue
+FSV Zwickau,        Zwickau  › Sachsen
+  | Zwickau
+
+FC Carl Zeiss Jena,  Jena   › Thüringen
+  | CZ Jena
+FC Rot-Weiß Erfurt,  Erfurt › Thüringen
+  | Erfurt
