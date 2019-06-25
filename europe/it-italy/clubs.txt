@@ -1,0 +1,158 @@
+##########################################
+# Italy, it  [it]
+
+
+AS Roma,  Roma
+  | Roma
+SS Lazio, Roma
+  | Lazio
+
+AC Milan,                 Milano
+  | Milan
+FC Internazionale Milano, Milano
+  | Inter | Internazionale
+
+Torino FC,   Torino
+  | Torino
+Juventus,    Torino
+  | Juventus
+
+Hellas Verona FC, Verona
+  | Verona
+AC Chievo Verona, Verona
+  | Chievo
+
+Genoa CFC,      Genova
+  | Genoa
+UC Sampdoria,   Genova
+  | Sampdoria
+
+Atalanta BC,     Bergamo
+  | Atalanta
+Benevento,       Benevento
+Bologna FC,      Bologna
+  | Bologna
+Cagliari Calcio, Cagliari
+  | Cagliari
+FC Crotone,      Crotone
+  | Crotone
+ACF Fiorentina, Firenze
+  | Fiorentina
+SSC Napoli,     Napoli
+  | Napoli
+US Sassuolo Calcio, Sassuolo
+  | Sassuolo
+SPAL,           Ferrara
+  | Spal
+Udinese Calcio, Udine
+  | Udinese
+
+Ascoli, Ascoli Piceno
+Avellino, Avellino
+Bari, Bari
+Brescia, Brescia
+Carpi, Carpi
+Cesena, Cesena
+Cittadella, Cittadella
+Cremonese, Cremona
+Empoli, Empoli
+Foggia, Foggia
+Frosinone, Frosinone
+Novara, Novara
+Palermo, Palermo
+Parma, Parma
+Perugia, Perugia
+Pescara, Pescara
+Pro Vercelli, Vercelli
+Salernitana, Salerno
+Spezia, La Spezia
+Ternana, Terni
+Venezia, Venezia
+Virtus Entella, Chiavari
+
+
+Piacenza Calcio, Piacenza
+  | Piacenza | Piacenza Calcio 1919
+LR Vicenza Virtus, Vicenza
+  | Vicenza
+Calcio Padova, Padova
+  | Padova
+Modena FC, Modena
+  | Modena
+SS Robur Siena, Siena
+  | Siena
+US Anconitana ASD, Ancona
+  | Ancona
+
+Cosenza Calcio, Cosenza
+  | Cosenza
+SS Fidelis Andria, Andria
+  | F. Andria | SS Fidelis Andria 1928
+US Lecce, Lecce
+  | Lecce
+AS Lucchese Libertas,	Lucca
+  | Lucchese | AS Lucchese Libertas 1905
+SS Monza, Monza
+  | Monza | SS Monza 1912
+Ravenna FC, Ravenna
+  | Ravenna | Ravenna FC 1913
+AC Reggiana, Reggio Emilia
+  | Reggiana | AC Reggiana 1919
+Urbs Reggina, Reggio Calabria
+  | Reggina | Urbs Reggina 1914
+ACD Treviso, Treviso
+  | Treviso
+ASD Castel di Sangro, Castel di Sangro
+  | C. Sangro
+Unione Calcio Albinoleffe, Albino e Leffe
+  | Albinoleffe
+Calcio Catania, Catania
+  | Catania
+Como 1907, Como
+  | Como
+AS Livorno Calcio, Livorno
+  | Livorno
+ACR Messina SSD, Messina
+  | Messina
+US Triestina Calcio, Trieste
+  | Triestina | US Triestina Calcio 1918
+SS Arezzo, Arezzo
+  | Arezzo
+US Catanzaro, Catanzaro
+  | Catanzaro | US Catanzaro 1929
+
+
+ASD Virtus Bergamo, Alzano Lombardo
+  | Alzano | ASD Virtus Bergamo 1909 | Virtus Bergamo | Alzano Virescit
+MC Fermana FC, Fermo
+  | Fermana
+Gallipoli Football SSD, Gallipoli
+  | Gallipoli | Gallipoli Football 1909 SSD
+ASD US Grosseto, Grosseto
+  | Grosseto | ASD US Grosseto 1912
+AS Gubbio, Gubbio
+  | Gubbio | AS Gubbio 1910
+SS Juve Stabia, Castellammare di Stabia
+  | Juve Stabia
+SSD Latina Calcio, Latina
+  | Latina | SSD Latina Calcio 1932
+Mantova SSD, Mantova
+  | Mantova | Mantova 1911 SSD
+ASD Nocerina, Nocera Inferiore
+  | Nocerina | ASD Nocerina 1910
+AC Pisa,        Pisa
+  | Pisa | AC Pisa 1909
+US Pistoiese,    Pistoia
+  | Pistoiese | US Pistoiese 1921
+Portogruaro Calcio ASD, Portogruaro
+  | Portogruaro
+Rimini FC SSD,   Rimini
+  | Rimini | Rimini FC 1912 SSD
+ASD Savoia,     Torre Annunziata
+  | Savoia | ASD Savoia 1908
+Trapani Calcio, Trapani
+  | Trapani
+Varese Calcio,  Varese
+  | Varese
+Virtus Lanciano, Lanciano
+  | Virtus Lanciano | ASD 1920 Lanciano Calcio
