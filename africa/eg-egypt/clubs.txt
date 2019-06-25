@@ -4,40 +4,42 @@
 
 # 18 teams
 
-## todo/fix:  use new format/style for cities!!!!!
 
-
-Al Ahly,   city:cairo
+Al Ahly,                Cairo › Cairo
   | Al-Ahly | Al Ahly Cairo | Al Ahly SC | Al Ahly Sporting Club
-Zamalek,   city:giza
-  | Zamalek SC | Zamalek Sporting Club
-Ismaily,   city:ismailia
-  | Ismaily SC
-Al Ittihad Al Sakandary, city:alexandria
-  | Alexandrian Union Club
-
-Al Mokawloon Al Arab,   city:cairo
+Al Mokawloon Al Arab,   Cairo › Cairo  ## Nasr City
   | Arab Contractors (Sporting Club)
-El Dakhleya,  city:cairo
-El Entag El Harby‎,  city:cairo
+El Dakhleya,            Cairo › Cairo   ##  Abbassia
+El Entag El Harby,      Cairo › Cairo
   | Military Production
-El Gouna,   city:hurghada
-  | El Gouna FC
-Enppi,  city:cairo
-  | ENPPI Club
-Ghazl El Mahalla,  city:elmahallaelkubra
-  | Ghazl El Mahalla SC | Ghazl El Mahalla Sporting Club
-Haras El Hodood,  city:alexandria
-  | Haras El-Hodood SC
-Ittihad El Shorta, city:cairo
+ENPPI SC,               Cairo › Cairo
+  | Enppi | ENPPI Club  
+Ittihad El Shorta,      Cairo › Cairo
   | Police Union
-Misr El Makasa,  city:fayoum
-Petrojet,   city:suez
-  | Petrojet FC | Petrojet Football Club
-Smouha,  city:alexandria
-  | Smouha SC | Smouha Sporting Club
-Tala'ea El Gaish,  city:cairo
+Tala'ea El Gaish,       Cairo › Cairo
   | Army's Vanguards | Tala'ea El-Gaish SC
-Telephonat Bani Sweif,  city:banisweif
-Wadi Degla,  city:cairo
-  | Wadi Degla FC
+Wadi Degla,             Cairo › Cairo
+  | Wadi Degla SC | Wadi Degla FC
+
+
+Al Ittihad Al Sakandary,    Alexandria › Alexandria
+  | Alexandrian Union Club
+Haras El Hodood,            Alexandria › Alexandria   ##  El Max
+  | Haras El-Hodood SC
+Smouha SC,                  Alexandria › Alexandria   ## Smouha
+  | Smouha | Smouha Sporting Club
+
+
+Zamalek,   Giza › Giza
+  | Zamalek SC | Zamalek Sporting Club
+Ismaily,   Ismailia › Ismailia
+  | Ismaily SC
+El Gouna,    Hurghada › Red Sea   ## El Gouna
+  | El Gouna FC
+Ghazl El Mahalla,  El Mahalla El Kubra › Gharbia
+  | Ghazl El Mahalla SC | Ghazl El Mahalla Sporting Club
+Misr El Makasa,  Faiyum › Faiyum
+Petrojet,   Suez › Suez
+  | Petrojet FC | Petrojet Football Club
+Telephonat Bani Sweif,  Beni Suef › Beni Suef
+  | TE Beni Suef
