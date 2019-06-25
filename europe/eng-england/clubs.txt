@@ -1,0 +1,433 @@
+##################################
+# England (ENG)
+#
+#  note: see wal.txt for teams from wales
+
+
+Arsenal FC, London   ## Greater London
+  | Arsenal
+Chelsea FC, London   ## Greater London
+  | Chelsea
+Tottenham Hotspur FC, London   ## Greater London
+  | Tottenham | Tottenham Hotspur
+West Ham United FC, London   ## Greater London
+  | West Ham  | West Ham United
+Fulham FC,         London   ## Greater London
+  | Fulham
+Charlton Athletic FC,  London   ## Greater London
+  | Charlton | Charlton Athletic
+Crystal Palace FC,  London   ## Greater London
+  | Crystal Palace
+
+Wimbledon FC,         London   ## Greater London
+  | Wimbledon
+AFC Wimbledon,        London   ## London- Kingston upon Thames ??
+
+Queens Park Rangers FC,  London   ## Greater London
+  | QPR | Queens Park Rangers
+Millwall FC,             London        # London-South Bermondsey
+  | Millwall
+Brentford FC,            London        # London-Brentford, Greater London
+  | Brentford
+Leyton Orient FC,       London  ## London-Leyton
+  | Leyton Orient
+Barnet FC,              London ## London-Edgware
+  | Barnet
+Dagenham & Redbridge FC, London  ## London-Dagenham
+  | Dag and Red | Dagenham and Redbridge
+
+Bromley FC,                London   ## London-Bromley
+  | Bromley
+Hayes & Yeading United FC,  London  ## London-Hayes
+  | Hayes & Yeading
+Welling United FC,          London
+  | Welling United
+Sutton United FC,          London
+  | Sutton
+
+Thames AFC (1928-1932),  London  ## London-Custom House
+  | Thames
+
+
+
+Everton FC,   Liverpool › Lancashire   ## North West England
+  | Everton
+Liverpool FC, Liverpool › Lancashire
+  | Liverpool
+
+Blackburn Rovers FC,  Blackburn › Lancashire
+  | Blackburn | Blackburn Rovers
+Burnley FC,           Burnley › Lancashire
+  | Burnley
+Blackpool FC,        Blackpool › Lancashire
+  | Blackpool
+Preston North End FC,    Preston › Lancashire   ## North West
+  | Preston | Preston North End
+AFC Fylde,            Wesham › Lancashire       ## in the Borough of Fylde
+  | Fylde
+Darwen FC (1870-2009),    Darwen › Lancashire  ## North West England
+  | Darwen
+Bootle FC (1879-1893) ,  Bootle › Lancashire
+  | Bootle
+Nelson FC,           Nelson, Lancashire
+  | Nelson
+
+Manchester United FC,  Manchester     ## North West England
+  | Man United | Manchester United
+Manchester City FC,    Manchester     ## North West England
+  | Man City | Manchester City
+
+Bolton Wanderers FC,  Bolton › Greater Manchester
+  | Bolton | Bolton Wanderers
+Wigan Athletic FC,    Wigan › Greater Manchester
+  | Wigan  | Wigan Athletic
+Wigan Borough FC (1920-1931),   Wigan › Greater Manchester    #  Lancashire
+  | Wigan Borough
+Oldham Athletic AFC,   Oldham › Greater Manchester
+  | Oldham  | Oldham Athletic
+Stockport County FC,    Stockport › Greater Manchester
+  | Stockport | Stockport County
+Bury FC,                   Bury › Greater Manchester
+  | Bury
+Rochdale AFC,         Rochdale › Greater Manchester
+  | Rochdale
+Altrincham FC,   Altrincham › Greater Manchester
+  | Altrincham
+Droylsden FC,         Droylsden › Greater Manchester
+  | Droylsden
+Hyde United FC,   Hyde › Greater Manchester
+  | Hyde United
+Stalybridge Celtic FC, Stalybridge › Greater Manchester
+  | Stalybridge Celtic
+
+Aston Villa FC,       Birmingham › Warwickshire   ## West Midlands
+  | Aston Villa
+Birmingham City FC,   Birmingham › Warwickshire   ## West Midlands
+  | Birmingham | Birmingham City
+
+Newcastle United FC,  Newcastle upon Tyne › Northumberland   ## North East
+  | Newcastle | Newcastle United
+Ashington AFC, Ashington › Northumberland
+  | Ashington
+
+South Shields FC, South Shields › Tyne and Wear
+  | South Shields
+Gateshead FC,  Gateshead › Tyne and Wear
+  | Gateshead
+
+Southampton FC,       Southampton › Hampshire
+  | Southampton
+Aldershot Town FC,     Aldershot › Hampshire
+  | Aldershot
+Portsmouth FC,        Portsmouth › Hampshire
+  | Portsmouth
+Eastleigh FC,         Eastleigh › Hampshire
+  | Eastleigh
+
+Sunderland AFC,       Sunderland
+  | Sunderland
+
+Leicester City FC,    Leicester
+  | Leicester | Leicester City
+Loughborough FC (1886-1900),   Loughborough › Leicestershire,
+  | Loughborough
+
+West Bromwich Albion FC,  West Bromwich › West Midlands
+  | West Brom | West Bromwich Albion
+Coventry City FC,       Coventry › West Midlands
+  | Coventry | Coventry City
+Wolverhampton Wanderers FC,   Wolverhampton › West Midlands
+  | Wolves | Wolverhampton Wanderers
+Walsall FC,              Walsall › West Midlands
+  | Walsall
+Solihull Moors FC,   Solihull › West Midlands
+  | Solihull
+Stafford Rangers FC,   Stafford › West Midlands
+  | Stafford Rangers
+
+
+York City FC,         York › North Yorkshire
+  | York | York City
+Middlesbrough FC,     Middlesbrough › North Yorkshire
+  | Middlesbrough | Middlesboro
+Middlesbrough Ironopolis FC (1889-1894), Middlesbrough › North Yorkshire
+  | Middlesbrough Ironopolis
+Scarborough Athletic FC,  Scarborough › North Yorkshire
+  | Scarborough
+
+Leeds United FC,        Leeds › West Yorkshire
+  | Leeds | Leeds United
+Leeds City FC (1904-1919),  Leeds › West Yorkshire
+  | Leeds City
+
+Bradford City AFC,         Bradford › West Yorkshire
+  | Bradford | Bradford City
+Bradford Park Avenue AFC,  Bradford › West Yorkshire
+  | Bradford Park Avenue
+
+Huddersfield Town AFC,  Huddersfield › West Yorkshire
+  | Huddersfield | Huddersfield Town
+FC Halifax Town,     Halifax › West Yorkshire
+  | Halifax | Halifax Town
+Farsley Celtic FC,     Farsley › West Yorkshire
+  | Farsley
+Guiseley AFC,   Guiseley › West Yorkshire
+  | Guiseley
+
+Hull City AFC,    Hull › East Yorkshire    ## change Hull to Kingston upon Hull  - why? why not?
+  | Hull | Hull City
+North Ferriby United AFC,  North Ferriby › East Yorkshire
+  | North Ferriby
+
+Sheffield Wednesday FC,  Sheffield › South Yorkshire
+  | Sheffield Weds | Sheffield Wednesday
+Sheffield United FC,  Sheffield › South Yorkshire
+  | Sheffield United
+
+Barnsley FC,     Barnsley › South Yorkshire
+  | Barnsley
+Rotherham United FC,    Rotherham › South Yorkshire
+  | Rotherham | Rotherham United
+Rotherham County FC (1870-1925), Rotherham › South Yorkshire
+  | Rotherham County
+Rotherham Town FC (1899-1925), Rotherham › South Yorkshire   ## note: a second Rotherham Town formed in 1899; first in 1878-1896
+  | Rotherham Town
+Doncaster Rovers FC,    Doncaster › South Yorkshire
+  | Doncaster | Doncaster Rovers
+
+Stoke City FC,          Stoke-on-Trent › Staffordshire
+  | Stoke | Stoke City
+Port Vale FC,           Stoke-on-Trent › Staffordshire
+  | Port Vale
+Burton Albion FC,        Burton upon Trent › Staffordshire
+  | Burton | Burton Albion
+Burton United FC (1901-1910),    Burton upon Trent › Staffordshire
+  | Burton United
+Burton Swifts FC (1871-1901),    Burton upon Trent › Staffordshire
+  | Burton Swifts
+Burton Wanderers FC (1871-1901), Burton upon Trent › Staffordshire
+  | Burton Wanderers
+Tamworth FC,           Tamworth › Staffordshire
+  | Tamworth
+
+Derby County FC,        Derby › Derbyshire
+  | Derby | Derby County
+Norwich City FC,         Norwich › Norfolk
+  | Norwich | Norwich City
+
+Watford FC,       Watford › Hertfordshire
+  | Watford
+
+Oxford United FC,        Oxford › Oxfordshire
+  | Oxford | Oxford United
+
+Peterborough United FC,  Peterborough › Cambridgeshire
+  | Peterboro | Peterborough United
+Cambridge United FC,     Cambridge › Cambridgeshire
+  | Cambridge | Cambridge United
+## note: there's also <=> Cambridge City  (!!)
+
+Histon FC,          Histon and Impington › Cambridgeshire
+  | Histon
+
+Ipswich Town FC,   Ipswich › Suffolk
+  | Ipswich | Ipswich Town
+
+Notts County FC,           Nottingham › Nottinghamshire
+  | Notts County
+Nottingham Forest FC,   West Bridgford › Nottinghamshire
+  | Nott'm Forest | Nottingham Forest
+Mansfield Town FC,      Mansfield › Nottinghamshire
+  | Mansfield | Mansfield Town
+
+AFC Bournemouth, Bournemouth › Dorset
+  | Bournemouth
+Weymouth FC,       Weymouth › Dorset
+  | Weymouth
+
+Reading FC,             Reading › Berkshire
+  | Reading
+Maidenhead United FC,   Maidenhead › Berkshire
+  | Maidenhead
+
+Brighton & Hove Albion FC,   Falmer › East Sussex
+  | Brighton | Brighton & Hove Albion
+Crawley Town FC,             Crawley › West Sussex
+  | Crawley Town
+Eastbourne Borough FC,   Eastbourne › East Sussex
+  | Eastbourne Borough
+Lewes FC,          Lewes › East Sussex
+  | Lewes
+
+Swindon Town FC,  Swindon › Wiltshire
+  | Swindon | Swindon Town
+
+Colchester United FC,      Colchester › Essex
+  | Colchester | Colchester United
+Southend United FC,     Southend-on-Sea › Essex
+  | Southend | Southend United
+Braintree Town FC,     Braintree › Essex
+  | Braintree Town
+Grays Athletic FC,  Grays › Essex
+  | Grays
+Canvey Island FC,    Canvey Island › Essex
+  | Canvey Island
+
+Lincoln City FC,  Lincoln › Lincolnshire
+  | Lincoln | Lincoln City
+## note: there's also <=> Lincoln United  (!!)
+
+Scunthorpe United FC,    Scunthorpe › Lincolnshire
+  | Scunthorpe | Scunthorpe United
+Boston United FC,      Boston › Lincolnshire
+  | Boston | Boston United
+## note: <=> there's also  Boston Town
+
+Gainsborough Trinity FC, Gainsborough › Lincolnshire,
+  | Gainsborough Trinity
+
+Grimsby Town FC,        Cleethorpes › North East Lincolnshire
+  | Grimsby | Grimsby Town
+
+
+Bristol City FC,       Bristol                ## South West
+  | Bristol City
+Bristol Rovers FC,     Bristol
+  | Bristol Rvs | Bristol Rovers
+
+Tranmere Rovers FC,    Birkenhead › Merseyside
+  | Tranmere | Tranmere Rovers
+Southport FC,   Southport › Merseyside
+  | Southport
+New Brighton Tower FC (1898-1901), New Brighton › Merseyside
+  | New Brighton | New Brighton Tower
+
+Plymouth Argyle FC,     Plymouth › Devon
+  | Plymouth | Plymouth Argyle
+Exeter City FC,         Exeter › Devon
+  | Exeter | Exeter City
+Torquay United FC,      Torquay › Devon
+  | Torquay | Torquay United
+
+Gillingham FC,          Gillingham › Kent
+  | Gillingham
+Maidstone United FC,    Maidstone › Kent
+  | Maidstone | Maidstone United
+Dartford FC,     Dartford › Kent
+  | Dartford
+Dover Athletic FC,  Dover › Kent
+  | Dover Athletic
+Ebbsfleet United FC,  Northfleet › Kent   ## note: before 2007, the club was called Gravesend & Northfleet
+  | Ebbsfleet | Gravesend
+
+
+Luton Town FC,          Luton › Bedfordshire
+  | Luton | Luton Town
+
+Milton Keynes Dons FC,   Milton Keynes › Buckinghamshire
+  | Milton Keynes Dons
+Wycombe Wanderers FC,  High Wycombe › Buckinghamshire
+  | Wycombe | Wycombe Wanderers
+
+Yeovil Town FC,              Yeovil › Somerset
+  | Yeovil
+Bath City FC,                Bath › Somerset
+  | Bath City
+
+Forest Green Rovers FC,     Nailsworth › Gloucestershire
+  | Forest Green
+Cheltenham Town FC,         Cheltenham › Gloucestershire
+  | Cheltenham
+## note: there's also <=> Cheltenham Saracens  (!!)
+
+Kidderminster Harriers FC,  Kidderminster › Worcestershire
+  | Kidderminster | Kidderminster Harriers
+Woking FC,                  Woking › Surrey
+  | Woking
+
+Chesterfield FC,       Chesterfield › Derbyshire
+  | Chesterfield
+Alfreton Town FC,   Alfreton › Derbyshire
+  | Alfreton Town
+Glossop North End AFC, Glossop › Derbyshire
+  | Glossop North End
+
+Carlisle United FC,    Carlisle › Cumbria
+  | Carlisle | Carlisle United
+## note: there's also <=> Carlisle City FC (!!)
+
+Barrow AFC,    Barrow-in-Furness › Cumbria
+  | Barrow
+## note: <=> there's also  Barrow Town
+
+Workington AFC, Workington › Cumbria
+  | Workington
+
+Northampton Town FC,    Northampton › Northamptonshire
+  | Northampton | Northampton Town
+## note: there's also <=> Northampton Sileby Rangers  (!!)
+
+AFC Rushden & Diamonds,   Rushden › Northamptonshire
+  | Rushden & D | Rushden & Diamonds
+Kettering Town FC,  Kettering › Northamptonshire
+  | Kettering Town
+
+Shrewsbury Town FC,   Shrewsbury › Shropshire
+  | Shrewsbury | Shrewsbury Town
+Telford United FC (1872-2004),   Telford › Shropshire
+  | Telford United
+AFC Telford United (2004-),  Telford › Shropshire
+  | AFC Telford United
+
+Chester FC,    Chester › Cheshire
+  | Chester
+Crewe Alexandra FC,    Crewe › Cheshire
+  | Crewe | Crewe Alexandra
+Macclesfield Town FC, Macclesfield › Cheshire
+  | Macclesfield
+Northwich Victoria FC,  Northwich › Cheshire
+  | Northwich | Northwich Victoria
+
+Fleetwood Town FC,  Fleetwood › Lancashire
+  | Fleetwood Town
+Accrington Stanley FC,  Accrington › Lancashire
+  | Accrington | Accrington Stanley
+Accrington FC (1878-1896),  Accrington › Lancashire
+  | Accrington F.C.
+Morecambe FC,           Morecambe › Lancashire
+  | Morecambe
+
+Hereford FC (2014-),            Hereford › Herefordshire
+  | Hereford
+Hereford United FC (1924-2014), Hereford › Herefordshire
+  | Hereford United
+
+St. Albans City FC,  St. Albans  › Hertfordshire
+  | St. Albans
+Boreham Wood FC,     Borehamwood › Hertfordshire
+  | Boreham Wood
+Stevenage FC,        Stevenage   › Hertfordshire
+  | Stevenage | Stevenage Borough
+
+Hartlepool United FC,   Hartlepool › Durham
+  | Hartlepool | Hartlepool United
+Darlington FC, Darlington › Durham
+  | Darlington
+## note: <=> there's also  Darlington Railway Athletic
+
+Durham City AFC, Durham › Durham
+  | Durham City
+
+Salisbury City FC (1947-2014),  Salisbury › Wiltshire
+  | Salisbury
+Nuneaton Borough FC,    Nuneaton › Warwickshire
+  | Nuneaton Town
+
+
+
+
+####
+#  note: english teams in scotish league !!!
+
+Berwick Rangers,  Berwick-upon-Tweed       ## note: in England !!!
+  | Berwick
