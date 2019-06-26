@@ -1,0 +1,9 @@
+Name,                  Web
+U.S. Sassuolo Calcio,  www.sassuolocalcio.it
+US Palermo,            www.palermocalcio.it
+Empoli FC,             www.empolicalcio.it
+AS Livorno,            www.livornocalcio.it
+Hellas Verona,         www.hellasverona.it
+AC Cesena,             www.cesenacalcio.it
+SPAL 2013 Ferrara,     www.spalferrara.it
+Benevento Calcio,      www.beneventocalcio.club
