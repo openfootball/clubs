@@ -3,19 +3,19 @@
 
 
 AS Roma,  Roma
-  | Roma
+  | Roma | Associazione Sportiva Roma
 SS Lazio, Roma
-  | Lazio
+  | Lazio | Lazio Roma | Società Sportiva Lazio
 
 AC Milan,                 Milano
-  | Milan
+  | Milan | Associazione Calcio Milan
 FC Internazionale Milano, Milano
   | Inter | Internazionale
 
 Torino FC,   Torino
-  | Torino
+  | Torino | Torino Football Club
 Juventus,    Torino
-  | Juventus
+  | Juventus Torino | Juventus FC | Juventus Football Club
 
 Hellas Verona FC, Verona
   | Verona
@@ -23,9 +23,9 @@ AC Chievo Verona, Verona
   | Chievo
 
 Genoa CFC,      Genova
-  | Genoa
+  | Genoa | Genoa Cricket and Football Club
 UC Sampdoria,   Genova
-  | Sampdoria
+  | Sampdoria | Sampdoria Genoa | Unione Calcio Sampdoria 
 
 Atalanta BC,     Bergamo
   | Atalanta
@@ -39,7 +39,7 @@ FC Crotone,      Crotone
 ACF Fiorentina, Firenze
   | Fiorentina
 SSC Napoli,     Napoli
-  | Napoli
+  | Napoli | Società Sportiva Calcio Napoli
 US Sassuolo Calcio, Sassuolo
   | Sassuolo
 SPAL,           Ferrara
