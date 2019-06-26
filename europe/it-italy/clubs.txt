@@ -20,7 +20,7 @@ Juventus,    Torino
 Hellas Verona FC, Verona
   | Verona
 AC Chievo Verona, Verona
-  | Chievo
+  | Chievo | Chievo Verona | Associazione Calcio Chievo Verona
 
 Genoa CFC,      Genova
   | Genoa | Genoa Cricket and Football Club
@@ -28,20 +28,20 @@ UC Sampdoria,   Genova
   | Sampdoria | Sampdoria Genoa | Unione Calcio Sampdoria 
 
 Atalanta BC,     Bergamo
-  | Atalanta
+  | Atalanta | Atalanta Bergamo | Atalanta Bergamasca Calcio
 Benevento,       Benevento
 Bologna FC,      Bologna
-  | Bologna
+  | Bologna | FC Bologna | Bologna Football Club 1909
 Cagliari Calcio, Cagliari
   | Cagliari
 FC Crotone,      Crotone
-  | Crotone
+  | Crotone | Crotone FC | Federazione Calcistica Crotone
 ACF Fiorentina, Firenze
-  | Fiorentina
+  | Fiorentina | AC Firenze | Associazione Calcio Firenze Fiorentina
 SSC Napoli,     Napoli
   | Napoli | Società Sportiva Calcio Napoli
-US Sassuolo Calcio, Sassuolo
-  | Sassuolo
+US Sassuolo Calcio, 1922,   Sassuolo
+  | Sassuolo | U.S. Sassuolo Calcio | Unione Sportiva Sassuolo Calcio
 SPAL,           Ferrara
   | Spal
 Udinese Calcio, Udine
@@ -56,13 +56,16 @@ Cesena, Cesena
 Cittadella, Cittadella
 Cremonese, Cremona
 Empoli, Empoli
+  | Empoli FC | Empoli Football Club
 Foggia, Foggia
 Frosinone, Frosinone
 Novara, Novara
 Palermo, Palermo
+  | US Palermo | Unione Sportiva Città di Palermo
 Parma, Parma
 Perugia, Perugia
 Pescara, Pescara
+  | Pescara Calcio
 Pro Vercelli, Vercelli
 Salernitana, Salerno
 Spezia, La Spezia
