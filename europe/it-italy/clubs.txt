@@ -17,8 +17,8 @@ Torino FC,   Torino
 Juventus,    Torino
   | Juventus Torino | Juventus FC | Juventus Football Club
 
-Hellas Verona FC, Verona
-  | Verona
+Hellas Verona FC, 1903,     Verona
+  | Verona | Hellas Verona| Hellas Verona F.C. | Hellas Verona Football Club
 AC Chievo Verona, Verona
   | Chievo | Chievo Verona | Associazione Calcio Chievo Verona
 
@@ -27,9 +27,10 @@ Genoa CFC,      Genova
 UC Sampdoria,   Genova
   | Sampdoria | Sampdoria Genoa | Unione Calcio Sampdoria 
 
-Atalanta BC,     Bergamo
+Atalanta BC,            Bergamo
   | Atalanta | Atalanta Bergamo | Atalanta Bergamasca Calcio
-Benevento,       Benevento
+Benevento, 1929,        Benevento
+  | Benevento Calcio
 Bologna FC,      Bologna
   | Bologna | FC Bologna | Bologna Football Club 1909
 Cagliari Calcio, Cagliari
@@ -43,7 +44,7 @@ SSC Napoli,     Napoli
 US Sassuolo Calcio, 1922,   Sassuolo
   | Sassuolo | U.S. Sassuolo Calcio | Unione Sportiva Sassuolo Calcio
 SPAL,           Ferrara
-  | Spal
+  | Spal | SPAL 2013 Ferrara | S.P.A.L. 2013
 Udinese Calcio, Udine
   | Udinese
 
@@ -52,17 +53,21 @@ Avellino, Avellino
 Bari, Bari
 Brescia, Brescia
 Carpi, Carpi
+  | Carpi FC 1909 | Carpi Football Club 1909
 Cesena, Cesena
+  | AC Cesena | Associazione Calcio Cesena
 Cittadella, Cittadella
 Cremonese, Cremona
 Empoli, Empoli
   | Empoli FC | Empoli Football Club
 Foggia, Foggia
 Frosinone, Frosinone
+  | Frosinone Calcio
 Novara, Novara
 Palermo, Palermo
   | US Palermo | Unione Sportiva Città di Palermo
 Parma, Parma
+  | Parma FC | Parma Football Club
 Perugia, Perugia
 Pescara, Pescara
   | Pescara Calcio
@@ -83,7 +88,10 @@ Calcio Padova, Padova
 Modena FC, Modena
   | Modena
 SS Robur Siena, Siena
-  | Siena
+  | Siena | AC Siena | Associazione Calcio Siena
+# note: Robur Siena was re-incorporated in 2014 after the bankruptcy of the previous legal person Associazione Calcio Siena S.p.A.. 
+#       A.C. Siena's predecessor was founded in 1904.
+
 US Anconitana ASD, Ancona
   | Ancona
 
@@ -113,8 +121,8 @@ Calcio Catania, Catania
   | Catania
 Como 1907, Como
   | Como
-AS Livorno Calcio, Livorno
-  | Livorno
+AS Livorno Calcio, 1915,  Livorno
+  | Livorno | AS Livorno | A.S. Livorno Calcio | Associazione Sportiva Livorno Calcio
 ACR Messina SSD, Messina
   | Messina
 US Triestina Calcio, Trieste
