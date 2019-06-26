@@ -1,9 +1,9 @@
-##############################
-### Deutschland (), de
+#########################################
+### Deutschland  • Germany (GER), de
 
 
-Bayern München,   München › Bayern
-  | Bayern Munich | Bayern Muenchen
+Bayern München, 1900,     München › Bayern
+  | Bayern | Bayern Munich | Bayern Muenchen | FC Bayern München
 TSV 1860 München, München › Bayern
   | Munich 1860 | TSV 1860 Muenchen
 
@@ -36,16 +36,19 @@ Fortuna Köln, Köln › Nordrhein-Westfalen
 Fortuna Düsseldorf, Düsseldorf › Nordrhein-Westfalen
   | Dusseldorf | Fortuna Dusseldorf | Fortuna Duesseldorf
 
-Borussia Dortmund,    Dortmund      › Nordrhein-Westfalen
-  | Dortmund
-FC Schalke 04,        Gelsenkirchen › Nordrhein-Westfalen
-  | Schalke 04
-Bayer 04 Leverkusen,  Leverkusen    › Nordrhein-Westfalen
-  | Leverkusen | Bayer Leverkusen
+Borussia Dortmund, 1909,    Dortmund      › Nordrhein-Westfalen
+  | Dortmund | Bor. Dortmund | BV 09 Borussia Dortmund
+Borussia Dortmund II
+  | Dortmund II | Bor. Dortmund II
+FC Schalke 04, 1904,         Gelsenkirchen › Nordrhein-Westfalen
+  | Schalke | Schalke 04
+Bayer 04 Leverkusen, 1904,    Leverkusen    › Nordrhein-Westfalen
+  | Leverkusen | Bayer Leverkusen | Bay. Leverkusen
 MSV Duisburg,         Duisburg      › Nordrhein-Westfalen     ## until 1965/66 Meidericher SV
   | Duisburg
-Bor. Mönchengladbach, Mönchengladbach › Nordrhein-Westfalen
-  | Bor. Moenchengladbach | M'Gladbach | M'gladbach | Borussia Monchengladbach
+Bor. Mönchengladbach, 1900, Mönchengladbach › Nordrhein-Westfalen
+  | Mönchengladbach | M'Gladbach | M'gladbach | Borussia Monchengladbach
+  | Borussia M'gladbach | Bor. M'gladbach | Bor. Moenchengladbach | Borussia Mönchengladbach
 
 VfL Bochum,            Bochum › Nordrhein-Westfalen
   | Bochum
@@ -91,8 +94,8 @@ Osnabrück,               Osnabrück › Niedersachsen
   | Osnabruck
 VfL Wolfsburg,           Wolfsburg › Niedersachsen
   | Wolfsburg
-Hannover 96,             Hannover › Niedersachsen
-  | Hannover
+Hannover 96, 1896,       Hannover › Niedersachsen
+  | Hannover | Hannover 1896
 Eintracht Braunschweig,  Braunschweig › Niedersachsen
   | Braunschweig
 SV Meppen,              Meppen › Niedersachsen
@@ -119,13 +122,13 @@ SC Tasmania 1900 Berlin (-1973), Berlin › Berlin
 BFC Dynamo Berlin,     Berlin › Berlin
   | BFC Dynamo
 
-Hamburger SV,      Hamburg › Hamburg
+Hamburger SV,  1887,     Hamburg › Hamburg
   | Hamburg
 FC St. Pauli,      Hamburg › Hamburg   ## use stadtteil St. Pauli ??
   | St Pauli | St. Pauli
 
-Werder Bremen,      Bremen › Bremen
-
+Werder Bremen, 1899,      Bremen › Bremen
+  | Bremen | SV Werder Bremen
 
 VfB Stuttgart,         Stuttgart › Baden-Württemberg
   | Stuttgart
@@ -156,8 +159,8 @@ SV Waldhof Mannheim,   Mannheim › Baden-Württemberg
 
 
 
-Eintracht Frankfurt, Frankfurt am Main › Hessen
-  | Ein Frankfurt
+Eintracht Frankfurt, 1899,   Frankfurt am Main › Hessen 
+  | Ein Frankfurt | E. Frankfurt | SG Eintracht Frankfurt   ##  Frankfurt 
 FSV Frankfurt,       Frankfurt am Main › Hessen
   | FSV Frankfurt | Frankfurt FSV
 
@@ -170,8 +173,8 @@ Kickers Offenbach,     Offenbach am Main › Hessen
 
 1. FC Kaiserslautern, Kaiserslautern › Rheinland-Pfalz
   | Kaiserslautern
-1. FSV Mainz 05,      Mainz          › Rheinland-Pfalz
-  | Mainz
+1. FSV Mainz 05, 1905,     Mainz          › Rheinland-Pfalz
+  | Mainz | FSV Mainz 05
 Eintracht Trier,      Trier          › Rheinland-Pfalz
   | Ein Trier
 TuS Koblenz,         Koblenz        › Rheinland-Pfalz
