@@ -1,0 +1,22 @@
+Name,     Code
+
+## note: three letter codes (tags) taken from official bundesliga.de site
+
+Bayern München,       FCB
+Borussia Dortmund,    BVB
+Bayer Leverkusen,     B04
+Schalke 04,           S04
+Eintracht Frankfurt,  FFM
+Hamburger SV,         HSV
+Borussia M'gladbach,  BMG
+Hannover 96,          H96
+VfL Wolfsburg,        WOB
+1. FSV Mainz 05,      M05
+Werder Bremen,        BRE
+1899 Hoffenheim,      HOF
+VfB Stuttgart,        VFB
+FC Augsburg,          FCA
+Hertha BSC,           BSC
+1. FC Köln,           KOE
+FC Ingolstadt 04,     FCI
+SV Darmstadt 98,      D98
