@@ -151,10 +151,15 @@ Hamburger SV,  1887,     Hamburg › Hamburg
 FC St. Pauli, 1910,      Hamburg › Hamburg   ## use stadtteil St. Pauli ??
   | St Pauli | St. Pauli | FC Sankt Pauli
 
+########################
+# Bremen (hb)
+
 Werder Bremen, 1899,      Bremen › Bremen
   | Bremen | SV Werder Bremen
 Werder Bremen II,      Bremen › Bremen
-
+SG Aumund-Vegesack 
+FC Oberneuland       
+Bremer SV
 
 ##############################
 # Baden-Württemberg (bw)
