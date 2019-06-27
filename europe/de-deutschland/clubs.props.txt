@@ -36,3 +36,111 @@ Karlsruher SC,          Karlsruher_SC,            www.ksc.de,                Ade
 RB Leipzig,             RB_Leipzig,               www.dierotenbullen.com,    ?
 MSV Duisburg,           ?,                        ?,                         ?
 Arminia Bielefeld,      ?,                        www.arminia-bielefeld.de,  Melanchthonstraße 31a // 33615 Bielefeld
+
+## Brandenburg (bb)
+Energie Cottbus,         ?,                        www.fcenergie.de,          Am Eliaspark 1 // 03042 Cottbus
+FSV Optik Rathenow,      FSV_Optik_Rathenow
+SV Falkensee-Finkenkrug, SV_Falkensee-Finkenkrug
+
+## Berlin (be)
+Tasmania 1900 Berlin,    SC_Tasmania_1900_Berlin
+Tennis Borussia Berlin,  Tennis_Borussia_Berlin
+Blau-Weiß 90 Berlin,     Blau-Weiß_90_Berlin
+BFC Dynamo,              BFC_Dynamo
+Berliner AK 07,          Berliner_AK_07
+FC Viktoria 1889 Berlin, FC_Viktoria_1889_Berlin
+
+## Baden-Württemberg (bw)
+VfR Aalen,                VfR_Aalen,              www.vfr-aalen.de,           Stadionweg 5/1 // 73430 Aalen
+SV Waldhof Mannheim,      SV_Waldhof_Mannheim
+SSV Ulm 1846,             SSV_Ulm_1846_Fußball
+FC Nöttingen,             FC_Nöttingen
+Bahlinger SC,             Bahlinger_SC
+Neckarsulmer Sport-Union, Neckarsulmer_Sport-Union
+Offenburger FV,           Offenburger_FV
+FC-Astoria Walldorf,      FC-Astoria_Walldorf
+SV Waldkirch,             SV_Waldkirch
+SSV Reutlingen 05,        SSV_Reutlingen_05
+
+## Bayern (by)
+TSV 1860 Rosenheim,       TSV_1860_Rosenheim
+Wacker Burghausen,        Wacker_Burghausen
+SpVgg Unterhaching,       SpVgg_Unterhaching
+FV Illertissen            FV_Illertissen
+
+## Bremen (hb)
+SG Aumund-Vegesack,       SG_Aumund-Vegesack
+FC Oberneuland,           FC_Oberneuland
+
+## Hessen (he)
+Kickers Offenbach,        Kickers_Offenbach
+KSV Hessen Kassel,        KSV_Hessen_Kassel
+
+## Hamburg (hh)
+SC Victoria Hamburg,      SC_Victoria_Hamburg
+USC Paloma Hamburg,       USC_Paloma_Hamburg
+HSV Barmbek-Uhlenhorst,   HSV_Barmbek-Uhlenhorst
+
+## Mecklenburg-Vorpommern (mv)
+TSG Neustrelitz,          TSG_Neustrelitz
+FC Schönberg 95,          FC_Schönberg_95
+1. FC Neubrandenburg 04,  1._FC_Neubrandenburg_04
+
+## Niedersachsen (ni)
+SV Wilhelmshaven,         SV_Wilhelmshaven
+BSV Schwarz-Weiß Rehden,  BSV_Schwarz-Weiß_Rehden
+TSV Havelse,              TSV_Havelse
+FT Braunschweig,          Freie_Turnerschaft_Braunschweig
+SV Meppen,                SV_Meppen
+
+## Nordrhein-Westfalen (nw)
+Alemannia Aachen,         Alemannia_Aachen
+Fortuna Köln,             SC_Fortuna_Köln
+FC Viktoria Köln,         FC_Viktoria_Köln
+Rot-Weiss Essen,          Rot-Weiss_Essen
+Rot-Weiß Oberhausen,      Rot-Weiß_Oberhausen
+Wuppertaler SV,           Wuppertaler_SV
+KFC Uerdingen,            SC_Bayer_05_Uerdingen
+SG Wattenscheid 09,       SG_Wattenscheid_09
+SF Baumberg,              Sportfreunde_Baumberg
+SF Siegen,                Sportfreunde_Siegen
+SF Lotte,                 Sportfreunde_Lotte
+SV Lippstadt 08,          SV_Lippstadt_08
+SC Wiedenbrück,           SC_Wiedenbrück
+FC Hennef 05,             FC_Hennef_05
+TuS Erndtebrück,          TuS_Erndtebrück
+
+## Rheinland-Pfalz (rp)
+Eintracht Trier,             Eintracht_Trier
+TSG Pfeddersheim,            TSG_Pfeddersheim
+SV Roßbach/Verscheid,        SV_Roßbach/Verscheid
+Wormatia Worms,              Wormatia_Worms
+SV Alemannia Waldalgesheim,  SV_Alemannia_Waldalgesheim
+FSV Salmrohr,                FSV_Salmrohr
+FK Pirmasens,                FK_Pirmasens
+
+## Schleswig-Holstein (sh)
+VfR Neumünster,          VfR_Neumünster
+VfB Lübeck,              VfB_Lübeck
+
+## Saarland (sl)
+1. FC Saarbrücken,         1._FC_Saarbrücken
+SV Elversberg,             SV_Elversberg
+VfB Borussia Neunkirchen,  Borussia_Neunkirchen
+FC Homburg,                FC_08_Homburg
+
+## Sachsen (sn)
+Erzgebirge Aue,            FC_Erzgebirge_Aue,        www.fc-erzgebirge.de,   Lößnitzer Straße 95 // 08280 Aue
+Dynamo Dresden,            ?,                        www.dynamo-dresden.de,  Lennéstraße 12 // 01069 Dresden
+Chemnitzer FC,             Chemnitzer_FC
+VfB Leipzig,               VfB_Leipzig
+FSV Zwickau,               FSV_Zwickau
+
+## Sachsen-Anhalt (st)
+Hallescher FC,             Hallescher_FC
+1. FC Magdeburg,           1._FC_Magdeburg
+
+## Thüringen (th)
+Rot-Weiß Erfurt,            FC_Rot-Weiß_Erfurt
+SV Schott Jena,             SV_Schott_Jena
+FC Carl Zeiss Jena,         FC_Carl_Zeiss_Jena
