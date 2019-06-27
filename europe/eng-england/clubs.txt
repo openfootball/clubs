@@ -179,7 +179,7 @@ Guiseley AFC,   Guiseley › West Yorkshire
   | Guiseley
 
 Hull City AFC, 1904,   @ KC Stadium,   Hull › East Yorkshire    ## change Hull to Kingston upon Hull  - why? why not?
-  | Hull | Hull City | |Hull City FC
+  | Hull | Hull City | Hull City FC
 North Ferriby United AFC,  North Ferriby › East Yorkshire
   | North Ferriby
 
