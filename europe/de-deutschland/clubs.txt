@@ -242,8 +242,18 @@ Lübeck,               Lübeck  › Schleswig-Holstein
 Holstein Kiel,       Kiel    › Schleswig-Holstein
   | Holstein Kiel
 
-Hansa Rostock,        Rostock › Mecklenburg-Vorpommern
-  | Hansa Rostock
+
+###################################
+# Mecklenburg-Vorpommern (mv)
+
+Hansa Rostock, 1965,        Rostock › Mecklenburg-Vorpommern
+  | Rostock | FC Hansa Rostock
+
+TSG Neustrelitz
+FC Schönberg 95
+1. FC Neubrandenburg 04
+
+
 
 Dynamo Dresden,      Dresden › Sachsen
   | Dresden
