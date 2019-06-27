@@ -115,6 +115,8 @@ FSV Optik Rathenow
 SV Falkensee-Finkenkrug
 
 
+######################
+# Berlin (be)
 
 Hertha BSC, 1892,            	Berlin › Berlin
   | Hertha | Hertha Berliner Sport-Club
@@ -125,10 +127,17 @@ Tennis Borussia Berlin, Berlin › Berlin
 Blau-Weiß 90 Berlin (-1992), Berlin › Berlin
   | Blau-Weiss 90 Berlin
 SC Tasmania 1900 Berlin (-1973), Berlin › Berlin
-  | Tasmania 1900 Berlin
+  | Tasmania 1900 Berlin | Tasmania Berlin
 
 BFC Dynamo Berlin,     Berlin › Berlin
   | BFC Dynamo
+
+Berliner AK 07
+FC Viktoria 1889 Berlin
+
+
+
+
 
 Hamburger SV,  1887,     Hamburg › Hamburg
   | Hamburg
