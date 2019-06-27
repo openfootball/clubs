@@ -103,10 +103,18 @@ SV Meppen,              Meppen › Niedersachsen
 VfB Oldenburg,         Oldenburg › Niedersachsen
   | Oldenburg
 
-Energie Cottbus,      Cottbus › Brandenburg
-  | Cottbus
+#######################
+# Brandenburg (bb)
+
+Energie Cottbus,  1966,      Cottbus › Brandenburg
+  | Cottbus | FC Energie Cottbus
 SV Babelsberg 03,     Potsdam › Brandenburg     ## (Potsdam-Babelsberg)
   | Babelsberg
+
+FSV Optik Rathenow
+SV Falkensee-Finkenkrug
+
+
 
 Hertha BSC, 1892,            	Berlin › Berlin
   | Hertha | Hertha Berliner Sport-Club
