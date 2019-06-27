@@ -20,3 +20,24 @@ Hertha BSC,           BSC
 1. FC Köln,           KOE
 FC Ingolstadt 04,     FCI
 SV Darmstadt 98,      D98
+
+# three letter codes from bundesliga.de/de/liga2
+
+SC Paderborn 07,        SCP
+SC Freiburg,            SCF
+Eintracht Braunschweig, EBS
+1. FC Nürnberg,         FCN
+Fortuna Düsseldorf,     F95
+SpVgg Greuther Fürth,   SGF
+1. FC Kaiserslautern,   FCK
+FSV Frankfurt,          FSV
+TSV München 1860,       M60
+Union Berlin,           FCU
+VfL Bochum,             BOC
+FC St. Pauli,           STP
+SV Sandhausen,          SAN
+Karlsruher SC,          KSC
+1. FC Heidenheim,       HDH
+RB Leipzig,             RBL
+MSV Duisburg,           MSV
+DSC Arminia Bielefeld,  DSC
