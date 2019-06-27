@@ -2,11 +2,13 @@
 ### Deutschland  • Germany (GER), de
 
 
+########################
+# Bayern (by)
+
 Bayern München, 1900,     München › Bayern
   | Bayern | Bayern Munich | Bayern Muenchen | FC Bayern München
 TSV 1860 München, 1860, München › Bayern
   | Munich 1860 | TSV 1860 Muenchen | TSV München 1860 | 1860 München
-
 
 1. FC Nürnberg, 1900, Nürnberg › Bayern    ### todo: always map Nurnberg to 1. FC Nürnberg ?!
   | Nurnberg | Nürnberg | 1. FC Nuernberg
@@ -15,17 +17,22 @@ Greuther Fürth, 1903, Fürth    › Bayern
 FC Augsburg, 1907,    Augsburg › Bayern
   | Augsburg
 SpVgg Unterhaching,  Unterhaching › Bayern
-  | Unterhaching
+  | Unterhaching | U'haching
 FC Ingolstadt 04, 2004,    Ingolstadt › Bayern               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
   | Ingolstadt
 SSV Jahn Regensburg,   Regensburg › Bayern
-  | Regensburg
+  | Regensburg | Jahn Regensburg 
 1. FC Schweinfurt 05,  Schweinfurt › Bayern
   | Schweinfurt
-Würzburger Kickers,     Würzburg › Bayern
-  | Wurzburger Kickers
+Würzburger Kickers, 1907,     Würzburg › Bayern
+  | Wurzburger Kickers | FC Würzburger Kickers
 Wacker Burghausen,  Burghausen › Bayern
   | Burghausen
+
+TSV 1860 Rosenheim 
+FV Illertissen
+
+
 
 
 1. FC Köln, 1948,   Köln › Nordrhein-Westfalen
