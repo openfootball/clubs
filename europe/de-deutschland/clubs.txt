@@ -258,6 +258,8 @@ Kickers Offenbach,     Offenbach am Main › Hessen
 KSV Hessen Kassel
 
 
+##################################
+# Rheinland-Pfalz (rp)
 
 1. FC Kaiserslautern, 1900, Kaiserslautern › Rheinland-Pfalz
   |K'lautern | Kaiserslautern | 1. FC K'lautern
@@ -268,6 +270,16 @@ Eintracht Trier,      Trier          › Rheinland-Pfalz
   | Ein Trier
 TuS Koblenz,         Koblenz        › Rheinland-Pfalz
   | Koblenz
+
+TSG Pfeddersheim
+SV Roßbach/Verscheid
+Wormatia Worms
+SV Alemannia Waldalgesheim
+FSV Salmrohr
+FK Pirmasens
+  | FK 03 Pirmasens
+
+
 
 Lübeck,               Lübeck  › Schleswig-Holstein
   | Lubeck
