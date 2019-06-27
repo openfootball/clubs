@@ -100,8 +100,9 @@ Hyde United FC,   Hyde › Greater Manchester
 Stalybridge Celtic FC, Stalybridge › Greater Manchester
   | Stalybridge Celtic
 
-Aston Villa FC,       Birmingham › Warwickshire   ## West Midlands
-  | Aston Villa
+
+Aston Villa FC, 1874,    @ Villa Park, Birmingham › Warwickshire   ## West Midlands
+  | Aston Villa | Villa
 Birmingham City FC,   Birmingham › Warwickshire   ## West Midlands
   | Birmingham | Birmingham City
 
@@ -116,8 +117,8 @@ South Shields FC, South Shields › Tyne and Wear
 Gateshead FC,  Gateshead › Tyne and Wear
   | Gateshead
 
-Southampton FC,       Southampton › Hampshire
-  | Southampton
+Southampton FC, 1885,   @ St Mary's Stadium, Southampton › Hampshire
+  | Southampton | FC Southampton
 Aldershot Town FC,     Aldershot › Hampshire
   | Aldershot
 Portsmouth FC,        Portsmouth › Hampshire
@@ -125,10 +126,11 @@ Portsmouth FC,        Portsmouth › Hampshire
 Eastleigh FC,         Eastleigh › Hampshire
   | Eastleigh
 
-Sunderland AFC,       Sunderland
-  | Sunderland
 
-Leicester City FC,    Leicester
+Sunderland AFC, 1879,  @ Stadium of Light,  Sunderland
+  | Sunderland | AFC Sunderland
+
+Leicester City FC, 1884,  @ King Power Stadium,  Leicester
   | Leicester | Leicester City
 Loughborough FC (1886-1900),   Loughborough › Leicestershire,
   | Loughborough
@@ -197,7 +199,8 @@ Rotherham Town FC (1899-1925), Rotherham › South Yorkshire   ## note: a second
 Doncaster Rovers FC,    Doncaster › South Yorkshire
   | Doncaster | Doncaster Rovers
 
-Stoke City FC,          Stoke-on-Trent › Staffordshire
+
+Stoke City FC, 1863,  @ Britannia Stadium,  Stoke-on-Trent › Staffordshire
   | Stoke | Stoke City
 Port Vale FC,           Stoke-on-Trent › Staffordshire
   | Port Vale
@@ -214,11 +217,11 @@ Tamworth FC,           Tamworth › Staffordshire
 
 Derby County FC,        Derby › Derbyshire
   | Derby | Derby County
-Norwich City FC,         Norwich › Norfolk
-  | Norwich | Norwich City
+Norwich City FC, 1890,     @ Carrow Road,    Norwich › Norfolk
+  | Norwich | Norwich City | Norwich City F.C.
 
-Watford FC,       Watford › Hertfordshire
-  | Watford
+Watford FC, 1881,   @ Vicarage Road,  Watford › Hertfordshire
+  | Watford | Watford F.C.
 
 Oxford United FC,        Oxford › Oxfordshire
   | Oxford | Oxford United
@@ -242,8 +245,8 @@ Nottingham Forest FC,   West Bridgford › Nottinghamshire
 Mansfield Town FC,      Mansfield › Nottinghamshire
   | Mansfield | Mansfield Town
 
-AFC Bournemouth, Bournemouth › Dorset
-  | Bournemouth
+AFC Bournemouth, 1890, @ Dean Court, Bournemouth › Dorset
+  | Bournemouth | A.F.C. Bournemouth | Bournemouth FC
 Weymouth FC,       Weymouth › Dorset
   | Weymouth
 
