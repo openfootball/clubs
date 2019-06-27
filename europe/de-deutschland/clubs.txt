@@ -143,13 +143,19 @@ Berliner AK 07
 FC Viktoria 1889 Berlin
 
 
-
-
+###########################
+# Hamburg (hh)
 
 Hamburger SV,  1887,     Hamburg › Hamburg
   | Hamburg
 FC St. Pauli, 1910,      Hamburg › Hamburg   ## use stadtteil St. Pauli ??
   | St Pauli | St. Pauli | FC Sankt Pauli
+
+SC Victoria Hamburg
+  |Victoria Hamburg
+USC Paloma Hamburg
+HSV Barmbek-Uhlenhorst
+
 
 ########################
 # Bremen (hb)
