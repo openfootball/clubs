@@ -17,3 +17,22 @@ Hertha BSC,          Hertha_BSC,               www.herthabsc.de,      Hanns-Brau
 1. FC Köln,          1._FC_Köln,               www.fc-koeln.de,       Franz-Kremer-Allee 1 // 50937 Köln
 FC Ingolstadt 04,    FC_Ingolstadt_04,         www.fcingolstadt.de,   Am Sportpark 1 // 85053 Ingolstadt
 SV Darmstadt 98,     SV_Darmstadt_98,          www.sv98.de,           ?
+
+SC Paderborn 07,        SC_Paderborn_07,          www.scpaderborn07.de,      Paderborner Str. 89 // 33104 Paderborn
+SC Freiburg,            SC_Freiburg,              www.scfreiburg.com,        Schwarzwaldstr. 193 // 79117 Freiburg
+Eintracht Braunschweig, Eintracht_Braunschweig,   www.eintracht.com,         Hamburger Straße 210 // 38112 Braunschweig
+1. FC Nürnberg,         1._FC_Nürnberg,           www.fcn.de,                Valznerweiherstraße 200 // 90480 Nürnberg
+Fortuna Düsseldorf,     Fortuna_Düsseldorf,       www.f95.de,                Arena Straße 1 // 40474 Düsseldorf
+SpVgg Greuther Fürth,   SpVgg_Greuther_Fürth,     www.greuther-fuerth.de,    Laubenweg 60 // 90765 Fürth
+1. FC Kaiserslautern,   1._FC_Kaiserslautern,     www.fck.de,                Fritz-Walter-Str. 1 // 67663 Kaiserslautern
+FSV Frankfurt,          FSV_Frankfurt,            www.fsv-frankfurt.de,      Richard-Herrmann-Platz 1 // 60386 Frankfurt/Main
+TSV München 1860,       TSV_1860_München,         www.tsv1860.de,            Grünwalder Straße 114 // 81547 München
+1. FC Union Berlin,     1._FC_Union_Berlin,       www.fc-union-berlin.de,    An der Wuhlheide 263 // 12555 Berlin
+VfL Bochum,             VfL_Bochum,               www.vfl-bochum.de,         Castroper Straße 145 // 44791 Bochum
+FC St. Pauli,           FC_St._Pauli,             www.fcstpauli.com,         Heiligengeistfeld 1 // 20359 Hamburg
+SV Sandhausen,          SV_Sandhausen,            www.svs1916.de,            Jahnstraße 1 // 69207 Sandhausen
+Karlsruher SC,          Karlsruher_SC,            www.ksc.de,                Adenauerring 17 // 76131 Karlsruhe
+1. FC Heidenheim,       1._FC_Heidenheim,         www.fc-heidenheim.de,      ?
+RB Leipzig,             RB_Leipzig,               www.dierotenbullen.com,    ?
+MSV Duisburg,           ?,                        ?,                         ?
+Arminia Bielefeld,      ?,                        www.arminia-bielefeld.de,  Melanchthonstraße 31a // 33615 Bielefeld
