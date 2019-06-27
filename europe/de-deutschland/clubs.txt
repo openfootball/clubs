@@ -12,11 +12,11 @@ TSV 1860 München, München › Bayern
   | Nurnberg | 1. FC Nuernberg
 Greuther Fürth, Fürth    › Bayern
   | Greuther Furth | SpVgg Greuther Fuerth
-FC Augsburg,    Augsburg › Bayern
+FC Augsburg, 1907,    Augsburg › Bayern
   | Augsburg
 SpVgg Unterhaching,  Unterhaching › Bayern
   | Unterhaching
-FC Ingolstadt 04,    Ingolstadt › Bayern               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
+FC Ingolstadt 04, 2004,    Ingolstadt › Bayern               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
   | Ingolstadt
 SSV Jahn Regensburg,   Regensburg › Bayern
   | Regensburg
@@ -28,8 +28,8 @@ Wacker Burghausen,  Burghausen › Bayern
   | Burghausen
 
 
-1. FC Köln,   Köln › Nordrhein-Westfalen
-  | FC Koln | 1. FC Koeln
+1. FC Köln, 1948,   Köln › Nordrhein-Westfalen
+  | FC Koln | 1. FC Koeln   ## Köln
 Fortuna Köln, Köln › Nordrhein-Westfalen
   | F Koln  | Fortuna Koeln
 
@@ -108,8 +108,8 @@ Energie Cottbus,      Cottbus › Brandenburg
 SV Babelsberg 03,     Potsdam › Brandenburg     ## (Potsdam-Babelsberg)
   | Babelsberg
 
-Hertha BSC,            	Berlin › Berlin
-  | Hertha
+Hertha BSC, 1892,            	Berlin › Berlin
+  | Hertha | Hertha Berliner Sport-Club
 Tennis Borussia Berlin, Berlin › Berlin
   | TB Berlin | TeBe Berlin
 1. FC Union Berlin,     Berlin › Berlin
@@ -129,15 +129,18 @@ FC St. Pauli,      Hamburg › Hamburg   ## use stadtteil St. Pauli ??
 
 Werder Bremen, 1899,      Bremen › Bremen
   | Bremen | SV Werder Bremen
+Werder Bremen II,      Bremen › Bremen
 
-VfB Stuttgart,         Stuttgart › Baden-Württemberg
+VfB Stuttgart, 1893,        Stuttgart › Baden-Württemberg
   | Stuttgart
+VfB Stuttgart II,        Stuttgart › Baden-Württemberg
+  | Stuttgart II|
 Stuttgarter Kickers,   Stuttgart › Baden-Württemberg
   | Stuttgarter K
 SC Freiburg,       	  Freiburg  › Baden-Württemberg
   | Freiburg
-TSG 1899 Hoffenheim,  Sinsheim › Baden-Württemberg   ## Sinsheim-Hoffenheim
-  | Hoffenheim | 1899 Hoffenheim
+TSG 1899 Hoffenheim,  1899,  Sinsheim › Baden-Württemberg   ## Sinsheim-Hoffenheim
+  | Hoffenheim | 1899 Hoffenheim 
 Karlsruher SC,        Karlsruhe › Baden-Württemberg
   | Karlsruhe
 SSV Ulm 1846,         Ulm › Baden-Württemberg
@@ -164,7 +167,7 @@ Eintracht Frankfurt, 1899,   Frankfurt am Main › Hessen
 FSV Frankfurt,       Frankfurt am Main › Hessen
   | FSV Frankfurt | Frankfurt FSV
 
-SV Darmstadt 98,       Darmstadt › Hessen
+SV Darmstadt 98, 1898,       Darmstadt › Hessen
   | Darmstadt
 SV Wehen Wiesbaden,     Wiesbaden › Hessen
   | Wehen
@@ -175,6 +178,7 @@ Kickers Offenbach,     Offenbach am Main › Hessen
   | Kaiserslautern
 1. FSV Mainz 05, 1905,     Mainz          › Rheinland-Pfalz
   | Mainz | FSV Mainz 05
+1. FSV Mainz 05 II,     Mainz          › Rheinland-Pfalz
 Eintracht Trier,      Trier          › Rheinland-Pfalz
   | Ein Trier
 TuS Koblenz,         Koblenz        › Rheinland-Pfalz
