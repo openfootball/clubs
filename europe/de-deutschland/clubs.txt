@@ -97,7 +97,10 @@ FC 08 Homburg,       Homburg     › Saarland
 Borussia Neunkirchen,  Neunkirchen › Saarland
   | Borussia Neunkirchen
 
-Osnabrück,               Osnabrück › Niedersachsen
+##########################
+# Niedersachsen (ni)
+
+VfL Osnabrück,               Osnabrück › Niedersachsen
   | Osnabruck
 VfL Wolfsburg,           Wolfsburg › Niedersachsen
   | Wolfsburg
@@ -105,10 +108,17 @@ Hannover 96, 1896,       Hannover › Niedersachsen
   | Hannover | Hannover 1896
 Eintracht Braunschweig, 1895,  Braunschweig › Niedersachsen
   | Braunschweig | Eintr. Braunschweig
+FT Braunschweig|Freie Turnerschaft Braunschweig
+
 SV Meppen,              Meppen › Niedersachsen
   | Meppen
 VfB Oldenburg,         Oldenburg › Niedersachsen
   | Oldenburg
+
+SV Wilhelmshaven     
+BSV Schwarz-Weiß Rehden    
+TSV Havelse                
+
 
 #######################
 # Brandenburg (bb)
