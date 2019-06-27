@@ -148,12 +148,16 @@ Werder Bremen, 1899,      Bremen › Bremen
   | Bremen | SV Werder Bremen
 Werder Bremen II,      Bremen › Bremen
 
+
+##############################
+# Baden-Württemberg (bw)
+
 VfB Stuttgart, 1893,        Stuttgart › Baden-Württemberg
   | Stuttgart
 VfB Stuttgart II,        Stuttgart › Baden-Württemberg
   | Stuttgart II|
 Stuttgarter Kickers,   Stuttgart › Baden-Württemberg
-  | Stuttgarter K
+  | Stuttgarter K | Stutt. Kick.
 SC Freiburg, 1904,       	  Freiburg  › Baden-Württemberg
   | Freiburg
 TSG 1899 Hoffenheim,  1899,  Sinsheim › Baden-Württemberg   ## Sinsheim-Hoffenheim
@@ -162,7 +166,7 @@ Karlsruher SC,  1894,        Karlsruhe › Baden-Württemberg
   | Karlsruhe
 SSV Ulm 1846,         Ulm › Baden-Württemberg
   | Ulm
-VfR Aalen,          Aalen › Baden-Württemberg
+VfR Aalen, 1921,          Aalen › Baden-Württemberg
   | Aalen
 1. FC Heidenheim, 2007,   Heidenheim an der Brenz › Baden-Württemberg
   | Heidenheim | 1. FC Heidenheim 1846
@@ -174,8 +178,18 @@ VfR Mannheim,        Mannheim › Baden-Württemberg
   | Mannheim
   ##  - 2 (8): 2002-03....1999-00 (4) 1996-97....1993-94 (4)
 SV Waldhof Mannheim,   Mannheim › Baden-Württemberg
-  | Waldhof Mannheim
+  | Waldhof Mannheim | SV Waldhof Mannheim 07
   ## note: SV Waldhof Mannheim (played in 1. liga and 2. liga too)
+
+SG Großaspach, 1994
+  | Großaspach | SG Sonnenhof Großaspach | Sportgemeinschaft Sonnenhof Großaspach
+FC Nöttingen
+Bahlinger SC
+Neckarsulmer Sport-Union
+Offenburger FV 
+FC-Astoria Walldorf
+SV Waldkirch
+
 
 
 
