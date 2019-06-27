@@ -334,11 +334,12 @@ Hallescher FC
   | Halle
 1. FC Magdeburg
 
-
+##########################
+# Thüringen (th)
 
 FC Carl Zeiss Jena,  Jena   › Thüringen
   | CZ Jena
+SV Schott Jena
+
 FC Rot-Weiß Erfurt,  Erfurt › Thüringen
-  | Erfurt
-
-
+  | Erfurt | Rot-Weiß Erfurt | RW Erfurt
