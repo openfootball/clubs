@@ -4,20 +4,21 @@
 #  note: see wal.txt for teams from wales
 
 
-Arsenal FC, London   ## Greater London
-  | Arsenal
-Chelsea FC, London   ## Greater London
-  | Chelsea
-Tottenham Hotspur FC, London   ## Greater London
-  | Tottenham | Tottenham Hotspur
-West Ham United FC, London   ## Greater London
+Arsenal FC, 1886, @ Emirates Stadium, London   ## Greater London
+  | Arsenal | FC Arsenal  
+Chelsea FC, 1905, @ Stamford Bridge, London   ## Greater London
+  | Chelsea | FC Chelsea
+
+Tottenham Hotspur FC, 1882, @ White Hart Lane, London   ## Greater London
+  | Tottenham | Tottenham Hotspur | Spurs
+West Ham United FC, 1895, @ Boleyn Ground, London   ## Greater London
   | West Ham  | West Ham United
 Fulham FC,         London   ## Greater London
   | Fulham
 Charlton Athletic FC,  London   ## Greater London
   | Charlton | Charlton Athletic
-Crystal Palace FC,  London   ## Greater London
-  | Crystal Palace
+Crystal Palace FC, 1905, @ Selhurst Park, London   ## Greater London
+  | Crystal Palace | C Palace | Palace | Crystal P
 
 Wimbledon FC,         London   ## Greater London
   | Wimbledon
@@ -49,11 +50,10 @@ Thames AFC (1928-1932),  London  ## London-Custom House
   | Thames
 
 
-
-Everton FC,   Liverpool › Lancashire   ## North West England
-  | Everton
-Liverpool FC, Liverpool › Lancashire
-  | Liverpool
+Everton FC, 1878,  @ Goodison Park, Liverpool › Lancashire   ## North West England
+  | Everton | FC Everton
+Liverpool FC, 1892, @ Anfield, Liverpool › Lancashire
+  | Liverpool | FC Liverpool
 
 Blackburn Rovers FC,  Blackburn › Lancashire
   | Blackburn | Blackburn Rovers
@@ -72,10 +72,10 @@ Bootle FC (1879-1893) ,  Bootle › Lancashire
 Nelson FC,           Nelson, Lancashire
   | Nelson
 
-Manchester United FC,  Manchester     ## North West England
-  | Man United | Manchester United
-Manchester City FC,    Manchester     ## North West England
-  | Man City | Manchester City
+Manchester United FC, 1878, @ Old Trafford, Manchester     ## North West England
+  | Man United | Manchester United | Man Utd | Manchester U. | Manchester U
+Manchester City FC, 1880, @ Etihad Stadium,  Manchester     ## North West England
+  | Man City | Manchester City | Man. City | Manchester C
 
 Bolton Wanderers FC,  Bolton › Greater Manchester
   | Bolton | Bolton Wanderers
@@ -105,7 +105,8 @@ Aston Villa FC,       Birmingham › Warwickshire   ## West Midlands
 Birmingham City FC,   Birmingham › Warwickshire   ## West Midlands
   | Birmingham | Birmingham City
 
-Newcastle United FC,  Newcastle upon Tyne › Northumberland   ## North East
+
+Newcastle United FC, 1892, @ St James' Park, Newcastle upon Tyne › Northumberland   ## North East
   | Newcastle | Newcastle United
 Ashington AFC, Ashington › Northumberland
   | Ashington
@@ -132,8 +133,9 @@ Leicester City FC,    Leicester
 Loughborough FC (1886-1900),   Loughborough › Leicestershire,
   | Loughborough
 
-West Bromwich Albion FC,  West Bromwich › West Midlands
-  | West Brom | West Bromwich Albion
+
+West Bromwich Albion FC, 1878, @ The Hawthorns, West Bromwich › West Midlands
+  | West Brom | West Bromwich Albion | West Bromwich | Albion
 Coventry City FC,       Coventry › West Midlands
   | Coventry | Coventry City
 Wolverhampton Wanderers FC,   Wolverhampton › West Midlands
