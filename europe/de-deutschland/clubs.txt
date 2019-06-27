@@ -280,11 +280,15 @@ FK Pirmasens
   | FK 03 Pirmasens
 
 
+###############################
+#   Schleswig-Holstein (sh)
 
-Lübeck,               Lübeck  › Schleswig-Holstein
-  | Lubeck
+VfB Lübeck,          Lübeck  › Schleswig-Holstein
+  | Lübeck | Lubeck
 Holstein Kiel,       Kiel    › Schleswig-Holstein
-  | Holstein Kiel
+  | Kiel
+
+VfR Neumünster
 
 
 ###################################
