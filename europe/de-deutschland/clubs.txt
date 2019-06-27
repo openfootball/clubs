@@ -327,6 +327,13 @@ FSV Zwickau,        Zwickau  › Sachsen
   | Zwickau
 
 
+############################
+# Sachsen-Anhalt (st)
+
+Hallescher FC
+  | Halle
+1. FC Magdeburg
+
 
 
 FC Carl Zeiss Jena,  Jena   › Thüringen
