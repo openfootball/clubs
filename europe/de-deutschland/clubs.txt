@@ -111,13 +111,20 @@ FC Hennef 05
 TuS Erndtebrück
 
 
+######################
+# Saarland (sl)
 
 1. FC Saarbrücken,   Saarbrücken › Saarland
-  | Saarbrucken | 1. FC Saarbruecken
+  | Saarbrucken | Saarbrücken | 1. FC Saarbruecken
 FC 08 Homburg,       Homburg     › Saarland
-  | Homburg
-Borussia Neunkirchen,  Neunkirchen › Saarland
+  | Homburg | FC Homburg | FC Homburg/Saar
+VfB Borussia Neunkirchen,  Neunkirchen › Saarland
   | Borussia Neunkirchen
+
+SV Elversberg
+  | SV 07 Elversberg
+
+
 
 ##########################
 # Niedersachsen (ni)
