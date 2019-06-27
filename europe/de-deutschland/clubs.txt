@@ -62,12 +62,13 @@ Bor. Mönchengladbach, 1900, Mönchengladbach › Nordrhein-Westfalen
 VfL Bochum, 1938,            Bochum › Nordrhein-Westfalen
   | Bochum | VfL Bochum 1848
 SG Wattenscheid 09,    Bochum › Nordrhein-Westfalen   ## Bochum-Wattenscheid - Bochumer Stadtbezirk
-  | Wattenscheid
+  | Wattenscheid | Wattenscheid 09
 
 Arminia Bielefeld,  1905,    Bielefeld     › Nordrhein-Westfalen
   | Bielefeld | DSC Arminia Bielefeld 
 Preussen Münster,     Münster       › Nordrhein-Westfalen
-  | Preussen Muenster
+  | Münster | Preussen Muenster | Preußen Münster | SC Preußen 06
+
 Gütersloh,            Gütersloh     › Nordrhein-Westfalen
   | Gutersloh
 KFC Uerdingen,        Krefeld       › Nordrhein-Westfalen     ## bis 1995 FC Bayer 05 Uerdingen
@@ -84,8 +85,8 @@ Rot Weiss Ahlen,    Ahlen › Nordrhein-Westfalen
   | Ahlen
 Rot-Weiß Oberhausen,   Oberhausen › Nordrhein-Westfalen
   | Oberhausen | Rot-Weiss Oberhausen
-Sportfreunde Siegen,   Siegen › Nordrhein-Westfalen
-  | Siegen
+SF Siegen,            Siegen › Nordrhein-Westfalen
+  | Siegen | Sportfreunde Siegen 
 Wuppertaler SV,         Wuppertal › Nordrhein-Westfalen
   | Wuppertaler
 Rot-Weiss Essen,     Essen › Nordrhein-Westfalen
@@ -94,14 +95,8 @@ Rot-Weiss Essen,     Essen › Nordrhein-Westfalen
 ##  - 2 (3): 2006-07 2004-05 1996-97
 ## note:  Schwarz-Weiß Essen  (played in 2. liga too)
 
-Preußen Münster
-  | Münster | SC Preußen 06
-SG Wattenscheid 09
-  | Wattenscheid 09
 SF Baumberg
   | Sportfreunde Baumberg
-SF Siegen
-  | Sportfreunde Siegen
 SF Lotte
   | Sportfreunde Lotte
 SV Lippstadt 08
@@ -212,7 +207,7 @@ Bremer SV
 VfB Stuttgart, 1893,        Stuttgart › Baden-Württemberg
   | Stuttgart
 VfB Stuttgart II,        Stuttgart › Baden-Württemberg
-  | Stuttgart II|
+  | Stuttgart II
 Stuttgarter Kickers,   Stuttgart › Baden-Württemberg
   | Stuttgarter K | Stutt. Kick.
 SC Freiburg, 1904,       	  Freiburg  › Baden-Württemberg
