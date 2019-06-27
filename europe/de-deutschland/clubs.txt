@@ -4,14 +4,14 @@
 
 Bayern München, 1900,     München › Bayern
   | Bayern | Bayern Munich | Bayern Muenchen | FC Bayern München
-TSV 1860 München, München › Bayern
-  | Munich 1860 | TSV 1860 Muenchen
+TSV 1860 München, 1860, München › Bayern
+  | Munich 1860 | TSV 1860 Muenchen | TSV München 1860 | 1860 München
 
 
-1. FC Nürnberg, Nürnberg › Bayern    ### todo: always map Nurnberg to 1. FC Nürnberg ?!
-  | Nurnberg | 1. FC Nuernberg
-Greuther Fürth, Fürth    › Bayern
-  | Greuther Furth | SpVgg Greuther Fuerth
+1. FC Nürnberg, 1900, Nürnberg › Bayern    ### todo: always map Nurnberg to 1. FC Nürnberg ?!
+  | Nurnberg | Nürnberg | 1. FC Nuernberg
+Greuther Fürth, 1903, Fürth    › Bayern
+  | Greuther Furth | Greuther Fürth | SpVgg Greuther Fuerth | SpVgg Greuther Fürth
 FC Augsburg, 1907,    Augsburg › Bayern
   | Augsburg
 SpVgg Unterhaching,  Unterhaching › Bayern
@@ -33,8 +33,8 @@ Wacker Burghausen,  Burghausen › Bayern
 Fortuna Köln, Köln › Nordrhein-Westfalen
   | F Koln  | Fortuna Koeln
 
-Fortuna Düsseldorf, Düsseldorf › Nordrhein-Westfalen
-  | Dusseldorf | Fortuna Dusseldorf | Fortuna Duesseldorf
+Fortuna Düsseldorf,  1895, Düsseldorf › Nordrhein-Westfalen
+  | Dusseldorf | F. Düsseldorf | Fortuna Dusseldorf | Fortuna Duesseldorf
 
 Borussia Dortmund, 1909,    Dortmund      › Nordrhein-Westfalen
   | Dortmund | Bor. Dortmund | BV 09 Borussia Dortmund
@@ -44,19 +44,19 @@ FC Schalke 04, 1904,         Gelsenkirchen › Nordrhein-Westfalen
   | Schalke | Schalke 04
 Bayer 04 Leverkusen, 1904,    Leverkusen    › Nordrhein-Westfalen
   | Leverkusen | Bayer Leverkusen | Bay. Leverkusen
-MSV Duisburg,         Duisburg      › Nordrhein-Westfalen     ## until 1965/66 Meidericher SV
-  | Duisburg
+MSV Duisburg,         Duisburg      › Nordrhein-Westfalen     ## until 1965/66 Meidericher SV -- was Meidericher SV in 1963/64
+  | Duisburg | Meidericher SV
 Bor. Mönchengladbach, 1900, Mönchengladbach › Nordrhein-Westfalen
   | Mönchengladbach | M'Gladbach | M'gladbach | Borussia Monchengladbach
   | Borussia M'gladbach | Bor. M'gladbach | Bor. Moenchengladbach | Borussia Mönchengladbach
 
-VfL Bochum,            Bochum › Nordrhein-Westfalen
-  | Bochum
+VfL Bochum, 1938,            Bochum › Nordrhein-Westfalen
+  | Bochum | VfL Bochum 1848
 SG Wattenscheid 09,    Bochum › Nordrhein-Westfalen   ## Bochum-Wattenscheid - Bochumer Stadtbezirk
   | Wattenscheid
 
-Arminia Bielefeld,    Bielefeld     › Nordrhein-Westfalen
-  | Bielefeld
+Arminia Bielefeld,  1905,    Bielefeld     › Nordrhein-Westfalen
+  | Bielefeld | DSC Arminia Bielefeld 
 Preussen Münster,     Münster       › Nordrhein-Westfalen
   | Preussen Muenster
 Gütersloh,            Gütersloh     › Nordrhein-Westfalen
@@ -65,7 +65,7 @@ KFC Uerdingen,        Krefeld       › Nordrhein-Westfalen     ## bis 1995 FC B
   | Uerdingen | Bayer 05 Uerdingen
 Alemannia Aachen,     Aachen        › Nordrhein-Westfalen
   | Aachen
-SC Paderborn 07,      Paderborn     › Nordrhein-Westfalen
+SC Paderborn 07,  1907,      Paderborn     › Nordrhein-Westfalen
   | Paderborn
 Rot Weiss Ahlen,    Ahlen › Nordrhein-Westfalen
   | Ahlen
@@ -96,8 +96,8 @@ VfL Wolfsburg,           Wolfsburg › Niedersachsen
   | Wolfsburg
 Hannover 96, 1896,       Hannover › Niedersachsen
   | Hannover | Hannover 1896
-Eintracht Braunschweig,  Braunschweig › Niedersachsen
-  | Braunschweig
+Eintracht Braunschweig, 1895,  Braunschweig › Niedersachsen
+  | Braunschweig | Eintr. Braunschweig
 SV Meppen,              Meppen › Niedersachsen
   | Meppen
 VfB Oldenburg,         Oldenburg › Niedersachsen
@@ -112,7 +112,7 @@ Hertha BSC, 1892,            	Berlin › Berlin
   | Hertha | Hertha Berliner Sport-Club
 Tennis Borussia Berlin, Berlin › Berlin
   | TB Berlin | TeBe Berlin
-1. FC Union Berlin,     Berlin › Berlin
+1. FC Union Berlin, 1966,     Berlin › Berlin
   | Union Berlin
 Blau-Weiß 90 Berlin (-1992), Berlin › Berlin
   | Blau-Weiss 90 Berlin
@@ -124,8 +124,8 @@ BFC Dynamo Berlin,     Berlin › Berlin
 
 Hamburger SV,  1887,     Hamburg › Hamburg
   | Hamburg
-FC St. Pauli,      Hamburg › Hamburg   ## use stadtteil St. Pauli ??
-  | St Pauli | St. Pauli
+FC St. Pauli, 1910,      Hamburg › Hamburg   ## use stadtteil St. Pauli ??
+  | St Pauli | St. Pauli | FC Sankt Pauli
 
 Werder Bremen, 1899,      Bremen › Bremen
   | Bremen | SV Werder Bremen
@@ -137,22 +137,22 @@ VfB Stuttgart II,        Stuttgart › Baden-Württemberg
   | Stuttgart II|
 Stuttgarter Kickers,   Stuttgart › Baden-Württemberg
   | Stuttgarter K
-SC Freiburg,       	  Freiburg  › Baden-Württemberg
+SC Freiburg, 1904,       	  Freiburg  › Baden-Württemberg
   | Freiburg
 TSG 1899 Hoffenheim,  1899,  Sinsheim › Baden-Württemberg   ## Sinsheim-Hoffenheim
   | Hoffenheim | 1899 Hoffenheim 
-Karlsruher SC,        Karlsruhe › Baden-Württemberg
+Karlsruher SC,  1894,        Karlsruhe › Baden-Württemberg
   | Karlsruhe
 SSV Ulm 1846,         Ulm › Baden-Württemberg
   | Ulm
 VfR Aalen,          Aalen › Baden-Württemberg
   | Aalen
-1. FC Heidenheim,   Heidenheim an der Brenz › Baden-Württemberg
-  | Heidenheim
+1. FC Heidenheim, 2007,   Heidenheim an der Brenz › Baden-Württemberg
+  | Heidenheim | 1. FC Heidenheim 1846
 SSV Reutlingen 05,     Reutlingen › Baden-Württemberg
   | Reutlingen
-SV Sandhausen,         Sandhausen › Baden-Württemberg
-  | Sandhausen
+SV Sandhausen, 1916,         Sandhausen › Baden-Württemberg
+  | Sandhausen | SV Sandhausen 1916
 VfR Mannheim,        Mannheim › Baden-Württemberg
   | Mannheim
   ##  - 2 (8): 2002-03....1999-00 (4) 1996-97....1993-94 (4)
@@ -164,8 +164,8 @@ SV Waldhof Mannheim,   Mannheim › Baden-Württemberg
 
 Eintracht Frankfurt, 1899,   Frankfurt am Main › Hessen 
   | Ein Frankfurt | E. Frankfurt | SG Eintracht Frankfurt   ##  Frankfurt 
-FSV Frankfurt,       Frankfurt am Main › Hessen
-  | FSV Frankfurt | Frankfurt FSV
+FSV Frankfurt, 1899,       Frankfurt am Main › Hessen
+   | Frankfurt FSV | FSV Frankfurt 1899
 
 SV Darmstadt 98, 1898,       Darmstadt › Hessen
   | Darmstadt
@@ -174,8 +174,8 @@ SV Wehen Wiesbaden,     Wiesbaden › Hessen
 Kickers Offenbach,     Offenbach am Main › Hessen
   | Offenbach
 
-1. FC Kaiserslautern, Kaiserslautern › Rheinland-Pfalz
-  | Kaiserslautern
+1. FC Kaiserslautern, 1900, Kaiserslautern › Rheinland-Pfalz
+  |K'lautern | Kaiserslautern | 1. FC K'lautern
 1. FSV Mainz 05, 1905,     Mainz          › Rheinland-Pfalz
   | Mainz | FSV Mainz 05
 1. FSV Mainz 05 II,     Mainz          › Rheinland-Pfalz
@@ -195,8 +195,7 @@ Hansa Rostock,        Rostock › Mecklenburg-Vorpommern
 Dynamo Dresden,      Dresden › Sachsen
   | Dresden
 
-RB Leipzig,           Leipzig › Sachsen
-  | RB Leipzig
+RB Leipzig, 2009,     Leipzig › Sachsen
 VfB Leipzig (-2004),  Leipzig › Sachsen   ## note: 2004 aufgelöst in bl 1993/94
   | Leipzig | VfB Leipzig
 
