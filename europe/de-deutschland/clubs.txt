@@ -33,12 +33,14 @@ TSV 1860 Rosenheim
 FV Illertissen
 
 
-
+##################################
+# Nordrhein-Westfalen (nw)
 
 1. FC Köln, 1948,   Köln › Nordrhein-Westfalen
   | FC Koln | 1. FC Koeln   ## Köln
-Fortuna Köln, Köln › Nordrhein-Westfalen
-  | F Koln  | Fortuna Koeln
+Fortuna Köln, 1948,  Köln › Nordrhein-Westfalen
+  | F Koln  | Fortuna Koeln | SC Fortuna Köln | Sportclub Fortuna Köln 
+FC Viktoria Köln
 
 Fortuna Düsseldorf,  1895, Düsseldorf › Nordrhein-Westfalen
   | Dusseldorf | F. Düsseldorf | Fortuna Dusseldorf | Fortuna Duesseldorf
@@ -69,9 +71,13 @@ Preussen Münster,     Münster       › Nordrhein-Westfalen
 Gütersloh,            Gütersloh     › Nordrhein-Westfalen
   | Gutersloh
 KFC Uerdingen,        Krefeld       › Nordrhein-Westfalen     ## bis 1995 FC Bayer 05 Uerdingen
-  | Uerdingen | Bayer 05 Uerdingen
+  | Uerdingen | KFC Uerdingen 05 | Bayer 05 Uerdingen | FC Bayer 05 Uerdingen | Bayer Uerdingen
+# note:  now called KFC Uerdingen 05 (was Bayer 05 Uerdingen)
+# -- (1953-1995) note: now KFC Uerdingen 05 
+
+
 Alemannia Aachen,     Aachen        › Nordrhein-Westfalen
-  | Aachen
+  | Aachen | TSV Alemannia Aachen
 SC Paderborn 07,  1907,      Paderborn     › Nordrhein-Westfalen
   | Paderborn
 Rot Weiss Ahlen,    Ahlen › Nordrhein-Westfalen
@@ -87,6 +93,22 @@ Rot-Weiss Essen,     Essen › Nordrhein-Westfalen
 ##  - 2 (1): 1993-94
 ##  - 2 (3): 2006-07 2004-05 1996-97
 ## note:  Schwarz-Weiß Essen  (played in 2. liga too)
+
+Preußen Münster
+  | Münster | SC Preußen 06
+SG Wattenscheid 09
+  | Wattenscheid 09
+SF Baumberg
+  | Sportfreunde Baumberg
+SF Siegen
+  | Sportfreunde Siegen
+SF Lotte
+  | Sportfreunde Lotte
+SV Lippstadt 08
+SC Wiedenbrück
+  | SC Wiedenbrück 2000
+FC Hennef 05
+TuS Erndtebrück
 
 
 
