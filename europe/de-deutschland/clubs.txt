@@ -309,9 +309,11 @@ FC Schönberg 95
 1. FC Neubrandenburg 04
 
 
+#######################
+#   Sachsen (sn)
 
-Dynamo Dresden,      Dresden › Sachsen
-  | Dresden
+Dynamo Dresden, 1953,      Dresden › Sachsen
+  | Dresden | SG Dynamo Dresden
 
 RB Leipzig, 2009,     Leipzig › Sachsen
 VfB Leipzig (-2004),  Leipzig › Sachsen   ## note: 2004 aufgelöst in bl 1993/94
@@ -319,12 +321,17 @@ VfB Leipzig (-2004),  Leipzig › Sachsen   ## note: 2004 aufgelöst in bl 1993/
 
 Chemnitzer FC,       Chemnitz › Sachsen
   | Chemnitz
-FC Erzgebirge Aue,   Aue      › Sachsen
-  | Erzgebirge Aue
+FC Erzgebirge Aue, 1949,   Aue      › Sachsen
+  |Aue  | Erzgebirge Aue 
 FSV Zwickau,        Zwickau  › Sachsen
   | Zwickau
+
+
+
 
 FC Carl Zeiss Jena,  Jena   › Thüringen
   | CZ Jena
 FC Rot-Weiß Erfurt,  Erfurt › Thüringen
   | Erfurt
+
+
