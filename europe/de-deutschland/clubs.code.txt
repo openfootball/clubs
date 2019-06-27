@@ -41,3 +41,19 @@ Karlsruher SC,          KSC
 RB Leipzig,             RBL
 MSV Duisburg,           MSV
 DSC Arminia Bielefeld,  DSC
+
+## Brandenburg (bb)
+Energie Cottbus,        FCE
+
+## Baden-Württemberg (bw)
+VfR Aalen,              AAL
+
+## Bayern (by)
+SSV Jahn Regensburg,    REG
+
+## Sachsen (sn)
+Erzgebirge Aue,         AUE
+SG Dynamo Dresden,      SGD
+
+
+
