@@ -1,13 +1,57 @@
-#########################
-#  Turkey (TUR), tr
+############################################
+#  Turkey (TUR),  tr
+#
+#  see https://en.wikipedia.org/wiki/Süper_Lig
 
-galatasaray,   Galatasaray|Galatasaray Istanbul,    city:istanbul
-fenerbahce,    Fenerbahçe|Fenerbahçe SK|Fenerbahçe Spor Kulübü|Fenerbahçe Sports Club,  city:istanbul
-besiktas,      Beşiktaş JK|Beşiktaş
-trabzonspor,   Trabzonspor AŞ
-bursaspor,     Bursaspor
-sivasspor,     Sivasspor
-eskisehirspor, Eskişehirspor
-gaziantepspor, Gaziantepspor
-kayserispor,   Kayserispor
 
+Fenerbahçe İstanbul SK,  İstanbul
+  | Fenerbahce | Fenerbahçe | Fenerbahçe SK
+  | Fenerbahçe Spor Kulübü |Fenerbahçe Sports Club
+Galatasaray İstanbul AŞ, İstanbul
+  | Galatasaray | |Galatasaray Istanbul
+Beşiktaş İstanbul JK,    İstanbul
+  | Besiktas | Beşiktaş JK | Beşiktaş
+Kasımpaşa İstanbul SK,   İstanbul
+  | Kasimpasa
+
+İstanbul Başakşehir,  İstanbul
+  | Buyuksehyr           ## (double) check if Buyuksehyr matching !?
+
+
+Gençlerbirliği Ankara SK, Ankara
+  | Genclerbirligi
+Osmanlıspor Ankara,       Ankara
+  | Osmanlispor
+
+Kardemir Karabükspor,  Karabük
+  | Karabukspor
+Elazığspor,            Elazığ
+  | Elazigspor
+Eskişehirspor,         Eskişehir
+  | Eskisehirspor
+
+Akhisar Belediyespor, Akhisar
+Alanyaspor,  Alanya
+Antalyaspor, Antalya
+Bursaspor,   Bursa
+Göztepe Izmir, İzmir
+  | Goztep
+Kayserispor,         Kayseri
+Kayseri Erciyesspor, Kayseri
+  | Erciyesspor
+
+Konyaspor,     Konya
+Sivasspor,     Sivas
+Trabzonspor AŞ, Trabzon
+  | Trabzonspor
+Yeni Malatyaspor, Malatya
+
+Adanaspor,       Adana
+Gaziantepspor,   Gaziantep
+Çaykur Rizespor, Rize
+  | Rizespor
+
+Balıkesirspor,       Balıkesir
+  | Balikesirspor
+Mersin İdmanyurdu,   Mersin
+  | Mersin Idman Yurdu
