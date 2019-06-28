@@ -23,3 +23,10 @@ Leicester City FC,    LEI
 AFC Bournemouth,      BOU
 Norwich City FC,      NOR
 Watford FC,           WAT
+Burnley FC,           BUR
+Hull City FC,         HUL
+Queens Park Rangers,  QPR
+Fulham FC,            FUL
+Middlesbrough FC,     MFC
+Reading FC,           RDG
+Wigan Athletic,       WIG
