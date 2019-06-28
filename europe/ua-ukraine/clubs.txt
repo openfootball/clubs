@@ -1,14 +1,18 @@
-################################
-# Ukraine (UKR), ua
+###########################
+# Ukraine (UKR),  ua
 
-## fix: rename key to dynamokyiv
 
-kiew,         Dynamo Kiew|FC Dynamo Kiew|Dynamo Kiev|Dynamo Kyiv,         city:kiev
-donezk,       Shakhtar Donetsk|Schachtjor Donezk|Shakhtar Don.|Schachtar Donezk,   city:donetsk
-metalurh,     FC Metalurh Donetsk
-metalist,     FC Metalist Kharkiv|Metalist Kharkiv,    city:kharkov
-dnipro,       FC Dnipro|FC Dnipro Dnipropetrovsk|Dnipro Dnipropetrovsk, city:dnipropetrovsk
-poltava,      FC Vorskla Poltava
-lviv,         FC Karpaty Lviv
-simferopol,   SC Tavriya Simferopol
-arsenalkyiv,  FC Arsenal Kyiv
+FC Dynamo Kyiv,  Kyiv
+  | Dinamo Kiev | Dynamo Kiew |FC Dynamo Kiew |Dynamo Kiev | Dynamo Kyiv
+FC Shakhtar Donetsk,  Donetsk
+  | Shakhtar Donetsk | Schachtjor Donezk | Shakhtar Don. | Schachtar Donezk
+
+FC Metalurh Donetsk
+FC Metalist Kharkiv,    city:kharkov
+  | Metalist Kharkiv
+FC Dnipro,    city:dnipropetrovsk
+  | FC Dnipro Dnipropetrovsk | Dnipro Dnipropetrovsk
+FC Vorskla Poltava
+FC Karpaty Lviv
+SC Tavriya Simferopol
+FC Arsenal Kyiv
