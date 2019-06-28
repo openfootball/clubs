@@ -22,7 +22,8 @@ Crystal Palace FC, 1905, @ Selhurst Park, London   ## Greater London
 
 Wimbledon FC,         London   ## Greater London
   | Wimbledon
-AFC Wimbledon,        London   ## London- Kingston upon Thames ??
+AFC Wimbledon,      @ Kingsmeadow,   London   ##  London (Norbiton ??)  or London- Kingston upon Thames ??
+ ## add Wimbledon too here?
 
 Queens Park Rangers FC, 1882,  @ Loftus Road, London   ## Greater London
   | QPR | Queens Park Rangers
@@ -30,12 +31,12 @@ Millwall FC,      @ The Den,     London        # London (South Bermondsey) or  L
   | Millwall
 Brentford FC,        @ Griffin Park,  London        #  London (Brentford)  or London-Brentford, Greater London
   | Brentford
-Leyton Orient FC,       London  ## London-Leyton
+Leyton Orient FC,     @ Brisbane Road,  London  ##   London (Leyton) or London-Leyton
   | Leyton Orient
-Barnet FC,              London ## London-Edgware
+Barnet FC,           @ The Hive Stadium, London ##   London (Canons Park ??)  or London-Edgware ??
   | Barnet
-Dagenham & Redbridge FC, London  ## London-Dagenham
-  | Dag and Red | Dagenham and Redbridge
+Dagenham & Redbridge FC,  @ Victoria Road,  London  ##  London (Dagenham)  or London-Dagenham
+  | Dag and Red | Dagenham and Redbridge | Dagenham & Redbridge
 
 Bromley FC,                London   ## London-Bromley
   | Bromley
@@ -79,7 +80,7 @@ Manchester City FC, 1880, @ Etihad Stadium,  Manchester     ## North West Englan
 
 Bolton Wanderers FC,  @ Macron Stadium,  Bolton › Greater Manchester
   | Bolton | Bolton Wanderers
-Wigan Athletic FC,    Wigan › Greater Manchester
+Wigan Athletic FC,   @ DW Stadium,  Wigan › Greater Manchester
   | Wigan  | Wigan Athletic
 Wigan Borough FC (1920-1931),   Wigan › Greater Manchester    #  Lancashire
   | Wigan Borough
@@ -121,7 +122,7 @@ Southampton FC, 1885,   @ St Mary's Stadium, Southampton › Hampshire
   | Southampton | FC Southampton
 Aldershot Town FC,     Aldershot › Hampshire
   | Aldershot
-Portsmouth FC,        Portsmouth › Hampshire
+Portsmouth FC,      @ Fratton Park,    Portsmouth › Hampshire
   | Portsmouth
 Eastleigh FC,         Eastleigh › Hampshire
   | Eastleigh
@@ -142,7 +143,7 @@ Coventry City FC,     @ Ricoh Arena,   Coventry › West Midlands
   | Coventry | Coventry City
 Wolverhampton Wanderers FC,    @ Molineux,  Wolverhampton › West Midlands
   | Wolves | Wolverhampton Wanderers
-Walsall FC,              Walsall › West Midlands
+Walsall FC,       @ Bescot Stadium,     Walsall › West Midlands
   | Walsall
 Solihull Moors FC,   Solihull › West Midlands
   | Solihull
@@ -150,7 +151,7 @@ Stafford Rangers FC,   Stafford › West Midlands
   | Stafford Rangers
 
 
-York City FC,         York › North Yorkshire
+York City FC,       @ Bootham Crescent,   York › North Yorkshire
   | York | York City
 Middlesbrough FC, 1876,  @ Riverside Stadium,   Middlesbrough › North Yorkshire
   | Middlesbrough | Middlesboro
@@ -185,7 +186,7 @@ North Ferriby United AFC,  North Ferriby › East Yorkshire
 
 Sheffield Wednesday FC,   @ Hillsborough,  Sheffield › South Yorkshire
   | Sheffield Weds | Sheffield Wednesday
-Sheffield United FC,  Sheffield › South Yorkshire
+Sheffield United FC,  @ Bramall Lane,  Sheffield › South Yorkshire
   | Sheffield United
 
 Barnsley FC,   @ Oakwell,  Barnsley › South Yorkshire
@@ -202,7 +203,7 @@ Doncaster Rovers FC,    @ Keepmoat Stadium,  Doncaster › South Yorkshire
 
 Stoke City FC, 1863,  @ Britannia Stadium,  Stoke-on-Trent › Staffordshire
   | Stoke | Stoke City
-Port Vale FC,           Stoke-on-Trent › Staffordshire
+Port Vale FC,         @ Vale Park,   Stoke-on-Trent › Staffordshire
   | Port Vale
 Burton Albion FC,     @ Pirelli Stadium,  Burton upon Trent › Staffordshire
   | Burton | Burton Albion
@@ -223,12 +224,12 @@ Norwich City FC, 1890,     @ Carrow Road,    Norwich › Norfolk
 Watford FC, 1881,   @ Vicarage Road,  Watford › Hertfordshire
   | Watford | Watford F.C.
 
-Oxford United FC,        Oxford › Oxfordshire
+Oxford United FC,      @ Kassam Stadium,   Oxford › Oxfordshire
   | Oxford | Oxford United
 
 Peterborough United FC, @ Abax Stadium,   Peterborough › Cambridgeshire
   | Peterboro | Peterborough United
-Cambridge United FC,     Cambridge › Cambridgeshire
+Cambridge United FC,    @ Abbey Stadium,   Cambridge › Cambridgeshire
   | Cambridge | Cambridge United
 ## note: there's also <=> Cambridge City  (!!)
 
@@ -238,11 +239,11 @@ Histon FC,          Histon and Impington › Cambridgeshire
 Ipswich Town FC,   @ Portman Road,  Ipswich › Suffolk
   | Ipswich | Ipswich Town
 
-Notts County FC,           Nottingham › Nottinghamshire
+Notts County FC,        @ Meadow Lane,   Nottingham › Nottinghamshire
   | Notts County
 Nottingham Forest FC,    @ City Ground,  West Bridgford › Nottinghamshire
   | Nott'm Forest | Nottingham Forest
-Mansfield Town FC,      Mansfield › Nottinghamshire
+Mansfield Town FC,    @ Field Mill,  Mansfield › Nottinghamshire
   | Mansfield | Mansfield Town
 
 AFC Bournemouth, 1890, @ Dean Court, Bournemouth › Dorset
@@ -257,19 +258,19 @@ Maidenhead United FC,   Maidenhead › Berkshire
 
 Brighton & Hove Albion FC,  @ American Express Stadium,  Falmer › East Sussex     # Brighton?
   | Brighton | Brighton & Hove Albion
-Crawley Town FC,             Crawley › West Sussex
+Crawley Town FC,         @ Broadfield Stadium,   Crawley › West Sussex
   | Crawley Town
 Eastbourne Borough FC,   Eastbourne › East Sussex
   | Eastbourne Borough
 Lewes FC,          Lewes › East Sussex
   | Lewes
 
-Swindon Town FC,  Swindon › Wiltshire
+Swindon Town FC,   @ County Ground,  Swindon › Wiltshire
   | Swindon | Swindon Town
 
 Colchester United FC,     @ Colchester Community Stadium,  Colchester › Essex
   | Colchester | Colchester United
-Southend United FC,     Southend-on-Sea › Essex
+Southend United FC,    @ Roots Hall,   Southend-on-Sea › Essex
   | Southend | Southend United
 Braintree Town FC,     Braintree › Essex
   | Braintree Town
@@ -297,19 +298,19 @@ Grimsby Town FC,        Cleethorpes › North East Lincolnshire
 
 Bristol City FC,     @ Ashton Gate,  Bristol                ## South West
   | Bristol City
-Bristol Rovers FC,     Bristol
+Bristol Rovers FC,   @ Memorial Stadium,  Bristol
   | Bristol Rvs | Bristol Rovers
 
-Tranmere Rovers FC,    Birkenhead › Merseyside
+Tranmere Rovers FC, 1884,   Birkenhead › Merseyside
   | Tranmere | Tranmere Rovers
 Southport FC,   Southport › Merseyside
   | Southport
 New Brighton Tower FC (1898-1901), New Brighton › Merseyside
   | New Brighton | New Brighton Tower
 
-Plymouth Argyle FC,     Plymouth › Devon
+Plymouth Argyle FC,     @ Home Park,  Plymouth › Devon
   | Plymouth | Plymouth Argyle
-Exeter City FC,         Exeter › Devon
+Exeter City FC,     @ St James Park,  Exeter › Devon
   | Exeter | Exeter City
 Torquay United FC,      Torquay › Devon
   | Torquay | Torquay United
@@ -326,15 +327,15 @@ Ebbsfleet United FC,  Northfleet › Kent   ## note: before 2007, the club was c
   | Ebbsfleet | Gravesend
 
 
-Luton Town FC,          Luton › Bedfordshire
+Luton Town FC,      @ Kenilworth Road,    Luton › Bedfordshire
   | Luton | Luton Town
 
 Milton Keynes Dons FC,    @ Stadium:mk,  Milton Keynes › Buckinghamshire
   | Milton Keynes Dons
-Wycombe Wanderers FC,  High Wycombe › Buckinghamshire
+Wycombe Wanderers FC,   @ Adams Park,  High Wycombe › Buckinghamshire
   | Wycombe | Wycombe Wanderers
 
-Yeovil Town FC,              Yeovil › Somerset
+Yeovil Town FC,        @ Huish Park,     Yeovil › Somerset
   | Yeovil
 Bath City FC,                Bath › Somerset
   | Bath City
@@ -357,7 +358,7 @@ Alfreton Town FC,   Alfreton › Derbyshire
 Glossop North End AFC, Glossop › Derbyshire
   | Glossop North End
 
-Carlisle United FC,    Carlisle › Cumbria
+Carlisle United FC,   @ Brunton Park, Carlisle › Cumbria
   | Carlisle | Carlisle United
 ## note: there's also <=> Carlisle City FC (!!)
 
@@ -368,7 +369,7 @@ Barrow AFC,    Barrow-in-Furness › Cumbria
 Workington AFC, Workington › Cumbria
   | Workington
 
-Northampton Town FC,    Northampton › Northamptonshire
+Northampton Town FC,  @ Sixfields Stadium,  Northampton › Northamptonshire
   | Northampton | Northampton Town
 ## note: there's also <=> Northampton Sileby Rangers  (!!)
 
@@ -377,7 +378,7 @@ AFC Rushden & Diamonds,   Rushden › Northamptonshire
 Kettering Town FC,  Kettering › Northamptonshire
   | Kettering Town
 
-Shrewsbury Town FC,   Shrewsbury › Shropshire
+Shrewsbury Town FC,   @ New Meadow,  Shrewsbury › Shropshire
   | Shrewsbury | Shrewsbury Town
 Telford United FC (1872-2004),   Telford › Shropshire
   | Telford United
@@ -395,11 +396,11 @@ Northwich Victoria FC,  Northwich › Cheshire
 
 Fleetwood Town FC,  @ Highbury Stadium,  Fleetwood › Lancashire
   | Fleetwood Town
-Accrington Stanley FC,  Accrington › Lancashire
+Accrington Stanley FC,  @ Crown Ground, Accrington › Lancashire
   | Accrington | Accrington Stanley
 Accrington FC (1878-1896),  Accrington › Lancashire
   | Accrington F.C.
-Morecambe FC,           Morecambe › Lancashire
+Morecambe FC,        @ Globe Arena,    Morecambe › Lancashire
   | Morecambe
 
 Hereford FC (2014-),            Hereford › Herefordshire
@@ -411,10 +412,10 @@ St. Albans City FC,  St. Albans  › Hertfordshire
   | St. Albans
 Boreham Wood FC,     Borehamwood › Hertfordshire
   | Boreham Wood
-Stevenage FC,        Stevenage   › Hertfordshire
+Stevenage FC,        @ Broadhall Way,   Stevenage   › Hertfordshire
   | Stevenage | Stevenage Borough
 
-Hartlepool United FC,   Hartlepool › Durham
+Hartlepool United FC,  @ Victoria Park,   Hartlepool › Durham
   | Hartlepool | Hartlepool United
 Darlington FC, Darlington › Durham
   | Darlington
