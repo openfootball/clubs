@@ -1,21 +1,27 @@
+####################################
+# Romania (ROU), ro
 
-dinamobu,           Dinamo București,       FCD, city:bucuresti
-rapidbu,            Rapid București,        RBU, city:bucuresti
-steaua,             Steaua|Steaua București,       SBU, city:bucuresti
+FC Steaua București,    București
+  | Steaua | Steaua Bucuresti | Steaua București
+FC Dinamo București,    București
+  | Dinamo Bucuresti | Dinamo București
+Rapid București,        București
 
-cfrcluj,            CFR Cluj|CFR 1907 Cluj, CFR, city:cluj
-ucluj,              U Cluj,                 UCJ, city:cluj
+CFR Cluj,     Cluj
+  | CFR 1907 Cluj,
+U Cluj,       Cluj
 
-astra,              Astra Giurgiu,          AFC
-ceahlau,            Ceahlaul Piatra Neamt,  FCC
-chiajna,            Concordia Chiajna,      CCH
-iasi,               CSMS Iasi,              CSI
-fcbrasov,           FC Brasov,              FCB
-severin,            FC Severin,             FCS
-vaslui,             FC Vaslui,              FCV
-gazmetanmedias,     Gaz Metan Medias,       GMM
-gloriabistrita,     Gloria Bistrita,        GBS
-otelul,             Otelul Galati,          OTG
-pandurii,           Pandurii Tg Jiu,        PTJ
-petrolul,           Petrolul Ploiesti,      PPL
-viitorulconstanta,  Viitorul Constanta,     VCT
+Astra Giurgiu
+Ceahlaul Piatra Neamt
+Concordia Chiajna
+CSMS Iasi
+FC Brasov
+FC Severin
+FC Vaslui
+Gaz Metan Medias
+Gloria Bistrita
+Otelul Galati
+Pandurii Tg Jiu
+Petrolul Ploiesti
+Viitorul Constanta
+
