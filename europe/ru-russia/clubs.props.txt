@@ -1,0 +1,25 @@
+#############################
+# Russia (RUS), ru
+
+Name,                    Wikipedia,                  Web
+Lokomotiv Moscow,        FC_Lokomotiv_Moscow,        www.fclm.ru
+CSKA Moskva,             PFC_CSKA_Moscow,            www.pfc-cska.com
+Dynamo Moscow,           FC_Dynamo_Moscow,           www.fcdynamo.ru
+Spartak Moskva,          FC_Spartak_Moscow,          www.spartak.com
+FC Moskva,               FC_Moskva                   ?
+Torpedo Moscow,          FC_Torpedo_Moscow,          www.fc-tm.ru
+Zenit St. Petersburg,    FC_Zenit_Saint_Petersburg,  www.fc-zenit.ru
+FC Rubin Kazan,          FC_Rubin_Kazan,             www.rubinfc.com
+FC Amkar Perm,           FC_Amkar_Perm,              www.fc-amkar.org
+FC Anzhi Makhachkala,    FC_Anzhi_Makhachkala,       www.fc-anji.ru
+FC Sibir Novosibirsk,    FC_Sibir_Novosibirsk
+FC Alania Vladikavkaz,   FC_Alania_Vladikavkaz
+Krylia Sovetov,          FC_Krylia_Sovetov_Samara
+Arsenal Tula,            FC_Arsenal_Tula
+Chernomorets Novorosisk, FC_Chernomorets_Novorossiysk
+FC Krasnodar,            FC_Krasnodar
+FC Kuban,                FC_Kuban_Krasnodar
+Terek Grozny,            FC_Terek_Grozny
+Tom Tomsk,               FC_Tom_Tomsk
+Ufa Ufa,                 FC_Ufa
+Ural Yekaterinburg,      FC_Ural_Sverdlovsk_Oblast
