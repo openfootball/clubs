@@ -88,7 +88,7 @@ Oldham Athletic AFC,    @ Boundary Park,  Oldham › Greater Manchester
   | Oldham  | Oldham Athletic
 Stockport County FC,    Stockport › Greater Manchester
   | Stockport | Stockport County
-Bury FC,                   Bury › Greater Manchester
+Bury FC,             @ Gigg Lane, Bury › Greater Manchester
   | Bury
 Rochdale AFC,       @ Spotland Stadium,   Rochdale › Greater Manchester
   | Rochdale
@@ -437,9 +437,3 @@ Nuneaton Borough FC,    Nuneaton › Warwickshire
 
 Berwick Rangers,  Berwick-upon-Tweed       ## note: in England !!!
   | Berwick
-  
-  
-###
-#  more / debug
-#  - check if exists
-#  Bury,                // Bury  ##  @ Gigg Lane
