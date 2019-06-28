@@ -1,81 +1,106 @@
-###########################
-#  Scottish Premiership
-
-
-## note; three letter codes from wikipedia
+#########################################
+# Scotland (SCO),  sco
 
 ##
 ##  check w/ clubs_western (remove scottish clubs in clubs_western if duplicate; all others move here)
 
 
-[celtic]
-  Celtic|Celtic FC, 1887, CEL
-  // Glasgow
-  www.celticfc.net
-  wikipedia: Celtic_F.C.
+Celtic FC, 1887,       Glasgow
+  | Celtic
+Rangers FC,      Glasgow
+  | Rangers
+Partick Thistle, 1876, Glasgow
+  | Partick | Partick Thistle FC | Jags
+Queen's Park,    Glasgow
+  | Queens Park
 
-[motherwell]
-  Motherwell|Motherwell FC, 1886, MOT
-  // Motherwell
-  www.motherwellfc.co.uk
-  wikipedia: Motherwell_F.C.
+Heart of Midlothian FC,  Edinburgh   ## Gorgie - West of Edinburgh
+  | Hearts
+Hibernian FC,            Edinburgh   ## Leith  - North of Edinburgh
+  | Hibernian | Hibernians
+Edinburgh City,          Edinburgh
 
-[dundeeunited]
-  Dundee United|Dundee Utd|Dundee United FC|Dundee Hibernian, 1909, DND
-  // Dundee
-  www.dundeeunitedfc.co.uk
-  wikipedia: Dundee_United_F.C.
 
-[aberdeen]
-  Aberdeen|Aberdeen FC, 1903, ABE
-  // Aberdeen
-  www.afc.co.uk
-  wikipedia: Aberdeen_F.C.
+Aberdeen FC, 1903, Aberdeen
+  | Aberdeen
 
-[stjohnstone]
-  St Johnstone|Saint Johnstone FC|St. Johnstone, 1884, STJ
-  // Perth
-  www.perthstjohnstonefc.co.uk
-  wikipedia: St._Johnstone_F.C.
+Dundee FC, 1893,       Dundee     ## note: depends on level (1) for mapping
+  | Dundee
+Dundee United, 1909,   Dundee
+  | Dundee Utd | Dundee United FC | Dundee Hibernian
 
-[invernessct]
-  Inverness CT|Inverness Caledonian Thistle FC|Caley Thistle|ICT|The Caley Jags, 1994, INV
-  // Inverness
-  www.ictfc.com
-  wikipedia: Interness_Caledonian_Thistle_F.C.
+Hamilton Academical FC, 1874,   Hamilton
+  | Hamilton | Hamilton Accies
+Kilmarnock FC, 1869, Kilmarnock
+  | Kilmarnock | Killie
+Motherwell FC, 1886,  Motherwell
+  | Motherwell
+Ross County FC,  1929,  Dingwall
+  | Ross County
+St Johnstone FC, 1884, Perth
+  | St Johnstone | St. Johnstone
 
-[dundee]
-  Dundee|Dundee FC, 1893, DUN
-  // Dundee
-  www.dundeefc.co.uk
-  wikipedia: Dundee_F.C.
+Brechin City,  Brechin
+  | Brechin
+Dumbarton,     Dumbarton
+Dunfermline Athletic, Dunfermline
+  | Dunfermline
+Falkirk,  Falkirk
+Greenock Morton,  Greenock
+  | Morton
+Inverness Caledonian Thistle, 1994,  Inverness
+  | Inverness C | Inverness CT |Inverness Caledonian Thistle FC
+  | Caley Thistle | ICT | The Caley Jags
 
-[kilmarnock]
-  Kilmarnock|Kilmarnock FC|Killie, 1869, KIL
-  // Kilmarnock
-  www.kilmarnockfc.co.uk
-  wikipedia: Kilmarnock_F.C.
+Livingston FC, Livingston
+  | Livingston
+Queen of the South,  Dumfries
+  | Queen of Sth
+Saint Mirren FC, 1877,  Paisley
+  | St Mirren | St. Mirren
 
-[partickthistle]
-  Partick Thistle|Partick Thistle FC|Jags, 1876, PAR
-  // Glasgow
-  www.ptfc.co.uk
-  wikipedia: Partick_Thistle_F.C.
 
-[rosscounty]
-  Ross County|Ross County FC, 1929, ROS
-  // Dingwall
-  www.rosscountyfootballclub.co.uk
-  wikipedia: Ross_County_F.C.
+## todo/check/fix: map Airdrie to Airdrieonians  - why? why not?
+##
+##  - x Airdrie (???) - 8 seasons in 1 level
+##  - 2 (8): 2001-02........1994-95 (8)
 
-[stmirren]
-  St Mirren|Saint Mirren FC|St. Mirren, 1877, STM
-  // Paisley
-  www.saintmirren.net
-  wikipedia: St._Mirren_F.C.
+Airdrieonians,    Airdrie
+  | Airdrie Utd | Airdrie
 
-[hamilton]
-  Hamilton Accies|Hamilton Academical FC|Hamilton, 1874, HAM
-  // Hamilton
-  www.acciesfc.co.uk
-  wikipedia: Hamilton_Academical_F.C.
+Albion Rovers,    Coatbridge
+  | Albion Rvs
+Alloa Athletic,   Alloa
+  | Alloa
+Arbroath,         Arbroath
+Ayr United,       Ayr
+  | Ayr
+East Fife,        Methil
+Forfar Athletic,  Forfar
+  | Forfar
+Raith Rovers,     Kirkcaldy
+  | Raith Rvs | Raith
+Stranraer,        Stranraer
+
+
+
+
+
+Annan Athletic,   Annan
+Clyde,            Cumbernauld
+Cowdenbeath,      Cowdenbeath
+Elgin City,       Elgin
+  | Elgin
+Montrose,         Montrose
+Peterhead,        Peterhead
+Stenhousemuir,    Stenhousemuir
+Stirling Albion,  Stirling
+  | Stirling
+
+
+Clydebank FC,  Clydebank
+  | Clydebank
+East Stirlingshire FC,  Falkirk
+  | East Stirling
+Gretna FC, Gretna
+  | Gretna
