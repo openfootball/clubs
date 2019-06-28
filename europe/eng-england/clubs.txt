@@ -26,7 +26,7 @@ AFC Wimbledon,        London   ## London- Kingston upon Thames ??
 
 Queens Park Rangers FC, 1882,  @ Loftus Road, London   ## Greater London
   | QPR | Queens Park Rangers
-Millwall FC,             London        # London-South Bermondsey
+Millwall FC,      @ The Den,     London        # London (South Bermondsey) or  London-South Bermondsey
   | Millwall
 Brentford FC,        @ Griffin Park,  London        #  London (Brentford)  or London-Brentford, Greater London
   | Brentford
@@ -59,7 +59,7 @@ Blackburn Rovers FC,  @ Ewood Park,  Blackburn › Lancashire
   | Blackburn | Blackburn Rovers
 Burnley FC, 1882,    @ Turf Moor,   Burnley › Lancashire
   | Burnley
-Blackpool FC,        Blackpool › Lancashire
+Blackpool FC,    @ Bloomfield Road,    Blackpool › Lancashire
   | Blackpool
 Preston North End FC,   @ Deepdale,  Preston › Lancashire   ## North West
   | Preston | Preston North End
@@ -83,13 +83,13 @@ Wigan Athletic FC,    Wigan › Greater Manchester
   | Wigan  | Wigan Athletic
 Wigan Borough FC (1920-1931),   Wigan › Greater Manchester    #  Lancashire
   | Wigan Borough
-Oldham Athletic AFC,   Oldham › Greater Manchester
+Oldham Athletic AFC,    @ Boundary Park,  Oldham › Greater Manchester
   | Oldham  | Oldham Athletic
 Stockport County FC,    Stockport › Greater Manchester
   | Stockport | Stockport County
 Bury FC,                   Bury › Greater Manchester
   | Bury
-Rochdale AFC,         Rochdale › Greater Manchester
+Rochdale AFC,       @ Spotland Stadium,   Rochdale › Greater Manchester
   | Rochdale
 Altrincham FC,   Altrincham › Greater Manchester
   | Altrincham
@@ -138,7 +138,7 @@ Loughborough FC (1886-1900),   Loughborough › Leicestershire,
 
 West Bromwich Albion FC, 1878, @ The Hawthorns, West Bromwich › West Midlands
   | West Brom | West Bromwich Albion | West Bromwich | Albion
-Coventry City FC,       Coventry › West Midlands
+Coventry City FC,     @ Ricoh Arena,   Coventry › West Midlands
   | Coventry | Coventry City
 Wolverhampton Wanderers FC,    @ Molineux,  Wolverhampton › West Midlands
   | Wolves | Wolverhampton Wanderers
@@ -164,7 +164,7 @@ Leeds United FC,  @ Elland Road,    Leeds › West Yorkshire
 Leeds City FC (1904-1919),  Leeds › West Yorkshire
   | Leeds City
 
-Bradford City AFC,         Bradford › West Yorkshire
+Bradford City AFC,    @ Valley Parade,   Bradford › West Yorkshire
   | Bradford | Bradford City
 Bradford Park Avenue AFC,  Bradford › West Yorkshire
   | Bradford Park Avenue
@@ -188,7 +188,7 @@ Sheffield Wednesday FC,   @ Hillsborough,  Sheffield › South Yorkshire
 Sheffield United FC,  Sheffield › South Yorkshire
   | Sheffield United
 
-Barnsley FC,     Barnsley › South Yorkshire
+Barnsley FC,   @ Oakwell,  Barnsley › South Yorkshire
   | Barnsley
 Rotherham United FC,    @ New York Stadium,  Rotherham › South Yorkshire
   | Rotherham | Rotherham United
@@ -196,7 +196,7 @@ Rotherham County FC (1870-1925), Rotherham › South Yorkshire
   | Rotherham County
 Rotherham Town FC (1899-1925), Rotherham › South Yorkshire   ## note: a second Rotherham Town formed in 1899; first in 1878-1896
   | Rotherham Town
-Doncaster Rovers FC,    Doncaster › South Yorkshire
+Doncaster Rovers FC,    @ Keepmoat Stadium,  Doncaster › South Yorkshire
   | Doncaster | Doncaster Rovers
 
 
@@ -204,7 +204,7 @@ Stoke City FC, 1863,  @ Britannia Stadium,  Stoke-on-Trent › Staffordshire
   | Stoke | Stoke City
 Port Vale FC,           Stoke-on-Trent › Staffordshire
   | Port Vale
-Burton Albion FC,        Burton upon Trent › Staffordshire
+Burton Albion FC,     @ Pirelli Stadium,  Burton upon Trent › Staffordshire
   | Burton | Burton Albion
 Burton United FC (1901-1910),    Burton upon Trent › Staffordshire
   | Burton United
@@ -226,7 +226,7 @@ Watford FC, 1881,   @ Vicarage Road,  Watford › Hertfordshire
 Oxford United FC,        Oxford › Oxfordshire
   | Oxford | Oxford United
 
-Peterborough United FC,  Peterborough › Cambridgeshire
+Peterborough United FC, @ Abax Stadium,   Peterborough › Cambridgeshire
   | Peterboro | Peterborough United
 Cambridge United FC,     Cambridge › Cambridgeshire
   | Cambridge | Cambridge United
@@ -267,7 +267,7 @@ Lewes FC,          Lewes › East Sussex
 Swindon Town FC,  Swindon › Wiltshire
   | Swindon | Swindon Town
 
-Colchester United FC,      Colchester › Essex
+Colchester United FC,     @ Colchester Community Stadium,  Colchester › Essex
   | Colchester | Colchester United
 Southend United FC,     Southend-on-Sea › Essex
   | Southend | Southend United
@@ -282,7 +282,7 @@ Lincoln City FC,  Lincoln › Lincolnshire
   | Lincoln | Lincoln City
 ## note: there's also <=> Lincoln United  (!!)
 
-Scunthorpe United FC,    Scunthorpe › Lincolnshire
+Scunthorpe United FC,  @ Glanford Park,   Scunthorpe › Lincolnshire
   | Scunthorpe | Scunthorpe United
 Boston United FC,      Boston › Lincolnshire
   | Boston | Boston United
@@ -314,7 +314,7 @@ Exeter City FC,         Exeter › Devon
 Torquay United FC,      Torquay › Devon
   | Torquay | Torquay United
 
-Gillingham FC,          Gillingham › Kent
+Gillingham FC,    @ Priestfield Stadium,      Gillingham › Kent
   | Gillingham
 Maidstone United FC,    Maidstone › Kent
   | Maidstone | Maidstone United
@@ -350,7 +350,7 @@ Kidderminster Harriers FC,  Kidderminster › Worcestershire
 Woking FC,                  Woking › Surrey
   | Woking
 
-Chesterfield FC,       Chesterfield › Derbyshire
+Chesterfield FC,     @ Proact Stadium,   Chesterfield › Derbyshire
   | Chesterfield
 Alfreton Town FC,   Alfreton › Derbyshire
   | Alfreton Town
@@ -386,14 +386,14 @@ AFC Telford United (2004-),  Telford › Shropshire
 
 Chester FC,    Chester › Cheshire
   | Chester
-Crewe Alexandra FC,    Crewe › Cheshire
+Crewe Alexandra FC,  @ Gresty Road,  Crewe › Cheshire
   | Crewe | Crewe Alexandra
 Macclesfield Town FC, Macclesfield › Cheshire
   | Macclesfield
 Northwich Victoria FC,  Northwich › Cheshire
   | Northwich | Northwich Victoria
 
-Fleetwood Town FC,  Fleetwood › Lancashire
+Fleetwood Town FC,  @ Highbury Stadium,  Fleetwood › Lancashire
   | Fleetwood Town
 Accrington Stanley FC,  Accrington › Lancashire
   | Accrington | Accrington Stanley
@@ -436,3 +436,9 @@ Nuneaton Borough FC,    Nuneaton › Warwickshire
 
 Berwick Rangers,  Berwick-upon-Tweed       ## note: in England !!!
   | Berwick
+  
+  
+###
+#  more / debug
+#  - check if exists
+#  Bury,                // Bury  ##  @ Gigg Lane
