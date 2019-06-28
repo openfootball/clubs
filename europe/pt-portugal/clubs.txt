@@ -1,28 +1,97 @@
-################################
+###############################
 # Portugal (POR), pt
 
-[porto]
-  Porto|FC Porto
-  // Porto
+SL Benfica,       Lisboa
+  | Benfica | Benfica Lisboa | Benfica Lissabon | Benfica Lis.
+Sporting CP,      Lisboa
+  | Sp Lisbon | Sporting Clube de Portugal
+  | Sporting Lisboa | Sporting Clube de Portugal
+Os Belenenses,    Lisboa
+  | Belenenses
 
-[braga]
-  Braga|Sporting Braga
-  // Braga
+FC Porto,     Porto
+  | Porto
+Boavista FC,  Porto
+  | Boavista
 
-[benfica]
-  Benfica|Benfica Lisboa|Benfica Lissabon|Benfica Lis.
-  // Lisboa
+CD Aves, Aves
+  | Aves
+GD Chaves, Chaves
+  | Chaves
+Estoril Praia, Estoril
+  | Estoril
+CD Feirense, Santa Maria da Feira
+  | Feirense
+Vitória de Guimarães, Guimarães
+  | Guimaraes | Vitória SC
+Vitória de Setúbal, Setúbal          ## note:  Vitória SC <=> Vitória FC !!!
+  | Setubal | Vitória FC
+CS Marítimo, Funchal
+  | Maritimo
+Moreirense FC, Moreira de Cónegos
+  | Moreirense
+FC Paços de Ferreira, Paços de Ferreira
+  | Pacos Ferreira
+Portimonense SC, Portimão
+  | Portimonense
+Rio Ave FC, Vila do Conde
+  | Rio Ave
+SC Braga, Braga
+  | Braga | Sp Braga |Sporting Braga
+CD Tondela, Tondela
+  | Tondela
 
-[sportinglisboa]    ## check - sporting key already in use ??
-  Sporting Lisboa|Sporting CP|Sporting Clube de Portugal
-  // Lisboa
+Académica de Coimbra, Coimbra    
+  | Academica | A. Académica de Coimbra
+  | Associação Académica de Coimbra   ## Organismo Autónomo de Futebol (AAC–OAF)
+FC Arouca, Arouca
+  | Arouca
+CD Nacional Madeira, Funchal
+  | Nacional  | CD Nacional | Nacional da Madeira
+  | Clube Desportivo Nacional
+FC Penafiel, Penafiel
+  | Penafiel
 
+SC Beira-Mar, Aveiro
+  | Beira Mar
+Desportivo de Chaves, Chaves
+  | Desp. Chaves
+CF Estrela da Amadora, Amadora
+  | Est Amadora
+SC Farense, Faro
+  | Farense
+Gil Vicente FC, Barcelos
+  | Gil Vicente
+União de Leiria,   Leiria
+  | Leiria | União Desportiva de Leiria
+União da Madeira,  Funchal
+  | Madeira | Uniao Madeira
+SC Salgueiros,  Paranhos
+  | Salgueiros
+FC Tirsense,  Santo Tirso
+  | Tirsense
+SC Campomaiorense, Campo Maior
+  | Campomaior | Campomaiorense
+FC Felgueiras, Felgueiras
+  | Felgueiras
+Leça FC, Leça da Palmeira
+  | Leca
 
-maritimo,         CS Marítimo
-nacionaldamadeira,  CD Nacional|Nacional da Madeira
-coimbra,            A. Académica de Coimbra
-ferreira,           FC Paços de Ferreira    # todo: change key to pacosferreira ???
+FC Alverca, Alverca do Ribatejo
+  | Alverca
+Sporting de Espinho,  Espinho
+  | Espinho | Sporting Clube de Espinho
+Leixões SC, Matosinhos
+  | Leixoes
+Naval 1º de Maio, Figueira da Foz
+  | Naval | Associação Naval 1º de Maio
+SC Olhanense,     Olhão
+  | Olhanense
+CD Santa Clara,   Ponta Delgada
+  | Santa Clara
+CD Trofense,     Tulipa
+  | Trofense | Clube Desportivo Trofense
+Varzim SC,       Póvoa de Varzim
+  | Varzim
 
-vitoriasc,            Vitória SC    ## fix: todo check if same as vitora fc?
-vitoriafc,            Vitória FC    ## fix: todo check if same as vitora sc?
 
