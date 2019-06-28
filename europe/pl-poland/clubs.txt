@@ -1,0 +1,8 @@
+#####################################
+# Poland (pl)
+
+
+Górnik Zabrze,   Zabrze
+  | Gornik Zabrze   
+Legia Warszawa,  Warszawa   ## Warsaw [en]
+  | Legia Warsaw    
