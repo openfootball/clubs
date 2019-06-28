@@ -1,0 +1,12 @@
+#######################
+# Wales (WAL), wal
+
+# note: welsh clubs playing in english premiere league or championship etc. listed here
+
+Swansea City, 1912,     @ Liberty Stadium, Swansea   
+  | Swansea | Swansea City FC
+ 
+Cardiff City,  @ Cardiff City Stadium, Cardiff
+  | Cardiff
+ 
+Newport County, 1912,  @ Rodney Parade, Newport  
