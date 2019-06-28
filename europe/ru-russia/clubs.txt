@@ -1,192 +1,89 @@
 #############################
 # Russia (RUS), ru
 
-[lokomotiv]
-  Lokomotiv|Lokomotiv Moscow|FC Lokomotiv|FC Lokomotiv Moskva, 1923
-  // Moskva
-  wikipedia: FC_Lokomotiv_Moscow
-  www.fclm.ru
 
-[cskamoskva]
-  CSKA Moskva|PFC CSKA Moskva|CSKA Moscow|PFK CSKA Moscow|CSKA|PFK CSCA, 1911
-  // Moskva
-  wikipedia: PFC_CSKA_Moscow
-  www.pfc-cska.com
-
-[dinamomoskva]
-  Dynamo|Dinamo|Dynamo Moscow|Dinamo Moscow|FC Dinamo Moskva, 1923
-  // Moskva
-  wikipedia: FC_Dynamo_Moscow
-  www.fcdynamo.ru
-
-[spartak]
-  Spartak|Spartak Moskva|Spartak Moskau|Spartak Moscow|FC Spartak, 1922
-  // Moskva
-  wikipedia: FC_Spartak_Moscow
-  www.spartak.com
-
-[fcmoskva]
-  Moskva|FC Moskva
-  // Moskva
-  wikipedia:FC_Moskva
-
-[torpedo]
-  Torpedo|Torpedo Moscow
-  // Moskva
-  wikipedia:FC_Torpedo_Moscow
-  www.fc-tm.ru/
+Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
+  | Lokomotiv | FC Lokomotiv | FC Lokomotiv Moskva | Lokomotiv Moscow
+PFC CSKA Moskva, 1911,   Moskva
+  | CSKA | PFK CSCA | CSKA Moskva | CSKA Moscow | PFK CSKA Moscow
+Dynamo Moskva, 1923,     Moskva
+  | Dynamo | Dinamo | Dinamo Moscow | Dynamo Moscow | FC Dinamo Moskva
+FC Spartak Moskva, 1922,    Moskva
+  | Spartak | Spartak Moskva | Spartak Moskau | Spartak Moscow | FC Spartak
+FC Moskva
+  | Moskva
+Torpedo Moskva
+  | Torpedo | Torpedo Moscow
 
 
-[zenit]
-  Zenit|Zenit St. Petersburg|Zenit Petersb.|FC Zenit St Petersburg|Zenit Saint Petersburg|FC Zenit Saint Petersburg, 1925
-  // St. Petersburg
-  wikipedia: FC_Zenit_Saint_Petersburg
-  www.fc-zenit.ru
+Zenit St. Petersburg, 1925,     St. Petersburg
+  | Zenit | Zenit Petersb. | FC Zenit St Petersburg
+  | Zenit Saint Petersburg | FC Zenit Saint Petersburg
 
 
-[rubinkazan]
-  Rubin Kazan|FC Rubin Kazan|Rubin, 1958
-  // Kazan     ##  Tatarstan (Republic of) > Volga (Federal District)
-  wikipedia: FC_Rubin_Kazan
-  www.rubinfc.com
+FC Rubin Kazan, 1958,  Kazan     ##  Tatarstan (Republic of) > Volga (Federal District)
+  | Rubin | Rubin Kazan
 
-[amkarperm]
-  FC Amkar Perm|Amkar|Amkar Perm, 1994
-  // Perm      ##  Perm Krai  > Volga (Federal District)
-  wikipedia: FC_Amkar_Perm
-  www.fc-amkar.org
+FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
+  | Amkar | Amkar Perm
 
+FC Anzhi Makhachkala, 1991,  Makhachkala      ## Dagestan (Republic of) >  North Caucasian (Federal District)
+  | Anzhi | Anji | Anzhi Makhachkala
 
-[anzhi]
-  Anzhi Makhachkala|FC Anzhi Makhachkala|Anzhi|Anji, 1991
-  // Makhachkala      ## Dagestan (Republic of) >  North Caucasian (Federal District)  
-  wikipedia: FC_Anzhi_Makhachkala    
-  www.fc-anji.ru
+FC Sibir Novosibirsk,  Novosibirsk
+  | Sibir' | Sibir | FC Sibir
 
+FC Alania Vladikavkaz,  Vladikovkaz
+  | Alania | Alania Vladikavkaz
 
+PFC Krylya Sovetov Samara,    Samara
+  | Krylia Sovetov | Kryl'ia Sovetov | Krylia Sovetov Samara
 
-[novosibirsk]
-  FC Sibir Novosibirsk|Sibir'|Sibir|FC Sibir
-  // Novosibirsk
-  wikipedia: FC_Sibir_Novosibirsk
+Arsenal Tula,  Tula
+  | Arsenal | FC Arsenal Tula,
 
+Chernomorets Novorosisk,  Novorosisk
+  | Chernomorets
 
-[vladikavkaz]
-  FC Alania Vladikavkaz|Alania|Alania Vladikavkaz
-  // Vladikovkaz
-  wikipedia: FC_Alania_Vladikavkaz
+FC Khimki,  Khimki
+  | Khimki
 
+FC Krasnodar,  Krasnodar
+  | Krasnodar | Krasnodar Krasnodar
 
-[samara]
-  PFC Krylya Sovetov Samara|Krylia Sovetov|Kryl'ia Sovetov|Krylia Sovetov Samara
-  // Samara
-  wikipedia:FC_Krylia_Sovetov_Samara
+FC Kuban,    Krasnodar
+  | Kuban | Kuban' | Kuban Krasnodar
 
-[arsenaltula]
-  Arsenal| Arsenal Tula| FC Arsenal Tula,             
-  // Tula
-  wikipedia:FC_Arsenal_Tula
-  
-[chernomorets]
-  Chernomorets | Chernomorets Novorosisk,             
-  // Novorosisk
-  wikipedia:FC_Chernomorets_Novorossiysk
+Luch Energia Vladivostok,   Vladivostok
+  | Luch
 
-[khimki]
-  Khimki | FC Khimki,                                 
-  // Khimki
+FC Mordovia,   Saransk
+  | Mordovia | Mordovia Saransk
 
+Spartak Nalchik,   Nalchik
+  | Nalchik
 
-[krasnodar]
-  Krasnodar|FC Krasnodar|Krasnodar Krasnodar,         
-  // Krasnodar
-  wikipedia:FC_Krasnodar
+Nizhnii Novgorod,  Nizhny Novgorod
+  | Nizhny Novgorod
 
-[kuban]
-  Kuban| Kuban' |FC Kuban |Kuban Krasnodar,           
-  // Krasnodar
-  wikipedia:FC_Kuban_Krasnodar
+FC Rostov,     Rostov-on-Don
+  | Rostov | Rostov Rostov-on-Don
 
-[luch]
-  Luch |Luch Energia Vladivostok,                     
-  // Vladivostok
-
-
-[mordovia]
-  Mordovia|Mordovia Saransk | FC Mordovia,            
-  // Saransk
-
-
-[nalchik]
-  Spartak Nalchik| Nalchik,                           
-  // Nalchik
-
-
-[nizhnii]
-  Nizhnii Novgorod | Nizhny Novgorod,                 
-  // Nizhny Novgorod
-
-
-[rostov]
-  Rostov|Rostov Rostov-on-Don| FC Rostov,             
-  // Rostov-on-Don
-
-
-[rotor]
-  Rotor,                                              
-  // Volgograd
-
-
-[saturn]
-  Saturn,                                             
-  // Ramenskoe
-
-
-[shinnik]
-  Shinnik,                                            
-  // Yaroslavl
-
-
-[ska]
-  SKA-Energiia| SKA Energia,                          
-  // Khabarovsk
-
-
-[sokol]
-  Sokol,                                              
-  // Saratov
-
-
-[terek]
-  Terek|Terek Grozny,                                 
-  // Grozny
-  wikipedia:FC_Terek_Grozny
-
-[tom]
-  Tom| Tom'| Tom Tomsk,                               
-  // Tomsk
-  wikipedia:FC_Tom_Tomsk
-
-[tosno]
-  Tosno,                                              
-  // Tosno
-
-
-[ufa]
-  Ufa|Ufa Ufa,                                        
-  // Ufa
-  wikipedia:FC_Ufa
-
-[ural]
-  Ural|Ural Yekaterinburg,                            
-  // Yekaterinburg
- wikipedia:FC_Ural_Sverdlovsk_Oblast
-
-[uralan]
-  Uralan,                                             
-  // Elista
-
-
-[volga]
-  Volga| Volga Nizhnii Novgorod,                      
-  // Nizhny Novgorod
+Rotor, Volgograd
+Saturn, Ramenskoe
+Shinnik, Yaroslavl
+SKA-Energiia, Khabarovsk
+  | SKA Energia
+Sokol, Saratov
+Terek Grozny, Grozny
+  | Terek|
+Tom Tomsk, Tomsk
+  | Tom | Tom'
+Tosno,  Tosno
+FC Ufa, Ufa
+  | Ufa | Ufa Ufa,
+Ural Yekaterinburg, Yekaterinburg
+  | Ural
+Uralan, Elista
+Volga Nizhnii Novgorod, Nizhny Novgorod
+  | Volga
