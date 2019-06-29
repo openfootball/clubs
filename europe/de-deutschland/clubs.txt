@@ -311,8 +311,8 @@ Dynamo Dresden, 1953,      Dresden › Sachsen
   | Dresden | SG Dynamo Dresden
 
 RB Leipzig, 2009,     Leipzig › Sachsen
-VfB Leipzig (-2004),  Leipzig › Sachsen   ## note: 2004 aufgelöst in bl 1993/94
-  | Leipzig | VfB Leipzig
+VfB Leipzig (-2004),  Leipzig › Sachsen     ## note: 2004 aufgelöst in bl 1993/94
+  | Leipzig
 
 Chemnitzer FC,       Chemnitz › Sachsen
   | Chemnitz
