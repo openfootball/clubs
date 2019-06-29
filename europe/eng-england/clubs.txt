@@ -1,5 +1,5 @@
 ##################################
-# England (ENG)
+# England (ENG),  eng
 #
 #  note: see wal.txt for teams from wales
 
@@ -382,8 +382,7 @@ Shrewsbury Town FC,   @ New Meadow,  Shrewsbury › Shropshire
   | Shrewsbury | Shrewsbury Town
 Telford United FC (1872-2004),   Telford › Shropshire
   | Telford United
-AFC Telford United (2004-),  Telford › Shropshire
-  | AFC Telford United
+AFC Telford United, 2004,  Telford › Shropshire
 
 Chester FC,    Chester › Cheshire
   | Chester
