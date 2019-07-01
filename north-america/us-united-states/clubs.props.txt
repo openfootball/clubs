@@ -1,0 +1,27 @@
+########################
+# United States, us
+
+Name,                     Wikipedia,                 Web
+Los Angeles Galaxy,       LA_Galaxy,                 www.lagalaxy.com
+San Jose Earthquakes,     San_Jose_Earthquakes,      www.sjearthquakes.com
+Seattle Sounders FC,      Seattle_Sounders_FC,       www.soundersfc.com
+Portland Timbers,         Portland_Timbers,          www.timbers.com
+Houston Dynamo,           Houston_Dynamo,            www.houstondynamo.com
+FC Dallas,                FC_Dallas,                 www.fcdallas.com
+Real Salt Lake,           Real_Salt_Lake,            www.realsaltlake.com
+Sporting Kansas City,     Sporting_Kansas_City,      www.sportingkc.com 
+Colorado Rapids,          Colorado_Rapids,           www.coloradorapids.com
+Chicago Fire,             Chicago_Fire_Soccer_Club,  www.chicago-fire.com
+Columbus Crew,            Columbus_Crew_SC,          www.columbuscrewsc.com
+D.C. United,              D.C._United,               www.dcunited.com
+New England Revolution,   New_England_Revolution,    www.revolutionsoccer.net
+Philadelphia Union,       Philadelphia_Union,        www.philadelphiaunion.com
+NY Red Bulls,             New_York_Red_Bulls,        www.newyorkredbulls.com
+New York City,            New_York_City_FC,          www.nycfc.com
+Orlando City,             Orlando_City_SC,           www.orlandocitysc.com
+Atlanta United FC,        Atlanta_United_FC,         www.atlutd.com
+Minnesota United FC,      Minnesota_United_FC_(MLS)
+Los Angeles FC,           Los_Angeles_Football_Club
+Club Deportivo Chivas US, Chivas_USA
+Miami Fusion,             Miami_Fusion
+Tampa Bay Mutiny,         Tampa_Bay_Mutiny
