@@ -1,4 +1,4 @@
-# World Football Clubs n Leagues
+# World Football Clubs
 
 ## What's `football.db`?
 
@@ -8,29 +8,28 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for the world's football clubs n
-leagues. Example:
+Free open public domain football data for the world's football clubs. Example:
 
-~~~
-porto,        Porto|FC Porto
-benfica,      Benfica|Benfica Lisboa|Benfica Lissabon|Benfica Lis.
-braga,        Braga|Sporting Braga
-sporting,     Sporting Lisboa|Sporting CP|Sporting Clube de Portugal
-maritimo,     CS Marítimo
-coimbra,      A. Académica de Coimbra
+```
+Arsenal FC, 1886, @ Emirates Stadium, London
+  | Arsenal | FC Arsenal  
+Chelsea FC, 1905, @ Stamford Bridge, London
+  | Chelsea | FC Chelsea
+Tottenham Hotspur FC, 1882, @ White Hart Lane, London
+  | Tottenham | Tottenham Hotspur | Spurs
+West Ham United FC, 1895, @ Boleyn Ground, London
+  | West Ham  | West Ham United
+Fulham FC, 1879,  @ Craven Cottage,  London
+  | Fulham | FC Fulham
+Charlton Athletic FC,  @ The Valley,  London
+  | Charlton | Charlton Athletic
+Crystal Palace FC, 1905, @ Selhurst Park, London
+  | Crystal Palace | C Palace | Palace | Crystal P
+Wimbledon FC,         London   ## Greater London
+  | Wimbledon
 ...
-~~~
+```
 
-~~~
-ad, Primera Divisió
-sm, Campionato
-gr, Super League
-il, Ligat Ha'Al
-pl, Ekstraklasa
-hr, Prva Liga
-sk, Superliga
-...
-~~~
 
 ## Build Your Own `football.db` Copy
 
