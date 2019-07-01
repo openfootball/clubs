@@ -29,7 +29,7 @@ Girondins de Bordeaux, 1881, Bordeaux › Nouvelle-Aquitaine     ## Gironde > Aq
 Stade Malherbe Caen,  1913,   Caen     ## Calvados > Lower Normandy
   | Caen |  SM Caen | Stade Malherbe de Caen
 Dijon FCO, Dijon
-  | Dijon
+  | Dijon | Dijon Football Côte-d'Or
 EA Guingamp, 1912, Guingamp   ## Côtes-d'Armor > Brittany
   | Guingamp | En Avant Guingamp | En Avant de Guingamp
 Lille OSC,  1944,   Lille      ## Nord > Nord-Pas-de-Calais
@@ -38,8 +38,8 @@ Olympique Lyonnais, 1899, Lyon      ## Lyon > Rhône-Alpes
   | Lyon | Olympique Lyon 
 Olympique de Marseille, 1899, Marseille   ## Bouches-du-Rhône > Provence-Alpes-Côte d'Azur
   | Marseille | Olympique Marseille 
-FC Metz, Metz
-  | Metz
+FC Metz, 1932, Metz      ## Moselle > Lorraine
+  | Metz | Football Club de Metz
 
 Montpellier HSC, 1974, Montpellier     ## Hérault > Languedoc-Roussillon  
   | Montpellier | HSC Montpellier | Montpellier Hérault SC
@@ -64,47 +64,47 @@ ES Troyes AC, 1986, Troyes      ## Aube > Champagne-Ardenne
 Stade de Reims, 1931, Reims    ## Marne > Champagne-Ardenne
   | Reims | Stade Reims
 Nîmes Olympique, Nîmes
-  | Nimes
+  | Nimes 
 
-AC Ajaccio,  Ajaccio  
-  | Ajaccio
+AC Ajaccio, 1910,  Ajaccio   ## Corse-du-Sud > Corsica  
+  | Ajaccio | Athletic Club Ajaccien
 GFC Ajaccio, 1910, Ajaccio    ## Corse-du-Sud > Corsica
   | Ajaccio GFCO | Gazélec Football Club Ajaccio
 
 AJ Auxerre, Auxerre
-  | Auxerre
+  | Auxerre | Association de la Jeunesse Auxerroise
 Bourg-en-Bresse 01, Bourg-en-Bresse     ## use - Football Bourg-en-Bresse Péronnas 01 - why? why not?
   | Bourg Peronnas
 Stade Brestois 29, Brest
-  | Brest
+  | Brest | Stade Brestois
 LB Châteauroux, Châteauroux
-  | Chateauroux
+  | Chateauroux | La Berrichonne de Châteauroux
 Clermont Foot 63, Clermont
-  | Clermont
+  | Clermont | Clermont Foot
 Le Havre AC, Le Havre
-  | Le Havre
-RC Lens, Lens
-  | Lens
+  | Le Havre | Havre AC | Le Havre Athletic Club Football
+RC Lens,  1906,  Lens      ## Pas-de-Calais > Nord-Pas-de-Calais
+  | Lens | Racing Club de Lens
 FC Lorient, 1926, Lorient     ## Morbihan > Brittany
   | Lorient  | Football Club Lorient-Bretagne Sud
 AS Nancy Lorraine, Nancy
-  | Nancy
+  | Nancy | AS Nancy-Lorraine | Association Sportive Nancy-Lorraine
 Chamois Niortais FC, Niort
-  | Niort
+  | Niort |   Chamois Niortais | Chamois Niortais Football Club
 US Orléans, Orléans
-  | Orleans
+  | Orleans | Union sportive Orléans Loiret football
 
-US Quevilly-Rouen Métropole,  Petit-Quevilly   ## use Quevilly-Rouen - why? why not?
-  | Quevilly Rouen
+US Quevilly-Rouen Métropole,  Petit-Quevilly
+  | Quevilly Rouen | Quevilly-Rouen
 FC Sochaux-Montbéliard, Montbéliard
-  | Sochaux
+  | Sochaux | Football Club de Sochaux-Montbéliard
 Tours FC, Tours
-  | Tours
+  | Tours | Tours Football Club
 Valenciennes FC, Valenciennes
-  | Valenciennes
+  | Valenciennes | Valenciennes Football Club
 
 AC Arles-Avignon, Avignon
-  | Arles
+  | Arles | AC Arles Avignon | Athletic Club Arles-Avignon
 
 SC Bastia, 1905,  Bastia    ## Haute-Corse > Corsica
   | Bastia | Sporting Club de Bastia
@@ -115,8 +115,8 @@ CA Bastia, Bastia
 AS Beauvais Oise,  Beauvais Oise
   | Beauvais
 
-Racing Besançon, Besançon   ## use Besançon RC - why? why not?
-  | Besancon
+Racing Besançon, Besançon
+  | Besancon | Besançon RC
 US Boulogne,  Boulogne-sur-Mer
   | Boulogne
 AS Cannes, Cannes
@@ -124,11 +124,13 @@ AS Cannes, Cannes
 FCO Charleville, Charleville-Mézières
   | Charleville
 US Créteil, Créteil
-  | Creteil
+  | Creteil  | US Créteil-Lusitanos | Union Sportive Créteil-Lusitanos
 SAS Épinal,  Épinal
   | Epinal
-Évian TG FC, Thonon-les-Bains     ## use Évian Thonon-Gaillard FC - why? why not?
-  | Evian Thonon Gaillard
+Évian TG FC, 2007, Thonon-les-Bains     ## Haute-Savoie > Rhône-Alpes
+  | Evian Thonon Gaillard | Évian Thonon Gaillard FC | Évian Thonon-Gaillard FC 
+  | Evian Thonon Gaillard Football Club
+
 Grenoble Foot 38, Grenoble
   | Grenoble
 FC Gueugnon, Gueugnon
@@ -136,7 +138,7 @@ FC Gueugnon, Gueugnon
 FC Istres, Istres
   | Istres
 Stade Lavallois, Laval
-  | Laval
+  | Laval | Stade Lavallois Mayenne Football Club
 Le Mans FC, Le Mans
   | Le Mans
 FC Libourne-Saint-Seurin, Libourne
