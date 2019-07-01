@@ -4,8 +4,10 @@
 ##  note: see mc.txt for monaco
 
 
-Paris Saint-Germain, Paris › Île-de-France
-  | Paris SG
+Paris Saint-Germain, 1970, Paris › Île-de-France
+  | Paris SG | Paris St. Germain | Paris S.Germain | Paris Saint Germain 
+  | Paris-Saint-Germain Football Club,
+
 Paris FC,            Paris › Île-de-France
 
 ##
@@ -20,21 +22,22 @@ Amiens SC,             Amiens   › Hauts-de-France
   | Amiens
 Angers SCO,            Angers   › Pays de la Loire
   | Angers
-Girondins de Bordeaux, Bordeaux › Nouvelle-Aquitaine
-  | Bordeaux
+Girondins de Bordeaux, 1881, Bordeaux › Nouvelle-Aquitaine     ## Gironde > Aquitaine
+  | Bordeaux | FC Girondins de Bordeaux
+  | Football Club des Girondins de Bordeaux
 
-Stade Malherbe Caen, Caen    ## use - SM Caean - why? why not?
-  | Caen
+Stade Malherbe Caen,  1913,   Caen     ## Calvados > Lower Normandy    -- use - SM Caean - why? why not?
+  | Caen |  SM Caen | Stade Malherbe de Caen
 Dijon FCO, Dijon
   | Dijon
-EA Guingamp, Guingamp
-  | Guingamp
-Lille OSC, Lille
-  | Lille
-Olympique Lyonnais, Lyon
-  | Lyon | Olympique Lyon
-Olympique de Marseille, Marseille
-  | Marseille | Olympique Marseille
+EA Guingamp, 1912, Guingamp   ## Côtes-d'Armor > Brittany
+  | Guingamp | En Avant Guingamp | En Avant de Guingamp
+Lille OSC,  1944,   Lille      ## Nord > Nord-Pas-de-Calais
+  | Lille  | LOSC Lille | OSC Lille
+Olympique Lyonnais, 1899, Lyon      ## Lyon > Rhône-Alpes
+  | Lyon | Olympique Lyon 
+Olympique de Marseille, 1899, Marseille   ## Bouches-du-Rhône > Provence-Alpes-Côte d'Azur
+  | Marseille | Olympique Marseille 
 FC Metz, Metz
   | Metz
 
@@ -42,13 +45,14 @@ Montpellier HSC, Montpellier   ## use - Montpellier Hérault SC - why? why not?
   | Montpellier
 FC Nantes, Nantes
   | Nantes
-OGC Nice, Nice
-  | Nice
+OGC Nice, 1904, Nice    ## Alpes-Maritimes > Provence-Alpes-Côte d'Azur
+  | Nice  | Olympique Gymnaste Club Nice Côte d'Azur
 
-Stade Rennais FC, Rennes
-  | Rennes
-AS Saint-Étienne, Saint-Étienne
-  | St Etienne | AS Saint-Etienne
+Stade Rennais FC, 1901,   Rennes    ## Ille-et-Vilaine > Brittany
+  | Rennes | Stade Rennais Football Club
+AS Saint-Étienne, 1919,  Saint-Étienne     ## Loire > Rhône-Alpes
+  | St Etienne | AS Saint-Etienne 
+  | Association Sportive de Saint-Étienne Loire
 RC Strasbourg, Strasbourg
   | Strasbourg
 Toulouse FC, Toulouse
@@ -79,8 +83,8 @@ Le Havre AC, Le Havre
   | Le Havre
 RC Lens, Lens
   | Lens
-FC Lorient, Lorient
-  | Lorient
+FC Lorient, 1926, Lorient     ## Morbihan > Brittany
+  | Lorient  | Football Club Lorient-Bretagne Sud
 AS Nancy Lorraine, Nancy
   | Nancy
 Chamois Niortais FC, Niort
@@ -100,8 +104,9 @@ Valenciennes FC, Valenciennes
 AC Arles-Avignon, Avignon
   | Arles
 
-SC Bastia, Bastia
-  | Bastia
+SC Bastia, 1905,  Bastia    ## Haute-Corse > Corsica
+  | Bastia | Sporting Club de Bastia
+
 CA Bastia, Bastia
   | CA Bastia
 
