@@ -6,33 +6,52 @@
 
 Atlanta United FC, 2017,  Atlanta       › Georgia
   | Atlanta United
-Chicago Fire, 1998,  Bridgeview    › Illinois
-Columbus Crew SC, 1996,  Columbus      › Ohio
-  | Columbus Crew
-D.C. United, 1996,  Washington    › D.C.
-  | DC United
-New England Revolution, 1996,  Foxborough    › Massachusetts
+Chicago Fire, 1998,  Bridgeview    › Illinois    ## year 1997? use Chicago (not Bridgeview?)
+  | Chicago
+Columbus Crew SC, 1996,  Columbus      › Ohio   ## year 1994?
+  | Columbus | Columbus Crew
+D.C. United, 1996,  Washington    › D.C.    ## year 1995?
+  | DC United | Washington D.C. United 
+New England Revolution, 1996,  Foxborough    › Massachusetts   ## year 1995? use Boston?
+  | New England | N.E. Revolution
 New York City FC, 2015,  New York City › New York
 New York Red Bulls, 1996,  Harrison      › New Jersey   ## note: named >New York/New Jersey MetroStars; MetroStars< from 1996-2005
 Orlando City SC, 2015,  Orlando       › Florida
   | Orlando City
-Philadelphia Union, 2010,  Chester       › Pennsylvania
+Philadelphia Union, 2010,  Chester       › Pennsylvania   # year 2008?
+  | Philadelphia
 
-Colorado Rapids, 1996,  Commerce City › Colorado
-FC Dallas, 1996,  Frisco        › Texas     ## note: FC Dallas named >Dallas Burn< from 1996-2004
 
-Houston Dynamo, 2006,  Houston       › Texas
-LA Galaxy, 1996,  Carson        › California
+Colorado Rapids, 1996,  Commerce City › Colorado    ## use Denver (not Commerce City?)
+  | Colorado
+
+FC Dallas, 1996,  Frisco        › Texas     ##  use Dallas (and not Frisco) ? - note: FC Dallas named >Dallas Burn< from 1996-2004
+  | Dallas
+
+Houston Dynamo, 2006,  Houston       › Texas   ## year 2005?
+  | Houston | H. Dynamo
+  
+LA Galaxy, 1996,  Carson        › California    ## founding year 1995?  -- use Los Angeles (not Carson) ??
+  | Los Angeles Galaxy
 Los Angeles FC, 2018,  Los Angeles   › California
+San Jose Earthquakes, 1996,  San Jose      › California  ## note: named >San Jose Clash< from 1996-1999
+  | San Jose | SJ Earthquakes | Earthquakes      ## founding year 1994?
+
+Seattle Sounders FC, 2009,  Seattle       › Washington   ## year 2007?
+  | Seattle Sounders
+Portland Timbers, 2011,  Portland      › Oregon   ## year  2009?
+  | Portland
+
 Minnesota United FC, 2017,  Minneapolis   › Minnesota
   | Minnesota United
-Portland Timbers, 2011,  Portland      › Oregon
-Real Salt Lake, 2005,  Sandy         › Utah
-San Jose Earthquakes, 1996,  San Jose      › California  ## note: named >San Jose Clash< from 1996-1999
-Seattle Sounders FC, 2009,  Seattle       › Washington
-  | Seattle Sounders
-Sporting Kansas City, 1996,  Kansas City   › Kansas    ## note: Sporting KC named >Kansas City Wiz / Wizards< from 1996-2010
-  | Sporting KC
+
+Real Salt Lake, 2005,  Sandy         › Utah      ## year 2004?  use Salt Lake City (not Sandy?)
+  | Real Salt Lake City
+
+Sporting Kansas City, 1996,  Kansas City   › Kansas    ## year 1995? note: Sporting KC named >Kansas City Wiz / Wizards< from 1996-2010
+  | Sporting KC | Kansas City Wizards
+## note: was known as: Kansas City Wizards
+##   rebranded in Nov 2010 to Sporting Kansas City
 
 
 ##################################
