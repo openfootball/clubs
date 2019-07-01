@@ -1,15 +1,49 @@
 #######################
 # Ireland (IRL), ie
 
-Shamrock Rovers FC, Dublin     #  Tallaght, South Dublin
+Shamrock Rovers FC,                Dublin (Tallaght)         #  Tallaght, South Dublin
   | Shamrock Rovers
+Bohemian F.C.,                     Dublin (Phibsborough)
+  | Bohemians | Bohemian FC
+St Patrick's Athletic F.C.,        Dublin (Inchicore)
+  | St. Patricks | St Patrick's Athletic | Saint Patrick's Athletic FC
+University College Dublin A.F.C.,  Dublin (Belfield)
+  | UCD | UC Dublin
+Shelbourne F.C.,                   Dublin (Drumcondra)
+  | Shelbourne
 
-St Patrick's Athletic
-  | Saint Patrick's Athletic FC
-Bohemian FC
-Sligo Rovers FC
-Derry City FC
+
+
+Athlone Town A.F.C.,    Athlone
+  | Athlone | Athlone Town
+Bray Wanderers F.C.,   Bray
+  | Bray | Bray Wanderers
+Cobh Ramblers F.C.,  Cobh
+  | Cobh Ramblers
+Cork City F.C.,        Cork
+  | Cork City | Cork City FC
+Derry City F.C.,       Derry     ## fix: move to Northern Ireland  !!!
+  | Derry City | Derry City FC
+Drogheda United F.C.,  Drogheda
+  | Drogheda | Drogheda United | Drogheda United FC
+Dundalk F.C.,         Dundalk
+  | Dundalk | Dundalk FC
+Finn Harps F.C.,     Ballybofey
+  | Finn Harps
+Galway United F.C., Galway
+  | Galway | Galway United
+Limerick F.C., Limerick
+  | Limerick
+Longford Town F.C.,  Longford
+  | Longford | Longford Town
+Mervue
+Monaghan
+Sligo Rovers F.C.,       Sligo
+  | Sligo Rovers | Sligo Rovers FC
+Waterford F.C.,          Waterford
+  | Waterford
+Wexford F.C.,           Crossabeg
+  | Wexford
+
 Sporting Fingal FC
-Dundalk FC
-Cork City FC
-Drogheda United FC
+
