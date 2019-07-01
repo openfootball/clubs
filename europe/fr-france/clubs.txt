@@ -20,13 +20,13 @@ Red Star FC,   Saint-Ouen › Île-de-France
 
 Amiens SC,             Amiens   › Hauts-de-France
   | Amiens
-Angers SCO,            Angers   › Pays de la Loire
-  | Angers
+Angers SCO, 1919,            Angers   › Pays de la Loire   ##  Maine-et-Loire > Pays de la Loire
+  | Angers | Angers Sporting Club de l'Ouest
 Girondins de Bordeaux, 1881, Bordeaux › Nouvelle-Aquitaine     ## Gironde > Aquitaine
   | Bordeaux | FC Girondins de Bordeaux
   | Football Club des Girondins de Bordeaux
 
-Stade Malherbe Caen,  1913,   Caen     ## Calvados > Lower Normandy    -- use - SM Caean - why? why not?
+Stade Malherbe Caen,  1913,   Caen     ## Calvados > Lower Normandy
   | Caen |  SM Caen | Stade Malherbe de Caen
 Dijon FCO, Dijon
   | Dijon
@@ -41,10 +41,12 @@ Olympique de Marseille, 1899, Marseille   ## Bouches-du-Rhône > Provence-Alpes-
 FC Metz, Metz
   | Metz
 
-Montpellier HSC, Montpellier   ## use - Montpellier Hérault SC - why? why not?
-  | Montpellier
-FC Nantes, Nantes
-  | Nantes
+Montpellier HSC, 1974, Montpellier     ## Hérault > Languedoc-Roussillon  
+  | Montpellier | HSC Montpellier | Montpellier Hérault SC
+  | Montpellier-Herault Sports Club
+
+FC Nantes, 1943, Nantes      ## Loire-Atlantique > Pays de la Loire
+  | Nantes | Football Club de Nantes
 OGC Nice, 1904, Nice    ## Alpes-Maritimes > Provence-Alpes-Côte d'Azur
   | Nice  | Olympique Gymnaste Club Nice Côte d'Azur
 
@@ -55,19 +57,19 @@ AS Saint-Étienne, 1919,  Saint-Étienne     ## Loire > Rhône-Alpes
   | Association Sportive de Saint-Étienne Loire
 RC Strasbourg, Strasbourg
   | Strasbourg
-Toulouse FC, Toulouse
-  | Toulouse
-ES Troyes AC, Troyes
-  | Troyes
-Stade de Reims, Reims
-  | Reims
+Toulouse FC, 1970, Toulouse     ## Haute-Garonne > Midi-Pyrénées
+  | Toulouse | Toulouse Football Club
+ES Troyes AC, 1986, Troyes      ## Aube > Champagne-Ardenne
+  | Troyes | ESTAC Troyes | Espérance Sportive Troyes Aube Champagne 
+Stade de Reims, 1931, Reims    ## Marne > Champagne-Ardenne
+  | Reims | Stade Reims
 Nîmes Olympique, Nîmes
   | Nimes
 
-AC Ajaccio,  Ajaccio
+AC Ajaccio,  Ajaccio  
   | Ajaccio
-GFC Ajaccio, Ajaccio
-  | Ajaccio GFCO
+GFC Ajaccio, 1910, Ajaccio    ## Corse-du-Sud > Corsica
+  | Ajaccio GFCO | Gazélec Football Club Ajaccio
 
 AJ Auxerre, Auxerre
   | Auxerre
