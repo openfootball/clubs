@@ -76,12 +76,12 @@ SKA-Energiia, Khabarovsk
   | SKA Energia
 Sokol, Saratov
 Terek Grozny, Grozny
-  | Terek|
+  | Terek
 Tom Tomsk, Tomsk
   | Tom | Tom'
 Tosno,  Tosno
 FC Ufa, Ufa
-  | Ufa | Ufa Ufa,
+  | Ufa | Ufa Ufa
 Ural Yekaterinburg, Yekaterinburg
   | Ural
 Uralan, Elista
