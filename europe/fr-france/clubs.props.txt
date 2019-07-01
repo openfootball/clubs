@@ -21,3 +21,7 @@ Toulouse FC,           Toulouse_FC,                  www.tfc.info
 GFC Ajaccio,           Gazélec_Ajaccio,              www.gfca-foot.com
 ESTAC Troyes,          Troyes_AC,                    www.estac.fr
 Angers SCO,            Angers_SCO,                   www.angers-sco.fr
+Évian TG,              Evian_Thonon_Gaillard_F.C.,   www.etgfc.com
+RC Lens,               RC_Lens,                      www.rclens.fr
+FC Metz,               FC_Metz,                      www.fcmetz.com
+AC Ajaccio,            AC_Ajaccio,                   www.ac-ajaccio.com
