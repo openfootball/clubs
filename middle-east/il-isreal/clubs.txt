@@ -1,0 +1,11 @@
+
+###############################
+# Isreal (ISR), il
+
+hapoeltelaviv,     Hapoel Tel-Aviv FC
+bneiyehudatelaviv, Bnei Yehuda Tel-Aviv FC
+maccabitelaviv,    Maccabi Tel-Aviv FC|Maccabi Tel Aviv
+haifa,             Maccabi Haifa FC
+kiryatshmona,      Hapoel Kiryat Shmona FC
+netanya,           Maccabi Netanya FC
+beitarjerusalem,   Beitar Jerusalem FC
