@@ -1,69 +1,38 @@
 ##################
-# Uruguay (uy)
+# Uruguay, uy
 
-[liverpoolmontevideo]
-  Liverpool|Liverpool FC|Liverpool Fútbol Club|Liverpool FC Montevideo|Liverpool Montevideo
-  // Montevideo
+Liverpool Montevideo,          Montevideo
+  | Liverpool | Liverpool FC | Liverpool Fútbol Club | Liverpool FC Montevideo
+Nacional de Montevideo, 1899,  Montevideo
+  | Nacional | Club Nacional de Football | C. N. de F.
+Defensor Sporting,             Montevideo
+  | Defensor | Defensor Sp. | Defensor Sporting Club
+CA Peñarol,                    Montevideo 
+  | Peñarol | Club Atlético Peñarol
+CA Cerro, 1922,                Montevideo
+  | Cerro | Club Atlético Cerro
+Danubio FC, 1932,              Montevideo
+  | Danubio | Danubio Fútbol Club
+El Tanque Sisley, 1941,        Montevideo
+  | Deportivo El Tanque Sisley
+Centro Atlético Fénix, 1916,   Montevideo  
+  | Fénix
+CS Miramar Misiones, 1906,     Montevideo
+  | Miramar Misiones | Club Sportivo Miramar Misiones
+Montevideo Wanderers, 1902,    Montevideo
+  | Wanderers | Montevideo Wanderers FC | Montevideo Wanderers Fútbol Club
+Racing CM, 1919,               Montevideo
+  | Racing | Racing Club de Montevideo
+CA Rentistas, 1933,            Montevideo
+  | Rentistas | Club Atlético Rentistas
+CA River Plate, 1932,          Montevideo     
+  | River Plate | Club Atlético River Plate   # note: riverplate used for club in argentina
+ 
 
-[nacional]
-  Nacional|Nacional de Montevideo|Club Nacional de Football, C. N. de F., 1899
-  // Montevideo
-
-[defensorsporting]
-  Defensor|Defensor Sporting|Defensor Sp.|Defensor Sporting Club
-  // Montevideo
-
-[penarol]
-  Peñarol|CA Peñarol|Club Atlético Peñarol
-  // Montevideo
-
-[cerro]
-  Cerro|CA Cerro|Club Atlético Cerro, 1922
-  // Montevideo
-
-[danubio]
-  Danubio|Danubio FC|Danubio Fútbol Club, 1932
-  // Montevideo
-
-[eltanquesisley]
-  El Tanque Sisley|Deportivo El Tanque Sisley, 1941
-  // Montevideo
-
-[fenix]
-  Fénix|Centro Atlético Fénix, 1916
-  // Montevideo
-
-[miramarmisiones]
-  Miramar Misiones|CS Miramar Misiones|Club Sportivo Miramar Misiones, 1906
-  // Montevideo
-
-[wanderers]
-  Wanderers|Montevideo Wanderers|Montevideo Wanderers FC|Montevideo Wanderers Fútbol Club, 1902
-  // Montevideo
-
-[racingdemontevideo]
-  Racing|Racing CM|Racing Club de Montevideo, 1919
-  // Montevideo
-
-[rentistas]
-  Rentistas|CA Rentistas|Club Atlético Rentistas, 1933
-  // Montevideo
-
-# note: riverplate used for club in argentina
-[riverplatemontevideo]
-  River Plate|CA River Plate|Club Atlético River Plate, 1932
-  // Montevideo
-
-
-[juventud]
-  Juventud|Juventud de Las Piedras|Club Atlético Juventud de Las Piedras, 1935
-  // Las Piedras
-
-[cerrolargo]
-  Cerro Largo|Cerro Largo FC|Cerro Largo Fútbol Club, 2002
-  // Melo
-
-[sudamerica]  
-  Sud América|Institución Atlética Sud América|I.A.S.A, 1914
-  // San José
-
+Juventud de Las Piedras, 1935,    Las Piedras
+  | Juventud | Club Atlético Juventud de Las Piedras
+Cerro Largo, 2002,                Melo
+  | Cerro Largo FC | Cerro Largo Fútbol Club
+Sud América, 1914,                San José
+  | Institución Atlética Sud América | I.A.S.A
+ 
