@@ -1,14 +1,17 @@
 ##########################
 # Peru, pe
 
-alianzalima, Alianza Lima|Club Alianza Lima, city:lima, pe
-sportingcristal, Sporting Cristal|Club Sporting Cristal, city:lima, pe
+Alianza Lima,     Lima
+  | Club Alianza Lima
+Sporting Cristal,  Lima
+  | Club Sporting Cristal
 
-juanaurich, Juan Aurich|Club Juan Aurich S.A, city:chiclayo, pe
+Juan Aurich,      Chiclayo
+  | Club Juan Aurich S.A
 
-sporthuancayo, Sport Huancayo, city:huancayo, pe
+Sport Huancayo,   Huancayo
 
-realgarcilaso, Real Garcilaso|Asociación Civil Real Atlético Garcilaso, city:cuzco, pe
-trujillo,   Universidad César Vallejo|Club Deportivo Universidad César Vallejo, city:trujillo, pe
-
-
+Real Garcilaso,   Cusco
+  | Asociación Civil Real Atlético Garcilaso
+Universidad César Vallejo, Trujillo
+  | Club Deportivo Universidad César Vallejo
