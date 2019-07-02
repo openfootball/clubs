@@ -1,9 +1,11 @@
 ############################
 # Paraguay, py
 
-libertad, Club Libertad Asunción|Libertad|Libertad Ascunción, city:asuncion, py
-olimpia,  Olimpia|Club Olimpia, city:asuncion, py
-nacionalasuncion, Nacional|Nacional de Asunción|Club Nacional, city:asuncion, py
-porteno,  Cerro Porteño|Club Cerro Porteño, py
-
-
+Libertad Ascunción, Asunción
+  | Club Libertad Asunción | Libertad
+Club Olimpia,       Asunción
+  | Olimpia
+Club Nacional,      Asunción
+  | Nacional | Nacional de Asunción
+Cerro Porteño,      Asunción
+  | Club Cerro Porteño
