@@ -2,18 +2,19 @@
 # New Zealand Football Championship 2012-13 Teams
 
 
-#  8 teams
+Auckland City FC,       Auckland › Auckland › North Island
+  | Auckland City
+Waitakere United,       Auckland (Waitakere) › Auckland › North Island    ## Waitakere City is a former territorial authority district in the west of Auckland
+Hawke's Bay United,     Napier › Hawke's Bay › North Island
+Team Wellington,        Wellington › Wellington › North Island
+Waikato FC,             Hamilton › Waikato › North Island
+YoungHeart Manawatu,    Palmerston North › Manawatu-Wanganui › North Island
 
-auckland,   Auckland City|Auckland City FC, AKL,  city:auckland
-canterbury, Canterbury United,  CAN, city:christchurch
-hawkesbay,  Hawke's Bay United, HBU, city:napier
-otago,      Otago United,  OTG, city:dunedin
-wellington, Team Wellington, WGN,    city:wellington
-waikato,    Waikato FC, WFC, city:hamilton
-waitakere,  Waitakere United, WTK, city:waitakerecity
-manawatu,   YoungHeart Manawatu, YHM,  city:palmerstonnorth
+Canterbury United,   Christchurch › Canterbury › South Island
+Otago United,  Dunedin › Otago  › South Island
+
 
 ########
-# plays in australian a-league
+# note: plays in australian a-league
 
-wellingtonphoenix, Wellington Phoenix, WPX, city:wellington
+Wellington Phoenix,     Wellington › Wellington › North Island
