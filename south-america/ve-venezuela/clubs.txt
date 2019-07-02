@@ -1,78 +1,45 @@
 #######################
-# Venezuela (ve)
+# Venezuela, ve
 
-[caracas]
-  Caracas|Caracas FC|Caracas Fútbol Club, 1967
-  // Caracas
-  www.caracasfutbolclub.com
-  en.wikipedia: Caracas_FC
-
-[deportivolaguaira]
-  Dvo. La Guaira|Deportivo La Guaira
-  // Caracas
-
-[deportivopetare]
-  Dvo. Petare|Deportivo Petare
-  // Caracas
+Caracas FC, 1967,      Caracas 
+  | Caracas | Caracas Fútbol Club
+Deportivo La Guaira,   Caracas
+  | Dvo. La Guaira
+Deportivo Petare,      Caracas
+  | Dvo. Petare 
 
 
-[deportivotachira]
-  Dvo. Táchira|Deportivo Táchira|Deportivo Táchira Fútbol Club
-  // San Cristóbal
+Deportivo Táchira,     San Cristóbal 
+  | Dvo. Táchira | Deportivo Táchira Fútbol Club
+ 
+Zamora FC,             Barinas
+  | Zamora | Zamora Fútbol Club
+ 
+Deportivo Lara,        Barquisimeto 
+  | Dvo. Lara | Club Deportivo Lara
+ 
+Deportivo Anzoátegui,  Puerto La Cruz
+  | Dvo. Anzoátegui | Deportivo Anzoátegui Sport Club
 
-[zamora]
-  Zamora|Zamora FC|Zamora Fútbol Club
-  // Barinas
+AC Mineros,            Ciudad Guayana 
+  | Mineros | Mineros de Guayana
 
-[deportivolara]
-  Dvo. Lara|Deportivo Lara|Club Deportivo Lara
-  // Barquisimeto
-
-[deportivoanzoategui]
-  Dvo. Anzoátegui|Deportivo Anzoátegui|Deportivo Anzoátegui Sport Club
-  // Puerto La Cruz
-
-[mineros]
-  Mineros|AC Mineros|Mineros de Guayana
-  // Ciudad Guayana
-
-[atleticoelvigia]
-  Atlético El Vigía
-  // El Vigía
-
-[llaneros]
-  Llaneros|Llaneros FC|Llaneros de Guanare
-  // Guanare
-
-[atleticovenezuela]
-  Atlético Venezuela
-  // Maiquetía
-
-[zulia]
-  Zulia|Zulia FC
-  // Maracaibo
-
-[aragua]
-  Aragua|Aragua FC
-  // Maracay
-
-[estudiantesdemerida]
-  Estudiantes|Estudiantes de Mérida
-  // Mérida
-
-[tucanes]
-  Tucanes|Tucanes FC|Tucanes de Amazonas
-  // Puerto Ayacucho
-
-[yaracuyanos]  
-  Yaracuyanos|Yaracuyanos FC
-  // San Felipe
-
-[carabobo]
-  Carabobo|Carabobo FC
-  // Valencia
-
-[trujillanos]
-  Trujillanos|Trujillanos FC
-  // Valera
+Atlético El Vigía,     El Vigía
+Llaneros FC,           Guanare
+  | Llaneros | Llaneros de Guanare
+Atlético Venezuela,    Maiquetía
+Zulia FC,              Maracaibo 
+  | Zulia
+Aragua FC,             Maracay 
+  | Aragua
+Estudiantes de Mérida,  Mérida
+  | Estudiantes
+Tucanes FC,            Puerto Ayacucho
+  | Tucanes | Tucanes de Amazonas
+Yaracuyanos FC,        San Felipe
+  | Yaracuyanos 
+Carabobo FC,           Valencia
+  | Carabobo 
+Trujillanos FC,        Valera
+  | Trujillanos 
 
