@@ -1,2 +1,60 @@
 ############################
 #  Brazil,  br
+
+
+
+#  Campeonato Brasileiro Série A | Brasileirão
+
+Corinthians SP,    São Paulo › São Paulo
+  | Corinthians | SC Corinthians Paulista |Corinthians São Paulo
+  | Sport Club Corinthians Paulista
+São Paulo FC,      São Paulo › São Paulo
+  | São Paulo | FC São Paulo | São Paulo SP
+  | São Paulo Futebol Clube
+Palmeiras SP,  São Paulo › São Paulo
+  | Palmeiras | SE Palmeiras | SE Palmeiras São Paulo
+  | Sociedade Esportiva Palmeiras
+Santos SP,      Santos › São Paulo
+  | Santos |Santos FC | FC Santos | Santos Futebol Clube
+Ponte Preta,    Campinas › São Paulo
+  | AA Ponte Preta | Associação Atlética Ponte Preta
+
+
+Botafogo RJ,     Rio de Janeiro › Rio de Janeiro
+  | Botafogo | Botafogo FR | Botafogo de Futebol e Regatas
+Flamengo RJ,     Rio de Janeiro › Rio de Janeiro
+  | Flamengo | CR Flamengo| Flamengo Rio de Janeiro
+  | Clube de Regatas do Flamengo
+Fluminense RJ,    Rio de Janeiro › Rio de Janeiro
+  | Fluminense | Fluminense FC | Fluminense Rio de Janeiro | Fluminense Football Club
+
+Atlético MG,    Belo Horizonte › Minas Gerais
+  | Atlético Mineiro | C Atlético Mineiro | Atlético/MG | Clube Atlético Mineiro
+Cruzeiro MG,    Belo Horizonte › Minas Gerais
+  | Cruzeiro | Cruzeiro EC | Cruzeiro Esporte Clube | Cruzeiro Belo Horizonte
+América MG,     Belo Horizonte › Minas Gerais
+  | América Mineiro | América FC | América Futebol Clube
+
+Grêmio RS,      Porto Alegre › Rio Grande do Sul
+  | Grêmio | Grêmio Porto Alegre | Grêmio FBPA | Grêmio Foot-Ball Porto Alegrense
+Internacional Porto Alegre,  Porto Alegre › Rio Grande do Sul
+  | Internacional | SC Internacional | Internacional RS | Sport Club Internacional
+
+Atlético PR,   Curitiba › Paraná
+  | Atlético Paranaense | C Atlético Paranaense | Atlético/PR |Clube Atlético Paranaense
+Coritiba PR,   Curitiba › Paraná
+  | Coritiba | Coritiba FC | Coritiba Football Club
+
+Figueirense,   Florianópolis › Santa Catarina
+  | Figueirense FC | Figueirense SC | Figueirense Futebol Clube
+Chapecoense,    Chapecó › Santa Catarina
+  | Associação Chapecoense de Futebol
+
+Sport Recife,    Recife ›  Pernambuco
+  | Sport | Sport PE | Sport Club do Recife
+Santa Cruz,      Recife ›  Pernambuco
+  | Santa Cruz FC | Santa Cruz Futebol Clube
+
+EC Vitória,      Salvador ›  Bahia
+  | Vitória | Esporte Clube Vitória
+
