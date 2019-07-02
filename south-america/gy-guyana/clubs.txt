@@ -1,7 +1,6 @@
-
 ######################
 # Guyana, gy
 
-alphaunited, Alpha United|Alpha United FC, city:providence, gy
-
+Alpha United FC,     Providence
+  | Alpha United
 
