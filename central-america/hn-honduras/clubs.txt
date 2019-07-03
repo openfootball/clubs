@@ -1,0 +1,13 @@
+#########################
+# Honduras, hn
+
+CD Olimpia,      city:tegucigalpa
+  | Olimpia
+CD Marathón,     city:sanpedrosula
+  | Marathón
+Real CD España,  city:sanpedrosula
+  | Real España
+CD Motagua,      city:tegucigalpa
+  | Motagua
+CD Victoria
+  | Victoria
