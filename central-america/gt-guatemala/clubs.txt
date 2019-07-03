@@ -1,0 +1,11 @@
+##########################
+# Guatemala, gt
+
+CSD Municipal,     city:guatemala
+  | Municipal
+Club Xelajú MC,    city:quetzaltenango
+  | Xelajú
+Comunicaciones FC,  city:guatemala
+  | Comunicaciones | CSD Comuni.
+Heredia Jaguares de Peten
+  | Heredia
