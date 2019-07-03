@@ -1,6 +1,14 @@
-###################################################
-# Moldova, md
+#################################
+# Moldova (MDA), md
 
 FC Sheriff Tiraspol, Tiraspol
-  | Sheriff Tiraspol
+  |  FC Sheriff | Sheriff Tiraspol
+
+FC Dacia Chisinau
+FC Zimbru Chisinau
+FC Iskra-Stal
+FC Milsami Orhei
+FC Olimpia Balti
+FC Nistru Otaci
+
 
