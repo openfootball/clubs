@@ -1,8 +1,15 @@
-#####################################
-# Poland (pl)
+#############################
+# Poland (POL), pl
 
+Legia Warszawa,  Warszawa   ## Warsaw [en]
+  | Legia | Legia Warsaw    
+KSP Polonia Warszawa
 
 Górnik Zabrze,   Zabrze
   | Gornik Zabrze   
-Legia Warszawa,  Warszawa   ## Warsaw [en]
-  | Legia Warsaw    
+
+KKS Lech Poznań
+Wisła Kraków
+WKS Śląsk Wrocław
+Ruch Chorzów
+Jagiellonia Białystok
