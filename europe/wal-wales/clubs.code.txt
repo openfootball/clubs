@@ -1,6 +1,0 @@
-#######################
-# Wales (WAL), wal
-
-Name,           Code
-Swansea City,   SWA
-Cardiff City,   CAR
