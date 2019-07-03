@@ -1,7 +1,14 @@
-##################################################
-# Slovakia,  sk
-
+##################################
+# Slovakia (SVK), sk
 
 ŠK Slovan Bratislava, Bratislava
-  | SK Slovan Bratislava
- 
+  | Slovan Bratislava | SK Slovan Bratislava
+
+MŠK Žilina
+FC Spartak Trnava
+FK Senica
+MFK Košice
+Dukla Banská Bystrica
+FC Nitra
+MFK Petržalka
+
