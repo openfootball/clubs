@@ -1,0 +1,13 @@
+########################
+# El Salvador, sv
+
+I. Metapán,    city:metapan, sv
+  | Metapán | Isidro Metapán | Asociación Deportiva Isidro Metapán
+Club Deportivo Águila, city:sansalvador, sv
+  | Águila
+Club Deportivo FAS, city:santaana, sv
+  | CD FAS | Futbolistas Asociados Santanecos
+Alianza FC,    city:sansalvador, sv
+  | Alianza | Alianza Fútbol Club
+Luis Ángel Firpo, sv
+  | L.A. Firpo | CD Luis Ángel Firpo
