@@ -1,0 +1,9 @@
+#########################
+# Costa Rica, cr
+
+LD Alajuelense,    city:alajuela   #  23 kilómetros al oeste de San José
+  | Alajuelense
+CS Herediano,      city:heredia  #  10 km al noroeste de San José
+  | Herediano
+CS Cartaginés
+  | Cartaginés
