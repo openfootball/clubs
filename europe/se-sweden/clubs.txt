@@ -1,7 +1,16 @@
-#############################
-# Sweden,  se
+#################################
+# Sweden (SWE), se
 
 Malmö FF, Malmö
   | Malmo FF
 IFK Göteborg, Göteborg       ## Gothenburg [en]
   | IFK Goteborg
+
+Helsingborgs IF
+IF Elfsborg
+Kalmar FF
+AIK
+BK Häcken
+Örebro SK
+Gefle IF
+Djurgårdens IF
