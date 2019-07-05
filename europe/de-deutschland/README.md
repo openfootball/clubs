@@ -51,7 +51,7 @@ VfL Osnabrück               => Osnabruck
 VfL Wolfsburg               => Wolfsburg
 Hannover 96                 => (2) Hannover • Hannover 1896
 Eintracht Braunschweig      => (2) Braunschweig • Eintr. Braunschweig
-FT Braunschweig|Freie Turnerschaft Braunschweig  
+FT Braunschweig             => Freie Turnerschaft Braunschweig
 SV Meppen                   => Meppen
 VfB Oldenburg               => Oldenburg
 SV Wilhelmshaven            

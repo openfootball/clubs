@@ -15,7 +15,7 @@ Hamilton Academical FC      => (2) Hamilton • Hamilton Accies
 Kilmarnock FC               => (2) Killie • Kilmarnock
 Motherwell FC               => Motherwell
 Ross County FC              => Ross County
-St Johnstone FC             => (2) St Johnstone • St. Johnstone
+St Johnstone FC             => (3) St Johnstone • St. Johnstone • Saint Johnstone FC
 Brechin City                => Brechin
 Dumbarton                   
 Dunfermline Athletic        => Dunfermline
