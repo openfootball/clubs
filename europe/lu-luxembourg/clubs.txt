@@ -1,7 +1,13 @@
-###############################################
-# Luxembourg, lu
+###########################
+# Luxembourg (LUX), lu
 
 
 Jeunesse d'Esch, Esch-sur-Alzette
-  | Jeunesse Esch
+  | Jeunesse Esch | AS Jeunesse Esch
 F91 Dudelange,   Dudelange
+FC Differdange 03
+CS Grevenmacher
+UN Käerjéng 97
+CS Fola Esch
+Racing FC Union Lëtzebuerg
+
