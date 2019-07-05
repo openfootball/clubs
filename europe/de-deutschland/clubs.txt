@@ -132,7 +132,8 @@ Hannover 96, 1896,       Hannover › Niedersachsen
   | Hannover | Hannover 1896
 Eintracht Braunschweig, 1895,  Braunschweig › Niedersachsen
   | Braunschweig | Eintr. Braunschweig
-FT Braunschweig|Freie Turnerschaft Braunschweig
+FT Braunschweig
+  | Freie Turnerschaft Braunschweig
 
 SV Meppen,              Meppen › Niedersachsen
   | Meppen
