@@ -1,7 +1,8 @@
 #######################
 # Latvija (LVA), lv
 
-FK Ventspils|Ventspils
+FK Ventspils
+  | Ventspils
 SK Liepājas Metalurgs
 Skonto FC
 FC Daugava Daugavpils
