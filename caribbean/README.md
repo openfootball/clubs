@@ -1,15 +1,8 @@
+3 datafiles
 
+**caribbean/ht-haiti/clubs.txt** _(2)_
 
-### Clubs
+**caribbean/pr-puerto-rico/clubs.txt** _(1)_
 
-
-**[clubs.txt](clubs.txt)** _(5)_ -- 
-Caledonia _(tt)_ •
-W Connection _(tt)_ •
-Puerto Rico Islanders _(pr)_ •
-Tempête _(ht)_ •
-Valencia _(ht)_
-
-
-
+**caribbean/tt-trinidad-n-tobago/clubs.txt** _(2)_
 

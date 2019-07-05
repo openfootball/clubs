@@ -1,33 +1,14 @@
+6 datafiles
 
+**central-america/cr-costa-rica/clubs.txt** _(3)_
 
-### Clubs
+**central-america/gt-guatemala/clubs.txt** _(4)_
 
+**central-america/hn-honduras/clubs.txt** _(5)_
 
-**[clubs.txt](clubs.txt)** _(23)_ -- 
-Metapán _(sv)_ •
-Águila _(sv)_ •
-CD FAS _(sv)_ •
-Alianza _(sv)_ •
-L.A. Firpo _(sv)_ •
-Alajuelense _(cr)_ •
-Herediano _(cr)_ •
-Cartaginés _(cr)_ •
-Olimpia _(hn)_ •
-Marathón _(hn)_ •
-Real España _(hn)_ •
-Motagua _(hn)_ •
-Victoria _(hn)_ •
-Municipal _(gt)_ •
-Xelajú _(gt)_ •
-Comunicaciones _(gt)_ •
-Heredia _(gt)_ •
-Chorrillo _(pa)_ •
-Tauro _(pa)_ •
-Árabe Unido _(pa)_ •
-San Francisco _(pa)_ •
-Sporting SM _(pa)_ •
-R. Estelí _(ni)_
+**central-america/ni-nicaragua/clubs.txt** _(1)_
 
+**central-america/pa-panama/clubs.txt** _(5)_
 
-
+**central-america/sv-el-salvador/clubs.txt** _(5)_
 
