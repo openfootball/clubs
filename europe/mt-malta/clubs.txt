@@ -1,8 +1,13 @@
-###################################
-# Malta, mt
+#######################
+# Malta (MLT), mt
 
 
 Valletta FC,         Valletta
   | Valletta
 Sliema Wanderers FC, Sliema
   | Sliema Wanderers
+Birkirkara FC
+Floriana FC
+Hibernians FC
+Marsaxlokk FC
+
