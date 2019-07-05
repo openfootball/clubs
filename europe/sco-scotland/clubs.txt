@@ -38,7 +38,7 @@ Motherwell FC, 1886,  Motherwell
 Ross County FC,  1929,  Dingwall
   | Ross County
 St Johnstone FC, 1884, Perth
-  | St Johnstone | St. Johnstone
+  | St Johnstone | St. Johnstone | Saint Johnstone FC
 
 Brechin City,  Brechin
   | Brechin
@@ -49,7 +49,7 @@ Falkirk,  Falkirk
 Greenock Morton,  Greenock
   | Morton
 Inverness Caledonian Thistle, 1994,  Inverness
-  | Inverness C | Inverness CT |Inverness Caledonian Thistle FC
+  | Inverness C | Inverness CT | Inverness Caledonian Thistle FC
   | Caley Thistle | ICT | The Caley Jags
 
 Livingston FC, Livingston
