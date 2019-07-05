@@ -8,3 +8,12 @@ CD Huachipato               => (2) Huachipato • Club Deportivo Huachipato
 Deportes Iquique            => (2) Iquique • Club Deportes Iquique
 ```
 
+
+
+- **Iquique** (1): Deportes Iquique  (2) Iquique • Club Deportes Iquique
+- **Santiago (Independencia)** (1): Unión Española  (1) Club Unión Española S.A.D.P
+- **Santiago (Las Condes)** (1): Universidad Católica  (3) CDUC • CD Universidad Católica • Club Deportivo Universidad Católica
+- **Santiago (Ñuñoa)** (1): Universidad de Chile  (2) U. de Chile • Club Universidad de Chile
+- **Talcahuano** (1): CD Huachipato  (2) Huachipato • Club Deportivo Huachipato
+
+

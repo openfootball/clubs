@@ -8,3 +8,13 @@ San Francisco FC            => (2) San Francisco • San Francisco Fútbol Club 
 Sporting San Miguelito      => Sporting SM
 ```
 
+
+
+- **city:panama** (2): 
+  - Chorrillo FC  (1) Chorrillo
+  - Tauro FC  (1) Tauro
+- ? (1): Sporting San Miguelito  (1) Sporting SM
+- **city:colon** (1): Club Deportivo Árabe Unido  (2) Árabe Unido • Árabe U.
+- **city:lachorrera** (1): San Francisco FC  (2) San Francisco • San Francisco Fútbol Club de La Chorrera
+
+
