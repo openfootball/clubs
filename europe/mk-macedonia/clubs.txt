@@ -1,0 +1,13 @@
+###########################
+# Macedonia (MKD), mk
+
+FK Metalurg Skopje
+FK Makedonija Skopje
+FK Rabotnički
+  | Rabotnički | Rabotnički Skopje
+FK Renova
+FK Shkëndija 79
+FK Vardar
+FK Teteks
+FK Milano
+FK Pelister
