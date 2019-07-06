@@ -1,15 +1,16 @@
 6 clubs
 
-```
-Linfield FC                 => Linfield
-Glentoran FC                => Glentoran
-Cliftonville FC             => Cliftonville
-Crusaders FC                
-Portadown FC                
-Lisburn Distillery FC       
-```
+- **Linfield FC** : (1) Linfield
+- **Glentoran FC** : (1) Glentoran
+- **Cliftonville FC** : (1) Cliftonville
+- **Crusaders FC**
+- **Portadown FC**
+- **Lisburn Distillery FC**
 
 
+
+
+By City
 
 - ? (4): 
   - Cliftonville FC  (1) Cliftonville

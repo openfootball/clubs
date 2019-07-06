@@ -1,35 +1,36 @@
 26 clubs
 
-```
-Fenerbahçe İstanbul SK      => (5) Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club
-Galatasaray İstanbul AŞ     => (3)  • Galatasaray • Galatasaray Istanbul
-Beşiktaş İstanbul JK        => (3) Besiktas • Beşiktaş • Beşiktaş JK
-Kasımpaşa İstanbul SK       => Kasimpasa
-İstanbul Başakşehir         => Buyuksehyr
-Gençlerbirliği Ankara SK    => Genclerbirligi
-Osmanlıspor Ankara          => Osmanlispor
-Kardemir Karabükspor        => Karabukspor
-Elazığspor                  => Elazigspor
-Eskişehirspor               => Eskisehirspor
-Akhisar Belediyespor        
-Alanyaspor                  
-Antalyaspor                 
-Bursaspor                   
-Göztepe Izmir               => Goztep
-Kayserispor                 
-Kayseri Erciyesspor         => Erciyesspor
-Konyaspor                   
-Sivasspor                   
-Trabzonspor AŞ              => Trabzonspor
-Yeni Malatyaspor            
-Adanaspor                   
-Gaziantepspor               
-Çaykur Rizespor             => Rizespor
-Balıkesirspor               => Balikesirspor
-Mersin İdmanyurdu           => Mersin Idman Yurdu
-```
+- **Fenerbahçe İstanbul SK** : (5) Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club
+- **Galatasaray İstanbul AŞ** : (3)  • Galatasaray • Galatasaray Istanbul
+- **Beşiktaş İstanbul JK** : (3) Besiktas • Beşiktaş • Beşiktaş JK
+- **Kasımpaşa İstanbul SK** : (1) Kasimpasa
+- **İstanbul Başakşehir** : (1) Buyuksehyr
+- **Gençlerbirliği Ankara SK** : (1) Genclerbirligi
+- **Osmanlıspor Ankara** : (1) Osmanlispor
+- **Kardemir Karabükspor** : (1) Karabukspor
+- **Elazığspor** : (1) Elazigspor
+- **Eskişehirspor** : (1) Eskisehirspor
+- **Akhisar Belediyespor**
+- **Alanyaspor**
+- **Antalyaspor**
+- **Bursaspor**
+- **Göztepe Izmir** : (1) Goztep
+- **Kayserispor**
+- **Kayseri Erciyesspor** : (1) Erciyesspor
+- **Konyaspor**
+- **Sivasspor**
+- **Trabzonspor AŞ** : (1) Trabzonspor
+- **Yeni Malatyaspor**
+- **Adanaspor**
+- **Gaziantepspor**
+- **Çaykur Rizespor** : (1) Rizespor
+- **Balıkesirspor** : (1) Balikesirspor
+- **Mersin İdmanyurdu** : (1) Mersin Idman Yurdu
 
 
+
+
+By City
 
 - **İstanbul** (5): 
   - Fenerbahçe İstanbul SK  (5) Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club

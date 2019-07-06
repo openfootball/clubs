@@ -1,13 +1,14 @@
 4 clubs
 
-```
-FC Basel 1893               => Basel
-BSC Young Boys              => BSC Young Boys
-Grasshopper Club Zürich     => Grasshoppers Zurich
-FC Zürich                   => FC Zurich
-```
+- **FC Basel 1893** : (1) Basel
+- **BSC Young Boys** : (1) BSC Young Boys
+- **Grasshopper Club Zürich** : (1) Grasshoppers Zurich
+- **FC Zürich** : (1) FC Zurich
 
 
+
+
+By City
 
 - **Zürich** (2): 
   - Grasshopper Club Zürich  (1) Grasshoppers Zurich

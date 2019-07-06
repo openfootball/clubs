@@ -1,22 +1,23 @@
 13 clubs
 
-```
-The New Saints FC           => The New Saints
-Bangor City FC              => Bangor City
-Llanelli AFC                
-Rhyl FC                     
-Cefn Druids AFC             
-Neath FC                    
-Port Talbot Town FC         
-Swansea City FC             => (3) Swansea • Swansea City • Swansea City AFC
-Cardiff City FC             => (2) Cardiff • Cardiff City
-Newport County AFC          => Newport County
-Wrexham AFC                 => Wrexham
-Merthyr Town FC             => Merthyr Town
-Aberdare Athletic FC (1893-1928)  => (2) Aberdare Athletic • Aberdare Athletic FC
-```
+- **The New Saints FC** : (1) The New Saints
+- **Bangor City FC** : (1) Bangor City
+- **Llanelli AFC**
+- **Rhyl FC**
+- **Cefn Druids AFC**
+- **Neath FC**
+- **Port Talbot Town FC**
+- **Swansea City FC** : (3) Swansea • Swansea City • Swansea City AFC
+- **Cardiff City FC** : (2) Cardiff • Cardiff City
+- **Newport County AFC** : (1) Newport County
+- **Wrexham AFC** : (1) Wrexham
+- **Merthyr Town FC** : (1) Merthyr Town
+- **Aberdare Athletic FC (1893-1928)** : (2) Aberdare Athletic • Aberdare Athletic FC
 
 
+
+
+By City
 
 - ? (6): 
   - Bangor City FC  (1) Bangor City

@@ -1,13 +1,14 @@
 4 clubs
 
-```
-CSD Municipal               => Municipal
-Club Xelajú MC              => Xelajú
-Comunicaciones FC           => (2) CSD Comuni. • Comunicaciones
-Heredia Jaguares de Peten   => Heredia
-```
+- **CSD Municipal** : (1) Municipal
+- **Club Xelajú MC** : (1) Xelajú
+- **Comunicaciones FC** : (2) CSD Comuni. • Comunicaciones
+- **Heredia Jaguares de Peten** : (1) Heredia
 
 
+
+
+By City
 
 - **city:guatemala** (2): 
   - CSD Municipal  (1) Municipal

@@ -1,51 +1,52 @@
 42 clubs
 
-```
-SL Benfica                  => (4) Benfica • Benfica Lis. • Benfica Lisboa • Benfica Lissabon
-Sporting CP                 => (3) Sp Lisbon • Sporting Lisboa • Sporting Clube de Portugal
-Os Belenenses               => Belenenses
-FC Porto                    => Porto
-Boavista FC                 => Boavista
-CD Aves                     => Aves
-GD Chaves                   => Chaves
-Estoril Praia               => Estoril
-CD Feirense                 => Feirense
-Vitória de Guimarães        => (2) Guimaraes • Vitória SC
-Vitória de Setúbal          => (2) Setubal • Vitória FC
-CS Marítimo                 => Maritimo
-Moreirense FC               => Moreirense
-FC Paços de Ferreira        => Pacos Ferreira
-Portimonense SC             => Portimonense
-Rio Ave FC                  => Rio Ave
-SC Braga                    => (3) Braga • Sp Braga • Sporting Braga
-CD Tondela                  => Tondela
-Académica de Coimbra        => (3) Academica • A. Académica de Coimbra • Associação Académica de Coimbra
-FC Arouca                   => Arouca
-CD Nacional Madeira         => (4) Nacional • CD Nacional • Nacional da Madeira • Clube Desportivo Nacional
-FC Penafiel                 => Penafiel
-SC Beira-Mar                => Beira Mar
-Desportivo de Chaves        => Desp. Chaves
-CF Estrela da Amadora       => Est Amadora
-SC Farense                  => Farense
-Gil Vicente FC              => Gil Vicente
-União de Leiria             => (2) Leiria • União Desportiva de Leiria
-União da Madeira            => (2) Madeira • Uniao Madeira
-SC Salgueiros               => Salgueiros
-FC Tirsense                 => Tirsense
-SC Campomaiorense           => (2) Campomaior • Campomaiorense
-FC Felgueiras               => Felgueiras
-Leça FC                     => Leca
-FC Alverca                  => Alverca
-Sporting de Espinho         => (2) Espinho • Sporting Clube de Espinho
-Leixões SC                  => Leixoes
-Naval 1º de Maio            => (2) Naval • Associação Naval 1º de Maio
-SC Olhanense                => Olhanense
-CD Santa Clara              => Santa Clara
-CD Trofense                 => (2) Trofense • Clube Desportivo Trofense
-Varzim SC                   => Varzim
-```
+- **SL Benfica** : (4) Benfica • Benfica Lis. • Benfica Lisboa • Benfica Lissabon
+- **Sporting CP** : (3) Sp Lisbon • Sporting Lisboa • Sporting Clube de Portugal
+- **Os Belenenses** : (1) Belenenses
+- **FC Porto** : (1) Porto
+- **Boavista FC** : (1) Boavista
+- **CD Aves** : (1) Aves
+- **GD Chaves** : (1) Chaves
+- **Estoril Praia** : (1) Estoril
+- **CD Feirense** : (1) Feirense
+- **Vitória de Guimarães** : (2) Guimaraes • Vitória SC
+- **Vitória de Setúbal** : (2) Setubal • Vitória FC
+- **CS Marítimo** : (1) Maritimo
+- **Moreirense FC** : (1) Moreirense
+- **FC Paços de Ferreira** : (1) Pacos Ferreira
+- **Portimonense SC** : (1) Portimonense
+- **Rio Ave FC** : (1) Rio Ave
+- **SC Braga** : (3) Braga • Sp Braga • Sporting Braga
+- **CD Tondela** : (1) Tondela
+- **Académica de Coimbra** : (3) Academica • A. Académica de Coimbra • Associação Académica de Coimbra
+- **FC Arouca** : (1) Arouca
+- **CD Nacional Madeira** : (4) Nacional • CD Nacional • Nacional da Madeira • Clube Desportivo Nacional
+- **FC Penafiel** : (1) Penafiel
+- **SC Beira-Mar** : (1) Beira Mar
+- **Desportivo de Chaves** : (1) Desp. Chaves
+- **CF Estrela da Amadora** : (1) Est Amadora
+- **SC Farense** : (1) Farense
+- **Gil Vicente FC** : (1) Gil Vicente
+- **União de Leiria** : (2) Leiria • União Desportiva de Leiria
+- **União da Madeira** : (2) Madeira • Uniao Madeira
+- **SC Salgueiros** : (1) Salgueiros
+- **FC Tirsense** : (1) Tirsense
+- **SC Campomaiorense** : (2) Campomaior • Campomaiorense
+- **FC Felgueiras** : (1) Felgueiras
+- **Leça FC** : (1) Leca
+- **FC Alverca** : (1) Alverca
+- **Sporting de Espinho** : (2) Espinho • Sporting Clube de Espinho
+- **Leixões SC** : (1) Leixoes
+- **Naval 1º de Maio** : (2) Naval • Associação Naval 1º de Maio
+- **SC Olhanense** : (1) Olhanense
+- **CD Santa Clara** : (1) Santa Clara
+- **CD Trofense** : (2) Trofense • Clube Desportivo Trofense
+- **Varzim SC** : (1) Varzim
 
 
+
+
+By City
 
 - **Funchal** (3): 
   - CS Marítimo  (1) Maritimo

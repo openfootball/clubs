@@ -1,20 +1,21 @@
 5 clubs
 
-- **Club Bolívar**                      : _(1)_ Bolívar
-- **The Strongest**                     : _(2)_ Strongest • Club The Strongest
-- **Real Potosí**                       : _(1)_ Club Bamin Real Potosí
-- **Club Deportivo San José**           : _(1)_ San José
-- **Club Deportivo Oriente Petrolero**  : _(1)_ Oriente Petrolero
+- **Club Bolívar** : (1) Bolívar
+- **The Strongest** : (2) Strongest • Club The Strongest
+- **Real Potosí** : (1) Club Bamin Real Potosí
+- **Club Deportivo San José** : (1) San José
+- **Club Deportivo Oriente Petrolero** : (1) Oriente Petrolero
+
+
 
 
 By City
 
-
-- **La Paz** _(2)_: 
-  - Club Bolívar  _(1)_ Bolívar
-  - The Strongest  _(2)_ Strongest • Club The Strongest
-- **Oruro** _(1)_: Club Deportivo San José  _(1)_ San José
-- **Potosí** _(1)_: Real Potosí  _(1)_ Club Bamin Real Potosí
-- **Santa Cruz de la Sierra** _(1)_: Club Deportivo Oriente Petrolero  _(1)_ Oriente Petrolero
+- **La Paz** (2): 
+  - Club Bolívar  (1) Bolívar
+  - The Strongest  (2) Strongest • Club The Strongest
+- **Oruro** (1): Club Deportivo San José  (1) San José
+- **Potosí** (1): Real Potosí  (1) Club Bamin Real Potosí
+- **Santa Cruz de la Sierra** (1): Club Deportivo Oriente Petrolero  (1) Oriente Petrolero
 
 

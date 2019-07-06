@@ -1,14 +1,15 @@
 5 clubs
 
-```
-Chorrillo FC                => Chorrillo
-Tauro FC                    => Tauro
-Club Deportivo Árabe Unido  => (2) Árabe U. • Árabe Unido
-San Francisco FC            => (2) San Francisco • San Francisco Fútbol Club de La Chorrera
-Sporting San Miguelito      => Sporting SM
-```
+- **Chorrillo FC** : (1) Chorrillo
+- **Tauro FC** : (1) Tauro
+- **Club Deportivo Árabe Unido** : (2) Árabe U. • Árabe Unido
+- **San Francisco FC** : (2) San Francisco • San Francisco Fútbol Club de La Chorrera
+- **Sporting San Miguelito** : (1) Sporting SM
 
 
+
+
+By City
 
 - **city:panama** (2): 
   - Chorrillo FC  (1) Chorrillo

@@ -1,56 +1,57 @@
 47 clubs
 
-```
-AEK Athens FC               => (2) AEK • AEK Athens
-Panathinaikos FC            => Panathinaikos
-Apollon Smyrnis FC          => Apollon
-Atromitos FC                => Atromitos
-Panionios GSS               => Panionios
-APO Akratitos               => Akratitos
-Athinaikos AS FC            => Athinaikos
-Chalkidona FC               => Chalkidona
-Egaleo FC                   => Egaleo
-Ethnikos Asteras FC         => (2) Eth Asteras • Ethnikos Asteras
-Kallithea FC                => (2) Kalithea • Kallithea
-Thrasyvoulos FC             => Thrasyvoulos
-Panelefsiniakos FC          => Eleysina
-Proodeftiki FC              => (2) Proodeftiki • Proodeytiki
-Ionikos FC                  => Ionikos
-Olympiacos Piraeus FC       => (4) Olympiakos • Olympiacos • Olympiakos P. • Olympiakos Piräus
-Ethnikos Piraeus FC         => (2) Ethnikos • Ethnikos Piraeus
-PAOK FC                     => PAOK
-Aris Thessaloniki FC        => Aris
-Iraklis 1908 Thessaloniki FC  => Iraklis
-Apollon Pontou FC           => Kalamaria
-Asteras Tripolis FC         => Asteras Tripolis
-Xanthi FC                   => Xanthi
-Panetolikos GFS             => Panetolikos
-PAS Giannina FC             => (2) Giannina • Yiannina
-Levadiakos FC               => Levadeiakos
-AE Larissa FC               => (2) Larisa • Larissa FC
-PAS Lamia 1964              => Lamia
-Kerkyra FC                  => Kerkyra
-Platanias FC                => Platanias
-Doxa Dramas FC              => (2) Doxa • Doxa Dramas
-Edessaikos FC               => Edessaikos
-Ergotelis FC                => Ergotelis
-OFI Crete FC                => OFI
-Kalamata FC                 => Kalamata
-AEL Kalloni FC              => Kallonis
-Kastoria FC                 => Kastoria
-Kavala FC                   => Kavala
-Niki Volou FC               => Niki Volos
-Olympiacos Volou 1937 FC    => (2) Olympiakos Volou • Olympiacos Volou FC
-Levadiakos FC               => Levadiakos
-Panachaiki FC               => Panahaiki
-Paniliakos FC               => Paniliakos
-Panserraikos FC             => Panserraikos
-Panthrakikos FC             => Panthrakikos
-Trikala FC                  => Trikala
-Veria FC                    => (2) Veria • Veroia
-```
+- **AEK Athens FC** : (2) AEK • AEK Athens
+- **Panathinaikos FC** : (1) Panathinaikos
+- **Apollon Smyrnis FC** : (1) Apollon
+- **Atromitos FC** : (1) Atromitos
+- **Panionios GSS** : (1) Panionios
+- **APO Akratitos** : (1) Akratitos
+- **Athinaikos AS FC** : (1) Athinaikos
+- **Chalkidona FC** : (1) Chalkidona
+- **Egaleo FC** : (1) Egaleo
+- **Ethnikos Asteras FC** : (2) Eth Asteras • Ethnikos Asteras
+- **Kallithea FC** : (2) Kalithea • Kallithea
+- **Thrasyvoulos FC** : (1) Thrasyvoulos
+- **Panelefsiniakos FC** : (1) Eleysina
+- **Proodeftiki FC** : (2) Proodeftiki • Proodeytiki
+- **Ionikos FC** : (1) Ionikos
+- **Olympiacos Piraeus FC** : (4) Olympiakos • Olympiacos • Olympiakos P. • Olympiakos Piräus
+- **Ethnikos Piraeus FC** : (2) Ethnikos • Ethnikos Piraeus
+- **PAOK FC** : (1) PAOK
+- **Aris Thessaloniki FC** : (1) Aris
+- **Iraklis 1908 Thessaloniki FC** : (1) Iraklis
+- **Apollon Pontou FC** : (1) Kalamaria
+- **Asteras Tripolis FC** : (1) Asteras Tripolis
+- **Xanthi FC** : (1) Xanthi
+- **Panetolikos GFS** : (1) Panetolikos
+- **PAS Giannina FC** : (2) Giannina • Yiannina
+- **Levadiakos FC** : (1) Levadeiakos
+- **AE Larissa FC** : (2) Larisa • Larissa FC
+- **PAS Lamia 1964** : (1) Lamia
+- **Kerkyra FC** : (1) Kerkyra
+- **Platanias FC** : (1) Platanias
+- **Doxa Dramas FC** : (2) Doxa • Doxa Dramas
+- **Edessaikos FC** : (1) Edessaikos
+- **Ergotelis FC** : (1) Ergotelis
+- **OFI Crete FC** : (1) OFI
+- **Kalamata FC** : (1) Kalamata
+- **AEL Kalloni FC** : (1) Kallonis
+- **Kastoria FC** : (1) Kastoria
+- **Kavala FC** : (1) Kavala
+- **Niki Volou FC** : (1) Niki Volos
+- **Olympiacos Volou 1937 FC** : (2) Olympiakos Volou • Olympiacos Volou FC
+- **Levadiakos FC** : (1) Levadiakos
+- **Panachaiki FC** : (1) Panahaiki
+- **Paniliakos FC** : (1) Paniliakos
+- **Panserraikos FC** : (1) Panserraikos
+- **Panthrakikos FC** : (1) Panthrakikos
+- **Trikala FC** : (1) Trikala
+- **Veria FC** : (2) Veria • Veroia
 
 
+
+
+By City
 
 - **Athens** (10): 
   - AEK Athens FC  (2) AEK • AEK Athens

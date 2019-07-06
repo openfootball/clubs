@@ -1,12 +1,13 @@
 3 clubs
 
-```
-LD Alajuelense              => Alajuelense
-CS Herediano                => Herediano
-CS Cartaginés               => Cartaginés
-```
+- **LD Alajuelense** : (1) Alajuelense
+- **CS Herediano** : (1) Herediano
+- **CS Cartaginés** : (1) Cartaginés
 
 
+
+
+By City
 
 - ? (1): CS Cartaginés  (1) Cartaginés
 - **city:alajuela** (1): LD Alajuelense  (1) Alajuelense
