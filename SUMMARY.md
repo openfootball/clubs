@@ -1,16 +1,16 @@
 85 datafiles, 1460 clubs
 
-**africa/eg-egypt/clubs.txt** _(18)_  Al Ahly • Al Mokawloon Al Arab • El Dakhleya • El Entag El Harby • ENPPI SC • Ittihad El Shorta • Tala'ea El Gaish • Wadi Degla • Al Ittihad Al Sakandary • Haras El Hodood • Smouha SC • Zamalek • Ismaily • El Gouna • Ghazl El Mahalla • Misr El Makasa • Petrojet • Telephonat Bani Sweif
+**africa/egypt/eg.clubs.txt** _(18)_  Al Ahly • Al Mokawloon Al Arab • El Dakhleya • El Entag El Harby • ENPPI SC • Ittihad El Shorta • Tala'ea El Gaish • Wadi Degla • Al Ittihad Al Sakandary • Haras El Hodood • Smouha SC • Zamalek • Ismaily • El Gouna • Ghazl El Mahalla • Misr El Makasa • Petrojet • Telephonat Bani Sweif
 
-**africa/ma-morocco/clubs.txt** _(1)_  Raja Casablanca
+**africa/morocco/ma.clubs.txt** _(1)_  Raja Casablanca
 
-**asia/cn-china/clubs.txt** _(1)_  Guangzhou Evergrande
+**asia/china/cn.clubs.txt** _(1)_  Guangzhou Evergrande
 
-**asia/jp-japan/clubs.txt** _(18)_  Albirex Niigata • Kashima Antlers • Omiya Ardija • Cerezo Osaka • Yokohama F. Marinos • Kawasaki Frontale • Nagoya Grampus • Júbilo Iwata • Oita Trinita • Urawa Red Diamonds • Kashiwa Reysol • Shimizu S-Pulse • Sagan Tosu • Sanfrecce Hiroshima • Shonan Bellmare • FC Tokyo • Vegalta Sendai • Ventforet Kofu
+**asia/japan/jp.clubs.txt** _(18)_  Albirex Niigata • Kashima Antlers • Omiya Ardija • Cerezo Osaka • Yokohama F. Marinos • Kawasaki Frontale • Nagoya Grampus • Júbilo Iwata • Oita Trinita • Urawa Red Diamonds • Kashiwa Reysol • Shimizu S-Pulse • Sagan Tosu • Sanfrecce Hiroshima • Shonan Bellmare • FC Tokyo • Vegalta Sendai • Ventforet Kofu
 
-**asia/kr-south-korea/clubs.txt** _(14)_  Busan I'Park • Chunnam Dragons • Daegu FC • Daejeon Citizen • Gangwon FC • Gyeongnam FC • Incheon United • Jeju United • Jeonbuk Motors • Pohang Steelers • Seongnam Ilhwa Chunma • FC Seoul • Suwon Bluewings • Ulsan Hyundai
+**asia/kazakhstan/kz.clubs.txt** _(9)_  FC Astana • FC Aktobe • FC Shakhter Karagandy • FC Tobol Kostanay • FC Irtysh Pavlodar • FC Ordabasy Shymkent • FC Atyrau • FC Zhetysu Taldykorgan • FC Okzhetpes Kokshetau
 
-**asia/kz-kazakhstan/clubs.txt** _(9)_  FC Astana • FC Aktobe • FC Shakhter Karagandy • FC Tobol Kostanay • FC Irtysh Pavlodar • FC Ordabasy Shymkent • FC Atyrau • FC Zhetysu Taldykorgan • FC Okzhetpes Kokshetau
+**asia/south-korea/kr.clubs.txt** _(14)_  Busan I'Park • Chunnam Dragons • Daegu FC • Daejeon Citizen • Gangwon FC • Gyeongnam FC • Incheon United • Jeju United • Jeonbuk Motors • Pohang Steelers • Seongnam Ilhwa Chunma • FC Seoul • Suwon Bluewings • Ulsan Hyundai
 
 **caribbean/ht-haiti/clubs.txt** _(2)_  Tempête FC • Valencia FC
 
@@ -144,17 +144,17 @@
 
 **north-america/us-united-states/clubs.txt** _(26)_  Atlanta United FC • Chicago Fire • Columbus Crew SC • D.C. United • New England Revolution • New York City FC • New York Red Bulls • Orlando City SC • Philadelphia Union • Colorado Rapids • FC Dallas • Houston Dynamo • LA Galaxy • Los Angeles FC • San Jose Earthquakes • Seattle Sounders FC • Portland Timbers • Minnesota United FC • Real Salt Lake • Sporting Kansas City • Tampa Bay Mutiny (1996-2001) • Miami Fusion (1998-2001) • CD Chivas USA (2005-2014) • FC Cincinnati • Miami • Nashville
 
-**pacific/au-australia/clubs.txt** _(9)_  Adelaide United • Brisbane Roar • Sydney FC • Western Sydney Wanderers • Central Coast Mariners • Newcastle United Jets • Melbourne Heart • Melbourne Victory • Perth Glory
+**pacific/australia/au.clubs.txt** _(9)_  Adelaide United • Brisbane Roar • Sydney FC • Western Sydney Wanderers • Central Coast Mariners • Newcastle United Jets • Melbourne Heart • Melbourne Victory • Perth Glory
 
-**pacific/nz-new-zealand/clubs.txt** _(9)_  Auckland City FC • Waitakere United • Hawke's Bay United • Team Wellington • Waikato FC • YoungHeart Manawatu • Canterbury United • Otago United • Wellington Phoenix
+**pacific/new-zealand/nz.clubs.txt** _(9)_  Auckland City FC • Waitakere United • Hawke's Bay United • Team Wellington • Waikato FC • YoungHeart Manawatu • Canterbury United • Otago United • Wellington Phoenix
 
-**south-america/ar-argentina/clubs.txt** _(36)_  All Boys • Argentinos Juniors • Boca Juniors • River Plate • San Lorenzo • Vélez Sarsfield • Huracán • Nueva Chicago • CA Tigre • CA Independiente de Avellaneda • Racing Club • Quilmes AC • CA Lanús • Arsenal de Sarandí • Estudiantes LP • Gimnasia y Esgrima • Club Atlético Aldosivi • Club Atlético Banfield • Defensa y Justicia • Olimpo Bahía Blanca • Sarmiento Junín • Temperley • Chacarita Juniors • Colón Santa Fe • Unión Santa Fe • Newell's Old Boys • Rosario Central • Atlético Rafaela • Club Atlético Belgrano • Talleres de Córdoba • Godoy Cruz • San Martín • Atlético Tucumán • San Martín de Tucumán • Patronato • Crucero del Norte
+**south-america/argentina/ar.clubs.txt** _(36)_  All Boys • Argentinos Juniors • Boca Juniors • River Plate • San Lorenzo • Vélez Sarsfield • Huracán • Nueva Chicago • CA Tigre • CA Independiente de Avellaneda • Racing Club • Quilmes AC • CA Lanús • Arsenal de Sarandí • Estudiantes LP • Gimnasia y Esgrima • Club Atlético Aldosivi • Club Atlético Banfield • Defensa y Justicia • Olimpo Bahía Blanca • Sarmiento Junín • Temperley • Chacarita Juniors • Colón Santa Fe • Unión Santa Fe • Newell's Old Boys • Rosario Central • Atlético Rafaela • Club Atlético Belgrano • Talleres de Córdoba • Godoy Cruz • San Martín • Atlético Tucumán • San Martín de Tucumán • Patronato • Crucero del Norte
 
-**south-america/bo-bolivia/clubs.txt** _(5)_  Club Bolívar • The Strongest • Real Potosí • Club Deportivo San José • Club Deportivo Oriente Petrolero
+**south-america/bolivia/bo.clubs.txt** _(5)_  Club Bolívar • The Strongest • Real Potosí • Club Deportivo San José • Club Deportivo Oriente Petrolero
 
-**south-america/br-brazil/clubs.txt** _(20)_  Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • Botafogo RJ • Flamengo RJ • Fluminense RJ • Atlético MG • Cruzeiro MG • América MG • Grêmio RS • Internacional Porto Alegre • Atlético PR • Coritiba PR • Figueirense • Chapecoense • Sport Recife • Santa Cruz • EC Vitória
+**south-america/brazil/br.clubs.txt** _(20)_  Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • Botafogo RJ • Flamengo RJ • Fluminense RJ • Atlético MG • Cruzeiro MG • América MG • Grêmio RS • Internacional Porto Alegre • Atlético PR • Coritiba PR • Figueirense • Chapecoense • Sport Recife • Santa Cruz • EC Vitória
 
-**south-america/cl-chile/clubs.txt** _(5)_  Universidad de Chile • Universidad Católica • Unión Española • CD Huachipato • Deportes Iquique
+**south-america/chile/cl.clubs.txt** _(5)_  Universidad de Chile • Universidad Católica • Unión Española • CD Huachipato • Deportes Iquique
 
 **south-america/co-colombia/clubs.txt** _(6)_  Millonarios Bogotá • Independiente Santa Fe • Atlético Nacional • Junior de Barranquilla • Once Caldas • Deportes Tolima
 

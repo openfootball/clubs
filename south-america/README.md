@@ -1,12 +1,12 @@
 11 datafiles, 123 clubs
 
-**south-america/ar-argentina/clubs.txt** _(36)_  All Boys • Argentinos Juniors • Boca Juniors • River Plate • San Lorenzo • Vélez Sarsfield • Huracán • Nueva Chicago • CA Tigre • CA Independiente de Avellaneda • Racing Club • Quilmes AC • CA Lanús • Arsenal de Sarandí • Estudiantes LP • Gimnasia y Esgrima • Club Atlético Aldosivi • Club Atlético Banfield • Defensa y Justicia • Olimpo Bahía Blanca • Sarmiento Junín • Temperley • Chacarita Juniors • Colón Santa Fe • Unión Santa Fe • Newell's Old Boys • Rosario Central • Atlético Rafaela • Club Atlético Belgrano • Talleres de Córdoba • Godoy Cruz • San Martín • Atlético Tucumán • San Martín de Tucumán • Patronato • Crucero del Norte
+**south-america/argentina/ar.clubs.txt** _(36)_  All Boys • Argentinos Juniors • Boca Juniors • River Plate • San Lorenzo • Vélez Sarsfield • Huracán • Nueva Chicago • CA Tigre • CA Independiente de Avellaneda • Racing Club • Quilmes AC • CA Lanús • Arsenal de Sarandí • Estudiantes LP • Gimnasia y Esgrima • Club Atlético Aldosivi • Club Atlético Banfield • Defensa y Justicia • Olimpo Bahía Blanca • Sarmiento Junín • Temperley • Chacarita Juniors • Colón Santa Fe • Unión Santa Fe • Newell's Old Boys • Rosario Central • Atlético Rafaela • Club Atlético Belgrano • Talleres de Córdoba • Godoy Cruz • San Martín • Atlético Tucumán • San Martín de Tucumán • Patronato • Crucero del Norte
 
-**south-america/bo-bolivia/clubs.txt** _(5)_  Club Bolívar • The Strongest • Real Potosí • Club Deportivo San José • Club Deportivo Oriente Petrolero
+**south-america/bolivia/bo.clubs.txt** _(5)_  Club Bolívar • The Strongest • Real Potosí • Club Deportivo San José • Club Deportivo Oriente Petrolero
 
-**south-america/br-brazil/clubs.txt** _(20)_  Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • Botafogo RJ • Flamengo RJ • Fluminense RJ • Atlético MG • Cruzeiro MG • América MG • Grêmio RS • Internacional Porto Alegre • Atlético PR • Coritiba PR • Figueirense • Chapecoense • Sport Recife • Santa Cruz • EC Vitória
+**south-america/brazil/br.clubs.txt** _(20)_  Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • Botafogo RJ • Flamengo RJ • Fluminense RJ • Atlético MG • Cruzeiro MG • América MG • Grêmio RS • Internacional Porto Alegre • Atlético PR • Coritiba PR • Figueirense • Chapecoense • Sport Recife • Santa Cruz • EC Vitória
 
-**south-america/cl-chile/clubs.txt** _(5)_  Universidad de Chile • Universidad Católica • Unión Española • CD Huachipato • Deportes Iquique
+**south-america/chile/cl.clubs.txt** _(5)_  Universidad de Chile • Universidad Católica • Unión Española • CD Huachipato • Deportes Iquique
 
 **south-america/co-colombia/clubs.txt** _(6)_  Millonarios Bogotá • Independiente Santa Fe • Atlético Nacional • Junior de Barranquilla • Once Caldas • Deportes Tolima
 
