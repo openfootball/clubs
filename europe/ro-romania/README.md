@@ -54,3 +54,5 @@ By Year
 - ? (18):   FC Steaua București • FC Dinamo București • Rapid București • CFR Cluj • U Cluj • Astra Giurgiu • Ceahlaul Piatra Neamt • Concordia Chiajna • CSMS Iasi • FC Brasov • FC Severin • FC Vaslui • Gaz Metan Medias • Gloria Bistrita • Otelul Galati • Pandurii Tg Jiu • Petrolul Ploiesti • Viitorul Constanta
 
 
+
+

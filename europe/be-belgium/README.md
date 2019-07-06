@@ -105,3 +105,5 @@ By Year
 - ? (18):   FC Brussels • RWD Molenbeek • Royal Antwerp FC • Germinal Beerschot • RAEC Mons • KAS Eupen • K Lierse SK • SC Eendracht Aalst • FCV Dender EH • KSK Beveren • KFC Verbroedering Geel • KRC Harelbeke • K Heusden-Zolder • KFC Lommel SK • RAA Louviéroise • KSV Roeselare • RFC Seraing • AFC Tubize
 
 
+
+

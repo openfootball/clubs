@@ -116,3 +116,5 @@ By Year
 - ? (47):   AEK Athens FC • Panathinaikos FC • Apollon Smyrnis FC • Atromitos FC • Panionios GSS • APO Akratitos • Athinaikos AS FC • Chalkidona FC • Egaleo FC • Ethnikos Asteras FC • Kallithea FC • Thrasyvoulos FC • Panelefsiniakos FC • Proodeftiki FC • Ionikos FC • Olympiacos Piraeus FC • Ethnikos Piraeus FC • PAOK FC • Aris Thessaloniki FC • Iraklis 1908 Thessaloniki FC • Apollon Pontou FC • Asteras Tripolis FC • Xanthi FC • Panetolikos GFS • PAS Giannina FC • Levadiakos FC • AE Larissa FC • PAS Lamia 1964 • Kerkyra FC • Platanias FC • Doxa Dramas FC • Edessaikos FC • Ergotelis FC • OFI Crete FC • Kalamata FC • AEL Kalloni FC • Kastoria FC • Kavala FC • Niki Volou FC • Olympiacos Volou 1937 FC • Levadiakos FC • Panachaiki FC • Paniliakos FC • Panserraikos FC • Panthrakikos FC • Trikala FC • Veria FC
 
 
+
+

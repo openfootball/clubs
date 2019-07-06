@@ -32,3 +32,5 @@ By Year
 - ? (8):   ŠK Slovan Bratislava • MŠK Žilina • FC Spartak Trnava • FK Senica • MFK Košice • Dukla Banská Bystrica • FC Nitra • MFK Petržalka
 
 
+
+

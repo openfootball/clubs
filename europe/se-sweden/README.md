@@ -36,3 +36,5 @@ By Year
 - ? (10):   Malmö FF • IFK Göteborg • Helsingborgs IF • IF Elfsborg • Kalmar FF • AIK • BK Häcken • Örebro SK • Gefle IF • Djurgårdens IF
 
 
+
+

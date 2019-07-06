@@ -36,3 +36,5 @@ By Year
 - ? (10):   HJK Helsinki • FC Haka Valkeakoski • FC Inter Turku • TPS Turku • FC Honka Espoo • KuPS Kuopio • Myllykosken Pallo-47 • FC Lahti • JJK Jyväskylä • Tampere United
 
 
+
+

@@ -49,3 +49,5 @@ By Year
 - ? (16):   FK Austria Wien • SK Rapid Wien • Wiener Sport-Club • SV Mattersburg • FC Admira Wacker Mödling • SC Wiener Neustadt • SKN St. Pölten • LASK Linz • FC Stahl Linz • SV Ried • SK Sturm Graz • Wolfsberger AC • SV Grödig • FC RB Salzburg • FC Wacker Innsbruck • SCR Altach
 
 
+
+

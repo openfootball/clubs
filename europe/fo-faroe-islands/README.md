@@ -28,3 +28,5 @@ By Year
 - ? (6):   HB Tórshavn • B36 Tórshavn • EB/Streymur • NSÍ Runavík • Víkingur • ÍF Fuglafjørdur
 
 
+
+

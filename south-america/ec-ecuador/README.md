@@ -29,3 +29,5 @@ By Year
 - ? (6):   Deportivo Quito • El Nacional • LDU Quito • CS Emelec • Barcelona Guayaquil • LDU Loja
 
 
+
+

@@ -321,3 +321,14 @@ By Year
 - ? (91):   SpVgg Unterhaching • SSV Jahn Regensburg • 1. FC Schweinfurt 05 • Wacker Burghausen • TSV 1860 Rosenheim • FV Illertissen • FC Viktoria Köln • Borussia Dortmund II • MSV Duisburg • SG Wattenscheid 09 • Preussen Münster • Gütersloh • KFC Uerdingen • Alemannia Aachen • Rot Weiss Ahlen • Rot-Weiß Oberhausen • SF Siegen • Wuppertaler SV • Rot-Weiss Essen • SF Baumberg • SF Lotte • SV Lippstadt 08 • SC Wiedenbrück • FC Hennef 05 • TuS Erndtebrück • 1. FC Saarbrücken • FC 08 Homburg • VfB Borussia Neunkirchen • SV Elversberg • VfL Osnabrück • VfL Wolfsburg • FT Braunschweig • SV Meppen • VfB Oldenburg • SV Wilhelmshaven • BSV Schwarz-Weiß Rehden • TSV Havelse • SV Babelsberg 03 • FSV Optik Rathenow • SV Falkensee-Finkenkrug • Tennis Borussia Berlin • Blau-Weiß 90 Berlin (-1992) • SC Tasmania 1900 Berlin (-1973) • BFC Dynamo Berlin • Berliner AK 07 • FC Viktoria 1889 Berlin • SC Victoria Hamburg • USC Paloma Hamburg • HSV Barmbek-Uhlenhorst • Werder Bremen II • SG Aumund-Vegesack • FC Oberneuland • Bremer SV • VfB Stuttgart II • Stuttgarter Kickers • SSV Ulm 1846 • SSV Reutlingen 05 • VfR Mannheim • SV Waldhof Mannheim • FC Nöttingen • Bahlinger SC • Neckarsulmer Sport-Union • Offenburger FV • FC-Astoria Walldorf • SV Waldkirch • SV Wehen Wiesbaden • Kickers Offenbach • KSV Hessen Kassel • 1. FSV Mainz 05 II • Eintracht Trier • TuS Koblenz • TSG Pfeddersheim • SV Roßbach/Verscheid • Wormatia Worms • SV Alemannia Waldalgesheim • FSV Salmrohr • FK Pirmasens • VfB Lübeck • Holstein Kiel • VfR Neumünster • TSG Neustrelitz • FC Schönberg 95 • 1. FC Neubrandenburg 04 • VfB Leipzig (-2004) • Chemnitzer FC • FSV Zwickau • Hallescher FC • 1. FC Magdeburg • FC Carl Zeiss Jena • SV Schott Jena • FC Rot-Weiß Erfurt
 
 
+
+
+Historic
+
+- **1973** (1):   SC Tasmania 1900 Berlin (-1973)
+- **1992** (1):   Blau-Weiß 90 Berlin (-1992)
+- **2004** (1):   VfB Leipzig (-2004)
+
+
+
+

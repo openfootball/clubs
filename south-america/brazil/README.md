@@ -61,3 +61,5 @@ By Year
 - ? (20):   Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • Botafogo RJ • Flamengo RJ • Fluminense RJ • Atlético MG • Cruzeiro MG • América MG • Grêmio RS • Internacional Porto Alegre • Atlético PR • Coritiba PR • Figueirense • Chapecoense • Sport Recife • Santa Cruz • EC Vitória
 
 
+
+

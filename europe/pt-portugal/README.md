@@ -103,3 +103,5 @@ By Year
 - ? (42):   SL Benfica • Sporting CP • Os Belenenses • FC Porto • Boavista FC • CD Aves • GD Chaves • Estoril Praia • CD Feirense • Vitória de Guimarães • Vitória de Setúbal • CS Marítimo • Moreirense FC • FC Paços de Ferreira • Portimonense SC • Rio Ave FC • SC Braga • CD Tondela • Académica de Coimbra • FC Arouca • CD Nacional Madeira • FC Penafiel • SC Beira-Mar • Desportivo de Chaves • CF Estrela da Amadora • SC Farense • Gil Vicente FC • União de Leiria • União da Madeira • SC Salgueiros • FC Tirsense • SC Campomaiorense • FC Felgueiras • Leça FC • FC Alverca • Sporting de Espinho • Leixões SC • Naval 1º de Maio • SC Olhanense • CD Santa Clara • CD Trofense • Varzim SC
 
 
+
+

@@ -34,3 +34,5 @@ By Year
 - ? (9):   GNK Dinamo Zagreb • HNK Hajduk Split • RNK Split • NK Slaven Koprivnica • NK Varaždin • HNK Rijeka • NK Osijek • HNK Cibalia • HNK Šibenik
 
 
+
+

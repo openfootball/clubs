@@ -175,3 +175,5 @@ By Year
 - ? (46):   Paris FC • Red Star FC • Amiens SC • Dijon FCO • RC Strasbourg • Nîmes Olympique • AJ Auxerre • Bourg-en-Bresse 01 • Stade Brestois 29 • LB Châteauroux • Clermont Foot 63 • Le Havre AC • AS Nancy Lorraine • Chamois Niortais FC • US Orléans • US Quevilly-Rouen Métropole • FC Sochaux-Montbéliard • Tours FC • Valenciennes FC • AC Arles-Avignon • CA Bastia • AS Beauvais Oise • Racing Besançon • US Boulogne • AS Cannes • FCO Charleville • US Créteil • SAS Épinal • Grenoble Foot 38 • FC Gueugnon • FC Istres • Stade Lavallois • Le Mans FC • FC Libourne-Saint-Seurin • CS Louhans-Cuiseaux • FC Martigues • FC Mulhouse • Perpignan FC • FC Rouen • CS Sedan-Ardennes • FC Sète • Stade Briochin • Sporting Toulon Var • ASOA Valence • Vannes OC • Wasquehal Foot
 
 
+
+

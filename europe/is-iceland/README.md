@@ -36,3 +36,5 @@ By Year
 - ? (10):   KR Reykjavík • Fram Reykjavík • Valur Reykjavík • ÍA Akranes • FH Hafnarfjördur • Breidablik • Thór Akureyri • ÍBV Vestmannaeyjar • Fylkir • Keflavík
 
 
+
+

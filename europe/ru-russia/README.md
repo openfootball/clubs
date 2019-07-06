@@ -109,3 +109,5 @@ By Year
 - ? (33):   FC Moskva • Torpedo Moskva • FC Sibir Novosibirsk • FC Alania Vladikavkaz • PFC Krylya Sovetov Samara • Arsenal Tula • Chernomorets Novorosisk • FC Khimki • FC Krasnodar • FC Kuban • Luch Energia Vladivostok • FC Mordovia • Spartak Nalchik • Nizhnii Novgorod • FC Rostov • Rotor • Saturn • Shinnik • SKA-Energiia • Sokol • Terek Grozny • Akhmat Grozny • Tom Tomsk • Tosno • FC Ufa • Ural Yekaterinburg • Uralan • Volga Nizhnii Novgorod • FC Tambov • Orenburg • Volgar-Astrakhan • Vladikavkaz • Yenisey
 
 
+
+
