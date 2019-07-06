@@ -23,3 +23,10 @@ By City
   - JFK Olimps/RFS 
 
 
+
+
+By Year
+
+- ? (7):   FK Ventspils • SK Liepājas Metalurgs • Skonto FC • FC Daugava Daugavpils • FK Jelgava • FC Dinaburg • JFK Olimps/RFS
+
+

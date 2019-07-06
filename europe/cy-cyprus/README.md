@@ -24,3 +24,10 @@ By City
 - **Limassol** (1): AEL Limassol  (2) AEL Limassol FC • Athlitiki Enosi Lemesou
 
 
+
+
+By Year
+
+- ? (7):   AC Omonia Nicosia • APOEL Nicosia FC • Αnorthosis Famagusta FC • AEL Limassol • Apollon Limassol FC • AEK Larnaca FC • APOP/Kinyras Peyias FC
+
+

@@ -18,3 +18,10 @@ By City
 - **Talcahuano** (1): CD Huachipato  (2) Huachipato • Club Deportivo Huachipato
 
 
+
+
+By Year
+
+- ? (5):   Universidad de Chile • Universidad Católica • Unión Española • CD Huachipato • Deportes Iquique
+
+

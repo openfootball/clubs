@@ -370,3 +370,28 @@ By City
 - **York › North Yorkshire** (1): York City FC  (2) York • York City
 
 
+
+
+By Year
+
+- **1863** (1):   Stoke City FC
+- **1871** (1):   Reading FC
+- **1874** (1):   Aston Villa FC
+- **1876** (1):   Middlesbrough FC
+- **1878** (3):   Everton FC • Manchester United FC • West Bromwich Albion FC
+- **1879** (2):   Fulham FC • Sunderland AFC
+- **1880** (1):   Manchester City FC
+- **1881** (1):   Watford FC
+- **1882** (3):   Tottenham Hotspur FC • Queens Park Rangers FC • Burnley FC
+- **1884** (2):   Leicester City FC • Tranmere Rovers FC
+- **1885** (1):   Southampton FC
+- **1886** (1):   Arsenal FC
+- **1890** (2):   Norwich City FC • AFC Bournemouth
+- **1892** (2):   Liverpool FC • Newcastle United FC
+- **1895** (1):   West Ham United FC
+- **1904** (1):   Hull City AFC
+- **1905** (2):   Chelsea FC • Crystal Palace FC
+- **2004** (1):   AFC Telford United
+- ? (146):   Charlton Athletic FC • Wimbledon FC • AFC Wimbledon • Millwall FC • Brentford FC • Leyton Orient FC • Barnet FC • Dagenham & Redbridge FC • Bromley FC • Hayes & Yeading United FC • Welling United FC • Sutton United FC • Thames AFC (1928-1932) • Blackburn Rovers FC • Blackpool FC • Preston North End FC • AFC Fylde • Darwen FC (1870-2009) • Bootle FC (1879-1893) • Nelson FC • Bolton Wanderers FC • Wigan Athletic FC • Wigan Borough FC (1920-1931) • Oldham Athletic AFC • Stockport County FC • Bury FC • Rochdale AFC • Altrincham FC • Droylsden FC • Hyde United FC • Stalybridge Celtic FC • Birmingham City FC • Ashington AFC • South Shields FC • Gateshead FC • Aldershot Town FC • Portsmouth FC • Eastleigh FC • Loughborough FC (1886-1900) • Coventry City FC • Wolverhampton Wanderers FC • Walsall FC • Solihull Moors FC • Stafford Rangers FC • York City FC • Middlesbrough Ironopolis FC (1889-1894) • Scarborough Athletic FC • Leeds United FC • Leeds City FC (1904-1919) • Bradford City AFC • Bradford Park Avenue AFC • Huddersfield Town AFC • FC Halifax Town • Farsley Celtic FC • Guiseley AFC • North Ferriby United AFC • Sheffield Wednesday FC • Sheffield United FC • Barnsley FC • Rotherham United FC • Rotherham County FC (1870-1925) • Rotherham Town FC (1899-1925) • Doncaster Rovers FC • Port Vale FC • Burton Albion FC • Burton United FC (1901-1910) • Burton Swifts FC (1871-1901) • Burton Wanderers FC (1871-1901) • Tamworth FC • Derby County FC • Oxford United FC • Peterborough United FC • Cambridge United FC • Histon FC • Ipswich Town FC • Notts County FC • Nottingham Forest FC • Mansfield Town FC • Weymouth FC • Maidenhead United FC • Brighton & Hove Albion FC • Crawley Town FC • Eastbourne Borough FC • Lewes FC • Swindon Town FC • Colchester United FC • Southend United FC • Braintree Town FC • Grays Athletic FC • Canvey Island FC • Lincoln City FC • Scunthorpe United FC • Boston United FC • Gainsborough Trinity FC • Grimsby Town FC • Bristol City FC • Bristol Rovers FC • Southport FC • New Brighton Tower FC (1898-1901) • Plymouth Argyle FC • Exeter City FC • Torquay United FC • Gillingham FC • Maidstone United FC • Dartford FC • Dover Athletic FC • Ebbsfleet United FC • Luton Town FC • Milton Keynes Dons FC • Wycombe Wanderers FC • Yeovil Town FC • Bath City FC • Forest Green Rovers FC • Cheltenham Town FC • Kidderminster Harriers FC • Woking FC • Chesterfield FC • Alfreton Town FC • Glossop North End AFC • Carlisle United FC • Barrow AFC • Workington AFC • Northampton Town FC • AFC Rushden & Diamonds • Kettering Town FC • Shrewsbury Town FC • Telford United FC (1872-2004) • Chester FC • Crewe Alexandra FC • Macclesfield Town FC • Northwich Victoria FC • Fleetwood Town FC • Accrington Stanley FC • Accrington FC (1878-1896) • Morecambe FC • Hereford FC (2014-) • Hereford United FC (1924-2014) • St. Albans City FC • Boreham Wood FC • Stevenage FC • Hartlepool United FC • Darlington FC • Durham City AFC • Salisbury City FC (1947-2014) • Nuneaton Borough FC • Berwick Rangers
+
+

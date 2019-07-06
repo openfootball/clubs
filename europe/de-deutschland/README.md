@@ -286,3 +286,38 @@ By City
 - **Zwickau › Sachsen** (1): FSV Zwickau  (1) Zwickau
 
 
+
+
+By Year
+
+- **1860** (1):   TSV 1860 München
+- **1887** (1):   Hamburger SV
+- **1892** (1):   Hertha BSC
+- **1893** (1):   VfB Stuttgart
+- **1894** (1):   Karlsruher SC
+- **1895** (2):   Fortuna Düsseldorf • Eintracht Braunschweig
+- **1896** (1):   Hannover 96
+- **1898** (1):   SV Darmstadt 98
+- **1899** (4):   Werder Bremen • TSG 1899 Hoffenheim • Eintracht Frankfurt • FSV Frankfurt
+- **1900** (4):   Bayern München • 1. FC Nürnberg • Bor. Mönchengladbach • 1. FC Kaiserslautern
+- **1903** (1):   Greuther Fürth
+- **1904** (3):   FC Schalke 04 • Bayer 04 Leverkusen • SC Freiburg
+- **1905** (2):   Arminia Bielefeld • 1. FSV Mainz 05
+- **1907** (3):   FC Augsburg • Würzburger Kickers • SC Paderborn 07
+- **1909** (1):   Borussia Dortmund
+- **1910** (1):   FC St. Pauli
+- **1916** (1):   SV Sandhausen
+- **1921** (1):   VfR Aalen
+- **1938** (1):   VfL Bochum
+- **1948** (2):   1. FC Köln • Fortuna Köln
+- **1949** (1):   FC Erzgebirge Aue
+- **1953** (1):   Dynamo Dresden
+- **1965** (1):   Hansa Rostock
+- **1966** (2):   Energie Cottbus • 1. FC Union Berlin
+- **1994** (1):   SG Großaspach
+- **2004** (1):   FC Ingolstadt 04
+- **2007** (1):   1. FC Heidenheim
+- **2009** (1):   RB Leipzig
+- ? (91):   SpVgg Unterhaching • SSV Jahn Regensburg • 1. FC Schweinfurt 05 • Wacker Burghausen • TSV 1860 Rosenheim • FV Illertissen • FC Viktoria Köln • Borussia Dortmund II • MSV Duisburg • SG Wattenscheid 09 • Preussen Münster • Gütersloh • KFC Uerdingen • Alemannia Aachen • Rot Weiss Ahlen • Rot-Weiß Oberhausen • SF Siegen • Wuppertaler SV • Rot-Weiss Essen • SF Baumberg • SF Lotte • SV Lippstadt 08 • SC Wiedenbrück • FC Hennef 05 • TuS Erndtebrück • 1. FC Saarbrücken • FC 08 Homburg • VfB Borussia Neunkirchen • SV Elversberg • VfL Osnabrück • VfL Wolfsburg • FT Braunschweig • SV Meppen • VfB Oldenburg • SV Wilhelmshaven • BSV Schwarz-Weiß Rehden • TSV Havelse • SV Babelsberg 03 • FSV Optik Rathenow • SV Falkensee-Finkenkrug • Tennis Borussia Berlin • Blau-Weiß 90 Berlin (-1992) • SC Tasmania 1900 Berlin (-1973) • BFC Dynamo Berlin • Berliner AK 07 • FC Viktoria 1889 Berlin • SC Victoria Hamburg • USC Paloma Hamburg • HSV Barmbek-Uhlenhorst • Werder Bremen II • SG Aumund-Vegesack • FC Oberneuland • Bremer SV • VfB Stuttgart II • Stuttgarter Kickers • SSV Ulm 1846 • SSV Reutlingen 05 • VfR Mannheim • SV Waldhof Mannheim • FC Nöttingen • Bahlinger SC • Neckarsulmer Sport-Union • Offenburger FV • FC-Astoria Walldorf • SV Waldkirch • SV Wehen Wiesbaden • Kickers Offenbach • KSV Hessen Kassel • 1. FSV Mainz 05 II • Eintracht Trier • TuS Koblenz • TSG Pfeddersheim • SV Roßbach/Verscheid • Wormatia Worms • SV Alemannia Waldalgesheim • FSV Salmrohr • FK Pirmasens • VfB Lübeck • Holstein Kiel • VfR Neumünster • TSG Neustrelitz • FC Schönberg 95 • 1. FC Neubrandenburg 04 • VfB Leipzig (-2004) • Chemnitzer FC • FSV Zwickau • Hallescher FC • 1. FC Magdeburg • FC Carl Zeiss Jena • SV Schott Jena • FC Rot-Weiß Erfurt
+
+

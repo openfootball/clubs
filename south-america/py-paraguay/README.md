@@ -17,3 +17,10 @@ By City
   - Cerro Porteño  (1) Club Cerro Porteño
 
 
+
+
+By Year
+
+- ? (4):   Libertad Ascunción • Club Olimpia • Club Nacional • Cerro Porteño
+
+

@@ -29,3 +29,10 @@ By City
 - **Reykjavík** (1): KR Reykjavík  (2) KR Reykjavik • Knattspyrnufélag Reykjavíkur
 
 
+
+
+By Year
+
+- ? (10):   KR Reykjavík • Fram Reykjavík • Valur Reykjavík • ÍA Akranes • FH Hafnarfjördur • Breidablik • Thór Akureyri • ÍBV Vestmannaeyjar • Fylkir • Keflavík
+
+

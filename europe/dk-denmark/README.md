@@ -34,3 +34,22 @@ By City
 - **Viborg › Midtjylland** (1): Viborg FF  (2) Viborg • Viborg Fodsports Forening
 
 
+
+
+By Year
+
+- **1880** (1):   AGF Aarhus
+- **1885** (1):   Aalborg BK
+- **1887** (1):   Odense BK
+- **1896** (1):   Viborg FF
+- **1913** (1):   Hobro IK
+- **1924** (1):   Esbjerg fB
+- **1964** (1):   Brøndby IF
+- **1991** (1):   FC Nordsjælland
+- **1992** (1):   FC København
+- **1999** (1):   FC Midtjylland
+- **2003** (1):   Randers FC
+- **2004** (1):   Sønderjysk Elitesport
+- ? (1):   AC Horsens
+
+

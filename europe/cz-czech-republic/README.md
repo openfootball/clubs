@@ -41,3 +41,22 @@ By City
 - **Zlín** (1): FC Zlín  (1) Zlín
 
 
+
+
+By Year
+
+- **1892** (1):   SK Slavia Praha
+- **1893** (1):   AC Sparta Praha
+- **1902** (1):   FK Mladá Boleslav
+- **1905** (1):   Bohemians Praha 1905
+- **1911** (1):   Viktoria Plzeň
+- **1913** (1):   FC Zbrojovka Brno
+- **1919** (2):   SK Sigma Olomouc • FC Zlín
+- **1922** (1):   FC Baník Ostrava
+- **1927** (1):   1. FC Slovácko
+- **1928** (1):   1. FK Příbram
+- **1945** (2):   FK Jablonec • FK Teplice
+- **1948** (1):   FC Vysočina Jihlava
+- **1958** (2):   FK Dukla Praha • FC Slovan Liberec
+
+

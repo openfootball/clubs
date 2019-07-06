@@ -61,3 +61,22 @@ By City
 - **Washington › D.C.** (1): D.C. United  (2) DC United • Washington D.C. United
 
 
+
+
+By Year
+
+- **1996** (9):   Columbus Crew SC • D.C. United • New England Revolution • New York Red Bulls • Colorado Rapids • FC Dallas • LA Galaxy • San Jose Earthquakes • Sporting Kansas City
+- **1998** (1):   Chicago Fire
+- **2005** (1):   Real Salt Lake
+- **2006** (1):   Houston Dynamo
+- **2009** (1):   Seattle Sounders FC
+- **2010** (1):   Philadelphia Union
+- **2011** (1):   Portland Timbers
+- **2015** (2):   New York City FC • Orlando City SC
+- **2017** (2):   Atlanta United FC • Minnesota United FC
+- **2018** (1):   Los Angeles FC
+- **2019** (1):   FC Cincinnati
+- **2020** (2):   Miami • Nashville
+- ? (3):   Tampa Bay Mutiny (1996-2001) • Miami Fusion (1998-2001) • CD Chivas USA (2005-2014)
+
+

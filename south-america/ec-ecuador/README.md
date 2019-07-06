@@ -22,3 +22,10 @@ By City
 - **Loja** (1): LDU Loja  (3) LDU de Loja • Liga de Loja • Liga Deportiva Universitaria de Loja
 
 
+
+
+By Year
+
+- ? (6):   Deportivo Quito • El Nacional • LDU Quito • CS Emelec • Barcelona Guayaquil • LDU Loja
+
+

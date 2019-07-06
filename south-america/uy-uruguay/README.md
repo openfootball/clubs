@@ -41,3 +41,22 @@ By City
 - **San José** (1): Sud América  (2) Institución Atlética Sud América • I.A.S.A
 
 
+
+
+By Year
+
+- **1899** (1):   Nacional de Montevideo
+- **1902** (1):   Montevideo Wanderers
+- **1906** (1):   CS Miramar Misiones
+- **1914** (1):   Sud América
+- **1916** (1):   Centro Atlético Fénix
+- **1919** (1):   Racing CM
+- **1922** (1):   CA Cerro
+- **1932** (2):   Danubio FC • CA River Plate
+- **1933** (1):   CA Rentistas
+- **1935** (1):   Juventud de Las Piedras
+- **1941** (1):   El Tanque Sisley
+- **2002** (1):   Cerro Largo
+- ? (3):   Liverpool Montevideo • Defensor Sporting • CA Peñarol
+
+

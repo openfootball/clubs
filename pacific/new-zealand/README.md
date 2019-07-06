@@ -27,3 +27,10 @@ By City
 - **Palmerston North › Manawatu-Wanganui › North Island** (1): YoungHeart Manawatu 
 
 
+
+
+By Year
+
+- ? (9):   Auckland City FC • Waitakere United • Hawke's Bay United • Team Wellington • Waikato FC • YoungHeart Manawatu • Canterbury United • Otago United • Wellington Phoenix
+
+

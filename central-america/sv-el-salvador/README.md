@@ -19,3 +19,10 @@ By City
 - **city:santaana** (1): Club Deportivo FAS  (2) CD FAS • Futbolistas Asociados Santanecos
 
 
+
+
+By Year
+
+- ? (5):   I. Metapán • Club Deportivo Águila • Club Deportivo FAS • Alianza FC • Luis Ángel Firpo
+
+

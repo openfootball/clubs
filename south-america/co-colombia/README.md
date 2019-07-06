@@ -21,3 +21,10 @@ By City
 - **Medellín** (1): Atlético Nacional  (2) At. Nacional • Club Atlético Nacional S.A.
 
 
+
+
+By Year
+
+- ? (6):   Millonarios Bogotá • Independiente Santa Fe • Atlético Nacional • Junior de Barranquilla • Once Caldas • Deportes Tolima
+
+

@@ -17,3 +17,10 @@ By City
 - **Bern** (1): BSC Young Boys  (1) BSC Young Boys
 
 
+
+
+By Year
+
+- ? (4):   FC Basel 1893 • BSC Young Boys • Grasshopper Club Zürich • FC Zürich
+
+

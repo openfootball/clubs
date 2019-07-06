@@ -19,3 +19,10 @@ By City
 - **Santa Cruz de la Sierra** (1): Club Deportivo Oriente Petrolero  (1) Oriente Petrolero
 
 
+
+
+By Year
+
+- ? (5):   Club Bolívar • The Strongest • Real Potosí • Club Deportivo San José • Club Deportivo Oriente Petrolero
+
+

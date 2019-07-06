@@ -149,3 +149,29 @@ By City
 - **Épinal** (1): SAS Épinal  (1) Epinal
 
 
+
+
+By Year
+
+- **1881** (1):   Girondins de Bordeaux
+- **1899** (2):   Olympique Lyonnais • Olympique de Marseille
+- **1901** (1):   Stade Rennais FC
+- **1904** (1):   OGC Nice
+- **1905** (1):   SC Bastia
+- **1906** (1):   RC Lens
+- **1910** (2):   AC Ajaccio • GFC Ajaccio
+- **1912** (1):   EA Guingamp
+- **1913** (1):   Stade Malherbe Caen
+- **1919** (2):   Angers SCO • AS Saint-Étienne
+- **1926** (1):   FC Lorient
+- **1931** (1):   Stade de Reims
+- **1932** (1):   FC Metz
+- **1943** (1):   FC Nantes
+- **1944** (1):   Lille OSC
+- **1970** (2):   Paris Saint-Germain • Toulouse FC
+- **1974** (1):   Montpellier HSC
+- **1986** (1):   ES Troyes AC
+- **2007** (1):   Évian TG FC
+- ? (46):   Paris FC • Red Star FC • Amiens SC • Dijon FCO • RC Strasbourg • Nîmes Olympique • AJ Auxerre • Bourg-en-Bresse 01 • Stade Brestois 29 • LB Châteauroux • Clermont Foot 63 • Le Havre AC • AS Nancy Lorraine • Chamois Niortais FC • US Orléans • US Quevilly-Rouen Métropole • FC Sochaux-Montbéliard • Tours FC • Valenciennes FC • AC Arles-Avignon • CA Bastia • AS Beauvais Oise • Racing Besançon • US Boulogne • AS Cannes • FCO Charleville • US Créteil • SAS Épinal • Grenoble Foot 38 • FC Gueugnon • FC Istres • Stade Lavallois • Le Mans FC • FC Libourne-Saint-Seurin • CS Louhans-Cuiseaux • FC Martigues • FC Mulhouse • Perpignan FC • FC Rouen • CS Sedan-Ardennes • FC Sète • Stade Briochin • Sporting Toulon Var • ASOA Valence • Vannes OC • Wasquehal Foot
+
+

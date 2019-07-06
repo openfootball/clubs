@@ -82,3 +82,26 @@ By City
 - **Westerlo › Antwerpen › Vlaanderen** (1): KVC Westerlo  (3) Westerlo • K.V.C. Westerlo • Koninklijke Voetbal Club Westerlo
 
 
+
+
+By Year
+
+- **1864** (1):   KAA Gent
+- **1891** (1):   Club Brugge
+- **1898** (1):   Standard Liège
+- **1899** (1):   Cercle Brugge
+- **1901** (1):   KV Kortrijk
+- **1904** (2):   Sporting Charleroi • KV Mechelen
+- **1908** (1):   RSC Anderlecht
+- **1923** (1):   KSC Lokeren OV
+- **1924** (1):   Sint-Truidense VV
+- **1933** (1):   KVC Westerlo
+- **1936** (1):   Waasland-Beveren
+- **1950** (1):   SV Zulte Waregem
+- **1981** (1):   KV Oostende
+- **1988** (1):   KRC Genk
+- **2002** (1):   Oud-Heverlee Leuven
+- **2010** (1):   Royal Excel Mouscron
+- ? (18):   FC Brussels • RWD Molenbeek • Royal Antwerp FC • Germinal Beerschot • RAEC Mons • KAS Eupen • K Lierse SK • SC Eendracht Aalst • FCV Dender EH • KSK Beveren • KFC Verbroedering Geel • KRC Harelbeke • K Heusden-Zolder • KFC Lommel SK • RAA Louviéroise • KSV Roeselare • RFC Seraing • AFC Tubize
+
+

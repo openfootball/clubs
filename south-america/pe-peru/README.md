@@ -21,3 +21,10 @@ By City
 - **Trujillo** (1): Universidad César Vallejo  (1) Club Deportivo Universidad César Vallejo
 
 
+
+
+By Year
+
+- ? (6):   Alianza Lima • Sporting Cristal • Juan Aurich • Sport Huancayo • Real Garcilaso • Universidad César Vallejo
+
+

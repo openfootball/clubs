@@ -25,3 +25,10 @@ By City
 - **Zabrze** (1): Górnik Zabrze  (1) Gornik Zabrze
 
 
+
+
+By Year
+
+- ? (8):   Legia Warszawa • KSP Polonia Warszawa • Górnik Zabrze • KKS Lech Poznań • Wisła Kraków • WKS Śląsk Wrocław • Ruch Chorzów • Jagiellonia Białystok
+
+

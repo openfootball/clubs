@@ -17,3 +17,10 @@ By City
 - **city:quetzaltenango** (1): Club Xelajú MC  (1) Xelajú
 
 
+
+
+By Year
+
+- ? (4):   CSD Municipal • Club Xelajú MC • Comunicaciones FC • Heredia Jaguares de Peten
+
+

@@ -19,3 +19,10 @@ By City
 - **city:lachorrera** (1): San Francisco FC  (2) San Francisco • San Francisco Fútbol Club de La Chorrera
 
 
+
+
+By Year
+
+- ? (5):   Chorrillo FC • Tauro FC • Club Deportivo Árabe Unido • San Francisco FC • Sporting San Miguelito
+
+

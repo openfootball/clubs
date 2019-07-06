@@ -14,3 +14,10 @@ By City
 - **city:heredia** (1): CS Herediano  (1) Herediano
 
 
+
+
+By Year
+
+- ? (3):   LD Alajuelense • CS Herediano • CS Cartaginés
+
+

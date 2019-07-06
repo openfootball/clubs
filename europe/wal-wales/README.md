@@ -35,3 +35,11 @@ By City
 - **Wrexham** (1): Wrexham AFC  (1) Wrexham
 
 
+
+
+By Year
+
+- **1912** (2):   Swansea City FC • Newport County AFC
+- ? (11):   The New Saints FC • Bangor City FC • Llanelli AFC • Rhyl FC • Cefn Druids AFC • Neath FC • Port Talbot Town FC • Cardiff City FC • Wrexham AFC • Merthyr Town FC • Aberdare Athletic FC (1893-1928)
+
+

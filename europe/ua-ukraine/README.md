@@ -29,3 +29,10 @@ By City
 - **city:kharkov** (1): FC Metalist Kharkiv  (1) Metalist Kharkiv
 
 
+
+
+By Year
+
+- ? (9):   FC Dynamo Kyiv • FC Arsenal Kyiv • FC Shakhtar Donetsk • FC Metalurh Donetsk • FC Metalist Kharkiv • FC Dnipro • FC Vorskla Poltava • FC Karpaty Lviv • SC Tavriya Simferopol
+
+

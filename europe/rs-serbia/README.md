@@ -28,3 +28,10 @@ By City
   - FK Partizan Belgrade  (3) Partizan • FK Partizan • Partizan Belgrade
 
 
+
+
+By Year
+
+- ? (9):   Red Star Belgrade • FK Partizan Belgrade • OFK Beograd • FK Vojvodina • FK Spartak Zlatibor voda • FK Sloboda Užice • FK Rad • FK Jagodina • FK Borac Čačak
+
+

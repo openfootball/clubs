@@ -197,3 +197,10 @@ By City
 - **Écija › Andalucía** (1): Écija Balompié  (1) Ecija
 
 
+
+
+By Year
+
+- ? (88):   Atlético Madrid • Atlético Madrid B • Real Madrid CF • Real Madrid CF B • Getafe CF • Rayo Vallecano • AD Alcorcón • Málaga CF • Málaga CF B • Sevilla FC • Sevilla FC B • Real Betis • Algeciras CF • UD Almería • Cádiz CF • Córdoba CF • Écija Balompié • Real Jaén CF • Granada CF • Granada 74 • FC Barcelona • FC Barcelona B • RCD Español • Gimnàstic Tarragona • Girona FC • RCD La Coruña • RC Celta Vigo • SD Compostela • Racing Ferrol • Valencia CF • Levante UD • Alicante CF • Hércules CF • CD Alcoyano • Elche CF • CD Castellón • Villarreal CF • Villarreal CF B • Real Sociedad • Deportivo Alavés • SD Eibar • Athletic Club Bilbao • Athletic Club Bilbao B • Sporting Gijón • Albacete Balompié • CD Guadalajara • CD Badajoz • CF Extremadura • CP Mérida • Burgos CF • CD Mirandés • Real Murcia CF • UCAM Murcia • CF Ciudad de Murcia • FC Cartagena • SD Huesca • UD Las Palmas • Universidad Las Palmas • RCD Mallorca • RCD Mallorca B • CA Osasuna • CD Leganés • Cultural Leonesa • UE Lleida • UE Llagostera • CD Logroñés • Lorca FC • CD Lugo • CD Numancia • CD Ourense • Real Oviedo • Polideportivo Ejido • SD Ponferradina • Pontevedra CF • Real Unión • Recreativo Huelva • CF Reus • CE Sabadell • UD Salamanca • Real Racing Santander • CD Tenerife • Terrassa FC • CD Toledo • Real Valladolid CF • UD Vecindario • Xerez CD • Real Zaragoza • Real Madrid Castilla
+
+

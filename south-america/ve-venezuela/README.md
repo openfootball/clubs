@@ -45,3 +45,11 @@ By City
 - **Valera** (1): Trujillanos FC  (1) Trujillanos
 
 
+
+
+By Year
+
+- **1967** (1):   Caracas FC
+- ? (17):   Deportivo La Guaira • Deportivo Petare • Deportivo Táchira • Zamora FC • Deportivo Lara • Deportivo Anzoátegui • AC Mineros • Atlético El Vigía • Llaneros FC • Atlético Venezuela • Zulia FC • Aragua FC • Estudiantes de Mérida • Tucanes FC • Yaracuyanos FC • Carabobo FC • Trujillanos FC
+
+

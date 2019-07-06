@@ -100,3 +100,22 @@ By City
 - **Stranraer** (1): Stranraer 
 
 
+
+
+By Year
+
+- **1869** (1):   Kilmarnock FC
+- **1874** (1):   Hamilton Academical FC
+- **1876** (1):   Partick Thistle
+- **1877** (1):   Saint Mirren FC
+- **1884** (1):   St Johnstone FC
+- **1886** (1):   Motherwell FC
+- **1887** (1):   Celtic FC
+- **1893** (1):   Dundee FC
+- **1903** (1):   Aberdeen FC
+- **1909** (1):   Dundee United
+- **1929** (1):   Ross County FC
+- **1994** (1):   Inverness Caledonian Thistle
+- ? (32):   Rangers FC • Queen's Park • Heart of Midlothian FC • Hibernian FC • Edinburgh City • Brechin City • Dumbarton • Dunfermline Athletic • Falkirk • Greenock Morton • Livingston FC • Queen of the South • Airdrieonians • Albion Rovers • Alloa Athletic • Arbroath • Ayr United • East Fife • Forfar Athletic • Raith Rovers • Stranraer • Annan Athletic • Clyde • Cowdenbeath • Elgin City • Montrose • Peterhead • Stenhousemuir • Stirling Albion • Clydebank FC • East Stirlingshire FC • Gretna FC
+
+

@@ -34,3 +34,19 @@ By City
 - **Varna** (1): PFC Cherno More Varna  (1) Cherno More
 
 
+
+
+By Year
+
+- **1912** (1):   PFC Botev Plovdiv
+- **1913** (2):   PFC Slavia Sofia • PFC Cherno More Varna
+- **1914** (1):   PFC Levski Sofia
+- **1916** (1):   PFC Beroe Stara Zagora
+- **1921** (2):   PFC Litex Lovech • PFC Montana
+- **1922** (1):   FC Pirin Blagoevgrad
+- **1926** (1):   PFC Lokomotiv Plovdiv
+- **1929** (1):   PFC Lokomotiv Sofia
+- **1945** (1):   PFC Ludogorets Razgrad
+- **1948** (1):   PFC CSKA Sofia
+
+

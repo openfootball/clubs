@@ -28,3 +28,10 @@ By City
 - **Perth › Western Australia** (1): Perth Glory 
 
 
+
+
+By Year
+
+- ? (9):   Adelaide United • Brisbane Roar • Sydney FC • Western Sydney Wanderers • Central Coast Mariners • Newcastle United Jets • Melbourne Heart • Melbourne Victory • Perth Glory
+
+

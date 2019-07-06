@@ -179,3 +179,14 @@ By City
 - **Vicenza** (1): LR Vicenza Virtus  (1) Vicenza
 
 
+
+
+By Year
+
+- **1903** (1):   Hellas Verona FC
+- **1915** (1):   AS Livorno Calcio
+- **1922** (1):   US Sassuolo Calcio
+- **1929** (1):   Benevento
+- ? (79):   AS Roma • SS Lazio • AC Milan • FC Internazionale Milano • Torino FC • Juventus • AC Chievo Verona • Genoa CFC • UC Sampdoria • Atalanta BC • Bologna FC • Cagliari Calcio • FC Crotone • ACF Fiorentina • SSC Napoli • SPAL • Udinese Calcio • Ascoli • Avellino • Bari • Brescia • Carpi • Cesena • Cittadella • Cremonese • Empoli • Foggia • Frosinone • Novara • Palermo • Parma • Perugia • Pescara • Pro Vercelli • Salernitana • Spezia • Ternana • Venezia • Virtus Entella • Piacenza Calcio • LR Vicenza Virtus • Calcio Padova • Modena FC • SS Robur Siena • US Anconitana ASD • Cosenza Calcio • SS Fidelis Andria • US Lecce • AS Lucchese Libertas • SS Monza • Ravenna FC • AC Reggiana • Urbs Reggina • ACD Treviso • ASD Castel di Sangro • Unione Calcio Albinoleffe • Calcio Catania • Como 1907 • ACR Messina SSD • US Triestina Calcio • SS Arezzo • US Catanzaro • ASD Virtus Bergamo • MC Fermana FC • Gallipoli Football SSD • ASD US Grosseto • AS Gubbio • SS Juve Stabia • SSD Latina Calcio • Mantova SSD • ASD Nocerina • AC Pisa • US Pistoiese • Portogruaro Calcio ASD • Rimini FC SSD • ASD Savoia • Trapani Calcio • Varese Calcio • Virtus Lanciano
+
+

@@ -95,3 +95,17 @@ By City
 - **Yekaterinburg** (1): Ural Yekaterinburg  (1) Ural
 
 
+
+
+By Year
+
+- **1911** (1):   PFC CSKA Moskva
+- **1922** (1):   FC Spartak Moskva
+- **1923** (2):   Lokomotiv Moskva • Dynamo Moskva
+- **1925** (1):   Zenit St. Petersburg
+- **1958** (1):   FC Rubin Kazan
+- **1991** (1):   FC Anzhi Makhachkala
+- **1994** (1):   FC Amkar Perm
+- ? (33):   FC Moskva • Torpedo Moskva • FC Sibir Novosibirsk • FC Alania Vladikavkaz • PFC Krylya Sovetov Samara • Arsenal Tula • Chernomorets Novorosisk • FC Khimki • FC Krasnodar • FC Kuban • Luch Energia Vladivostok • FC Mordovia • Spartak Nalchik • Nizhnii Novgorod • FC Rostov • Rotor • Saturn • Shinnik • SKA-Energiia • Sokol • Terek Grozny • Akhmat Grozny • Tom Tomsk • Tosno • FC Ufa • Ural Yekaterinburg • Uralan • Volga Nizhnii Novgorod • FC Tambov • Orenburg • Volgar-Astrakhan • Vladikavkaz • Yenisey
+
+

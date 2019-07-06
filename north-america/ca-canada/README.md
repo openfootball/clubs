@@ -14,3 +14,12 @@ By City
 - **Vancouver › British Columbia** (1): Vancouver Whitecaps FC  (2) Vancouver • Vancouver Whitecaps
 
 
+
+
+By Year
+
+- **1974** (1):   Vancouver Whitecaps FC
+- **2006** (1):   Toronto FC
+- **2010** (1):   Montreal Impact
+
+

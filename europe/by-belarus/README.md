@@ -27,3 +27,10 @@ By City
 - **Barysaw** (1): FC BATE Borisov  (3) BATE Borisov • BATE Borissow • Bate Borisov
 
 
+
+
+By Year
+
+- ? (9):   FC BATE Borisov • FC Gomel • FC Dinamo Minsk • FC Partizan Minsk • FC Minsk • FC Dnepr Mogilev • FC Shakhtyor Soligorsk • FC Naftan Novopolotsk • FC Torpedo Zhodino
+
+

@@ -63,3 +63,10 @@ By City
 - **İzmir** (1): Göztepe Izmir  (1) Goztep
 
 
+
+
+By Year
+
+- ? (26):   Fenerbahçe İstanbul SK • Galatasaray İstanbul AŞ • Beşiktaş İstanbul JK • Kasımpaşa İstanbul SK • İstanbul Başakşehir • Gençlerbirliği Ankara SK • Osmanlıspor Ankara • Kardemir Karabükspor • Elazığspor • Eskişehirspor • Akhisar Belediyespor • Alanyaspor • Antalyaspor • Bursaspor • Göztepe Izmir • Kayserispor • Kayseri Erciyesspor • Konyaspor • Sivasspor • Trabzonspor AŞ • Yeni Malatyaspor • Adanaspor • Gaziantepspor • Çaykur Rizespor • Balıkesirspor • Mersin İdmanyurdu
+
+

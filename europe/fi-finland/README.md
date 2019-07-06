@@ -29,3 +29,10 @@ By City
 - **Valkeakoski** (1): FC Haka Valkeakoski  (2) Haka Valkeakoski • Valkeakosken Haka
 
 
+
+
+By Year
+
+- ? (10):   HJK Helsinki • FC Haka Valkeakoski • FC Inter Turku • TPS Turku • FC Honka Espoo • KuPS Kuopio • Myllykosken Pallo-47 • FC Lahti • JJK Jyväskylä • Tampere United
+
+

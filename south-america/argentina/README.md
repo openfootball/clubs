@@ -87,3 +87,10 @@ By City
 - **Villa Maipú › Buenos Aires** (1): Chacarita Juniors  (1) Club Atlético Chacarita Juniors
 
 
+
+
+By Year
+
+- ? (36):   All Boys • Argentinos Juniors • Boca Juniors • River Plate • San Lorenzo • Vélez Sarsfield • Huracán • Nueva Chicago • CA Tigre • CA Independiente de Avellaneda • Racing Club • Quilmes AC • CA Lanús • Arsenal de Sarandí • Estudiantes LP • Gimnasia y Esgrima • Club Atlético Aldosivi • Club Atlético Banfield • Defensa y Justicia • Olimpo Bahía Blanca • Sarmiento Junín • Temperley • Chacarita Juniors • Colón Santa Fe • Unión Santa Fe • Newell's Old Boys • Rosario Central • Atlético Rafaela • Club Atlético Belgrano • Talleres de Córdoba • Godoy Cruz • San Martín • Atlético Tucumán • San Martín de Tucumán • Patronato • Crucero del Norte
+
+

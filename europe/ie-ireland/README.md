@@ -53,3 +53,10 @@ By City
 - **Waterford** (1): Waterford F.C.  (1) Waterford
 
 
+
+
+By Year
+
+- ? (22):   Shamrock Rovers FC • Bohemian F.C. • St Patrick's Athletic F.C. • University College Dublin A.F.C. • Shelbourne F.C. • Athlone Town A.F.C. • Bray Wanderers F.C. • Cobh Ramblers F.C. • Cork City F.C. • Derry City F.C. • Drogheda United F.C. • Dundalk F.C. • Finn Harps F.C. • Galway United F.C. • Limerick F.C. • Longford Town F.C. • Mervue • Monaghan • Sligo Rovers F.C. • Waterford F.C. • Wexford F.C. • Sporting Fingal FC
+
+

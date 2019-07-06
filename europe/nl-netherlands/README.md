@@ -67,3 +67,29 @@ By City
 - **Zwolle** (1): PEC Zwolle  (2) Zwolle • Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle
 
 
+
+
+By Year
+
+- **1892** (1):   Vitesse Arnhem
+- **1896** (1):   Willem II Tilburg
+- **1900** (2):   Ajax Amsterdam • NEC Nijmegen
+- **1902** (1):   SBV Excelsior Rotterdam
+- **1903** (2):   Heracles Almelo • VVV Venlo
+- **1905** (1):   ADO Den Haag
+- **1908** (1):   Feyenoord Rotterdam
+- **1910** (1):   PEC Zwolle
+- **1912** (1):   NAC Breda
+- **1913** (1):   PSV Eindhoven
+- **1920** (1):   SC Heerenveen
+- **1940** (1):   RKC Waalwijk
+- **1954** (1):   BV De Graafschap
+- **1962** (1):   Roda JC Kerkrade
+- **1964** (1):   SC Cambuur
+- **1965** (1):   FC Twente
+- **1967** (1):   AZ Alkmaar
+- **1970** (1):   FC Utrecht
+- **1971** (1):   FC Groningen
+- ? (8):   Sparta Rotterdam • FC Den Bosch • FC Dordrecht • Fortuna Sittard • Go Ahead Eagles • MVV Maastricht • RBC Roosendaal • FC Volendam
+
+

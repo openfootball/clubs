@@ -28,3 +28,10 @@ By City
   - FK Dinamo Tirana 
 
 
+
+
+By Year
+
+- ? (9):   KF Tirana • FK Partizani Tirana • FK Dinamo Tirana • KS Skënderbeu • KS Flamurtari • KF Vllaznia • KS Besa • KS Teuta • KF Laçi
+
+

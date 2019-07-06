@@ -21,3 +21,10 @@ By City
   - JK Sillamäe Kalev 
 
 
+
+
+By Year
+
+- ? (6):   FC Levadia Tallinn • FC Flora Tallinn • FC TVMK Tallinn • JK Trans Narva • JK Nõmme Kalju • JK Sillamäe Kalev
+
+

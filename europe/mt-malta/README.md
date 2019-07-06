@@ -21,3 +21,10 @@ By City
 - **Valletta** (1): Valletta FC  (1) Valletta
 
 
+
+
+By Year
+
+- ? (6):   Valletta FC • Sliema Wanderers FC • Birkirkara FC • Floriana FC • Hibernians FC • Marsaxlokk FC
+
+
