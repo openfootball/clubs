@@ -33,8 +33,8 @@ By City
 
 By Region
 
-- **Malmö** (1):   Malmö FF
-- **Göteborg** (1):   IFK Göteborg
+- **Malmö†** (1):   Malmö FF
+- **Göteborg†** (1):   IFK Göteborg
 
 
 

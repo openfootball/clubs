@@ -16,8 +16,8 @@ By City
 
 By Region
 
-- **Saint-Marc** (1):   Tempête FC
-- **Léogâne** (1):   Valencia FC
+- **Saint-Marc†** (1):   Tempête FC
+- **Léogâne†** (1):   Valencia FC
 
 
 

@@ -28,9 +28,9 @@ By City
 
 By Region
 
-- **Nicosia** (2):   AC Omonia Nicosia • APOEL Nicosia FC
-- **Larnaca** (1):   Αnorthosis Famagusta FC
-- **Limassol** (1):   AEL Limassol
+- **Nicosia†** (2):   AC Omonia Nicosia • APOEL Nicosia FC
+- **Larnaca†** (1):   Αnorthosis Famagusta FC
+- **Limassol†** (1):   AEL Limassol
 
 
 

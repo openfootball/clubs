@@ -38,14 +38,14 @@ By City
 
 By Region
 
-- **Sofia** (4):   PFC CSKA Sofia • PFC Levski Sofia • PFC Slavia Sofia • PFC Lokomotiv Sofia
-- **Plovdiv** (2):   PFC Botev Plovdiv • PFC Lokomotiv Plovdiv
-- **Lovech** (1):   PFC Litex Lovech
-- **Varna** (1):   PFC Cherno More Varna
-- **Razgrad** (1):   PFC Ludogorets Razgrad
-- **Stara Zagora** (1):   PFC Beroe Stara Zagora
-- **Montana** (1):   PFC Montana
-- **Blagoevgrad** (1):   FC Pirin Blagoevgrad
+- **Sofia†** (4):   PFC CSKA Sofia • PFC Levski Sofia • PFC Slavia Sofia • PFC Lokomotiv Sofia
+- **Plovdiv†** (2):   PFC Botev Plovdiv • PFC Lokomotiv Plovdiv
+- **Lovech†** (1):   PFC Litex Lovech
+- **Varna†** (1):   PFC Cherno More Varna
+- **Razgrad†** (1):   PFC Ludogorets Razgrad
+- **Stara Zagora†** (1):   PFC Beroe Stara Zagora
+- **Montana†** (1):   PFC Montana
+- **Blagoevgrad†** (1):   FC Pirin Blagoevgrad
 
 
 

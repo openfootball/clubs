@@ -21,8 +21,8 @@ By City
 
 By Region
 
-- **city:guatemala** (2):   CSD Municipal • Comunicaciones FC
-- **city:quetzaltenango** (1):   Club Xelajú MC
+- **city:guatemala†** (2):   CSD Municipal • Comunicaciones FC
+- **city:quetzaltenango†** (1):   Club Xelajú MC
 
 
 

@@ -100,42 +100,42 @@ By City
 
 By Region
 
-- **Lisboa** (3):   SL Benfica • Sporting CP • Os Belenenses
-- **Porto** (2):   FC Porto • Boavista FC
-- **Aves** (1):   CD Aves
-- **Chaves** (2):   GD Chaves • Desportivo de Chaves
-- **Estoril** (1):   Estoril Praia
-- **Santa Maria da Feira** (1):   CD Feirense
-- **Guimarães** (1):   Vitória de Guimarães
-- **Setúbal** (1):   Vitória de Setúbal
-- **Funchal** (3):   CS Marítimo • CD Nacional Madeira • União da Madeira
-- **Moreira de Cónegos** (1):   Moreirense FC
-- **Paços de Ferreira** (1):   FC Paços de Ferreira
-- **Portimão** (1):   Portimonense SC
-- **Vila do Conde** (1):   Rio Ave FC
-- **Braga** (1):   SC Braga
-- **Tondela** (1):   CD Tondela
-- **Coimbra** (1):   Académica de Coimbra
-- **Arouca** (1):   FC Arouca
-- **Penafiel** (1):   FC Penafiel
-- **Aveiro** (1):   SC Beira-Mar
-- **Amadora** (1):   CF Estrela da Amadora
-- **Faro** (1):   SC Farense
-- **Barcelos** (1):   Gil Vicente FC
-- **Leiria** (1):   União de Leiria
-- **Paranhos** (1):   SC Salgueiros
-- **Santo Tirso** (1):   FC Tirsense
-- **Campo Maior** (1):   SC Campomaiorense
-- **Felgueiras** (1):   FC Felgueiras
-- **Leça da Palmeira** (1):   Leça FC
-- **Alverca do Ribatejo** (1):   FC Alverca
-- **Espinho** (1):   Sporting de Espinho
-- **Matosinhos** (1):   Leixões SC
-- **Figueira da Foz** (1):   Naval 1º de Maio
-- **Olhão** (1):   SC Olhanense
-- **Ponta Delgada** (1):   CD Santa Clara
-- **Tulipa** (1):   CD Trofense
-- **Póvoa de Varzim** (1):   Varzim SC
+- **Lisboa†** (3):   SL Benfica • Sporting CP • Os Belenenses
+- **Porto†** (2):   FC Porto • Boavista FC
+- **Aves†** (1):   CD Aves
+- **Chaves†** (2):   GD Chaves • Desportivo de Chaves
+- **Estoril†** (1):   Estoril Praia
+- **Santa Maria da Feira†** (1):   CD Feirense
+- **Guimarães†** (1):   Vitória de Guimarães
+- **Setúbal†** (1):   Vitória de Setúbal
+- **Funchal†** (3):   CS Marítimo • CD Nacional Madeira • União da Madeira
+- **Moreira de Cónegos†** (1):   Moreirense FC
+- **Paços de Ferreira†** (1):   FC Paços de Ferreira
+- **Portimão†** (1):   Portimonense SC
+- **Vila do Conde†** (1):   Rio Ave FC
+- **Braga†** (1):   SC Braga
+- **Tondela†** (1):   CD Tondela
+- **Coimbra†** (1):   Académica de Coimbra
+- **Arouca†** (1):   FC Arouca
+- **Penafiel†** (1):   FC Penafiel
+- **Aveiro†** (1):   SC Beira-Mar
+- **Amadora†** (1):   CF Estrela da Amadora
+- **Faro†** (1):   SC Farense
+- **Barcelos†** (1):   Gil Vicente FC
+- **Leiria†** (1):   União de Leiria
+- **Paranhos†** (1):   SC Salgueiros
+- **Santo Tirso†** (1):   FC Tirsense
+- **Campo Maior†** (1):   SC Campomaiorense
+- **Felgueiras†** (1):   FC Felgueiras
+- **Leça da Palmeira†** (1):   Leça FC
+- **Alverca do Ribatejo†** (1):   FC Alverca
+- **Espinho†** (1):   Sporting de Espinho
+- **Matosinhos†** (1):   Leixões SC
+- **Figueira da Foz†** (1):   Naval 1º de Maio
+- **Olhão†** (1):   SC Olhanense
+- **Ponta Delgada†** (1):   CD Santa Clara
+- **Tulipa†** (1):   CD Trofense
+- **Póvoa de Varzim†** (1):   Varzim SC
 
 
 

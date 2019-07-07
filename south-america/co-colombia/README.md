@@ -25,11 +25,11 @@ By City
 
 By Region
 
-- **Bogotá** (2):   Millonarios Bogotá • Independiente Santa Fe
-- **Medellín** (1):   Atlético Nacional
-- **Barranquilla** (1):   Junior de Barranquilla
-- **Manizales** (1):   Once Caldas
-- **Ibagué** (1):   Deportes Tolima
+- **Bogotá†** (2):   Millonarios Bogotá • Independiente Santa Fe
+- **Medellín†** (1):   Atlético Nacional
+- **Barranquilla†** (1):   Junior de Barranquilla
+- **Manizales†** (1):   Once Caldas
+- **Ibagué†** (1):   Deportes Tolima
 
 
 

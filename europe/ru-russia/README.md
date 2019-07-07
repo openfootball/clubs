@@ -99,39 +99,39 @@ By City
 
 By Region
 
-- **Moskva** (4):   Lokomotiv Moskva • PFC CSKA Moskva • Dynamo Moskva • FC Spartak Moskva
-- **St. Petersburg** (1):   Zenit St. Petersburg
-- **Kazan** (1):   FC Rubin Kazan
-- **Perm** (1):   FC Amkar Perm
-- **Makhachkala** (1):   FC Anzhi Makhachkala
-- **Novosibirsk** (1):   FC Sibir Novosibirsk
-- **Vladikovkaz** (1):   FC Alania Vladikavkaz
-- **Samara** (1):   PFC Krylya Sovetov Samara
-- **Tula** (1):   Arsenal Tula
-- **Novorosisk** (1):   Chernomorets Novorosisk
-- **Khimki** (1):   FC Khimki
-- **Krasnodar** (2):   FC Krasnodar • FC Kuban
-- **Vladivostok** (1):   Luch Energia Vladivostok
-- **Saransk** (1):   FC Mordovia
-- **Nalchik** (1):   Spartak Nalchik
-- **Nizhny Novgorod** (2):   Nizhnii Novgorod • Volga Nizhnii Novgorod
-- **Rostov-on-Don** (1):   FC Rostov
-- **Volgograd** (1):   Rotor
-- **Ramenskoe** (1):   Saturn
-- **Yaroslavl** (1):   Shinnik
-- **Khabarovsk** (1):   SKA-Energiia
-- **Saratov** (1):   Sokol
-- **Grozny** (2):   Terek Grozny • Akhmat Grozny
-- **Tomsk** (1):   Tom Tomsk
-- **Tosno** (1):   Tosno
-- **Ufa** (1):   FC Ufa
-- **Yekaterinburg** (1):   Ural Yekaterinburg
-- **Elista** (1):   Uralan
-- **Tambov** (1):   FC Tambov
-- **Orenburg** (1):   Orenburg
-- **Astrakhan** (1):   Volgar-Astrakhan
-- **Vladikavkaz** (1):   Vladikavkaz
-- **Krasnoyarsk** (1):   Yenisey
+- **Moskva†** (4):   Lokomotiv Moskva • PFC CSKA Moskva • Dynamo Moskva • FC Spartak Moskva
+- **St. Petersburg†** (1):   Zenit St. Petersburg
+- **Kazan†** (1):   FC Rubin Kazan
+- **Perm†** (1):   FC Amkar Perm
+- **Makhachkala†** (1):   FC Anzhi Makhachkala
+- **Novosibirsk†** (1):   FC Sibir Novosibirsk
+- **Vladikovkaz†** (1):   FC Alania Vladikavkaz
+- **Samara†** (1):   PFC Krylya Sovetov Samara
+- **Tula†** (1):   Arsenal Tula
+- **Novorosisk†** (1):   Chernomorets Novorosisk
+- **Khimki†** (1):   FC Khimki
+- **Krasnodar†** (2):   FC Krasnodar • FC Kuban
+- **Vladivostok†** (1):   Luch Energia Vladivostok
+- **Saransk†** (1):   FC Mordovia
+- **Nalchik†** (1):   Spartak Nalchik
+- **Nizhny Novgorod†** (2):   Nizhnii Novgorod • Volga Nizhnii Novgorod
+- **Rostov-on-Don†** (1):   FC Rostov
+- **Volgograd†** (1):   Rotor
+- **Ramenskoe†** (1):   Saturn
+- **Yaroslavl†** (1):   Shinnik
+- **Khabarovsk†** (1):   SKA-Energiia
+- **Saratov†** (1):   Sokol
+- **Grozny†** (2):   Terek Grozny • Akhmat Grozny
+- **Tomsk†** (1):   Tom Tomsk
+- **Tosno†** (1):   Tosno
+- **Ufa†** (1):   FC Ufa
+- **Yekaterinburg†** (1):   Ural Yekaterinburg
+- **Elista†** (1):   Uralan
+- **Tambov†** (1):   FC Tambov
+- **Orenburg†** (1):   Orenburg
+- **Astrakhan†** (1):   Volgar-Astrakhan
+- **Vladikavkaz†** (1):   Vladikavkaz
+- **Krasnoyarsk†** (1):   Yenisey
 
 
 

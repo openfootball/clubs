@@ -183,84 +183,84 @@ By City
 
 By Region
 
-- **Roma** (2):   AS Roma • SS Lazio
-- **Milano** (2):   AC Milan • FC Internazionale Milano
-- **Torino** (2):   Torino FC • Juventus
-- **Verona** (2):   Hellas Verona FC • AC Chievo Verona
-- **Genova** (2):   Genoa CFC • UC Sampdoria
-- **Bergamo** (1):   Atalanta BC
-- **Benevento** (1):   Benevento
-- **Bologna** (1):   Bologna FC
-- **Cagliari** (1):   Cagliari Calcio
-- **Crotone** (1):   FC Crotone
-- **Firenze** (1):   ACF Fiorentina
-- **Napoli** (1):   SSC Napoli
-- **Sassuolo** (1):   US Sassuolo Calcio
-- **Ferrara** (1):   SPAL
-- **Udine** (1):   Udinese Calcio
-- **Ascoli Piceno** (1):   Ascoli
-- **Avellino** (1):   Avellino
-- **Bari** (1):   Bari
-- **Brescia** (1):   Brescia
-- **Carpi** (1):   Carpi
-- **Cesena** (1):   Cesena
-- **Cittadella** (1):   Cittadella
-- **Cremona** (1):   Cremonese
-- **Empoli** (1):   Empoli
-- **Foggia** (1):   Foggia
-- **Frosinone** (1):   Frosinone
-- **Novara** (1):   Novara
-- **Palermo** (1):   Palermo
-- **Parma** (1):   Parma
-- **Perugia** (1):   Perugia
-- **Pescara** (1):   Pescara
-- **Vercelli** (1):   Pro Vercelli
-- **Salerno** (1):   Salernitana
-- **La Spezia** (1):   Spezia
-- **Terni** (1):   Ternana
-- **Venezia** (1):   Venezia
-- **Chiavari** (1):   Virtus Entella
-- **Piacenza** (1):   Piacenza Calcio
-- **Vicenza** (1):   LR Vicenza Virtus
-- **Padova** (1):   Calcio Padova
-- **Modena** (1):   Modena FC
-- **Siena** (1):   SS Robur Siena
-- **Ancona** (1):   US Anconitana ASD
-- **Cosenza** (1):   Cosenza Calcio
-- **Andria** (1):   SS Fidelis Andria
-- **Lecce** (1):   US Lecce
-- **Lucca** (1):   AS Lucchese Libertas
-- **Monza** (1):   SS Monza
-- **Ravenna** (1):   Ravenna FC
-- **Reggio Emilia** (1):   AC Reggiana
-- **Reggio Calabria** (1):   Urbs Reggina
-- **Treviso** (1):   ACD Treviso
-- **Castel di Sangro** (1):   ASD Castel di Sangro
-- **Albino e Leffe** (1):   Unione Calcio Albinoleffe
-- **Catania** (1):   Calcio Catania
-- **Como** (1):   Como 1907
-- **Livorno** (1):   AS Livorno Calcio
-- **Messina** (1):   ACR Messina SSD
-- **Trieste** (1):   US Triestina Calcio
-- **Arezzo** (1):   SS Arezzo
-- **Catanzaro** (1):   US Catanzaro
-- **Alzano Lombardo** (1):   ASD Virtus Bergamo
-- **Fermo** (1):   MC Fermana FC
-- **Gallipoli** (1):   Gallipoli Football SSD
-- **Grosseto** (1):   ASD US Grosseto
-- **Gubbio** (1):   AS Gubbio
-- **Castellammare di Stabia** (1):   SS Juve Stabia
-- **Latina** (1):   SSD Latina Calcio
-- **Mantova** (1):   Mantova SSD
-- **Nocera Inferiore** (1):   ASD Nocerina
-- **Pisa** (1):   AC Pisa
-- **Pistoia** (1):   US Pistoiese
-- **Portogruaro** (1):   Portogruaro Calcio ASD
-- **Rimini** (1):   Rimini FC SSD
-- **Torre Annunziata** (1):   ASD Savoia
-- **Trapani** (1):   Trapani Calcio
-- **Varese** (1):   Varese Calcio
-- **Lanciano** (1):   Virtus Lanciano
+- **Roma†** (2):   AS Roma • SS Lazio
+- **Milano†** (2):   AC Milan • FC Internazionale Milano
+- **Torino†** (2):   Torino FC • Juventus
+- **Verona†** (2):   Hellas Verona FC • AC Chievo Verona
+- **Genova†** (2):   Genoa CFC • UC Sampdoria
+- **Bergamo†** (1):   Atalanta BC
+- **Benevento†** (1):   Benevento
+- **Bologna†** (1):   Bologna FC
+- **Cagliari†** (1):   Cagliari Calcio
+- **Crotone†** (1):   FC Crotone
+- **Firenze†** (1):   ACF Fiorentina
+- **Napoli†** (1):   SSC Napoli
+- **Sassuolo†** (1):   US Sassuolo Calcio
+- **Ferrara†** (1):   SPAL
+- **Udine†** (1):   Udinese Calcio
+- **Ascoli Piceno†** (1):   Ascoli
+- **Avellino†** (1):   Avellino
+- **Bari†** (1):   Bari
+- **Brescia†** (1):   Brescia
+- **Carpi†** (1):   Carpi
+- **Cesena†** (1):   Cesena
+- **Cittadella†** (1):   Cittadella
+- **Cremona†** (1):   Cremonese
+- **Empoli†** (1):   Empoli
+- **Foggia†** (1):   Foggia
+- **Frosinone†** (1):   Frosinone
+- **Novara†** (1):   Novara
+- **Palermo†** (1):   Palermo
+- **Parma†** (1):   Parma
+- **Perugia†** (1):   Perugia
+- **Pescara†** (1):   Pescara
+- **Vercelli†** (1):   Pro Vercelli
+- **Salerno†** (1):   Salernitana
+- **La Spezia†** (1):   Spezia
+- **Terni†** (1):   Ternana
+- **Venezia†** (1):   Venezia
+- **Chiavari†** (1):   Virtus Entella
+- **Piacenza†** (1):   Piacenza Calcio
+- **Vicenza†** (1):   LR Vicenza Virtus
+- **Padova†** (1):   Calcio Padova
+- **Modena†** (1):   Modena FC
+- **Siena†** (1):   SS Robur Siena
+- **Ancona†** (1):   US Anconitana ASD
+- **Cosenza†** (1):   Cosenza Calcio
+- **Andria†** (1):   SS Fidelis Andria
+- **Lecce†** (1):   US Lecce
+- **Lucca†** (1):   AS Lucchese Libertas
+- **Monza†** (1):   SS Monza
+- **Ravenna†** (1):   Ravenna FC
+- **Reggio Emilia†** (1):   AC Reggiana
+- **Reggio Calabria†** (1):   Urbs Reggina
+- **Treviso†** (1):   ACD Treviso
+- **Castel di Sangro†** (1):   ASD Castel di Sangro
+- **Albino e Leffe†** (1):   Unione Calcio Albinoleffe
+- **Catania†** (1):   Calcio Catania
+- **Como†** (1):   Como 1907
+- **Livorno†** (1):   AS Livorno Calcio
+- **Messina†** (1):   ACR Messina SSD
+- **Trieste†** (1):   US Triestina Calcio
+- **Arezzo†** (1):   SS Arezzo
+- **Catanzaro†** (1):   US Catanzaro
+- **Alzano Lombardo†** (1):   ASD Virtus Bergamo
+- **Fermo†** (1):   MC Fermana FC
+- **Gallipoli†** (1):   Gallipoli Football SSD
+- **Grosseto†** (1):   ASD US Grosseto
+- **Gubbio†** (1):   AS Gubbio
+- **Castellammare di Stabia†** (1):   SS Juve Stabia
+- **Latina†** (1):   SSD Latina Calcio
+- **Mantova†** (1):   Mantova SSD
+- **Nocera Inferiore†** (1):   ASD Nocerina
+- **Pisa†** (1):   AC Pisa
+- **Pistoia†** (1):   US Pistoiese
+- **Portogruaro†** (1):   Portogruaro Calcio ASD
+- **Rimini†** (1):   Rimini FC SSD
+- **Torre Annunziata†** (1):   ASD Savoia
+- **Trapani†** (1):   Trapani Calcio
+- **Varese†** (1):   Varese Calcio
+- **Lanciano†** (1):   Virtus Lanciano
 
 
 

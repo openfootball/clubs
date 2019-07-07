@@ -27,8 +27,8 @@ By City
 
 By Region
 
-- **Esch-sur-Alzette** (1):   Jeunesse d'Esch
-- **Dudelange** (1):   F91 Dudelange
+- **Esch-sur-Alzette†** (1):   Jeunesse d'Esch
+- **Dudelange†** (1):   F91 Dudelange
 
 
 

@@ -35,7 +35,7 @@ By City
 
 By Region
 
-- **Trondheim** (1):   Rosenborg BK
+- **Trondheim†** (1):   Rosenborg BK
 
 
 

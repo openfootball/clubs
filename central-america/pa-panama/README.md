@@ -23,9 +23,9 @@ By City
 
 By Region
 
-- **city:panama** (2):   Chorrillo FC • Tauro FC
-- **city:colon** (1):   Club Deportivo Árabe Unido
-- **city:lachorrera** (1):   San Francisco FC
+- **city:panama†** (2):   Chorrillo FC • Tauro FC
+- **city:colon†** (1):   Club Deportivo Árabe Unido
+- **city:lachorrera†** (1):   San Francisco FC
 
 
 

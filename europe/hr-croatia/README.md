@@ -31,8 +31,8 @@ By City
 
 By Region
 
-- **Zagreb** (1):   GNK Dinamo Zagreb
-- **Split** (1):   HNK Hajduk Split
+- **Zagreb†** (1):   GNK Dinamo Zagreb
+- **Split†** (1):   HNK Hajduk Split
 
 
 

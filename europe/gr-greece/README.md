@@ -113,9 +113,9 @@ By City
 
 By Region
 
-- **Athens** (10):   AEK Athens FC • Panathinaikos FC • Apollon Smyrnis FC • Atromitos FC • Panionios GSS • APO Akratitos • Athinaikos AS FC • Chalkidona FC • Egaleo FC • Ethnikos Asteras FC
-- **Kallithea** (1):   Kallithea FC
-- **Fyli** (1):   Thrasyvoulos FC
+- **Athens†** (10):   AEK Athens FC • Panathinaikos FC • Apollon Smyrnis FC • Atromitos FC • Panionios GSS • APO Akratitos • Athinaikos AS FC • Chalkidona FC • Egaleo FC • Ethnikos Asteras FC
+- **Kallithea†** (1):   Kallithea FC
+- **Fyli†** (1):   Thrasyvoulos FC
 - **Attica** (5):   Panelefsiniakos FC • Proodeftiki FC • Ionikos FC • Olympiacos Piraeus FC • Ethnikos Piraeus FC
 - **Central Macedonia** (4):   PAOK FC • Aris Thessaloniki FC • Iraklis 1908 Thessaloniki FC • Apollon Pontou FC
 - **Peloponnese** (4):   Asteras Tripolis FC • Kalamata FC • Panachaiki FC • Paniliakos FC

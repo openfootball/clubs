@@ -39,13 +39,13 @@ By City
 
 By Region
 
-- **Oswestry** (1):   The New Saints FC
-- **Swansea** (1):   Swansea City FC
-- **Cardiff** (1):   Cardiff City FC
-- **Newport** (1):   Newport County AFC
-- **Wrexham** (1):   Wrexham AFC
-- **Merthyr Tydfil** (1):   Merthyr Town FC
-- **Aberdare** (1):   Aberdare Athletic FC (1893-1928)
+- **Oswestry†** (1):   The New Saints FC
+- **Swansea†** (1):   Swansea City FC
+- **Cardiff†** (1):   Cardiff City FC
+- **Newport†** (1):   Newport County AFC
+- **Wrexham†** (1):   Wrexham AFC
+- **Merthyr Tydfil†** (1):   Merthyr Town FC
+- **Aberdare†** (1):   Aberdare Athletic FC (1893-1928)
 
 
 

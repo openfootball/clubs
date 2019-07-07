@@ -14,7 +14,7 @@ By City
 
 By Region
 
-- **city:esteli** (1):   Real Estelí
+- **city:esteli†** (1):   Real Estelí
 
 
 

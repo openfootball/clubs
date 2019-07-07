@@ -40,20 +40,20 @@ By City
 
 By Region
 
-- **city:busan** (1):   Busan I'Park
-- **city:gwangyang** (1):   Chunnam Dragons
-- **city:daegu** (1):   Daegu FC
-- **city:daejeon** (1):   Daejeon Citizen
-- **city:gangneung** (1):   Gangwon FC
-- **city:changwon** (1):   Gyeongnam FC
-- **city:incheon** (1):   Incheon United
-- **city:seogwipo** (1):   Jeju United
-- **city:jeonju** (1):   Jeonbuk Motors
-- **city:pohang** (1):   Pohang Steelers
-- **city:seongnam** (1):   Seongnam Ilhwa Chunma
-- **city:seoul** (1):   FC Seoul
-- **city:suwon** (1):   Suwon Bluewings
-- **city:ulsan** (1):   Ulsan Hyundai
+- **city:busan†** (1):   Busan I'Park
+- **city:gwangyang†** (1):   Chunnam Dragons
+- **city:daegu†** (1):   Daegu FC
+- **city:daejeon†** (1):   Daejeon Citizen
+- **city:gangneung†** (1):   Gangwon FC
+- **city:changwon†** (1):   Gyeongnam FC
+- **city:incheon†** (1):   Incheon United
+- **city:seogwipo†** (1):   Jeju United
+- **city:jeonju†** (1):   Jeonbuk Motors
+- **city:pohang†** (1):   Pohang Steelers
+- **city:seongnam†** (1):   Seongnam Ilhwa Chunma
+- **city:seoul†** (1):   FC Seoul
+- **city:suwon†** (1):   Suwon Bluewings
+- **city:ulsan†** (1):   Ulsan Hyundai
 
 
 

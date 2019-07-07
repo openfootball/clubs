@@ -27,7 +27,7 @@ By City
 
 By Region
 
-- **Tiraspol** (1):   FC Sheriff Tiraspol
+- **Tiraspol†** (1):   FC Sheriff Tiraspol
 
 
 

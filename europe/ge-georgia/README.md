@@ -27,7 +27,7 @@ By City
 
 By Region
 
-- **Tbilisi** (1):   FC Dinamo Tbilisi
+- **Tbilisi†** (1):   FC Dinamo Tbilisi
 
 
 

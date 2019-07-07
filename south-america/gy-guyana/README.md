@@ -14,7 +14,7 @@ By City
 
 By Region
 
-- **Providence** (1):   Alpha United FC
+- **Providence†** (1):   Alpha United FC
 
 
 

@@ -51,8 +51,8 @@ By City
 
 By Region
 
-- **București** (3):   FC Steaua București • FC Dinamo București • Rapid București
-- **Cluj** (2):   CFR Cluj • U Cluj
+- **București†** (3):   FC Steaua București • FC Dinamo București • Rapid București
+- **Cluj†** (2):   CFR Cluj • U Cluj
 
 
 

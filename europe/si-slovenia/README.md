@@ -31,7 +31,7 @@ By City
 
 By Region
 
-- **Maribor** (1):   NK Maribor
+- **Maribor†** (1):   NK Maribor
 
 
 

@@ -49,22 +49,22 @@ By City
 
 By Region
 
-- **Caracas** (3):   Caracas FC • Deportivo La Guaira • Deportivo Petare
-- **San Cristóbal** (1):   Deportivo Táchira
-- **Barinas** (1):   Zamora FC
-- **Barquisimeto** (1):   Deportivo Lara
-- **Puerto La Cruz** (1):   Deportivo Anzoátegui
-- **Ciudad Guayana** (1):   AC Mineros
-- **El Vigía** (1):   Atlético El Vigía
-- **Guanare** (1):   Llaneros FC
-- **Maiquetía** (1):   Atlético Venezuela
-- **Maracaibo** (1):   Zulia FC
-- **Maracay** (1):   Aragua FC
-- **Mérida** (1):   Estudiantes de Mérida
-- **Puerto Ayacucho** (1):   Tucanes FC
-- **San Felipe** (1):   Yaracuyanos FC
-- **Valencia** (1):   Carabobo FC
-- **Valera** (1):   Trujillanos FC
+- **Caracas†** (3):   Caracas FC • Deportivo La Guaira • Deportivo Petare
+- **San Cristóbal†** (1):   Deportivo Táchira
+- **Barinas†** (1):   Zamora FC
+- **Barquisimeto†** (1):   Deportivo Lara
+- **Puerto La Cruz†** (1):   Deportivo Anzoátegui
+- **Ciudad Guayana†** (1):   AC Mineros
+- **El Vigía†** (1):   Atlético El Vigía
+- **Guanare†** (1):   Llaneros FC
+- **Maiquetía†** (1):   Atlético Venezuela
+- **Maracaibo†** (1):   Zulia FC
+- **Maracay†** (1):   Aragua FC
+- **Mérida†** (1):   Estudiantes de Mérida
+- **Puerto Ayacucho†** (1):   Tucanes FC
+- **San Felipe†** (1):   Yaracuyanos FC
+- **Valencia†** (1):   Carabobo FC
+- **Valera†** (1):   Trujillanos FC
 
 
 

@@ -33,8 +33,8 @@ By City
 
 By Region
 
-- **Reykjavík** (1):   KR Reykjavík
-- **Akranes** (1):   ÍA Akranes
+- **Reykjavík†** (1):   KR Reykjavík
+- **Akranes†** (1):   ÍA Akranes
 
 
 

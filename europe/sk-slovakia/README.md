@@ -29,7 +29,7 @@ By City
 
 By Region
 
-- **Bratislava** (1):   ŠK Slovan Bratislava
+- **Bratislava†** (1):   ŠK Slovan Bratislava
 
 
 

@@ -142,12 +142,12 @@ By City
 - **Berlin, Berlin** (6): 
   - Hertha BSC  (2) Hertha • Hertha Berliner Sport-Club
   - Tennis Borussia Berlin  (2) TB Berlin • TeBe Berlin
-  - 1. FC Union Berlin  (1) Union Berlin
+  - \1. FC Union Berlin  (1) Union Berlin
   - Blau-Weiß 90 Berlin (-1992)  (2) Blau-Weiß 90 Berlin • Blau-Weiss 90 Berlin
   - SC Tasmania 1900 Berlin (-1973)  (3) SC Tasmania 1900 Berlin • Tasmania 1900 Berlin • Tasmania Berlin
   - BFC Dynamo Berlin  (1) BFC Dynamo
 - **Köln, Nordrhein-Westfalen** (3): 
-  - 1. FC Köln  (2) FC Koln • 1. FC Koeln
+  - \1. FC Köln  (2) FC Koln • 1. FC Koeln
   - Fortuna Köln  (4) F Koln • Fortuna Koeln • SC Fortuna Köln • Sportclub Fortuna Köln
   - FC Viktoria Köln 
 - **Stuttgart, Baden-Württemberg** (3): 
@@ -173,8 +173,8 @@ By City
   - RB Leipzig 
   - VfB Leipzig (-2004)  (2) VfB Leipzig • Leipzig
 - **Mainz, Rheinland-Pfalz** (2): 
-  - 1. FSV Mainz 05  (2) Mainz • FSV Mainz 05
-  - 1. FSV Mainz 05 II 
+  - \1. FSV Mainz 05  (2) Mainz • FSV Mainz 05
+  - \1. FSV Mainz 05 II 
 - **Mannheim, Baden-Württemberg** (2): 
   - VfR Mannheim  (1) Mannheim
   - SV Waldhof Mannheim  (2) Waldhof Mannheim • SV Waldhof Mannheim 07
@@ -281,9 +281,9 @@ By City
   - VfR Neumünster 
   - TSG Neustrelitz 
   - FC Schönberg 95 
-  - 1. FC Neubrandenburg 04 
+  - \1. FC Neubrandenburg 04 
   - Hallescher FC  (1) Halle
-  - 1. FC Magdeburg 
+  - \1. FC Magdeburg 
   - SV Schott Jena 
 
 

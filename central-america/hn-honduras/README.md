@@ -24,8 +24,8 @@ By City
 
 By Region
 
-- **city:tegucigalpa** (2):   CD Olimpia • CD Motagua
-- **city:sanpedrosula** (2):   CD Marathón • Real CD España
+- **city:tegucigalpa†** (2):   CD Olimpia • CD Motagua
+- **city:sanpedrosula†** (2):   CD Marathón • Real CD España
 
 
 

@@ -33,8 +33,8 @@ By City
 
 By Region
 
-- **Helsinki** (1):   HJK Helsinki
-- **Valkeakoski** (1):   FC Haka Valkeakoski
+- **Helsinki†** (1):   HJK Helsinki
+- **Valkeakoski†** (1):   FC Haka Valkeakoski
 
 
 

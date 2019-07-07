@@ -91,11 +91,13 @@ By City
 
 By Region
 
-- **Buenos Aires** (23):   All Boys • Argentinos Juniors • Boca Juniors • River Plate • San Lorenzo • Vélez Sarsfield • Huracán • Nueva Chicago • CA Tigre • CA Independiente de Avellaneda • Racing Club • Quilmes AC • CA Lanús • Arsenal de Sarandí • Estudiantes LP • Gimnasia y Esgrima • Club Atlético Aldosivi • Club Atlético Banfield • Defensa y Justicia • Olimpo Bahía Blanca • Sarmiento Junín • Temperley • Chacarita Juniors
-- **Santa Fe** (5):   Colón Santa Fe • Unión Santa Fe • Newell's Old Boys • Rosario Central • Atlético Rafaela
-- **Córdoba** (2):   Club Atlético Belgrano • Talleres de Córdoba
-- **Mendoza** (1):   Godoy Cruz
-- **San Juan** (1):   San Martín
+- **Buenos Aires†** (8):   All Boys • Argentinos Juniors • Boca Juniors • River Plate • San Lorenzo • Vélez Sarsfield • Huracán • Nueva Chicago
+- **Buenos Aires** (15):   CA Tigre • CA Independiente de Avellaneda • Racing Club • Quilmes AC • CA Lanús • Arsenal de Sarandí • Estudiantes LP • Gimnasia y Esgrima • Club Atlético Aldosivi • Club Atlético Banfield • Defensa y Justicia • Olimpo Bahía Blanca • Sarmiento Junín • Temperley • Chacarita Juniors
+- **Santa Fe†** (2):   Colón Santa Fe • Unión Santa Fe
+- **Santa Fe** (3):   Newell's Old Boys • Rosario Central • Atlético Rafaela
+- **Córdoba†** (2):   Club Atlético Belgrano • Talleres de Córdoba
+- **Mendoza†** (1):   Godoy Cruz
+- **San Juan†** (1):   San Martín
 - **Tucumán** (2):   Atlético Tucumán • San Martín de Tucumán
 - **Entre Ríos** (1):   Patronato
 - **Misiones** (1):   Crucero del Norte

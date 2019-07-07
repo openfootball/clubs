@@ -32,7 +32,7 @@ By City
 
 By Region
 
-- **Tirana** (3):   KF Tirana • FK Partizani Tirana • FK Dinamo Tirana
+- **Tirana†** (3):   KF Tirana • FK Partizani Tirana • FK Dinamo Tirana
 
 
 

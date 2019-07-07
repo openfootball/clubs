@@ -23,9 +23,9 @@ By City
 
 By Region
 
-- **Santiago** (3):   Universidad de Chile • Universidad Católica • Unión Española
-- **Talcahuano** (1):   CD Huachipato
-- **Iquique** (1):   Deportes Iquique
+- **Santiago†** (3):   Universidad de Chile • Universidad Católica • Unión Española
+- **Talcahuano†** (1):   CD Huachipato
+- **Iquique†** (1):   Deportes Iquique
 
 
 

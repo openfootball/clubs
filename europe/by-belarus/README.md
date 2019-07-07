@@ -31,7 +31,7 @@ By City
 
 By Region
 
-- **Barysaw** (1):   FC BATE Borisov
+- **Barysaw†** (1):   FC BATE Borisov
 
 
 

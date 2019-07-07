@@ -26,9 +26,9 @@ By City
 
 By Region
 
-- **Quito** (3):   Deportivo Quito • El Nacional • LDU Quito
-- **Guayaquil** (2):   CS Emelec • Barcelona Guayaquil
-- **Loja** (1):   LDU Loja
+- **Quito†** (3):   Deportivo Quito • El Nacional • LDU Quito
+- **Guayaquil†** (2):   CS Emelec • Barcelona Guayaquil
+- **Loja†** (1):   LDU Loja
 
 
 

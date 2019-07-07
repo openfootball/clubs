@@ -77,24 +77,24 @@ By Region
 - **Noord-Brabant** (1):   FC Den Bosch
 - **Limburg** (1):   Fortuna Sittard
 - **Overijssel** (1):   Go Ahead Eagles
-- **Doetinchem** (1):   BV De Graafschap
-- **Groningen** (1):   FC Groningen
-- **Heerenveen** (1):   SC Heerenveen
-- **Almelo** (1):   Heracles Almelo
-- **Maastricht** (1):   MVV Maastricht
-- **Breda** (1):   NAC Breda
-- **Nijmegen** (1):   NEC Nijmegen
-- **Eindhoven** (1):   PSV Eindhoven
-- **Kerkrade** (1):   Roda JC Kerkrade
-- **Roosendaal** (1):   RBC Roosendaal
-- **Enschede** (1):   FC Twente
-- **Utrecht** (1):   FC Utrecht
-- **Venlo** (1):   VVV Venlo
-- **Arnhem** (1):   Vitesse Arnhem
-- **Volendam** (1):   FC Volendam
-- **Waalwijk** (1):   RKC Waalwijk
-- **Tilburg** (1):   Willem II Tilburg
-- **Zwolle** (1):   PEC Zwolle
+- **Doetinchem†** (1):   BV De Graafschap
+- **Groningen†** (1):   FC Groningen
+- **Heerenveen†** (1):   SC Heerenveen
+- **Almelo†** (1):   Heracles Almelo
+- **Maastricht†** (1):   MVV Maastricht
+- **Breda†** (1):   NAC Breda
+- **Nijmegen†** (1):   NEC Nijmegen
+- **Eindhoven†** (1):   PSV Eindhoven
+- **Kerkrade†** (1):   Roda JC Kerkrade
+- **Roosendaal†** (1):   RBC Roosendaal
+- **Enschede†** (1):   FC Twente
+- **Utrecht†** (1):   FC Utrecht
+- **Venlo†** (1):   VVV Venlo
+- **Arnhem†** (1):   Vitesse Arnhem
+- **Volendam†** (1):   FC Volendam
+- **Waalwijk†** (1):   RKC Waalwijk
+- **Tilburg†** (1):   Willem II Tilburg
+- **Zwolle†** (1):   PEC Zwolle
 
 
 

@@ -14,7 +14,7 @@ By City
 
 By Region
 
-- **Bayamón** (1):   Puerto Rico Islanders
+- **Bayamón†** (1):   Puerto Rico Islanders
 
 
 

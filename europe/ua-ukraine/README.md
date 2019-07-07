@@ -33,10 +33,10 @@ By City
 
 By Region
 
-- **Kyiv** (2):   FC Dynamo Kyiv • FC Arsenal Kyiv
-- **Donetsk** (2):   FC Shakhtar Donetsk • FC Metalurh Donetsk
-- **city:kharkov** (1):   FC Metalist Kharkiv
-- **city:dnipropetrovsk** (1):   FC Dnipro
+- **Kyiv†** (2):   FC Dynamo Kyiv • FC Arsenal Kyiv
+- **Donetsk†** (2):   FC Shakhtar Donetsk • FC Metalurh Donetsk
+- **city:kharkov†** (1):   FC Metalist Kharkiv
+- **city:dnipropetrovsk†** (1):   FC Dnipro
 
 
 

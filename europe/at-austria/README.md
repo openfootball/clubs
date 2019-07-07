@@ -46,7 +46,7 @@ By City
 
 By Region
 
-- **Wien** (3):   FK Austria Wien • SK Rapid Wien • Wiener Sport-Club
+- **Wien†** (3):   FK Austria Wien • SK Rapid Wien • Wiener Sport-Club
 - **Burgenland** (1):   SV Mattersburg
 - **Niederösterreich** (3):   FC Admira Wacker Mödling • SC Wiener Neustadt • SKN St. Pölten
 - **Oberösterreich** (3):   LASK Linz • FC Stahl Linz • SV Ried

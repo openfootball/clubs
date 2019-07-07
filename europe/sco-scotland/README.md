@@ -104,43 +104,43 @@ By City
 
 By Region
 
-- **Glasgow** (4):   Celtic FC • Rangers FC • Partick Thistle • Queen's Park
-- **Edinburgh** (3):   Heart of Midlothian FC • Hibernian FC • Edinburgh City
-- **Aberdeen** (1):   Aberdeen FC
-- **Dundee** (2):   Dundee FC • Dundee United
-- **Hamilton** (1):   Hamilton Academical FC
-- **Kilmarnock** (1):   Kilmarnock FC
-- **Motherwell** (1):   Motherwell FC
-- **Dingwall** (1):   Ross County FC
-- **Perth** (1):   St Johnstone FC
-- **Brechin** (1):   Brechin City
-- **Dumbarton** (1):   Dumbarton
-- **Dunfermline** (1):   Dunfermline Athletic
-- **Falkirk** (2):   Falkirk • East Stirlingshire FC
-- **Greenock** (1):   Greenock Morton
-- **Inverness** (1):   Inverness Caledonian Thistle
-- **Livingston** (1):   Livingston FC
-- **Dumfries** (1):   Queen of the South
-- **Paisley** (1):   Saint Mirren FC
-- **Airdrie** (1):   Airdrieonians
-- **Coatbridge** (1):   Albion Rovers
-- **Alloa** (1):   Alloa Athletic
-- **Arbroath** (1):   Arbroath
-- **Ayr** (1):   Ayr United
-- **Methil** (1):   East Fife
-- **Forfar** (1):   Forfar Athletic
-- **Kirkcaldy** (1):   Raith Rovers
-- **Stranraer** (1):   Stranraer
-- **Annan** (1):   Annan Athletic
-- **Cumbernauld** (1):   Clyde
-- **Cowdenbeath** (1):   Cowdenbeath
-- **Elgin** (1):   Elgin City
-- **Montrose** (1):   Montrose
-- **Peterhead** (1):   Peterhead
-- **Stenhousemuir** (1):   Stenhousemuir
-- **Stirling** (1):   Stirling Albion
-- **Clydebank** (1):   Clydebank FC
-- **Gretna** (1):   Gretna FC
+- **Glasgow†** (4):   Celtic FC • Rangers FC • Partick Thistle • Queen's Park
+- **Edinburgh†** (3):   Heart of Midlothian FC • Hibernian FC • Edinburgh City
+- **Aberdeen†** (1):   Aberdeen FC
+- **Dundee†** (2):   Dundee FC • Dundee United
+- **Hamilton†** (1):   Hamilton Academical FC
+- **Kilmarnock†** (1):   Kilmarnock FC
+- **Motherwell†** (1):   Motherwell FC
+- **Dingwall†** (1):   Ross County FC
+- **Perth†** (1):   St Johnstone FC
+- **Brechin†** (1):   Brechin City
+- **Dumbarton†** (1):   Dumbarton
+- **Dunfermline†** (1):   Dunfermline Athletic
+- **Falkirk†** (2):   Falkirk • East Stirlingshire FC
+- **Greenock†** (1):   Greenock Morton
+- **Inverness†** (1):   Inverness Caledonian Thistle
+- **Livingston†** (1):   Livingston FC
+- **Dumfries†** (1):   Queen of the South
+- **Paisley†** (1):   Saint Mirren FC
+- **Airdrie†** (1):   Airdrieonians
+- **Coatbridge†** (1):   Albion Rovers
+- **Alloa†** (1):   Alloa Athletic
+- **Arbroath†** (1):   Arbroath
+- **Ayr†** (1):   Ayr United
+- **Methil†** (1):   East Fife
+- **Forfar†** (1):   Forfar Athletic
+- **Kirkcaldy†** (1):   Raith Rovers
+- **Stranraer†** (1):   Stranraer
+- **Annan†** (1):   Annan Athletic
+- **Cumbernauld†** (1):   Clyde
+- **Cowdenbeath†** (1):   Cowdenbeath
+- **Elgin†** (1):   Elgin City
+- **Montrose†** (1):   Montrose
+- **Peterhead†** (1):   Peterhead
+- **Stenhousemuir†** (1):   Stenhousemuir
+- **Stirling†** (1):   Stirling Albion
+- **Clydebank†** (1):   Clydebank FC
+- **Gretna†** (1):   Gretna FC
 
 
 

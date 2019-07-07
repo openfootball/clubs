@@ -14,7 +14,7 @@ By City
 
 By Region
 
-- **Casablanca** (1):   Raja Casablanca
+- **Casablanca†** (1):   Raja Casablanca
 
 
 

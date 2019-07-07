@@ -67,26 +67,26 @@ By City
 
 By Region
 
-- **İstanbul** (5):   Fenerbahçe İstanbul SK • Galatasaray İstanbul AŞ • Beşiktaş İstanbul JK • Kasımpaşa İstanbul SK • İstanbul Başakşehir
-- **Ankara** (2):   Gençlerbirliği Ankara SK • Osmanlıspor Ankara
-- **Karabük** (1):   Kardemir Karabükspor
-- **Elazığ** (1):   Elazığspor
-- **Eskişehir** (1):   Eskişehirspor
-- **Akhisar** (1):   Akhisar Belediyespor
-- **Alanya** (1):   Alanyaspor
-- **Antalya** (1):   Antalyaspor
-- **Bursa** (1):   Bursaspor
-- **İzmir** (1):   Göztepe Izmir
-- **Kayseri** (2):   Kayserispor • Kayseri Erciyesspor
-- **Konya** (1):   Konyaspor
-- **Sivas** (1):   Sivasspor
-- **Trabzon** (1):   Trabzonspor AŞ
-- **Malatya** (1):   Yeni Malatyaspor
-- **Adana** (1):   Adanaspor
-- **Gaziantep** (1):   Gaziantepspor
-- **Rize** (1):   Çaykur Rizespor
-- **Balıkesir** (1):   Balıkesirspor
-- **Mersin** (1):   Mersin İdmanyurdu
+- **İstanbul†** (5):   Fenerbahçe İstanbul SK • Galatasaray İstanbul AŞ • Beşiktaş İstanbul JK • Kasımpaşa İstanbul SK • İstanbul Başakşehir
+- **Ankara†** (2):   Gençlerbirliği Ankara SK • Osmanlıspor Ankara
+- **Karabük†** (1):   Kardemir Karabükspor
+- **Elazığ†** (1):   Elazığspor
+- **Eskişehir†** (1):   Eskişehirspor
+- **Akhisar†** (1):   Akhisar Belediyespor
+- **Alanya†** (1):   Alanyaspor
+- **Antalya†** (1):   Antalyaspor
+- **Bursa†** (1):   Bursaspor
+- **İzmir†** (1):   Göztepe Izmir
+- **Kayseri†** (2):   Kayserispor • Kayseri Erciyesspor
+- **Konya†** (1):   Konyaspor
+- **Sivas†** (1):   Sivasspor
+- **Trabzon†** (1):   Trabzonspor AŞ
+- **Malatya†** (1):   Yeni Malatyaspor
+- **Adana†** (1):   Adanaspor
+- **Gaziantep†** (1):   Gaziantepspor
+- **Rize†** (1):   Çaykur Rizespor
+- **Balıkesir†** (1):   Balıkesirspor
+- **Mersin†** (1):   Mersin İdmanyurdu
 
 
 

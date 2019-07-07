@@ -49,7 +49,7 @@ By City
 
 By Region
 
-- **Tokyo** (1):   FC Tokyo
+- **Tokyo†** (1):   FC Tokyo
 
 
 

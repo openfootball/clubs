@@ -45,19 +45,19 @@ By City
 
 By Region
 
-- **Praha** (4):   AC Sparta Praha • FK Dukla Praha • SK Slavia Praha • Bohemians Praha 1905
-- **Mladá Boleslav** (1):   FK Mladá Boleslav
-- **Příbram** (1):   1. FK Příbram
-- **Plzeň** (1):   Viktoria Plzeň
-- **Liberec** (1):   FC Slovan Liberec
-- **Jablonec nad Nisou** (1):   FK Jablonec
-- **Ostrava** (1):   FC Baník Ostrava
-- **Olomouc** (1):   SK Sigma Olomouc
-- **Teplice** (1):   FK Teplice
-- **Uherské Hradiště** (1):   1. FC Slovácko
-- **Zlín** (1):   FC Zlín
-- **Jihlava** (1):   FC Vysočina Jihlava
-- **Brno** (1):   FC Zbrojovka Brno
+- **Praha†** (4):   AC Sparta Praha • FK Dukla Praha • SK Slavia Praha • Bohemians Praha 1905
+- **Mladá Boleslav†** (1):   FK Mladá Boleslav
+- **Příbram†** (1):   1. FK Příbram
+- **Plzeň†** (1):   Viktoria Plzeň
+- **Liberec†** (1):   FC Slovan Liberec
+- **Jablonec nad Nisou†** (1):   FK Jablonec
+- **Ostrava†** (1):   FC Baník Ostrava
+- **Olomouc†** (1):   SK Sigma Olomouc
+- **Teplice†** (1):   FK Teplice
+- **Uherské Hradiště†** (1):   1. FC Slovácko
+- **Zlín†** (1):   FC Zlín
+- **Jihlava†** (1):   FC Vysočina Jihlava
+- **Brno†** (1):   FC Zbrojovka Brno
 
 
 

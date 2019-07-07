@@ -58,21 +58,21 @@ By City
 
 By Region
 
-- **Dublin** (5):   Shamrock Rovers FC • Bohemian F.C. • St Patrick's Athletic F.C. • University College Dublin A.F.C. • Shelbourne F.C.
-- **Athlone** (1):   Athlone Town A.F.C.
-- **Bray** (1):   Bray Wanderers F.C.
-- **Cobh** (1):   Cobh Ramblers F.C.
-- **Cork** (1):   Cork City F.C.
-- **Derry** (1):   Derry City F.C.
-- **Drogheda** (1):   Drogheda United F.C.
-- **Dundalk** (1):   Dundalk F.C.
-- **Ballybofey** (1):   Finn Harps F.C.
-- **Galway** (1):   Galway United F.C.
-- **Limerick** (1):   Limerick F.C.
-- **Longford** (1):   Longford Town F.C.
-- **Sligo** (1):   Sligo Rovers F.C.
-- **Waterford** (1):   Waterford F.C.
-- **Crossabeg** (1):   Wexford F.C.
+- **Dublin†** (5):   Shamrock Rovers FC • Bohemian F.C. • St Patrick's Athletic F.C. • University College Dublin A.F.C. • Shelbourne F.C.
+- **Athlone†** (1):   Athlone Town A.F.C.
+- **Bray†** (1):   Bray Wanderers F.C.
+- **Cobh†** (1):   Cobh Ramblers F.C.
+- **Cork†** (1):   Cork City F.C.
+- **Derry†** (1):   Derry City F.C.
+- **Drogheda†** (1):   Drogheda United F.C.
+- **Dundalk†** (1):   Dundalk F.C.
+- **Ballybofey†** (1):   Finn Harps F.C.
+- **Galway†** (1):   Galway United F.C.
+- **Limerick†** (1):   Limerick F.C.
+- **Longford†** (1):   Longford Town F.C.
+- **Sligo†** (1):   Sligo Rovers F.C.
+- **Waterford†** (1):   Waterford F.C.
+- **Crossabeg†** (1):   Wexford F.C.
 
 
 

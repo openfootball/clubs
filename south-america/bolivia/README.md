@@ -23,10 +23,10 @@ By City
 
 By Region
 
-- **La Paz** (2):   Club Bolívar • The Strongest
-- **Potosí** (1):   Real Potosí
-- **Oruro** (1):   Club Deportivo San José
-- **Santa Cruz de la Sierra** (1):   Club Deportivo Oriente Petrolero
+- **La Paz†** (2):   Club Bolívar • The Strongest
+- **Potosí†** (1):   Real Potosí
+- **Oruro†** (1):   Club Deportivo San José
+- **Santa Cruz de la Sierra†** (1):   Club Deportivo Oriente Petrolero
 
 
 

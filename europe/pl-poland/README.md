@@ -29,8 +29,8 @@ By City
 
 By Region
 
-- **Warszawa** (1):   Legia Warszawa
-- **Zabrze** (1):   Górnik Zabrze
+- **Warszawa†** (1):   Legia Warszawa
+- **Zabrze†** (1):   Górnik Zabrze
 
 
 

@@ -25,8 +25,8 @@ By City
 
 By Region
 
-- **Valletta** (1):   Valletta FC
-- **Sliema** (1):   Sliema Wanderers FC
+- **Valletta†** (1):   Valletta FC
+- **Sliema†** (1):   Sliema Wanderers FC
 
 
 

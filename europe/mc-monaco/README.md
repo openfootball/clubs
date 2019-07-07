@@ -14,7 +14,7 @@ By City
 
 By Region
 
-- **Monaco** (1):   AS Monaco
+- **Monaco†** (1):   AS Monaco
 
 
 

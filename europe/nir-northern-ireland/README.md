@@ -26,7 +26,7 @@ By City
 
 By Region
 
-- **Belfast** (2):   Linfield FC • Glentoran FC
+- **Belfast†** (2):   Linfield FC • Glentoran FC
 
 
 

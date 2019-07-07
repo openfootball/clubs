@@ -62,7 +62,7 @@ By City
 
 By Region
 
-- **Ciudad de México** (3):   Club América • Cruz Azul • Pumas UNAM
+- **Ciudad de México†** (3):   Club América • Cruz Azul • Pumas UNAM
 - **Jalisco** (3):   CD Guadalajara Chivas • Club Atlas • Leones Negros U. de G.
 - **Nuevo León** (2):   CF Monterrey • Tigres UANL
 - **Puebla** (2):   Lobos BUAP • Club Puebla

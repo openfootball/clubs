@@ -25,11 +25,11 @@ By City
 
 By Region
 
-- **Lima** (2):   Alianza Lima • Sporting Cristal
-- **Chiclayo** (1):   Juan Aurich
-- **Huancayo** (1):   Sport Huancayo
-- **Cusco** (1):   Real Garcilaso
-- **Trujillo** (1):   Universidad César Vallejo
+- **Lima†** (2):   Alianza Lima • Sporting Cristal
+- **Chiclayo†** (1):   Juan Aurich
+- **Huancayo†** (1):   Sport Huancayo
+- **Cusco†** (1):   Real Garcilaso
+- **Trujillo†** (1):   Universidad César Vallejo
 
 
 

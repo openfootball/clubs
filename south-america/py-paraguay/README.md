@@ -21,7 +21,7 @@ By City
 
 By Region
 
-- **Asunción** (4):   Libertad Ascunción • Club Olimpia • Club Nacional • Cerro Porteño
+- **Asunción†** (4):   Libertad Ascunción • Club Olimpia • Club Nacional • Cerro Porteño
 
 
 

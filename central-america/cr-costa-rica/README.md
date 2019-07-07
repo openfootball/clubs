@@ -18,8 +18,8 @@ By City
 
 By Region
 
-- **city:alajuela** (1):   LD Alajuelense
-- **city:heredia** (1):   CS Herediano
+- **city:alajuela†** (1):   LD Alajuelense
+- **city:heredia†** (1):   CS Herediano
 
 
 

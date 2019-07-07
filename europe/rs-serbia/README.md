@@ -32,7 +32,7 @@ By City
 
 By Region
 
-- **Belgrade** (2):   Red Star Belgrade • FK Partizan Belgrade
+- **Belgrade†** (2):   Red Star Belgrade • FK Partizan Belgrade
 
 
 

@@ -45,10 +45,10 @@ By City
 
 By Region
 
-- **Montevideo** (13):   Liverpool Montevideo • Nacional de Montevideo • Defensor Sporting • CA Peñarol • CA Cerro • Danubio FC • El Tanque Sisley • Centro Atlético Fénix • CS Miramar Misiones • Montevideo Wanderers • Racing CM • CA Rentistas • CA River Plate
-- **Las Piedras** (1):   Juventud de Las Piedras
-- **Melo** (1):   Cerro Largo
-- **San José** (1):   Sud América
+- **Montevideo†** (13):   Liverpool Montevideo • Nacional de Montevideo • Defensor Sporting • CA Peñarol • CA Cerro • Danubio FC • El Tanque Sisley • Centro Atlético Fénix • CS Miramar Misiones • Montevideo Wanderers • Racing CM • CA Rentistas • CA River Plate
+- **Las Piedras†** (1):   Juventud de Las Piedras
+- **Melo†** (1):   Cerro Largo
+- **San José†** (1):   Sud América
 
 
 

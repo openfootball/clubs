@@ -86,22 +86,22 @@ By City
 
 By Region
 
-- **Brussels** (3):   RSC Anderlecht • FC Brussels • RWD Molenbeek
+- **Brussels†** (3):   RSC Anderlecht • FC Brussels • RWD Molenbeek
 - **Antwerpen › Vlaanderen** (5):   Royal Antwerp FC • Germinal Beerschot • KV Mechelen • KVC Westerlo • K Lierse SK
 - **Hainaut › Wallonie** (3):   Sporting Charleroi • Royal Excel Mouscron • RAEC Mons
 - **Liège › Wallonie** (2):   KAS Eupen • Standard Liège
 - **Limburg › Vlaanderen** (2):   KRC Genk • Sint-Truidense VV
 - **Oost-Vlaanderen › Vlaanderen** (6):   KAA Gent • KSC Lokeren OV • SC Eendracht Aalst • FCV Dender EH • Waasland-Beveren • KSK Beveren
 - **West-Vlaanderen › Vlaanderen** (5):   Club Brugge • Cercle Brugge • KV Kortrijk • KV Oostende • SV Zulte Waregem
-- **Geel** (1):   KFC Verbroedering Geel
-- **Harelbeke** (1):   KRC Harelbeke
-- **Heusden-Zolder** (1):   K Heusden-Zolder
-- **Lommel** (1):   KFC Lommel SK
-- **La Louvière** (1):   RAA Louviéroise
-- **Roeselare** (1):   KSV Roeselare
-- **Seraing** (1):   RFC Seraing
-- **Tubize** (1):   AFC Tubize
-- **Leuven** (1):   Oud-Heverlee Leuven
+- **Geel†** (1):   KFC Verbroedering Geel
+- **Harelbeke†** (1):   KRC Harelbeke
+- **Heusden-Zolder†** (1):   K Heusden-Zolder
+- **Lommel†** (1):   KFC Lommel SK
+- **La Louvière†** (1):   RAA Louviéroise
+- **Roeselare†** (1):   KSV Roeselare
+- **Seraing†** (1):   RFC Seraing
+- **Tubize†** (1):   AFC Tubize
+- **Leuven†** (1):   Oud-Heverlee Leuven
 
 
 

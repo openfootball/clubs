@@ -23,9 +23,9 @@ By City
 
 By Region
 
-- **city:metapan** (1):   I. Metapán
-- **city:sansalvador** (2):   Club Deportivo Águila • Alianza FC
-- **city:santaana** (1):   Club Deportivo FAS
+- **city:metapan†** (1):   I. Metapán
+- **city:sansalvador†** (2):   Club Deportivo Águila • Alianza FC
+- **city:santaana†** (1):   Club Deportivo FAS
 
 
 

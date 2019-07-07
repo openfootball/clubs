@@ -35,7 +35,7 @@ By City
 
 By Region
 
-- **Budapest** (1):   Ferencvárosi TC
+- **Budapest†** (1):   Ferencvárosi TC
 
 
 
