@@ -81,16 +81,16 @@ By City
 - **Bastia** (2): 
   - SC Bastia  (2) Bastia • Sporting Club de Bastia
   - CA Bastia  (1) CA Bastia
-- **Paris › Île-de-France** (2): 
+- **Paris, Île-de-France** (2): 
   - Paris Saint-Germain  (5) Paris SG • Paris St. Germain • Paris S.Germain • Paris Saint Germain • Paris-Saint-Germain Football Club,
   - Paris FC 
-- **Amiens › Hauts-de-France** (1): Amiens SC  (1) Amiens
-- **Angers › Pays de la Loire** (1): Angers SCO  (2) Angers • Angers Sporting Club de l'Ouest
+- **Amiens, Hauts-de-France** (1): Amiens SC  (1) Amiens
+- **Angers, Pays de la Loire** (1): Angers SCO  (2) Angers • Angers Sporting Club de l'Ouest
 - **Auxerre** (1): AJ Auxerre  (2) Auxerre • Association de la Jeunesse Auxerroise
 - **Avignon** (1): AC Arles-Avignon  (3) Arles • AC Arles Avignon • Athletic Club Arles-Avignon
 - **Beauvais Oise** (1): AS Beauvais Oise  (1) Beauvais
 - **Besançon** (1): Racing Besançon  (2) Besancon • Besançon RC
-- **Bordeaux › Nouvelle-Aquitaine** (1): Girondins de Bordeaux  (3) Bordeaux • FC Girondins de Bordeaux • Football Club des Girondins de Bordeaux
+- **Bordeaux, Nouvelle-Aquitaine** (1): Girondins de Bordeaux  (3) Bordeaux • FC Girondins de Bordeaux • Football Club des Girondins de Bordeaux
 - **Boulogne-sur-Mer** (1): US Boulogne  (1) Boulogne
 - **Bourg-en-Bresse** (1): Bourg-en-Bresse 01  (1) Bourg Peronnas
 - **Brest** (1): Stade Brestois 29  (2) Brest • Stade Brestois
@@ -132,7 +132,7 @@ By City
 - **Rennes** (1): Stade Rennais FC  (2) Rennes • Stade Rennais Football Club
 - **Rouen** (1): FC Rouen  (1) Rouen
 - **Saint-Brieuc** (1): Stade Briochin  (1) St Brieuc
-- **Saint-Ouen › Île-de-France** (1): Red Star FC  (2) Red Star • Red Star 93
+- **Saint-Ouen, Île-de-France** (1): Red Star FC  (2) Red Star • Red Star 93
 - **Saint-Étienne** (1): AS Saint-Étienne  (3) St Etienne • AS Saint-Etienne • Association Sportive de Saint-Étienne Loire
 - **Sedan** (1): CS Sedan-Ardennes  (1) Sedan
 - **Strasbourg** (1): RC Strasbourg  (1) Strasbourg

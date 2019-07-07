@@ -5,7 +5,7 @@
 
 
 Arsenal FC, 1886, @ Emirates Stadium, London   ## Greater London
-  | Arsenal | FC Arsenal  
+  | Arsenal | FC Arsenal
 Chelsea FC, 1905, @ Stamford Bridge, London   ## Greater London
   | Chelsea | FC Chelsea
 
@@ -13,9 +13,9 @@ Tottenham Hotspur FC, 1882, @ White Hart Lane, London   ## Greater London
   | Tottenham | Tottenham Hotspur | Spurs
 West Ham United FC, 1895, @ Boleyn Ground, London   ## Greater London
   | West Ham  | West Ham United
-Fulham FC, 1879,  @ Craven Cottage,  London   ## London (Fulham), Greater London
+Fulham FC, 1879,  @ Craven Cottage,  London (Fulham)   ## London (Fulham), Greater London
   | Fulham | FC Fulham
-Charlton Athletic FC,  @ The Valley,  London      ##   London (Charlton), Greater London
+Charlton Athletic FC,  @ The Valley,  London (Charlton)      ##   London (Charlton), Greater London
   | Charlton | Charlton Athletic
 Crystal Palace FC, 1905, @ Selhurst Park, London   ## Greater London
   | Crystal Palace | C Palace | Palace | Crystal P
@@ -27,9 +27,9 @@ AFC Wimbledon,      @ Kingsmeadow,   London   ##  London (Norbiton ??)  or Londo
 
 Queens Park Rangers FC, 1882,  @ Loftus Road, London   ## Greater London
   | QPR | Queens Park Rangers
-Millwall FC,      @ The Den,     London        # London (South Bermondsey) or  London-South Bermondsey
+Millwall FC,      @ The Den,     London (South Bermondsey)        # London (South Bermondsey) or  London-South Bermondsey
   | Millwall
-Brentford FC,        @ Griffin Park,  London        #  London (Brentford)  or London-Brentford, Greater London
+Brentford FC,        @ Griffin Park,  London (Brentford)        #  London (Brentford)  or London-Brentford, Greater London
   | Brentford
 Leyton Orient FC,     @ Brisbane Road,  London  ##   London (Leyton) or London-Leyton
   | Leyton Orient

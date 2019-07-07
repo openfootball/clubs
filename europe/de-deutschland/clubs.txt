@@ -61,7 +61,7 @@ Bor. Mönchengladbach, 1900, Mönchengladbach › Nordrhein-Westfalen
 
 VfL Bochum, 1938,            Bochum › Nordrhein-Westfalen
   | Bochum | VfL Bochum 1848
-SG Wattenscheid 09,    Bochum › Nordrhein-Westfalen   ## Bochum-Wattenscheid - Bochumer Stadtbezirk
+SG Wattenscheid 09,    Bochum (Wattenscheid) › Nordrhein-Westfalen   ## Bochum-Wattenscheid - Bochumer Stadtbezirk
   | Wattenscheid | Wattenscheid 09
 
 Arminia Bielefeld,  1905,    Bielefeld     › Nordrhein-Westfalen
@@ -183,11 +183,11 @@ FC Viktoria 1889 Berlin
 
 Hamburger SV,  1887,     Hamburg › Hamburg
   | Hamburg
-FC St. Pauli, 1910,      Hamburg › Hamburg   ## use stadtteil St. Pauli ??
+FC St. Pauli, 1910,      Hamburg (St. Pauli) › Hamburg   ## use stadtteil St. Pauli ??
   | St Pauli | St. Pauli | FC Sankt Pauli
 
 SC Victoria Hamburg
-  |Victoria Hamburg
+  | Victoria Hamburg
 USC Paloma Hamburg
 HSV Barmbek-Uhlenhorst
 

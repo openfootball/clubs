@@ -11,10 +11,11 @@
 
 By City
 
+- **Santiago** (3): 
+  - Universidad de Chile  (2) U. de Chile • Club Universidad de Chile
+  - Universidad Católica  (3) CDUC • CD Universidad Católica • Club Deportivo Universidad Católica
+  - Unión Española  (1) Club Unión Española S.A.D.P
 - **Iquique** (1): Deportes Iquique  (2) Iquique • Club Deportes Iquique
-- **Santiago (Independencia)** (1): Unión Española  (1) Club Unión Española S.A.D.P
-- **Santiago (Las Condes)** (1): Universidad Católica  (3) CDUC • CD Universidad Católica • Club Deportivo Universidad Católica
-- **Santiago (Ñuñoa)** (1): Universidad de Chile  (2) U. de Chile • Club Universidad de Chile
 - **Talcahuano** (1): CD Huachipato  (2) Huachipato • Club Deportivo Huachipato
 
 
@@ -22,9 +23,7 @@ By City
 
 By Region
 
-- **Santiago (Ñuñoa)** (1):   Universidad de Chile
-- **Santiago (Las Condes)** (1):   Universidad Católica
-- **Santiago (Independencia)** (1):   Unión Española
+- **Santiago** (3):   Universidad de Chile • Universidad Católica • Unión Española
 - **Talcahuano** (1):   CD Huachipato
 - **Iquique** (1):   Deportes Iquique
 

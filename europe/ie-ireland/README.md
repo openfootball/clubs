@@ -28,6 +28,12 @@
 
 By City
 
+- **Dublin** (5): 
+  - Shamrock Rovers FC  (1) Shamrock Rovers
+  - Bohemian F.C.  (2) Bohemians • Bohemian FC
+  - St Patrick's Athletic F.C.  (3) St. Patricks • St Patrick's Athletic • Saint Patrick's Athletic FC
+  - University College Dublin A.F.C.  (2) UCD • UC Dublin
+  - Shelbourne F.C.  (1) Shelbourne
 - **Athlone** (1): Athlone Town A.F.C.  (2) Athlone • Athlone Town
 - **Ballybofey** (1): Finn Harps F.C.  (1) Finn Harps
 - **Bray** (1): Bray Wanderers F.C.  (2) Bray • Bray Wanderers
@@ -36,11 +42,6 @@ By City
 - **Crossabeg** (1): Wexford F.C.  (1) Wexford
 - **Derry** (1): Derry City F.C.  (2) Derry City • Derry City FC
 - **Drogheda** (1): Drogheda United F.C.  (3) Drogheda • Drogheda United • Drogheda United FC
-- **Dublin (Belfield)** (1): University College Dublin A.F.C.  (2) UCD • UC Dublin
-- **Dublin (Drumcondra)** (1): Shelbourne F.C.  (1) Shelbourne
-- **Dublin (Inchicore)** (1): St Patrick's Athletic F.C.  (3) St. Patricks • St Patrick's Athletic • Saint Patrick's Athletic FC
-- **Dublin (Phibsborough)** (1): Bohemian F.C.  (2) Bohemians • Bohemian FC
-- **Dublin (Tallaght)** (1): Shamrock Rovers FC  (1) Shamrock Rovers
 - **Dundalk** (1): Dundalk F.C.  (2) Dundalk • Dundalk FC
 - **Galway** (1): Galway United F.C.  (2) Galway • Galway United
 - **Limerick** (1): Limerick F.C.  (1) Limerick
@@ -57,11 +58,7 @@ By City
 
 By Region
 
-- **Dublin (Tallaght)** (1):   Shamrock Rovers FC
-- **Dublin (Phibsborough)** (1):   Bohemian F.C.
-- **Dublin (Inchicore)** (1):   St Patrick's Athletic F.C.
-- **Dublin (Belfield)** (1):   University College Dublin A.F.C.
-- **Dublin (Drumcondra)** (1):   Shelbourne F.C.
+- **Dublin** (5):   Shamrock Rovers FC • Bohemian F.C. • St Patrick's Athletic F.C. • University College Dublin A.F.C. • Shelbourne F.C.
 - **Athlone** (1):   Athlone Town A.F.C.
 - **Bray** (1):   Bray Wanderers F.C.
 - **Cobh** (1):   Cobh Ramblers F.C.

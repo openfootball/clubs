@@ -94,78 +94,78 @@
 
 By City
 
-- **Madrid › Comunidad de Madrid** (6): 
+- **Madrid, Comunidad de Madrid** (6): 
   - Atlético Madrid  (4) Atlético • Ath Madrid • Atletico Madrid • Club Atlético de Madrid
   - Atlético Madrid B  (1) Ath Madrid B
   - Real Madrid CF  (3) Real Madrid • R. Madrid • Real Madrid Club de Fútbol
   - Real Madrid CF B  (1) Real Madrid B
   - Getafe CF  (3) Getafe • Getafe C.F. • Getafe Club de Fútbol
   - Rayo Vallecano  (3) Rayo • Vallecano • Rayo Vallecano de Madrid
-- **Barcelona › Cataluña** (3): 
+- **Barcelona, Cataluña** (3): 
   - FC Barcelona  (3) Barcelona • F.C. Barcelona • Fútbol Club Barcelona
   - FC Barcelona B  (2) Barcelona B • Fútbol Club Barcelona B
   - RCD Español  (8) Espanol • Espanyol • RCD Espanyol • R.C.D. Espanyol • Espanyol Barcelona • Real CD Espanyol • Real Club Deportivo Espanyol • Real Club Deportivo Español
-- **Murcia › Región de Murcia** (3): 
+- **Murcia, Región de Murcia** (3): 
   - Real Murcia CF  (2) Murcia • Real Murcia Club de Fútbol
   - UCAM Murcia  (1) UCAM Murcia
   - CF Ciudad de Murcia  (1) Ciudad de Murcia
-- **Sevilla › Andalucía** (3): 
+- **Sevilla, Andalucía** (3): 
   - Sevilla FC  (3) Sevilla • Sevilla F.C. • Sevilla Fútbol Club
   - Sevilla FC B  (1) Sevilla B
   - Real Betis  (4) Betis • Betis Sevilla • Real Betis Sevilla • Real Betis Balompié
-- **Alicante › Comunidad Valenciana** (2): 
+- **Alicante, Comunidad Valenciana** (2): 
   - Alicante CF  (1) Alicante
   - Hércules CF  (3) Hercules • Hércules • Hércules de Alicante Club de Fútbol
-- **Bilbao › País Vasco** (2): 
+- **Bilbao, País Vasco** (2): 
   - Athletic Club Bilbao  (4) Athletic • Athletic Club • Ath Bilbao • Athletic Bilbao
   - Athletic Club Bilbao B  (1) Ath Bilbao B
-- **Granada › Andalucía** (2): 
+- **Granada, Andalucía** (2): 
   - Granada CF  (3) Granada • Granada C.F. • Granada Club de Fútbol
   - Granada 74  (1) Granada 74
-- **Las Palmas › Islas Canarias** (2): 
+- **Las Palmas, Islas Canarias** (2): 
   - UD Las Palmas  (2) Las Palmas • Unión Deportiva Las Palmas
   - Universidad Las Palmas  (1) U.Las Palmas
-- **Málaga › Andalucía** (2): 
+- **Málaga, Andalucía** (2): 
   - Málaga CF  (5) Malaga • Málaga • Málaga C.F. • CF Málaga • FC Málaga
   - Málaga CF B  (1) Malaga B
-- **Palma de Mallorca › Islas Baleares** (2): 
+- **Palma de Mallorca, Islas Baleares** (2): 
   - RCD Mallorca  (3) Mallorca • Real CD Mallorca • Real Club Deportivo Mallorca
   - RCD Mallorca B  (1) Mallorca B
-- **Valencia › Comunidad Valenciana** (2): 
+- **Valencia, Comunidad Valenciana** (2): 
   - Valencia CF  (5) Valencia • Valencia C.F. • Valencia Club de Fútbol • FC Valencia • CF Valencia
   - Levante UD  (3) Levante • Levante U.D. • Levante Unión Deportiva
-- **Villarreal › Comunidad Valenciana** (2): 
+- **Villarreal, Comunidad Valenciana** (2): 
   - Villarreal CF  (3) Villarreal • Villareal • Villarreal C.F.
   - Villarreal CF B  (1) Villarreal B
-- **Albacete › Castilla-La Mancha** (1): Albacete Balompié  (1) Albacete
-- **Alcorcón › Comunidad de Madrid** (1): AD Alcorcón  (3) Alcorcon • Alcorcón • Agrupación Deportiva Alcorcón
-- **Alcoy › Comunidad Valenciana** (1): CD Alcoyano  (1) Alcoyano
-- **Algeciras › Andalucía** (1): Algeciras CF  (1) Algeciras
-- **Almendralejo › Extremadura** (1): CF Extremadura  (1) Extremadura
-- **Almería › Andalucía** (1): UD Almería  (4) Almeria • Almería • U.D. Almería • Unión Deportiva Almería
-- **Badajoz › Extremadura** (1): CD Badajoz  (1) Badajoz
-- **Burgos › Castilla y León** (1): Burgos CF  (1) Burgos
-- **Cartagena › Región de Murcia** (1): FC Cartagena  (1) Cartagena
-- **Castellón de la Plana › Comunidad Valenciana** (1): CD Castellón  (1) Castellon
-- **Cádiz › Andalucía** (1): Cádiz CF  (1) Cadiz
-- **Córdoba › Andalucía** (1): Córdoba CF  (3) Cordoba • Córdoba • Córdoba Club de Fútbol
-- **Eibar › País Vasco** (1): SD Eibar  (2) Eibar • Sociedad Deportiva Eibar
-- **Elche › Comunidad Valenciana** (1): Elche CF  (2) Elche • Elche C.F.
-- **Ferrol › Galicia** (1): Racing Ferrol  (1) Ferrol
-- **Gerona › Cataluña** (1): Girona FC  (2) Girona • Girona Futbol Club
-- **Gijón › Asturias** (1): Sporting Gijón  (5) Sporting • Sp Gijon • Real Sporting • Real Sporting de Gijón • Sporting de Gijón
-- **Guadalajara › Castilla-La Mancha** (1): CD Guadalajara  (1) Guadalajara
-- **Huesca › Aragón** (1): SD Huesca  (1) Huesca
-- **Jaén › Andalucía** (1): Real Jaén CF  (3) Jaen • Jaén • Real Jaén Club de Fútbol
-- **La Coruña › Galicia** (1): RCD La Coruña  (7) La Coruna • RC Deportivo de La Coruña • Real Club Deportivo La Coruña • Deportivo • Deportivo La Coruña • Deportivo de La Coruña • Deportivo da Coruña
-- **Miranda de Ebro › Castilla y León** (1): CD Mirandés  (3) Mirandes • Mirandés • Club Deportivo Mirandés
-- **Mérida › Extremadura** (1): CP Mérida  (1) Merida
-- **San Sebastián › País Vasco** (1): Real Sociedad  (4) Sociedad • R. Sociedad • Real Sociedad San Sebastián • Real Sociedad de Fútbol
-- **Santiago de Compostela › Galicia** (1): SD Compostela  (1) Compostela
-- **Tarragona › Cataluña** (1): Gimnàstic Tarragona  (1) Gimnastic
-- **Vigo › Galicia** (1): RC Celta Vigo  (5) Celta • Celta Vigo • R.C. Celta • Real Club Celta Vigo • Real Club Celta de Vigo
-- **Vitoria › País Vasco** (1): Deportivo Alavés  (3) Alaves • Alavés • CD Alavés
-- **Écija › Andalucía** (1): Écija Balompié  (1) Ecija
+- **Albacete, Castilla-La Mancha** (1): Albacete Balompié  (1) Albacete
+- **Alcorcón, Comunidad de Madrid** (1): AD Alcorcón  (3) Alcorcon • Alcorcón • Agrupación Deportiva Alcorcón
+- **Alcoy, Comunidad Valenciana** (1): CD Alcoyano  (1) Alcoyano
+- **Algeciras, Andalucía** (1): Algeciras CF  (1) Algeciras
+- **Almendralejo, Extremadura** (1): CF Extremadura  (1) Extremadura
+- **Almería, Andalucía** (1): UD Almería  (4) Almeria • Almería • U.D. Almería • Unión Deportiva Almería
+- **Badajoz, Extremadura** (1): CD Badajoz  (1) Badajoz
+- **Burgos, Castilla y León** (1): Burgos CF  (1) Burgos
+- **Cartagena, Región de Murcia** (1): FC Cartagena  (1) Cartagena
+- **Castellón de la Plana, Comunidad Valenciana** (1): CD Castellón  (1) Castellon
+- **Cádiz, Andalucía** (1): Cádiz CF  (1) Cadiz
+- **Córdoba, Andalucía** (1): Córdoba CF  (3) Cordoba • Córdoba • Córdoba Club de Fútbol
+- **Eibar, País Vasco** (1): SD Eibar  (2) Eibar • Sociedad Deportiva Eibar
+- **Elche, Comunidad Valenciana** (1): Elche CF  (2) Elche • Elche C.F.
+- **Ferrol, Galicia** (1): Racing Ferrol  (1) Ferrol
+- **Gerona, Cataluña** (1): Girona FC  (2) Girona • Girona Futbol Club
+- **Gijón, Asturias** (1): Sporting Gijón  (5) Sporting • Sp Gijon • Real Sporting • Real Sporting de Gijón • Sporting de Gijón
+- **Guadalajara, Castilla-La Mancha** (1): CD Guadalajara  (1) Guadalajara
+- **Huesca, Aragón** (1): SD Huesca  (1) Huesca
+- **Jaén, Andalucía** (1): Real Jaén CF  (3) Jaen • Jaén • Real Jaén Club de Fútbol
+- **La Coruña, Galicia** (1): RCD La Coruña  (7) La Coruna • RC Deportivo de La Coruña • Real Club Deportivo La Coruña • Deportivo • Deportivo La Coruña • Deportivo de La Coruña • Deportivo da Coruña
+- **Miranda de Ebro, Castilla y León** (1): CD Mirandés  (3) Mirandes • Mirandés • Club Deportivo Mirandés
+- **Mérida, Extremadura** (1): CP Mérida  (1) Merida
+- **San Sebastián, País Vasco** (1): Real Sociedad  (4) Sociedad • R. Sociedad • Real Sociedad San Sebastián • Real Sociedad de Fútbol
+- **Santiago de Compostela, Galicia** (1): SD Compostela  (1) Compostela
+- **Tarragona, Cataluña** (1): Gimnàstic Tarragona  (1) Gimnastic
+- **Vigo, Galicia** (1): RC Celta Vigo  (5) Celta • Celta Vigo • R.C. Celta • Real Club Celta Vigo • Real Club Celta de Vigo
+- **Vitoria, País Vasco** (1): Deportivo Alavés  (3) Alaves • Alavés • CD Alavés
+- **Écija, Andalucía** (1): Écija Balompié  (1) Ecija
 - ? (28): 
   - CA Osasuna  (3) Osasuna • At. Osasuna • Club Atlético Osasuna
   - CD Leganés  (2) Leganes • Club Deportivo Leganés
