@@ -1,7 +1,7 @@
 26 clubs
 
 - **Fenerbahçe İstanbul SK** : (5) Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club
-- **Galatasaray İstanbul AŞ** : (3)  • Galatasaray • Galatasaray Istanbul
+- **Galatasaray İstanbul AŞ** : (2) Galatasaray • Galatasaray Istanbul
 - **Beşiktaş İstanbul JK** : (3) Besiktas • Beşiktaş • Beşiktaş JK
 - **Kasımpaşa İstanbul SK** : (1) Kasimpasa
 - **İstanbul Başakşehir** : (1) Buyuksehyr
@@ -34,7 +34,7 @@ By City
 
 - **İstanbul** (5): 
   - Fenerbahçe İstanbul SK  (5) Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club
-  - Galatasaray İstanbul AŞ  (3) Galatasaray •  • Galatasaray Istanbul
+  - Galatasaray İstanbul AŞ  (2) Galatasaray • Galatasaray Istanbul
   - Beşiktaş İstanbul JK  (3) Besiktas • Beşiktaş JK • Beşiktaş
   - Kasımpaşa İstanbul SK  (1) Kasimpasa
   - İstanbul Başakşehir  (1) Buyuksehyr

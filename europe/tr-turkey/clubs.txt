@@ -1,14 +1,12 @@
 ############################################
 #  Turkey (TUR),  tr
-#
-#  see https://en.wikipedia.org/wiki/Süper_Lig
 
 
 Fenerbahçe İstanbul SK,  İstanbul
   | Fenerbahce | Fenerbahçe | Fenerbahçe SK
-  | Fenerbahçe Spor Kulübü |Fenerbahçe Sports Club
+  | Fenerbahçe Spor Kulübü | Fenerbahçe Sports Club
 Galatasaray İstanbul AŞ, İstanbul
-  | Galatasaray | |Galatasaray Istanbul
+  | Galatasaray | Galatasaray Istanbul
 Beşiktaş İstanbul JK,    İstanbul
   | Besiktas | Beşiktaş JK | Beşiktaş
 Kasımpaşa İstanbul SK,   İstanbul

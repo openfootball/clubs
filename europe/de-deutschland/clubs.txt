@@ -13,7 +13,7 @@ TSV 1860 München, 1860, München › Bayern
 1. FC Nürnberg, 1900, Nürnberg › Bayern    ### todo: always map Nurnberg to 1. FC Nürnberg ?!
   | Nurnberg | Nürnberg | 1. FC Nuernberg
 Greuther Fürth, 1903, Fürth    › Bayern
-  | Greuther Furth | Greuther Fürth | SpVgg Greuther Fuerth | SpVgg Greuther Fürth
+  | Greuther Furth | SpVgg Greuther Fuerth | SpVgg Greuther Fürth
 FC Augsburg, 1907,    Augsburg › Bayern
   | Augsburg
 SpVgg Unterhaching,  Unterhaching › Bayern
@@ -21,7 +21,7 @@ SpVgg Unterhaching,  Unterhaching › Bayern
 FC Ingolstadt 04, 2004,    Ingolstadt › Bayern               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
   | Ingolstadt
 SSV Jahn Regensburg,   Regensburg › Bayern
-  | Regensburg | Jahn Regensburg 
+  | Regensburg | Jahn Regensburg
 1. FC Schweinfurt 05,  Schweinfurt › Bayern
   | Schweinfurt
 Würzburger Kickers, 1907,     Würzburg › Bayern
@@ -29,7 +29,7 @@ Würzburger Kickers, 1907,     Würzburg › Bayern
 Wacker Burghausen,  Burghausen › Bayern
   | Burghausen
 
-TSV 1860 Rosenheim 
+TSV 1860 Rosenheim,  Rosenheim › Bayern
 FV Illertissen
 
 
@@ -39,15 +39,15 @@ FV Illertissen
 1. FC Köln, 1948,   Köln › Nordrhein-Westfalen
   | FC Koln | 1. FC Koeln   ## Köln
 Fortuna Köln, 1948,  Köln › Nordrhein-Westfalen
-  | F Koln  | Fortuna Koeln | SC Fortuna Köln | Sportclub Fortuna Köln 
-FC Viktoria Köln
+  | F Koln  | Fortuna Koeln | SC Fortuna Köln | Sportclub Fortuna Köln
+FC Viktoria Köln,    Köln › Nordrhein-Westfalen
 
 Fortuna Düsseldorf,  1895, Düsseldorf › Nordrhein-Westfalen
   | Dusseldorf | F. Düsseldorf | Fortuna Dusseldorf | Fortuna Duesseldorf
 
 Borussia Dortmund, 1909,    Dortmund      › Nordrhein-Westfalen
   | Dortmund | Bor. Dortmund | BV 09 Borussia Dortmund
-Borussia Dortmund II
+Borussia Dortmund II,       Dortmund      › Nordrhein-Westfalen
   | Dortmund II | Bor. Dortmund II
 FC Schalke 04, 1904,         Gelsenkirchen › Nordrhein-Westfalen
   | Schalke | Schalke 04
@@ -65,7 +65,7 @@ SG Wattenscheid 09,    Bochum › Nordrhein-Westfalen   ## Bochum-Wattenscheid -
   | Wattenscheid | Wattenscheid 09
 
 Arminia Bielefeld,  1905,    Bielefeld     › Nordrhein-Westfalen
-  | Bielefeld | DSC Arminia Bielefeld 
+  | Bielefeld | DSC Arminia Bielefeld
 Preussen Münster,     Münster       › Nordrhein-Westfalen
   | Münster | Preussen Muenster | Preußen Münster | SC Preußen 06
 
@@ -74,7 +74,7 @@ Gütersloh,            Gütersloh     › Nordrhein-Westfalen
 KFC Uerdingen,        Krefeld       › Nordrhein-Westfalen     ## bis 1995 FC Bayer 05 Uerdingen
   | Uerdingen | KFC Uerdingen 05 | Bayer 05 Uerdingen | FC Bayer 05 Uerdingen | Bayer Uerdingen
 # note:  now called KFC Uerdingen 05 (was Bayer 05 Uerdingen)
-# -- (1953-1995) note: now KFC Uerdingen 05 
+# -- (1953-1995) note: now KFC Uerdingen 05
 
 
 Alemannia Aachen,     Aachen        › Nordrhein-Westfalen
@@ -86,7 +86,7 @@ Rot Weiss Ahlen,    Ahlen › Nordrhein-Westfalen
 Rot-Weiß Oberhausen,   Oberhausen › Nordrhein-Westfalen
   | Oberhausen | Rot-Weiss Oberhausen
 SF Siegen,            Siegen › Nordrhein-Westfalen
-  | Siegen | Sportfreunde Siegen 
+  | Siegen | Sportfreunde Siegen
 Wuppertaler SV,         Wuppertal › Nordrhein-Westfalen
   | Wuppertaler
 Rot-Weiss Essen,     Essen › Nordrhein-Westfalen
@@ -140,9 +140,9 @@ SV Meppen,              Meppen › Niedersachsen
 VfB Oldenburg,         Oldenburg › Niedersachsen
   | Oldenburg
 
-SV Wilhelmshaven     
-BSV Schwarz-Weiß Rehden    
-TSV Havelse                
+SV Wilhelmshaven
+BSV Schwarz-Weiß Rehden
+TSV Havelse
 
 
 #######################
@@ -198,8 +198,8 @@ HSV Barmbek-Uhlenhorst
 Werder Bremen, 1899,      Bremen › Bremen
   | Bremen | SV Werder Bremen
 Werder Bremen II,      Bremen › Bremen
-SG Aumund-Vegesack 
-FC Oberneuland       
+SG Aumund-Vegesack
+FC Oberneuland
 Bremer SV
 
 ##############################
@@ -214,7 +214,7 @@ Stuttgarter Kickers,   Stuttgart › Baden-Württemberg
 SC Freiburg, 1904,       	  Freiburg  › Baden-Württemberg
   | Freiburg
 TSG 1899 Hoffenheim,  1899,  Sinsheim › Baden-Württemberg   ## Sinsheim-Hoffenheim
-  | Hoffenheim | 1899 Hoffenheim 
+  | Hoffenheim | 1899 Hoffenheim
 Karlsruher SC,  1894,        Karlsruhe › Baden-Württemberg
   | Karlsruhe
 SSV Ulm 1846,         Ulm › Baden-Württemberg
@@ -239,7 +239,7 @@ SG Großaspach, 1994
 FC Nöttingen
 Bahlinger SC
 Neckarsulmer Sport-Union
-Offenburger FV 
+Offenburger FV
 FC-Astoria Walldorf
 SV Waldkirch
 
@@ -247,8 +247,8 @@ SV Waldkirch
 ######################
 # Hessen (he)
 
-Eintracht Frankfurt, 1899,   Frankfurt am Main › Hessen 
-  | Ein Frankfurt | E. Frankfurt | SG Eintracht Frankfurt   ##  Frankfurt 
+Eintracht Frankfurt, 1899,   Frankfurt am Main › Hessen
+  | Ein Frankfurt | E. Frankfurt | SG Eintracht Frankfurt   ##  Frankfurt
 FSV Frankfurt, 1899,       Frankfurt am Main › Hessen
    | Frankfurt FSV | FSV Frankfurt 1899
 
@@ -318,7 +318,7 @@ VfB Leipzig (-2004),  Leipzig › Sachsen     ## note: 2004 aufgelöst in bl 199
 Chemnitzer FC,       Chemnitz › Sachsen
   | Chemnitz
 FC Erzgebirge Aue, 1949,   Aue      › Sachsen
-  |Aue  | Erzgebirge Aue 
+  |Aue  | Erzgebirge Aue
 FSV Zwickau,        Zwickau  › Sachsen
   | Zwickau
 

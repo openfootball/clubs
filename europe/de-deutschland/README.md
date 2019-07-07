@@ -3,7 +3,7 @@
 - **Bayern München** : (4) Bayern • Bayern Munich • Bayern Muenchen • FC Bayern München
 - **TSV 1860 München** : (4) Munich 1860 • 1860 München • TSV München 1860 • TSV 1860 Muenchen
 - **1. FC Nürnberg** : (3) Nurnberg • Nürnberg • 1. FC Nuernberg
-- **Greuther Fürth** : (4) Greuther Furth • Greuther Fürth • SpVgg Greuther Fürth • SpVgg Greuther Fuerth
+- **Greuther Fürth** : (3) Greuther Furth • SpVgg Greuther Fürth • SpVgg Greuther Fuerth
 - **FC Augsburg** : (1) Augsburg
 - **SpVgg Unterhaching** : (2) U'haching • Unterhaching
 - **FC Ingolstadt 04** : (1) Ingolstadt
@@ -146,6 +146,10 @@ By City
   - Blau-Weiß 90 Berlin (-1992)  (2) Blau-Weiß 90 Berlin • Blau-Weiss 90 Berlin
   - SC Tasmania 1900 Berlin (-1973)  (3) SC Tasmania 1900 Berlin • Tasmania 1900 Berlin • Tasmania Berlin
   - BFC Dynamo Berlin  (1) BFC Dynamo
+- **Köln › Nordrhein-Westfalen** (3): 
+  - 1. FC Köln  (2) FC Koln • 1. FC Koeln
+  - Fortuna Köln  (4) F Koln • Fortuna Koeln • SC Fortuna Köln • Sportclub Fortuna Köln
+  - FC Viktoria Köln 
 - **Stuttgart › Baden-Württemberg** (3): 
   - VfB Stuttgart  (1) Stuttgart
   - VfB Stuttgart II  (1) Stuttgart II
@@ -156,15 +160,15 @@ By City
 - **Bremen › Bremen** (2): 
   - Werder Bremen  (2) Bremen • SV Werder Bremen
   - Werder Bremen II 
+- **Dortmund › Nordrhein-Westfalen** (2): 
+  - Borussia Dortmund  (3) Dortmund • Bor. Dortmund • BV 09 Borussia Dortmund
+  - Borussia Dortmund II  (2) Dortmund II • Bor. Dortmund II
 - **Frankfurt am Main › Hessen** (2): 
   - Eintracht Frankfurt  (3) Ein Frankfurt • E. Frankfurt • SG Eintracht Frankfurt
   - FSV Frankfurt  (2) Frankfurt FSV • FSV Frankfurt 1899
 - **Hamburg › Hamburg** (2): 
   - Hamburger SV  (1) Hamburg
   - FC St. Pauli  (3) St Pauli • St. Pauli • FC Sankt Pauli
-- **Köln › Nordrhein-Westfalen** (2): 
-  - 1. FC Köln  (2) FC Koln • 1. FC Koeln
-  - Fortuna Köln  (4) F Koln • Fortuna Koeln • SC Fortuna Köln • Sportclub Fortuna Köln
 - **Leipzig › Sachsen** (2): 
   - RB Leipzig 
   - VfB Leipzig (-2004)  (2) VfB Leipzig • Leipzig
@@ -188,14 +192,13 @@ By City
 - **Chemnitz › Sachsen** (1): Chemnitzer FC  (1) Chemnitz
 - **Cottbus › Brandenburg** (1): Energie Cottbus  (2) Cottbus • FC Energie Cottbus
 - **Darmstadt › Hessen** (1): SV Darmstadt 98  (1) Darmstadt
-- **Dortmund › Nordrhein-Westfalen** (1): Borussia Dortmund  (3) Dortmund • Bor. Dortmund • BV 09 Borussia Dortmund
 - **Dresden › Sachsen** (1): Dynamo Dresden  (2) Dresden • SG Dynamo Dresden
 - **Duisburg › Nordrhein-Westfalen** (1): MSV Duisburg  (2) Duisburg • Meidericher SV
 - **Düsseldorf › Nordrhein-Westfalen** (1): Fortuna Düsseldorf  (4) Dusseldorf • F. Düsseldorf • Fortuna Dusseldorf • Fortuna Duesseldorf
 - **Erfurt › Thüringen** (1): FC Rot-Weiß Erfurt  (3) Erfurt • Rot-Weiß Erfurt • RW Erfurt
 - **Essen › Nordrhein-Westfalen** (1): Rot-Weiss Essen  (2) Essen • RW Essen
 - **Freiburg › Baden-Württemberg** (1): SC Freiburg  (1) Freiburg
-- **Fürth › Bayern** (1): Greuther Fürth  (4) Greuther Furth • Greuther Fürth • SpVgg Greuther Fuerth • SpVgg Greuther Fürth
+- **Fürth › Bayern** (1): Greuther Fürth  (3) Greuther Furth • SpVgg Greuther Fuerth • SpVgg Greuther Fürth
 - **Gelsenkirchen › Nordrhein-Westfalen** (1): FC Schalke 04  (2) Schalke • Schalke 04
 - **Gütersloh › Nordrhein-Westfalen** (1): Gütersloh  (1) Gutersloh
 - **Hannover › Niedersachsen** (1): Hannover 96  (2) Hannover • Hannover 1896
@@ -223,6 +226,7 @@ By City
 - **Potsdam › Brandenburg** (1): SV Babelsberg 03  (1) Babelsberg
 - **Regensburg › Bayern** (1): SSV Jahn Regensburg  (2) Regensburg • Jahn Regensburg
 - **Reutlingen › Baden-Württemberg** (1): SSV Reutlingen 05  (1) Reutlingen
+- **Rosenheim › Bayern** (1): TSV 1860 Rosenheim 
 - **Rostock › Mecklenburg-Vorpommern** (1): Hansa Rostock  (2) Rostock • FC Hansa Rostock
 - **Saarbrücken › Saarland** (1): 1. FC Saarbrücken  (3) Saarbrucken • Saarbrücken • 1. FC Saarbruecken
 - **Sandhausen › Baden-Württemberg** (1): SV Sandhausen  (2) Sandhausen • SV Sandhausen 1916
@@ -237,11 +241,8 @@ By City
 - **Wuppertal › Nordrhein-Westfalen** (1): Wuppertaler SV  (1) Wuppertaler
 - **Würzburg › Bayern** (1): Würzburger Kickers  (2) Wurzburger Kickers • FC Würzburger Kickers
 - **Zwickau › Sachsen** (1): FSV Zwickau  (1) Zwickau
-- ? (46): 
-  - TSV 1860 Rosenheim 
+- ? (43): 
   - FV Illertissen 
-  - FC Viktoria Köln 
-  - Borussia Dortmund II  (2) Dortmund II • Bor. Dortmund II
   - SF Baumberg  (1) Sportfreunde Baumberg
   - SF Lotte  (1) Sportfreunde Lotte
   - SV Lippstadt 08 
@@ -290,8 +291,8 @@ By City
 
 By Region
 
-- **Bayern** (11):   Bayern München • TSV 1860 München • 1. FC Nürnberg • Greuther Fürth • FC Augsburg • SpVgg Unterhaching • FC Ingolstadt 04 • SSV Jahn Regensburg • 1. FC Schweinfurt 05 • Würzburger Kickers • Wacker Burghausen
-- **Nordrhein-Westfalen** (21):   1. FC Köln • Fortuna Köln • Fortuna Düsseldorf • Borussia Dortmund • FC Schalke 04 • Bayer 04 Leverkusen • MSV Duisburg • Bor. Mönchengladbach • VfL Bochum • SG Wattenscheid 09 • Arminia Bielefeld • Preussen Münster • Gütersloh • KFC Uerdingen • Alemannia Aachen • SC Paderborn 07 • Rot Weiss Ahlen • Rot-Weiß Oberhausen • SF Siegen • Wuppertaler SV • Rot-Weiss Essen
+- **Bayern** (12):   Bayern München • TSV 1860 München • 1. FC Nürnberg • Greuther Fürth • FC Augsburg • SpVgg Unterhaching • FC Ingolstadt 04 • SSV Jahn Regensburg • 1. FC Schweinfurt 05 • Würzburger Kickers • Wacker Burghausen • TSV 1860 Rosenheim
+- **Nordrhein-Westfalen** (23):   1. FC Köln • Fortuna Köln • FC Viktoria Köln • Fortuna Düsseldorf • Borussia Dortmund • Borussia Dortmund II • FC Schalke 04 • Bayer 04 Leverkusen • MSV Duisburg • Bor. Mönchengladbach • VfL Bochum • SG Wattenscheid 09 • Arminia Bielefeld • Preussen Münster • Gütersloh • KFC Uerdingen • Alemannia Aachen • SC Paderborn 07 • Rot Weiss Ahlen • Rot-Weiß Oberhausen • SF Siegen • Wuppertaler SV • Rot-Weiss Essen
 - **Saarland** (3):   1. FC Saarbrücken • FC 08 Homburg • VfB Borussia Neunkirchen
 - **Niedersachsen** (6):   VfL Osnabrück • VfL Wolfsburg • Hannover 96 • Eintracht Braunschweig • SV Meppen • VfB Oldenburg
 - **Brandenburg** (2):   Energie Cottbus • SV Babelsberg 03
@@ -364,7 +365,7 @@ By A to Z
 - **D** (8): Dresden • Dortmund • Duisburg • Darmstadt • Dusseldorf • Dortmund II • Dynamo Dresden • DSC Arminia Bielefeld
 - **E** (11): Essen • Erfurt • Ein Trier • E. Frankfurt • Ein Frankfurt • Erzgebirge Aue • Eintracht Trier • Energie Cottbus • Eintr. Braunschweig • Eintracht Frankfurt • Eintracht Braunschweig
 - **F** (44): F Koln • FC Koln • Freiburg • FC Homburg • FC Augsburg • FSV Zwickau • FC Hennef 05 • FC Nöttingen • FC St. Pauli • FK Pirmasens • FSV Mainz 05 • FSV Salmrohr • Fortuna Köln • F. Düsseldorf • FC 08 Homburg • FC Schalke 04 • FSV Frankfurt • Fortuna Koeln • Frankfurt FSV • FC Oberneuland • FC Sankt Pauli • FV Illertissen • FC Homburg/Saar • FC Schönberg 95 • FK 03 Pirmasens • FT Braunschweig • FC Hansa Rostock • FC Ingolstadt 04 • FC Viktoria Köln • FC Bayern München • FC Erzgebirge Aue • FC Carl Zeiss Jena • FC Energie Cottbus • FC Rot-Weiß Erfurt • FSV Frankfurt 1899 • FSV Optik Rathenow • Fortuna Dusseldorf • Fortuna Düsseldorf • FC-Astoria Walldorf • Fortuna Duesseldorf • FC Bayer 05 Uerdingen • FC Würzburger Kickers • FC Viktoria 1889 Berlin • Freie Turnerschaft Braunschweig
-- **G** (5): Gutersloh • Gütersloh • Großaspach • Greuther Furth • !! **Greuther Fürth (2)** !!
+- **G** (5): Gutersloh • Gütersloh • Großaspach • Greuther Furth • Greuther Fürth
 - **H** (16): Halle • Hertha • Hamburg • Homburg • Hannover • Heidenheim • Hertha BSC • Hoffenheim • Hannover 96 • Hamburger SV • Hallescher FC • Hannover 1896 • Hansa Rostock • Holstein Kiel • HSV Barmbek-Uhlenhorst • Hertha Berliner Sport-Club
 - **I** (1): Ingolstadt
 - **J** (1): Jahn Regensburg
