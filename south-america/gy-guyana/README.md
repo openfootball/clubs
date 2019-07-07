@@ -12,9 +12,25 @@ By City
 
 
 
+By Region
+
+- **Providence** (1):   Alpha United FC
+
+
+
+
 By Year
 
 - ? (1):   Alpha United FC
+
+
+
+
+
+
+By A to Z
+
+- **A** (2): Alpha United • Alpha United FC
 
 
 

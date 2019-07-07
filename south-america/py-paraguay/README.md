@@ -19,9 +19,28 @@ By City
 
 
 
+By Region
+
+- **Asunción** (4):   Libertad Ascunción • Club Olimpia • Club Nacional • Cerro Porteño
+
+
+
+
 By Year
 
 - ? (4):   Libertad Ascunción • Club Olimpia • Club Nacional • Cerro Porteño
+
+
+
+
+
+
+By A to Z
+
+- **C** (5): Club Olimpia • Cerro Porteño • Club Nacional • Club Cerro Porteño • Club Libertad Asunción
+- **L** (2): Libertad • Libertad Ascunción
+- **N** (2): Nacional • Nacional de Asunción
+- **O** (1): Olimpia
 
 
 

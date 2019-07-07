@@ -23,9 +23,36 @@ By City
 
 
 
+By Region
+
+- **Bogotá** (2):   Millonarios Bogotá • Independiente Santa Fe
+- **Medellín** (1):   Atlético Nacional
+- **Barranquilla** (1):   Junior de Barranquilla
+- **Manizales** (1):   Once Caldas
+- **Ibagué** (1):   Deportes Tolima
+
+
+
+
 By Year
 
 - ? (6):   Millonarios Bogotá • Independiente Santa Fe • Atlético Nacional • Junior de Barranquilla • Once Caldas • Deportes Tolima
+
+
+
+
+
+
+By A to Z
+
+- **A** (2): At. Nacional • Atlético Nacional
+- **C** (4): Club Atlético Nacional S.A. • Corporación Deportiva Santa Fe • Corporación Deportiva Once Caldas • Corporación Popular Deportiva Junior
+- **D** (1): Deportes Tolima
+- **I** (1): Independiente Santa Fe
+- **J** (2): Junior • Junior de Barranquilla
+- **M** (4): Millonarios • Millonarios FC • Millonarios Bogotá • Millonarios Fútbol Club
+- **O** (1): Once Caldas
+- **S** (1): Santa Fe
 
 
 

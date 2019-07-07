@@ -24,9 +24,32 @@ By City
 
 
 
+By Region
+
+- **Quito** (3):   Deportivo Quito • El Nacional • LDU Quito
+- **Guayaquil** (2):   CS Emelec • Barcelona Guayaquil
+- **Loja** (1):   LDU Loja
+
+
+
+
 By Year
 
 - ? (6):   Deportivo Quito • El Nacional • LDU Quito • CS Emelec • Barcelona Guayaquil • LDU Loja
+
+
+
+
+
+
+By A to Z
+
+- **B** (5): Barcelona • Barcelona SC • Barcelona Guayaquil • Barcelona SC Guayaquil • Barcelona Sporting Club
+- **C** (3): CS Emelec • Club Sport Emelec • Club Deportivo El Nacional
+- **D** (1): Deportivo Quito
+- **E** (2): Emelec • El Nacional
+- **L** (8): LDU Loja • LDU Quito • LDU de Loja • LDU de Quito • Liga de Loja • Liga de Quito • Liga Deportiva Universitaria de Loja • Liga Deportiva Universitaria de Quito
+- **S** (1): Sociedad Deportivo Quito
 
 
 

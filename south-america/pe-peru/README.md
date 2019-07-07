@@ -23,9 +23,34 @@ By City
 
 
 
+By Region
+
+- **Lima** (2):   Alianza Lima • Sporting Cristal
+- **Chiclayo** (1):   Juan Aurich
+- **Huancayo** (1):   Sport Huancayo
+- **Cusco** (1):   Real Garcilaso
+- **Trujillo** (1):   Universidad César Vallejo
+
+
+
+
 By Year
 
 - ? (6):   Alianza Lima • Sporting Cristal • Juan Aurich • Sport Huancayo • Real Garcilaso • Universidad César Vallejo
+
+
+
+
+
+
+By A to Z
+
+- **A** (2): Alianza Lima • Asociación Civil Real Atlético Garcilaso
+- **C** (4): Club Alianza Lima • Club Juan Aurich S.A • Club Sporting Cristal • Club Deportivo Universidad César Vallejo
+- **J** (1): Juan Aurich
+- **R** (1): Real Garcilaso
+- **S** (2): Sport Huancayo • Sporting Cristal
+- **U** (1): Universidad César Vallejo
 
 
 

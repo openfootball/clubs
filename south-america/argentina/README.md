@@ -89,9 +89,49 @@ By City
 
 
 
+By Region
+
+- **Buenos Aires** (23):   All Boys • Argentinos Juniors • Boca Juniors • River Plate • San Lorenzo • Vélez Sarsfield • Huracán • Nueva Chicago • CA Tigre • CA Independiente de Avellaneda • Racing Club • Quilmes AC • CA Lanús • Arsenal de Sarandí • Estudiantes LP • Gimnasia y Esgrima • Club Atlético Aldosivi • Club Atlético Banfield • Defensa y Justicia • Olimpo Bahía Blanca • Sarmiento Junín • Temperley • Chacarita Juniors
+- **Santa Fe** (5):   Colón Santa Fe • Unión Santa Fe • Newell's Old Boys • Rosario Central • Atlético Rafaela
+- **Córdoba** (2):   Club Atlético Belgrano • Talleres de Córdoba
+- **Mendoza** (1):   Godoy Cruz
+- **San Juan** (1):   San Martín
+- **Tucumán** (2):   Atlético Tucumán • San Martín de Tucumán
+- **Entre Ríos** (1):   Patronato
+- **Misiones** (1):   Crucero del Norte
+
+
+
+
 By Year
 
 - ? (36):   All Boys • Argentinos Juniors • Boca Juniors • River Plate • San Lorenzo • Vélez Sarsfield • Huracán • Nueva Chicago • CA Tigre • CA Independiente de Avellaneda • Racing Club • Quilmes AC • CA Lanús • Arsenal de Sarandí • Estudiantes LP • Gimnasia y Esgrima • Club Atlético Aldosivi • Club Atlético Banfield • Defensa y Justicia • Olimpo Bahía Blanca • Sarmiento Junín • Temperley • Chacarita Juniors • Colón Santa Fe • Unión Santa Fe • Newell's Old Boys • Rosario Central • Atlético Rafaela • Club Atlético Belgrano • Talleres de Córdoba • Godoy Cruz • San Martín • Atlético Tucumán • San Martín de Tucumán • Patronato • Crucero del Norte
+
+
+
+
+
+
+By A to Z
+
+- **A** (18): Arsenal • Aldosivi • All Boys • Argentinos • Arsenal FC • Atl. Rafaela • Atl. Tucuman • Argentinos Jrs • At. de Rafaela • Arsenal Sarandi • Atlético Rafaela • Atlético Tucumán • Argentinos Juniors • Arsenal de Sarandí • Arsenal Fútbol Club • Atlético de Rafaela • Asociación Atlética Argentinos Juniors • Asociación Mutual Social y Deportiva Atlético de Rafaela
+- **B** (5): Boca • Banfield • Belgrano • Boca Jrs • Boca Juniors
+- **C** (45): Colón • CA Colón • CA Lanús • CA Tigre • CA Vélez • Club Olimpo • Colon Santa FE • Colón Santa Fe • Chacarita Juniors • Crucero del Norte • CA Vélez Sarsfield • Club Atlético Colón • Club Atlético Lanús • Club Atlético Tigre • Club Atlético Unión • CA Newell's Old Boys • Club Atlético Huracán • Club Atlético Aldosivi • Club Atlético All Boys • Club Atlético Banfield • Club Atlético Belgrano • Club Atlético Talleres • Club Atlético Sarmiento • Club Atlético Temperley • !! **Club Atlético San Martín (2)** !! • CA San Lorenzo de Almagro • Club Atlético River Plate • Club Atlético Boca Juniors • Club Atlético Independiente • Club Atlético Nueva Chicago • Club Estudiantes de La Plata • Club Atlético Rosario Central • Club Atlético Vélez Sarsfield • Club Mutual Crucero del Norte • CA Independiente de Avellaneda • Club Atlético Colón (Santa Fe) • Club Atlético Chacarita Juniors • Club Atlético Newell's Old Boys • Club Atlético Sarmiento (Junín) • Club Atlético San Martín (Tucumán) • Club de Gimnasia y Esgrima La Plata • Club Atlético San Lorenzo de Almagro • Club Deportivo Godoy Cruz Antonio Tomba • Club Social y Deportivo Defensa y Justicia • Club Atlético Patronato de la Juventud Católica
+- **D** (1): Defensa y Justicia
+- **E** (3): Estudiantes • Estudiantes LP • Estudiantes L.P.
+- **G** (5): GELP • Godoy Cruz • Gimnasia L.P. • Gimnasia y Esgrima • Gimnasia y Esgrima La Plata
+- **H** (2): Huracan • Huracán
+- **I** (1): Independiente
+- **L** (2): Lanus • Lanús
+- **N** (5): Newell's • N.O. Boys • Nueva Chicago • Newells Old Boys • Newell's Old Boys
+- **O** (4): Olimpo • Olimpo Bahia Blanca • Olimpo Bahía Blanca • Olimpo de Bahía Blanca
+- **P** (1): Patronato
+- **Q** (3): Quilmes • Quilmes AC • Quilmes Atlético Club
+- **R** (5): River • Racing • Racing Club • River Plate • Rosario Central
+- **S** (9): Sarmiento • San Martín • San Lorenzo • San Martin T. • San Martin S.J. • Sarmiento Junin • Sarmiento Junín • San Martín San Juan • San Martín de Tucumán
+- **T** (4): Tigre • Temperley • Talleres Cordoba • Talleres de Córdoba
+- **U** (3): Unión • Unión Santa Fe • Union de Santa Fe
+- **V** (3): Vélez • Velez Sarsfield • Vélez Sarsfield
 
 
 

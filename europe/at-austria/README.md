@@ -44,9 +44,41 @@ By City
 
 
 
+By Region
+
+- **Wien** (3):   FK Austria Wien • SK Rapid Wien • Wiener Sport-Club
+- **Burgenland** (1):   SV Mattersburg
+- **Niederösterreich** (3):   FC Admira Wacker Mödling • SC Wiener Neustadt • SKN St. Pölten
+- **Oberösterreich** (3):   LASK Linz • FC Stahl Linz • SV Ried
+- **Steiermark** (1):   SK Sturm Graz
+- **Kärnten** (1):   Wolfsberger AC
+- **Salzburg** (2):   SV Grödig • FC RB Salzburg
+- **Tirol** (1):   FC Wacker Innsbruck
+- **Vorarlberg** (1):   SCR Altach
+
+
+
+
 By Year
 
 - ? (16):   FK Austria Wien • SK Rapid Wien • Wiener Sport-Club • SV Mattersburg • FC Admira Wacker Mödling • SC Wiener Neustadt • SKN St. Pölten • LASK Linz • FC Stahl Linz • SV Ried • SK Sturm Graz • Wolfsberger AC • SV Grödig • FC RB Salzburg • FC Wacker Innsbruck • SCR Altach
+
+
+
+
+
+
+By A to Z
+
+- **A** (6): Admira • Altach • Admira Wien • Austria Wien • AC Wolfsberger • Austria Vienna
+- **F** (6): FC Tirol • FC Stahl Linz • FC RB Salzburg • FK Austria Wien • FC Wacker Innsbruck • FC Admira Wacker Mödling
+- **G** (1): Grodig
+- **L** (2): LASK Linz • Linzer ASK
+- **M** (1): Mattersburg
+- **N** (1): Neustadt
+- **R** (3): Ried • Rapid Wien • Rapid Vienna
+- **S** (12): SV Ried • Salzburg • SV Grödig • SCR Altach • St. Polten • Sturm Graz • SK Rapid Wien • SK Sturm Graz • SK VOEST Linz • SKN St. Pölten • SV Mattersburg • SC Wiener Neustadt
+- **W** (3): Wolfsberger AC • Wacker Innsbruck • Wiener Sport-Club
 
 
 

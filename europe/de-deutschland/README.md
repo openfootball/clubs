@@ -139,53 +139,6 @@
 
 By City
 
-- ? (46): 
-  - TSV 1860 Rosenheim 
-  - FV Illertissen 
-  - FC Viktoria Köln 
-  - Borussia Dortmund II  (2) Dortmund II • Bor. Dortmund II
-  - SF Baumberg  (1) Sportfreunde Baumberg
-  - SF Lotte  (1) Sportfreunde Lotte
-  - SV Lippstadt 08 
-  - SC Wiedenbrück  (1) SC Wiedenbrück 2000
-  - FC Hennef 05 
-  - TuS Erndtebrück 
-  - SV Elversberg  (1) SV 07 Elversberg
-  - FT Braunschweig  (1) Freie Turnerschaft Braunschweig
-  - SV Wilhelmshaven 
-  - BSV Schwarz-Weiß Rehden 
-  - TSV Havelse 
-  - FSV Optik Rathenow 
-  - SV Falkensee-Finkenkrug 
-  - Berliner AK 07 
-  - FC Viktoria 1889 Berlin 
-  - SC Victoria Hamburg  (1) Victoria Hamburg
-  - USC Paloma Hamburg 
-  - HSV Barmbek-Uhlenhorst 
-  - SG Aumund-Vegesack 
-  - FC Oberneuland 
-  - Bremer SV 
-  - SG Großaspach  (3) Großaspach • SG Sonnenhof Großaspach • Sportgemeinschaft Sonnenhof Großaspach
-  - FC Nöttingen 
-  - Bahlinger SC 
-  - Neckarsulmer Sport-Union 
-  - Offenburger FV 
-  - FC-Astoria Walldorf 
-  - SV Waldkirch 
-  - KSV Hessen Kassel 
-  - TSG Pfeddersheim 
-  - SV Roßbach/Verscheid 
-  - Wormatia Worms 
-  - SV Alemannia Waldalgesheim 
-  - FSV Salmrohr 
-  - FK Pirmasens  (1) FK 03 Pirmasens
-  - VfR Neumünster 
-  - TSG Neustrelitz 
-  - FC Schönberg 95 
-  - 1. FC Neubrandenburg 04 
-  - Hallescher FC  (1) Halle
-  - 1. FC Magdeburg 
-  - SV Schott Jena 
 - **Berlin › Berlin** (6): 
   - Hertha BSC  (2) Hertha • Hertha Berliner Sport-Club
   - Tennis Borussia Berlin  (2) TB Berlin • TeBe Berlin
@@ -284,6 +237,74 @@ By City
 - **Wuppertal › Nordrhein-Westfalen** (1): Wuppertaler SV  (1) Wuppertaler
 - **Würzburg › Bayern** (1): Würzburger Kickers  (2) Wurzburger Kickers • FC Würzburger Kickers
 - **Zwickau › Sachsen** (1): FSV Zwickau  (1) Zwickau
+- ? (46): 
+  - TSV 1860 Rosenheim 
+  - FV Illertissen 
+  - FC Viktoria Köln 
+  - Borussia Dortmund II  (2) Dortmund II • Bor. Dortmund II
+  - SF Baumberg  (1) Sportfreunde Baumberg
+  - SF Lotte  (1) Sportfreunde Lotte
+  - SV Lippstadt 08 
+  - SC Wiedenbrück  (1) SC Wiedenbrück 2000
+  - FC Hennef 05 
+  - TuS Erndtebrück 
+  - SV Elversberg  (1) SV 07 Elversberg
+  - FT Braunschweig  (1) Freie Turnerschaft Braunschweig
+  - SV Wilhelmshaven 
+  - BSV Schwarz-Weiß Rehden 
+  - TSV Havelse 
+  - FSV Optik Rathenow 
+  - SV Falkensee-Finkenkrug 
+  - Berliner AK 07 
+  - FC Viktoria 1889 Berlin 
+  - SC Victoria Hamburg  (1) Victoria Hamburg
+  - USC Paloma Hamburg 
+  - HSV Barmbek-Uhlenhorst 
+  - SG Aumund-Vegesack 
+  - FC Oberneuland 
+  - Bremer SV 
+  - SG Großaspach  (3) Großaspach • SG Sonnenhof Großaspach • Sportgemeinschaft Sonnenhof Großaspach
+  - FC Nöttingen 
+  - Bahlinger SC 
+  - Neckarsulmer Sport-Union 
+  - Offenburger FV 
+  - FC-Astoria Walldorf 
+  - SV Waldkirch 
+  - KSV Hessen Kassel 
+  - TSG Pfeddersheim 
+  - SV Roßbach/Verscheid 
+  - Wormatia Worms 
+  - SV Alemannia Waldalgesheim 
+  - FSV Salmrohr 
+  - FK Pirmasens  (1) FK 03 Pirmasens
+  - VfR Neumünster 
+  - TSG Neustrelitz 
+  - FC Schönberg 95 
+  - 1. FC Neubrandenburg 04 
+  - Hallescher FC  (1) Halle
+  - 1. FC Magdeburg 
+  - SV Schott Jena 
+
+
+
+
+By Region
+
+- **Bayern** (11):   Bayern München • TSV 1860 München • 1. FC Nürnberg • Greuther Fürth • FC Augsburg • SpVgg Unterhaching • FC Ingolstadt 04 • SSV Jahn Regensburg • 1. FC Schweinfurt 05 • Würzburger Kickers • Wacker Burghausen
+- **Nordrhein-Westfalen** (21):   1. FC Köln • Fortuna Köln • Fortuna Düsseldorf • Borussia Dortmund • FC Schalke 04 • Bayer 04 Leverkusen • MSV Duisburg • Bor. Mönchengladbach • VfL Bochum • SG Wattenscheid 09 • Arminia Bielefeld • Preussen Münster • Gütersloh • KFC Uerdingen • Alemannia Aachen • SC Paderborn 07 • Rot Weiss Ahlen • Rot-Weiß Oberhausen • SF Siegen • Wuppertaler SV • Rot-Weiss Essen
+- **Saarland** (3):   1. FC Saarbrücken • FC 08 Homburg • VfB Borussia Neunkirchen
+- **Niedersachsen** (6):   VfL Osnabrück • VfL Wolfsburg • Hannover 96 • Eintracht Braunschweig • SV Meppen • VfB Oldenburg
+- **Brandenburg** (2):   Energie Cottbus • SV Babelsberg 03
+- **Berlin** (6):   Hertha BSC • Tennis Borussia Berlin • 1. FC Union Berlin • Blau-Weiß 90 Berlin (-1992) • SC Tasmania 1900 Berlin (-1973) • BFC Dynamo Berlin
+- **Hamburg** (2):   Hamburger SV • FC St. Pauli
+- **Bremen** (2):   Werder Bremen • Werder Bremen II
+- **Baden-Württemberg** (13):   VfB Stuttgart • VfB Stuttgart II • Stuttgarter Kickers • SC Freiburg • TSG 1899 Hoffenheim • Karlsruher SC • SSV Ulm 1846 • VfR Aalen • 1. FC Heidenheim • SSV Reutlingen 05 • SV Sandhausen • VfR Mannheim • SV Waldhof Mannheim
+- **Hessen** (5):   Eintracht Frankfurt • FSV Frankfurt • SV Darmstadt 98 • SV Wehen Wiesbaden • Kickers Offenbach
+- **Rheinland-Pfalz** (5):   1. FC Kaiserslautern • 1. FSV Mainz 05 • 1. FSV Mainz 05 II • Eintracht Trier • TuS Koblenz
+- **Schleswig-Holstein** (2):   VfB Lübeck • Holstein Kiel
+- **Mecklenburg-Vorpommern** (1):   Hansa Rostock
+- **Sachsen** (6):   Dynamo Dresden • RB Leipzig • VfB Leipzig (-2004) • Chemnitzer FC • FC Erzgebirge Aue • FSV Zwickau
+- **Thüringen** (2):   FC Carl Zeiss Jena • FC Rot-Weiß Erfurt
 
 
 
@@ -328,6 +349,38 @@ Historic
 - **1973** (1):   SC Tasmania 1900 Berlin (-1973)
 - **1992** (1):   Blau-Weiß 90 Berlin (-1992)
 - **2004** (1):   VfB Leipzig (-2004)
+
+
+
+
+
+
+By A to Z
+
+- **1** (18): 1. FC Köln • 1. FC Koeln • 1860 München • 1. FC Nürnberg • 1. FC K'lautern • 1. FC Magdeburg • 1. FC Nuernberg • 1. FSV Mainz 05 • 1899 Hoffenheim • 1. FC Heidenheim • 1. FC Saarbrücken • 1. FC Saarbruecken • 1. FC Union Berlin • 1. FSV Mainz 05 II • 1. FC Kaiserslautern • 1. FC Schweinfurt 05 • 1. FC Heidenheim 1846 • 1. FC Neubrandenburg 04
+- **A** (7): Aue • Aalen • Ahlen • Aachen • Augsburg • Alemannia Aachen • Arminia Bielefeld
+- **B** (36): Bayern • Bochum • Bremen • Bielefeld • Bremer SV • BFC Dynamo • Babelsberg • Burghausen • Bahlinger SC • Braunschweig • Bayern Munich • Bor. Dortmund • Bayern München • Berliner AK 07 • Bay. Leverkusen • Bayer Uerdingen • Bayern Muenchen • Bor. M'gladbach • Bayer Leverkusen • Bor. Dortmund II • BFC Dynamo Berlin • Borussia Dortmund • Bayer 05 Uerdingen • Bayer 04 Leverkusen • Blau-Weiß 90 Berlin • Borussia M'gladbach • Blau-Weiss 90 Berlin • Bor. Mönchengladbach • Borussia Dortmund II • Borussia Neunkirchen • Bor. Moenchengladbach • BSV Schwarz-Weiß Rehden • BV 09 Borussia Dortmund • Borussia Monchengladbach • Borussia Mönchengladbach • Blau-Weiß 90 Berlin (-1992)
+- **C** (4): CZ Jena • Cottbus • Chemnitz • Chemnitzer FC
+- **D** (8): Dresden • Dortmund • Duisburg • Darmstadt • Dusseldorf • Dortmund II • Dynamo Dresden • DSC Arminia Bielefeld
+- **E** (11): Essen • Erfurt • Ein Trier • E. Frankfurt • Ein Frankfurt • Erzgebirge Aue • Eintracht Trier • Energie Cottbus • Eintr. Braunschweig • Eintracht Frankfurt • Eintracht Braunschweig
+- **F** (44): F Koln • FC Koln • Freiburg • FC Homburg • FC Augsburg • FSV Zwickau • FC Hennef 05 • FC Nöttingen • FC St. Pauli • FK Pirmasens • FSV Mainz 05 • FSV Salmrohr • Fortuna Köln • F. Düsseldorf • FC 08 Homburg • FC Schalke 04 • FSV Frankfurt • Fortuna Koeln • Frankfurt FSV • FC Oberneuland • FC Sankt Pauli • FV Illertissen • FC Homburg/Saar • FC Schönberg 95 • FK 03 Pirmasens • FT Braunschweig • FC Hansa Rostock • FC Ingolstadt 04 • FC Viktoria Köln • FC Bayern München • FC Erzgebirge Aue • FC Carl Zeiss Jena • FC Energie Cottbus • FC Rot-Weiß Erfurt • FSV Frankfurt 1899 • FSV Optik Rathenow • Fortuna Dusseldorf • Fortuna Düsseldorf • FC-Astoria Walldorf • Fortuna Duesseldorf • FC Bayer 05 Uerdingen • FC Würzburger Kickers • FC Viktoria 1889 Berlin • Freie Turnerschaft Braunschweig
+- **G** (5): Gutersloh • Gütersloh • Großaspach • Greuther Furth • !! **Greuther Fürth (2)** !!
+- **H** (16): Halle • Hertha • Hamburg • Homburg • Hannover • Heidenheim • Hertha BSC • Hoffenheim • Hannover 96 • Hamburger SV • Hallescher FC • Hannover 1896 • Hansa Rostock • Holstein Kiel • HSV Barmbek-Uhlenhorst • Hertha Berliner Sport-Club
+- **I** (1): Ingolstadt
+- **J** (1): Jahn Regensburg
+- **K** (10): Kiel • Koblenz • K'lautern • Karlsruhe • KFC Uerdingen • Karlsruher SC • Kaiserslautern • KFC Uerdingen 05 • KSV Hessen Kassel • Kickers Offenbach
+- **L** (4): Lubeck • Lübeck • Leipzig • Leverkusen
+- **M** (10): Mainz • Meppen • Münster • Mannheim • M'Gladbach • M'gladbach • Munich 1860 • MSV Duisburg • Meidericher SV • Mönchengladbach
+- **N** (3): Nurnberg • Nürnberg • Neckarsulmer Sport-Union
+- **O** (5): Offenbach • Oldenburg • Osnabruck • Oberhausen • Offenburger FV
+- **P** (4): Paderborn • Preußen Münster • Preussen Münster • Preussen Muenster
+- **R** (11): Rostock • RW Essen • RW Erfurt • RB Leipzig • Regensburg • Reutlingen • Rot Weiss Ahlen • Rot-Weiss Essen • Rot-Weiß Erfurt • Rot-Weiß Oberhausen • Rot-Weiss Oberhausen
+- **S** (61): Siegen • Schalke • SF Lotte • St Pauli • SF Siegen • SV Meppen • St. Pauli • Stuttgart • Sandhausen • Schalke 04 • SC Freiburg • SF Baumberg • Saarbrucken • Saarbrücken • Schweinfurt • SSV Ulm 1846 • SV Waldkirch • Stutt. Kick. • Stuttgart II • SC Preußen 06 • SG Großaspach • SV Elversberg • SV Sandhausen • Stuttgarter K • SC Wiedenbrück • SV Schott Jena • SC Fortuna Köln • SC Paderborn 07 • SV Darmstadt 98 • SV Lippstadt 08 • SV 07 Elversberg • SV Babelsberg 03 • SV Werder Bremen • SV Wilhelmshaven • SG Dynamo Dresden • SSV Reutlingen 05 • SG Aumund-Vegesack • SG Wattenscheid 09 • SV Sandhausen 1916 • SV Wehen Wiesbaden • SpVgg Unterhaching • Sportfreunde Lotte • SC Victoria Hamburg • SC Wiedenbrück 2000 • SSV Jahn Regensburg • SV Waldhof Mannheim • Sportfreunde Siegen • Stuttgarter Kickers • SV Roßbach/Verscheid • SpVgg Greuther Fürth • SpVgg Greuther Fuerth • Sportfreunde Baumberg • SG Eintracht Frankfurt • SV Waldhof Mannheim 07 • Sportclub Fortuna Köln • SC Tasmania 1900 Berlin • SG Sonnenhof Großaspach • SV Falkensee-Finkenkrug • SV Alemannia Waldalgesheim • SC Tasmania 1900 Berlin (-1973) • Sportgemeinschaft Sonnenhof Großaspach
+- **T** (16): TB Berlin • TSV Havelse • TeBe Berlin • TuS Koblenz • TSG Neustrelitz • Tasmania Berlin • TuS Erndtebrück • TSG Pfeddersheim • TSV 1860 München • TSV München 1860 • TSV 1860 Muenchen • TSV 1860 Rosenheim • TSG 1899 Hoffenheim • TSV Alemannia Aachen • Tasmania 1900 Berlin • Tennis Borussia Berlin
+- **U** (6): Ulm • U'haching • Uerdingen • Union Berlin • Unterhaching • USC Paloma Hamburg
+- **V** (15): VfR Aalen • VfB Lübeck • VfL Bochum • VfB Leipzig • VfR Mannheim • VfB Oldenburg • VfB Stuttgart • VfL Osnabrück • VfL Wolfsburg • VfR Neumünster • VfL Bochum 1848 • VfB Stuttgart II • Victoria Hamburg • VfB Leipzig (-2004) • VfB Borussia Neunkirchen
+- **W** (14): Wehen • Wiesbaden • Wolfsburg • Wuppertaler • Wattenscheid • Werder Bremen • Wormatia Worms • Wuppertaler SV • Wattenscheid 09 • Waldhof Mannheim • Werder Bremen II • Wacker Burghausen • Wurzburger Kickers • Würzburger Kickers
+- **Z** (1): Zwickau
 
 
 

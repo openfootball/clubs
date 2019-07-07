@@ -47,10 +47,49 @@ By City
 
 
 
+By Region
+
+- **Caracas** (3):   Caracas FC • Deportivo La Guaira • Deportivo Petare
+- **San Cristóbal** (1):   Deportivo Táchira
+- **Barinas** (1):   Zamora FC
+- **Barquisimeto** (1):   Deportivo Lara
+- **Puerto La Cruz** (1):   Deportivo Anzoátegui
+- **Ciudad Guayana** (1):   AC Mineros
+- **El Vigía** (1):   Atlético El Vigía
+- **Guanare** (1):   Llaneros FC
+- **Maiquetía** (1):   Atlético Venezuela
+- **Maracaibo** (1):   Zulia FC
+- **Maracay** (1):   Aragua FC
+- **Mérida** (1):   Estudiantes de Mérida
+- **Puerto Ayacucho** (1):   Tucanes FC
+- **San Felipe** (1):   Yaracuyanos FC
+- **Valencia** (1):   Carabobo FC
+- **Valera** (1):   Trujillanos FC
+
+
+
+
 By Year
 
 - **1967** (1):   Caracas FC
 - ? (17):   Deportivo La Guaira • Deportivo Petare • Deportivo Táchira • Zamora FC • Deportivo Lara • Deportivo Anzoátegui • AC Mineros • Atlético El Vigía • Llaneros FC • Atlético Venezuela • Zulia FC • Aragua FC • Estudiantes de Mérida • Tucanes FC • Yaracuyanos FC • Carabobo FC • Trujillanos FC
+
+
+
+
+
+
+By A to Z
+
+- **A** (5): Aragua • Aragua FC • AC Mineros • Atlético El Vigía • Atlético Venezuela
+- **C** (6): Caracas • Carabobo • Caracas FC • Carabobo FC • Caracas Fútbol Club • Club Deportivo Lara
+- **D** (12): Dvo. Lara • Dvo. Petare • Dvo. Táchira • Deportivo Lara • Dvo. La Guaira • Dvo. Anzoátegui • Deportivo Petare • Deportivo Táchira • Deportivo La Guaira • Deportivo Anzoátegui • Deportivo Táchira Fútbol Club • Deportivo Anzoátegui Sport Club
+- **E** (2): Estudiantes • Estudiantes de Mérida
+- **L** (3): Llaneros • Llaneros FC • Llaneros de Guanare
+- **M** (2): Mineros • Mineros de Guayana
+- **T** (5): Tucanes • Tucanes FC • Trujillanos • Trujillanos FC • Tucanes de Amazonas
+- **Y** (2): Yaracuyanos • Yaracuyanos FC
+- **Z** (5): Zulia • Zamora • Zulia FC • Zamora FC • Zamora Fútbol Club
 
 
 

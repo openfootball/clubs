@@ -111,9 +111,53 @@ By City
 
 
 
+By Region
+
+- **Athens** (10):   AEK Athens FC • Panathinaikos FC • Apollon Smyrnis FC • Atromitos FC • Panionios GSS • APO Akratitos • Athinaikos AS FC • Chalkidona FC • Egaleo FC • Ethnikos Asteras FC
+- **Kallithea** (1):   Kallithea FC
+- **Fyli** (1):   Thrasyvoulos FC
+- **Attica** (5):   Panelefsiniakos FC • Proodeftiki FC • Ionikos FC • Olympiacos Piraeus FC • Ethnikos Piraeus FC
+- **Central Macedonia** (4):   PAOK FC • Aris Thessaloniki FC • Iraklis 1908 Thessaloniki FC • Apollon Pontou FC
+- **Peloponnese** (4):   Asteras Tripolis FC • Kalamata FC • Panachaiki FC • Paniliakos FC
+- **Thrace** (2):   Xanthi FC • Panthrakikos FC
+- **West Greece** (1):   Panetolikos GFS
+- **Epirus** (1):   PAS Giannina FC
+- **Central Greece** (3):   Levadiakos FC • PAS Lamia 1964 • Levadiakos FC
+- **Thessaly** (4):   AE Larissa FC • Niki Volou FC • Olympiacos Volou 1937 FC • Trikala FC
+- **Ionian Islands** (1):   Kerkyra FC
+- **Crete** (3):   Platanias FC • Ergotelis FC • OFI Crete FC
+- **Macedonia** (6):   Doxa Dramas FC • Edessaikos FC • Kastoria FC • Kavala FC • Panserraikos FC • Veria FC
+- **Aegean Islands** (1):   AEL Kalloni FC
+
+
+
+
 By Year
 
 - ? (47):   AEK Athens FC • Panathinaikos FC • Apollon Smyrnis FC • Atromitos FC • Panionios GSS • APO Akratitos • Athinaikos AS FC • Chalkidona FC • Egaleo FC • Ethnikos Asteras FC • Kallithea FC • Thrasyvoulos FC • Panelefsiniakos FC • Proodeftiki FC • Ionikos FC • Olympiacos Piraeus FC • Ethnikos Piraeus FC • PAOK FC • Aris Thessaloniki FC • Iraklis 1908 Thessaloniki FC • Apollon Pontou FC • Asteras Tripolis FC • Xanthi FC • Panetolikos GFS • PAS Giannina FC • Levadiakos FC • AE Larissa FC • PAS Lamia 1964 • Kerkyra FC • Platanias FC • Doxa Dramas FC • Edessaikos FC • Ergotelis FC • OFI Crete FC • Kalamata FC • AEL Kalloni FC • Kastoria FC • Kavala FC • Niki Volou FC • Olympiacos Volou 1937 FC • Levadiakos FC • Panachaiki FC • Paniliakos FC • Panserraikos FC • Panthrakikos FC • Trikala FC • Veria FC
+
+
+
+
+
+
+By A to Z
+
+- **A** (18): AEK • Aris • Apollon • Akratitos • Atromitos • AEK Athens • Athinaikos • Atromitos FC • AE Larissa FC • AEK Athens FC • APO Akratitos • AEL Kalloni FC • Asteras Tripolis • Athinaikos AS FC • Apollon Pontou FC • Apollon Smyrnis FC • Asteras Tripolis FC • Aris Thessaloniki FC
+- **C** (2): Chalkidona • Chalkidona FC
+- **D** (3): Doxa • Doxa Dramas • Doxa Dramas FC
+- **E** (13): Egaleo • Eleysina • Ethnikos • Egaleo FC • Ergotelis • Edessaikos • Eth Asteras • Ergotelis FC • Edessaikos FC • Ethnikos Asteras • Ethnikos Piraeus • Ethnikos Asteras FC • Ethnikos Piraeus FC
+- **G** (1): Giannina
+- **I** (4): Ionikos • Iraklis • Ionikos FC • Iraklis 1908 Thessaloniki FC
+- **K** (13): Kavala • Kerkyra • Kalamata • Kalithea • Kallonis • Kastoria • Kalamaria • Kallithea • Kavala FC • Kerkyra FC • Kalamata FC • Kastoria FC • Kallithea FC
+- **L** (6): Lamia • Larisa • Larissa FC • Levadiakos • Levadeiakos • !! **Levadiakos FC (2)** !!
+- **N** (2): Niki Volos • Niki Volou FC
+- **O** (10): OFI • Olympiacos • Olympiakos • OFI Crete FC • Olympiakos P. • Olympiakos Volou • Olympiakos Piräus • Olympiacos Volou FC • Olympiacos Piraeus FC • Olympiacos Volou 1937 FC
+- **P** (24): PAOK • PAOK FC • Panahaiki • Panionios • Platanias • Paniliakos • Panetolikos • Proodeftiki • Proodeytiki • Panserraikos • Panthrakikos • Platanias FC • Panachaiki FC • Panathinaikos • Paniliakos FC • Panionios GSS • PAS Lamia 1964 • Proodeftiki FC • PAS Giannina FC • Panetolikos GFS • Panserraikos FC • Panthrakikos FC • Panathinaikos FC • Panelefsiniakos FC
+- **T** (4): Trikala • Trikala FC • Thrasyvoulos • Thrasyvoulos FC
+- **V** (3): Veria • Veroia • Veria FC
+- **X** (2): Xanthi • Xanthi FC
+- **Y** (1): Yiannina
 
 
 

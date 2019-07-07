@@ -19,9 +19,29 @@ By City
 
 
 
+By Region
+
+- **Basel** (1):   FC Basel 1893
+- **Bern** (1):   BSC Young Boys
+- **Zürich** (2):   Grasshopper Club Zürich • FC Zürich
+
+
+
+
 By Year
 
 - ? (4):   FC Basel 1893 • BSC Young Boys • Grasshopper Club Zürich • FC Zürich
+
+
+
+
+
+
+By A to Z
+
+- **B** (2): Basel • !! **BSC Young Boys (2)** !!
+- **F** (3): FC Zurich • FC Zürich • FC Basel 1893
+- **G** (2): Grasshoppers Zurich • Grasshopper Club Zürich
 
 
 

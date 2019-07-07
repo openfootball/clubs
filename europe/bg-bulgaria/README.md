@@ -36,6 +36,20 @@ By City
 
 
 
+By Region
+
+- **Sofia** (4):   PFC CSKA Sofia • PFC Levski Sofia • PFC Slavia Sofia • PFC Lokomotiv Sofia
+- **Plovdiv** (2):   PFC Botev Plovdiv • PFC Lokomotiv Plovdiv
+- **Lovech** (1):   PFC Litex Lovech
+- **Varna** (1):   PFC Cherno More Varna
+- **Razgrad** (1):   PFC Ludogorets Razgrad
+- **Stara Zagora** (1):   PFC Beroe Stara Zagora
+- **Montana** (1):   PFC Montana
+- **Blagoevgrad** (1):   FC Pirin Blagoevgrad
+
+
+
+
 By Year
 
 - **1912** (1):   PFC Botev Plovdiv
@@ -48,6 +62,21 @@ By Year
 - **1929** (1):   PFC Lokomotiv Sofia
 - **1945** (1):   PFC Ludogorets Razgrad
 - **1948** (1):   PFC CSKA Sofia
+
+
+
+
+
+
+By A to Z
+
+- **B** (3): Beroe • Blagoevgrad • Botev Plovdiv
+- **C** (3): CDNA Sofia • CSKA Sofia • Cherno More
+- **F** (1): FC Pirin Blagoevgrad
+- **L** (6): Litex • Levski • Ludogorets • Levski Sofia • Lokomotiv Plovdiv • Ludogorets Razgrad
+- **M** (1): Montana
+- **P** (20): PFC Montana • PFC CSKA Sofia • PFC Levski Sofia • PFC Litex Lovech • PFC Montana 1921 • PFC Slavia Sofia • PFC Botev Plovdiv • PFC Lokomotiv Sofia • PFC Cherno More Varna • PFC Lokomotiv Plovdiv • PFC Pirin Blagoevgrad • PFC Beroe Stara Zagora • PFC Ludogorets Razgrad • PFC Lokomotiv Plovdiv 1936 • Professional Football Club Beroe • Professional Football Club Montana • Professional Football Club Levski Sofia • Professional Football Club Litex Lovech • Professional Football Club Slavia Sofia • Professional Football Club Ludogorets Razgrad
+- **S** (1): Slavia Sofia
 
 
 

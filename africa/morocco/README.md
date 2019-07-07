@@ -12,9 +12,25 @@ By City
 
 
 
+By Region
+
+- **Casablanca** (1):   Raja Casablanca
+
+
+
+
 By Year
 
 - ? (1):   Raja Casablanca
+
+
+
+
+
+
+By A to Z
+
+- **R** (2): Raja Casablanca • Raja Club Athletic
 
 
 

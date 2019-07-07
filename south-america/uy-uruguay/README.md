@@ -43,6 +43,16 @@ By City
 
 
 
+By Region
+
+- **Montevideo** (13):   Liverpool Montevideo • Nacional de Montevideo • Defensor Sporting • CA Peñarol • CA Cerro • Danubio FC • El Tanque Sisley • Centro Atlético Fénix • CS Miramar Misiones • Montevideo Wanderers • Racing CM • CA Rentistas • CA River Plate
+- **Las Piedras** (1):   Juventud de Las Piedras
+- **Melo** (1):   Cerro Largo
+- **San José** (1):   Sud América
+
+
+
+
 By Year
 
 - **1899** (1):   Nacional de Montevideo
@@ -58,6 +68,27 @@ By Year
 - **1941** (1):   El Tanque Sisley
 - **2002** (1):   Cerro Largo
 - ? (3):   Liverpool Montevideo • Defensor Sporting • CA Peñarol
+
+
+
+
+
+
+By A to Z
+
+- **C** (18): Cerro • CA Cerro • CA Peñarol • C. N. de F. • Cerro Largo • CA Rentistas • CA River Plate • Cerro Largo FC • CS Miramar Misiones • Club Atlético Cerro • Centro Atlético Fénix • Club Atlético Peñarol • Cerro Largo Fútbol Club • Club Atlético Rentistas • Club Atlético River Plate • Club Nacional de Football • Club Sportivo Miramar Misiones • Club Atlético Juventud de Las Piedras
+- **D** (8): Danubio • Defensor • Danubio FC • Defensor Sp. • Defensor Sporting • Danubio Fútbol Club • Defensor Sporting Club • Deportivo El Tanque Sisley
+- **E** (1): El Tanque Sisley
+- **F** (1): Fénix
+- **I** (2): I.A.S.A • Institución Atlética Sud América
+- **J** (2): Juventud • Juventud de Las Piedras
+- **L** (5): Liverpool • Liverpool FC • Liverpool Montevideo • Liverpool Fútbol Club • Liverpool FC Montevideo
+- **M** (4): Miramar Misiones • Montevideo Wanderers • Montevideo Wanderers FC • Montevideo Wanderers Fútbol Club
+- **N** (2): Nacional • Nacional de Montevideo
+- **P** (1): Peñarol
+- **R** (5): Racing • Racing CM • Rentistas • River Plate • Racing Club de Montevideo
+- **S** (1): Sud América
+- **W** (1): Wanderers
 
 
 

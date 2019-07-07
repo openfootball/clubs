@@ -56,9 +56,41 @@ By City
 
 
 
+By Region
+
+- **São Paulo** (5):   Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta
+- **Rio de Janeiro** (3):   Botafogo RJ • Flamengo RJ • Fluminense RJ
+- **Minas Gerais** (3):   Atlético MG • Cruzeiro MG • América MG
+- **Rio Grande do Sul** (2):   Grêmio RS • Internacional Porto Alegre
+- **Paraná** (2):   Atlético PR • Coritiba PR
+- **Santa Catarina** (2):   Figueirense • Chapecoense
+- **Pernambuco** (2):   Sport Recife • Santa Cruz
+- **Bahia** (1):   EC Vitória
+
+
+
+
 By Year
 
 - ? (20):   Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • Botafogo RJ • Flamengo RJ • Fluminense RJ • Atlético MG • Cruzeiro MG • América MG • Grêmio RS • Internacional Porto Alegre • Atlético PR • Coritiba PR • Figueirense • Chapecoense • Sport Recife • Santa Cruz • EC Vitória
+
+
+
+
+
+
+By A to Z
+
+- **A** (13): América FC • América MG • Atlético MG • Atlético PR • Atlético/MG • Atlético/PR • AA Ponte Preta • América Mineiro • Atlético Mineiro • Atlético Paranaense • América Futebol Clube • Associação Atlética Ponte Preta • Associação Chapecoense de Futebol
+- **B** (4): Botafogo • Botafogo FR • Botafogo RJ • Botafogo de Futebol e Regatas
+- **C** (19): Coritiba • Cruzeiro • CR Flamengo • Chapecoense • Corinthians • Coritiba FC • Coritiba PR • Cruzeiro EC • Cruzeiro MG • Corinthians SP • C Atlético Mineiro • C Atlético Paranaense • Corinthians São Paulo • Clube Atlético Mineiro • Coritiba Football Club • Cruzeiro Esporte Clube • Cruzeiro Belo Horizonte • Clube Atlético Paranaense • Clube de Regatas do Flamengo
+- **E** (2): EC Vitória • Esporte Clube Vitória
+- **F** (14): Flamengo • FC Santos • Fluminense • Figueirense • Flamengo RJ • FC São Paulo • Fluminense FC • Fluminense RJ • Figueirense FC • Figueirense SC • Flamengo Rio de Janeiro • Fluminense Football Club • Figueirense Futebol Clube • Fluminense Rio de Janeiro
+- **G** (5): Grêmio • Grêmio RS • Grêmio FBPA • Grêmio Porto Alegre • Grêmio Foot-Ball Porto Alegrense
+- **I** (3): Internacional • Internacional RS • Internacional Porto Alegre
+- **P** (3): Palmeiras • Ponte Preta • Palmeiras SP
+- **S** (22): Sport • Santos • Sport PE • Santos FC • Santos SP • São Paulo • Santa Cruz • SE Palmeiras • Sport Recife • São Paulo FC • São Paulo SP • Santa Cruz FC • SC Internacional • Santos Futebol Clube • Sport Club do Recife • SE Palmeiras São Paulo • SC Corinthians Paulista • São Paulo Futebol Clube • Santa Cruz Futebol Clube • Sport Club Internacional • Sociedade Esportiva Palmeiras • Sport Club Corinthians Paulista
+- **V** (1): Vitória
 
 
 

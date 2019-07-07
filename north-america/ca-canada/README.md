@@ -16,11 +16,32 @@ By City
 
 
 
+By Region
+
+- **Quebec** (1):   Montreal Impact
+- **Ontario** (1):   Toronto FC
+- **British Columbia** (1):   Vancouver Whitecaps FC
+
+
+
+
 By Year
 
 - **1974** (1):   Vancouver Whitecaps FC
 - **2006** (1):   Toronto FC
 - **2010** (1):   Montreal Impact
+
+
+
+
+
+
+By A to Z
+
+- **I** (2): Impact Montréal • Impact de Montréal
+- **M** (3): Montreal • Montreal I. • Montreal Impact
+- **T** (3): TFC • Toronto • Toronto FC
+- **V** (3): Vancouver • Vancouver Whitecaps • Vancouver Whitecaps FC
 
 
 

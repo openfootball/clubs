@@ -22,9 +22,30 @@ By City
 
 
 
+By Region
+
+- **city:tegucigalpa** (2):   CD Olimpia • CD Motagua
+- **city:sanpedrosula** (2):   CD Marathón • Real CD España
+
+
+
+
 By Year
 
 - ? (5):   CD Olimpia • CD Marathón • Real CD España • CD Motagua • CD Victoria
+
+
+
+
+
+
+By A to Z
+
+- **C** (4): CD Motagua • CD Olimpia • CD Marathón • CD Victoria
+- **M** (2): Motagua • Marathón
+- **O** (1): Olimpia
+- **R** (2): Real España • Real CD España
+- **V** (1): Victoria
 
 
 

@@ -38,9 +38,47 @@ By City
 
 
 
+By Region
+
+- **city:busan** (1):   Busan I'Park
+- **city:gwangyang** (1):   Chunnam Dragons
+- **city:daegu** (1):   Daegu FC
+- **city:daejeon** (1):   Daejeon Citizen
+- **city:gangneung** (1):   Gangwon FC
+- **city:changwon** (1):   Gyeongnam FC
+- **city:incheon** (1):   Incheon United
+- **city:seogwipo** (1):   Jeju United
+- **city:jeonju** (1):   Jeonbuk Motors
+- **city:pohang** (1):   Pohang Steelers
+- **city:seongnam** (1):   Seongnam Ilhwa Chunma
+- **city:seoul** (1):   FC Seoul
+- **city:suwon** (1):   Suwon Bluewings
+- **city:ulsan** (1):   Ulsan Hyundai
+
+
+
+
 By Year
 
 - ? (14):   Busan I'Park • Chunnam Dragons • Daegu FC • Daejeon Citizen • Gangwon FC • Gyeongnam FC • Incheon United • Jeju United • Jeonbuk Motors • Pohang Steelers • Seongnam Ilhwa Chunma • FC Seoul • Suwon Bluewings • Ulsan Hyundai
+
+
+
+
+
+
+By A to Z
+
+- **B** (3): Busan IPark • Busan I'Park • Busan IPark FC
+- **C** (2): Chunnam Dragons • Chunnam Dragons FC
+- **D** (4): Daegu • Daegu FC • Daejeon Citizen • Daejeon Citizen FC
+- **F** (2): FC Seoul • FC Pohang Steelers
+- **G** (4): Gangwon • Gyeongnam • Gangwon FC • Gyeongnam FC
+- **I** (2): Incheon United • Incheon United FC
+- **J** (5): Jeju United • Jeju United FC • Jeonbuk Motors • Jeonbuk Hyundai Motors • Jeonbuk Hyundai Motors FC
+- **P** (1): Pohang Steelers
+- **S** (6): Seoul • Suwon Bluewings • Seongnam Ilhwa Chunma • Suwon Samsung Bluewings • Seongnam Ilhwa Chunma FC • Suwon Samsung Bluewings FC
+- **U** (2): Ulsan Hyundai • Ulsan Hyundai FC
 
 
 

@@ -28,10 +28,6 @@
 
 By City
 
-- ? (3): 
-  - Mervue 
-  - Monaghan 
-  - Sporting Fingal FC 
 - **Athlone** (1): Athlone Town A.F.C.  (2) Athlone • Athlone Town
 - **Ballybofey** (1): Finn Harps F.C.  (1) Finn Harps
 - **Bray** (1): Bray Wanderers F.C.  (2) Bray • Bray Wanderers
@@ -51,6 +47,35 @@ By City
 - **Longford** (1): Longford Town F.C.  (2) Longford • Longford Town
 - **Sligo** (1): Sligo Rovers F.C.  (2) Sligo Rovers • Sligo Rovers FC
 - **Waterford** (1): Waterford F.C.  (1) Waterford
+- ? (3): 
+  - Mervue 
+  - Monaghan 
+  - Sporting Fingal FC 
+
+
+
+
+By Region
+
+- **Dublin (Tallaght)** (1):   Shamrock Rovers FC
+- **Dublin (Phibsborough)** (1):   Bohemian F.C.
+- **Dublin (Inchicore)** (1):   St Patrick's Athletic F.C.
+- **Dublin (Belfield)** (1):   University College Dublin A.F.C.
+- **Dublin (Drumcondra)** (1):   Shelbourne F.C.
+- **Athlone** (1):   Athlone Town A.F.C.
+- **Bray** (1):   Bray Wanderers F.C.
+- **Cobh** (1):   Cobh Ramblers F.C.
+- **Cork** (1):   Cork City F.C.
+- **Derry** (1):   Derry City F.C.
+- **Drogheda** (1):   Drogheda United F.C.
+- **Dundalk** (1):   Dundalk F.C.
+- **Ballybofey** (1):   Finn Harps F.C.
+- **Galway** (1):   Galway United F.C.
+- **Limerick** (1):   Limerick F.C.
+- **Longford** (1):   Longford Town F.C.
+- **Sligo** (1):   Sligo Rovers F.C.
+- **Waterford** (1):   Waterford F.C.
+- **Crossabeg** (1):   Wexford F.C.
 
 
 
@@ -58,6 +83,25 @@ By City
 By Year
 
 - ? (22):   Shamrock Rovers FC • Bohemian F.C. • St Patrick's Athletic F.C. • University College Dublin A.F.C. • Shelbourne F.C. • Athlone Town A.F.C. • Bray Wanderers F.C. • Cobh Ramblers F.C. • Cork City F.C. • Derry City F.C. • Drogheda United F.C. • Dundalk F.C. • Finn Harps F.C. • Galway United F.C. • Limerick F.C. • Longford Town F.C. • Mervue • Monaghan • Sligo Rovers F.C. • Waterford F.C. • Wexford F.C. • Sporting Fingal FC
+
+
+
+
+
+
+By A to Z
+
+- **A** (3): Athlone • Athlone Town • Athlone Town A.F.C.
+- **B** (6): Bray • Bohemians • Bohemian FC • Bohemian F.C. • Bray Wanderers • Bray Wanderers F.C.
+- **C** (5): Cork City • Cork City FC • Cobh Ramblers • Cork City F.C. • Cobh Ramblers F.C.
+- **D** (10): Dundalk • Drogheda • Derry City • Dundalk FC • Dundalk F.C. • Derry City FC • Derry City F.C. • Drogheda United • Drogheda United FC • Drogheda United F.C.
+- **F** (2): Finn Harps • Finn Harps F.C.
+- **G** (3): Galway • Galway United • Galway United F.C.
+- **L** (5): Limerick • Longford • Limerick F.C. • Longford Town • Longford Town F.C.
+- **M** (2): Mervue • Monaghan
+- **S** (12): Shelbourne • Sligo Rovers • St. Patricks • Shamrock Rovers • Shelbourne F.C. • Sligo Rovers FC • Sligo Rovers F.C. • Shamrock Rovers FC • Sporting Fingal FC • St Patrick's Athletic • St Patrick's Athletic F.C. • Saint Patrick's Athletic FC
+- **U** (3): UCD • UC Dublin • University College Dublin A.F.C.
+- **W** (4): Wexford • Waterford • Wexford F.C. • Waterford F.C.
 
 
 

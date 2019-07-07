@@ -14,9 +14,27 @@ By City
 
 
 
+By Region
+
+- **Saint-Marc** (1):   Tempête FC
+- **Léogâne** (1):   Valencia FC
+
+
+
+
 By Year
 
 - ? (2):   Tempête FC • Valencia FC
+
+
+
+
+
+
+By A to Z
+
+- **T** (3): Tempête • Tempête FC • Tempête Football Club
+- **V** (2): Valencia • Valencia FC
 
 
 

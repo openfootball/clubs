@@ -12,9 +12,25 @@ By City
 
 
 
+By Region
+
+- **city:esteli** (1):   Real Estelí
+
+
+
+
 By Year
 
 - ? (1):   Real Estelí
+
+
+
+
+
+
+By A to Z
+
+- **R** (3): R. Estelí • Real Estelí • Real Estelí FC
 
 
 

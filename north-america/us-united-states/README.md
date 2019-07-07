@@ -63,6 +63,30 @@ By City
 
 
 
+By Region
+
+- **Georgia** (1):   Atlanta United FC
+- **Illinois** (1):   Chicago Fire
+- **Ohio** (2):   Columbus Crew SC • FC Cincinnati
+- **D.C.** (1):   D.C. United
+- **Massachusetts** (1):   New England Revolution
+- **New York** (1):   New York City FC
+- **New Jersey** (1):   New York Red Bulls
+- **Florida** (4):   Orlando City SC • Tampa Bay Mutiny (1996-2001) • Miami Fusion (1998-2001) • Miami
+- **Pennsylvania** (1):   Philadelphia Union
+- **Colorado** (1):   Colorado Rapids
+- **Texas** (2):   FC Dallas • Houston Dynamo
+- **California** (4):   LA Galaxy • Los Angeles FC • San Jose Earthquakes • CD Chivas USA (2005-2014)
+- **Washington** (1):   Seattle Sounders FC
+- **Oregon** (1):   Portland Timbers
+- **Minnesota** (1):   Minnesota United FC
+- **Utah** (1):   Real Salt Lake
+- **Kansas** (1):   Sporting Kansas City
+- **Tennessee** (1):   Nashville
+
+
+
+
 By Year
 
 - **1996** (10):   Columbus Crew SC • D.C. United • New England Revolution • New York Red Bulls • Colorado Rapids • FC Dallas • LA Galaxy • San Jose Earthquakes • Sporting Kansas City • Tampa Bay Mutiny (1996-2001)
@@ -85,6 +109,30 @@ Historic
 
 - **2001** (2):   Tampa Bay Mutiny (1996-2001) • Miami Fusion (1998-2001)
 - **2014** (1):   CD Chivas USA (2005-2014)
+
+
+
+
+
+
+By A to Z
+
+- **A** (2): Atlanta United • Atlanta United FC
+- **C** (11): Chicago • Colorado • Columbus • Chivas USA • Chicago Fire • CD Chivas USA • Columbus Crew • Colorado Rapids • Columbus Crew SC • Club Deportivo Chivas US • CD Chivas USA (2005-2014)
+- **D** (3): Dallas • DC United • D.C. United
+- **E** (1): Earthquakes
+- **F** (2): FC Dallas • FC Cincinnati
+- **H** (3): Houston • H. Dynamo • Houston Dynamo
+- **K** (1): Kansas City Wizards
+- **L** (3): LA Galaxy • Los Angeles FC • Los Angeles Galaxy
+- **M** (6): Miami • Metrostars • Miami Fusion • Minnesota United • Minnesota United FC • Miami Fusion (1998-2001)
+- **N** (9): Nashville • New England • NY Red Bulls • New York City • N.E. Revolution • New York City FC • New York Red Bulls • New York Metrostars • New England Revolution
+- **O** (3): Orlando • Orlando City • Orlando City SC
+- **P** (4): Portland • Philadelphia • Portland Timbers • Philadelphia Union
+- **R** (2): Real Salt Lake • Real Salt Lake City
+- **S** (7): San Jose • Sporting KC • SJ Earthquakes • Seattle Sounders • Seattle Sounders FC • San Jose Earthquakes • Sporting Kansas City
+- **T** (2): Tampa Bay Mutiny • Tampa Bay Mutiny (1996-2001)
+- **W** (1): Washington D.C. United
 
 
 

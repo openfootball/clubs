@@ -69,6 +69,36 @@ By City
 
 
 
+By Region
+
+- **Noord-Holland** (2):   Ajax Amsterdam • AZ Alkmaar
+- **Zuid-Holland** (5):   Feyenoord Rotterdam • Sparta Rotterdam • SBV Excelsior Rotterdam • ADO Den Haag • FC Dordrecht
+- **Friesland** (1):   SC Cambuur
+- **Noord-Brabant** (1):   FC Den Bosch
+- **Limburg** (1):   Fortuna Sittard
+- **Overijssel** (1):   Go Ahead Eagles
+- **Doetinchem** (1):   BV De Graafschap
+- **Groningen** (1):   FC Groningen
+- **Heerenveen** (1):   SC Heerenveen
+- **Almelo** (1):   Heracles Almelo
+- **Maastricht** (1):   MVV Maastricht
+- **Breda** (1):   NAC Breda
+- **Nijmegen** (1):   NEC Nijmegen
+- **Eindhoven** (1):   PSV Eindhoven
+- **Kerkrade** (1):   Roda JC Kerkrade
+- **Roosendaal** (1):   RBC Roosendaal
+- **Enschede** (1):   FC Twente
+- **Utrecht** (1):   FC Utrecht
+- **Venlo** (1):   VVV Venlo
+- **Arnhem** (1):   Vitesse Arnhem
+- **Volendam** (1):   FC Volendam
+- **Waalwijk** (1):   RKC Waalwijk
+- **Tilburg** (1):   Willem II Tilburg
+- **Zwolle** (1):   PEC Zwolle
+
+
+
+
 By Year
 
 - **1892** (1):   Vitesse Arnhem
@@ -91,6 +121,32 @@ By Year
 - **1970** (1):   FC Utrecht
 - **1971** (1):   FC Groningen
 - ? (8):   Sparta Rotterdam • FC Den Bosch • FC Dordrecht • Fortuna Sittard • Go Ahead Eagles • MVV Maastricht • RBC Roosendaal • FC Volendam
+
+
+
+
+
+
+By A to Z
+
+- **A** (9): AZ • Ajax • AFC Ajax • AZ Alkmaar • ADO Den Haag • Ajax Amsterdam • Alkmaar Zaanstreek • Alles Door Oefening Den Haag • Amsterdamsche Football Club Ajax
+- **B** (1): BV De Graafschap
+- **C** (1): Cambuur
+- **D** (4): Den Haag • Den Bosch • Dordrecht • De Graafschap
+- **E** (1): Excelsior
+- **F** (13): FC Twente • Feyenoord • FC Utrecht • FC Volendam • For Sittard • FC Den Bosch • FC Dordrecht • FC Groningen • Fortuna Sittard • Feyenoord Rotterdam • Football Club Twente • Football Club Utrecht • Football Club Groningen
+- **G** (3): Groningen • Graafschap • Go Ahead Eagles
+- **H** (3): Heracles • Heerenveen • Heracles Almelo
+- **M** (1): MVV Maastricht
+- **N** (6): NEC • Nijmegen • NAC Breda • NEC Nijmegen • NOAD ADVENDO Combinatie Breda • Nijmegen Eendracht Combinatie
+- **P** (5): PSV • PEC Zwolle • PSV Eindhoven • Philips Sport Vereniging • Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle
+- **R** (8): Roda • Roda JC • Roosendaal • RKC Waalwijk • Roda Kerkrade • RBC Roosendaal • Roda JC Kerkrade • Rooms Katholieke Combinatie Waalwijk
+- **S** (10): Sparta • SC Cambuur • SBV Excelsior • SC Heerenveen • Sparta Rotterdam • Sportclub Heerenveen • SBV Excelsior Rotterdam • Stichting Betaald Voetbal Vitesse • Stichting Betaald Voetbal Excelsior • Sportvereniging Roda Juliana Combinatie Kerkrade
+- **T** (1): Twente
+- **U** (1): Utrecht
+- **V** (8): Venlo • Vitesse • Volendam • VVV Venlo • VVV-Venlo • Vitesse Arnhem • Venlose Voetbal Vereniging Venlo • Vereniging Betaald Voetbal De Graafschap
+- **W** (3): Waalwijk • Willem II • Willem II Tilburg
+- **Z** (1): Zwolle
 
 
 

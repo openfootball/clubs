@@ -60,9 +60,54 @@ By City
 
 
 
+By Region
+
+- **Ciudad de México** (3):   Club América • Cruz Azul • Pumas UNAM
+- **Jalisco** (3):   CD Guadalajara Chivas • Club Atlas • Leones Negros U. de G.
+- **Nuevo León** (2):   CF Monterrey • Tigres UANL
+- **Puebla** (2):   Lobos BUAP • Club Puebla
+- **San Luis Potosí** (1):   Atlético San Luis
+- **Quintana Roo** (1):   Atlante FC
+- **Chiapas** (1):   Jaguares Chiapas
+- **Guanajuato** (1):   Club León
+- **Baja California** (1):   Club Tijuana
+- **Sinaloa** (1):   Dorados Sinaloa
+- **Michoacán** (1):   Monarcas Morelia
+- **Aguascalientes** (1):   Club Necaxa
+- **Hidalgo** (1):   CF Pachuca
+- **Querétaro** (1):   Querétaro FC
+- **Coahuila** (1):   Santos Laguna
+- **México** (1):   Deportivo Toluca FC
+- **Veracruz** (1):   Tiburones Rojos Veracruz
+
+
+
+
 By Year
 
 - ? (23):   Club América • Cruz Azul • Pumas UNAM • CD Guadalajara Chivas • Club Atlas • Leones Negros U. de G. • CF Monterrey • Tigres UANL • Lobos BUAP • Club Puebla • Atlético San Luis • Atlante FC • Jaguares Chiapas • Club León • Club Tijuana • Dorados Sinaloa • Monarcas Morelia • Club Necaxa • CF Pachuca • Querétaro FC • Santos Laguna • Deportivo Toluca FC • Tiburones Rojos Veracruz
+
+
+
+
+
+
+By A to Z
+
+- **A** (5): Atlas • Atlante • Atlante FC • Atl. San Luis • Atlético San Luis
+- **C** (13): Chiapas • Club Leon • Club León • Cruz Azul • CF Pachuca • Club Atlas • Club Necaxa • Club Puebla • CF Monterrey • Club America • Club América • Club Tijuana • CD Guadalajara Chivas
+- **D** (3): Dorados Sinaloa • Dorados de Sinaloa • Deportivo Toluca FC
+- **G** (1): Guadalajara Chivas
+- **J** (1): Jaguares Chiapas
+- **L** (3): Lobos BUAP • Leones Negros • Leones Negros U. de G.
+- **M** (3): Monarcas • Monterrey • Monarcas Morelia
+- **N** (1): Necaxa
+- **P** (3): Puebla • Pachuca • Pumas UNAM
+- **Q** (2): Queretaro • Querétaro FC
+- **S** (1): !! **Santos Laguna (2)** !!
+- **T** (3): Toluca • Tigres UANL • Tiburones Rojos Veracruz
+- **U** (2): U.N.A.M.- Pumas • U.A.N.L.- Tigres
+- **V** (1): Veracruz
 
 
 
