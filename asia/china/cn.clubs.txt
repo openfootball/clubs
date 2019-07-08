@@ -1,2 +1,53 @@
+Beijing Sinobo Guoan,     Beijing
+  | Beijing Guoan
+Beijing Renhe,            Beijing
 
-Guangzhou Evergrande
+Shanghai SIPG,               Shanghai
+Shanghai Greenland Shenhua,  Shanghai
+  | Shanghai Shenhua
+Shanghai Shenxin,            Shanghai
+  | Shanghai Shenxin F.C.
+
+
+Guangzhou Evergrande Taobao,   Guangzhou
+  | Guangzhou Evergrande
+Guangzhou R&F,                 Guangzhou
+
+Chongqing Dangdai Lifan,   Chongqing
+  | Chongqing Lifan
+Changchun Yatai,           Changchun
+Dalian Yifang,             Dalian
+  | Dalian Yifang F.C.
+Guizhou Hengfeng,          Guiyang
+  | Guizhou Zhicheng
+Hangzhou Greentown,        Hangzhou
+
+Shandong Luneng Taishan,   Jinan
+  | Shandong Luneng
+Hebei China Fortune,       Langfang
+  | Hebei
+Jiangsu Suning,            Nanjing
+
+
+Shenzhen F.C.,               Shenzhen
+  | Shenzhen
+
+Shijiazhuang Ever Bright,   Shijiazhuang
+  | Shijiazhuang
+
+Tianjin Tianhai,            Tianjin
+Tianjin TEDA,               Tianjin
+  | Tianjin Teda
+Tianjin Quanjian,           Tianjin
+
+
+Wuhan Zall,                 Wuhan
+Henan Jianye,               Zhengzhou
+
+Liaoning F.C.,              Shenyang
+  | Liaoning
+
+Yanbian Funde,              Yanji
+  | Yanbian
+Zhejiang Yiteng F.C.,       Harbin    ## todo check city (from 2014) moved (and renamed)?
+  | Zhejiang Yiteng | Harbin Yiteng
