@@ -26,8 +26,10 @@ FC Stahl Linz,       Linz              › Oberösterreich
 SV Ried,             Ried i. Innkreis  › Oberösterreich
   | Ried
 
-SK Sturm Graz,       Graz    › Steiermark
+SK Sturm Graz,       Graz     › Steiermark
   | Sturm Graz
+TSV Hartberg,	       Hartberg › Steiermark
+  | Hartberg
 
 Wolfsberger AC, 	Wolfsberg › Kärnten
   | AC Wolfsberger
