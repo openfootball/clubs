@@ -3,7 +3,7 @@
 
 
 
-#  Campeonato Brasileiro Série A | Brasileirão
+#  Campeonato Brasileiro Série A & B | Brasileirão
 
 Corinthians SP,    São Paulo › São Paulo
   | Corinthians | SC Corinthians Paulista |Corinthians São Paulo
@@ -18,6 +18,11 @@ Santos SP,      Santos › São Paulo
   | Santos |Santos FC | FC Santos | Santos Futebol Clube
 Ponte Preta,    Campinas › São Paulo
   | AA Ponte Preta | Associação Atlética Ponte Preta
+CA Bragantino, Bragança Paulista › São Paulo
+  | Bragantino | Clube Atlético Bragantino
+Oeste SP,      Itápolis › São Paulo
+  | Oeste | Oeste FC | Oeste Futebol Clube
+
 
 
 Botafogo RJ,     Rio de Janeiro › Rio de Janeiro
@@ -27,6 +32,10 @@ Flamengo RJ,     Rio de Janeiro › Rio de Janeiro
   | Clube de Regatas do Flamengo
 Fluminense RJ,    Rio de Janeiro › Rio de Janeiro
   | Fluminense | Fluminense FC | Fluminense Rio de Janeiro | Fluminense Football Club
+CR Vasco da Gama,   Rio de Janeiro › Rio de Janeiro
+  | Vasco | Vasco RJ | Vasco da Gama | Vasco da Gama Rio de Janeiro
+  | Club de Regatas Vasco da Gama
+
 
 Atlético MG,    Belo Horizonte › Minas Gerais
   | Atlético Mineiro | C Atlético Mineiro | Clube Atlético Mineiro
@@ -36,11 +45,18 @@ Cruzeiro MG,    Belo Horizonte › Minas Gerais
 América MG,     Belo Horizonte › Minas Gerais
   | América Mineiro | América FC | América Futebol Clube
   | America MG
+Tupi MG,   Juiz de Fora › Minas Gerais
+  | Tupi | Tupi FC | Tupi Football Club
+
 
 Grêmio RS,      Porto Alegre › Rio Grande do Sul
   | Gremio | Grêmio | Grêmio Porto Alegre | Grêmio FBPA | Grêmio Foot-Ball Porto Alegrense
 Internacional Porto Alegre,  Porto Alegre › Rio Grande do Sul
   | Internacional | SC Internacional | Internacional RS | Sport Club Internacional
+Brasil RS,  Pelotas › Rio Grande do Sul
+  | Brasil de Pelotas
+  | GE Brasil | Grêmio Esportivo Brasil | Grêmio Esportivo Brasil de Pelotas
+
 
 Atlético PR,   Curitiba › Paraná
   | Atlético Paranaense | C Atlético Paranaense | Clube Atlético Paranaense
@@ -48,17 +64,56 @@ Atlético PR,   Curitiba › Paraná
   | Athletico-PR       ## allow typo th too
 Coritiba PR,   Curitiba › Paraná
   | Coritiba | Coritiba FC | Coritiba Football Club
+Londrina EC,      Londrina › Paraná
+  | Londrina | Londrina Esporte Clube
+Paraná Clube,     Curitiba › Paraná
+  | Parana
+
 
 Figueirense,   Florianópolis › Santa Catarina
   | Figueirense FC | Figueirense SC | Figueirense Futebol Clube
 Chapecoense,    Chapecó › Santa Catarina
   | Associação Chapecoense de Futebol
+Criciúma EC,   Criciúma › Santa Catarina
+  | Criciuma | Criciúma | Criciúma Esporte Clube
+Avaí FC,       Florianópolis › Santa Catarina
+  | Avai | Avaí Futebol Clube
+Joinvile EC,     Joinville › Santa Catarina
+  | Joinvile | Joinville | Joinville Esporte Clube     ## check spelling use ville or vile ?
+
 
 Sport Recife,    Recife ›  Pernambuco
   | Sport | Sport PE | Sport Club do Recife
 Santa Cruz,      Recife ›  Pernambuco
   | Santa Cruz FC | Santa Cruz Futebol Clube
+Náutico PE,  Recife › Pernambuco
+  | Náutico | C Náutico Capibaribe | Clube Náutico Capibaribe
 
 EC Vitória,      Salvador ›  Bahia
   | Vitoria | Vitória | Esporte Clube Vitória
+EC Bahia,            Salvador › Bahia
+  | Bahia | Bahia BA | Esporte Clube Bahia
+
+Goiás EC,       Goiânia › Goiás
+  | Goias | Goiás | Goiás Esporte Clube
+Atlético GO,   Goiânia › Goiás
+  | Atletico GO | Atlético Goianiense
+Vila Nova GO,  Goiânia › Goiás
+  | Vila Nova | Vila Nova de Goias | Vila Nova FC | Vila Nova Futebol Clube
+
+
+Ceára SC,      Fortaleza › Ceará
+  | Ceara | Ceará | Ceará Sporting Club
+
+Paysandu SC,   Belém › Pará
+  | Paysandu | Paysandu Sport Club
+
+CRB AL,    Maceió › Alagoas
+  | CRB | Clube de Regatas Brasil
+
+Luverdense EC, Lucas do Rio Verde › Mato Grosso
+  | Luverdense | Luverdense Esporte Clube
+
+Sampaio Corrêa FC, São Luís › Maranhão
+  | Sampaio Corrêa | Sampaio Corrêa Futebol Clube
 
