@@ -9,7 +9,7 @@ Corinthians SP,    São Paulo › São Paulo
   | Corinthians | SC Corinthians Paulista |Corinthians São Paulo
   | Sport Club Corinthians Paulista
 São Paulo FC,      São Paulo › São Paulo
-  | São Paulo | FC São Paulo | São Paulo SP
+  | Sao Paulo | São Paulo | FC São Paulo | São Paulo SP
   | São Paulo Futebol Clube
 Palmeiras SP,  São Paulo › São Paulo
   | Palmeiras | SE Palmeiras | SE Palmeiras São Paulo
@@ -29,19 +29,23 @@ Fluminense RJ,    Rio de Janeiro › Rio de Janeiro
   | Fluminense | Fluminense FC | Fluminense Rio de Janeiro | Fluminense Football Club
 
 Atlético MG,    Belo Horizonte › Minas Gerais
-  | Atlético Mineiro | C Atlético Mineiro | Atlético/MG | Clube Atlético Mineiro
+  | Atlético Mineiro | C Atlético Mineiro | Clube Atlético Mineiro
+  | Atletico-MG | Atlético/MG
 Cruzeiro MG,    Belo Horizonte › Minas Gerais
   | Cruzeiro | Cruzeiro EC | Cruzeiro Esporte Clube | Cruzeiro Belo Horizonte
 América MG,     Belo Horizonte › Minas Gerais
   | América Mineiro | América FC | América Futebol Clube
+  | America MG
 
 Grêmio RS,      Porto Alegre › Rio Grande do Sul
-  | Grêmio | Grêmio Porto Alegre | Grêmio FBPA | Grêmio Foot-Ball Porto Alegrense
+  | Gremio | Grêmio | Grêmio Porto Alegre | Grêmio FBPA | Grêmio Foot-Ball Porto Alegrense
 Internacional Porto Alegre,  Porto Alegre › Rio Grande do Sul
   | Internacional | SC Internacional | Internacional RS | Sport Club Internacional
 
 Atlético PR,   Curitiba › Paraná
-  | Atlético Paranaense | C Atlético Paranaense | Atlético/PR |Clube Atlético Paranaense
+  | Atlético Paranaense | C Atlético Paranaense | Clube Atlético Paranaense
+  | Atletico-PR | Atlético/PR
+  | Athletico-PR       ## allow typo th too
 Coritiba PR,   Curitiba › Paraná
   | Coritiba | Coritiba FC | Coritiba Football Club
 
@@ -56,5 +60,5 @@ Santa Cruz,      Recife ›  Pernambuco
   | Santa Cruz FC | Santa Cruz Futebol Clube
 
 EC Vitória,      Salvador ›  Bahia
-  | Vitória | Esporte Clube Vitória
+  | Vitoria | Vitória | Esporte Clube Vitória
 
