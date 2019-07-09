@@ -12,12 +12,15 @@ Brøndby IF, 1964,    Brøndbyvester › Hovedstaden       ## use Brøndby ??
   | Brondby | Brøndby | Brondby IF | Brøndbyernes Idrætsforening
 
 FC Nordsjælland, 1991,  Farum › Hovedstaden
-  | Nordsjælland | Football Club Nordsjælland
+  | Nordsjaelland | Nordsjælland | Football Club Nordsjælland
 
 FC Helsingør, 2005,  Helsingør › Hovedstaden
  | Helsingør | Helsingor 
 
 
+Lyngby BK, 1921, Lyngby  › Hovedstaden
+  | Lyngby | Lyngby Boldklub
+  
 ====================
 ==  Nordjylland
 
@@ -27,7 +30,9 @@ Aalborg BK, 1885,    Aalborg › Nordjylland
 Hobro IK, 1913,     Hobro › Nordjylland
   | Hobro | Hobro Idræts Klub
 
-
+Vendsyssel FF, Hjørring › Nordjylland
+  | Vendsyssel
+ 
 =====================
 ==  Midtjylland
 
@@ -43,6 +48,9 @@ Viborg FF, 1896,    Viborg › Midtjylland
 AC Horsens,   Horsens › Midtjylland
   | Horsens
 
+Silkeborg IF, 1917,  Silkeborg › Midtjylland
+  | Silkeborg | SIF | Silkeborg Idrætsforening 
+
 ===================
 ==  Østjylland
 
@@ -53,11 +61,20 @@ Randers FC, 2003,   Randers › Østjylland
 ==  Syddanmark
 
 Sønderjysk Elitesport, 2004,   Haderslev › Syddanmark
-  | SønderjyskE
+  | Sonderjyske | SønderjyskE
 
 Odense BK, 1887,      Odense  › Syddanmark
-  | OB | Odense Boldklub,
+  | OB | Odense | Odense Boldklub
 
 Esbjerg fB, 1924,    Esbjerg › Syddanmark
   | Esbjerg | Esbjerg forenede Boldklubber
+
+Vejle, 1891, Vejle › Syddanmark
+  | Vejle Boldklub
+
+=====================
+==  Sjælland
+
+FC Vestsjælland,  Slagelse › Sjælland
+  | Vestsjaelland
 
