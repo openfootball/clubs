@@ -1,9 +1,9 @@
 =================================
-=  Austria (AUT), at
+=  Austria (at) • Österreich
 
 
 ======================
-==  Wien (W)
+==  Wien
 
 FK Austria Wien,   Wien (Favoriten)
   | Austria Vienna | Austria Wien
@@ -13,13 +13,13 @@ Wiener Sport-Club, Wien (Hernals)
 
 
 =======================
-==  Burgenland (B)
+==  Burgenland
 
 SV Mattersburg,      Mattersburg › Burgenland
   | Mattersburg
 
 =================================
-==  Niederösterreich (N)
+==  Niederösterreich
 
 FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt) › Niederösterreich    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
   | Admira  | Admira Wien
@@ -29,7 +29,7 @@ SKN St. Pölten,      St. Pölten   › Niederösterreich
   | St. Polten
 
 ==========================
-==  Oberösterreich (O)
+==  Oberösterreich
 
 LASK Linz,           Linz (Pasching)   › Oberösterreich        ## use Pasching ??
   | Linzer ASK
@@ -39,7 +39,7 @@ SV Ried,             Ried i. Innkreis  › Oberösterreich
   | Ried
 
 ==========================
-==  Steiermark (ST)
+==  Steiermark
 
 SK Sturm Graz,       Graz     › Steiermark
   | Sturm Graz
@@ -47,13 +47,13 @@ TSV Hartberg,	       Hartberg › Steiermark
   | Hartberg
 
 ==========================
-==  Kärnten (K)
+==  Kärnten
 
 Wolfsberger AC, 	Wolfsberg › Kärnten
   | AC Wolfsberger
 
 ===========================
-==  Salzburg (S)
+==  Salzburg
 
 SV Grödig,           Grödig    › Salzburg
   | Grodig
@@ -61,13 +61,13 @@ FC RB Salzburg,      Salzburg (Wals-Siezenheim) › Salzburg         ## use Wals
   | Salzburg
 
 ===========================
-==  Tirol (T)
+==  Tirol
 
 FC Wacker Innsbruck, Innsbruck › Tirol        
   | Wacker Innsbruck | FC Tirol              ## note: FC Tirol old name - add year
 
 ============================
-==  Vorarlberg (V)
+==  Vorarlberg
 
 SCR Altach,          Altach › Vorarlberg
   | Altach
