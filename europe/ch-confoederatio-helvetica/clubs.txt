@@ -1,14 +1,55 @@
-###################################################
-#  Switzerland, ch
+===================================================
+=  Switzerland • Confoederatio Helvetica (ch)
 
-
-FC Basel 1893,           Basel
-  | Basel
-
-BSC Young Boys,          Bern
-  | BSC Young Boys
-
-Grasshopper Club Zürich, Zürich
-  | Grasshoppers Zurich
-FC Zürich,               Zürich
+Grasshoppers Zürich, 1886,       Zürich › Zürich
+  | Grasshoppers | Grasshoppers Zurich | Grasshopper Club Zürich
+FC Zürich, 1896,                 Zürich › Zürich
   | FC Zurich
+FC Winterthur, 1896,      Winterthur › Zürich
+  | Winterthur
+
+FC Basel, 1893,          Basel › Basel-Stadt
+  | Basel | FC Basel 1893
+
+BSC Young Boys, 1898,          Bern › Bern
+  | Young Boys | Young Boys Bern | Berner Sport Club Young Boys | BSC YB
+FC Biel-Bienne, 1896,     Biel/Bienne ›  Bern
+  | Biel-Bienne
+FC Thun, 1898,                 Thun › Bern
+  | Thun | FC Thun 1898
+
+FC Luzern, 1901,                Luzern › Luzern    ## use Lucerne [fr] - why??
+  | Luzern
+
+FC St. Gallen, 1879,            St. Gallen  › St. Gallen
+  | St. Gallen
+FC Wil, 1900,                   Wil › St. Gallen
+  | Wil | FC Wil 1900
+
+FC Schaffhausen, 1896,  Schaffhausen › Schaffhausen
+
+FC Aarau, 1902,                Aarau › Aargau
+  | Aarau
+FC Wohlen, 1904,          Wohlen › Aargau
+  | Wohlen
+
+FC Sion, 1909,                 Sion › Valais
+  | Sion
+
+FC Lausanne,  1896,           Lausanne › Lausanne
+  | FC Lausanne-Sport | Lausanne
+FC Le Mont, 1942,             Le Mont-sur-Lausanne › Lausanne
+  | FC Le Mont-sur-Lausanne,
+
+Servette FC, 1890,            Genève › Genève
+  | Servette | Servette FC Genève | Servette Genève
+
+
+FC Lugano, 1908,              Lugano ›  Ticino
+  | Lugano
+FC Chiasso, 1905,            Chiasso › Ticino
+  | Chiasso
+FC Locarno, 1906,    Locarno › Ticino
+  | Locarno
+AC Bellinzona, 1904,    Bellinzona › Ticino
+  | Bellinzona
