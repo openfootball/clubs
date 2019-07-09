@@ -1,4 +1,4 @@
-53 datafiles, 1171 clubs
+53 datafiles, 1172 clubs
 
 **europe/ad-andorra/clubs.txt** _(4)_:  UE Sant Julià • FC Santa Coloma • UE Santa Coloma • FC Lusitans
 
@@ -6,7 +6,7 @@
 
 **europe/am-armenia/clubs.txt** _(7)_:  FC Pyunik • Ulisses FC • FC Mika • FC Gandzasar • FC Banants • FC Shirak • FC Ararat
 
-**europe/at-austria/clubs.txt** _(16)_:  FK Austria Wien • SK Rapid Wien • Wiener Sport-Club • SV Mattersburg • FC Admira Wacker Mödling • SC Wiener Neustadt • SKN St. Pölten • LASK Linz • FC Stahl Linz • SV Ried • SK Sturm Graz • Wolfsberger AC • SV Grödig • FC RB Salzburg • FC Wacker Innsbruck • SCR Altach
+**europe/at-austria/clubs.txt** _(17)_:  FK Austria Wien • SK Rapid Wien • Wiener Sport-Club • SV Mattersburg • FC Admira Wacker Mödling • SC Wiener Neustadt • SKN St. Pölten • LASK Linz • FC Stahl Linz • SV Ried • SK Sturm Graz • TSV Hartberg • Wolfsberger AC • SV Grödig • FC RB Salzburg • FC Wacker Innsbruck • SCR Altach
 
 **europe/az-azerbaijan/clubs.txt** _(7)_:  Bakı FK • İnter Bakı PİK • Neftçi PFK • Qarabağ FK|Qarabağ • Xäzär Länkäran FK • Olimpik-Şüvälan PFK • Simurq PFK
 

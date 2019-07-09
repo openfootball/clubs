@@ -1,6 +1,6 @@
-4 datafiles, 42 clubs
+4 datafiles, 66 clubs
 
-**asia/china/cn.clubs.txt** _(1)_:  Guangzhou Evergrande
+**asia/china/cn.clubs.txt** _(25)_:  Beijing Sinobo Guoan • Beijing Renhe • Shanghai SIPG • Shanghai Greenland Shenhua • Shanghai Shenxin • Guangzhou Evergrande Taobao • Guangzhou R&F • Chongqing Dangdai Lifan • Changchun Yatai • Dalian Yifang • Guizhou Hengfeng • Hangzhou Greentown • Shandong Luneng Taishan • Hebei China Fortune • Jiangsu Suning • Shenzhen F.C. • Shijiazhuang Ever Bright • Tianjin Tianhai • Tianjin TEDA • Tianjin Quanjian • Wuhan Zall • Henan Jianye • Liaoning F.C. • Yanbian Funde • Zhejiang Yiteng F.C.
 
 **asia/japan/jp.clubs.txt** _(18)_:  Albirex Niigata • Kashima Antlers • Omiya Ardija • Cerezo Osaka • Yokohama F. Marinos • Kawasaki Frontale • Nagoya Grampus • Júbilo Iwata • Oita Trinita • Urawa Red Diamonds • Kashiwa Reysol • Shimizu S-Pulse • Sagan Tosu • Sanfrecce Hiroshima • Shonan Bellmare • FC Tokyo • Vegalta Sendai • Ventforet Kofu
 

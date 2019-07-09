@@ -1,10 +1,10 @@
-85 datafiles, 1460 clubs
+85 datafiles, 1505 clubs
 
 **africa/egypt/eg.clubs.txt** _(18)_:  Al Ahly • Al Mokawloon Al Arab • El Dakhleya • El Entag El Harby • ENPPI SC • Ittihad El Shorta • Tala'ea El Gaish • Wadi Degla • Al Ittihad Al Sakandary • Haras El Hodood • Smouha SC • Zamalek • Ismaily • El Gouna • Ghazl El Mahalla • Misr El Makasa • Petrojet • Telephonat Bani Sweif
 
 **africa/morocco/ma.clubs.txt** _(1)_:  Raja Casablanca
 
-**asia/china/cn.clubs.txt** _(1)_:  Guangzhou Evergrande
+**asia/china/cn.clubs.txt** _(25)_:  Beijing Sinobo Guoan • Beijing Renhe • Shanghai SIPG • Shanghai Greenland Shenhua • Shanghai Shenxin • Guangzhou Evergrande Taobao • Guangzhou R&F • Chongqing Dangdai Lifan • Changchun Yatai • Dalian Yifang • Guizhou Hengfeng • Hangzhou Greentown • Shandong Luneng Taishan • Hebei China Fortune • Jiangsu Suning • Shenzhen F.C. • Shijiazhuang Ever Bright • Tianjin Tianhai • Tianjin TEDA • Tianjin Quanjian • Wuhan Zall • Henan Jianye • Liaoning F.C. • Yanbian Funde • Zhejiang Yiteng F.C.
 
 **asia/japan/jp.clubs.txt** _(18)_:  Albirex Niigata • Kashima Antlers • Omiya Ardija • Cerezo Osaka • Yokohama F. Marinos • Kawasaki Frontale • Nagoya Grampus • Júbilo Iwata • Oita Trinita • Urawa Red Diamonds • Kashiwa Reysol • Shimizu S-Pulse • Sagan Tosu • Sanfrecce Hiroshima • Shonan Bellmare • FC Tokyo • Vegalta Sendai • Ventforet Kofu
 
@@ -36,7 +36,7 @@
 
 **europe/am-armenia/clubs.txt** _(7)_:  FC Pyunik • Ulisses FC • FC Mika • FC Gandzasar • FC Banants • FC Shirak • FC Ararat
 
-**europe/at-austria/clubs.txt** _(16)_:  FK Austria Wien • SK Rapid Wien • Wiener Sport-Club • SV Mattersburg • FC Admira Wacker Mödling • SC Wiener Neustadt • SKN St. Pölten • LASK Linz • FC Stahl Linz • SV Ried • SK Sturm Graz • Wolfsberger AC • SV Grödig • FC RB Salzburg • FC Wacker Innsbruck • SCR Altach
+**europe/at-austria/clubs.txt** _(17)_:  FK Austria Wien • SK Rapid Wien • Wiener Sport-Club • SV Mattersburg • FC Admira Wacker Mödling • SC Wiener Neustadt • SKN St. Pölten • LASK Linz • FC Stahl Linz • SV Ried • SK Sturm Graz • TSV Hartberg • Wolfsberger AC • SV Grödig • FC RB Salzburg • FC Wacker Innsbruck • SCR Altach
 
 **europe/az-azerbaijan/clubs.txt** _(7)_:  Bakı FK • İnter Bakı PİK • Neftçi PFK • Qarabağ FK|Qarabağ • Xäzär Länkäran FK • Olimpik-Şüvälan PFK • Simurq PFK
 
@@ -152,7 +152,7 @@
 
 **south-america/bolivia/bo.clubs.txt** _(5)_:  Club Bolívar • The Strongest • Real Potosí • Club Deportivo San José • Club Deportivo Oriente Petrolero
 
-**south-america/brazil/br.clubs.txt** _(20)_:  Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • Botafogo RJ • Flamengo RJ • Fluminense RJ • Atlético MG • Cruzeiro MG • América MG • Grêmio RS • Internacional Porto Alegre • Atlético PR • Coritiba PR • Figueirense • Chapecoense • Sport Recife • Santa Cruz • EC Vitória
+**south-america/brazil/br.clubs.txt** _(40)_:  Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • CA Bragantino • Oeste SP • Botafogo RJ • Flamengo RJ • Fluminense RJ • CR Vasco da Gama • Atlético MG • Cruzeiro MG • América MG • Tupi MG • Grêmio RS • Internacional Porto Alegre • Brasil RS • Atlético PR • Coritiba PR • Londrina EC • Paraná Clube • Figueirense • Chapecoense • Criciúma EC • Avaí FC • Joinvile EC • Sport Recife • Santa Cruz • Náutico PE • EC Vitória • EC Bahia • Goiás EC • Atlético GO • Vila Nova GO • Ceára SC • Paysandu SC • CRB AL • Luverdense EC • Sampaio Corrêa FC
 
 **south-america/chile/cl.clubs.txt** _(5)_:  Universidad de Chile • Universidad Católica • Unión Española • CD Huachipato • Deportes Iquique
 
