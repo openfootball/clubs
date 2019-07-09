@@ -22,7 +22,8 @@ CA Bragantino, Bragança Paulista › São Paulo
   | Bragantino | Clube Atlético Bragantino
 Oeste SP,      Itápolis › São Paulo
   | Oeste | Oeste FC | Oeste Futebol Clube
-
+Portuguesa,    São Paulo › São Paulo
+  | Associação Portuguesa de Desportos
 
 
 Botafogo RJ,     Rio de Janeiro › Rio de Janeiro
@@ -73,7 +74,7 @@ Paraná Clube,     Curitiba › Paraná
 Figueirense,   Florianópolis › Santa Catarina
   | Figueirense FC | Figueirense SC | Figueirense Futebol Clube
 Chapecoense,    Chapecó › Santa Catarina
-  | Associação Chapecoense de Futebol
+  | Chapecoense-SC | Associação Chapecoense de Futebol
 Criciúma EC,   Criciúma › Santa Catarina
   | Criciuma | Criciúma | Criciúma Esporte Clube
 Avaí FC,       Florianópolis › Santa Catarina
@@ -87,7 +88,7 @@ Sport Recife,    Recife ›  Pernambuco
 Santa Cruz,      Recife ›  Pernambuco
   | Santa Cruz FC | Santa Cruz Futebol Clube
 Náutico PE,  Recife › Pernambuco
-  | Náutico | C Náutico Capibaribe | Clube Náutico Capibaribe
+  | Nautico | Náutico | C Náutico Capibaribe | Clube Náutico Capibaribe
 
 EC Vitória,      Salvador ›  Bahia
   | Vitoria | Vitória | Esporte Clube Vitória
@@ -104,12 +105,17 @@ Vila Nova GO,  Goiânia › Goiás
 
 Ceára SC,      Fortaleza › Ceará
   | Ceara | Ceará | Ceará Sporting Club
-
+Fortaleza,     Fortaleza › Ceará
+  | Fortaleza Esporte Clube
+ 
 Paysandu SC,   Belém › Pará
   | Paysandu | Paysandu Sport Club
 
 CRB AL,    Maceió › Alagoas
   | CRB | Clube de Regatas Brasil
+CSA,       Maceió › Alagoas
+  | Centro Sportivo Alagoano
+
 
 Luverdense EC, Lucas do Rio Verde › Mato Grosso
   | Luverdense | Luverdense Esporte Clube
