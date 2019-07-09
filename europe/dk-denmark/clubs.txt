@@ -1,35 +1,56 @@
-###############################################
-# Denmark (dk)
+==========================
+=   Denmark (DEN), dk
 
 
-FC København, 1992,    København › Hovedstaden   ## Copenhagen [en]
+===================
+==  Hovedstaden
+
+FC København, 1992,    København › Hovedstaden         ## Copenhagen [en]
   | Kobenhavn | København | Football Club København | FC Copenhagen
 
-Brøndby IF, 1964,    Brøndbyvester › Hovedstaden      ## Brøndby??
-  | Brondby IF | Brøndby | Brøndbyernes Idrætsforening
+Brøndby IF, 1964,    Brøndbyvester › Hovedstaden       ## use Brøndby ??
+  | Brondby | Brøndby | Brondby IF | Brøndbyernes Idrætsforening
 
 FC Nordsjælland, 1991,  Farum › Hovedstaden
   | Nordsjælland | Football Club Nordsjælland
 
+FC Helsingør, 2005,  Helsingør › Hovedstaden
+ | Helsingør | Helsingor 
+
+
+====================
+==  Nordjylland
 
 Aalborg BK, 1885,    Aalborg › Nordjylland
-  | AaB | Aalborg Boldspilklub
+  | AaB | Aalborg | Aalborg Boldspilklub
 
 Hobro IK, 1913,     Hobro › Nordjylland
   | Hobro | Hobro Idræts Klub
 
 
+=====================
+==  Midtjylland
+
 FC Midtjylland, 1999,   Herning › Midtjylland
   | Midtjylland | Football Club Midtjylland
 
 AGF Aarhus, 1880,   Aarhus ›  Midtjylland
-  | AGF | Aarhus Gymnastikforening
+  | AGF | Aarhus | Aarhus Gymnastikforening
 
 Viborg FF, 1896,    Viborg › Midtjylland
   | Viborg | Viborg Fodsports Forening
 
+AC Horsens,   Horsens › Midtjylland
+  | Horsens
+
+===================
+==  Østjylland
+
 Randers FC, 2003,   Randers › Østjylland
   | Randers | Randers Football Club
+
+=================
+==  Syddanmark
 
 Sønderjysk Elitesport, 2004,   Haderslev › Syddanmark
   | SønderjyskE
@@ -40,4 +61,3 @@ Odense BK, 1887,      Odense  › Syddanmark
 Esbjerg fB, 1924,    Esbjerg › Syddanmark
   | Esbjerg | Esbjerg forenede Boldklubber
 
-AC Horsens
