@@ -1,9 +1,9 @@
 ==============================================
-= Deutschland • Germany (GER), de
+= Deutschland (de) • Germany 
 
 
 ===================
-==  Bayern (by)
+==  Bayern
 
 Bayern München, 1900,     München › Bayern
   | Bayern | Bayern Munich | Bayern Muenchen | FC Bayern München
@@ -34,7 +34,7 @@ FV Illertissen
 
 
 ==================================
-==  Nordrhein-Westfalen (nw)
+==  Nordrhein-Westfalen
 
 1. FC Köln, 1948,   Köln › Nordrhein-Westfalen
   | FC Koln | 1. FC Koeln   ## Köln
@@ -107,7 +107,7 @@ TuS Erndtebrück
 
 
 =================================
-==  Saarland (sl)
+==  Saarland
 
 1. FC Saarbrücken,   Saarbrücken › Saarland
   | Saarbrucken | Saarbrücken | 1. FC Saarbruecken
@@ -122,7 +122,7 @@ SV Elversberg
 
 
 ===============================
-==  Niedersachsen (ni)
+==  Niedersachsen
 
 VfL Osnabrück,               Osnabrück › Niedersachsen
   | Osnabruck
@@ -146,7 +146,7 @@ TSV Havelse
 
 
 ===============================
-==  Brandenburg (bb)
+==  Brandenburg
 
 Energie Cottbus,  1966,      Cottbus › Brandenburg
   | Cottbus | FC Energie Cottbus
@@ -158,7 +158,7 @@ SV Falkensee-Finkenkrug
 
 
 ===============================
-==  Berlin (be)
+==  Berlin
 
 Hertha BSC, 1892,            	Berlin › Berlin
   | Hertha | Hertha Berliner Sport-Club
@@ -179,7 +179,7 @@ FC Viktoria 1889 Berlin
 
 
 =================================
-==  Hamburg (hh)
+==  Hamburg
 
 Hamburger SV,  1887,     Hamburg › Hamburg
   | Hamburg
@@ -193,7 +193,7 @@ HSV Barmbek-Uhlenhorst
 
 
 =============================
-==  Bremen (hb)
+==  Bremen
 
 Werder Bremen, 1899,      Bremen › Bremen
   | Bremen | SV Werder Bremen
@@ -203,7 +203,7 @@ FC Oberneuland
 Bremer SV
 
 ================================
-==  Baden-Württemberg (bw)
+==  Baden-Württemberg
 
 VfB Stuttgart, 1893,        Stuttgart › Baden-Württemberg
   | Stuttgart
@@ -245,7 +245,7 @@ SV Waldkirch
 
 
 ========================
-==  Hessen (he)
+==  Hessen
 
 Eintracht Frankfurt, 1899,   Frankfurt am Main › Hessen
   | Ein Frankfurt | E. Frankfurt | SG Eintracht Frankfurt   ##  Frankfurt
@@ -262,7 +262,7 @@ KSV Hessen Kassel
 
 
 ===============================
-==  Rheinland-Pfalz (rp)
+==  Rheinland-Pfalz
 
 1. FC Kaiserslautern, 1900, Kaiserslautern › Rheinland-Pfalz
   |K'lautern | Kaiserslautern | 1. FC K'lautern
@@ -284,7 +284,7 @@ FK Pirmasens
 
 
 ==================================
-==   Schleswig-Holstein (sh)
+==   Schleswig-Holstein
 
 VfB Lübeck,          Lübeck  › Schleswig-Holstein
   | Lübeck | Lubeck
@@ -295,7 +295,7 @@ VfR Neumünster
 
 
 ===================================
-==  Mecklenburg-Vorpommern (mv)
+==  Mecklenburg-Vorpommern
 
 Hansa Rostock, 1965,        Rostock › Mecklenburg-Vorpommern
   | Rostock | FC Hansa Rostock
@@ -306,7 +306,7 @@ FC Schönberg 95
 
 
 ===================================
-==  Sachsen (sn)
+==  Sachsen
 
 Dynamo Dresden, 1953,      Dresden › Sachsen
   | Dresden | SG Dynamo Dresden
@@ -324,14 +324,14 @@ FSV Zwickau,        Zwickau  › Sachsen
 
 
 =================================
-==  Sachsen-Anhalt (st)
+==  Sachsen-Anhalt
 
 Hallescher FC
   | Halle
 1. FC Magdeburg
 
 ===================================
-==  Thüringen (th)
+==  Thüringen
 
 FC Carl Zeiss Jena,  Jena   › Thüringen
   | CZ Jena
