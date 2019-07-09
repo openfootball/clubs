@@ -1,9 +1,9 @@
-#########################################
-### Deutschland  • Germany (GER), de
+==============================================
+= Deutschland • Germany (GER), de
 
 
-########################
-# Bayern (by)
+===================
+==  Bayern (by)
 
 Bayern München, 1900,     München › Bayern
   | Bayern | Bayern Munich | Bayern Muenchen | FC Bayern München
@@ -33,8 +33,8 @@ TSV 1860 Rosenheim,  Rosenheim › Bayern
 FV Illertissen
 
 
-##################################
-# Nordrhein-Westfalen (nw)
+==================================
+==  Nordrhein-Westfalen (nw)
 
 1. FC Köln, 1948,   Köln › Nordrhein-Westfalen
   | FC Koln | 1. FC Koeln   ## Köln
@@ -106,8 +106,8 @@ FC Hennef 05
 TuS Erndtebrück
 
 
-######################
-# Saarland (sl)
+=================================
+==  Saarland (sl)
 
 1. FC Saarbrücken,   Saarbrücken › Saarland
   | Saarbrucken | Saarbrücken | 1. FC Saarbruecken
@@ -121,8 +121,8 @@ SV Elversberg
 
 
 
-##########################
-# Niedersachsen (ni)
+===============================
+==  Niedersachsen (ni)
 
 VfL Osnabrück,               Osnabrück › Niedersachsen
   | Osnabruck
@@ -145,8 +145,8 @@ BSV Schwarz-Weiß Rehden
 TSV Havelse
 
 
-#######################
-# Brandenburg (bb)
+===============================
+==  Brandenburg (bb)
 
 Energie Cottbus,  1966,      Cottbus › Brandenburg
   | Cottbus | FC Energie Cottbus
@@ -157,8 +157,8 @@ FSV Optik Rathenow
 SV Falkensee-Finkenkrug
 
 
-######################
-# Berlin (be)
+===============================
+==  Berlin (be)
 
 Hertha BSC, 1892,            	Berlin › Berlin
   | Hertha | Hertha Berliner Sport-Club
@@ -178,12 +178,12 @@ Berliner AK 07
 FC Viktoria 1889 Berlin
 
 
-###########################
-# Hamburg (hh)
+=================================
+==  Hamburg (hh)
 
 Hamburger SV,  1887,     Hamburg › Hamburg
   | Hamburg
-FC St. Pauli, 1910,      Hamburg (St. Pauli) › Hamburg   ## use stadtteil St. Pauli ??
+FC St. Pauli, 1910,      Hamburg (St. Pauli) › Hamburg     ## use stadtteil St. Pauli ??
   | St Pauli | St. Pauli | FC Sankt Pauli
 
 SC Victoria Hamburg
@@ -192,8 +192,8 @@ USC Paloma Hamburg
 HSV Barmbek-Uhlenhorst
 
 
-########################
-# Bremen (hb)
+=============================
+==  Bremen (hb)
 
 Werder Bremen, 1899,      Bremen › Bremen
   | Bremen | SV Werder Bremen
@@ -202,8 +202,8 @@ SG Aumund-Vegesack
 FC Oberneuland
 Bremer SV
 
-##############################
-# Baden-Württemberg (bw)
+================================
+==  Baden-Württemberg (bw)
 
 VfB Stuttgart, 1893,        Stuttgart › Baden-Württemberg
   | Stuttgart
@@ -244,8 +244,8 @@ FC-Astoria Walldorf
 SV Waldkirch
 
 
-######################
-# Hessen (he)
+========================
+==  Hessen (he)
 
 Eintracht Frankfurt, 1899,   Frankfurt am Main › Hessen
   | Ein Frankfurt | E. Frankfurt | SG Eintracht Frankfurt   ##  Frankfurt
@@ -261,8 +261,8 @@ Kickers Offenbach,     Offenbach am Main › Hessen
 KSV Hessen Kassel
 
 
-##################################
-# Rheinland-Pfalz (rp)
+===============================
+==  Rheinland-Pfalz (rp)
 
 1. FC Kaiserslautern, 1900, Kaiserslautern › Rheinland-Pfalz
   |K'lautern | Kaiserslautern | 1. FC K'lautern
@@ -283,8 +283,8 @@ FK Pirmasens
   | FK 03 Pirmasens
 
 
-###############################
-#   Schleswig-Holstein (sh)
+==================================
+==   Schleswig-Holstein (sh)
 
 VfB Lübeck,          Lübeck  › Schleswig-Holstein
   | Lübeck | Lubeck
@@ -294,8 +294,8 @@ Holstein Kiel,       Kiel    › Schleswig-Holstein
 VfR Neumünster
 
 
-###################################
-# Mecklenburg-Vorpommern (mv)
+===================================
+==  Mecklenburg-Vorpommern (mv)
 
 Hansa Rostock, 1965,        Rostock › Mecklenburg-Vorpommern
   | Rostock | FC Hansa Rostock
@@ -305,8 +305,8 @@ FC Schönberg 95
 1. FC Neubrandenburg 04
 
 
-#######################
-#   Sachsen (sn)
+===================================
+==  Sachsen (sn)
 
 Dynamo Dresden, 1953,      Dresden › Sachsen
   | Dresden | SG Dynamo Dresden
@@ -323,15 +323,15 @@ FSV Zwickau,        Zwickau  › Sachsen
   | Zwickau
 
 
-############################
-# Sachsen-Anhalt (st)
+=================================
+==  Sachsen-Anhalt (st)
 
 Hallescher FC
   | Halle
 1. FC Magdeburg
 
-##########################
-# Thüringen (th)
+===================================
+==  Thüringen (th)
 
 FC Carl Zeiss Jena,  Jena   › Thüringen
   | CZ Jena
