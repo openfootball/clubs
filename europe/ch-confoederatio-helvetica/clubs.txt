@@ -36,7 +36,7 @@ FC Wohlen, 1904,          Wohlen › Aargau
 FC Sion, 1909,                 Sion › Valais
   | Sion
 
-Xamax	Neuchâtel,              	Neuchâtel › Neuchâtel   
+Xamax Neuchâtel,              Neuchâtel › Neuchâtel   
   | Xamax | Neuchâtel Xamax FCS 
 
 FC Lausanne,  1896,           Lausanne › Lausanne
