@@ -2,16 +2,42 @@
 # Finland (FIN), fi
 
 
-HJK Helsinki, Helsinki    ## Helsingin Jalkapalloklubi
+HJK Helsinki,     Helsinki
   | Helsingin Jalkapalloklubi | HJK
-FC Haka Valkeakoski, Valkeakoski
+HIFK Helsinki,    Helsinki
+  | HIFK Fotboll | IFK Helsingfors | HIFK
+
+FC Haka Valkeakoski,    Valkeakoski
   | Haka Valkeakoski | Valkeakosken Haka
 
-FC Inter Turku
-TPS Turku
-FC Honka Espoo
-KuPS Kuopio
-Myllykosken Pallo-47
-FC Lahti
-JJK Jyväskylä
-Tampere United
+FC Inter Turku,  Turku
+  | FC Inter | Inter Turku
+TPS Turku,       Turku
+  | TPS
+
+FC Honka Espoo,   Espoo
+  | FC Honka | Honka
+KuPS Kuopio,      Kuopio
+  | KuPS
+Myllykosken Pallo -47,   Myllykoski    ## part of the city of Kouvola
+  | Myllykosken Pallo-47 | MYPA | MyPa
+FC Lahti,         Lahti
+  | Lahti
+JJK Jyväskylä,     Jyväskylä
+  | JJK Jyvaskyla
+
+Tampere United,      Tampere
+FC Ilves,            Tampere
+  | Ilves | Ilves Tampere
+
+
+IFK Mariehamn,    Mariehamn
+  | Mariehamn
+KPV Kokkola,        Kokkola
+  | KPV | Kokkolan Palloveikot
+Rovaniemen Palloseura,  Rovaniemi
+  | RoPS | Rovaniemi
+SJK Seinäjoki,      Seinäjoki
+  | SJK | Seinäjoen Jalkapallokerho
+Vaasan Palloseura,    Vaasa
+  | VPS
