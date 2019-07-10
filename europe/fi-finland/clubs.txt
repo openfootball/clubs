@@ -1,5 +1,5 @@
-################################
-# Finland (FIN), fi
+=================================
+=  Finland (fi)
 
 
 HJK Helsinki,     Helsinki
