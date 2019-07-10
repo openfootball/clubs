@@ -4,7 +4,7 @@
 Grasshoppers Zürich, 1886,       Zürich › Zürich
   | Grasshoppers | Grasshoppers Zurich | Grasshopper Club Zürich
 FC Zürich, 1896,                 Zürich › Zürich
-  | FC Zurich
+  | Zurich | FC Zurich
 FC Winterthur, 1896,      Winterthur › Zürich
   | Winterthur
 
@@ -36,13 +36,16 @@ FC Wohlen, 1904,          Wohlen › Aargau
 FC Sion, 1909,                 Sion › Valais
   | Sion
 
+Xamax	Neuchâtel,              	Neuchâtel › Neuchâtel   
+  | Xamax | Neuchâtel Xamax FCS 
+
 FC Lausanne,  1896,           Lausanne › Lausanne
-  | FC Lausanne-Sport | Lausanne
+  | Lausanne | FC Lausanne-Sport 
 FC Le Mont, 1942,             Le Mont-sur-Lausanne › Lausanne
   | FC Le Mont-sur-Lausanne,
 
 Servette FC, 1890,            Genève › Genève
-  | Servette | Servette FC Genève | Servette Genève
+  | Servette | Servette Genève | Servette FC Genève 
 
 
 FC Lugano, 1908,              Lugano ›  Ticino
