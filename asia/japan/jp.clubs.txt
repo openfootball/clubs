@@ -1,26 +1,57 @@
-#######################################
-# J. League Division 1 2013 Teams
+==================================
+=   Japan (jp)
 
-
-# 18 teams
-
-Albirex Niigata       # Niigata & Seiro, Niigata
-Kashima Antlers       # Southwestern cities/towns of Ibaraki
-Omiya Ardija          # Omiya, Saitama
-Cerezo Osaka          # Osaka, Osaka
-Yokohama F. Marinos   # Yokohama & Yokosuka, Kanagawa
-  | Yokohama F Marinos
-Kawasaki Frontale     # Kawasaki, Kanagawa
-Nagoya Grampus        # Nagoya, Aichi
-Júbilo Iwata          # Iwata, Shizuoka
-Oita Trinita          # All cities/towns in Oita
-Urawa Red Diamonds    # Urawa, Saitama
-Kashiwa Reysol        # Kashiwa, Chiba
-Shimizu S-Pulse       # Shizuoka, Shizuoka
-Sagan Tosu            # Tosu, Saga
-Sanfrecce Hiroshima   # Hiroshima, Hiroshima
-Shonan Bellmare       # Southcentral cities/town in Kanagawa
 FC Tokyo,             Tokyo
   | Tokyo
-Vegalta Sendai        # Sendai, Miyagi
+Tokyo Verdy,          Tokyo
+  | Verdy
+
+Albirex Niigata,      Niigata & Seiro › Niigata
+Omiya Ardija,         Omiya › Saitama
+Cerezo Osaka,         Osaka › Osaka
+  | C-Osaka
+Gamba Osaka,           Suita › Osaka
+  | G-Osaka
+Yokohama F. Marinos,   Yokohama & Yokosuka › Kanagawa
+  | Yokohama | Yokohama M.
+Kawasaki Frontale,     Kawasaki › Kanagawa
+Nagoya Grampus,        Nagoya › Aichi
+  | Nagoya
+Júbilo Iwata,          Iwata › Shizuoka
+  | Iwata
+Urawa Red Diamonds,    Urawa › Saitama
+  | Urawa
+Kashiwa Reysol,        Kashiwa › Chiba
+  | Kashiwa
+Shimizu S-Pulse,        Shizuoka › Shizuoka
+  | Shimizu
+Sagan Tosu,             Tosu › Saga
+Sanfrecce Hiroshima,    Hiroshima › Hiroshima
+  | Hiroshima
+
+Vegalta Sendai,       Sendai, Miyagi
+Hokkaido Consadole Sapporo,  Sapporo › Hokkaido
+  | Sapporo
+Avispa Fukuoka,       Hakata › Fukuoka
+Matsumoto Yamaga,     Matsumoto › Nagano
+  | Yamaga
+Vissel Kobe
+  | Kobe
+V-Varen Nagasaki
+
+Kashima Antlers       # Southwestern cities/towns of Ibaraki
+  | Kashima
+
+Oita Trinita          # All cities/towns in Oita
+  | Oita
+
+Shonan Bellmare       # Southcentral cities/town in Kanagawa
+  | Shonan
+
 Ventforet Kofu        # All cities/towns in Yamanashi
+  | Kofu
+
+Montedio Yamagata     # All cities/towns in Yamagata
+
+Tokushima Vortis      # All cities/towns in Tokushima
+  | Tokushima
