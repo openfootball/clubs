@@ -1,27 +1,94 @@
-####################################
-# Romania (ROU), ro
+====================================
+=  Romania (ro)
 
-FC Steaua București,    București
-  | Steaua | Steaua Bucuresti | Steaua București
-FC Dinamo București,    București
-  | Dinamo Bucuresti | Dinamo București
-Rapid București,        București
+Steaua București,        București
+  | Steaua | Steaua Bucuresti | FC Steaua Bucuresti | FC Steaua București
+Dinamo București,        București
+  | Din. Bucuresti | Dinamo Bucuresti | FC Dinamo București
+Rapid București,         București
+  | FC Rapid Bucuresti | FC Rapid București
+Daco-Getica București,   București
+  | Daco-Getica Bucuresti | Asociația Sport Club Daco-Getica București
+## From 1992 to the summer of 2018, the team was known as Juventus București
+
 
 CFR Cluj,     Cluj
   | CFR 1907 Cluj,
 U Cluj,       Cluj
+  | U. Cluj  | Universitatea Cluj | FC Universitatea Cluj
 
-Astra Giurgiu
-Ceahlaul Piatra Neamt
-Concordia Chiajna
-CSMS Iasi
-FC Brasov
-FC Severin
-FC Vaslui
-Gaz Metan Medias
-Gloria Bistrita
-Otelul Galati
-Pandurii Tg Jiu
-Petrolul Ploiesti
-Viitorul Constanta
+Astra Giurgiu,   Giurgiu
+  | Astra | FC Astra Giurgiu
+Ceahlăul Piatra Neamț,  Piatra Neamț
+  | Ceahlaul | Ceahlaul Piatra Neamt | CSM Ceahlăul Piatra Neamț
+Concordia Chiajna,   Chiajna
+  | Concordia | CS Concordia Chiajna
+FC Vaslui,   Vaslui
+  | Vaslui
+Gaz Metan Mediaș,   Mediaș
+  | Gaz Metan | Gaz Metan Medias | CS Gaz Metan Mediaș
+Gloria Bistrița,    Bistrița
+  | Bistrita | Gloria Bistrita
+
+
+FC Petrolul Ploiești, Ploiești
+  | Petrolul | Petrolul Ploiesti | Petrolul Ploiești
+
+FC Viitorul Constanța,   Ovidiu
+  | Viitorul Constanta
+
+Corona Brașov,   Brașov
+  | Corona Brasov | ASC Corona 2010 Brașov
+FC Brașov,  Brașov
+  | FC Brasov |  SR Brașov
+
+Dunărea Călărași,   Călărași
+  | Calarasi
+Chindia Târgoviște,  Târgoviște
+  | Chindia Targoviste
+CS Turnu Severin,    Drobeta-Turnu Severin
+  | Clubul Sportiv Turnu Severin
+FC Severin,         Drobeta-Turnu Severin
+  | FC Drobeta-Turnu Severin
+
+
+FC Botoșani, Botoșani
+  | FC Botosani | Fotbal Club Botoșani
+
+FC Hermannstadt,   Hermannstadt
+  | Hermannstadt
+
+Săgeata Năvodari, Năvodari
+  | Navodari | AFC Săgeata Năvodari
+
+Oțelul Galați,  Galați
+  | Otelul  | Oțelul | Otelul Galati | ASC Oțelul Galați
+
+Pandurii Târgu Jiu,  Târgu Jiu
+  | Pandurii | Pandurii Tg Jiu | CS Pandurii Târgu Jiu
+
+
+FC Politehnica Iași,   Iași
+  | Poli Iasi | Poli Iași | Politehnica Iași
+  | CSMS Iasi | CSM Politehnica Iași     ## check - older name?
+
+
+Poli Timișoara, Timișoara
+  | Poli Timisoara | ACS Poli Timișoara
+
+Sepsi Sfântu Gheorghe,   Sfântu Gheorghe
+  | Sepsi | Sepsi OSK
+
+Târgu Mureș,    Târgu Mureș
+  | Targu Mures | ASA Târgu Mureș
+
+Universitatea Craiova,    Craiova
+  | U Craiova | CS U Craiova | CS Universitatea Craiova | U Craiova 1948 Club Sportiv
+
+UTA Arad,   Arad
+  | FC UTA Arad | Fotbal Club UTA Arad
+
+FC Voluntari,  Voluntari
+  | Voluntari
+
 
