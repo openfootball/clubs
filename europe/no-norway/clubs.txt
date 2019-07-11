@@ -1,16 +1,57 @@
-##############################
-# Norway (NOR), no
+=============================
+=   Norway (no)
+
+Vålerenga Fotball,   Oslo
+  | Valerenga
 
 Rosenborg BK,  Trondheim
-Molde FK
-Tromsø IL
-Aalesunds FK
-Stabæk Fotball
-Vålerenga Fotball
-SK Brann
-Strømsgodset IF
-  | Strømsgodset
-Fredrikstad FK
-Lillestrøm SK
-Viking FK
+  | Rosenborg | Rosenborg Ballklub
+Ranheim,       Trondheim
+  | Ranheim Fotball
 
+Molde FK,      Molde
+  | Molde
+Tromsø IL,    Tromsø
+  | Tromso | Tromsø | Tromsø Idrettslag
+Aalesunds FK,   Ålesund
+  | Aalesund | Aalesunds Fotballklubb
+
+SK Brann,    Bergen
+  | Brann
+Strømsgodset IF,  Drammen
+  | Stromsgodset | Strømsgodset | Strømsgodset Toppfotball
+Fredrikstad FK,    Fredrikstad
+  | Fredrikstad | Fredrikstad Fotballklubb
+Lillestrøm SK,    Lillestrøm
+  | Lillestrom | Lillestrøm
+Viking FK,    Stavanger
+  | Viking | Viking Fotballklubb | Viking Stavanger
+Odds BK, Skien
+  | Odd | Odds Ballklubb
+Sandefjord, Sandefjord
+  | Sandefjord Fotball
+Sandnes Ulf,  Sandnes
+  | Sandnes
+Sarpsborg 08,  Sarpsborg
+  | Sarpsborg 08 FF | Sarpsborg 08 Fotballforening
+Sogndal,  Sogndal
+  | Sogndal Fotball
+Stabæk,  Bærum
+  | Stabaek | Stabæk Fotball
+IK Start,  Kristiansand
+  | Start | Idrettsklubben Start
+
+Kristiansund BK, Kristiansund
+  | Kristiansund | Kristiansund Ballklubb
+Mjøndalen IF,   Mjøndalen
+  | Mjondalen | Mjøndalen
+Bodø/Glimt,   Bodø
+  | Bodo/Glimt | FK Bodø/Glimt | Fotballklubben Bodø/Glimt
+FK Haugesund,   Haugesund
+  | Haugesund | Fotballklubben Haugesund
+Hønefoss BK,  Hønefoss
+  | Honefoss | Hønefoss | Hønefoss Ballklubb
+FK Jerv,   Grimstad
+  | Jerv
+Ullensaker/Kisa IL,   Ullensaker
+  | Ull/Kisa
