@@ -1,16 +1,79 @@
-#################################
-# Sweden (SWE), se
+=====================================
+=  Sweden (se)
+
+AIK,                 Stockholm
+  | AIK Fotboll | Allmänna Idrottsklubben
+IF Brommapojkarna,   Stockholm (Bromma)
+  | Brommapojkarna
+Djurgårdens IF,      Stockholm
+  | Djurgarden
+Hammarby IF,         Stockholm
+  | Hammarby
+
+
+IFK Göteborg, Göteborg       ## Gothenburg [en]
+  | Goteborg | IFK Goteborg | Idrottsföreningen Kamraterna Göteborg
+GAIS,         Göteborg
+  | Gais | Göteborgs Atlet- och Idrottssällskap
+BK Häcken,    Göteborg
+  | Hacken | Häcken | Bollklubben Häcken
+
 
 Malmö FF, Malmö
-  | Malmo FF
-IFK Göteborg, Göteborg       ## Gothenburg [en]
-  | IFK Goteborg
+  | Malmo FF | Malmö Fotbollförening
 
-Helsingborgs IF
-IF Elfsborg
-Kalmar FF
-AIK
-BK Häcken
-Örebro SK
-Gefle IF
-Djurgårdens IF
+
+IF Elfsborg,   Borås
+  | Elfsborg
+
+Helsingborgs IF, Helsingborg
+  | Helsingborg
+
+Kalmar FF, Kalmar
+  | Kalmar
+Örebro SK,  Örebro
+  | Orebro | Örebro Sportklubb
+Gefle IF,   Gävle
+  | Gefle
+
+AFC Eskilstuna,   Eskilstuna
+Mjällby AIF,      Mjällby
+  | Mjallby
+
+Åtvidabergs FF,  Åtvidaberg
+  | Atvidabergs | Åtvidaberg | Åtvid | ÅFF | Åtvidabergs Fotbollförening
+
+Dalkurd FF,   Uppsala
+  | Dalkurd
+IK Sirius,  Uppsala
+  | Sirius
+
+Falkenbergs FF,   Falkenberg
+  | Falkenbergs
+
+Halmstads BK,   Halmstad
+  | Halmstad | Halmstads Bollklubb
+
+Jönköpings Södra IF, Jönköping
+  | Jonkopings
+
+Ljungskile SK,  Ljungskile
+  | Ljungskile
+
+IFK Norrköping,  Norrköping
+  | Norrkoping
+
+Östers IF,   Växjö
+  | Osters
+
+Östersunds FK,  Östersund
+  | Ostersunds
+
+GIF Sundsvall,  Sundsvall
+  | Sundsvall
+
+Syrianska FC,   Södertälje
+  | Syrianska
+
+Trelleborgs FF, Trelleborg
+  | Trelleborgs
