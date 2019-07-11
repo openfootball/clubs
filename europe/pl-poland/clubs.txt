@@ -1,15 +1,57 @@
-#############################
-# Poland (POL), pl
+================================
+=  Poland (pl)
 
-Legia Warszawa,  Warszawa   ## Warsaw [en]
-  | Legia | Legia Warsaw    
-KSP Polonia Warszawa
+
+Legia Warszawa,        Warszawa   ## Warsaw [en]
+  | Legia | Legia Warsaw
+KSP Polonia Warszawa,  Warszawa
+  | Polonia Warszawa
 
 Górnik Zabrze,   Zabrze
-  | Gornik Zabrze   
+  | Gornik Zabrze | Gornik Z.
 
-KKS Lech Poznań
-Wisła Kraków
-WKS Śląsk Wrocław
-Ruch Chorzów
-Jagiellonia Białystok
+KKS Lech Poznań,   Poznań
+  | Lech Poznan
+Wisła Kraków,     Kraków
+  | Wisla
+KS Cracovia,     Kraków
+  | Cracovia
+WKS Śląsk Wrocław,    Wrocław
+  | Slask Wroclaw
+Jagiellonia Białystok,  Białystok
+  | Jagiellonia
+
+Arka Gdynia,  Gdynia
+GKS Bełchatów,  Bełchatów
+  | GKS Belchatow
+Korona Kielce,  Kielce
+
+Lechia Gdańsk,  Gdańsk
+  | Lechia Gdansk
+Górnik Łęczna,  Lublin
+  | Leczna
+Miedź Legnica,  Legnica
+  | Legnica
+Piast Gliwice,  Gliwice
+Wisła Płock,    Płock
+  | Plock
+Podbeskidzie Bielsko-Biała,   Bielsko-Biała
+  | Podbeskidzie
+Pogoń Szczecin,    Szczecin
+  | Pogon Szczecin
+Ruch Chorzów,  Chorzów
+  | Ruch
+Sandecja Nowy Sącz, Nieciecza
+  | Sandecja Nowy S.
+Bruk-Bet Termalica Nieciecza,  Nieciecza
+  | Termalica B-B.
+
+Widzew Łódź,  Łódź
+  | Widzew Lodz
+
+Zagłębie Lubin,  Lubin
+  | Zaglebie
+Zagłębie Sosnowiec,  Sosnowiec
+  | Zaglebie Sosnowiec
+Zawisza Bydgoszcz,  Bydgoszcz
+  | Zawisza
