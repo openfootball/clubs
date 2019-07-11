@@ -46,7 +46,7 @@ FC Haka, Valkeakoski
   | Haka
 FF Jaro,  Jakobstad
   | Jaro | Fotbollsföreningen Jaro Jalkapalloseura
-KTP	Kotka,   Kotka
+KTP Kotka,   Kotka
   | KTP | Kotkan Työväen Palloilijat
 PK-35 Vantaa, Vantaa
   | PK-35 | Pallokerho-35
