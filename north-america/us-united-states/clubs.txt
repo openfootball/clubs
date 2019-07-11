@@ -63,6 +63,9 @@ Sporting Kansas City, 1996,  Kansas City   › Kansas    ## year 1995? note: Spo
 ## note: was known as: Kansas City Wizards
 ##   rebranded in Nov 2010 to Sporting Kansas City
 
+FC Cincinnati, 2019,  Cincinnati › Ohio
+  | Cincinnati
+
 
 ##################################
 #  Defunct / Historic
@@ -75,6 +78,5 @@ CD Chivas USA    (2005-2014),  Carson          › California   ## use 2014? use
 ####################################
 #  Future / Upcoming
 
-FC Cincinnati, 2019,  Cincinnati › Ohio
 Miami,         2020,  Miami      › Florida
 Nashville,     2020,  Nashville  › Tennessee
