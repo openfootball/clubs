@@ -83,12 +83,11 @@ Târgu Mureș,    Târgu Mureș
   | Targu Mures | ASA Târgu Mureș
 
 Universitatea Craiova,    Craiova
-  | U Craiova | CS U Craiova | CS Universitatea Craiova | U Craiova 1948 Club Sportiv
+  | U Craiova | CS U Craiova | U Craiova 1948 CS | CS Universitatea Craiova
+  | U Craiova 1948 Club Sportiv
 
 UTA Arad,   Arad
   | FC UTA Arad | Fotbal Club UTA Arad
 
 FC Voluntari,  Voluntari
   | Voluntari
-
-

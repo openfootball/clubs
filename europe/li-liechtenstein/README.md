@@ -1,5 +1,6 @@
-1 clubs
+2 clubs
 
+- **FC Vaduz** : (1) Vaduz
 - **FC USV Eschen/Mauren**
 
 
@@ -7,7 +8,9 @@
 
 By City
 
-- ? (1): FC USV Eschen/Mauren 
+- ? (2): 
+  - FC Vaduz  (1) Vaduz
+  - FC USV Eschen/Mauren 
 
 
 
@@ -20,7 +23,7 @@ By Region
 
 By Year
 
-- ? (1):   FC USV Eschen/Mauren
+- ? (2):   FC Vaduz • FC USV Eschen/Mauren
 
 
 
@@ -29,7 +32,8 @@ By Year
 
 By A to Z
 
-- **F** (1): FC USV Eschen/Mauren
+- **F** (2): FC Vaduz • FC USV Eschen/Mauren
+- **V** (1): Vaduz
 
 
 

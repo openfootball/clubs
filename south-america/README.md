@@ -1,10 +1,10 @@
-11 datafiles, 143 clubs
+11 datafiles, 146 clubs
 
 **south-america/argentina/ar.clubs.txt** _(36)_:  All Boys • Argentinos Juniors • Boca Juniors • River Plate • San Lorenzo • Vélez Sarsfield • Huracán • Nueva Chicago • CA Tigre • CA Independiente de Avellaneda • Racing Club • Quilmes AC • CA Lanús • Arsenal de Sarandí • Estudiantes LP • Gimnasia y Esgrima • Club Atlético Aldosivi • Club Atlético Banfield • Defensa y Justicia • Olimpo Bahía Blanca • Sarmiento Junín • Temperley • Chacarita Juniors • Colón Santa Fe • Unión Santa Fe • Newell's Old Boys • Rosario Central • Atlético Rafaela • Club Atlético Belgrano • Talleres de Córdoba • Godoy Cruz • San Martín • Atlético Tucumán • San Martín de Tucumán • Patronato • Crucero del Norte
 
 **south-america/bolivia/bo.clubs.txt** _(5)_:  Club Bolívar • The Strongest • Real Potosí • Club Deportivo San José • Club Deportivo Oriente Petrolero
 
-**south-america/brazil/br.clubs.txt** _(40)_:  Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • CA Bragantino • Oeste SP • Botafogo RJ • Flamengo RJ • Fluminense RJ • CR Vasco da Gama • Atlético MG • Cruzeiro MG • América MG • Tupi MG • Grêmio RS • Internacional Porto Alegre • Brasil RS • Atlético PR • Coritiba PR • Londrina EC • Paraná Clube • Figueirense • Chapecoense • Criciúma EC • Avaí FC • Joinvile EC • Sport Recife • Santa Cruz • Náutico PE • EC Vitória • EC Bahia • Goiás EC • Atlético GO • Vila Nova GO • Ceára SC • Paysandu SC • CRB AL • Luverdense EC • Sampaio Corrêa FC
+**south-america/brazil/br.clubs.txt** _(43)_:  Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • CA Bragantino • Oeste SP • Portuguesa • Botafogo RJ • Flamengo RJ • Fluminense RJ • CR Vasco da Gama • Atlético MG • Cruzeiro MG • América MG • Tupi MG • Grêmio RS • Internacional Porto Alegre • Brasil RS • Atlético PR • Coritiba PR • Londrina EC • Paraná Clube • Figueirense • Chapecoense • Criciúma EC • Avaí FC • Joinvile EC • Sport Recife • Santa Cruz • Náutico PE • EC Vitória • EC Bahia • Goiás EC • Atlético GO • Vila Nova GO • Ceára SC • Fortaleza • Paysandu SC • CRB AL • CSA • Luverdense EC • Sampaio Corrêa FC
 
 **south-america/chile/cl.clubs.txt** _(5)_:  Universidad de Chile • Universidad Católica • Unión Española • CD Huachipato • Deportes Iquique
 

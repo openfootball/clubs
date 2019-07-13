@@ -1,43 +1,99 @@
-8 clubs
+25 clubs
 
 - **Legia Warszawa** : (2) Legia • Legia Warsaw
-- **KSP Polonia Warszawa**
-- **Górnik Zabrze** : (1) Gornik Zabrze
-- **KKS Lech Poznań**
-- **Wisła Kraków**
-- **WKS Śląsk Wrocław**
-- **Ruch Chorzów**
-- **Jagiellonia Białystok**
+- **KSP Polonia Warszawa** : (1) Polonia Warszawa
+- **Górnik Zabrze** : (2) Gornik Z. • Gornik Zabrze
+- **KKS Lech Poznań** : (1) Lech Poznan
+- **Wisła Kraków** : (1) Wisla
+- **KS Cracovia** : (1) Cracovia
+- **WKS Śląsk Wrocław** : (1) Slask Wroclaw
+- **Jagiellonia Białystok** : (1) Jagiellonia
+- **Arka Gdynia**
+- **GKS Bełchatów** : (1) GKS Belchatow
+- **Korona Kielce**
+- **Lechia Gdańsk** : (1) Lechia Gdansk
+- **Górnik Łęczna** : (1) Leczna
+- **Miedź Legnica** : (1) Legnica
+- **Piast Gliwice**
+- **Wisła Płock** : (1) Plock
+- **Podbeskidzie Bielsko-Biała** : (1) Podbeskidzie
+- **Pogoń Szczecin** : (1) Pogon Szczecin
+- **Ruch Chorzów** : (1) Ruch
+- **Sandecja Nowy Sącz** : (1) Sandecja Nowy S.
+- **Bruk-Bet Termalica Nieciecza** : (1) Termalica B-B.
+- **Widzew Łódź** : (1) Widzew Lodz
+- **Zagłębie Lubin** : (1) Zaglebie
+- **Zagłębie Sosnowiec** : (1) Zaglebie Sosnowiec
+- **Zawisza Bydgoszcz** : (1) Zawisza
 
 
 
 
 By City
 
-- **Warszawa** (1): Legia Warszawa  (2) Legia • Legia Warsaw
-- **Zabrze** (1): Górnik Zabrze  (1) Gornik Zabrze
-- ? (6): 
-  - KSP Polonia Warszawa 
-  - KKS Lech Poznań 
-  - Wisła Kraków 
-  - WKS Śląsk Wrocław 
-  - Ruch Chorzów 
-  - Jagiellonia Białystok 
+- **Kraków** (2): 
+  - Wisła Kraków  (1) Wisla
+  - KS Cracovia  (1) Cracovia
+- **Nieciecza** (2): 
+  - Sandecja Nowy Sącz  (1) Sandecja Nowy S.
+  - Bruk-Bet Termalica Nieciecza  (1) Termalica B-B.
+- **Warszawa** (2): 
+  - Legia Warszawa  (2) Legia • Legia Warsaw
+  - KSP Polonia Warszawa  (1) Polonia Warszawa
+- **Bełchatów** (1): GKS Bełchatów  (1) GKS Belchatow
+- **Białystok** (1): Jagiellonia Białystok  (1) Jagiellonia
+- **Bielsko-Biała** (1): Podbeskidzie Bielsko-Biała  (1) Podbeskidzie
+- **Bydgoszcz** (1): Zawisza Bydgoszcz  (1) Zawisza
+- **Chorzów** (1): Ruch Chorzów  (1) Ruch
+- **Gdańsk** (1): Lechia Gdańsk  (1) Lechia Gdansk
+- **Gdynia** (1): Arka Gdynia 
+- **Gliwice** (1): Piast Gliwice 
+- **Kielce** (1): Korona Kielce 
+- **Legnica** (1): Miedź Legnica  (1) Legnica
+- **Lubin** (1): Zagłębie Lubin  (1) Zaglebie
+- **Lublin** (1): Górnik Łęczna  (1) Leczna
+- **Poznań** (1): KKS Lech Poznań  (1) Lech Poznan
+- **Płock** (1): Wisła Płock  (1) Plock
+- **Sosnowiec** (1): Zagłębie Sosnowiec  (1) Zaglebie Sosnowiec
+- **Szczecin** (1): Pogoń Szczecin  (1) Pogon Szczecin
+- **Wrocław** (1): WKS Śląsk Wrocław  (1) Slask Wroclaw
+- **Zabrze** (1): Górnik Zabrze  (2) Gornik Zabrze • Gornik Z.
+- **Łódź** (1): Widzew Łódź  (1) Widzew Lodz
 
 
 
 
 By Region
 
-- **Warszawa†** (1):   Legia Warszawa
+- **Warszawa†** (2):   Legia Warszawa • KSP Polonia Warszawa
 - **Zabrze†** (1):   Górnik Zabrze
+- **Poznań†** (1):   KKS Lech Poznań
+- **Kraków†** (2):   Wisła Kraków • KS Cracovia
+- **Wrocław†** (1):   WKS Śląsk Wrocław
+- **Białystok†** (1):   Jagiellonia Białystok
+- **Gdynia†** (1):   Arka Gdynia
+- **Bełchatów†** (1):   GKS Bełchatów
+- **Kielce†** (1):   Korona Kielce
+- **Gdańsk†** (1):   Lechia Gdańsk
+- **Lublin†** (1):   Górnik Łęczna
+- **Legnica†** (1):   Miedź Legnica
+- **Gliwice†** (1):   Piast Gliwice
+- **Płock†** (1):   Wisła Płock
+- **Bielsko-Biała†** (1):   Podbeskidzie Bielsko-Biała
+- **Szczecin†** (1):   Pogoń Szczecin
+- **Chorzów†** (1):   Ruch Chorzów
+- **Nieciecza†** (2):   Sandecja Nowy Sącz • Bruk-Bet Termalica Nieciecza
+- **Łódź†** (1):   Widzew Łódź
+- **Lubin†** (1):   Zagłębie Lubin
+- **Sosnowiec†** (1):   Zagłębie Sosnowiec
+- **Bydgoszcz†** (1):   Zawisza Bydgoszcz
 
 
 
 
 By Year
 
-- ? (8):   Legia Warszawa • KSP Polonia Warszawa • Górnik Zabrze • KKS Lech Poznań • Wisła Kraków • WKS Śląsk Wrocław • Ruch Chorzów • Jagiellonia Białystok
+- ? (25):   Legia Warszawa • KSP Polonia Warszawa • Górnik Zabrze • KKS Lech Poznań • Wisła Kraków • KS Cracovia • WKS Śląsk Wrocław • Jagiellonia Białystok • Arka Gdynia • GKS Bełchatów • Korona Kielce • Lechia Gdańsk • Górnik Łęczna • Miedź Legnica • Piast Gliwice • Wisła Płock • Podbeskidzie Bielsko-Biała • Pogoń Szczecin • Ruch Chorzów • Sandecja Nowy Sącz • Bruk-Bet Termalica Nieciecza • Widzew Łódź • Zagłębie Lubin • Zagłębie Sosnowiec • Zawisza Bydgoszcz
 
 
 
@@ -46,12 +102,20 @@ By Year
 
 By A to Z
 
-- **G** (2): Gornik Zabrze • Górnik Zabrze
-- **J** (1): Jagiellonia Białystok
-- **K** (2): KKS Lech Poznań • KSP Polonia Warszawa
-- **L** (3): Legia • Legia Warsaw • Legia Warszawa
-- **R** (1): Ruch Chorzów
-- **W** (2): Wisła Kraków • WKS Śląsk Wrocław
+- **A** (1): Arka Gdynia
+- **B** (1): Bruk-Bet Termalica Nieciecza
+- **C** (1): Cracovia
+- **G** (6): Gornik Z. • GKS Belchatow • GKS Bełchatów • Gornik Zabrze • Górnik Zabrze • Górnik Łęczna
+- **J** (2): Jagiellonia • Jagiellonia Białystok
+- **K** (4): KS Cracovia • Korona Kielce • KKS Lech Poznań • KSP Polonia Warszawa
+- **L** (8): Legia • Leczna • Legnica • Lech Poznan • Legia Warsaw • Lechia Gdansk • Lechia Gdańsk • Legia Warszawa
+- **M** (1): Miedź Legnica
+- **P** (7): Plock • Podbeskidzie • Piast Gliwice • Pogon Szczecin • Pogoń Szczecin • Polonia Warszawa • Podbeskidzie Bielsko-Biała
+- **R** (2): Ruch • Ruch Chorzów
+- **S** (3): Slask Wroclaw • Sandecja Nowy S. • Sandecja Nowy Sącz
+- **T** (1): Termalica B-B.
+- **W** (6): Wisla • Widzew Lodz • Widzew Łódź • Wisła Płock • Wisła Kraków • WKS Śląsk Wrocław
+- **Z** (6): Zawisza • Zaglebie • Zagłębie Lubin • Zawisza Bydgoszcz • Zaglebie Sosnowiec • Zagłębie Sosnowiec
 
 
 

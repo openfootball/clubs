@@ -20,10 +20,10 @@
 - **Minnesota United FC** : (1) Minnesota United
 - **Real Salt Lake** : (1) Real Salt Lake City
 - **Sporting Kansas City** : (2) Sporting KC • Kansas City Wizards
+- **FC Cincinnati** : (1) Cincinnati
 - **Tampa Bay Mutiny (1996-2001)** : (1) Tampa Bay Mutiny
 - **Miami Fusion (1998-2001)** : (1) Miami Fusion
 - **CD Chivas USA (2005-2014)** : (3) Chivas USA • CD Chivas USA • Club Deportivo Chivas US
-- **FC Cincinnati**
 - **Miami**
 - **Nashville**
 
@@ -38,7 +38,7 @@ By City
 - **Atlanta, Georgia** (1): Atlanta United FC  (1) Atlanta United
 - **Bridgeview, Illinois** (1): Chicago Fire  (1) Chicago
 - **Chester, Pennsylvania** (1): Philadelphia Union  (1) Philadelphia
-- **Cincinnati, Ohio** (1): FC Cincinnati 
+- **Cincinnati, Ohio** (1): FC Cincinnati  (1) Cincinnati
 - **Columbus, Ohio** (1): Columbus Crew SC  (2) Columbus • Columbus Crew
 - **Commerce City, Colorado** (1): Colorado Rapids  (1) Colorado
 - **Fort Lauderdale, Florida** (1): Miami Fusion (1998-2001)  (1) Miami Fusion
@@ -118,7 +118,7 @@ Historic
 By A to Z
 
 - **A** (2): Atlanta United • Atlanta United FC
-- **C** (11): Chicago • Colorado • Columbus • Chivas USA • Chicago Fire • CD Chivas USA • Columbus Crew • Colorado Rapids • Columbus Crew SC • Club Deportivo Chivas US • CD Chivas USA (2005-2014)
+- **C** (12): Chicago • Colorado • Columbus • Chivas USA • Cincinnati • Chicago Fire • CD Chivas USA • Columbus Crew • Colorado Rapids • Columbus Crew SC • Club Deportivo Chivas US • CD Chivas USA (2005-2014)
 - **D** (3): Dallas • DC United • D.C. United
 - **E** (1): Earthquakes
 - **F** (2): FC Dallas • FC Cincinnati

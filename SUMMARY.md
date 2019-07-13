@@ -1,4 +1,4 @@
-85 datafiles, 1505 clubs
+85 datafiles, 1617 clubs
 
 **africa/egypt/eg.clubs.txt** _(18)_:  Al Ahly • Al Mokawloon Al Arab • El Dakhleya • El Entag El Harby • ENPPI SC • Ittihad El Shorta • Tala'ea El Gaish • Wadi Degla • Al Ittihad Al Sakandary • Haras El Hodood • Smouha SC • Zamalek • Ismaily • El Gouna • Ghazl El Mahalla • Misr El Makasa • Petrojet • Telephonat Bani Sweif
 
@@ -6,7 +6,7 @@
 
 **asia/china/cn.clubs.txt** _(25)_:  Beijing Sinobo Guoan • Beijing Renhe • Shanghai SIPG • Shanghai Greenland Shenhua • Shanghai Shenxin • Guangzhou Evergrande Taobao • Guangzhou R&F • Chongqing Dangdai Lifan • Changchun Yatai • Dalian Yifang • Guizhou Hengfeng • Hangzhou Greentown • Shandong Luneng Taishan • Hebei China Fortune • Jiangsu Suning • Shenzhen F.C. • Shijiazhuang Ever Bright • Tianjin Tianhai • Tianjin TEDA • Tianjin Quanjian • Wuhan Zall • Henan Jianye • Liaoning F.C. • Yanbian Funde • Zhejiang Yiteng F.C.
 
-**asia/japan/jp.clubs.txt** _(18)_:  Albirex Niigata • Kashima Antlers • Omiya Ardija • Cerezo Osaka • Yokohama F. Marinos • Kawasaki Frontale • Nagoya Grampus • Júbilo Iwata • Oita Trinita • Urawa Red Diamonds • Kashiwa Reysol • Shimizu S-Pulse • Sagan Tosu • Sanfrecce Hiroshima • Shonan Bellmare • FC Tokyo • Vegalta Sendai • Ventforet Kofu
+**asia/japan/jp.clubs.txt** _(27)_:  FC Tokyo • Tokyo Verdy • Albirex Niigata • Omiya Ardija • Cerezo Osaka • Gamba Osaka • Yokohama F. Marinos • Kawasaki Frontale • Nagoya Grampus • Júbilo Iwata • Urawa Red Diamonds • Kashiwa Reysol • Shimizu S-Pulse • Sagan Tosu • Sanfrecce Hiroshima • Vegalta Sendai • Hokkaido Consadole Sapporo • Avispa Fukuoka • Matsumoto Yamaga • Vissel Kobe • V-Varen Nagasaki • Kashima Antlers • Oita Trinita • Shonan Bellmare • Ventforet Kofu • Montedio Yamagata • Tokushima Vortis
 
 **asia/kazakhstan/kz.clubs.txt** _(9)_:  FC Astana • FC Aktobe • FC Shakhter Karagandy • FC Tobol Kostanay • FC Irtysh Pavlodar • FC Ordabasy Shymkent • FC Atyrau • FC Zhetysu Taldykorgan • FC Okzhetpes Kokshetau
 
@@ -48,7 +48,7 @@
 
 **europe/by-belarus/clubs.txt** _(9)_:  FC BATE Borisov • FC Gomel • FC Dinamo Minsk • FC Partizan Minsk • FC Minsk • FC Dnepr Mogilev • FC Shakhtyor Soligorsk • FC Naftan Novopolotsk • FC Torpedo Zhodino
 
-**europe/ch-confoederatio-helvetica/clubs.txt** _(4)_:  FC Basel 1893 • BSC Young Boys • Grasshopper Club Zürich • FC Zürich
+**europe/ch-confoederatio-helvetica/clubs.txt** _(22)_:  Grasshoppers Zürich • FC Zürich • FC Winterthur • FC Basel • BSC Young Boys • FC Biel-Bienne • FC Thun • FC Luzern • FC St. Gallen • FC Wil • FC Schaffhausen • FC Aarau • FC Wohlen • FC Sion • Xamax Neuchâtel • FC Lausanne • FC Le Mont • Servette FC • FC Lugano • FC Chiasso • FC Locarno • AC Bellinzona
 
 **europe/cy-cyprus/clubs.txt** _(7)_:  AC Omonia Nicosia • APOEL Nicosia FC • Αnorthosis Famagusta FC • AEL Limassol • Apollon Limassol FC • AEK Larnaca FC • APOP/Kinyras Peyias FC
 
@@ -56,7 +56,7 @@
 
 **europe/de-deutschland/clubs.txt** _(133)_:  Bayern München • TSV 1860 München • 1. FC Nürnberg • Greuther Fürth • FC Augsburg • SpVgg Unterhaching • FC Ingolstadt 04 • SSV Jahn Regensburg • 1. FC Schweinfurt 05 • Würzburger Kickers • Wacker Burghausen • TSV 1860 Rosenheim • FV Illertissen • 1. FC Köln • Fortuna Köln • FC Viktoria Köln • Fortuna Düsseldorf • Borussia Dortmund • Borussia Dortmund II • FC Schalke 04 • Bayer 04 Leverkusen • MSV Duisburg • Bor. Mönchengladbach • VfL Bochum • SG Wattenscheid 09 • Arminia Bielefeld • Preussen Münster • Gütersloh • KFC Uerdingen • Alemannia Aachen • SC Paderborn 07 • Rot Weiss Ahlen • Rot-Weiß Oberhausen • SF Siegen • Wuppertaler SV • Rot-Weiss Essen • SF Baumberg • SF Lotte • SV Lippstadt 08 • SC Wiedenbrück • FC Hennef 05 • TuS Erndtebrück • 1. FC Saarbrücken • FC 08 Homburg • VfB Borussia Neunkirchen • SV Elversberg • VfL Osnabrück • VfL Wolfsburg • Hannover 96 • Eintracht Braunschweig • FT Braunschweig • SV Meppen • VfB Oldenburg • SV Wilhelmshaven • BSV Schwarz-Weiß Rehden • TSV Havelse • Energie Cottbus • SV Babelsberg 03 • FSV Optik Rathenow • SV Falkensee-Finkenkrug • Hertha BSC • Tennis Borussia Berlin • 1. FC Union Berlin • Blau-Weiß 90 Berlin (-1992) • SC Tasmania 1900 Berlin (-1973) • BFC Dynamo Berlin • Berliner AK 07 • FC Viktoria 1889 Berlin • Hamburger SV • FC St. Pauli • SC Victoria Hamburg • USC Paloma Hamburg • HSV Barmbek-Uhlenhorst • Werder Bremen • Werder Bremen II • SG Aumund-Vegesack • FC Oberneuland • Bremer SV • VfB Stuttgart • VfB Stuttgart II • Stuttgarter Kickers • SC Freiburg • TSG 1899 Hoffenheim • Karlsruher SC • SSV Ulm 1846 • VfR Aalen • 1. FC Heidenheim • SSV Reutlingen 05 • SV Sandhausen • VfR Mannheim • SV Waldhof Mannheim • SG Großaspach • FC Nöttingen • Bahlinger SC • Neckarsulmer Sport-Union • Offenburger FV • FC-Astoria Walldorf • SV Waldkirch • Eintracht Frankfurt • FSV Frankfurt • SV Darmstadt 98 • SV Wehen Wiesbaden • Kickers Offenbach • KSV Hessen Kassel • 1. FC Kaiserslautern • 1. FSV Mainz 05 • 1. FSV Mainz 05 II • Eintracht Trier • TuS Koblenz • TSG Pfeddersheim • SV Roßbach/Verscheid • Wormatia Worms • SV Alemannia Waldalgesheim • FSV Salmrohr • FK Pirmasens • VfB Lübeck • Holstein Kiel • VfR Neumünster • Hansa Rostock • TSG Neustrelitz • FC Schönberg 95 • 1. FC Neubrandenburg 04 • Dynamo Dresden • RB Leipzig • VfB Leipzig (-2004) • Chemnitzer FC • FC Erzgebirge Aue • FSV Zwickau • Hallescher FC • 1. FC Magdeburg • FC Carl Zeiss Jena • SV Schott Jena • FC Rot-Weiß Erfurt
 
-**europe/dk-denmark/clubs.txt** _(13)_:  FC København • Brøndby IF • FC Nordsjælland • Aalborg BK • Hobro IK • FC Midtjylland • AGF Aarhus • Viborg FF • Randers FC • Sønderjysk Elitesport • Odense BK • Esbjerg fB • AC Horsens
+**europe/dk-denmark/clubs.txt** _(19)_:  FC København • Brøndby IF • FC Nordsjælland • FC Helsingør • Lyngby BK • Aalborg BK • Hobro IK • Vendsyssel FF • FC Midtjylland • AGF Aarhus • Viborg FF • AC Horsens • Silkeborg IF • Randers FC • Sønderjysk Elitesport • Odense BK • Esbjerg fB • Vejle • FC Vestsjælland
 
 **europe/ee-estonia/clubs.txt** _(6)_:  FC Levadia Tallinn • FC Flora Tallinn • FC TVMK Tallinn • JK Trans Narva • JK Nõmme Kalju • JK Sillamäe Kalev
 
@@ -64,7 +64,7 @@
 
 **europe/es-espana/clubs.txt** _(88)_:  Atlético Madrid • Atlético Madrid B • Real Madrid CF • Real Madrid CF B • Getafe CF • Rayo Vallecano • AD Alcorcón • Málaga CF • Málaga CF B • Sevilla FC • Sevilla FC B • Real Betis • Algeciras CF • UD Almería • Cádiz CF • Córdoba CF • Écija Balompié • Real Jaén CF • Granada CF • Granada 74 • FC Barcelona • FC Barcelona B • RCD Español • Gimnàstic Tarragona • Girona FC • RCD La Coruña • RC Celta Vigo • SD Compostela • Racing Ferrol • Valencia CF • Levante UD • Alicante CF • Hércules CF • CD Alcoyano • Elche CF • CD Castellón • Villarreal CF • Villarreal CF B • Real Sociedad • Deportivo Alavés • SD Eibar • Athletic Club Bilbao • Athletic Club Bilbao B • Sporting Gijón • Albacete Balompié • CD Guadalajara • CD Badajoz • CF Extremadura • CP Mérida • Burgos CF • CD Mirandés • Real Murcia CF • UCAM Murcia • CF Ciudad de Murcia • FC Cartagena • SD Huesca • UD Las Palmas • Universidad Las Palmas • RCD Mallorca • RCD Mallorca B • CA Osasuna • CD Leganés • Cultural Leonesa • UE Lleida • UE Llagostera • CD Logroñés • Lorca FC • CD Lugo • CD Numancia • CD Ourense • Real Oviedo • Polideportivo Ejido • SD Ponferradina • Pontevedra CF • Real Unión • Recreativo Huelva • CF Reus • CE Sabadell • UD Salamanca • Real Racing Santander • CD Tenerife • Terrassa FC • CD Toledo • Real Valladolid CF • UD Vecindario • Xerez CD • Real Zaragoza • Real Madrid Castilla
 
-**europe/fi-finland/clubs.txt** _(10)_:  HJK Helsinki • FC Haka Valkeakoski • FC Inter Turku • TPS Turku • FC Honka Espoo • KuPS Kuopio • Myllykosken Pallo-47 • FC Lahti • JJK Jyväskylä • Tampere United
+**europe/fi-finland/clubs.txt** _(22)_:  HJK Helsinki • HIFK Helsinki • FC Haka Valkeakoski • FC Inter Turku • TPS Turku • FC Honka Espoo • KuPS Kuopio • Myllykosken Pallo -47 • FC Lahti • JJK Jyväskylä • Tampere United • FC Ilves • IFK Mariehamn • KPV Kokkola • Rovaniemen Palloseura • SJK Seinäjoki • Vaasan Palloseura • FC Haka • FF Jaro • KTP Kotka • PK-35 Vantaa • Palloseura Kemi Kings
 
 **europe/fo-faroe-islands/clubs.txt** _(6)_:  HB Tórshavn • B36 Tórshavn • EB/Streymur • NSÍ Runavík • Víkingur • ÍF Fuglafjørdur
 
@@ -86,7 +86,7 @@
 
 **europe/it-italy/clubs.txt** _(83)_:  AS Roma • SS Lazio • AC Milan • FC Internazionale Milano • Torino FC • Juventus • Hellas Verona FC • AC Chievo Verona • Genoa CFC • UC Sampdoria • Atalanta BC • Benevento • Bologna FC • Cagliari Calcio • FC Crotone • ACF Fiorentina • SSC Napoli • US Sassuolo Calcio • SPAL • Udinese Calcio • Ascoli • Avellino • Bari • Brescia • Carpi • Cesena • Cittadella • Cremonese • Empoli • Foggia • Frosinone • Novara • Palermo • Parma • Perugia • Pescara • Pro Vercelli • Salernitana • Spezia • Ternana • Venezia • Virtus Entella • Piacenza Calcio • LR Vicenza Virtus • Calcio Padova • Modena FC • SS Robur Siena • US Anconitana ASD • Cosenza Calcio • SS Fidelis Andria • US Lecce • AS Lucchese Libertas • SS Monza • Ravenna FC • AC Reggiana • Urbs Reggina • ACD Treviso • ASD Castel di Sangro • Unione Calcio Albinoleffe • Calcio Catania • Como 1907 • AS Livorno Calcio • ACR Messina SSD • US Triestina Calcio • SS Arezzo • US Catanzaro • ASD Virtus Bergamo • MC Fermana FC • Gallipoli Football SSD • ASD US Grosseto • AS Gubbio • SS Juve Stabia • SSD Latina Calcio • Mantova SSD • ASD Nocerina • AC Pisa • US Pistoiese • Portogruaro Calcio ASD • Rimini FC SSD • ASD Savoia • Trapani Calcio • Varese Calcio • Virtus Lanciano
 
-**europe/li-liechtenstein/clubs.txt** _(1)_:  FC USV Eschen/Mauren
+**europe/li-liechtenstein/clubs.txt** _(2)_:  FC Vaduz • FC USV Eschen/Mauren
 
 **europe/lt-lithuania/clubs.txt** _(8)_:  FK Ekranas • FK Sūduva • FK Tauras • FK Vėtra • FC Šiauliai • VMFD Žalgiris • FBK Kaunas • FK Banga
 
@@ -108,13 +108,13 @@
 
 **europe/nl-netherlands/clubs.txt** _(29)_:  Ajax Amsterdam • Feyenoord Rotterdam • Sparta Rotterdam • SBV Excelsior Rotterdam • AZ Alkmaar • SC Cambuur • FC Den Bosch • ADO Den Haag • FC Dordrecht • Fortuna Sittard • Go Ahead Eagles • BV De Graafschap • FC Groningen • SC Heerenveen • Heracles Almelo • MVV Maastricht • NAC Breda • NEC Nijmegen • PSV Eindhoven • Roda JC Kerkrade • RBC Roosendaal • FC Twente • FC Utrecht • VVV Venlo • Vitesse Arnhem • FC Volendam • RKC Waalwijk • Willem II Tilburg • PEC Zwolle
 
-**europe/no-norway/clubs.txt** _(11)_:  Rosenborg BK • Molde FK • Tromsø IL • Aalesunds FK • Stabæk Fotball • Vålerenga Fotball • SK Brann • Strømsgodset IF • Fredrikstad FK • Lillestrøm SK • Viking FK
+**europe/no-norway/clubs.txt** _(25)_:  Vålerenga Fotball • Rosenborg BK • Ranheim • Molde FK • Tromsø IL • Aalesunds FK • SK Brann • Strømsgodset IF • Fredrikstad FK • Lillestrøm SK • Viking FK • Odds BK • Sandefjord • Sandnes Ulf • Sarpsborg 08 • Sogndal • Stabæk • IK Start • Kristiansund BK • Mjøndalen IF • Bodø/Glimt • FK Haugesund • Hønefoss BK • FK Jerv • Ullensaker/Kisa IL
 
-**europe/pl-poland/clubs.txt** _(8)_:  Legia Warszawa • KSP Polonia Warszawa • Górnik Zabrze • KKS Lech Poznań • Wisła Kraków • WKS Śląsk Wrocław • Ruch Chorzów • Jagiellonia Białystok
+**europe/pl-poland/clubs.txt** _(25)_:  Legia Warszawa • KSP Polonia Warszawa • Górnik Zabrze • KKS Lech Poznań • Wisła Kraków • KS Cracovia • WKS Śląsk Wrocław • Jagiellonia Białystok • Arka Gdynia • GKS Bełchatów • Korona Kielce • Lechia Gdańsk • Górnik Łęczna • Miedź Legnica • Piast Gliwice • Wisła Płock • Podbeskidzie Bielsko-Biała • Pogoń Szczecin • Ruch Chorzów • Sandecja Nowy Sącz • Bruk-Bet Termalica Nieciecza • Widzew Łódź • Zagłębie Lubin • Zagłębie Sosnowiec • Zawisza Bydgoszcz
 
 **europe/pt-portugal/clubs.txt** _(42)_:  SL Benfica • Sporting CP • Os Belenenses • FC Porto • Boavista FC • CD Aves • GD Chaves • Estoril Praia • CD Feirense • Vitória de Guimarães • Vitória de Setúbal • CS Marítimo • Moreirense FC • FC Paços de Ferreira • Portimonense SC • Rio Ave FC • SC Braga • CD Tondela • Académica de Coimbra • FC Arouca • CD Nacional Madeira • FC Penafiel • SC Beira-Mar • Desportivo de Chaves • CF Estrela da Amadora • SC Farense • Gil Vicente FC • União de Leiria • União da Madeira • SC Salgueiros • FC Tirsense • SC Campomaiorense • FC Felgueiras • Leça FC • FC Alverca • Sporting de Espinho • Leixões SC • Naval 1º de Maio • SC Olhanense • CD Santa Clara • CD Trofense • Varzim SC
 
-**europe/ro-romania/clubs.txt** _(18)_:  FC Steaua București • FC Dinamo București • Rapid București • CFR Cluj • U Cluj • Astra Giurgiu • Ceahlaul Piatra Neamt • Concordia Chiajna • CSMS Iasi • FC Brasov • FC Severin • FC Vaslui • Gaz Metan Medias • Gloria Bistrita • Otelul Galati • Pandurii Tg Jiu • Petrolul Ploiesti • Viitorul Constanta
+**europe/ro-romania/clubs.txt** _(32)_:  Steaua București • Dinamo București • Rapid București • Daco-Getica București • CFR Cluj • U Cluj • Astra Giurgiu • Ceahlăul Piatra Neamț • Concordia Chiajna • FC Vaslui • Gaz Metan Mediaș • Gloria Bistrița • FC Petrolul Ploiești • FC Viitorul Constanța • Corona Brașov • FC Brașov • Dunărea Călărași • Chindia Târgoviște • CS Turnu Severin • FC Severin • FC Botoșani • FC Hermannstadt • Săgeata Năvodari • Oțelul Galați • Pandurii Târgu Jiu • FC Politehnica Iași • Poli Timișoara • Sepsi Sfântu Gheorghe • Târgu Mureș • Universitatea Craiova • UTA Arad • FC Voluntari
 
 **europe/rs-serbia/clubs.txt** _(9)_:  Red Star Belgrade • FK Partizan Belgrade • OFK Beograd • FK Vojvodina • FK Spartak Zlatibor voda • FK Sloboda Užice • FK Rad • FK Jagodina • FK Borac Čačak
 
@@ -122,7 +122,7 @@
 
 **europe/sco-scotland/clubs.txt** _(44)_:  Celtic FC • Rangers FC • Partick Thistle • Queen's Park • Heart of Midlothian FC • Hibernian FC • Edinburgh City • Aberdeen FC • Dundee FC • Dundee United • Hamilton Academical FC • Kilmarnock FC • Motherwell FC • Ross County FC • St Johnstone FC • Brechin City • Dumbarton • Dunfermline Athletic • Falkirk • Greenock Morton • Inverness Caledonian Thistle • Livingston FC • Queen of the South • Saint Mirren FC • Airdrieonians • Albion Rovers • Alloa Athletic • Arbroath • Ayr United • East Fife • Forfar Athletic • Raith Rovers • Stranraer • Annan Athletic • Clyde • Cowdenbeath • Elgin City • Montrose • Peterhead • Stenhousemuir • Stirling Albion • Clydebank FC • East Stirlingshire FC • Gretna FC
 
-**europe/se-sweden/clubs.txt** _(10)_:  Malmö FF • IFK Göteborg • Helsingborgs IF • IF Elfsborg • Kalmar FF • AIK • BK Häcken • Örebro SK • Gefle IF • Djurgårdens IF
+**europe/se-sweden/clubs.txt** _(28)_:  AIK • IF Brommapojkarna • Djurgårdens IF • Hammarby IF • IFK Göteborg • GAIS • BK Häcken • Malmö FF • IF Elfsborg • Helsingborgs IF • Kalmar FF • Örebro SK • Gefle IF • AFC Eskilstuna • Mjällby AIF • Åtvidabergs FF • Dalkurd FF • IK Sirius • Falkenbergs FF • Halmstads BK • Jönköpings Södra IF • Ljungskile SK • IFK Norrköping • Östers IF • Östersunds FK • GIF Sundsvall • Syrianska FC • Trelleborgs FF
 
 **europe/si-slovenia/clubs.txt** _(9)_:  NK Olimpija Ljubljana • NK IB Ljubljana • NK Maribor • ND Mura 05 • FC Koper • ND Gorica • NK Domžale • NK Rudar Velenje • NK Celje
 
@@ -142,7 +142,7 @@
 
 **north-america/mx-mexico/clubs.txt** _(23)_:  Club América • Cruz Azul • Pumas UNAM • CD Guadalajara Chivas • Club Atlas • Leones Negros U. de G. • CF Monterrey • Tigres UANL • Lobos BUAP • Club Puebla • Atlético San Luis • Atlante FC • Jaguares Chiapas • Club León • Club Tijuana • Dorados Sinaloa • Monarcas Morelia • Club Necaxa • CF Pachuca • Querétaro FC • Santos Laguna • Deportivo Toluca FC • Tiburones Rojos Veracruz
 
-**north-america/us-united-states/clubs.txt** _(26)_:  Atlanta United FC • Chicago Fire • Columbus Crew SC • D.C. United • New England Revolution • New York City FC • New York Red Bulls • Orlando City SC • Philadelphia Union • Colorado Rapids • FC Dallas • Houston Dynamo • LA Galaxy • Los Angeles FC • San Jose Earthquakes • Seattle Sounders FC • Portland Timbers • Minnesota United FC • Real Salt Lake • Sporting Kansas City • Tampa Bay Mutiny (1996-2001) • Miami Fusion (1998-2001) • CD Chivas USA (2005-2014) • FC Cincinnati • Miami • Nashville
+**north-america/us-united-states/clubs.txt** _(26)_:  Atlanta United FC • Chicago Fire • Columbus Crew SC • D.C. United • New England Revolution • New York City FC • New York Red Bulls • Orlando City SC • Philadelphia Union • Colorado Rapids • FC Dallas • Houston Dynamo • LA Galaxy • Los Angeles FC • San Jose Earthquakes • Seattle Sounders FC • Portland Timbers • Minnesota United FC • Real Salt Lake • Sporting Kansas City • FC Cincinnati • Tampa Bay Mutiny (1996-2001) • Miami Fusion (1998-2001) • CD Chivas USA (2005-2014) • Miami • Nashville
 
 **pacific/australia/au.clubs.txt** _(9)_:  Adelaide United • Brisbane Roar • Sydney FC • Western Sydney Wanderers • Central Coast Mariners • Newcastle United Jets • Melbourne Heart • Melbourne Victory • Perth Glory
 
@@ -152,7 +152,7 @@
 
 **south-america/bolivia/bo.clubs.txt** _(5)_:  Club Bolívar • The Strongest • Real Potosí • Club Deportivo San José • Club Deportivo Oriente Petrolero
 
-**south-america/brazil/br.clubs.txt** _(40)_:  Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • CA Bragantino • Oeste SP • Botafogo RJ • Flamengo RJ • Fluminense RJ • CR Vasco da Gama • Atlético MG • Cruzeiro MG • América MG • Tupi MG • Grêmio RS • Internacional Porto Alegre • Brasil RS • Atlético PR • Coritiba PR • Londrina EC • Paraná Clube • Figueirense • Chapecoense • Criciúma EC • Avaí FC • Joinvile EC • Sport Recife • Santa Cruz • Náutico PE • EC Vitória • EC Bahia • Goiás EC • Atlético GO • Vila Nova GO • Ceára SC • Paysandu SC • CRB AL • Luverdense EC • Sampaio Corrêa FC
+**south-america/brazil/br.clubs.txt** _(43)_:  Corinthians SP • São Paulo FC • Palmeiras SP • Santos SP • Ponte Preta • CA Bragantino • Oeste SP • Portuguesa • Botafogo RJ • Flamengo RJ • Fluminense RJ • CR Vasco da Gama • Atlético MG • Cruzeiro MG • América MG • Tupi MG • Grêmio RS • Internacional Porto Alegre • Brasil RS • Atlético PR • Coritiba PR • Londrina EC • Paraná Clube • Figueirense • Chapecoense • Criciúma EC • Avaí FC • Joinvile EC • Sport Recife • Santa Cruz • Náutico PE • EC Vitória • EC Bahia • Goiás EC • Atlético GO • Vila Nova GO • Ceára SC • Fortaleza • Paysandu SC • CRB AL • CSA • Luverdense EC • Sampaio Corrêa FC
 
 **south-america/chile/cl.clubs.txt** _(5)_:  Universidad de Chile • Universidad Católica • Unión Española • CD Huachipato • Deportes Iquique
 

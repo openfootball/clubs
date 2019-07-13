@@ -1,48 +1,61 @@
-13 clubs
+19 clubs
 
 - **FC København** : (4) Kobenhavn • København • FC Copenhagen • Football Club København
-- **Brøndby IF** : (3) Brøndby • Brondby IF • Brøndbyernes Idrætsforening
-- **FC Nordsjælland** : (2) Nordsjælland • Football Club Nordsjælland
-- **Aalborg BK** : (2) AaB • Aalborg Boldspilklub
+- **Brøndby IF** : (4) Brondby • Brøndby • Brondby IF • Brøndbyernes Idrætsforening
+- **FC Nordsjælland** : (3) Nordsjælland • Nordsjaelland • Football Club Nordsjælland
+- **FC Helsingør** : (2) Helsingør • Helsingor
+- **Lyngby BK** : (2) Lyngby • Lyngby Boldklub
+- **Aalborg BK** : (3) AaB • Aalborg • Aalborg Boldspilklub
 - **Hobro IK** : (2) Hobro • Hobro Idræts Klub
+- **Vendsyssel FF** : (1) Vendsyssel
 - **FC Midtjylland** : (2) Midtjylland • Football Club Midtjylland
-- **AGF Aarhus** : (2) AGF • Aarhus Gymnastikforening
+- **AGF Aarhus** : (3) AGF • Aarhus • Aarhus Gymnastikforening
 - **Viborg FF** : (2) Viborg • Viborg Fodsports Forening
+- **AC Horsens** : (1) Horsens
+- **Silkeborg IF** : (3) SIF • Silkeborg • Silkeborg Idrætsforening
 - **Randers FC** : (2) Randers • Randers Football Club
-- **Sønderjysk Elitesport** : (1) SønderjyskE
-- **Odense BK** : (2) OB • Odense Boldklub,
+- **Sønderjysk Elitesport** : (2) Sonderjyske • SønderjyskE
+- **Odense BK** : (3) OB • Odense • Odense Boldklub
 - **Esbjerg fB** : (2) Esbjerg • Esbjerg forenede Boldklubber
-- **AC Horsens**
+- **Vejle** : (1) Vejle Boldklub
+- **FC Vestsjælland** : (1) Vestsjaelland
 
 
 
 
 By City
 
-- **Aalborg, Nordjylland** (1): Aalborg BK  (2) AaB • Aalborg Boldspilklub
-- **Aarhus, Midtjylland** (1): AGF Aarhus  (2) AGF • Aarhus Gymnastikforening
-- **Brøndbyvester, Hovedstaden** (1): Brøndby IF  (3) Brondby IF • Brøndby • Brøndbyernes Idrætsforening
+- **Aalborg, Nordjylland** (1): Aalborg BK  (3) AaB • Aalborg • Aalborg Boldspilklub
+- **Aarhus, Midtjylland** (1): AGF Aarhus  (3) AGF • Aarhus • Aarhus Gymnastikforening
+- **Brøndbyvester, Hovedstaden** (1): Brøndby IF  (4) Brondby • Brøndby • Brondby IF • Brøndbyernes Idrætsforening
 - **Esbjerg, Syddanmark** (1): Esbjerg fB  (2) Esbjerg • Esbjerg forenede Boldklubber
-- **Farum, Hovedstaden** (1): FC Nordsjælland  (2) Nordsjælland • Football Club Nordsjælland
-- **Haderslev, Syddanmark** (1): Sønderjysk Elitesport  (1) SønderjyskE
+- **Farum, Hovedstaden** (1): FC Nordsjælland  (3) Nordsjaelland • Nordsjælland • Football Club Nordsjælland
+- **Haderslev, Syddanmark** (1): Sønderjysk Elitesport  (2) Sonderjyske • SønderjyskE
+- **Helsingør, Hovedstaden** (1): FC Helsingør  (2) Helsingør • Helsingor
 - **Herning, Midtjylland** (1): FC Midtjylland  (2) Midtjylland • Football Club Midtjylland
+- **Hjørring, Nordjylland** (1): Vendsyssel FF  (1) Vendsyssel
 - **Hobro, Nordjylland** (1): Hobro IK  (2) Hobro • Hobro Idræts Klub
+- **Horsens, Midtjylland** (1): AC Horsens  (1) Horsens
 - **København, Hovedstaden** (1): FC København  (4) Kobenhavn • København • Football Club København • FC Copenhagen
-- **Odense, Syddanmark** (1): Odense BK  (2) OB • Odense Boldklub,
+- **Lyngby, Hovedstaden** (1): Lyngby BK  (2) Lyngby • Lyngby Boldklub
+- **Odense, Syddanmark** (1): Odense BK  (3) OB • Odense • Odense Boldklub
 - **Randers, Østjylland** (1): Randers FC  (2) Randers • Randers Football Club
+- **Silkeborg, Midtjylland** (1): Silkeborg IF  (3) Silkeborg • SIF • Silkeborg Idrætsforening
+- **Slagelse, Sjælland** (1): FC Vestsjælland  (1) Vestsjaelland
+- **Vejle, Syddanmark** (1): Vejle  (1) Vejle Boldklub
 - **Viborg, Midtjylland** (1): Viborg FF  (2) Viborg • Viborg Fodsports Forening
-- ? (1): AC Horsens 
 
 
 
 
 By Region
 
-- **Hovedstaden** (3):   FC København • Brøndby IF • FC Nordsjælland
-- **Nordjylland** (2):   Aalborg BK • Hobro IK
-- **Midtjylland** (3):   FC Midtjylland • AGF Aarhus • Viborg FF
+- **Hovedstaden** (5):   FC København • Brøndby IF • FC Nordsjælland • FC Helsingør • Lyngby BK
+- **Nordjylland** (3):   Aalborg BK • Hobro IK • Vendsyssel FF
+- **Midtjylland** (5):   FC Midtjylland • AGF Aarhus • Viborg FF • AC Horsens • Silkeborg IF
 - **Østjylland** (1):   Randers FC
-- **Syddanmark** (3):   Sønderjysk Elitesport • Odense BK • Esbjerg fB
+- **Syddanmark** (4):   Sønderjysk Elitesport • Odense BK • Esbjerg fB • Vejle
+- **Sjælland** (1):   FC Vestsjælland
 
 
 
@@ -52,8 +65,11 @@ By Year
 - **1880** (1):   AGF Aarhus
 - **1885** (1):   Aalborg BK
 - **1887** (1):   Odense BK
+- **1891** (1):   Vejle
 - **1896** (1):   Viborg FF
 - **1913** (1):   Hobro IK
+- **1917** (1):   Silkeborg IF
+- **1921** (1):   Lyngby BK
 - **1924** (1):   Esbjerg fB
 - **1964** (1):   Brøndby IF
 - **1991** (1):   FC Nordsjælland
@@ -61,7 +77,8 @@ By Year
 - **1999** (1):   FC Midtjylland
 - **2003** (1):   Randers FC
 - **2004** (1):   Sønderjysk Elitesport
-- ? (1):   AC Horsens
+- **2005** (1):   FC Helsingør
+- ? (3):   Vendsyssel FF • AC Horsens • FC Vestsjælland
 
 
 
@@ -70,18 +87,19 @@ By Year
 
 By A to Z
 
-- **A** (7): AGF • AaB • AC Horsens • AGF Aarhus • Aalborg BK • Aalborg Boldspilklub • Aarhus Gymnastikforening
-- **B** (4): Brøndby • Brondby IF • Brøndby IF • Brøndbyernes Idrætsforening
+- **A** (9): AGF • AaB • Aarhus • Aalborg • AC Horsens • AGF Aarhus • Aalborg BK • Aalborg Boldspilklub • Aarhus Gymnastikforening
+- **B** (5): Brondby • Brøndby • Brondby IF • Brøndby IF • Brøndbyernes Idrætsforening
 - **E** (3): Esbjerg • Esbjerg fB • Esbjerg forenede Boldklubber
-- **F** (7): FC København • FC Copenhagen • FC Midtjylland • FC Nordsjælland • Football Club København • Football Club Midtjylland • Football Club Nordsjælland
-- **H** (3): Hobro • Hobro IK • Hobro Idræts Klub
+- **F** (9): FC Helsingør • FC København • FC Copenhagen • FC Midtjylland • FC Nordsjælland • FC Vestsjælland • Football Club København • Football Club Midtjylland • Football Club Nordsjælland
+- **H** (6): Hobro • Horsens • Hobro IK • Helsingor • Helsingør • Hobro Idræts Klub
 - **K** (2): Kobenhavn • København
+- **L** (3): Lyngby • Lyngby BK • Lyngby Boldklub
 - **M** (1): Midtjylland
-- **N** (1): Nordsjælland
-- **O** (3): OB • Odense BK • Odense Boldklub,
+- **N** (2): Nordsjælland • Nordsjaelland
+- **O** (4): OB • Odense • Odense BK • Odense Boldklub
 - **R** (3): Randers • Randers FC • Randers Football Club
-- **S** (2): SønderjyskE • Sønderjysk Elitesport
-- **V** (3): Viborg • Viborg FF • Viborg Fodsports Forening
+- **S** (7): SIF • Silkeborg • Sonderjyske • SønderjyskE • Silkeborg IF • Sønderjysk Elitesport • Silkeborg Idrætsforening
+- **V** (8): Vejle • Viborg • Viborg FF • Vendsyssel • Vendsyssel FF • Vestsjaelland • Vejle Boldklub • Viborg Fodsports Forening
 
 
 
