@@ -1,5 +1,5 @@
-##################
-# Uruguay, uy
+========================
+=  Uruguay (uy)
 
 Liverpool Montevideo,          Montevideo
   | Liverpool | Liverpool FC | Liverpool Fútbol Club | Liverpool FC Montevideo
@@ -7,7 +7,7 @@ Nacional de Montevideo, 1899,  Montevideo
   | Nacional | Club Nacional de Football | C. N. de F.
 Defensor Sporting,             Montevideo
   | Defensor | Defensor Sp. | Defensor Sporting Club
-CA Peñarol,                    Montevideo 
+CA Peñarol,                    Montevideo
   | Peñarol | Club Atlético Peñarol
 CA Cerro, 1922,                Montevideo
   | Cerro | Club Atlético Cerro
@@ -15,7 +15,7 @@ Danubio FC, 1932,              Montevideo
   | Danubio | Danubio Fútbol Club
 El Tanque Sisley, 1941,        Montevideo
   | Deportivo El Tanque Sisley
-Centro Atlético Fénix, 1916,   Montevideo  
+Centro Atlético Fénix, 1916,   Montevideo
   | Fénix
 CS Miramar Misiones, 1906,     Montevideo
   | Miramar Misiones | Club Sportivo Miramar Misiones
@@ -25,9 +25,9 @@ Racing CM, 1919,               Montevideo
   | Racing | Racing Club de Montevideo
 CA Rentistas, 1933,            Montevideo
   | Rentistas | Club Atlético Rentistas
-CA River Plate, 1932,          Montevideo     
+CA River Plate, 1932,          Montevideo
   | River Plate | Club Atlético River Plate   # note: riverplate used for club in argentina
- 
+
 
 Juventud de Las Piedras, 1935,    Las Piedras
   | Juventud | Club Atlético Juventud de Las Piedras
@@ -35,4 +35,3 @@ Cerro Largo, 2002,                Melo
   | Cerro Largo FC | Cerro Largo Fútbol Club
 Sud América, 1914,                San José
   | Institución Atlética Sud América | I.A.S.A
- 

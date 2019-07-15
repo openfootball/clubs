@@ -1,5 +1,5 @@
-############################
-# Kazakhstan (KAZ), kz
+==================================
+=   Kazakhstan (kz)
 
 FC Astana, 2009
   | Astana | Football Club Astana

@@ -1,8 +1,5 @@
-###########################################
-# Egyptian Premier League 2012/13 Teams
-
-
-# 18 teams
+========================================
+=  Egypt (eg)
 
 
 Al Ahly,                Cairo › Cairo
@@ -13,7 +10,7 @@ El Dakhleya,            Cairo › Cairo   ##  Abbassia
 El Entag El Harby,      Cairo › Cairo
   | Military Production
 ENPPI SC,               Cairo › Cairo
-  | Enppi | ENPPI Club  
+  | Enppi | ENPPI Club
 Ittihad El Shorta,      Cairo › Cairo
   | Police Union
 Tala'ea El Gaish,       Cairo › Cairo

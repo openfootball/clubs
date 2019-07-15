@@ -1,10 +1,10 @@
-###################
-# Bolivia, bo
+=========================
+=  Bolivia (bo)
 
 Club Bolívar,                      La Paz
   | Bolívar
 The Strongest,                     La Paz
-  | Strongest | Club The Strongest 
+  | Strongest | Club The Strongest
 
 Real Potosí,                       Potosí
   | Club Bamin Real Potosí

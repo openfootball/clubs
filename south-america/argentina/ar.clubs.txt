@@ -1,6 +1,8 @@
-#######################################
-# Primera División de Argentina
+===========================
+=  Argentina (ar)
 
+
+== Buenos Aires ==
 
 All Boys,           Buenos Aires
   | Club Atlético All Boys
@@ -20,8 +22,6 @@ Huracán,            Buenos Aires
 Nueva Chicago,   Buenos Aires
   | Club Atlético Nueva Chicago
 
-
-################################
 # Greater Buenos Aires
 
 CA Tigre,     Victoria › Buenos Aires     #  Victoria es una ciudad del partido de San Fernando, en la zona centro-este de la provincia de Buenos Aires y parte del Gran Buenos Aires
@@ -62,8 +62,7 @@ Chacarita Juniors,    Villa Maipú › Buenos Aires
   | Club Atlético Chacarita Juniors
 
 
-################################
-# Provincia Santa Fe
+== Provincia Santa Fe ==
 
 Colón Santa Fe,  Santa Fe
   | Colón | CA Colón | Club Atlético Colón | Club Atlético Colón (Santa Fe)
@@ -81,28 +80,28 @@ Atlético Rafaela, Rafaela › Santa Fe
   | At. de Rafaela | Atl. Rafaela | Atlético de Rafaela
   | Asociación Mutual Social y Deportiva Atlético de Rafaela
 
-###############################
-# Provincia Córdoba
+
+== Provincia Córdoba ==
 
 Club Atlético Belgrano,   Córdoba
   | Belgrano
 Talleres de Córdoba,      Córdoba
   | Talleres Cordoba | Club Atlético Talleres
 
-###############################
-# Provincia Mendoza
+
+== Provincia Mendoza ==
 
 Godoy Cruz, 	Mendoza       # Godoy Cruy is a city in Greater Mendoza
   | Club Deportivo Godoy Cruz Antonio Tomba
 
-###############################
-# Provincia San Juan
+
+== Provincia San Juan ==
 
 San Martín,    San Juan
   | San Martin S.J. | San Martín San Juan | Club Atlético San Martín
 
-###############################
-# Provincia Tucumán
+
+== Provincia Tucumán ==
 
 Atlético Tucumán,       San Miguel de Tucumán  › Tucumán
   | Atl. Tucuman
@@ -110,14 +109,14 @@ San Martín de Tucumán,  San Miguel de Tucumán  › Tucumán
   | San Martin T.
   | Club Atlético San Martín | Club Atlético San Martín (Tucumán)
 
-###############################
-# Provincia Entre Ríos
+
+== Provincia Entre Ríos ==
 
 Patronato, Paraná › Entre Ríos
   | Club Atlético Patronato de la Juventud Católica
 
-################################
-# Provincia Misiones
+
+== Provincia Misiones ==
 
 Crucero del Norte, Garupá › Misiones
   | Club Mutual Crucero del Norte

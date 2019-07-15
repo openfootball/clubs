@@ -1,8 +1,6 @@
-#######################################
-# K-League 2013 Teams
+=============================================
+=  South Korea (kr)
 
-
-# 14 teams
 
 ## todo/fix:  use new format/style for cities!!!!!
 

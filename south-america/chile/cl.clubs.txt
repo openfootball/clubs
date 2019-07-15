@@ -1,5 +1,5 @@
-###################
-# Chile, cl
+=========================
+=  Chile (cl)
 
 Universidad de Chile,   Santiago (Ñuñoa)
   | U. de Chile | Club Universidad de Chile
@@ -7,8 +7,8 @@ Universidad Católica,   Santiago (Las Condes)
   | CDUC | CD Universidad Católica | Club Deportivo Universidad Católica
 Unión Española,         Santiago (Independencia)          # Independencia located in Santiago metro
   | Club Unión Española S.A.D.P
-  
+
 CD Huachipato,          Talcahuano
-  | Huachipato | Club Deportivo Huachipato 
+  | Huachipato | Club Deportivo Huachipato
 Deportes Iquique,       Iquique
   | Iquique | Club Deportes Iquique

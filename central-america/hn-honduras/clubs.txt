@@ -1,5 +1,5 @@
-#########################
-# Honduras, hn
+=========================
+=  Honduras (hn)
 
 CD Olimpia,      city:tegucigalpa
   | Olimpia

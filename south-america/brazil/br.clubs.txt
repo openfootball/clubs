@@ -1,5 +1,5 @@
-############################
-#  Brazil,  br
+======================
+=  Brazil (br)
 
 
 
@@ -107,7 +107,7 @@ Ceára SC,      Fortaleza › Ceará
   | Ceara | Ceará | Ceará Sporting Club
 Fortaleza,     Fortaleza › Ceará
   | Fortaleza Esporte Clube
- 
+
 Paysandu SC,   Belém › Pará
   | Paysandu | Paysandu Sport Club
 
@@ -122,4 +122,3 @@ Luverdense EC, Lucas do Rio Verde › Mato Grosso
 
 Sampaio Corrêa FC, São Luís › Maranhão
   | Sampaio Corrêa | Sampaio Corrêa Futebol Clube
-

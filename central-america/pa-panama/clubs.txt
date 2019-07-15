@@ -1,5 +1,5 @@
-##########################
-# Panama, pa
+============================
+=  Panama (pa)
 
 Chorrillo FC,     city:panama
   | Chorrillo
@@ -11,4 +11,3 @@ San Francisco FC,   city:lachorrera
   | San Francisco | San Francisco Fútbol Club de La Chorrera
 Sporting San Miguelito
   | Sporting SM
-

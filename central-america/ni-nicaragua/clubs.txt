@@ -1,5 +1,5 @@
-############################
-# Nicaragua, ni
+=========================
+=  Nicaragua (ni)
 
 Real Estelí,      city:esteli
   | R. Estelí | Real Estelí FC
