@@ -1,9 +1,8 @@
 =================================
-=  Österreich • Austria (at) 
+=  Österreich • Austria (at)
 
 
-======================
-==  Wien
+== Wien ==
 
 FK Austria Wien,   Wien (Favoriten)
   | Austria Vienna | Austria Wien
@@ -12,62 +11,61 @@ SK Rapid Wien,     Wien (Hütteldorf)
 Wiener Sport-Club, Wien (Hernals)
 
 
-=======================
-==  Burgenland
+== Burgenland ==
 
-SV Mattersburg,      Mattersburg › Burgenland
+SV Mattersburg,      Mattersburg
   | Mattersburg
 
-=================================
-==  Niederösterreich
 
-FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt) › Niederösterreich    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
+== Niederösterreich ==
+
+FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
   | Admira  | Admira Wien
-SC Wiener Neustadt,  Wr. Neustadt › Niederösterreich
+SC Wiener Neustadt,  Wr. Neustadt
   | Neustadt
-SKN St. Pölten,      St. Pölten   › Niederösterreich
+SKN St. Pölten,      St. Pölten
   | St. Polten
 
-==========================
-==  Oberösterreich
 
-LASK Linz,           Linz (Pasching)   › Oberösterreich        ## use Pasching ??
+== Oberösterreich ==
+
+LASK Linz,           Linz (Pasching)          ## use Pasching ??
   | Linzer ASK
-FC Stahl Linz,       Linz              › Oberösterreich
+FC Stahl Linz,       Linz
   | SK VOEST Linz
-SV Ried,             Ried i. Innkreis  › Oberösterreich
+SV Ried,             Ried i. Innkreis
   | Ried
 
-==========================
-==  Steiermark
 
-SK Sturm Graz,       Graz     › Steiermark
+== Steiermark ==
+
+SK Sturm Graz,       Graz
   | Sturm Graz
-TSV Hartberg,	       Hartberg › Steiermark
+TSV Hartberg,	       Hartberg
   | Hartberg
 
-==========================
-==  Kärnten
 
-Wolfsberger AC, 	Wolfsberg › Kärnten
+== Kärnten ==
+
+Wolfsberger AC, 	Wolfsberg
   | AC Wolfsberger
 
-===========================
-==  Salzburg
 
-SV Grödig,           Grödig    › Salzburg
-  | Grodig
-FC RB Salzburg,      Salzburg (Wals-Siezenheim) › Salzburg         ## use Wals-Siezenheim ??
+== Salzburg ==
+
+FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
   | Salzburg
+SV Grödig,           Grödig
+  | Grodig
 
-===========================
-==  Tirol
 
-FC Wacker Innsbruck, Innsbruck › Tirol        
+== Tirol ==
+
+FC Wacker Innsbruck, Innsbruck
   | Wacker Innsbruck | FC Tirol              ## note: FC Tirol old name - add year
 
-============================
-==  Vorarlberg
 
-SCR Altach,          Altach › Vorarlberg
+== Vorarlberg ==
+
+SCR Altach,          Altach
   | Altach
