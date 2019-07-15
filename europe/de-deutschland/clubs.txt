@@ -2,17 +2,16 @@
 = Germany • Deutschland (de)  
 
 
-===================
-==  Bayern
+== Bayern ==
 
-Bayern München, 1900,     München › Bayern
+Bayern München, 1900,     München
   | Bayern | Bayern Munich | Bayern Muenchen | FC Bayern München
-TSV 1860 München, 1860, München › Bayern
+TSV 1860 München, 1860, München
   | Munich 1860 | TSV 1860 Muenchen | TSV München 1860 | 1860 München
 
-1. FC Nürnberg, 1900, Nürnberg › Bayern    ### todo: always map Nurnberg to 1. FC Nürnberg ?!
+1. FC Nürnberg, 1900, Nürnberg       ### todo: always map Nurnberg to 1. FC Nürnberg ?!
   | Nurnberg | Nürnberg | 1. FC Nuernberg
-Greuther Fürth, 1903, Fürth    › Bayern
+Greuther Fürth, 1903, Fürth
   | Greuther Furth | SpVgg Greuther Fuerth | SpVgg Greuther Fürth
 FC Augsburg, 1907,    Augsburg › Bayern
   | Augsburg
@@ -33,14 +32,13 @@ TSV 1860 Rosenheim,  Rosenheim › Bayern
 FV Illertissen
 
 
-==================================
-==  Nordrhein-Westfalen
+== Nordrhein-Westfalen ==
 
-1. FC Köln, 1948,   Köln › Nordrhein-Westfalen
+1. FC Köln, 1948,   Köln
   | FC Koln | 1. FC Koeln   ## Köln
-Fortuna Köln, 1948,  Köln › Nordrhein-Westfalen
+Fortuna Köln, 1948,  Köln
   | F Koln  | Fortuna Koeln | SC Fortuna Köln | Sportclub Fortuna Köln
-FC Viktoria Köln,    Köln › Nordrhein-Westfalen
+FC Viktoria Köln,    Köln
 
 Fortuna Düsseldorf,  1895, Düsseldorf › Nordrhein-Westfalen
   | Dusseldorf | F. Düsseldorf | Fortuna Dusseldorf | Fortuna Duesseldorf
