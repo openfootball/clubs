@@ -1,5 +1,5 @@
-#############################
-# Armenia (ARM), am
+==============================
+=  Armenia (am)
 
 FC Pyunik
 Ulisses FC
@@ -9,4 +9,3 @@ FC Banants
   | Banants
 FC Shirak
 FC Ararat
-

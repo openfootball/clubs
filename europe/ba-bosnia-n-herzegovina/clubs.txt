@@ -1,5 +1,5 @@
-###################################################
-# Bosnia and Herzegovina (BIH), ba
+========================================
+=  Bosnia and Herzegovina (ba)
 
 FK Sarajevo
 FK Slavija Sarajevo

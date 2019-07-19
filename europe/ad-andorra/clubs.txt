@@ -1,5 +1,5 @@
-########################
-# Andorra (AND), ad
+==============================
+=  Andorra (ad)
 
 UE Sant Julià
 FC Santa Coloma

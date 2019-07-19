@@ -1,5 +1,6 @@
-#######################
-# Lithuania (LTU), lt
+===============================
+=  Lithuania (lt)
+
 
 FK Ekranas
 FK Sūduva

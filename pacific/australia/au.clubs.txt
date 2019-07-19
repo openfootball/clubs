@@ -1,5 +1,10 @@
-########################################
+===========================================
+=  Australia (au)
+
+
 # Australia A-League 2012-13 Teams
+#
+# Note:  Wellington Phoenix included in nz/clubs !!
 
 
 Adelaide United,          Adelaide      › South Australia
@@ -16,5 +21,3 @@ Melbourne Heart,          Melbourne › Victoria
 Melbourne Victory,        Melbourne › Victoria
 
 Perth Glory,           Perth › Western Australia
-
-### Note:  Wellington Phoenix included in nz/clubs !!

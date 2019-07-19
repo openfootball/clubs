@@ -1,5 +1,6 @@
-##########################
-#  San Marino (SMR), sm
+====================================
+=  San Marino (sm)
+
 
 SP Tre Fiori
 SP Tre Penne

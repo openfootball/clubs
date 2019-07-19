@@ -1,5 +1,6 @@
-##################################
-# Slovakia (SVK), sk
+=====================================
+=  Slovakia (sk)
+
 
 ŠK Slovan Bratislava, Bratislava
   | Slovan Bratislava | SK Slovan Bratislava
@@ -11,4 +12,3 @@ MFK Košice
 Dukla Banská Bystrica
 FC Nitra
 MFK Petržalka
-

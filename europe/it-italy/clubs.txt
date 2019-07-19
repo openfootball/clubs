@@ -1,5 +1,5 @@
-##########################################
-# Italy, it  [it]
+==========================================
+=  Italy (it)
 
 
 AS Roma,  Roma
@@ -25,7 +25,7 @@ AC Chievo Verona, Verona
 Genoa CFC,      Genova
   | Genoa | Genoa Cricket and Football Club
 UC Sampdoria,   Genova
-  | Sampdoria | Sampdoria Genoa | Unione Calcio Sampdoria 
+  | Sampdoria | Sampdoria Genoa | Unione Calcio Sampdoria
 
 Atalanta BC,            Bergamo
   | Atalanta | Atalanta Bergamo | Atalanta Bergamasca Calcio
@@ -89,7 +89,7 @@ Modena FC, Modena
   | Modena
 SS Robur Siena, Siena
   | Siena | AC Siena | Associazione Calcio Siena
-# note: Robur Siena was re-incorporated in 2014 after the bankruptcy of the previous legal person Associazione Calcio Siena S.p.A.. 
+# note: Robur Siena was re-incorporated in 2014 after the bankruptcy of the previous legal person Associazione Calcio Siena S.p.A..
 #       A.C. Siena's predecessor was founded in 1904.
 
 US Anconitana ASD, Ancona

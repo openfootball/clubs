@@ -1,8 +1,8 @@
-#######################
-# Wales (WAL), wal
+================================
+=  Wales (wal)
 
 
-The New Saints FC,         Oswestry   ## in Shropshire    -- check - playing in english league? 
+The New Saints FC,         Oswestry   ## in Shropshire    -- check - playing in english league?
   | The New Saints
 
 Bangor City FC
@@ -17,19 +17,18 @@ Port Talbot Town FC
 # note: welsh clubs playing in english premiere league or championship etc. listed here
 # note: teams in english premier league & english league (championship, etc.) !!!!
 
-Swansea City FC, 1912,     @ Liberty Stadium, Swansea   
+Swansea City FC, 1912,     @ Liberty Stadium, Swansea
   | Swansea | Swansea City | Swansea City AFC
- 
+
 Cardiff City FC,  @ Cardiff City Stadium, Cardiff
   | Cardiff | Cardiff City
- 
-Newport County AFC, 1912,  @ Rodney Parade, Newport  
-  | Newport County  
-  
+
+Newport County AFC, 1912,  @ Rodney Parade, Newport
+  | Newport County
+
 Wrexham AFC,             Wrexham
   | Wrexham
 Merthyr Town FC,         Merthyr Tydfil
   | Merthyr Town
 Aberdare Athletic FC (1893-1928),  Aberdare
   | Aberdare Athletic
- 

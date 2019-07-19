@@ -1,11 +1,11 @@
-#############################################
-## France, fr
-##
-##  note: see mc.txt for monaco
+====================================
+=  France (fr)
+
+#  note: see mc.txt for monaco
 
 
 Paris Saint-Germain, 1970, Paris › Île-de-France
-  | Paris SG | Paris St. Germain | Paris S.Germain | Paris Saint Germain 
+  | Paris SG | Paris St. Germain | Paris S.Germain | Paris Saint Germain
   | Paris-Saint-Germain Football Club,
 
 Paris FC,            Paris › Île-de-France
@@ -35,13 +35,13 @@ EA Guingamp, 1912, Guingamp   ## Côtes-d'Armor > Brittany
 Lille OSC,  1944,   Lille      ## Nord > Nord-Pas-de-Calais
   | Lille  | LOSC Lille | OSC Lille
 Olympique Lyonnais, 1899, Lyon      ## Lyon > Rhône-Alpes
-  | Lyon | Olympique Lyon 
+  | Lyon | Olympique Lyon
 Olympique de Marseille, 1899, Marseille   ## Bouches-du-Rhône > Provence-Alpes-Côte d'Azur
-  | Marseille | Olympique Marseille 
+  | Marseille | Olympique Marseille
 FC Metz, 1932, Metz      ## Moselle > Lorraine
   | Metz | Football Club de Metz
 
-Montpellier HSC, 1974, Montpellier     ## Hérault > Languedoc-Roussillon  
+Montpellier HSC, 1974, Montpellier     ## Hérault > Languedoc-Roussillon
   | Montpellier | HSC Montpellier | Montpellier Hérault SC
   | Montpellier-Herault Sports Club
 
@@ -53,20 +53,20 @@ OGC Nice, 1904, Nice    ## Alpes-Maritimes > Provence-Alpes-Côte d'Azur
 Stade Rennais FC, 1901,   Rennes    ## Ille-et-Vilaine > Brittany
   | Rennes | Stade Rennais Football Club
 AS Saint-Étienne, 1919,  Saint-Étienne     ## Loire > Rhône-Alpes
-  | St Etienne | AS Saint-Etienne 
+  | St Etienne | AS Saint-Etienne
   | Association Sportive de Saint-Étienne Loire
 RC Strasbourg, Strasbourg
   | Strasbourg
 Toulouse FC, 1970, Toulouse     ## Haute-Garonne > Midi-Pyrénées
   | Toulouse | Toulouse Football Club
 ES Troyes AC, 1986, Troyes      ## Aube > Champagne-Ardenne
-  | Troyes | ESTAC Troyes | Espérance Sportive Troyes Aube Champagne 
+  | Troyes | ESTAC Troyes | Espérance Sportive Troyes Aube Champagne
 Stade de Reims, 1931, Reims    ## Marne > Champagne-Ardenne
   | Reims | Stade Reims
 Nîmes Olympique, Nîmes
-  | Nimes 
+  | Nimes
 
-AC Ajaccio, 1910,  Ajaccio   ## Corse-du-Sud > Corsica  
+AC Ajaccio, 1910,  Ajaccio   ## Corse-du-Sud > Corsica
   | Ajaccio | Athletic Club Ajaccien
 GFC Ajaccio, 1910, Ajaccio    ## Corse-du-Sud > Corsica
   | Ajaccio GFCO | Gazélec Football Club Ajaccio
@@ -128,7 +128,7 @@ US Créteil, Créteil
 SAS Épinal,  Épinal
   | Epinal
 Évian TG FC, 2007, Thonon-les-Bains     ## Haute-Savoie > Rhône-Alpes
-  | Evian Thonon Gaillard | Évian Thonon Gaillard FC | Évian Thonon-Gaillard FC 
+  | Evian Thonon Gaillard | Évian Thonon Gaillard FC | Évian Thonon-Gaillard FC
   | Evian Thonon Gaillard Football Club
 
 Grenoble Foot 38, Grenoble

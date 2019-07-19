@@ -1,5 +1,5 @@
-###########################
-# Ukraine (UKR),  ua
+=================================
+=  Ukraine (ua)
 
 
 FC Dynamo Kyiv,  Kyiv
@@ -17,4 +17,3 @@ FC Dnipro,    city:dnipropetrovsk
 FC Vorskla Poltava
 FC Karpaty Lviv
 SC Tavriya Simferopol
-

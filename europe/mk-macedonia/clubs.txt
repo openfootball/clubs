@@ -1,5 +1,5 @@
-###########################
-# Macedonia (MKD), mk
+====================================
+=  Macedonia (mk)
 
 FK Metalurg Skopje
 FK Makedonija Skopje

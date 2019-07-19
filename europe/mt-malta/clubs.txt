@@ -1,5 +1,5 @@
-#######################
-# Malta (MLT), mt
+================================
+=  Malta (mt)
 
 
 Valletta FC,         Valletta
@@ -10,4 +10,3 @@ Birkirkara FC
 Floriana FC
 Hibernians FC
 Marsaxlokk FC
-

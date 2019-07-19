@@ -1,5 +1,5 @@
-###########################
-# Luxembourg (LUX), lu
+================================
+=  Luxembourg (lu)
 
 
 Jeunesse d'Esch, Esch-sur-Alzette
@@ -10,4 +10,3 @@ CS Grevenmacher
 UN Käerjéng 97
 CS Fola Esch
 Racing FC Union Lëtzebuerg
-

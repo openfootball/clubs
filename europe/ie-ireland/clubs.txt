@@ -1,5 +1,5 @@
-#######################
-# Ireland (IRL), ie
+==============================
+=  Ireland (ie)
 
 Shamrock Rovers FC,                Dublin (Tallaght)         #  Tallaght, South Dublin
   | Shamrock Rovers
@@ -46,4 +46,3 @@ Wexford F.C.,           Crossabeg
   | Wexford
 
 Sporting Fingal FC
-

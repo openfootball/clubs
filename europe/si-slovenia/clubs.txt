@@ -1,5 +1,5 @@
-#####################################
-# Slovenia (SVN), si
+===================================
+=  Slovenia (si)
 
 NK Olimpija Ljubljana
 NK IB Ljubljana

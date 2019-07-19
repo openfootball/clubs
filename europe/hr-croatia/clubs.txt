@@ -1,5 +1,5 @@
-#############################
-# Croatia (CRO), hr
+===================================
+=  Croatia (hr)
 
 
 GNK Dinamo Zagreb, Zagreb

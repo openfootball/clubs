@@ -1,5 +1,5 @@
-#######################
-# Latvija (LVA), lv
+==============================
+=  Latvija (lv)
 
 FK Ventspils
   | Ventspils

@@ -1,11 +1,11 @@
-#################################
-# Northern Ireland (NIR),  nir
+=====================================
+=  Northern Ireland (nir)
 
 
 Linfield FC, Belfast
-  | Linfield   
+  | Linfield
 Glentoran FC, Belfast
-  | Glentoran 
+  | Glentoran
 Cliftonville FC
   | Cliftonville
 Crusaders FC

@@ -1,5 +1,6 @@
-############################
-#  Gibraltar (GIB), gi
+===============================
+=  Gibraltar (gi)
+
 
 Lincoln FC
   | Lincoln Red Imps FC

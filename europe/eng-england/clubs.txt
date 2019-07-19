@@ -1,6 +1,7 @@
-##################################
-# England (ENG),  eng
-#
+====================================
+=  England (eng)
+
+
 #  note: see wal.txt for teams from wales
 
 

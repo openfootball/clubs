@@ -1,5 +1,6 @@
-################################################
-# Iceland (ISL), is
+=================================
+=  Iceland (is)
+
 
 KR Reykjavík, Reykjavík
   | KR Reykjavik | Knattspyrnufélag Reykjavíkur
@@ -7,8 +8,8 @@ Fram Reykjavík
 Valur Reykjavík
 
 
-ÍA Akranes,   Akranes      
-  | IA Akranes | Íþróttabandalag Akraness    
+ÍA Akranes,   Akranes
+  | IA Akranes | Íþróttabandalag Akraness
 FH Hafnarfjördur
 Breidablik
 Thór Akureyri

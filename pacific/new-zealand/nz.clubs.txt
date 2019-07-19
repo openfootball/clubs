@@ -1,6 +1,8 @@
-######################################################
-# New Zealand Football Championship 2012-13 Teams
+============================================
+=  New Zealand (nz)
 
+
+# New Zealand Football Championship 2012-13 Teams
 
 Auckland City FC,       Auckland › Auckland › North Island
   | Auckland City

@@ -1,5 +1,5 @@
-#############################
-# Faroe Islands (FRO), fo
+==================================
+=  Faroe Islands (fo)
 
 HB Tórshavn
   | Havnar Bóltfelag | Havnar Bóltfelag Tórshavn

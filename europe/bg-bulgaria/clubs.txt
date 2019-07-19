@@ -1,5 +1,5 @@
-##############################
-# Bulgaria (BUL), bg
+==============================
+=  Bulgaria (bg)
 
 
 PFC CSKA Sofia, 1948,       Sofia      ## CDNA Sofia old name - add year?

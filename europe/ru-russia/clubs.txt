@@ -1,5 +1,5 @@
-#############################
-# Russia (RUS), ru
+=====================================
+=  Russia (ru)
 
 
 Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
@@ -17,7 +17,7 @@ Torpedo Moskva
 
 
 Zenit St. Petersburg, 1925,     St. Petersburg
-  | Zenit | Zenit Petersb. | Zenit Petersburg | FC Zenit St Petersburg 
+  | Zenit | Zenit Petersb. | Zenit Petersburg | FC Zenit St Petersburg
   | Zenit Saint Petersburg | FC Zenit Saint Petersburg
 
 
@@ -79,7 +79,7 @@ Terek Grozny, Grozny
   | Terek
 Akhmat Grozny, Grozny
 Tom Tomsk, Tomsk
-  | Tom | Tom' | Tomsk 
+  | Tom | Tom' | Tomsk
 Tosno,  Tosno
 FC Ufa, Ufa
   | Ufa | Ufa Ufa
@@ -90,7 +90,7 @@ Volga Nizhnii Novgorod, Nizhny Novgorod
   | Volga | Volga N. Novgorod
 
 FC Tambov,  Tambov
-Orenburg,  Orenburg 
+Orenburg,  Orenburg
 Volgar-Astrakhan,  Astrakhan
 Vladikavkaz,   Vladikavkaz
 Yenisey, Krasnoyarsk

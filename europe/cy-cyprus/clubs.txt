@@ -1,5 +1,5 @@
-#############################
-# Cyprus (CYP), cy
+================================
+=  Cyprus (cy)
 
 AC Omonia Nicosia, Nicosia
   | Omonia Nicosia | AC Omonia

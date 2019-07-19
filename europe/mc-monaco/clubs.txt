@@ -1,8 +1,6 @@
-#############################################
-## Monaco, mc
+========================================
+=   Monaco (mc)
 
 AS Monaco,  1924,      Monaco
   | Monaco | Association sportive de Monaco FC
   | Association Sportive de Monaco Football Club
-  
-

@@ -1,5 +1,5 @@
-###############################
-# Portugal (POR), pt
+====================================
+=  Portugal (pt)
 
 SL Benfica,       Lisboa
   | Benfica | Benfica Lisboa | Benfica Lissabon | Benfica Lis.
@@ -40,7 +40,7 @@ SC Braga, Braga
 CD Tondela, Tondela
   | Tondela
 
-Académica de Coimbra, Coimbra    
+Académica de Coimbra, Coimbra
   | Academica | A. Académica de Coimbra
   | Associação Académica de Coimbra   ## Organismo Autónomo de Futebol (AAC–OAF)
 FC Arouca, Arouca
@@ -92,5 +92,3 @@ CD Trofense,     Tulipa
   | Trofense | Clube Desportivo Trofense
 Varzim SC,       Póvoa de Varzim
   | Varzim
-
-

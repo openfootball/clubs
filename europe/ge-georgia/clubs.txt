@@ -1,5 +1,5 @@
-########################################################
-# Georgia (GEO), ge
+==================================
+=  Georgia (ge)
 
 
 FC Dinamo Tbilisi, Tbilisi
@@ -11,5 +11,3 @@ FC Dila Gori
 FC WIT Georgia
 FC Gagra
 FC Torpedo Kutaisi
-
-

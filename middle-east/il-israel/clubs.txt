@@ -1,5 +1,5 @@
-###############################
-# Israel (ISR), il
+=================================
+=  Israel (il)
 
 Hapoel Tel-Aviv FC
 Bnei Yehuda Tel-Aviv FC
