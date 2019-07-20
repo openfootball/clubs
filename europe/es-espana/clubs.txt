@@ -53,7 +53,7 @@ Real Jaén CF,     Jaén      › Andalucía
 Granada CF, Granada › Andalucía
   | Granada | Granada C.F. | Granada Club de Fútbol
 Granada 74, Granada › Andalucía
-  | Granada 74
+
 
 
 
@@ -141,7 +141,6 @@ CD Mirandés, Miranda de Ebro › Castilla y León
 Real Murcia CF,      Murcia › Región de Murcia
   | Murcia | Real Murcia Club de Fútbol
 UCAM Murcia,         Murcia › Región de Murcia
-  | UCAM Murcia
 CF Ciudad de Murcia, Murcia › Región de Murcia
   | Ciudad de Murcia
 

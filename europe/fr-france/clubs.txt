@@ -110,7 +110,6 @@ SC Bastia, 1905,  Bastia    ## Haute-Corse > Corsica
   | Bastia | Sporting Club de Bastia
 
 CA Bastia, Bastia
-  | CA Bastia
 
 AS Beauvais Oise,  Beauvais Oise
   | Beauvais

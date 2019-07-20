@@ -46,7 +46,6 @@ CF Pachuca,        Pachuca › Hidalgo
 Querétaro FC,      Querétaro › Querétaro
   | Queretaro
 Santos Laguna,     Torreón › Coahuila
-  | Santos Laguna
 Deportivo Toluca FC,  Toluca › México
   | Toluca
 Tiburones Rojos Veracruz,   Veracruz › Veracruz    ## Boca del Río

@@ -3,8 +3,8 @@
 
 
 AC Sparta Praha, 1893, Praha     ## Prague [en]
-  | Sparta Praha | AC Sparta Praha
-  | Sparta Prague | AC Sparta Prague | Athletic Club Sparta Praha
+  | Sparta Praha | Sparta Prague
+  | AC Sparta Prague | Athletic Club Sparta Praha
 
 FK Dukla Praha, 1958,  Praha
   | Dukla | FK Dukla Prague

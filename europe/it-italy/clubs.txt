@@ -166,4 +166,4 @@ Trapani Calcio, Trapani
 Varese Calcio,  Varese
   | Varese
 Virtus Lanciano, Lanciano
-  | Virtus Lanciano | ASD 1920 Lanciano Calcio
+  | ASD 1920 Lanciano Calcio
