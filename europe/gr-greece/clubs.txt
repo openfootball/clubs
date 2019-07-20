@@ -65,7 +65,9 @@ Panetolikos GFS,     Agrinio › West Greece
 PAS Giannina FC,     Ioannina › Epirus
   | Giannina | Yiannina
 Levadiakos FC,       Livadeia › Central Greece
-  | Levadeiakos
+  | Levadeiakos | Levadiakos
+
+
 AE Larissa FC,       Larissa › Thessaly
   | Larisa | Larissa FC
 PAS Lamia 1964,      Lamia › Central Greece
@@ -103,8 +105,6 @@ Niki Volou FC, Volos › Thessaly
 Olympiacos Volou 1937 FC, Volos › Thessaly
   | Olympiakos Volou | Olympiacos Volou FC
 
-Levadiakos FC, Livadeia › Central Greece
-  | Levadiakos
 
 
 Panachaiki FC, Patras › Peloponnese
