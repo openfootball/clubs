@@ -4,7 +4,12 @@
 Bakı FK
 İnter Bakı PİK
 Neftçi PFK
-Qarabağ FK|Qarabağ
+Qarabağ FK
+ | Qarabağ
 Xäzär Länkäran FK
 Olimpik-Şüvälan PFK
 Simurq PFK
+Gabala SC
+Keşla FK
+Zirä FK
+Käpäz PFK

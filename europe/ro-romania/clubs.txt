@@ -3,8 +3,10 @@
 
 Steaua București,        București
   | Steaua | Steaua Bucuresti | FC Steaua Bucuresti | FC Steaua București
+  | FCSB
 Dinamo București,        București
   | Din. Bucuresti | Dinamo Bucuresti | FC Dinamo București
+  | FC Dinamo Bucureşti
 Rapid București,         București
   | FC Rapid Bucuresti | FC Rapid București
 Daco-Getica București,   București
@@ -13,7 +15,7 @@ Daco-Getica București,   București
 
 
 CFR Cluj,     Cluj
-  | CFR 1907 Cluj,
+  | CFR 1907 Cluj
 U Cluj,       Cluj
   | U. Cluj  | Universitatea Cluj | FC Universitatea Cluj
 
@@ -32,10 +34,10 @@ Gloria Bistrița,    Bistrița
 
 
 FC Petrolul Ploiești, Ploiești
-  | Petrolul | Petrolul Ploiesti | Petrolul Ploiești
+  | Petrolul | Petrolul Ploiesti | Petrolul Ploiești | FC Petrolul Ploieşti
 
 FC Viitorul Constanța,   Ovidiu
-  | Viitorul Constanta
+  | FC Viitorul | Viitorul Constanta
 
 Corona Brașov,   Brașov
   | Corona Brasov | ASC Corona 2010 Brașov
@@ -53,7 +55,7 @@ FC Severin,         Drobeta-Turnu Severin
 
 
 FC Botoșani, Botoșani
-  | FC Botosani | Fotbal Club Botoșani
+  | FC Botosani | FC Botoşani | Fotbal Club Botoșani
 
 FC Hermannstadt,   Hermannstadt
   | Hermannstadt
@@ -71,7 +73,7 @@ Pandurii Târgu Jiu,  Târgu Jiu
 FC Politehnica Iași,   Iași
   | Poli Iasi | Poli Iași | Politehnica Iași
   | CSMS Iasi | CSM Politehnica Iași     ## check - older name?
-
+  | CSMS laşi
 
 Poli Timișoara, Timișoara
   | Poli Timisoara | ACS Poli Timișoara
@@ -80,7 +82,7 @@ Sepsi Sfântu Gheorghe,   Sfântu Gheorghe
   | Sepsi | Sepsi OSK
 
 Târgu Mureș,    Târgu Mureș
-  | Targu Mures | ASA Târgu Mureș
+  | Targu Mures | ASA Târgu Mureș | ASA Târgu Mureş
 
 Universitatea Craiova,    Craiova
   | U Craiova | CS U Craiova | U Craiova 1948 CS | CS Universitatea Craiova

@@ -36,11 +36,11 @@ IFK Mariehamn,    Mariehamn
 KPV Kokkola,        Kokkola
   | KPV | Kokkolan Palloveikot
 Rovaniemen Palloseura,  Rovaniemi
-  | RoPS | Rovaniemi
+  | RoPS | Rovaniemi | RoPS Rovaniemi
 SJK Seinäjoki,      Seinäjoki
   | SJK | Seinäjoen Jalkapallokerho
 Vaasan Palloseura,    Vaasa
-  | VPS
+  | VPS | VPS Vaasa
 
 FC Haka, Valkeakoski
   | Haka
@@ -52,4 +52,3 @@ PK-35 Vantaa, Vantaa
   | PK-35 | Pallokerho-35
 Palloseura Kemi Kings,  Kemi
   | PS Kemi | Kemi City FC | Kemi City Football Club
-

@@ -9,9 +9,12 @@ FK Partizani Tirana, Tirana
 FK Dinamo Tirana,    Tirana
 
 KS Skënderbeu
-  | Skënderbeu Korçë
+  | KF Skënderbeu | Skënderbeu Korçë
 KS Flamurtari
 KF Vllaznia
 KS Besa
 KS Teuta
+  | KF Teuta
 KF Laçi
+FK Kukësi
+KS Luftëtari

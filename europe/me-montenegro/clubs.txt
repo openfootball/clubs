@@ -9,3 +9,7 @@ OFK Petrovac
 FK Čelik Nikšić
 FK Sutjeska
   | Sutjeska Nikšić
+
+OFK Titograd
+FK Bokelj
+FK Lovćen

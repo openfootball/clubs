@@ -4,9 +4,9 @@
 
 Ferencvárosi TC, Budapest
   | Ferencvaros
-
 Budapest Honvéd FC
 MTK Budapest
+
 Videoton FC
 Debreceni VSC
 Győri ETO FC
@@ -15,3 +15,7 @@ Kecskeméti TE
 Újpest FC
 Szombathelyi Haladás
 Zalaegerszegi TE
+
+Fehérvár FC
+Vasas FC
+Diósgyőri VTK

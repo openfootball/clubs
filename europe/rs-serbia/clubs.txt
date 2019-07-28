@@ -6,11 +6,18 @@ Red Star Belgrade, Belgrade
   | Crvena Zvezda | FK Crvena zvezda
 FK Partizan Belgrade, Belgrade
   | Partizan | FK Partizan | Partizan Belgrade
-OFK Beograd
+OFK Beograd, Belgrade
+FK Rad Belgrade, Belgrade
+  | FK Rad
 
 FK Vojvodina
 FK Spartak Zlatibor voda
 FK Sloboda Užice
-FK Rad
 FK Jagodina
 FK Borac Čačak
+
+FK Spartak Subotica
+  | FC Spartak Subotica
+FK Radnicki Niš
+FK Mladost Lučani
+FK Čukarički

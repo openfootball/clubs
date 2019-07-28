@@ -8,6 +8,10 @@ FK Tauras
 FK Vėtra
 FC Šiauliai
 VMFD Žalgiris
-  | Žalgiris Vilnius
+  | Žalgiris Vilnius | FK Žalgiris Vilnius
 FBK Kaunas
 FK Banga
+FK Riteriai
+FC Stumbras
+FK Atlantas
+FK Kruoja

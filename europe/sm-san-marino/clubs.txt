@@ -5,8 +5,10 @@
 SP Tre Fiori
 SP Tre Penne
 AC Juvenes-Dogana
+  | AC Juvenes/Dogana
 SP La Fiorita
   | La Fiorita
 AC Libertas
 SC Faetano
 SS Murata
+SS Folgore

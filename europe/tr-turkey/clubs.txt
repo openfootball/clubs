@@ -6,7 +6,7 @@ Fenerbahçe İstanbul SK,  İstanbul
   | Fenerbahce | Fenerbahçe | Fenerbahçe SK
   | Fenerbahçe Spor Kulübü | Fenerbahçe Sports Club
 Galatasaray İstanbul AŞ, İstanbul
-  | Galatasaray | Galatasaray Istanbul
+  | Galatasaray | Galatasaray Istanbul | Galatasaray AŞ
 Beşiktaş İstanbul JK,    İstanbul
   | Besiktas | Beşiktaş JK | Beşiktaş
 Kasımpaşa İstanbul SK,   İstanbul
@@ -19,7 +19,7 @@ Kasımpaşa İstanbul SK,   İstanbul
 Gençlerbirliği Ankara SK, Ankara
   | Genclerbirligi
 Osmanlıspor Ankara,       Ankara
-  | Osmanlispor
+  | Osmanlispor | Osmanlıspor
 
 Kardemir Karabükspor,  Karabük
   | Karabukspor

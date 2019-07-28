@@ -11,3 +11,6 @@ FC Dnepr Mogilev
 FC Shakhtyor Soligorsk
 FC Naftan Novopolotsk
 FC Torpedo Zhodino
+
+FC Dinamo Brest
+FC Neman Grodno

@@ -15,7 +15,7 @@ KKS Lech Poznań,   Poznań
 Wisła Kraków,     Kraków
   | Wisla
 KS Cracovia,     Kraków
-  | Cracovia
+  | Cracovia | MKS Cracovia Kraków
 WKS Śląsk Wrocław,    Wrocław
   | Slask Wroclaw
 Jagiellonia Białystok,  Białystok
@@ -33,6 +33,7 @@ Górnik Łęczna,  Lublin
 Miedź Legnica,  Legnica
   | Legnica
 Piast Gliwice,  Gliwice
+  | GKS Piast Gliwice
 Wisła Płock,    Płock
   | Plock
 Podbeskidzie Bielsko-Biała,   Bielsko-Biała

@@ -5,6 +5,12 @@ FC Levadia Tallinn
   | Levadia Tallinn
 FC Flora Tallinn
 FC TVMK Tallinn
+FCI Tallinn
+
 JK Trans Narva
+  | JK Narva Trans
 JK Nõmme Kalju
+  | Nõmme Kalju FC
 JK Sillamäe Kalev
+
+FC Santos Tartu

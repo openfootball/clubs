@@ -61,7 +61,7 @@ Ljungskile SK,  Ljungskile
   | Ljungskile
 
 IFK Norrköping,  Norrköping
-  | Norrkoping
+  | Norrkoping | IFK Norrköping FK
 
 Östers IF,   Växjö
   | Osters

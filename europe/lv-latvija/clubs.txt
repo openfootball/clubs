@@ -9,3 +9,9 @@ FC Daugava Daugavpils
 FK Jelgava
 FC Dinaburg
 JFK Olimps/RFS
+
+
+FK Spartaks Jūrmala
+FK Liepāja      # check -same as SK Liepājas Metalurgs ??
+Riga FC
+FC Daugava Rīga
