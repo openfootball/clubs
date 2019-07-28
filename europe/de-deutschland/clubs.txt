@@ -1,5 +1,5 @@
 ============================================
-= Germany • Deutschland (de)  
+= Germany • Deutschland (de)
 
 
 == Bayern ==
@@ -56,6 +56,7 @@ MSV Duisburg,         Duisburg      › Nordrhein-Westfalen     ## until 1965/66
 Bor. Mönchengladbach, 1900, Mönchengladbach › Nordrhein-Westfalen
   | Mönchengladbach | M'Gladbach | M'gladbach | Borussia Monchengladbach
   | Borussia M'gladbach | Bor. M'gladbach | Bor. Moenchengladbach | Borussia Mönchengladbach
+  | VfL Borussia Mönchengladbach
 
 VfL Bochum, 1938,            Bochum › Nordrhein-Westfalen
   | Bochum | VfL Bochum 1848
@@ -104,8 +105,7 @@ FC Hennef 05
 TuS Erndtebrück
 
 
-=================================
-==  Saarland
+== Saarland ==
 
 1. FC Saarbrücken,   Saarbrücken › Saarland
   | Saarbrucken | Saarbrücken | 1. FC Saarbruecken
@@ -119,8 +119,7 @@ SV Elversberg
 
 
 
-===============================
-==  Niedersachsen
+== Niedersachsen ==
 
 VfL Osnabrück,               Osnabrück › Niedersachsen
   | Osnabruck
@@ -143,8 +142,7 @@ BSV Schwarz-Weiß Rehden
 TSV Havelse
 
 
-===============================
-==  Brandenburg
+== Brandenburg ==
 
 Energie Cottbus,  1966,      Cottbus › Brandenburg
   | Cottbus | FC Energie Cottbus
@@ -155,11 +153,10 @@ FSV Optik Rathenow
 SV Falkensee-Finkenkrug
 
 
-===============================
-==  Berlin
+== Berlin ==
 
 Hertha BSC, 1892,            	Berlin › Berlin
-  | Hertha | Hertha Berliner Sport-Club
+  | Hertha | Hertha BSC Berlin | Hertha Berliner Sport-Club
 Tennis Borussia Berlin, Berlin › Berlin
   | TB Berlin | TeBe Berlin
 1. FC Union Berlin, 1966,     Berlin › Berlin
@@ -176,8 +173,7 @@ Berliner AK 07
 FC Viktoria 1889 Berlin
 
 
-=================================
-==  Hamburg
+== Hamburg ==
 
 Hamburger SV,  1887,     Hamburg › Hamburg
   | Hamburg
@@ -190,8 +186,7 @@ USC Paloma Hamburg
 HSV Barmbek-Uhlenhorst
 
 
-=============================
-==  Bremen
+== Bremen ==
 
 Werder Bremen, 1899,      Bremen › Bremen
   | Bremen | SV Werder Bremen
@@ -200,8 +195,8 @@ SG Aumund-Vegesack
 FC Oberneuland
 Bremer SV
 
-================================
-==  Baden-Württemberg
+
+== Baden-Württemberg ==
 
 VfB Stuttgart, 1893,        Stuttgart › Baden-Württemberg
   | Stuttgart
@@ -242,8 +237,7 @@ FC-Astoria Walldorf
 SV Waldkirch
 
 
-========================
-==  Hessen
+== Hessen ==
 
 Eintracht Frankfurt, 1899,   Frankfurt am Main › Hessen
   | Ein Frankfurt | E. Frankfurt | SG Eintracht Frankfurt   ##  Frankfurt
@@ -259,8 +253,7 @@ Kickers Offenbach,     Offenbach am Main › Hessen
 KSV Hessen Kassel
 
 
-===============================
-==  Rheinland-Pfalz
+== Rheinland-Pfalz ==
 
 1. FC Kaiserslautern, 1900, Kaiserslautern › Rheinland-Pfalz
   |K'lautern | Kaiserslautern | 1. FC K'lautern
@@ -281,8 +274,7 @@ FK Pirmasens
   | FK 03 Pirmasens
 
 
-==================================
-==   Schleswig-Holstein
+== Schleswig-Holstein ==
 
 VfB Lübeck,          Lübeck  › Schleswig-Holstein
   | Lübeck | Lubeck
@@ -292,8 +284,7 @@ Holstein Kiel,       Kiel    › Schleswig-Holstein
 VfR Neumünster
 
 
-===================================
-==  Mecklenburg-Vorpommern
+== Mecklenburg-Vorpommern ==
 
 Hansa Rostock, 1965,        Rostock › Mecklenburg-Vorpommern
   | Rostock | FC Hansa Rostock
@@ -303,8 +294,7 @@ FC Schönberg 95
 1. FC Neubrandenburg 04
 
 
-===================================
-==  Sachsen
+== Sachsen ==
 
 Dynamo Dresden, 1953,      Dresden › Sachsen
   | Dresden | SG Dynamo Dresden
@@ -321,15 +311,14 @@ FSV Zwickau,        Zwickau  › Sachsen
   | Zwickau
 
 
-=================================
-==  Sachsen-Anhalt
+== Sachsen-Anhalt ==
 
 Hallescher FC
   | Halle
 1. FC Magdeburg
 
-===================================
-==  Thüringen
+
+== Thüringen ==
 
 FC Carl Zeiss Jena,  Jena   › Thüringen
   | CZ Jena

@@ -17,12 +17,13 @@ Torpedo Moskva
 
 
 Zenit St. Petersburg, 1925,     St. Petersburg
-  | Zenit | Zenit Petersb. | Zenit Petersburg | FC Zenit St Petersburg
-  | Zenit Saint Petersburg | FC Zenit Saint Petersburg
+  | Zenit | Zenit Petersb. | Zenit Petersburg | Zenit Saint Petersburg
+  | FC Zenit | FC Zenit St Petersburg | FC Zenit Saint Petersburg
+
 
 
 FC Rubin Kazan, 1958,  Kazan     ##  Tatarstan (Republic of) > Volga (Federal District)
-  | Rubin | Rubin Kazan
+  | Rubin | FC Rubin | Rubin Kazan
 
 FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
   | Amkar | Amkar Perm

@@ -24,13 +24,13 @@ FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein 
 SC Wiener Neustadt,  Wr. Neustadt
   | Neustadt
 SKN St. Pölten,      St. Pölten
-  | St. Polten
+  | St. Polten | SKN St Pölten
 
 
 == Oberösterreich ==
 
 LASK Linz,           Linz (Pasching)          ## use Pasching ??
-  | Linzer ASK
+  | LASK | Linzer ASK
 FC Stahl Linz,       Linz
   | SK VOEST Linz
 SV Ried,             Ried i. Innkreis
@@ -54,7 +54,7 @@ Wolfsberger AC, 	Wolfsberg
 == Salzburg ==
 
 FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
-  | Salzburg
+  | Salzburg | FC Salzburg
 SV Grödig,           Grödig
   | Grodig
 
