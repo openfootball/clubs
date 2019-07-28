@@ -24,7 +24,7 @@ Myllykosken Pallo -47,   Myllykoski    ## part of the city of Kouvola
 FC Lahti,         Lahti
   | Lahti
 JJK Jyväskylä,     Jyväskylä
-  | JJK Jyvaskyla
+  | JJK Jyvaskyla | JJK
 
 Tampere United,      Tampere
 FC Ilves,            Tampere

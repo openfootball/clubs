@@ -1,16 +1,21 @@
 ===================================================
 =  Switzerland • Confoederatio Helvetica (ch)
 
+
+== Zürich ==
 Grasshoppers Zürich, 1886,       Zürich › Zürich
   | Grasshoppers | Grasshoppers Zurich | Grasshopper Club Zürich
 FC Zürich, 1896,                 Zürich › Zürich
-  | Zurich | FC Zurich
+  | Zürich | Zurich | FC Zurich
 FC Winterthur, 1896,      Winterthur › Zürich
   | Winterthur
 
+
+== Basel-Stadt ==
 FC Basel, 1893,          Basel › Basel-Stadt
   | Basel | FC Basel 1893
 
+== Bern ==
 BSC Young Boys, 1898,          Bern › Bern
   | Young Boys | Young Boys Bern | Berner Sport Club Young Boys | BSC YB
 FC Biel-Bienne, 1896,     Biel/Bienne ›  Bern
@@ -18,36 +23,44 @@ FC Biel-Bienne, 1896,     Biel/Bienne ›  Bern
 FC Thun, 1898,                 Thun › Bern
   | Thun | FC Thun 1898
 
+== Luzern ==
 FC Luzern, 1901,                Luzern › Luzern    ## use Lucerne [fr] - why??
   | Luzern
 
+== St. Gallen ==
 FC St. Gallen, 1879,            St. Gallen  › St. Gallen
   | St. Gallen
 FC Wil, 1900,                   Wil › St. Gallen
   | Wil | FC Wil 1900
 
+== Schaffhausen ==
 FC Schaffhausen, 1896,  Schaffhausen › Schaffhausen
 
+== Aargau ==
 FC Aarau, 1902,                Aarau › Aargau
   | Aarau
 FC Wohlen, 1904,          Wohlen › Aargau
   | Wohlen
 
+== Valais ==
 FC Sion, 1909,                 Sion › Valais
   | Sion
 
-Xamax Neuchâtel,              Neuchâtel › Neuchâtel   
-  | Xamax | Neuchâtel Xamax FCS 
+== Neuchâtel ==
+Xamax Neuchâtel,              Neuchâtel › Neuchâtel
+  | Xamax | Neuchâtel Xamax FCS
 
+== Lausanne ==
 FC Lausanne,  1896,           Lausanne › Lausanne
-  | Lausanne | FC Lausanne-Sport 
+  | Lausanne | FC Lausanne-Sport
 FC Le Mont, 1942,             Le Mont-sur-Lausanne › Lausanne
   | FC Le Mont-sur-Lausanne,
 
+== Genève ==
 Servette FC, 1890,            Genève › Genève
-  | Servette | Servette Genève | Servette FC Genève 
+  | Servette | Servette Genève | Servette FC Genève
 
-
+== Ticino ==
 FC Lugano, 1908,              Lugano ›  Ticino
   | Lugano
 FC Chiasso, 1905,            Chiasso › Ticino

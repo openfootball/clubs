@@ -2,7 +2,7 @@
 =   Norway (no)
 
 Vålerenga Fotball,   Oslo
-  | Valerenga
+  | Valerenga | Vålerenga
 
 Rosenborg BK,  Trondheim
   | Rosenborg | Rosenborg Ballklub
@@ -33,7 +33,7 @@ Sandefjord, Sandefjord
 Sandnes Ulf,  Sandnes
   | Sandnes
 Sarpsborg 08,  Sarpsborg
-  | Sarpsborg 08 FF | Sarpsborg 08 Fotballforening
+  | Sarpsborg | Sarpsborg 08 FF | Sarpsborg 08 Fotballforening
 Sogndal,  Sogndal
   | Sogndal Fotball
 Stabæk,  Bærum
@@ -55,3 +55,6 @@ FK Jerv,   Grimstad
   | Jerv
 Ullensaker/Kisa IL,   Ullensaker
   | Ull/Kisa
+
+IL Hødd,   Ulsteinvik
+  | Hødd | Idrettslaget Hødd

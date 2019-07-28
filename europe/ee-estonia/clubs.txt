@@ -2,15 +2,16 @@
 =  Estonia (ee)
 
 FC Levadia Tallinn
-  | Levadia Tallinn
+  | Levadia | Levadia Tallinn
 FC Flora Tallinn
+  | Flora
 FC TVMK Tallinn
 FCI Tallinn
 
 JK Trans Narva
   | JK Narva Trans
 JK Nõmme Kalju
-  | Nõmme Kalju FC
+  | Kalju | Nõmme Kalju FC
 JK Sillamäe Kalev
 
 FC Santos Tartu

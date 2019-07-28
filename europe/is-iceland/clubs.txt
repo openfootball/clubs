@@ -5,6 +5,7 @@
 KR Reykjavík, Reykjavík
   | KR Reykjavik | Knattspyrnufélag Reykjavíkur
 Fram Reykjavík
+  | Fram
 Valur Reykjavík
   | Valur
 Víkingur Reykjavík
@@ -13,9 +14,11 @@ Víkingur Reykjavík
 ÍA Akranes,   Akranes
   | IA Akranes | Íþróttabandalag Akraness
 FH Hafnarfjördur
+  | FH
 Breidablik
 Thór Akureyri
 ÍBV Vestmannaeyjar
+  | ÍBV
 Fylkir
 Keflavík
 Stjarnan

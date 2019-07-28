@@ -1,6 +1,9 @@
 =====================================
 =  Northern Ireland (nir)
 
+Derry City F.C.,       Derry     ## note: plays in (Republic of) Ireland league
+  | Derry | Derry City | Derry City FC
+
 
 Linfield FC, Belfast
   | Linfield
@@ -9,6 +12,7 @@ Glentoran FC, Belfast
 Cliftonville FC
   | Cliftonville
 Crusaders FC
+  | Crusaders
 Portadown FC
 Lisburn Distillery FC
 

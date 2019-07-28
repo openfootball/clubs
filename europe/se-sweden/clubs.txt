@@ -6,13 +6,13 @@ AIK,                 Stockholm
 IF Brommapojkarna,   Stockholm (Bromma)
   | Brommapojkarna
 Djurgårdens IF,      Stockholm
-  | Djurgarden
+  | Djurgården | Djurgarden
 Hammarby IF,         Stockholm
   | Hammarby
 
 
 IFK Göteborg, Göteborg       ## Gothenburg [en]
-  | Goteborg | IFK Goteborg | Idrottsföreningen Kamraterna Göteborg
+  | Göteborg | Goteborg | IFK Goteborg | Idrottsföreningen Kamraterna Göteborg
 GAIS,         Göteborg
   | Gais | Göteborgs Atlet- och Idrottssällskap
 BK Häcken,    Göteborg
@@ -20,7 +20,7 @@ BK Häcken,    Göteborg
 
 
 Malmö FF, Malmö
-  | Malmo FF | Malmö Fotbollförening
+  | Malmö | Malmo FF | Malmö Fotbollförening
 
 
 IF Elfsborg,   Borås
@@ -32,7 +32,7 @@ Helsingborgs IF, Helsingborg
 Kalmar FF, Kalmar
   | Kalmar
 Örebro SK,  Örebro
-  | Orebro | Örebro Sportklubb
+  | Örebro | Orebro | Örebro Sportklubb
 Gefle IF,   Gävle
   | Gefle
 
@@ -61,13 +61,13 @@ Ljungskile SK,  Ljungskile
   | Ljungskile
 
 IFK Norrköping,  Norrköping
-  | Norrkoping | IFK Norrköping FK
+  | Norrköping | Norrkoping | IFK Norrköping FK
 
 Östers IF,   Växjö
   | Osters
 
 Östersunds FK,  Östersund
-  | Ostersunds
+  | Östersund | Ostersunds
 
 GIF Sundsvall,  Sundsvall
   | Sundsvall

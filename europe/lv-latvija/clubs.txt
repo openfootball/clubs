@@ -5,6 +5,7 @@ FK Ventspils
   | Ventspils
 SK Liepājas Metalurgs
 Skonto FC
+  | Skonto
 FC Daugava Daugavpils
 FK Jelgava
 FC Dinaburg
@@ -12,6 +13,7 @@ JFK Olimps/RFS
 
 
 FK Spartaks Jūrmala
+  | Spartaks Jūrmala
 FK Liepāja      # check -same as SK Liepājas Metalurgs ??
 Riga FC
 FC Daugava Rīga

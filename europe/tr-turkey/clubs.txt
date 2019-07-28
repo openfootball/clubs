@@ -22,13 +22,14 @@ Osmanlıspor Ankara,       Ankara
   | Osmanlispor | Osmanlıspor
 
 Kardemir Karabükspor,  Karabük
-  | Karabukspor
+  | Karabükspor | Karabukspor
 Elazığspor,            Elazığ
   | Elazigspor
 Eskişehirspor,         Eskişehir
   | Eskisehirspor
 
 Akhisar Belediyespor, Akhisar
+  | Akhisar
 Alanyaspor,  Alanya
 Antalyaspor, Antalya
 Bursaspor,   Bursa

@@ -2,14 +2,22 @@
 =  Slovenia (si)
 
 NK Olimpija Ljubljana
+  | Olimpija Ljubljana
 NK IB Ljubljana
+  | IB Ljubljana
 
 NK Maribor, Maribor
   | Maribor
 
 ND Mura 05
+  | Mura
 FC Koper
+  | Koper
 ND Gorica
+  | Gorica
 NK Domžale
+  | Domžale
 NK Rudar Velenje
+  | Rudar Velenje
 NK Celje
+  | Celje

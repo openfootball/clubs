@@ -6,7 +6,8 @@ Shamrock Rovers FC,                Dublin (Tallaght)         #  Tallaght, South 
 Bohemian F.C.,                     Dublin (Phibsborough)
   | Bohemians | Bohemian FC
 St Patrick's Athletic F.C.,        Dublin (Inchicore)
-  | St. Patricks | St Patrick's Athletic | Saint Patrick's Athletic FC
+  | St Patrick's | St Patrick's Athletic | Saint Patrick's Athletic FC
+  | St. Patricks
 University College Dublin A.F.C.,  Dublin (Belfield)
   | UCD | UC Dublin | University College Dublin AFC
 Shelbourne F.C.,                   Dublin (Drumcondra)
@@ -21,9 +22,9 @@ Bray Wanderers F.C.,   Bray
 Cobh Ramblers F.C.,  Cobh
   | Cobh Ramblers
 Cork City F.C.,        Cork
-  | Cork City | Cork City FC
-Derry City F.C.,       Derry     ## fix: move to Northern Ireland  !!!
-  | Derry City | Derry City FC
+  | Cork | Cork City | Cork City FC
+
+
 Drogheda United F.C.,  Drogheda
   | Drogheda | Drogheda United | Drogheda United FC
 Dundalk F.C.,         Dundalk
@@ -39,7 +40,7 @@ Longford Town F.C.,  Longford
 Mervue
 Monaghan
 Sligo Rovers F.C.,       Sligo
-  | Sligo Rovers | Sligo Rovers FC
+  | Sligo | Sligo Rovers | Sligo Rovers FC
 Waterford F.C.,          Waterford
   | Waterford
 Wexford F.C.,           Crossabeg

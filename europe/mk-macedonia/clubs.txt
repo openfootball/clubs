@@ -4,12 +4,13 @@
 FK Metalurg Skopje
 FK Makedonija Skopje
 FK Rabotnički
-  | Rabotnički | Rabotnički Skopje | FK Rabotnicki
+  | Rabotnički | Rabotnicki | Rabotnički Skopje | FK Rabotnicki
 FK Renova
   | KF Renova
 FK Shkëndija 79
-  | KF Shkëndija
+  | KF Shkëndija | Shkëndija
 FK Vardar
+  | Vardar
 FK Teteks
 FK Milano
 FK Pelister

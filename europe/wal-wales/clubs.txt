@@ -3,10 +3,10 @@
 
 
 The New Saints FC,         Oswestry   ## in Shropshire    -- check - playing in english league?
-  | The New Saints
+  | The New Saints | TNS
 
 Bangor City FC
-  | Bangor City
+  | Bangor | Bangor City
 Llanelli AFC
 Rhyl FC
 Cefn Druids AFC

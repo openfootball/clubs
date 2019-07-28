@@ -2,15 +2,27 @@
 =  Belarus (by)
 
 FC BATE Borisov, Barysaw
-  | BATE Borisov | BATE Borissow | Bate Borisov
+  | BATE | BATE Borisov | BATE Borissow | Bate Borisov
 FC Gomel
+  | Gomel
+
 FC Dinamo Minsk
+  | Dinamo Minsk
 FC Partizan Minsk
+  | Partizan Minsk
 FC Minsk
+  | Minsk
+
 FC Dnepr Mogilev
+  | Dnepr
 FC Shakhtyor Soligorsk
+  | Shakhtyor
 FC Naftan Novopolotsk
+  | Naftan
 FC Torpedo Zhodino
+  | Torpedo Zhodino
 
 FC Dinamo Brest
+  | Dinamo Brest
 FC Neman Grodno
+  | Neman

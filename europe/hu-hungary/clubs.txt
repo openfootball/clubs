@@ -3,19 +3,31 @@
 
 
 Ferencvárosi TC, Budapest
-  | Ferencvaros
+  | Ferencváros | Ferencvaros
 Budapest Honvéd FC
+  | Honvéd
 MTK Budapest
+  | MTK
 
 Videoton FC
 Debreceni VSC
+  | Debrecen
 Győri ETO FC
+  | Győr
 Paksi SE
+  | Paks
 Kecskeméti TE
+  | Kecskemét
 Újpest FC
+  | Újpest
 Szombathelyi Haladás
+  | Haladás
 Zalaegerszegi TE
+  | Zalaegerszeg
 
 Fehérvár FC
+  | Fehérvár
 Vasas FC
+  | Vasas
 Diósgyőri VTK
+  | Diósgyőr

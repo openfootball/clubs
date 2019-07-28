@@ -2,14 +2,17 @@
 =  Montenegro (me)
 
 FK Budućnost Podgorica
+  | Budućnost Podgorica
 FK Mogren
 FK Zeta
 FK Rudar Pljevlja
+  | Rudar Pljevlja
 OFK Petrovac
 FK Čelik Nikšić
 FK Sutjeska
-  | Sutjeska Nikšić
+  | Sutjeska | Sutjeska Nikšić
 
 OFK Titograd
+  | Titograd
 FK Bokelj
 FK Lovćen

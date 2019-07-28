@@ -3,16 +3,23 @@
 
 
 GNK Dinamo Zagreb, Zagreb
-  |  Dinamo Zagreb | NK Dinamo Zagreb
+  | Dinamo Zagreb | NK Dinamo Zagreb
 NK Lokomotiva Zagreb, Zagreb
+  | Lokomotiva Zagreb
 
 HNK Hajduk Split,  Split
-  |  Hajduk Split
+  | Hajduk Split
 RNK Split, Split
 
 NK Slaven Koprivnica
+  | Slaven Koprivnica
 NK Varaždin
+  | Varaždin
 HNK Rijeka
+  | Rijeka
 NK Osijek
+  | Osijek
 HNK Cibalia
+  | Cibalia
 HNK Šibenik
+  | Šibenik

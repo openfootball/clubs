@@ -42,7 +42,7 @@ FC Den Bosch,    's-Hertogenbosch › Noord-Brabant
   | Den Bosch
 
 NAC Breda, 1912,  Breda
-  | NOAD ADVENDO Combinatie Breda
+  | NOAD ADVENDO Combinatie Breda | NAC
 
 PSV Eindhoven, 1913,   Eindhoven
   | Philips Sport Vereniging | PSV

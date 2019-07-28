@@ -76,6 +76,7 @@ Nelson FC,           Nelson, Lancashire
 
 Manchester United FC, 1878, @ Old Trafford, Manchester     ## North West England
   | Man United | Manchester United | Man Utd | Manchester U. | Manchester U
+  | Man. United
 Manchester City FC, 1880, @ Etihad Stadium,  Manchester     ## North West England
   | Man City | Manchester City | Man. City | Manchester C
 

@@ -7,7 +7,8 @@ Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
 PFC CSKA Moskva, 1911,   Moskva
   | CSKA | PFK CSCA | CSKA Moskva | CSKA Moscow | PFK CSKA Moscow
 Dynamo Moskva, 1923,     Moskva
-  | Dynamo | Dinamo | Dinamo Moscow | Dynamo Moscow | FC Dinamo Moskva
+  | Dynamo | Dynamo Moscow
+  | Dinamo | Dinamo Moscow | Dinamo Moskva | FC Dinamo Moskva
 FC Spartak Moskva, 1922,    Moskva
   | Spartak | Spartak Moskva | Spartak Moskau | Spartak Moscow | FC Spartak
 FC Moskva
@@ -38,7 +39,9 @@ FC Alania Vladikavkaz,  Vladikovkaz
   | Alania | Alania Vladikavkaz
 
 PFC Krylya Sovetov Samara,    Samara
-  | Krylia Sovetov | Kryl'ia Sovetov | Krylia Sovetov Samara | FK Krylya Sovetov Samara
+  | Krylya Sovetov | FK Krylya Sovetov Samara
+  | Krylia Sovetov | Kryl'ia Sovetov | Krylia Sovetov Samara
+
 
 Arsenal Tula,  Tula
   | Arsenal | FC Arsenal Tula,

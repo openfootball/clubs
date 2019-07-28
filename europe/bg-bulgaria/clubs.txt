@@ -3,12 +3,13 @@
 
 
 PFC CSKA Sofia, 1948,       Sofia      ## CDNA Sofia old name - add year?
-  | CSKA Sofia | CDNA Sofia | PFC CSKA-Sofia
+  | CSKA Sofia | CDNA Sofia | PFC CSKA-Sofia | CSKA-Sofia
 PFC Levski Sofia, 1914,     Sofia
   | Levski Sofia | Levski | Professional Football Club Levski Sofia
 PFC Slavia Sofia, 1913,     Sofia
   | Slavia Sofia | Professional Football Club Slavia Sofia
 PFC Lokomotiv Sofia, 1929,  Sofia
+  | Lokomotiv Sofia
 
 
 PFC Botev Plovdiv, 1912,       Plovdiv
@@ -35,4 +36,4 @@ FC Pirin Blagoevgrad, 1922,   Blagoevgrad   ## note: merged two clubs in 2009; P
   | Blagoevgrad | PFC Pirin Blagoevgrad
 
 FC Dunav Ruse, 1949,   Ruse
-  | FC Dunav
+  | FC Dunav | Dunav

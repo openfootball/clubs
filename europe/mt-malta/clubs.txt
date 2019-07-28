@@ -7,8 +7,10 @@ Valletta FC,         Valletta
 Sliema Wanderers FC, Sliema
   | Sliema Wanderers
 Birkirkara FC
+  | Birkirkara
 Floriana FC
 Hibernians FC
+  | Hibernians
 Marsaxlokk FC
 Balzan FC
 Gżira United FC

@@ -24,7 +24,7 @@ FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein 
 SC Wiener Neustadt,  Wr. Neustadt
   | Neustadt
 SKN St. Pölten,      St. Pölten
-  | St. Polten | SKN St Pölten
+  | St Pölten | St. Polten | SKN St Pölten
 
 
 == Oberösterreich ==
@@ -40,7 +40,7 @@ SV Ried,             Ried i. Innkreis
 == Steiermark ==
 
 SK Sturm Graz,       Graz
-  | Sturm Graz
+  | Sturm | Sturm Graz
 TSV Hartberg,	       Hartberg
   | Hartberg
 
@@ -48,7 +48,7 @@ TSV Hartberg,	       Hartberg
 == Kärnten ==
 
 Wolfsberger AC, 	Wolfsberg
-  | AC Wolfsberger
+  | Wolfsberg | AC Wolfsberger
 
 
 == Salzburg ==
@@ -56,7 +56,7 @@ Wolfsberger AC, 	Wolfsberg
 FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
   | Salzburg | FC Salzburg
 SV Grödig,           Grödig
-  | Grodig
+  | Grödig | Grodig
 
 
 == Tirol ==

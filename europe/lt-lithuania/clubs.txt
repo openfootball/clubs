@@ -3,15 +3,18 @@
 
 
 FK Ekranas
+  | Ekranas
 FK Sūduva
+  | Sūduva
 FK Tauras
 FK Vėtra
 FC Šiauliai
 VMFD Žalgiris
-  | Žalgiris Vilnius | FK Žalgiris Vilnius
+  | Žalgiris | Žalgiris Vilnius | FK Žalgiris Vilnius
 FBK Kaunas
 FK Banga
 FK Riteriai
+  | Riteriai
 FC Stumbras
 FK Atlantas
 FK Kruoja

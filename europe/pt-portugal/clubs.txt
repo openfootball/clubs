@@ -26,11 +26,11 @@ Vitória de Guimarães, Guimarães
 Vitória de Setúbal, Setúbal          ## note:  Vitória SC <=> Vitória FC !!!
   | Setubal | Vitória FC
 CS Marítimo, Funchal
-  | Maritimo
+  | Maritimo | Marítimo
 Moreirense FC, Moreira de Cónegos
   | Moreirense
 FC Paços de Ferreira, Paços de Ferreira
-  | Pacos Ferreira
+  | Pacos Ferreira | Paços Ferreira
 Portimonense SC, Portimão
   | Portimonense
 Rio Ave FC, Vila do Conde
@@ -41,7 +41,7 @@ CD Tondela, Tondela
   | Tondela
 
 Académica de Coimbra, Coimbra
-  | Academica | A. Académica de Coimbra
+  | Académica | Academica | A. Académica de Coimbra
   | Associação Académica de Coimbra   ## Organismo Autónomo de Futebol (AAC–OAF)
 FC Arouca, Arouca
   | Arouca

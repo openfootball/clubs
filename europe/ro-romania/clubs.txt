@@ -6,9 +6,9 @@ Steaua București,        București
   | FCSB
 Dinamo București,        București
   | Din. Bucuresti | Dinamo Bucuresti | FC Dinamo București
-  | FC Dinamo Bucureşti
+  | FC Dinamo Bucureşti | Dinamo Bucureşti
 Rapid București,         București
-  | FC Rapid Bucuresti | FC Rapid București
+  | FC Rapid Bucuresti | FC Rapid București | Rapid Bucureşti
 Daco-Getica București,   București
   | Daco-Getica Bucuresti | Asociația Sport Club Daco-Getica București
 ## From 1992 to the summer of 2018, the team was known as Juventus București
@@ -37,7 +37,7 @@ FC Petrolul Ploiești, Ploiești
   | Petrolul | Petrolul Ploiesti | Petrolul Ploiești | FC Petrolul Ploieşti
 
 FC Viitorul Constanța,   Ovidiu
-  | FC Viitorul | Viitorul Constanta
+  | Viitorul | FC Viitorul | Viitorul Constanta
 
 Corona Brașov,   Brașov
   | Corona Brasov | ASC Corona 2010 Brașov
@@ -55,7 +55,7 @@ FC Severin,         Drobeta-Turnu Severin
 
 
 FC Botoșani, Botoșani
-  | FC Botosani | FC Botoşani | Fotbal Club Botoșani
+  | Botoşani | FC Botosani | FC Botoşani | Fotbal Club Botoșani
 
 FC Hermannstadt,   Hermannstadt
   | Hermannstadt
@@ -64,7 +64,7 @@ Săgeata Năvodari, Năvodari
   | Navodari | AFC Săgeata Năvodari
 
 Oțelul Galați,  Galați
-  | Otelul  | Oțelul | Otelul Galati | ASC Oțelul Galați
+  | Oţelul | Otelul  | Oțelul | Otelul Galati | ASC Oțelul Galați
 
 Pandurii Târgu Jiu,  Târgu Jiu
   | Pandurii | Pandurii Tg Jiu | CS Pandurii Târgu Jiu
@@ -76,13 +76,13 @@ FC Politehnica Iași,   Iași
   | CSMS laşi
 
 Poli Timișoara, Timișoara
-  | Poli Timisoara | ACS Poli Timișoara
+  | Timişoara | Poli Timisoara | ACS Poli Timișoara
 
 Sepsi Sfântu Gheorghe,   Sfântu Gheorghe
   | Sepsi | Sepsi OSK
 
 Târgu Mureș,    Târgu Mureș
-  | Targu Mures | ASA Târgu Mureș | ASA Târgu Mureş
+  | Targu Mures | ASA Târgu Mureș | ASA Târgu Mureş | Târgu Mureş
 
 Universitatea Craiova,    Craiova
   | U Craiova | CS U Craiova | U Craiova 1948 CS | CS Universitatea Craiova

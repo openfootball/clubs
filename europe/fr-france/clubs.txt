@@ -33,7 +33,7 @@ Dijon FCO, Dijon
 EA Guingamp, 1912, Guingamp   ## Côtes-d'Armor > Brittany
   | Guingamp | En Avant Guingamp | En Avant de Guingamp
 Lille OSC,  1944,   Lille      ## Nord > Nord-Pas-de-Calais
-  | Lille  | LOSC Lille | OSC Lille
+  | Lille  | LOSC | LOSC Lille | OSC Lille
 Olympique Lyonnais, 1899, Lyon      ## Lyon > Rhône-Alpes
   | Lyon | Olympique Lyon
 Olympique de Marseille, 1899, Marseille   ## Bouches-du-Rhône > Provence-Alpes-Côte d'Azur
@@ -53,7 +53,7 @@ OGC Nice, 1904, Nice    ## Alpes-Maritimes > Provence-Alpes-Côte d'Azur
 Stade Rennais FC, 1901,   Rennes    ## Ille-et-Vilaine > Brittany
   | Rennes | Stade Rennais Football Club
 AS Saint-Étienne, 1919,  Saint-Étienne     ## Loire > Rhône-Alpes
-  | St Etienne | AS Saint-Etienne
+  | St Etienne | St-Étienne | AS Saint-Etienne
   | Association Sportive de Saint-Étienne Loire
 RC Strasbourg, Strasbourg
   | Strasbourg
