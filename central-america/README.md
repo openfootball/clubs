@@ -1,8 +1,8 @@
 6 datafiles, 23 clubs
 
-**central-america/cr-costa-rica/clubs.txt** _(3)_:  LD Alajuelense • CS Herediano • CS Cartaginés
+**central-america/costa-rica/cr.clubs.txt** _(3)_:  LD Alajuelense • CS Herediano • CS Cartaginés
 
-**central-america/gt-guatemala/clubs.txt** _(4)_:  CSD Municipal • Club Xelajú MC • Comunicaciones FC • Heredia Jaguares de Peten
+**central-america/guatemala/gt.clubs.txt** _(4)_:  CSD Municipal • Club Xelajú MC • Comunicaciones FC • Heredia Jaguares de Peten
 
 **central-america/hn-honduras/clubs.txt** _(5)_:  CD Olimpia • CD Marathón • Real CD España • CD Motagua • CD Victoria
 

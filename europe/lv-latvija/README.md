@@ -1,26 +1,34 @@
-7 clubs
+11 clubs
 
 - **FK Ventspils** : (1) Ventspils
 - **SK Liepājas Metalurgs**
-- **Skonto FC**
+- **Skonto FC** : (1) Skonto
 - **FC Daugava Daugavpils**
 - **FK Jelgava**
 - **FC Dinaburg**
 - **JFK Olimps/RFS**
+- **FK Spartaks Jūrmala** : (1) Spartaks Jūrmala
+- **FK Liepāja**
+- **Riga FC**
+- **FC Daugava Rīga**
 
 
 
 
 By City
 
-- ? (7): 
+- ? (11): 
   - FK Ventspils  (1) Ventspils
   - SK Liepājas Metalurgs 
-  - Skonto FC 
+  - Skonto FC  (1) Skonto
   - FC Daugava Daugavpils 
   - FK Jelgava 
   - FC Dinaburg 
   - JFK Olimps/RFS 
+  - FK Spartaks Jūrmala  (1) Spartaks Jūrmala
+  - FK Liepāja 
+  - Riga FC 
+  - FC Daugava Rīga 
 
 
 
@@ -33,7 +41,7 @@ By Region
 
 By Year
 
-- ? (7):   FK Ventspils • SK Liepājas Metalurgs • Skonto FC • FC Daugava Daugavpils • FK Jelgava • FC Dinaburg • JFK Olimps/RFS
+- ? (11):   FK Ventspils • SK Liepājas Metalurgs • Skonto FC • FC Daugava Daugavpils • FK Jelgava • FC Dinaburg • JFK Olimps/RFS • FK Spartaks Jūrmala • FK Liepāja • Riga FC • FC Daugava Rīga
 
 
 
@@ -42,9 +50,10 @@ By Year
 
 By A to Z
 
-- **F** (4): FK Jelgava • FC Dinaburg • FK Ventspils • FC Daugava Daugavpils
+- **F** (7): FK Jelgava • FK Liepāja • FC Dinaburg • FK Ventspils • FC Daugava Rīga • FK Spartaks Jūrmala • FC Daugava Daugavpils
 - **J** (1): JFK Olimps/RFS
-- **S** (2): Skonto FC • SK Liepājas Metalurgs
+- **R** (1): Riga FC
+- **S** (4): Skonto • Skonto FC • Spartaks Jūrmala • SK Liepājas Metalurgs
 - **V** (1): Ventspils
 
 

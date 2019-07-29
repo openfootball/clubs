@@ -1,6 +1,6 @@
 16 clubs
 
-- **AC Sparta Praha** : (5) Sparta Praha • Sparta Prague • AC Sparta Praha • AC Sparta Prague • Athletic Club Sparta Praha
+- **AC Sparta Praha** : (4) Sparta Praha • Sparta Prague • AC Sparta Prague • Athletic Club Sparta Praha
 - **FK Dukla Praha** : (2) Dukla • FK Dukla Prague
 - **SK Slavia Praha** : (2) Slavia Praha • Sportovní klub Slavia Praha
 - **Bohemians Praha 1905** : (1) Bohemians 1905
@@ -23,7 +23,7 @@
 By City
 
 - **Praha** (4): 
-  - AC Sparta Praha  (5) Sparta Praha • AC Sparta Praha • Sparta Prague • AC Sparta Prague • Athletic Club Sparta Praha
+  - AC Sparta Praha  (4) Sparta Praha • Sparta Prague • AC Sparta Prague • Athletic Club Sparta Praha
   - FK Dukla Praha  (2) Dukla • FK Dukla Prague
   - SK Slavia Praha  (2) Slavia Praha • Sportovní klub Slavia Praha
   - Bohemians Praha 1905  (1) Bohemians 1905
@@ -86,7 +86,7 @@ By Year
 By A to Z
 
 - **1** (2): 1. FK Příbram • 1. FC Slovácko
-- **A** (3): !! **AC Sparta Praha (2)** !! • AC Sparta Prague • Athletic Club Sparta Praha
+- **A** (3): AC Sparta Praha • AC Sparta Prague • Athletic Club Sparta Praha
 - **B** (4): Brno • Baník • Bohemians 1905 • Bohemians Praha 1905
 - **D** (1): Dukla
 - **F** (14): FC Zlín • FK Teplice • FK Jablonec • FK Dukla Praha • FK Dukla Prague • FC Baník Ostrava • FC Slovan Liberec • FC Viktoria Plzeň • FC Zbrojovka Brno • FK Mladá Boleslav • FC Vysočina Jihlava • Football Club Slovan Liberec • Football Club Viktoria Plzeň • Fotbalový klub Mladá Boleslav

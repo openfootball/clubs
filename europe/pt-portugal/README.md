@@ -11,14 +11,14 @@
 - **CD Feirense** : (1) Feirense
 - **Vitória de Guimarães** : (2) Guimaraes • Vitória SC
 - **Vitória de Setúbal** : (2) Setubal • Vitória FC
-- **CS Marítimo** : (1) Maritimo
+- **CS Marítimo** : (2) Maritimo • Marítimo
 - **Moreirense FC** : (1) Moreirense
-- **FC Paços de Ferreira** : (1) Pacos Ferreira
+- **FC Paços de Ferreira** : (2) Pacos Ferreira • Paços Ferreira
 - **Portimonense SC** : (1) Portimonense
 - **Rio Ave FC** : (1) Rio Ave
 - **SC Braga** : (3) Braga • Sp Braga • Sporting Braga
 - **CD Tondela** : (1) Tondela
-- **Académica de Coimbra** : (3) Academica • A. Académica de Coimbra • Associação Académica de Coimbra
+- **Académica de Coimbra** : (4) Académica • Academica • A. Académica de Coimbra • Associação Académica de Coimbra
 - **FC Arouca** : (1) Arouca
 - **CD Nacional Madeira** : (4) Nacional • CD Nacional • Nacional da Madeira • Clube Desportivo Nacional
 - **FC Penafiel** : (1) Penafiel
@@ -49,7 +49,7 @@
 By City
 
 - **Funchal** (3): 
-  - CS Marítimo  (1) Maritimo
+  - CS Marítimo  (2) Maritimo • Marítimo
   - CD Nacional Madeira  (4) Nacional • CD Nacional • Nacional da Madeira • Clube Desportivo Nacional
   - União da Madeira  (2) Madeira • Uniao Madeira
 - **Lisboa** (3): 
@@ -70,7 +70,7 @@ By City
 - **Barcelos** (1): Gil Vicente FC  (1) Gil Vicente
 - **Braga** (1): SC Braga  (3) Braga • Sp Braga • Sporting Braga
 - **Campo Maior** (1): SC Campomaiorense  (2) Campomaior • Campomaiorense
-- **Coimbra** (1): Académica de Coimbra  (3) Academica • A. Académica de Coimbra • Associação Académica de Coimbra
+- **Coimbra** (1): Académica de Coimbra  (4) Académica • Academica • A. Académica de Coimbra • Associação Académica de Coimbra
 - **Espinho** (1): Sporting de Espinho  (2) Espinho • Sporting Clube de Espinho
 - **Estoril** (1): Estoril Praia  (1) Estoril
 - **Faro** (1): SC Farense  (1) Farense
@@ -83,7 +83,7 @@ By City
 - **Moreira de Cónegos** (1): Moreirense FC  (1) Moreirense
 - **Olhão** (1): SC Olhanense  (1) Olhanense
 - **Paranhos** (1): SC Salgueiros  (1) Salgueiros
-- **Paços de Ferreira** (1): FC Paços de Ferreira  (1) Pacos Ferreira
+- **Paços de Ferreira** (1): FC Paços de Ferreira  (2) Pacos Ferreira • Paços Ferreira
 - **Penafiel** (1): FC Penafiel  (1) Penafiel
 - **Ponta Delgada** (1): CD Santa Clara  (1) Santa Clara
 - **Portimão** (1): Portimonense SC  (1) Portimonense
@@ -151,7 +151,7 @@ By Year
 
 By A to Z
 
-- **A** (8): Aves • Arouca • Alverca • Academica • Académica de Coimbra • A. Académica de Coimbra • Associação Naval 1º de Maio • Associação Académica de Coimbra
+- **A** (9): Aves • Arouca • Alverca • Academica • Académica • Académica de Coimbra • A. Académica de Coimbra • Associação Naval 1º de Maio • Associação Académica de Coimbra
 - **B** (9): Braga • Benfica • Boavista • Beira Mar • Belenenses • Boavista FC • Benfica Lis. • Benfica Lisboa • Benfica Lissabon
 - **C** (14): Chaves • CD Aves • CD Tondela • Campomaior • CD Feirense • CD Nacional • CD Trofense • CS Marítimo • CD Santa Clara • Campomaiorense • CD Nacional Madeira • CF Estrela da Amadora • Clube Desportivo Nacional • Clube Desportivo Trofense
 - **D** (2): Desp. Chaves • Desportivo de Chaves
@@ -159,10 +159,10 @@ By A to Z
 - **F** (10): Farense • FC Porto • Feirense • FC Arouca • FC Alverca • Felgueiras • FC Penafiel • FC Tirsense • FC Felgueiras • FC Paços de Ferreira
 - **G** (4): GD Chaves • Guimaraes • Gil Vicente • Gil Vicente FC
 - **L** (5): Leca • Leiria • Leixoes • Leça FC • Leixões SC
-- **M** (4): Madeira • Maritimo • Moreirense • Moreirense FC
+- **M** (5): Madeira • Maritimo • Marítimo • Moreirense • Moreirense FC
 - **N** (4): Naval • Nacional • Naval 1º de Maio • Nacional da Madeira
 - **O** (2): Olhanense • Os Belenenses
-- **P** (5): Porto • Penafiel • Portimonense • Pacos Ferreira • Portimonense SC
+- **P** (6): Porto • Penafiel • Portimonense • Pacos Ferreira • Paços Ferreira • Portimonense SC
 - **R** (2): Rio Ave • Rio Ave FC
 - **S** (18): Setubal • SC Braga • Sp Braga • Sp Lisbon • SC Farense • SL Benfica • Salgueiros • Santa Clara • Sporting CP • SC Beira-Mar • SC Olhanense • SC Salgueiros • Sporting Braga • Sporting Lisboa • SC Campomaiorense • Sporting de Espinho • Sporting Clube de Espinho • Sporting Clube de Portugal
 - **T** (3): Tondela • Tirsense • Trofense

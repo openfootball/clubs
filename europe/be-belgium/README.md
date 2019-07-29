@@ -5,11 +5,6 @@
 - **RWD Molenbeek** : (1) Molenbeek
 - **Royal Antwerp FC** : (1) Antwerp
 - **Germinal Beerschot** : (1) Germinal
-- **Sporting Charleroi** : (4) Charleroi • R. Charleroi SC • Sporting de Charleroi • Royal Charleroi Sporting Club
-- **Royal Excel Mouscron** : (5) Mouscron • Mouscron-Peruwelz • Mouscron-Péruwelz • R. Mouscron-Péruwelz • Royal Mouscron-Péruwelz
-- **RAEC Mons** : (1) Bergen
-- **KAS Eupen** : (1) Eupen
-- **Standard Liège** : (5) Standard • Standard Liege • Standard de Liège • R. Standard de Liège • Royal Standard de Liège
 - **KV Mechelen** : (2) Mechelen • Yellow Red Koninklijke Voetbalclub Mechelen
 - **KVC Westerlo** : (3) Westerlo • K.V.C. Westerlo • Koninklijke Voetbal Club Westerlo
 - **K Lierse SK** : (1) Lierse
@@ -26,6 +21,11 @@
 - **KV Kortrijk** : (3) Kortrijk • K.V. Kortrijk • Koninklijke Voetbalclub Kortrijk
 - **KV Oostende** : (3) Oostende • K.V. Oostende • Koninklijke Voetbalclub Oostende
 - **SV Zulte Waregem** : (4) Waregem • Zulte Waregem • S.V. Zulte Waregem • Sportvereniging Zulte Waregem
+- **Sporting Charleroi** : (4) Charleroi • R. Charleroi SC • Sporting de Charleroi • Royal Charleroi Sporting Club
+- **Royal Excel Mouscron** : (5) Mouscron • Mouscron-Peruwelz • Mouscron-Péruwelz • R. Mouscron-Péruwelz • Royal Mouscron-Péruwelz
+- **RAEC Mons** : (1) Bergen
+- **KAS Eupen** : (1) Eupen
+- **Standard Liège** : (5) Standard • Standard Liege • Standard de Liège • R. Standard de Liège • Royal Standard de Liège
 - **KFC Verbroedering Geel** : (1) Geel
 - **KRC Harelbeke** : (1) Harelbeke
 - **K Heusden-Zolder** : (1) Heusden Zolder
@@ -41,7 +41,7 @@
 
 By City
 
-- **Brussels** (3): 
+- **Brussels, Brussels** (3): 
   - RSC Anderlecht  (3) Anderlecht • R.S.C. Anderlecht • Royal Sporting Club Anderlecht
   - FC Brussels 
   - RWD Molenbeek  (1) Molenbeek
@@ -86,13 +86,13 @@ By City
 
 By Region
 
-- **Brussels†** (3):   RSC Anderlecht • FC Brussels • RWD Molenbeek
+- **Brussels** (3):   RSC Anderlecht • FC Brussels • RWD Molenbeek
 - **Antwerpen › Vlaanderen** (5):   Royal Antwerp FC • Germinal Beerschot • KV Mechelen • KVC Westerlo • K Lierse SK
-- **Hainaut › Wallonie** (3):   Sporting Charleroi • Royal Excel Mouscron • RAEC Mons
-- **Liège › Wallonie** (2):   KAS Eupen • Standard Liège
 - **Limburg › Vlaanderen** (2):   KRC Genk • Sint-Truidense VV
 - **Oost-Vlaanderen › Vlaanderen** (6):   KAA Gent • KSC Lokeren OV • SC Eendracht Aalst • FCV Dender EH • Waasland-Beveren • KSK Beveren
 - **West-Vlaanderen › Vlaanderen** (5):   Club Brugge • Cercle Brugge • KV Kortrijk • KV Oostende • SV Zulte Waregem
+- **Hainaut › Wallonie** (3):   Sporting Charleroi • Royal Excel Mouscron • RAEC Mons
+- **Liège › Wallonie** (2):   KAS Eupen • Standard Liège
 - **Geel†** (1):   KFC Verbroedering Geel
 - **Harelbeke†** (1):   KRC Harelbeke
 - **Heusden-Zolder†** (1):   K Heusden-Zolder
@@ -113,7 +113,7 @@ By Year
 - **1898** (1):   Standard Liège
 - **1899** (1):   Cercle Brugge
 - **1901** (1):   KV Kortrijk
-- **1904** (2):   Sporting Charleroi • KV Mechelen
+- **1904** (2):   KV Mechelen • Sporting Charleroi
 - **1908** (1):   RSC Anderlecht
 - **1923** (1):   KSC Lokeren OV
 - **1924** (1):   Sint-Truidense VV
@@ -124,7 +124,7 @@ By Year
 - **1988** (1):   KRC Genk
 - **2002** (1):   Oud-Heverlee Leuven
 - **2010** (1):   Royal Excel Mouscron
-- ? (18):   FC Brussels • RWD Molenbeek • Royal Antwerp FC • Germinal Beerschot • RAEC Mons • KAS Eupen • K Lierse SK • SC Eendracht Aalst • FCV Dender EH • KSK Beveren • KFC Verbroedering Geel • KRC Harelbeke • K Heusden-Zolder • KFC Lommel SK • RAA Louviéroise • KSV Roeselare • RFC Seraing • AFC Tubize
+- ? (18):   FC Brussels • RWD Molenbeek • Royal Antwerp FC • Germinal Beerschot • K Lierse SK • SC Eendracht Aalst • FCV Dender EH • KSK Beveren • RAEC Mons • KAS Eupen • KFC Verbroedering Geel • KRC Harelbeke • K Heusden-Zolder • KFC Lommel SK • RAA Louviéroise • KSV Roeselare • RFC Seraing • AFC Tubize
 
 
 

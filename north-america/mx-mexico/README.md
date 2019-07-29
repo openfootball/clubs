@@ -20,7 +20,7 @@
 - **Club Necaxa** : (1) Necaxa
 - **CF Pachuca** : (1) Pachuca
 - **Querétaro FC** : (1) Queretaro
-- **Santos Laguna** : (1) Santos Laguna
+- **Santos Laguna**
 - **Deportivo Toluca FC** : (1) Toluca
 - **Tiburones Rojos Veracruz** : (1) Veracruz
 
@@ -53,7 +53,7 @@ By City
 - **San Luis Potosí, San Luis Potosí** (1): Atlético San Luis  (1) Atl. San Luis
 - **Tijuana, Baja California** (1): Club Tijuana 
 - **Toluca, México** (1): Deportivo Toluca FC  (1) Toluca
-- **Torreón, Coahuila** (1): Santos Laguna  (1) Santos Laguna
+- **Torreón, Coahuila** (1): Santos Laguna 
 - **Tuxtla Gutiérrez, Chiapas** (1): Jaguares Chiapas  (1) Chiapas
 - **Veracruz, Veracruz** (1): Tiburones Rojos Veracruz  (1) Veracruz
 
@@ -104,7 +104,7 @@ By A to Z
 - **N** (1): Necaxa
 - **P** (3): Puebla • Pachuca • Pumas UNAM
 - **Q** (2): Queretaro • Querétaro FC
-- **S** (1): !! **Santos Laguna (2)** !!
+- **S** (1): Santos Laguna
 - **T** (3): Toluca • Tigres UANL • Tiburones Rojos Veracruz
 - **U** (2): U.N.A.M.- Pumas • U.A.N.L.- Tigres
 - **V** (1): Veracruz

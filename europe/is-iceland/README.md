@@ -1,15 +1,17 @@
-10 clubs
+12 clubs
 
 - **KR Reykjavík** : (2) KR Reykjavik • Knattspyrnufélag Reykjavíkur
-- **Fram Reykjavík**
-- **Valur Reykjavík**
+- **Fram Reykjavík** : (1) Fram
+- **Valur Reykjavík** : (1) Valur
+- **Víkingur Reykjavík**
 - **ÍA Akranes** : (2) IA Akranes • Íþróttabandalag Akraness
-- **FH Hafnarfjördur**
+- **FH Hafnarfjördur** : (1) FH
 - **Breidablik**
 - **Thór Akureyri**
-- **ÍBV Vestmannaeyjar**
+- **ÍBV Vestmannaeyjar** : (1) ÍBV
 - **Fylkir**
 - **Keflavík**
+- **Stjarnan**
 
 
 
@@ -18,15 +20,17 @@ By City
 
 - **Akranes** (1): ÍA Akranes  (2) IA Akranes • Íþróttabandalag Akraness
 - **Reykjavík** (1): KR Reykjavík  (2) KR Reykjavik • Knattspyrnufélag Reykjavíkur
-- ? (8): 
-  - Fram Reykjavík 
-  - Valur Reykjavík 
-  - FH Hafnarfjördur 
+- ? (10): 
+  - Fram Reykjavík  (1) Fram
+  - Valur Reykjavík  (1) Valur
+  - Víkingur Reykjavík 
+  - FH Hafnarfjördur  (1) FH
   - Breidablik 
   - Thór Akureyri 
-  - ÍBV Vestmannaeyjar 
+  - ÍBV Vestmannaeyjar  (1) ÍBV
   - Fylkir 
   - Keflavík 
+  - Stjarnan 
 
 
 
@@ -41,7 +45,7 @@ By Region
 
 By Year
 
-- ? (10):   KR Reykjavík • Fram Reykjavík • Valur Reykjavík • ÍA Akranes • FH Hafnarfjördur • Breidablik • Thór Akureyri • ÍBV Vestmannaeyjar • Fylkir • Keflavík
+- ? (12):   KR Reykjavík • Fram Reykjavík • Valur Reykjavík • Víkingur Reykjavík • ÍA Akranes • FH Hafnarfjördur • Breidablik • Thór Akureyri • ÍBV Vestmannaeyjar • Fylkir • Keflavík • Stjarnan
 
 
 
@@ -51,12 +55,13 @@ By Year
 By A to Z
 
 - **B** (1): Breidablik
-- **F** (3): Fylkir • Fram Reykjavík • FH Hafnarfjördur
+- **F** (5): FH • Fram • Fylkir • Fram Reykjavík • FH Hafnarfjördur
 - **I** (1): IA Akranes
 - **K** (4): Keflavík • KR Reykjavik • KR Reykjavík • Knattspyrnufélag Reykjavíkur
+- **S** (1): Stjarnan
 - **T** (1): Thór Akureyri
-- **V** (1): Valur Reykjavík
-- **Í** (3): ÍA Akranes • ÍBV Vestmannaeyjar • Íþróttabandalag Akraness
+- **V** (3): Valur • Valur Reykjavík • Víkingur Reykjavík
+- **Í** (4): ÍBV • ÍA Akranes • ÍBV Vestmannaeyjar • Íþróttabandalag Akraness
 
 
 

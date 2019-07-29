@@ -1,30 +1,34 @@
-9 clubs
+11 clubs
 
-- **FC BATE Borisov** : (3) BATE Borisov • Bate Borisov • BATE Borissow
-- **FC Gomel**
-- **FC Dinamo Minsk**
-- **FC Partizan Minsk**
-- **FC Minsk**
-- **FC Dnepr Mogilev**
-- **FC Shakhtyor Soligorsk**
-- **FC Naftan Novopolotsk**
-- **FC Torpedo Zhodino**
+- **FC BATE Borisov** : (4) BATE • BATE Borisov • Bate Borisov • BATE Borissow
+- **FC Gomel** : (1) Gomel
+- **FC Dinamo Minsk** : (1) Dinamo Minsk
+- **FC Partizan Minsk** : (1) Partizan Minsk
+- **FC Minsk** : (1) Minsk
+- **FC Dnepr Mogilev** : (1) Dnepr
+- **FC Shakhtyor Soligorsk** : (1) Shakhtyor
+- **FC Naftan Novopolotsk** : (1) Naftan
+- **FC Torpedo Zhodino** : (1) Torpedo Zhodino
+- **FC Dinamo Brest** : (1) Dinamo Brest
+- **FC Neman Grodno** : (1) Neman
 
 
 
 
 By City
 
-- **Barysaw** (1): FC BATE Borisov  (3) BATE Borisov • BATE Borissow • Bate Borisov
-- ? (8): 
-  - FC Gomel 
-  - FC Dinamo Minsk 
-  - FC Partizan Minsk 
-  - FC Minsk 
-  - FC Dnepr Mogilev 
-  - FC Shakhtyor Soligorsk 
-  - FC Naftan Novopolotsk 
-  - FC Torpedo Zhodino 
+- **Barysaw** (1): FC BATE Borisov  (4) BATE • BATE Borisov • BATE Borissow • Bate Borisov
+- ? (10): 
+  - FC Gomel  (1) Gomel
+  - FC Dinamo Minsk  (1) Dinamo Minsk
+  - FC Partizan Minsk  (1) Partizan Minsk
+  - FC Minsk  (1) Minsk
+  - FC Dnepr Mogilev  (1) Dnepr
+  - FC Shakhtyor Soligorsk  (1) Shakhtyor
+  - FC Naftan Novopolotsk  (1) Naftan
+  - FC Torpedo Zhodino  (1) Torpedo Zhodino
+  - FC Dinamo Brest  (1) Dinamo Brest
+  - FC Neman Grodno  (1) Neman
 
 
 
@@ -38,7 +42,7 @@ By Region
 
 By Year
 
-- ? (9):   FC BATE Borisov • FC Gomel • FC Dinamo Minsk • FC Partizan Minsk • FC Minsk • FC Dnepr Mogilev • FC Shakhtyor Soligorsk • FC Naftan Novopolotsk • FC Torpedo Zhodino
+- ? (11):   FC BATE Borisov • FC Gomel • FC Dinamo Minsk • FC Partizan Minsk • FC Minsk • FC Dnepr Mogilev • FC Shakhtyor Soligorsk • FC Naftan Novopolotsk • FC Torpedo Zhodino • FC Dinamo Brest • FC Neman Grodno
 
 
 
@@ -47,8 +51,15 @@ By Year
 
 By A to Z
 
-- **B** (3): BATE Borisov • Bate Borisov • BATE Borissow
-- **F** (9): FC Gomel • FC Minsk • FC BATE Borisov • FC Dinamo Minsk • FC Dnepr Mogilev • FC Partizan Minsk • FC Torpedo Zhodino • FC Naftan Novopolotsk • FC Shakhtyor Soligorsk
+- **B** (4): BATE • BATE Borisov • Bate Borisov • BATE Borissow
+- **D** (3): Dnepr • Dinamo Brest • Dinamo Minsk
+- **F** (11): FC Gomel • FC Minsk • FC BATE Borisov • FC Dinamo Brest • FC Dinamo Minsk • FC Neman Grodno • FC Dnepr Mogilev • FC Partizan Minsk • FC Torpedo Zhodino • FC Naftan Novopolotsk • FC Shakhtyor Soligorsk
+- **G** (1): Gomel
+- **M** (1): Minsk
+- **N** (2): Neman • Naftan
+- **P** (1): Partizan Minsk
+- **S** (1): Shakhtyor
+- **T** (1): Torpedo Zhodino
 
 
 

@@ -1,20 +1,22 @@
-4 clubs
+5 clubs
 
-- **UE Sant Julià**
+- **UE Sant Julià** : (1) Sant Julià
 - **FC Santa Coloma**
 - **UE Santa Coloma**
 - **FC Lusitans**
+- **UE Engordany**
 
 
 
 
 By City
 
-- ? (4): 
-  - UE Sant Julià 
+- ? (5): 
+  - UE Sant Julià  (1) Sant Julià
   - FC Santa Coloma 
   - UE Santa Coloma 
   - FC Lusitans 
+  - UE Engordany 
 
 
 
@@ -27,7 +29,7 @@ By Region
 
 By Year
 
-- ? (4):   UE Sant Julià • FC Santa Coloma • UE Santa Coloma • FC Lusitans
+- ? (5):   UE Sant Julià • FC Santa Coloma • UE Santa Coloma • FC Lusitans • UE Engordany
 
 
 
@@ -37,7 +39,8 @@ By Year
 By A to Z
 
 - **F** (2): FC Lusitans • FC Santa Coloma
-- **U** (2): UE Sant Julià • UE Santa Coloma
+- **S** (1): Sant Julià
+- **U** (3): UE Engordany • UE Sant Julià • UE Santa Coloma
 
 
 

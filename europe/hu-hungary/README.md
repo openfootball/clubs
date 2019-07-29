@@ -1,34 +1,40 @@
-11 clubs
+14 clubs
 
-- **Ferencvárosi TC** : (1) Ferencvaros
-- **Budapest Honvéd FC**
-- **MTK Budapest**
+- **Ferencvárosi TC** : (2) Ferencváros • Ferencvaros
+- **Budapest Honvéd FC** : (1) Honvéd
+- **MTK Budapest** : (1) MTK
 - **Videoton FC**
-- **Debreceni VSC**
-- **Győri ETO FC**
-- **Paksi SE**
-- **Kecskeméti TE**
-- **Újpest FC**
-- **Szombathelyi Haladás**
-- **Zalaegerszegi TE**
+- **Debreceni VSC** : (1) Debrecen
+- **Győri ETO FC** : (1) Győr
+- **Paksi SE** : (1) Paks
+- **Kecskeméti TE** : (1) Kecskemét
+- **Újpest FC** : (1) Újpest
+- **Szombathelyi Haladás** : (1) Haladás
+- **Zalaegerszegi TE** : (1) Zalaegerszeg
+- **Fehérvár FC** : (1) Fehérvár
+- **Vasas FC** : (1) Vasas
+- **Diósgyőri VTK** : (1) Diósgyőr
 
 
 
 
 By City
 
-- **Budapest** (1): Ferencvárosi TC  (1) Ferencvaros
-- ? (10): 
-  - Budapest Honvéd FC 
-  - MTK Budapest 
+- **Budapest** (1): Ferencvárosi TC  (2) Ferencváros • Ferencvaros
+- ? (13): 
+  - Budapest Honvéd FC  (1) Honvéd
+  - MTK Budapest  (1) MTK
   - Videoton FC 
-  - Debreceni VSC 
-  - Győri ETO FC 
-  - Paksi SE 
-  - Kecskeméti TE 
-  - Újpest FC 
-  - Szombathelyi Haladás 
-  - Zalaegerszegi TE 
+  - Debreceni VSC  (1) Debrecen
+  - Győri ETO FC  (1) Győr
+  - Paksi SE  (1) Paks
+  - Kecskeméti TE  (1) Kecskemét
+  - Újpest FC  (1) Újpest
+  - Szombathelyi Haladás  (1) Haladás
+  - Zalaegerszegi TE  (1) Zalaegerszeg
+  - Fehérvár FC  (1) Fehérvár
+  - Vasas FC  (1) Vasas
+  - Diósgyőri VTK  (1) Diósgyőr
 
 
 
@@ -42,7 +48,7 @@ By Region
 
 By Year
 
-- ? (11):   Ferencvárosi TC • Budapest Honvéd FC • MTK Budapest • Videoton FC • Debreceni VSC • Győri ETO FC • Paksi SE • Kecskeméti TE • Újpest FC • Szombathelyi Haladás • Zalaegerszegi TE
+- ? (14):   Ferencvárosi TC • Budapest Honvéd FC • MTK Budapest • Videoton FC • Debreceni VSC • Győri ETO FC • Paksi SE • Kecskeméti TE • Újpest FC • Szombathelyi Haladás • Zalaegerszegi TE • Fehérvár FC • Vasas FC • Diósgyőri VTK
 
 
 
@@ -52,16 +58,17 @@ By Year
 By A to Z
 
 - **B** (1): Budapest Honvéd FC
-- **D** (1): Debreceni VSC
-- **F** (2): Ferencvaros • Ferencvárosi TC
-- **G** (1): Győri ETO FC
-- **K** (1): Kecskeméti TE
-- **M** (1): MTK Budapest
-- **P** (1): Paksi SE
+- **D** (4): Debrecen • Diósgyőr • Debreceni VSC • Diósgyőri VTK
+- **F** (5): Fehérvár • Fehérvár FC • Ferencvaros • Ferencváros • Ferencvárosi TC
+- **G** (2): Győr • Győri ETO FC
+- **H** (2): Honvéd • Haladás
+- **K** (2): Kecskemét • Kecskeméti TE
+- **M** (2): MTK • MTK Budapest
+- **P** (2): Paks • Paksi SE
 - **S** (1): Szombathelyi Haladás
-- **V** (1): Videoton FC
-- **Z** (1): Zalaegerszegi TE
-- **Ú** (1): Újpest FC
+- **V** (3): Vasas • Vasas FC • Videoton FC
+- **Z** (2): Zalaegerszeg • Zalaegerszegi TE
+- **Ú** (2): Újpest • Újpest FC
 
 
 

@@ -1,4 +1,4 @@
-7 clubs
+8 clubs
 
 - **FC Pyunik**
 - **Ulisses FC**
@@ -7,13 +7,14 @@
 - **FC Banants** : (1) Banants
 - **FC Shirak**
 - **FC Ararat**
+- **Alashkert FC**
 
 
 
 
 By City
 
-- ? (7): 
+- ? (8): 
   - FC Pyunik 
   - Ulisses FC 
   - FC Mika 
@@ -21,6 +22,7 @@ By City
   - FC Banants  (1) Banants
   - FC Shirak 
   - FC Ararat 
+  - Alashkert FC 
 
 
 
@@ -33,7 +35,7 @@ By Region
 
 By Year
 
-- ? (7):   FC Pyunik • Ulisses FC • FC Mika • FC Gandzasar • FC Banants • FC Shirak • FC Ararat
+- ? (8):   FC Pyunik • Ulisses FC • FC Mika • FC Gandzasar • FC Banants • FC Shirak • FC Ararat • Alashkert FC
 
 
 
@@ -42,6 +44,7 @@ By Year
 
 By A to Z
 
+- **A** (1): Alashkert FC
 - **B** (1): Banants
 - **F** (6): FC Mika • FC Ararat • FC Pyunik • FC Shirak • FC Banants • FC Gandzasar
 - **U** (1): Ulisses FC

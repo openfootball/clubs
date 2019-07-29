@@ -2,17 +2,17 @@
 
 - **Lokomotiv Moskva** : (4) Lokomotiv • FC Lokomotiv • Lokomotiv Moscow • FC Lokomotiv Moskva
 - **PFC CSKA Moskva** : (5) CSKA • PFK CSCA • CSKA Moscow • CSKA Moskva • PFK CSKA Moscow
-- **Dynamo Moskva** : (5) Dynamo • Dinamo • Dynamo Moscow • Dinamo Moscow • FC Dinamo Moskva
+- **Dynamo Moskva** : (6) Dynamo • Dinamo • Dynamo Moscow • Dinamo Moskva • Dinamo Moscow • FC Dinamo Moskva
 - **FC Spartak Moskva** : (5) Spartak • FC Spartak • Spartak Moskva • Spartak Moscow • Spartak Moskau
 - **FC Moskva** : (1) Moskva
 - **Torpedo Moskva** : (3) Torpedo • T. Moscow • Torpedo Moscow
-- **Zenit St. Petersburg** : (6) Zenit • Zenit Petersb. • Zenit Petersburg • Zenit Saint Petersburg • FC Zenit St Petersburg • FC Zenit Saint Petersburg
-- **FC Rubin Kazan** : (2) Rubin • Rubin Kazan
+- **Zenit St. Petersburg** : (7) Zenit • FC Zenit • Zenit Petersb. • Zenit Petersburg • FC Zenit St Petersburg • Zenit Saint Petersburg • FC Zenit Saint Petersburg
+- **FC Rubin Kazan** : (3) Rubin • FC Rubin • Rubin Kazan
 - **FC Amkar Perm** : (2) Amkar • Amkar Perm
 - **FC Anzhi Makhachkala** : (4) Anji • Anzhi • Anzhi Makhachkala • FK Anzi Makhackala
 - **FC Sibir Novosibirsk** : (3) Sibir • Sibir' • FC Sibir
 - **FC Alania Vladikavkaz** : (2) Alania • Alania Vladikavkaz
-- **PFC Krylya Sovetov Samara** : (4) Krylia Sovetov • Kryl'ia Sovetov • Krylia Sovetov Samara • FK Krylya Sovetov Samara
+- **PFC Krylya Sovetov Samara** : (5) Krylya Sovetov • Krylia Sovetov • Kryl'ia Sovetov • Krylia Sovetov Samara • FK Krylya Sovetov Samara
 - **Arsenal Tula** : (2) Arsenal • FC Arsenal Tula,
 - **Chernomorets Novorosisk** : (1) Chernomorets
 - **FC Khimki** : (1) Khimki
@@ -50,7 +50,7 @@ By City
 - **Moskva** (4): 
   - Lokomotiv Moskva  (4) Lokomotiv • FC Lokomotiv • FC Lokomotiv Moskva • Lokomotiv Moscow
   - PFC CSKA Moskva  (5) CSKA • PFK CSCA • CSKA Moskva • CSKA Moscow • PFK CSKA Moscow
-  - Dynamo Moskva  (5) Dynamo • Dinamo • Dinamo Moscow • Dynamo Moscow • FC Dinamo Moskva
+  - Dynamo Moskva  (6) Dynamo • Dynamo Moscow • Dinamo • Dinamo Moscow • Dinamo Moskva • FC Dinamo Moskva
   - FC Spartak Moskva  (5) Spartak • Spartak Moskva • Spartak Moskau • Spartak Moscow • FC Spartak
 - **Grozny** (2): 
   - Terek Grozny  (1) Terek
@@ -63,7 +63,7 @@ By City
   - Volga Nizhnii Novgorod  (2) Volga • Volga N. Novgorod
 - **Astrakhan** (1): Volgar-Astrakhan 
 - **Elista** (1): Uralan 
-- **Kazan** (1): FC Rubin Kazan  (2) Rubin • Rubin Kazan
+- **Kazan** (1): FC Rubin Kazan  (3) Rubin • FC Rubin • Rubin Kazan
 - **Khabarovsk** (1): SKA-Energiia  (2) SKA Energia • SKA Khabarovsk
 - **Khimki** (1): FC Khimki  (1) Khimki
 - **Krasnoyarsk** (1): Yenisey 
@@ -75,10 +75,10 @@ By City
 - **Perm** (1): FC Amkar Perm  (2) Amkar • Amkar Perm
 - **Ramenskoe** (1): Saturn 
 - **Rostov-on-Don** (1): FC Rostov  (3) Rostov • Rostov Rostov-on-Don • FK Rostov
-- **Samara** (1): PFC Krylya Sovetov Samara  (4) Krylia Sovetov • Kryl'ia Sovetov • Krylia Sovetov Samara • FK Krylya Sovetov Samara
+- **Samara** (1): PFC Krylya Sovetov Samara  (5) Krylya Sovetov • FK Krylya Sovetov Samara • Krylia Sovetov • Kryl'ia Sovetov • Krylia Sovetov Samara
 - **Saransk** (1): FC Mordovia  (3) Mordovia • Mordovia Saransk • M. Saransk
 - **Saratov** (1): Sokol 
-- **St. Petersburg** (1): Zenit St. Petersburg  (6) Zenit • Zenit Petersb. • Zenit Petersburg • FC Zenit St Petersburg • Zenit Saint Petersburg • FC Zenit Saint Petersburg
+- **St. Petersburg** (1): Zenit St. Petersburg  (7) Zenit • Zenit Petersb. • Zenit Petersburg • Zenit Saint Petersburg • FC Zenit • FC Zenit St Petersburg • FC Zenit Saint Petersburg
 - **Tambov** (1): FC Tambov 
 - **Tomsk** (1): Tom Tomsk  (3) Tom • Tom' • Tomsk
 - **Tosno** (1): Tosno 
@@ -156,9 +156,9 @@ By A to Z
 
 - **A** (10): Anji • Amkar • Anzhi • Alania • Arsenal • Amkar Perm • Arsenal Tula • Akhmat Grozny • Anzhi Makhachkala • Alania Vladikavkaz
 - **C** (5): CSKA • CSKA Moscow • CSKA Moskva • Chernomorets • Chernomorets Novorosisk
-- **D** (5): Dinamo • Dynamo • Dinamo Moscow • Dynamo Moscow • Dynamo Moskva
-- **F** (25): FC Ufa • FC Kuban • FC Sibir • FC Khimki • FC Moskva • FC Rostov • FC Tambov • FK Rostov • FC Spartak • FC Mordovia • FC Krasnodar • FC Lokomotiv • FC Amkar Perm • FC Rubin Kazan • FC Arsenal Tula, • FC Dinamo Moskva • FC Spartak Moskva • FK Anzi Makhackala • FC Lokomotiv Moskva • FC Anzhi Makhachkala • FC Sibir Novosibirsk • FC Alania Vladikavkaz • FC Zenit St Petersburg • FK Krylya Sovetov Samara • FC Zenit Saint Petersburg
-- **K** (9): Kuban • Khimki • Kuban' • Krasnodar • Krylia Sovetov • Kryl'ia Sovetov • Kuban Krasnodar • Krasnodar Krasnodar • Krylia Sovetov Samara
+- **D** (6): Dinamo • Dynamo • Dinamo Moscow • Dinamo Moskva • Dynamo Moscow • Dynamo Moskva
+- **F** (27): FC Ufa • FC Kuban • FC Rubin • FC Sibir • FC Zenit • FC Khimki • FC Moskva • FC Rostov • FC Tambov • FK Rostov • FC Spartak • FC Mordovia • FC Krasnodar • FC Lokomotiv • FC Amkar Perm • FC Rubin Kazan • FC Arsenal Tula, • FC Dinamo Moskva • FC Spartak Moskva • FK Anzi Makhackala • FC Lokomotiv Moskva • FC Anzhi Makhachkala • FC Sibir Novosibirsk • FC Alania Vladikavkaz • FC Zenit St Petersburg • FK Krylya Sovetov Samara • FC Zenit Saint Petersburg
+- **K** (10): Kuban • Khimki • Kuban' • Krasnodar • Krylia Sovetov • Krylya Sovetov • Kryl'ia Sovetov • Kuban Krasnodar • Krasnodar Krasnodar • Krylia Sovetov Samara
 - **L** (5): Luch • Lokomotiv • Lokomotiv Moscow • Lokomotiv Moskva • Luch Energia Vladivostok
 - **M** (4): Moskva • Mordovia • M. Saransk • Mordovia Saransk
 - **N** (3): Nalchik • Nizhny Novgorod • Nizhnii Novgorod

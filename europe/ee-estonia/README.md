@@ -1,24 +1,28 @@
-6 clubs
+8 clubs
 
-- **FC Levadia Tallinn** : (1) Levadia Tallinn
-- **FC Flora Tallinn**
+- **FC Levadia Tallinn** : (2) Levadia • Levadia Tallinn
+- **FC Flora Tallinn** : (1) Flora
 - **FC TVMK Tallinn**
-- **JK Trans Narva**
-- **JK Nõmme Kalju**
+- **FCI Tallinn**
+- **JK Trans Narva** : (1) JK Narva Trans
+- **JK Nõmme Kalju** : (2) Kalju • Nõmme Kalju FC
 - **JK Sillamäe Kalev**
+- **FC Santos Tartu**
 
 
 
 
 By City
 
-- ? (6): 
-  - FC Levadia Tallinn  (1) Levadia Tallinn
-  - FC Flora Tallinn 
+- ? (8): 
+  - FC Levadia Tallinn  (2) Levadia • Levadia Tallinn
+  - FC Flora Tallinn  (1) Flora
   - FC TVMK Tallinn 
-  - JK Trans Narva 
-  - JK Nõmme Kalju 
+  - FCI Tallinn 
+  - JK Trans Narva  (1) JK Narva Trans
+  - JK Nõmme Kalju  (2) Kalju • Nõmme Kalju FC
   - JK Sillamäe Kalev 
+  - FC Santos Tartu 
 
 
 
@@ -31,7 +35,7 @@ By Region
 
 By Year
 
-- ? (6):   FC Levadia Tallinn • FC Flora Tallinn • FC TVMK Tallinn • JK Trans Narva • JK Nõmme Kalju • JK Sillamäe Kalev
+- ? (8):   FC Levadia Tallinn • FC Flora Tallinn • FC TVMK Tallinn • FCI Tallinn • JK Trans Narva • JK Nõmme Kalju • JK Sillamäe Kalev • FC Santos Tartu
 
 
 
@@ -40,9 +44,11 @@ By Year
 
 By A to Z
 
-- **F** (3): FC TVMK Tallinn • FC Flora Tallinn • FC Levadia Tallinn
-- **J** (3): JK Nõmme Kalju • JK Trans Narva • JK Sillamäe Kalev
-- **L** (1): Levadia Tallinn
+- **F** (6): Flora • FCI Tallinn • FC Santos Tartu • FC TVMK Tallinn • FC Flora Tallinn • FC Levadia Tallinn
+- **J** (4): JK Narva Trans • JK Nõmme Kalju • JK Trans Narva • JK Sillamäe Kalev
+- **K** (1): Kalju
+- **L** (2): Levadia • Levadia Tallinn
+- **N** (1): Nõmme Kalju FC
 
 
 

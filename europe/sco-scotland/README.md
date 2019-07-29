@@ -20,7 +20,7 @@
 - **Dunfermline Athletic** : (1) Dunfermline
 - **Falkirk**
 - **Greenock Morton** : (1) Morton
-- **Inverness Caledonian Thistle** : (6) ICT • Inverness C • Inverness CT • Caley Thistle • The Caley Jags • Inverness Caledonian Thistle FC
+- **Inverness Caledonian Thistle** : (7) ICT • Inverness • Inverness C • Inverness CT • Caley Thistle • The Caley Jags • Inverness Caledonian Thistle FC
 - **Livingston FC** : (1) Livingston
 - **Queen of the South** : (1) Queen of Sth
 - **Saint Mirren FC** : (2) St Mirren • St. Mirren
@@ -85,7 +85,7 @@ By City
 - **Greenock** (1): Greenock Morton  (1) Morton
 - **Gretna** (1): Gretna FC  (1) Gretna
 - **Hamilton** (1): Hamilton Academical FC  (2) Hamilton • Hamilton Accies
-- **Inverness** (1): Inverness Caledonian Thistle  (6) Inverness C • Inverness CT • Inverness Caledonian Thistle FC • Caley Thistle • ICT • The Caley Jags
+- **Inverness** (1): Inverness Caledonian Thistle  (7) Inverness • Inverness C • Inverness CT • Inverness Caledonian Thistle FC • Caley Thistle • ICT • The Caley Jags
 - **Kilmarnock** (1): Kilmarnock FC  (2) Kilmarnock • Killie
 - **Kirkcaldy** (1): Raith Rovers  (2) Raith Rvs • Raith
 - **Livingston** (1): Livingston FC  (1) Livingston
@@ -176,7 +176,7 @@ By A to Z
 - **F** (3): Forfar • Falkirk • Forfar Athletic
 - **G** (3): Gretna • Gretna FC • Greenock Morton
 - **H** (8): Hearts • Hamilton • Hibernian • Hibernians • Hibernian FC • Hamilton Accies • Hamilton Academical FC • Heart of Midlothian FC
-- **I** (5): ICT • Inverness C • Inverness CT • Inverness Caledonian Thistle • Inverness Caledonian Thistle FC
+- **I** (6): ICT • Inverness • Inverness C • Inverness CT • Inverness Caledonian Thistle • Inverness Caledonian Thistle FC
 - **J** (1): Jags
 - **K** (3): Killie • Kilmarnock • Kilmarnock FC
 - **L** (2): Livingston • Livingston FC

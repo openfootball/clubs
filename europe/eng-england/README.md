@@ -30,7 +30,7 @@
 - **Darwen FC (1870-2009)** : (2) Darwen • Darwen FC
 - **Bootle FC (1879-1893)** : (2) Bootle • Bootle FC
 - **Nelson FC** : (1) Nelson
-- **Manchester United FC** : (5) Man Utd • Man United • Manchester U • Manchester U. • Manchester United
+- **Manchester United FC** : (6) Man Utd • Man United • Man. United • Manchester U • Manchester U. • Manchester United
 - **Manchester City FC** : (4) Man City • Man. City • Manchester C • Manchester City
 - **Bolton Wanderers FC** : (2) Bolton • Bolton Wanderers
 - **Wigan Athletic FC** : (2) Wigan • Wigan Athletic
@@ -231,7 +231,7 @@ By City
   - Everton FC  (2) Everton • FC Everton
   - Liverpool FC  (2) Liverpool • FC Liverpool
 - **Manchester** (2): 
-  - Manchester United FC  (5) Man United • Manchester United • Man Utd • Manchester U. • Manchester U
+  - Manchester United FC  (6) Man United • Manchester United • Man Utd • Manchester U. • Manchester U • Man. United
   - Manchester City FC  (4) Man City • Manchester City • Man. City • Manchester C
 - **Middlesbrough, North Yorkshire** (2): 
   - Middlesbrough FC  (2) Middlesbrough • Middlesboro
@@ -498,7 +498,7 @@ By A to Z
 - **I** (3): Ipswich • Ipswich Town • Ipswich Town FC
 - **K** (5): Kidderminster • Kettering Town • Kettering Town FC • Kidderminster Harriers • Kidderminster Harriers FC
 - **L** (24): Leeds • Lewes • Luton • Lincoln • Lewes FC • Leicester • Liverpool • Leeds City • Luton Town • Leeds United • Lincoln City • Liverpool FC • Loughborough • Leeds City FC • Leyton Orient • Luton Town FC • Leicester City • Leeds United FC • Lincoln City FC • Loughborough FC • Leyton Orient FC • Leicester City FC • Leeds City FC (1904-1919) • Loughborough FC (1886-1900)
-- **M** (33): Man Utd • Man City • Millwall • Maidstone • Man. City • Mansfield • Morecambe • Maidenhead • Man United • Middlesboro • Millwall FC • Macclesfield • Manchester C • Manchester U • Morecambe FC • Manchester U. • Middlesbrough • Mansfield Town • Manchester City • Maidstone United • Middlesbrough FC • Manchester United • Mansfield Town FC • Manchester City FC • Milton Keynes Dons • Maidstone United FC • Macclesfield Town FC • Maidenhead United FC • Manchester United FC • Milton Keynes Dons FC • Middlesbrough Ironopolis • Middlesbrough Ironopolis FC • Middlesbrough Ironopolis FC (1889-1894)
+- **M** (34): Man Utd • Man City • Millwall • Maidstone • Man. City • Mansfield • Morecambe • Maidenhead • Man United • Man. United • Middlesboro • Millwall FC • Macclesfield • Manchester C • Manchester U • Morecambe FC • Manchester U. • Middlesbrough • Mansfield Town • Manchester City • Maidstone United • Middlesbrough FC • Manchester United • Mansfield Town FC • Manchester City FC • Milton Keynes Dons • Maidstone United FC • Macclesfield Town FC • Maidenhead United FC • Manchester United FC • Milton Keynes Dons FC • Middlesbrough Ironopolis • Middlesbrough Ironopolis FC • Middlesbrough Ironopolis FC (1889-1894)
 - **N** (28): Nelson • Norwich • Nelson FC • Newcastle • Northwich • Northampton • New Brighton • Norwich City • Notts County • North Ferriby • Nott'm Forest • Nuneaton Town • Norwich City FC • Notts County FC • Newcastle United • Northampton Town • Norwich City F.C. • Nottingham Forest • New Brighton Tower • Northwich Victoria • Newcastle United FC • Northampton Town FC • Nuneaton Borough FC • Nottingham Forest FC • New Brighton Tower FC • Northwich Victoria FC • North Ferriby United AFC • New Brighton Tower FC (1898-1901)
 - **O** (6): Oldham • Oxford • Oxford United • Oldham Athletic • Oxford United FC • Oldham Athletic AFC
 - **P** (14): Palace • Preston • Plymouth • Peterboro • Port Vale • Portsmouth • Port Vale FC • Portsmouth FC • Plymouth Argyle • Preston North End • Plymouth Argyle FC • Peterborough United • Preston North End FC • Peterborough United FC

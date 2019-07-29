@@ -1,7 +1,7 @@
 22 clubs
 
 - **Grasshoppers Zürich** : (3) Grasshoppers • Grasshoppers Zurich • Grasshopper Club Zürich
-- **FC Zürich** : (2) Zurich • FC Zurich
+- **FC Zürich** : (3) Zürich • Zurich • FC Zurich
 - **FC Winterthur** : (1) Winterthur
 - **FC Basel** : (2) Basel • FC Basel 1893
 - **BSC Young Boys** : (4) BSC YB • Young Boys • Young Boys Bern • Berner Sport Club Young Boys
@@ -30,7 +30,7 @@ By City
 
 - **Zürich, Zürich** (2): 
   - Grasshoppers Zürich  (3) Grasshoppers • Grasshoppers Zurich • Grasshopper Club Zürich
-  - FC Zürich  (2) Zurich • FC Zurich
+  - FC Zürich  (3) Zürich • Zurich • FC Zurich
 - **Aarau, Aargau** (1): FC Aarau  (1) Aarau
 - **Basel, Basel-Stadt** (1): FC Basel  (2) Basel • FC Basel 1893
 - **Bellinzona, Ticino** (1): AC Bellinzona  (1) Bellinzona
@@ -111,7 +111,7 @@ By A to Z
 - **W** (3): Wil • Wohlen • Winterthur
 - **X** (2): Xamax • Xamax Neuchâtel
 - **Y** (2): Young Boys • Young Boys Bern
-- **Z** (1): Zurich
+- **Z** (2): Zurich • Zürich
 
 
 

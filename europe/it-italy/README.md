@@ -82,7 +82,7 @@
 - **ASD Savoia** : (2) Savoia • ASD Savoia 1908
 - **Trapani Calcio** : (1) Trapani
 - **Varese Calcio** : (1) Varese
-- **Virtus Lanciano** : (2) Virtus Lanciano • ASD 1920 Lanciano Calcio
+- **Virtus Lanciano** : (1) ASD 1920 Lanciano Calcio
 
 
 
@@ -139,7 +139,7 @@ By City
 - **Grosseto** (1): ASD US Grosseto  (2) Grosseto • ASD US Grosseto 1912
 - **Gubbio** (1): AS Gubbio  (2) Gubbio • AS Gubbio 1910
 - **La Spezia** (1): Spezia 
-- **Lanciano** (1): Virtus Lanciano  (2) Virtus Lanciano • ASD 1920 Lanciano Calcio
+- **Lanciano** (1): Virtus Lanciano  (1) ASD 1920 Lanciano Calcio
 - **Latina** (1): SSD Latina Calcio  (2) Latina • SSD Latina Calcio 1932
 - **Lecce** (1): US Lecce  (1) Lecce
 - **Livorno** (1): AS Livorno Calcio  (4) Livorno • AS Livorno • A.S. Livorno Calcio • Associazione Sportiva Livorno Calcio
@@ -297,7 +297,7 @@ By A to Z
 - **S** (24): SPAL • Spal • Siena • Savoia • Spezia • SS Lazio • SS Monza • Sassuolo • SS Arezzo • Sampdoria • SSC Napoli • Salernitana • S.P.A.L. 2013 • SS Monza 1912 • SS Juve Stabia • SS Robur Siena • Sampdoria Genoa • SPAL 2013 Ferrara • SS Fidelis Andria • SSD Latina Calcio • SS Fidelis Andria 1928 • SSD Latina Calcio 1932 • Società Sportiva Lazio • Società Sportiva Calcio Napoli
 - **T** (8): Torino • Ternana • Trapani • Treviso • Torino FC • Triestina • Trapani Calcio • Torino Football Club
 - **U** (20): Udinese • US Lecce • US Palermo • UC Sampdoria • US Catanzaro • US Pistoiese • Urbs Reggina • Udinese Calcio • US Anconitana ASD • US Catanzaro 1929 • US Pistoiese 1921 • Urbs Reggina 1914 • US Sassuolo Calcio • US Triestina Calcio • U.S. Sassuolo Calcio • Unione Calcio Sampdoria • US Triestina Calcio 1918 • Unione Calcio Albinoleffe • Unione Sportiva Sassuolo Calcio • Unione Sportiva Città di Palermo
-- **V** (8): Varese • Verona • Venezia • Vicenza • Varese Calcio • Virtus Bergamo • Virtus Entella • !! **Virtus Lanciano (2)** !!
+- **V** (8): Varese • Verona • Venezia • Vicenza • Varese Calcio • Virtus Bergamo • Virtus Entella • Virtus Lanciano
 
 
 

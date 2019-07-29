@@ -1,13 +1,17 @@
-8 clubs
+12 clubs
 
 - **ŠK Slovan Bratislava** : (2) Slovan Bratislava • SK Slovan Bratislava
-- **MŠK Žilina**
-- **FC Spartak Trnava**
-- **FK Senica**
-- **MFK Košice**
-- **Dukla Banská Bystrica**
-- **FC Nitra**
+- **MŠK Žilina** : (1) Žilina
+- **FC Spartak Trnava** : (1) Spartak Trnava
+- **FK Senica** : (1) Senica
+- **MFK Košice** : (1) Košice
+- **Dukla Banská Bystrica** : (1) Banská Bystrica
+- **FC Nitra** : (1) Nitra
 - **MFK Petržalka**
+- **AS Trenčín** : (1) Trenčín
+- **FC DAC 1904 Dunajská Streda** : (1) Dunajská Streda
+- **MFK Ružomberok** : (1) Ružomberok
+- **TJ Spartak Myjava** : (1) Spartak Myjava
 
 
 
@@ -15,14 +19,18 @@
 By City
 
 - **Bratislava** (1): ŠK Slovan Bratislava  (2) Slovan Bratislava • SK Slovan Bratislava
-- ? (7): 
-  - MŠK Žilina 
-  - FC Spartak Trnava 
-  - FK Senica 
-  - MFK Košice 
-  - Dukla Banská Bystrica 
-  - FC Nitra 
+- ? (11): 
+  - MŠK Žilina  (1) Žilina
+  - FC Spartak Trnava  (1) Spartak Trnava
+  - FK Senica  (1) Senica
+  - MFK Košice  (1) Košice
+  - Dukla Banská Bystrica  (1) Banská Bystrica
+  - FC Nitra  (1) Nitra
   - MFK Petržalka 
+  - AS Trenčín  (1) Trenčín
+  - FC DAC 1904 Dunajská Streda  (1) Dunajská Streda
+  - MFK Ružomberok  (1) Ružomberok
+  - TJ Spartak Myjava  (1) Spartak Myjava
 
 
 
@@ -36,7 +44,7 @@ By Region
 
 By Year
 
-- ? (8):   ŠK Slovan Bratislava • MŠK Žilina • FC Spartak Trnava • FK Senica • MFK Košice • Dukla Banská Bystrica • FC Nitra • MFK Petržalka
+- ? (12):   ŠK Slovan Bratislava • MŠK Žilina • FC Spartak Trnava • FK Senica • MFK Košice • Dukla Banská Bystrica • FC Nitra • MFK Petržalka • AS Trenčín • FC DAC 1904 Dunajská Streda • MFK Ružomberok • TJ Spartak Myjava
 
 
 
@@ -45,11 +53,18 @@ By Year
 
 By A to Z
 
-- **D** (1): Dukla Banská Bystrica
-- **F** (3): FC Nitra • FK Senica • FC Spartak Trnava
-- **M** (3): MFK Košice • MŠK Žilina • MFK Petržalka
-- **S** (2): Slovan Bratislava • SK Slovan Bratislava
+- **A** (1): AS Trenčín
+- **B** (1): Banská Bystrica
+- **D** (2): Dunajská Streda • Dukla Banská Bystrica
+- **F** (4): FC Nitra • FK Senica • FC Spartak Trnava • FC DAC 1904 Dunajská Streda
+- **K** (1): Košice
+- **M** (4): MFK Košice • MŠK Žilina • MFK Petržalka • MFK Ružomberok
+- **N** (1): Nitra
+- **R** (1): Ružomberok
+- **S** (5): Senica • Spartak Myjava • Spartak Trnava • Slovan Bratislava • SK Slovan Bratislava
+- **T** (2): Trenčín • TJ Spartak Myjava
 - **Š** (1): ŠK Slovan Bratislava
+- **Ž** (1): Žilina
 
 
 
