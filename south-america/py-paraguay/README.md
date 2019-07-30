@@ -8,6 +8,15 @@
 
 
 
+Alphabet
+
+- **Alphabet Specials** (2):  ñ (241) ó (243)
+  - **ñ** (241 / 00f1): 2
+  - **ó** (243 / 00f3): 3
+
+
+
+
 By City
 
 - **Asunción** (4): 

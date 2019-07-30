@@ -23,6 +23,15 @@
 
 
 
+Alphabet
+
+- **Alphabet Specials** (2):  æ (230) ø (248)
+  - **æ** (230 / 00e6): 7
+  - **ø** (248 / 00f8): 10
+
+
+
+
 By City
 
 - **Aalborg, Nordjylland** (1): Aalborg BK  (3) AaB • Aalborg • Aalborg Boldspilklub

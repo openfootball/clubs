@@ -16,6 +16,20 @@
 
 
 
+Alphabet
+
+- **Alphabet Specials** (7):  á (225) í (237) č (269) Š (352) š (353) Ž (381) ž (382)
+  - **á** (225 / 00e1): 4
+  - **í** (237 / 00ed): 2
+  - **č** (269 / 010d): 2
+  - **Š** (352 / 0160): 2
+  - **š** (353 / 0161): 2
+  - **Ž** (381 / 017d): 2
+  - **ž** (382 / 017e): 3
+
+
+
+
 By City
 
 - **Bratislava** (1): ŠK Slovan Bratislava  (2) Slovan Bratislava • SK Slovan Bratislava

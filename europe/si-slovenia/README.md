@@ -13,6 +13,14 @@
 
 
 
+Alphabet
+
+- **Alphabet Specials** (1):  ž (382)
+  - **ž** (382 / 017e): 2
+
+
+
+
 By City
 
 - **Maribor** (1): NK Maribor  (1) Maribor

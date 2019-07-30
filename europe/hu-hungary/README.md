@@ -18,6 +18,18 @@
 
 
 
+Alphabet
+
+- **Alphabet Specials** (5):  Ú (218) á (225) é (233) ó (243) ő (337)
+  - **Ú** (218 / 00da): 2
+  - **á** (225 / 00e1): 6
+  - **é** (233 / 00e9): 6
+  - **ó** (243 / 00f3): 2
+  - **ő** (337 / 0151): 4
+
+
+
+
 By City
 
 - **Budapest** (1): Ferencvárosi TC  (2) Ferencváros • Ferencvaros

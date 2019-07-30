@@ -9,6 +9,15 @@
 
 
 
+Alphabet
+
+- **Alphabet Specials** (2):  Á (193) ú (250)
+  - **Á** (193 / 00c1): 3
+  - **ú** (250 / 00fa): 1
+
+
+
+
 By City
 
 - **city:panama** (2): 

@@ -7,6 +7,14 @@
 
 
 
+Alphabet
+
+- **Alphabet Specials** (1):  é (233)
+  - **é** (233 / 00e9): 2
+
+
+
+
 By City
 
 - **city:alajuela** (1): LD Alajuelense  (1) Alajuelense

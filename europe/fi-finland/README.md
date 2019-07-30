@@ -26,6 +26,15 @@
 
 
 
+Alphabet
+
+- **Alphabet Specials** (2):  ä (228) ö (246)
+  - **ä** (228 / 00e4): 5
+  - **ö** (246 / 00f6): 2
+
+
+
+
 By City
 
 - **Helsinki** (2): 

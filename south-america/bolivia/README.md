@@ -9,6 +9,15 @@
 
 
 
+Alphabet
+
+- **Alphabet Specials** (2):  é (233) í (237)
+  - **é** (233 / 00e9): 2
+  - **í** (237 / 00ed): 4
+
+
+
+
 By City
 
 - **La Paz** (2): 

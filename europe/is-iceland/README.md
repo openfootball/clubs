@@ -16,6 +16,19 @@
 
 
 
+Alphabet
+
+- **Alphabet Specials** (6):  Í (205) é (233) í (237) ó (243) ö (246) þ (254)
+  - **Í** (205 / 00cd): 4
+  - **é** (233 / 00e9): 1
+  - **í** (237 / 00ed): 7
+  - **ó** (243 / 00f3): 2
+  - **ö** (246 / 00f6): 1
+  - **þ** (254 / 00fe): 1
+
+
+
+
 By City
 
 - **Akranes** (1): ÍA Akranes  (2) IA Akranes • Íþróttabandalag Akraness

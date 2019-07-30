@@ -27,6 +27,15 @@
 
 
 
+Alphabet
+
+- **Alphabet Specials** (2):  é (233) ó (243)
+  - **é** (233 / 00e9): 3
+  - **ó** (243 / 00f3): 1
+
+
+
+
 By City
 
 - **Ciudad de México** (3): 
