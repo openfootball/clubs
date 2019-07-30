@@ -74,157 +74,157 @@ By Country
 - **eg (Egypt)**:  (0): 
 - **ma (Morocco)**:  (0): 
 - **cn (China)**:  (0): 
-- **jp (Japan)**:  (1):  1× **ú** 
+- **jp (Japan)**:  (1):  1×**ú** 
 - **kz (Kazakhstan)**:  (0): 
 - **kr (South Korea)**:  (0): 
-- **ht (Haiti)**:  (1):  3× **ê** 
+- **ht (Haiti)**:  (1):  3×**ê** 
 - **pr (Puerto Rico)**:  (0): 
 - **tt (Trinidad and Tobago)**:  (0): 
-- **cr (Costa Rica)**:  (1):  2× **é** 
-- **gt (Guatemala)**:  (1):  2× **ú** 
-- **hn (Honduras)**:  (2):  2× **ñ**  2× **ó** 
-- **ni (Nicaragua)**:  (1):  3× **í** 
-- **pa (Panama)**:  (2):  3× **Á**  1× **ú** 
-- **sv (El Salvador)**:  (4):  4× **Á**  4× **á**  1× **ó**  1× **ú** 
-- **al (Albania)**:  (2):  2× **ç**  8× **ë** 
-- **ad (Andorra)**:  (1):  2× **à** 
+- **cr (Costa Rica)**:  (1):  2×**é** 
+- **gt (Guatemala)**:  (1):  2×**ú** 
+- **hn (Honduras)**:  (2):  2×**ñ**  2×**ó** 
+- **ni (Nicaragua)**:  (1):  3×**í** 
+- **pa (Panama)**:  (2):  3×**Á**  1×**ú** 
+- **sv (El Salvador)**:  (4):  4×**Á**  4×**á**  1×**ó**  1×**ú** 
+- **al (Albania)**:  (2):  2×**ç**  8×**ë** 
+- **ad (Andorra)**:  (1):  2×**à** 
 - **am (Armenia)**:  (0): 
-- **at (Austria)**:  (1):  5× **ö** 
-- **az (Azerbaijan)**:  (8):  8× **ä**  1× **ç**  1× **ü**  2× **ğ**  2× **İ**  2× **ı**  1× **Ş**  1× **ş** 
-- **ba (Bosnia and Herzegovina)**:  (3):  3× **č**  3× **Š**  2× **Ž** 
-- **be (Belgium)**:  (2):  4× **è**  4× **é** 
+- **at (Austria)**:  (1):  5×**ö** 
+- **az (Azerbaijan)**:  (8):  8×**ä**  1×**ç**  1×**ü**  2×**ğ**  2×**İ**  2×**ı**  1×**Ş**  1×**ş** 
+- **ba (Bosnia and Herzegovina)**:  (3):  3×**č**  3×**Š**  2×**Ž** 
+- **be (Belgium)**:  (2):  4×**è**  4×**é** 
 - **bg (Bulgaria)**:  (0): 
 - **by (Belarus)**:  (0): 
-- **ch (Switzerland)**:  (3):  2× **â**  2× **è**  4× **ü** 
+- **ch (Switzerland)**:  (3):  2×**â**  2×**è**  4×**ü** 
 - **cy (Cyprus)**:  (0): 
-- **cz (Czech Republic)**:  (6):  5× **á**  7× **í**  1× **ý**  1× **č**  4× **ň**  2× **ř** 
-- **de (Germany)**:  (3):  12× **ß**  11× **ö**  26× **ü** 
-- **dk (Denmark)**:  (2):  7× **æ**  10× **ø** 
-- **ee (Estonia)**:  (2):  1× **ä**  2× **õ** 
+- **cz (Czech Republic)**:  (6):  5×**á**  7×**í**  1×**ý**  1×**č**  4×**ň**  2×**ř** 
+- **de (Germany)**:  (3):  12×**ß**  11×**ö**  26×**ü** 
+- **dk (Denmark)**:  (2):  7×**æ**  10×**ø** 
+- **ee (Estonia)**:  (2):  1×**ä**  2×**õ** 
 - **eng (England)**:  (0): 
-- **es (Spain)**:  (8):  1× **É**  1× **à**  8× **á**  24× **é**  4× **í**  9× **ñ**  15× **ó**  14× **ú** 
-- **fi (Finland)**:  (2):  5× **ä**  2× **ö** 
-- **fo (Faroe Islands)**:  (4):  3× **Í**  3× **í**  5× **ó**  1× **ø** 
-- **fr (France)**:  (7):  7× **É**  2× **â**  2× **ç**  1× **è**  11× **é**  1× **î**  2× **ô** 
+- **es (Spain)**:  (8):  1×**É**  1×**à**  8×**á**  24×**é**  4×**í**  9×**ñ**  15×**ó**  14×**ú** 
+- **fi (Finland)**:  (2):  5×**ä**  2×**ö** 
+- **fo (Faroe Islands)**:  (4):  3×**Í**  3×**í**  5×**ó**  1×**ø** 
+- **fr (France)**:  (7):  7×**É**  2×**â**  2×**ç**  1×**è**  11×**é**  1×**î**  2×**ô** 
 - **ge (Georgia)**:  (0): 
 - **gi (Gibraltar)**:  (0): 
-- **gr (Greece)**:  (1):  1× **ä** 
-- **hr (Croatia)**:  (2):  2× **Š**  2× **ž** 
-- **hu (Hungary)**:  (5):  2× **Ú**  6× **á**  6× **é**  2× **ó**  4× **ő** 
+- **gr (Greece)**:  (1):  1×**ä** 
+- **hr (Croatia)**:  (2):  2×**Š**  2×**ž** 
+- **hu (Hungary)**:  (5):  2×**Ú**  6×**á**  6×**é**  2×**ó**  4×**ő** 
 - **ie (Ireland)**:  (0): 
-- **is (Iceland)**:  (6):  4× **Í**  1× **é**  7× **í**  2× **ó**  1× **ö**  1× **þ** 
-- **it (Italy)**:  (1):  3× **à** 
-- **xk (Kosovo)**:  (1):  1× **ç** 
+- **is (Iceland)**:  (6):  4×**Í**  1×**é**  7×**í**  2×**ó**  1×**ö**  1×**þ** 
+- **it (Italy)**:  (1):  3×**à** 
+- **xk (Kosovo)**:  (1):  1×**ç** 
 - **li (Liechtenstein)**:  (0): 
-- **lt (Lithuania)**:  (4):  1× **ė**  1× **Š**  2× **ū**  4× **Ž** 
-- **lu (Luxembourg)**:  (4):  1× **ä**  1× **è**  1× **é**  1× **ë** 
-- **lv (Latvia)**:  (3):  2× **ā**  1× **ī**  2× **ū** 
+- **lt (Lithuania)**:  (4):  1×**ė**  1×**Š**  2×**ū**  4×**Ž** 
+- **lu (Luxembourg)**:  (4):  1×**ä**  1×**è**  1×**é**  1×**ë** 
+- **lv (Latvia)**:  (3):  2×**ā**  1×**ī**  2×**ū** 
 - **mc (Monaco)**:  (0): 
 - **md (Moldova)**:  (0): 
-- **me (Montenegro)**:  (3):  5× **ć**  1× **Č**  2× **š** 
-- **mk (Macedonia)**:  (2):  3× **ë**  3× **č** 
-- **mt (Malta)**:  (1):  1× **ż** 
+- **me (Montenegro)**:  (3):  5×**ć**  1×**Č**  2×**š** 
+- **mk (Macedonia)**:  (2):  3×**ë**  3×**č** 
+- **mt (Malta)**:  (1):  1×**ż** 
 - **nir (Northern Ireland)**:  (0): 
 - **nl (Netherlands)**:  (0): 
-- **no (Norway)**:  (3):  2× **å**  2× **æ**  19× **ø** 
-- **pl (Poland)**:  (8):  7× **ó**  3× **ą**  3× **ę**  2× **Ł**  9× **ł**  3× **ń**  2× **Ś**  2× **ź** 
-- **pt (Portugal)**:  (7):  6× **ã**  5× **ç**  4× **é**  2× **í**  4× **ó**  1× **õ**  1× **ú** 
-- **ro (Romania)**:  (6):  8× **â**  9× **ă**  10× **ş**  1× **ţ**  28× **ș**  10× **ț** 
-- **rs (Serbia)**:  (4):  3× **Č**  5× **č**  2× **š**  2× **ž** 
+- **no (Norway)**:  (3):  2×**å**  2×**æ**  19×**ø** 
+- **pl (Poland)**:  (8):  7×**ó**  3×**ą**  3×**ę**  2×**Ł**  9×**ł**  3×**ń**  2×**Ś**  2×**ź** 
+- **pt (Portugal)**:  (7):  6×**ã**  5×**ç**  4×**é**  2×**í**  4×**ó**  1×**õ**  1×**ú** 
+- **ro (Romania)**:  (6):  8×**â**  9×**ă**  10×**ş**  1×**ţ**  28×**ș**  10×**ț** 
+- **rs (Serbia)**:  (4):  3×**Č**  5×**č**  2×**š**  2×**ž** 
 - **ru (Russia)**:  (0): 
 - **sco (Scotland)**:  (0): 
-- **se (Sweden)**:  (5):  5× **Å**  6× **Ö**  6× **ä**  2× **å**  16× **ö** 
-- **si (Slovenia)**:  (1):  2× **ž** 
-- **sk (Slovakia)**:  (7):  4× **á**  2× **í**  2× **č**  2× **Š**  2× **š**  2× **Ž**  3× **ž** 
+- **se (Sweden)**:  (5):  5×**Å**  6×**Ö**  6×**ä**  2×**å**  16×**ö** 
+- **si (Slovenia)**:  (1):  2×**ž** 
+- **sk (Slovakia)**:  (7):  4×**á**  2×**í**  2×**č**  2×**Š**  2×**š**  2×**Ž**  3×**ž** 
 - **sm (San Marino)**:  (0): 
-- **tr (Turkey)**:  (9):  1× **Ç**  6× **ç**  1× **ö**  4× **ü**  2× **ğ**  6× **İ**  5× **ı**  3× **Ş**  10× **ş** 
+- **tr (Turkey)**:  (9):  1×**Ç**  6×**ç**  1×**ö**  4×**ü**  2×**ğ**  6×**İ**  5×**ı**  3×**Ş**  10×**ş** 
 - **ua (Ukraine)**:  (0): 
 - **wal (Wales)**:  (0): 
 - **il (Israel)**:  (0): 
-- **ca (Canada)**:  (1):  2× **é** 
-- **mx (Mexico)**:  (2):  3× **é**  1× **ó** 
+- **ca (Canada)**:  (1):  2×**é** 
+- **mx (Mexico)**:  (2):  3×**é**  1×**ó** 
 - **us (United States)**:  (0): 
 - **au (Australia)**:  (0): 
 - **nz (New Zealand)**:  (0): 
-- **ar (Argentina)**:  (5):  5× **á**  38× **é**  11× **í**  12× **ó**  4× **ú** 
-- **bo (Bolivia)**:  (2):  2× **é**  4× **í** 
-- **br (Brazil)**:  (8):  11× **á**  10× **ã**  3× **ç**  18× **é**  10× **ê**  2× **í**  3× **ó**  3× **ú** 
-- **cl (Chile)**:  (2):  2× **ñ**  5× **ó** 
-- **co (Colombia)**:  (4):  1× **á**  2× **é**  3× **ó**  1× **ú** 
+- **ar (Argentina)**:  (5):  5×**á**  38×**é**  11×**í**  12×**ó**  4×**ú** 
+- **bo (Bolivia)**:  (2):  2×**é**  4×**í** 
+- **br (Brazil)**:  (8):  11×**á**  10×**ã**  3×**ç**  18×**é**  10×**ê**  2×**í**  3×**ó**  3×**ú** 
+- **cl (Chile)**:  (2):  2×**ñ**  5×**ó** 
+- **co (Colombia)**:  (4):  1×**á**  2×**é**  3×**ó**  1×**ú** 
 - **ec (Ecuador)**:  (0): 
 - **gy (Guyana)**:  (0): 
-- **pe (Peru)**:  (2):  3× **é**  1× **ó** 
-- **py (Paraguay)**:  (2):  2× **ñ**  3× **ó** 
-- **uy (Uruguay)**:  (4):  11× **é**  3× **ñ**  1× **ó**  4× **ú** 
-- **ve (Venezuela)**:  (4):  6× **á**  3× **é**  1× **í**  3× **ú** 
+- **pe (Peru)**:  (2):  3×**é**  1×**ó** 
+- **py (Paraguay)**:  (2):  2×**ñ**  3×**ó** 
+- **uy (Uruguay)**:  (4):  11×**é**  3×**ñ**  1×**ó**  4×**ú** 
+- **ve (Venezuela)**:  (4):  6×**á**  3×**é**  1×**í**  3×**ú** 
 
 
 Usage
 
 
-- **Á** (193 / 00c1):  7× (2)  3× **pa (Panama)** 4× **sv (El Salvador)**
-- **Å** (197 / 00c5):  5× (1)  5× **se (Sweden)**
-- **Ç** (199 / 00c7):  1× (1)  1× **tr (Turkey)**
-- **É** (201 / 00c9):  8× (2)  1× **es (Spain)** 7× **fr (France)**
-- **Í** (205 / 00cd):  7× (2)  3× **fo (Faroe Islands)** 4× **is (Iceland)**
-- **Ö** (214 / 00d6):  6× (1)  6× **se (Sweden)**
-- **Ú** (218 / 00da):  2× (1)  2× **hu (Hungary)**
-- **ß** (223 / 00df):  12× (1)  12× **de (Germany)**
-- **à** (224 / 00e0):  6× (3)  2× **ad (Andorra)** 1× **es (Spain)** 3× **it (Italy)**
-- **á** (225 / 00e1):  50× (9)  4× **sv (El Salvador)** 5× **cz (Czech Republic)** 8× **es (Spain)** 6× **hu (Hungary)** 4× **sk (Slovakia)** 5× **ar (Argentina)** 11× **br (Brazil)** 1× **co (Colombia)** 6× **ve (Venezuela)**
-- **â** (226 / 00e2):  12× (3)  2× **ch (Switzerland)** 2× **fr (France)** 8× **ro (Romania)**
-- **ã** (227 / 00e3):  16× (2)  6× **pt (Portugal)** 10× **br (Brazil)**
-- **ä** (228 / 00e4):  22× (6)  8× **az (Azerbaijan)** 1× **ee (Estonia)** 5× **fi (Finland)** 1× **gr (Greece)** 1× **lu (Luxembourg)** 6× **se (Sweden)**
-- **å** (229 / 00e5):  4× (2)  2× **no (Norway)** 2× **se (Sweden)**
-- **æ** (230 / 00e6):  9× (2)  7× **dk (Denmark)** 2× **no (Norway)**
-- **ç** (231 / 00e7):  20× (7)  2× **al (Albania)** 1× **az (Azerbaijan)** 2× **fr (France)** 1× **xk (Kosovo)** 5× **pt (Portugal)** 6× **tr (Turkey)** 3× **br (Brazil)**
-- **è** (232 / 00e8):  8× (4)  4× **be (Belgium)** 2× **ch (Switzerland)** 1× **fr (France)** 1× **lu (Luxembourg)**
-- **é** (233 / 00e9):  135× (17)  2× **cr (Costa Rica)** 4× **be (Belgium)** 24× **es (Spain)** 11× **fr (France)** 6× **hu (Hungary)** 1× **is (Iceland)** 1× **lu (Luxembourg)** 4× **pt (Portugal)** 2× **ca (Canada)** 3× **mx (Mexico)** 38× **ar (Argentina)** 2× **bo (Bolivia)** 18× **br (Brazil)** 2× **co (Colombia)** 3× **pe (Peru)** 11× **uy (Uruguay)** 3× **ve (Venezuela)**
-- **ê** (234 / 00ea):  13× (2)  3× **ht (Haiti)** 10× **br (Brazil)**
-- **ë** (235 / 00eb):  12× (3)  8× **al (Albania)** 1× **lu (Luxembourg)** 3× **mk (Macedonia)**
-- **í** (237 / 00ed):  46× (11)  3× **ni (Nicaragua)** 7× **cz (Czech Republic)** 4× **es (Spain)** 3× **fo (Faroe Islands)** 7× **is (Iceland)** 2× **pt (Portugal)** 2× **sk (Slovakia)** 11× **ar (Argentina)** 4× **bo (Bolivia)** 2× **br (Brazil)** 1× **ve (Venezuela)**
-- **î** (238 / 00ee):  1× (1)  1× **fr (France)**
-- **ñ** (241 / 00f1):  18× (5)  2× **hn (Honduras)** 9× **es (Spain)** 2× **cl (Chile)** 2× **py (Paraguay)** 3× **uy (Uruguay)**
-- **ó** (243 / 00f3):  67× (16)  2× **hn (Honduras)** 1× **sv (El Salvador)** 15× **es (Spain)** 5× **fo (Faroe Islands)** 2× **hu (Hungary)** 2× **is (Iceland)** 7× **pl (Poland)** 4× **pt (Portugal)** 1× **mx (Mexico)** 12× **ar (Argentina)** 3× **br (Brazil)** 5× **cl (Chile)** 3× **co (Colombia)** 1× **pe (Peru)** 3× **py (Paraguay)** 1× **uy (Uruguay)**
-- **ô** (244 / 00f4):  2× (1)  2× **fr (France)**
-- **õ** (245 / 00f5):  3× (2)  2× **ee (Estonia)** 1× **pt (Portugal)**
-- **ö** (246 / 00f6):  36× (6)  5× **at (Austria)** 11× **de (Germany)** 2× **fi (Finland)** 1× **is (Iceland)** 16× **se (Sweden)** 1× **tr (Turkey)**
-- **ø** (248 / 00f8):  30× (3)  10× **dk (Denmark)** 1× **fo (Faroe Islands)** 19× **no (Norway)**
-- **ú** (250 / 00fa):  35× (11)  1× **jp (Japan)** 2× **gt (Guatemala)** 1× **pa (Panama)** 1× **sv (El Salvador)** 14× **es (Spain)** 1× **pt (Portugal)** 4× **ar (Argentina)** 3× **br (Brazil)** 1× **co (Colombia)** 4× **uy (Uruguay)** 3× **ve (Venezuela)**
-- **ü** (252 / 00fc):  35× (4)  1× **az (Azerbaijan)** 4× **ch (Switzerland)** 26× **de (Germany)** 4× **tr (Turkey)**
-- **ý** (253 / 00fd):  1× (1)  1× **cz (Czech Republic)**
-- **þ** (254 / 00fe):  1× (1)  1× **is (Iceland)**
-- **ā** (257 / 0101):  2× (1)  2× **lv (Latvia)**
-- **ă** (259 / 0103):  9× (1)  9× **ro (Romania)**
-- **ą** (261 / 0105):  3× (1)  3× **pl (Poland)**
-- **ć** (263 / 0107):  5× (1)  5× **me (Montenegro)**
-- **Č** (268 / 010c):  4× (2)  1× **me (Montenegro)** 3× **rs (Serbia)**
-- **č** (269 / 010d):  14× (5)  3× **ba (Bosnia and Herzegovina)** 1× **cz (Czech Republic)** 3× **mk (Macedonia)** 5× **rs (Serbia)** 2× **sk (Slovakia)**
-- **ė** (279 / 0117):  1× (1)  1× **lt (Lithuania)**
-- **ę** (281 / 0119):  3× (1)  3× **pl (Poland)**
-- **ğ** (287 / 011f):  4× (2)  2× **az (Azerbaijan)** 2× **tr (Turkey)**
-- **ī** (299 / 012b):  1× (1)  1× **lv (Latvia)**
-- **İ** (304 / 0130):  8× (2)  2× **az (Azerbaijan)** 6× **tr (Turkey)**
-- **ı** (305 / 0131):  7× (2)  2× **az (Azerbaijan)** 5× **tr (Turkey)**
-- **Ł** (321 / 0141):  2× (1)  2× **pl (Poland)**
-- **ł** (322 / 0142):  9× (1)  9× **pl (Poland)**
-- **ń** (324 / 0144):  3× (1)  3× **pl (Poland)**
-- **ň** (328 / 0148):  4× (1)  4× **cz (Czech Republic)**
-- **ő** (337 / 0151):  4× (1)  4× **hu (Hungary)**
-- **ř** (345 / 0159):  2× (1)  2× **cz (Czech Republic)**
-- **Ś** (346 / 015a):  2× (1)  2× **pl (Poland)**
-- **Ş** (350 / 015e):  4× (2)  1× **az (Azerbaijan)** 3× **tr (Turkey)**
-- **ş** (351 / 015f):  21× (3)  1× **az (Azerbaijan)** 10× **ro (Romania)** 10× **tr (Turkey)**
-- **Š** (352 / 0160):  8× (4)  3× **ba (Bosnia and Herzegovina)** 2× **hr (Croatia)** 1× **lt (Lithuania)** 2× **sk (Slovakia)**
-- **š** (353 / 0161):  6× (3)  2× **me (Montenegro)** 2× **rs (Serbia)** 2× **sk (Slovakia)**
-- **ţ** (355 / 0163):  1× (1)  1× **ro (Romania)**
-- **ū** (363 / 016b):  4× (2)  2× **lt (Lithuania)** 2× **lv (Latvia)**
-- **ź** (378 / 017a):  2× (1)  2× **pl (Poland)**
-- **ż** (380 / 017c):  1× (1)  1× **mt (Malta)**
-- **Ž** (381 / 017d):  8× (3)  2× **ba (Bosnia and Herzegovina)** 4× **lt (Lithuania)** 2× **sk (Slovakia)**
-- **ž** (382 / 017e):  9× (4)  2× **hr (Croatia)** 2× **rs (Serbia)** 2× **si (Slovenia)** 3× **sk (Slovakia)**
-- **ș** (537 / 0219):  28× (1)  28× **ro (Romania)**
-- **ț** (539 / 021b):  10× (1)  10× **ro (Romania)**
+- **Á** (193 / 00c1):  7× (2)  3×**pa (Panama)** 4×**sv (El Salvador)**
+- **Å** (197 / 00c5):  5× (1)  5×**se (Sweden)**
+- **Ç** (199 / 00c7):  1× (1)  1×**tr (Turkey)**
+- **É** (201 / 00c9):  8× (2)  1×**es (Spain)** 7×**fr (France)**
+- **Í** (205 / 00cd):  7× (2)  3×**fo (Faroe Islands)** 4×**is (Iceland)**
+- **Ö** (214 / 00d6):  6× (1)  6×**se (Sweden)**
+- **Ú** (218 / 00da):  2× (1)  2×**hu (Hungary)**
+- **ß** (223 / 00df):  12× (1)  12×**de (Germany)**
+- **à** (224 / 00e0):  6× (3)  2×**ad (Andorra)** 1×**es (Spain)** 3×**it (Italy)**
+- **á** (225 / 00e1):  50× (9)  4×**sv (El Salvador)** 5×**cz (Czech Republic)** 8×**es (Spain)** 6×**hu (Hungary)** 4×**sk (Slovakia)** 5×**ar (Argentina)** 11×**br (Brazil)** 1×**co (Colombia)** 6×**ve (Venezuela)**
+- **â** (226 / 00e2):  12× (3)  2×**ch (Switzerland)** 2×**fr (France)** 8×**ro (Romania)**
+- **ã** (227 / 00e3):  16× (2)  6×**pt (Portugal)** 10×**br (Brazil)**
+- **ä** (228 / 00e4):  22× (6)  8×**az (Azerbaijan)** 1×**ee (Estonia)** 5×**fi (Finland)** 1×**gr (Greece)** 1×**lu (Luxembourg)** 6×**se (Sweden)**
+- **å** (229 / 00e5):  4× (2)  2×**no (Norway)** 2×**se (Sweden)**
+- **æ** (230 / 00e6):  9× (2)  7×**dk (Denmark)** 2×**no (Norway)**
+- **ç** (231 / 00e7):  20× (7)  2×**al (Albania)** 1×**az (Azerbaijan)** 2×**fr (France)** 1×**xk (Kosovo)** 5×**pt (Portugal)** 6×**tr (Turkey)** 3×**br (Brazil)**
+- **è** (232 / 00e8):  8× (4)  4×**be (Belgium)** 2×**ch (Switzerland)** 1×**fr (France)** 1×**lu (Luxembourg)**
+- **é** (233 / 00e9):  135× (17)  2×**cr (Costa Rica)** 4×**be (Belgium)** 24×**es (Spain)** 11×**fr (France)** 6×**hu (Hungary)** 1×**is (Iceland)** 1×**lu (Luxembourg)** 4×**pt (Portugal)** 2×**ca (Canada)** 3×**mx (Mexico)** 38×**ar (Argentina)** 2×**bo (Bolivia)** 18×**br (Brazil)** 2×**co (Colombia)** 3×**pe (Peru)** 11×**uy (Uruguay)** 3×**ve (Venezuela)**
+- **ê** (234 / 00ea):  13× (2)  3×**ht (Haiti)** 10×**br (Brazil)**
+- **ë** (235 / 00eb):  12× (3)  8×**al (Albania)** 1×**lu (Luxembourg)** 3×**mk (Macedonia)**
+- **í** (237 / 00ed):  46× (11)  3×**ni (Nicaragua)** 7×**cz (Czech Republic)** 4×**es (Spain)** 3×**fo (Faroe Islands)** 7×**is (Iceland)** 2×**pt (Portugal)** 2×**sk (Slovakia)** 11×**ar (Argentina)** 4×**bo (Bolivia)** 2×**br (Brazil)** 1×**ve (Venezuela)**
+- **î** (238 / 00ee):  1× (1)  1×**fr (France)**
+- **ñ** (241 / 00f1):  18× (5)  2×**hn (Honduras)** 9×**es (Spain)** 2×**cl (Chile)** 2×**py (Paraguay)** 3×**uy (Uruguay)**
+- **ó** (243 / 00f3):  67× (16)  2×**hn (Honduras)** 1×**sv (El Salvador)** 15×**es (Spain)** 5×**fo (Faroe Islands)** 2×**hu (Hungary)** 2×**is (Iceland)** 7×**pl (Poland)** 4×**pt (Portugal)** 1×**mx (Mexico)** 12×**ar (Argentina)** 3×**br (Brazil)** 5×**cl (Chile)** 3×**co (Colombia)** 1×**pe (Peru)** 3×**py (Paraguay)** 1×**uy (Uruguay)**
+- **ô** (244 / 00f4):  2× (1)  2×**fr (France)**
+- **õ** (245 / 00f5):  3× (2)  2×**ee (Estonia)** 1×**pt (Portugal)**
+- **ö** (246 / 00f6):  36× (6)  5×**at (Austria)** 11×**de (Germany)** 2×**fi (Finland)** 1×**is (Iceland)** 16×**se (Sweden)** 1×**tr (Turkey)**
+- **ø** (248 / 00f8):  30× (3)  10×**dk (Denmark)** 1×**fo (Faroe Islands)** 19×**no (Norway)**
+- **ú** (250 / 00fa):  35× (11)  1×**jp (Japan)** 2×**gt (Guatemala)** 1×**pa (Panama)** 1×**sv (El Salvador)** 14×**es (Spain)** 1×**pt (Portugal)** 4×**ar (Argentina)** 3×**br (Brazil)** 1×**co (Colombia)** 4×**uy (Uruguay)** 3×**ve (Venezuela)**
+- **ü** (252 / 00fc):  35× (4)  1×**az (Azerbaijan)** 4×**ch (Switzerland)** 26×**de (Germany)** 4×**tr (Turkey)**
+- **ý** (253 / 00fd):  1× (1)  1×**cz (Czech Republic)**
+- **þ** (254 / 00fe):  1× (1)  1×**is (Iceland)**
+- **ā** (257 / 0101):  2× (1)  2×**lv (Latvia)**
+- **ă** (259 / 0103):  9× (1)  9×**ro (Romania)**
+- **ą** (261 / 0105):  3× (1)  3×**pl (Poland)**
+- **ć** (263 / 0107):  5× (1)  5×**me (Montenegro)**
+- **Č** (268 / 010c):  4× (2)  1×**me (Montenegro)** 3×**rs (Serbia)**
+- **č** (269 / 010d):  14× (5)  3×**ba (Bosnia and Herzegovina)** 1×**cz (Czech Republic)** 3×**mk (Macedonia)** 5×**rs (Serbia)** 2×**sk (Slovakia)**
+- **ė** (279 / 0117):  1× (1)  1×**lt (Lithuania)**
+- **ę** (281 / 0119):  3× (1)  3×**pl (Poland)**
+- **ğ** (287 / 011f):  4× (2)  2×**az (Azerbaijan)** 2×**tr (Turkey)**
+- **ī** (299 / 012b):  1× (1)  1×**lv (Latvia)**
+- **İ** (304 / 0130):  8× (2)  2×**az (Azerbaijan)** 6×**tr (Turkey)**
+- **ı** (305 / 0131):  7× (2)  2×**az (Azerbaijan)** 5×**tr (Turkey)**
+- **Ł** (321 / 0141):  2× (1)  2×**pl (Poland)**
+- **ł** (322 / 0142):  9× (1)  9×**pl (Poland)**
+- **ń** (324 / 0144):  3× (1)  3×**pl (Poland)**
+- **ň** (328 / 0148):  4× (1)  4×**cz (Czech Republic)**
+- **ő** (337 / 0151):  4× (1)  4×**hu (Hungary)**
+- **ř** (345 / 0159):  2× (1)  2×**cz (Czech Republic)**
+- **Ś** (346 / 015a):  2× (1)  2×**pl (Poland)**
+- **Ş** (350 / 015e):  4× (2)  1×**az (Azerbaijan)** 3×**tr (Turkey)**
+- **ş** (351 / 015f):  21× (3)  1×**az (Azerbaijan)** 10×**ro (Romania)** 10×**tr (Turkey)**
+- **Š** (352 / 0160):  8× (4)  3×**ba (Bosnia and Herzegovina)** 2×**hr (Croatia)** 1×**lt (Lithuania)** 2×**sk (Slovakia)**
+- **š** (353 / 0161):  6× (3)  2×**me (Montenegro)** 2×**rs (Serbia)** 2×**sk (Slovakia)**
+- **ţ** (355 / 0163):  1× (1)  1×**ro (Romania)**
+- **ū** (363 / 016b):  4× (2)  2×**lt (Lithuania)** 2×**lv (Latvia)**
+- **ź** (378 / 017a):  2× (1)  2×**pl (Poland)**
+- **ż** (380 / 017c):  1× (1)  1×**mt (Malta)**
+- **Ž** (381 / 017d):  8× (3)  2×**ba (Bosnia and Herzegovina)** 4×**lt (Lithuania)** 2×**sk (Slovakia)**
+- **ž** (382 / 017e):  9× (4)  2×**hr (Croatia)** 2×**rs (Serbia)** 2×**si (Slovenia)** 3×**sk (Slovakia)**
+- **ș** (537 / 0219):  28× (1)  28×**ro (Romania)**
+- **ț** (539 / 021b):  10× (1)  10×**ro (Romania)**
 
 
 
