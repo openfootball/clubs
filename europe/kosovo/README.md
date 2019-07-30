@@ -9,8 +9,7 @@
 
 Alphabet
 
-- **Alphabet Specials** (2):  ' (39) ç (231)
-  - **'** (39 / 0027): 1
+- **Alphabet Specials** (1):  ç (231)
   - **ç** (231 / 00e7): 1
 
 

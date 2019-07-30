@@ -32,9 +32,7 @@
 
 Alphabet
 
-- **Alphabet Specials** (2):  ( (40) ) (41)
-  - **(** (40 / 0028): 3
-  - **)** (41 / 0029): 3
+- **Alphabet Specials** (0): 
 
 
 
