@@ -5,7 +5,7 @@
 - **Valur Reykjavík** : (1) Valur
 - **Víkingur Reykjavík**
 - **ÍA Akranes** : (2) IA Akranes • Íþróttabandalag Akraness
-- **FH Hafnarfjördur** : (1) FH
+- **FH Hafnarfjördur** : (1) FH (2†) FH Hafnarfjordur • FH Hafnarfjoerdur
 - **Breidablik**
 - **Thór Akureyri**
 - **ÍBV Vestmannaeyjar** : (1) ÍBV

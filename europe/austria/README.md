@@ -4,9 +4,9 @@
 - **SK Rapid Wien** : (2) Rapid Wien • Rapid Vienna
 - **Wiener Sport-Club**
 - **SV Mattersburg** : (1) Mattersburg
-- **FC Admira Wacker Mödling** : (2) Admira • Admira Wien
+- **FC Admira Wacker Mödling** : (2) Admira • Admira Wien (2†) FC Admira Wacker Modling • FC Admira Wacker Moedling
 - **SC Wiener Neustadt** : (1) Neustadt
-- **SKN St. Pölten** : (3) St Pölten • St. Polten • SKN St Pölten
+- **SKN St. Pölten** : (3) St Pölten • St. Polten • SKN St Pölten (6†) St Polten • St Poelten • SKN St Polten • SKN St. Polten • SKN St Poelten • SKN St. Poelten
 - **LASK Linz** : (2) LASK • Linzer ASK
 - **FC Stahl Linz** : (1) SK VOEST Linz
 - **SV Ried** : (1) Ried
@@ -14,7 +14,7 @@
 - **TSV Hartberg** : (1) Hartberg
 - **Wolfsberger AC** : (2) Wolfsberg • AC Wolfsberger
 - **FC RB Salzburg** : (2) Salzburg • FC Salzburg
-- **SV Grödig** : (2) Grödig • Grodig
+- **SV Grödig** : (2) Grödig • Grodig (4†) Grodig • Groedig • SV Grodig • SV Groedig
 - **FC Wacker Innsbruck** : (2) FC Tirol • Wacker Innsbruck
 - **SCR Altach** : (1) Altach
 

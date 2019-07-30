@@ -4,13 +4,13 @@
 - **İnter Bakı PİK**
 - **Neftçi PFK**
 - **Qarabağ FK** : (1) Qarabağ
-- **Xäzär Länkäran FK**
-- **Olimpik-Şüvälan PFK**
+- **Xäzär Länkäran FK** (2†) Xazar Lankaran FK • Xaezaer Laenkaeran FK
+- **Olimpik-Şüvälan PFK** (2†) Olimpik-Şuvalan PFK • Olimpik-Şuevaelan PFK
 - **Simurq PFK**
 - **Gabala SC**
 - **Keşla FK**
-- **Zirä FK**
-- **Käpäz PFK**
+- **Zirä FK** (2†) Zira FK • Zirae FK
+- **Käpäz PFK** (2†) Kapaz PFK • Kaepaez PFK
 
 
 

@@ -6,7 +6,7 @@
 - **FCI Tallinn**
 - **JK Trans Narva** : (1) JK Narva Trans
 - **JK Nõmme Kalju** : (2) Kalju • Nõmme Kalju FC
-- **JK Sillamäe Kalev**
+- **JK Sillamäe Kalev** (2†) JK Sillamae Kalev • JK Sillamaee Kalev
 - **FC Santos Tartu**
 
 

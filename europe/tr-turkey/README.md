@@ -1,20 +1,20 @@
 26 clubs
 
-- **Fenerbahçe İstanbul SK** : (5) Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club
+- **Fenerbahçe İstanbul SK** : (5) Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club (2†) Fenerbahçe Spor Kulubu • Fenerbahçe Spor Kuluebue
 - **Galatasaray İstanbul AŞ** : (3) Galatasaray • Galatasaray AŞ • Galatasaray Istanbul
 - **Beşiktaş İstanbul JK** : (3) Besiktas • Beşiktaş • Beşiktaş JK
 - **Kasımpaşa İstanbul SK** : (1) Kasimpasa
 - **İstanbul Başakşehir** : (1) Buyuksehyr
 - **Gençlerbirliği Ankara SK** : (1) Genclerbirligi
 - **Osmanlıspor Ankara** : (2) Osmanlispor • Osmanlıspor
-- **Kardemir Karabükspor** : (2) Karabükspor • Karabukspor
+- **Kardemir Karabükspor** : (2) Karabükspor • Karabukspor (4†) Karabukspor • Karabuekspor • Kardemir Karabukspor • Kardemir Karabuekspor
 - **Elazığspor** : (1) Elazigspor
 - **Eskişehirspor** : (1) Eskisehirspor
 - **Akhisar Belediyespor** : (1) Akhisar
 - **Alanyaspor**
 - **Antalyaspor**
 - **Bursaspor**
-- **Göztepe Izmir** : (1) Goztep
+- **Göztepe Izmir** : (1) Goztep (2†) Goztepe Izmir • Goeztepe Izmir
 - **Kayserispor**
 - **Kayseri Erciyesspor** : (1) Erciyesspor
 - **Konyaspor**

@@ -15,7 +15,7 @@
 - **Panelefsiniakos FC** : (1) Eleysina
 - **Proodeftiki FC** : (2) Proodeftiki • Proodeytiki
 - **Ionikos FC** : (1) Ionikos
-- **Olympiacos Piraeus FC** : (5) Olympiakos • Olympiacos • Olympiakos P. • Olympiacos FC • Olympiakos Piräus
+- **Olympiacos Piraeus FC** : (5) Olympiakos • Olympiacos • Olympiakos P. • Olympiacos FC • Olympiakos Piräus (2†) Olympiakos Piraus • Olympiakos Piraeus
 - **Ethnikos Piraeus FC** : (2) Ethnikos • Ethnikos Piraeus
 - **PAOK FC** : (1) PAOK
 - **Aris Thessaloniki FC** : (1) Aris

@@ -4,7 +4,7 @@
 - **F91 Dudelange** : (1) Dudelange
 - **FC Differdange 03** : (1) Differdange
 - **CS Grevenmacher**
-- **UN Käerjéng 97**
+- **UN Käerjéng 97** (2†) UN Kaerjéng 97 • UN Kaeerjéng 97
 - **CS Fola Esch** : (1) Fola
 - **Racing FC Union Lëtzebuerg**
 - **FC Progrès Niederkorn**
