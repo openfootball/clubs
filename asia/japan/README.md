@@ -33,7 +33,7 @@
 
 Alphabet
 
-- **Alphabet Specials** (1):  ú (250)
+- **Alphabet Specials** (1):  **ú** (250)
   - **ú** (250 / 00fa): 1
 
 

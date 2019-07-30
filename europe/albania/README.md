@@ -17,7 +17,7 @@
 
 Alphabet
 
-- **Alphabet Specials** (2):  ç (231) ë (235)
+- **Alphabet Specials** (2):  **ç** (231) **ë** (235)
   - **ç** (231 / 00e7): 2
   - **ë** (235 / 00eb): 8
 

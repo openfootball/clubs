@@ -1,6 +1,6 @@
 Alphabet
 
-- **Alphabet Specials** (63):  Á (193) Å (197) Ç (199) É (201) Í (205) Ö (214) Ú (218) ß (223) à (224) á (225) â (226) ã (227) ä (228) å (229) æ (230) ç (231) è (232) é (233) ê (234) ë (235) í (237) î (238) ñ (241) ó (243) ô (244) õ (245) ö (246) ø (248) ú (250) ü (252) ý (253) þ (254) ā (257) ă (259) ą (261) ć (263) Č (268) č (269) ė (279) ę (281) ğ (287) ī (299) İ (304) ı (305) Ł (321) ł (322) ń (324) ň (328) ő (337) ř (345) Ś (346) Ş (350) ş (351) Š (352) š (353) ţ (355) ū (363) ź (378) ż (380) Ž (381) ž (382) ș (537) ț (539)
+- **Alphabet Specials** (63):  **Á** (193) **Å** (197) **Ç** (199) **É** (201) **Í** (205) **Ö** (214) **Ú** (218) **ß** (223) **à** (224) **á** (225) **â** (226) **ã** (227) **ä** (228) **å** (229) **æ** (230) **ç** (231) **è** (232) **é** (233) **ê** (234) **ë** (235) **í** (237) **î** (238) **ñ** (241) **ó** (243) **ô** (244) **õ** (245) **ö** (246) **ø** (248) **ú** (250) **ü** (252) **ý** (253) **þ** (254) **ā** (257) **ă** (259) **ą** (261) **ć** (263) **Č** (268) **č** (269) **ė** (279) **ę** (281) **ğ** (287) **ī** (299) **İ** (304) **ı** (305) **Ł** (321) **ł** (322) **ń** (324) **ň** (328) **ő** (337) **ř** (345) **Ś** (346) **Ş** (350) **ş** (351) **Š** (352) **š** (353) **ţ** (355) **ū** (363) **ź** (378) **ż** (380) **Ž** (381) **ž** (382) **ș** (537) **ț** (539)
   - **Á** (193 / 00c1): 7
   - **Å** (197 / 00c5): 5
   - **Ç** (199 / 00c7): 1
@@ -157,6 +157,71 @@ By Country
 - **py (Paraguay)**:  (2):  **ñ** (2) **ó** (3)
 - **uy (Uruguay)**:  (4):  **é** (11) **ñ** (3) **ó** (1) **ú** (4)
 - **ve (Venezuela)**:  (4):  **á** (6) **é** (3) **í** (1) **ú** (3)
+
+
+- **Á** (193 / 00c1):  (7) pa (Panama) 3 sv (El Salvador) 4
+- **Å** (197 / 00c5):  (5) se (Sweden) 5
+- **Ç** (199 / 00c7):  (1) tr (Turkey) 1
+- **É** (201 / 00c9):  (8) es (Spain) 1 fr (France) 7
+- **Í** (205 / 00cd):  (7) fo (Faroe Islands) 3 is (Iceland) 4
+- **Ö** (214 / 00d6):  (6) se (Sweden) 6
+- **Ú** (218 / 00da):  (2) hu (Hungary) 2
+- **ß** (223 / 00df):  (12) de (Germany) 12
+- **à** (224 / 00e0):  (6) ad (Andorra) 2 es (Spain) 1 it (Italy) 3
+- **á** (225 / 00e1):  (50) sv (El Salvador) 4 cz (Czech Republic) 5 es (Spain) 8 hu (Hungary) 6 sk (Slovakia) 4 ar (Argentina) 5 br (Brazil) 11 co (Colombia) 1 ve (Venezuela) 6
+- **â** (226 / 00e2):  (12) ch (Switzerland) 2 fr (France) 2 ro (Romania) 8
+- **ã** (227 / 00e3):  (16) pt (Portugal) 6 br (Brazil) 10
+- **ä** (228 / 00e4):  (22) az (Azerbaijan) 8 ee (Estonia) 1 fi (Finland) 5 gr (Greece) 1 lu (Luxembourg) 1 se (Sweden) 6
+- **å** (229 / 00e5):  (4) no (Norway) 2 se (Sweden) 2
+- **æ** (230 / 00e6):  (9) dk (Denmark) 7 no (Norway) 2
+- **ç** (231 / 00e7):  (20) al (Albania) 2 az (Azerbaijan) 1 fr (France) 2 xk (Kosovo) 1 pt (Portugal) 5 tr (Turkey) 6 br (Brazil) 3
+- **è** (232 / 00e8):  (8) be (Belgium) 4 ch (Switzerland) 2 fr (France) 1 lu (Luxembourg) 1
+- **é** (233 / 00e9):  (135) cr (Costa Rica) 2 be (Belgium) 4 es (Spain) 24 fr (France) 11 hu (Hungary) 6 is (Iceland) 1 lu (Luxembourg) 1 pt (Portugal) 4 ca (Canada) 2 mx (Mexico) 3 ar (Argentina) 38 bo (Bolivia) 2 br (Brazil) 18 co (Colombia) 2 pe (Peru) 3 uy (Uruguay) 11 ve (Venezuela) 3
+- **ê** (234 / 00ea):  (13) ht (Haiti) 3 br (Brazil) 10
+- **ë** (235 / 00eb):  (12) al (Albania) 8 lu (Luxembourg) 1 mk (Macedonia) 3
+- **í** (237 / 00ed):  (46) ni (Nicaragua) 3 cz (Czech Republic) 7 es (Spain) 4 fo (Faroe Islands) 3 is (Iceland) 7 pt (Portugal) 2 sk (Slovakia) 2 ar (Argentina) 11 bo (Bolivia) 4 br (Brazil) 2 ve (Venezuela) 1
+- **î** (238 / 00ee):  (1) fr (France) 1
+- **ñ** (241 / 00f1):  (18) hn (Honduras) 2 es (Spain) 9 cl (Chile) 2 py (Paraguay) 2 uy (Uruguay) 3
+- **ó** (243 / 00f3):  (67) hn (Honduras) 2 sv (El Salvador) 1 es (Spain) 15 fo (Faroe Islands) 5 hu (Hungary) 2 is (Iceland) 2 pl (Poland) 7 pt (Portugal) 4 mx (Mexico) 1 ar (Argentina) 12 br (Brazil) 3 cl (Chile) 5 co (Colombia) 3 pe (Peru) 1 py (Paraguay) 3 uy (Uruguay) 1
+- **ô** (244 / 00f4):  (2) fr (France) 2
+- **õ** (245 / 00f5):  (3) ee (Estonia) 2 pt (Portugal) 1
+- **ö** (246 / 00f6):  (36) at (Austria) 5 de (Germany) 11 fi (Finland) 2 is (Iceland) 1 se (Sweden) 16 tr (Turkey) 1
+- **ø** (248 / 00f8):  (30) dk (Denmark) 10 fo (Faroe Islands) 1 no (Norway) 19
+- **ú** (250 / 00fa):  (35) jp (Japan) 1 gt (Guatemala) 2 pa (Panama) 1 sv (El Salvador) 1 es (Spain) 14 pt (Portugal) 1 ar (Argentina) 4 br (Brazil) 3 co (Colombia) 1 uy (Uruguay) 4 ve (Venezuela) 3
+- **ü** (252 / 00fc):  (35) az (Azerbaijan) 1 ch (Switzerland) 4 de (Germany) 26 tr (Turkey) 4
+- **ý** (253 / 00fd):  (1) cz (Czech Republic) 1
+- **þ** (254 / 00fe):  (1) is (Iceland) 1
+- **ā** (257 / 0101):  (2) lv (Latvia) 2
+- **ă** (259 / 0103):  (9) ro (Romania) 9
+- **ą** (261 / 0105):  (3) pl (Poland) 3
+- **ć** (263 / 0107):  (5) me (Montenegro) 5
+- **Č** (268 / 010c):  (4) me (Montenegro) 1 rs (Serbia) 3
+- **č** (269 / 010d):  (14) ba (Bosnia and Herzegovina) 3 cz (Czech Republic) 1 mk (Macedonia) 3 rs (Serbia) 5 sk (Slovakia) 2
+- **ė** (279 / 0117):  (1) lt (Lithuania) 1
+- **ę** (281 / 0119):  (3) pl (Poland) 3
+- **ğ** (287 / 011f):  (4) az (Azerbaijan) 2 tr (Turkey) 2
+- **ī** (299 / 012b):  (1) lv (Latvia) 1
+- **İ** (304 / 0130):  (8) az (Azerbaijan) 2 tr (Turkey) 6
+- **ı** (305 / 0131):  (7) az (Azerbaijan) 2 tr (Turkey) 5
+- **Ł** (321 / 0141):  (2) pl (Poland) 2
+- **ł** (322 / 0142):  (9) pl (Poland) 9
+- **ń** (324 / 0144):  (3) pl (Poland) 3
+- **ň** (328 / 0148):  (4) cz (Czech Republic) 4
+- **ő** (337 / 0151):  (4) hu (Hungary) 4
+- **ř** (345 / 0159):  (2) cz (Czech Republic) 2
+- **Ś** (346 / 015a):  (2) pl (Poland) 2
+- **Ş** (350 / 015e):  (4) az (Azerbaijan) 1 tr (Turkey) 3
+- **ş** (351 / 015f):  (21) az (Azerbaijan) 1 ro (Romania) 10 tr (Turkey) 10
+- **Š** (352 / 0160):  (8) ba (Bosnia and Herzegovina) 3 hr (Croatia) 2 lt (Lithuania) 1 sk (Slovakia) 2
+- **š** (353 / 0161):  (6) me (Montenegro) 2 rs (Serbia) 2 sk (Slovakia) 2
+- **ţ** (355 / 0163):  (1) ro (Romania) 1
+- **ū** (363 / 016b):  (4) lt (Lithuania) 2 lv (Latvia) 2
+- **ź** (378 / 017a):  (2) pl (Poland) 2
+- **ż** (380 / 017c):  (1) mt (Malta) 1
+- **Ž** (381 / 017d):  (8) ba (Bosnia and Herzegovina) 2 lt (Lithuania) 4 sk (Slovakia) 2
+- **ž** (382 / 017e):  (9) hr (Croatia) 2 rs (Serbia) 2 si (Slovenia) 2 sk (Slovakia) 3
+- **ș** (537 / 0219):  (28) ro (Romania) 28
+- **ț** (539 / 021b):  (10) ro (Romania) 10
 
 
 

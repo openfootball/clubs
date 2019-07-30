@@ -18,7 +18,7 @@
 
 Alphabet
 
-- **Alphabet Specials** (2):  ë (235) č (269)
+- **Alphabet Specials** (2):  **ë** (235) **č** (269)
   - **ë** (235 / 00eb): 3
   - **č** (269 / 010d): 3
 

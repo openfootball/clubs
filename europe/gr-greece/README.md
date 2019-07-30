@@ -52,7 +52,7 @@
 
 Alphabet
 
-- **Alphabet Specials** (1):  ä (228)
+- **Alphabet Specials** (1):  **ä** (228)
   - **ä** (228 / 00e4): 1
 
 

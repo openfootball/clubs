@@ -8,7 +8,7 @@
 
 Alphabet
 
-- **Alphabet Specials** (1):  ê (234)
+- **Alphabet Specials** (1):  **ê** (234)
   - **ê** (234 / 00ea): 3
 
 

@@ -14,7 +14,7 @@
 
 Alphabet
 
-- **Alphabet Specials** (1):  ż (380)
+- **Alphabet Specials** (1):  **ż** (380)
   - **ż** (380 / 017c): 1
 
 

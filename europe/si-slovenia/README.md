@@ -15,7 +15,7 @@
 
 Alphabet
 
-- **Alphabet Specials** (1):  ž (382)
+- **Alphabet Specials** (1):  **ž** (382)
   - **ž** (382 / 017e): 2
 
 

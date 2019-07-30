@@ -23,7 +23,7 @@
 
 Alphabet
 
-- **Alphabet Specials** (1):  ö (246)
+- **Alphabet Specials** (1):  **ö** (246)
   - **ö** (246 / 00f6): 5
 
 
