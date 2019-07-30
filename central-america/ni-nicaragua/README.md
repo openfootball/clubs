@@ -8,7 +8,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **í** (237)
-  - **í** (237 / 00ed): 3x
+  - **í** (237 / 00ed): 3×
 
 
 
