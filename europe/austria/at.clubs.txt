@@ -20,11 +20,12 @@ SV Mattersburg,      Mattersburg
 == Niederösterreich ==
 
 FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
-  | Admira  | Admira Wien
+  | Admira  | Admira Wien     ## historic Admira Wien name add (-???) or something
 SC Wiener Neustadt,  Wr. Neustadt
   | Neustadt
 SKN St. Pölten,      St. Pölten
-  | St Pölten | St. Polten | SKN St Pölten
+  | St. Pölten 
+
 
 
 == Oberösterreich ==
@@ -33,6 +34,16 @@ LASK Linz,           Linz (Pasching)          ## use Pasching ??
   | LASK | Linzer ASK
 FC Stahl Linz,       Linz
   | SK VOEST Linz
+
+##
+## add support for historic names - how? 
+#
+# FC Stahl Linz | FC Linz (1991-1997, 2013-), 1946,  Linz
+#  | SK VÖEST Linz (1946-1978)
+#  | SK VOEST Linz (1978-1990)
+#  | FC VOEST Linz (1990-1991)
+
+
 SV Ried,             Ried i. Innkreis
   | Ried
 
@@ -56,7 +67,7 @@ Wolfsberger AC, 	Wolfsberg
 FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
   | Salzburg | FC Salzburg
 SV Grödig,           Grödig
-  | Grödig | Grodig
+  | Grödig
 
 
 == Tirol ==
