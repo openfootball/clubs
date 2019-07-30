@@ -18,14 +18,14 @@
 - **Newport County AFC** : (1) Newport County
 - **Wrexham AFC** : (1) Wrexham
 - **Merthyr Town FC** : (1) Merthyr Town
-- **Aberdare Athletic FC (1893-1928)** : (2) Aberdare Athletic • Aberdare Athletic FC
+- **Aberdare Athletic FC (1893-1928)** : (1) Aberdare Athletic
 
 
 
 
 By City
 
-- **Aberdare** (1): Aberdare Athletic FC (1893-1928)  (2) Aberdare Athletic FC • Aberdare Athletic
+- **Aberdare** (1): Aberdare Athletic FC (1893-1928)  (1) Aberdare Athletic
 - **Cardiff** (1): Cardiff City FC  (2) Cardiff • Cardiff City
 - **Merthyr Tydfil** (1): Merthyr Town FC  (1) Merthyr Town
 - **Newport** (1): Newport County AFC  (1) Newport County
@@ -82,7 +82,7 @@ Historic
 
 By A to Z
 
-- **A** (5): AUK Broughton FC • Aberdare Athletic • Aberystwyth Town FC • Aberdare Athletic FC • Aberdare Athletic FC (1893-1928)
+- **A** (4): AUK Broughton FC • Aberdare Athletic • Aberystwyth Town FC • Aberdare Athletic FC (1893-1928)
 - **B** (4): Bangor • Bangor City • Bala Town FC • Bangor City FC
 - **C** (5): Cardiff • Cardiff City • Cardiff City FC • Cefn Druids AFC • Connah's Quay Nomads FC
 - **L** (2): Llandudno FC • Llanelli AFC

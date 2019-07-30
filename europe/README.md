@@ -1,12 +1,12 @@
 54 datafiles, 1348 clubs
 
-**europe/ad-andorra/clubs.txt** _(5)_:  UE Sant Julià • FC Santa Coloma • UE Santa Coloma • FC Lusitans • UE Engordany
+**europe/albania/al.clubs.txt** _(11)_:  KF Tirana • FK Partizani Tirana • FK Dinamo Tirana • KS Skënderbeu • KS Flamurtari • KF Vllaznia • KS Besa • KS Teuta • KF Laçi • FK Kukësi • KS Luftëtari
 
-**europe/al-albania/clubs.txt** _(11)_:  KF Tirana • FK Partizani Tirana • FK Dinamo Tirana • KS Skënderbeu • KS Flamurtari • KF Vllaznia • KS Besa • KS Teuta • KF Laçi • FK Kukësi • KS Luftëtari
+**europe/andorra/ad.clubs.txt** _(5)_:  UE Sant Julià • FC Santa Coloma • UE Santa Coloma • FC Lusitans • UE Engordany
 
-**europe/am-armenia/clubs.txt** _(8)_:  FC Pyunik • Ulisses FC • FC Mika • FC Gandzasar • FC Banants • FC Shirak • FC Ararat • Alashkert FC
+**europe/armenia/am.clubs.txt** _(8)_:  FC Pyunik • Ulisses FC • FC Mika • FC Gandzasar • FC Banants • FC Shirak • FC Ararat • Alashkert FC
 
-**europe/at-austria/clubs.txt** _(17)_:  FK Austria Wien • SK Rapid Wien • Wiener Sport-Club • SV Mattersburg • FC Admira Wacker Mödling • SC Wiener Neustadt • SKN St. Pölten • LASK Linz • FC Stahl Linz • SV Ried • SK Sturm Graz • TSV Hartberg • Wolfsberger AC • FC RB Salzburg • SV Grödig • FC Wacker Innsbruck • SCR Altach
+**europe/austria/at.clubs.txt** _(17)_:  FK Austria Wien • SK Rapid Wien • Wiener Sport-Club • SV Mattersburg • FC Admira Wacker Mödling • SC Wiener Neustadt • SKN St. Pölten • LASK Linz • FC Stahl Linz • SV Ried • SK Sturm Graz • TSV Hartberg • Wolfsberger AC • FC RB Salzburg • SV Grödig • FC Wacker Innsbruck • SCR Altach
 
 **europe/az-azerbaijan/clubs.txt** _(11)_:  Bakı FK • İnter Bakı PİK • Neftçi PFK • Qarabağ FK • Xäzär Länkäran FK • Olimpik-Şüvälan PFK • Simurq PFK • Gabala SC • Keşla FK • Zirä FK • Käpäz PFK
 

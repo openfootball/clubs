@@ -21,9 +21,9 @@
 - **Real Salt Lake** : (1) Real Salt Lake City
 - **Sporting Kansas City** : (2) Sporting KC • Kansas City Wizards
 - **FC Cincinnati** : (1) Cincinnati
-- **Tampa Bay Mutiny (1996-2001)** : (1) Tampa Bay Mutiny
-- **Miami Fusion (1998-2001)** : (1) Miami Fusion
-- **CD Chivas USA (2005-2014)** : (3) Chivas USA • CD Chivas USA • Club Deportivo Chivas US
+- **Tampa Bay Mutiny (1996-2001)**
+- **Miami Fusion (1998-2001)**
+- **CD Chivas USA (2005-2014)** : (2) Chivas USA • Club Deportivo Chivas US
 - **Miami**
 - **Nashville**
 
@@ -34,14 +34,14 @@ By City
 
 - **Carson, California** (2): 
   - LA Galaxy  (1) Los Angeles Galaxy
-  - CD Chivas USA (2005-2014)  (3) CD Chivas USA • Chivas USA • Club Deportivo Chivas US
+  - CD Chivas USA (2005-2014)  (2) Chivas USA • Club Deportivo Chivas US
 - **Atlanta, Georgia** (1): Atlanta United FC  (1) Atlanta United
 - **Bridgeview, Illinois** (1): Chicago Fire  (1) Chicago
 - **Chester, Pennsylvania** (1): Philadelphia Union  (1) Philadelphia
 - **Cincinnati, Ohio** (1): FC Cincinnati  (1) Cincinnati
 - **Columbus, Ohio** (1): Columbus Crew SC  (2) Columbus • Columbus Crew
 - **Commerce City, Colorado** (1): Colorado Rapids  (1) Colorado
-- **Fort Lauderdale, Florida** (1): Miami Fusion (1998-2001)  (1) Miami Fusion
+- **Fort Lauderdale, Florida** (1): Miami Fusion (1998-2001) 
 - **Foxborough, Massachusetts** (1): New England Revolution  (2) New England • N.E. Revolution
 - **Frisco, Texas** (1): FC Dallas  (1) Dallas
 - **Harrison, New Jersey** (1): New York Red Bulls  (3) NY Red Bulls • New York Metrostars • Metrostars
@@ -57,7 +57,7 @@ By City
 - **San Jose, California** (1): San Jose Earthquakes  (3) San Jose • SJ Earthquakes • Earthquakes
 - **Sandy, Utah** (1): Real Salt Lake  (1) Real Salt Lake City
 - **Seattle, Washington** (1): Seattle Sounders FC  (1) Seattle Sounders
-- **Tampa, Florida** (1): Tampa Bay Mutiny (1996-2001)  (1) Tampa Bay Mutiny
+- **Tampa, Florida** (1): Tampa Bay Mutiny (1996-2001) 
 - **Washington, D.C.** (1): D.C. United  (2) DC United • Washington D.C. United
 
 
@@ -118,20 +118,20 @@ Historic
 By A to Z
 
 - **A** (2): Atlanta United • Atlanta United FC
-- **C** (12): Chicago • Colorado • Columbus • Chivas USA • Cincinnati • Chicago Fire • CD Chivas USA • Columbus Crew • Colorado Rapids • Columbus Crew SC • Club Deportivo Chivas US • CD Chivas USA (2005-2014)
+- **C** (11): Chicago • Colorado • Columbus • Chivas USA • Cincinnati • Chicago Fire • Columbus Crew • Colorado Rapids • Columbus Crew SC • Club Deportivo Chivas US • CD Chivas USA (2005-2014)
 - **D** (3): Dallas • DC United • D.C. United
 - **E** (1): Earthquakes
 - **F** (2): FC Dallas • FC Cincinnati
 - **H** (3): Houston • H. Dynamo • Houston Dynamo
 - **K** (1): Kansas City Wizards
 - **L** (3): LA Galaxy • Los Angeles FC • Los Angeles Galaxy
-- **M** (6): Miami • Metrostars • Miami Fusion • Minnesota United • Minnesota United FC • Miami Fusion (1998-2001)
+- **M** (5): Miami • Metrostars • Minnesota United • Minnesota United FC • Miami Fusion (1998-2001)
 - **N** (9): Nashville • New England • NY Red Bulls • New York City • N.E. Revolution • New York City FC • New York Red Bulls • New York Metrostars • New England Revolution
 - **O** (3): Orlando • Orlando City • Orlando City SC
 - **P** (4): Portland • Philadelphia • Portland Timbers • Philadelphia Union
 - **R** (2): Real Salt Lake • Real Salt Lake City
 - **S** (7): San Jose • Sporting KC • SJ Earthquakes • Seattle Sounders • Seattle Sounders FC • San Jose Earthquakes • Sporting Kansas City
-- **T** (2): Tampa Bay Mutiny • Tampa Bay Mutiny (1996-2001)
+- **T** (1): Tampa Bay Mutiny (1996-2001)
 - **W** (1): Washington D.C. United
 
 
