@@ -78,122 +78,122 @@ Girona FC,           Gerona
 
 == Galicia ==
 
-RCD La Coruña,  La Coruña  › Galicia
+RCD La Coruña,  La Coruña 
   | La Coruña | RC Deportivo de La Coruña | Real Club Deportivo La Coruña
   | Deportivo | Deportivo La Coruña | Deportivo de La Coruña | Deportivo da Coruña
-RC Celta Vigo,  Vigo       › Galicia        ## use R. C. Celta de Vigo - why? why not?
+RC Celta Vigo,  Vigo          ## use R. C. Celta de Vigo - why? why not?
   | Celta | Celta Vigo | R.C. Celta | Real Club Celta Vigo | Real Club Celta de Vigo
   | RC Celta de Vigo
-SD Compostela,  Santiago de Compostela › Galicia
+SD Compostela,  Santiago de Compostela 
   | Compostela
-Racing Ferrol,  Ferrol     › Galicia
+Racing Ferrol,  Ferrol   
   | Ferrol
 
 
 == Comunidad Valenciana ==
 
-Valencia CF,    Valencia › Comunidad Valenciana
+Valencia CF,    Valencia
   | Valencia | Valencia C.F.| Valencia Club de Fútbol | FC Valencia | CF Valencia
-Levante UD,     Valencia › Comunidad Valenciana
+Levante UD,     Valencia 
   | Levante | Levante U.D. | Levante Unión Deportiva
 
-Alicante CF,    Alicante › Comunidad Valenciana
+Alicante CF,    Alicante 
   | Alicante
-Hércules CF,    Alicante › Comunidad Valenciana
+Hércules CF,    Alicante 
   | Hércules | Hércules de Alicante Club de Fútbol
 
-CD Alcoyano,    Alcoy    › Comunidad Valenciana
+CD Alcoyano,    Alcoy   
   | Alcoyano
-Elche CF,       Elche    › Comunidad Valenciana
+Elche CF,       Elche    
   | Elche
-CD Castellón,   Castellón de la Plana › Comunidad Valenciana
+CD Castellón,   Castellón de la Plana 
   | Castellón
 
-Villarreal CF,    Villarreal › Comunidad Valenciana    ## fix typo Villareal
+Villarreal CF,    Villarreal    ## fix typo Villareal
   | Villarreal | Villareal
-Villarreal CF B,  Villarreal › Comunidad Valenciana
+Villarreal CF B,  Villarreal 
   | Villarreal B
 
 
 == País Vasco ==
 
-Real Sociedad,     San Sebastián › País Vasco
+Real Sociedad,     San Sebastián 
   | Sociedad | R. Sociedad | Real Sociedad San Sebastián | Real Sociedad de Fútbol
-Deportivo Alavés,  Vitoria       › País Vasco
+Deportivo Alavés,  Vitoria      
   | Alavés | CD Alavés
-SD Eibar,          Eibar         › País Vasco
+SD Eibar,          Eibar        
   | Eibar | Sociedad Deportiva Eibar
 
-Athletic Club Bilbao,   Bilbao › País Vasco    ## use Athletic Club - why? why not?
+Athletic Club Bilbao,   Bilbao    ## use Athletic Club - why? why not?
   | Athletic | Athletic Club | Ath Bilbao | Athletic Bilbao
-Athletic Club Bilbao B, Bilbao › País Vasco
+Athletic Club Bilbao B, Bilbao 
   | Ath Bilbao B
 
 
 == Asturias ==
 
-Sporting Gijón, Gijón › Asturias
+Sporting Gijón, Gijón 
   | Sporting | Sp Gijón | Real Sporting | Real Sporting de Gijón
   | Sporting de Gijón
 
 
 == Castilla-La Mancha ==
 
-Albacete Balompié,  Albacete    › Castilla-La Mancha
+Albacete Balompié,  Albacete    
   | Albacete
-CD Guadalajara,     Guadalajara › Castilla-La Mancha
+CD Guadalajara,     Guadalajara
   | Guadalajara
 
 
 == Extremadura ==
 
-CD Badajoz,      Badajoz      › Extremadura
+CD Badajoz,      Badajoz      
   | Badajoz
-CF Extremadura,  Almendralejo › Extremadura
+CF Extremadura,  Almendralejo 
   | Extremadura
-CP Mérida,       Mérida       › Extremadura
+CP Mérida,       Mérida       
   | Mérida
 
 
 == Castilla y León ==
 
-Burgos CF,   Burgos          › Castilla y León
+Burgos CF,   Burgos         
   | Burgos
-CD Mirandés, Miranda de Ebro › Castilla y León
+CD Mirandés, Miranda de Ebro 
  | Mirandés | Club Deportivo Mirandés
 
 
 == Región de Murcia ==
 
-Real Murcia CF,      Murcia › Región de Murcia
+Real Murcia CF,      Murcia 
   | Murcia | Real Murcia Club de Fútbol
-UCAM Murcia,         Murcia › Región de Murcia
-CF Ciudad de Murcia, Murcia › Región de Murcia
+UCAM Murcia,         Murcia 
+CF Ciudad de Murcia, Murcia 
   | Ciudad de Murcia
 
-FC Cartagena,  Cartagena › Región de Murcia
+FC Cartagena,  Cartagena 
   | Cartagena
 
 
 == Aragón ==
 
-SD Huesca, Huesca › Aragón
+SD Huesca, Huesca 
   | Huesca
 
 
 == Islas Canarias ==
 
-UD Las Palmas,          Las Palmas › Islas Canarias
+UD Las Palmas,          Las Palmas 
   | Las Palmas | Unión Deportiva Las Palmas
-Universidad Las Palmas, Las Palmas › Islas Canarias
+Universidad Las Palmas, Las Palmas 
   | U.Las Palmas
 
 
 == Islas Baleares ==
 
-RCD Mallorca,   Palma de Mallorca › Islas Baleares
+RCD Mallorca,   Palma de Mallorca 
   | Mallorca | Real CD Mallorca | Real Club Deportivo Mallorca
-RCD Mallorca B, Palma de Mallorca › Islas Baleares
+RCD Mallorca B, Palma de Mallorca 
   | Mallorca B
 
 
