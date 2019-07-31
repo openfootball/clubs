@@ -48,6 +48,30 @@ Alphabet
 
 
 
+Duplicates
+
+- **RSC Anderlecht**, Brussels (1):
+  - rsc anderlecht (2): RSC Anderlecht • R.S.C. Anderlecht
+- **KVC Westerlo**, Westerlo (1):
+  - kvc westerlo (2): KVC Westerlo • K.V.C. Westerlo
+- **KRC Genk**, Genk (1):
+  - krc genk (2): KRC Genk • K.R.C. Genk
+- **KAA Gent**, Gent (1):
+  - kaa gent (2): KAA Gent • K.A.A. Gent
+- **Cercle Brugge**, Brugge (1):
+  - cercle brugge ksv (2): Cercle Brugge KSV • Cercle Brugge K.S.V.
+- **KV Kortrijk**, Kortrijk (1):
+  - kv kortrijk (2): KV Kortrijk • K.V. Kortrijk
+- **KV Oostende**, Oostende (1):
+  - kv oostende (2): KV Oostende • K.V. Oostende
+- **SV Zulte Waregem**, Waregem (1):
+  - sv zulte waregem (2): SV Zulte Waregem • S.V. Zulte Waregem
+- **Royal Excel Mouscron**, Mouscron (1):
+  - mouscron peruwelz (2): **Mouscron-Peruwelz** • **Mouscron-Peruwelz**
+
+
+
+
 By City
 
 - **Brussels, Brussels** (3): 

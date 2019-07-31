@@ -62,6 +62,30 @@ Alphabet
 
 
 
+Duplicates
+
+- **Atlético MG**, Belo Horizonte (1):
+  - atletico mg (2): Atletico-MG • Atletico MG
+- **América MG**, Belo Horizonte (1):
+  - america mg (2): **America MG** • **America MG**
+- **Atlético PR**, Curitiba (1):
+  - atletico pr (2): Atletico-PR • Atletico PR
+- **Criciúma EC**, Criciúma (1):
+  - criciuma (2): **Criciuma** • **Criciuma**
+- **Náutico PE**, Recife (1):
+  - nautico (2): **Nautico** • **Nautico**
+- **EC Vitória**, Salvador (1):
+  - vitoria (2): **Vitoria** • **Vitoria**
+- **Goiás EC**, Goiânia (1):
+  - goias (2): **Goias** • **Goias**
+- **Atlético GO**, Goiânia (1):
+  - atletico go (2): **Atletico GO** • **Atletico GO**
+- **Ceára SC**, Fortaleza (1):
+  - ceara (2): **Ceara** • **Ceara**
+
+
+
+
 By City
 
 - **Rio de Janeiro, Rio de Janeiro** (4): 

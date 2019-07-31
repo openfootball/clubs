@@ -29,6 +29,14 @@ Alphabet
 
 
 
+Duplicates
+
+- **KR Reykjavík**, Reykjavík (1):
+  - kr reykjavik (2): **KR Reykjavik** • **KR Reykjavik**
+
+
+
+
 By City
 
 - **Akranes** (1): ÍA Akranes  (2) IA Akranes • Íþróttabandalag Akraness

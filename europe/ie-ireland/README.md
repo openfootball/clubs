@@ -32,6 +32,24 @@ Alphabet
 
 
 
+Duplicates
+
+- **Bohemian F.C.**, Dublin (1):
+  - bohemian fc (2): Bohemian F.C. • Bohemian FC
+- **University College Dublin A.F.C.**, Dublin (1):
+  - university college dublin afc (2): University College Dublin A.F.C. • University College Dublin AFC
+- **Cork City F.C.**, Cork (1):
+  - cork city fc (2): Cork City F.C. • Cork City FC
+- **Drogheda United F.C.**, Drogheda (1):
+  - drogheda united fc (2): Drogheda United F.C. • Drogheda United FC
+- **Dundalk F.C.**, Dundalk (1):
+  - dundalk fc (2): Dundalk F.C. • Dundalk FC
+- **Sligo Rovers F.C.**, Sligo (1):
+  - sligo rovers fc (2): Sligo Rovers F.C. • Sligo Rovers FC
+
+
+
+
 By City
 
 - **Dublin** (5): 

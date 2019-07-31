@@ -60,6 +60,16 @@ Alphabet
 
 
 
+Duplicates
+
+- **CS Marítimo**, Funchal (1):
+  - maritimo (2): **Maritimo** • **Maritimo**
+- **Académica de Coimbra**, Coimbra (1):
+  - academica (2): **Academica** • **Academica**
+
+
+
+
 By City
 
 - **Funchal** (3): 

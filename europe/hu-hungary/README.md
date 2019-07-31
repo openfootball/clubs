@@ -30,6 +30,14 @@ Alphabet
 
 
 
+Duplicates
+
+- **Ferencvárosi TC**, Budapest (1):
+  - ferencvaros (2): **Ferencvaros** • **Ferencvaros**
+
+
+
+
 By City
 
 - **Budapest** (1): Ferencvárosi TC  (2) Ferencváros • Ferencvaros

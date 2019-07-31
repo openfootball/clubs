@@ -36,6 +36,17 @@ Alphabet
 
 
 
+Duplicates
+
+- **Grasshoppers Zürich**, Zürich (1):
+  - grasshoppers zurich (2): **Grasshoppers Zurich** • **Grasshoppers Zurich**
+- **FC Zürich**, Zürich (2):
+  - zurich (2): **Zurich** • **Zurich**
+  - fc zurich (2): **FC Zurich** • **FC Zurich**
+
+
+
+
 By City
 
 - **Zürich, Zürich** (2): 

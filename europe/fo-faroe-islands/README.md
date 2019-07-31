@@ -22,6 +22,14 @@ Alphabet
 
 
 
+Duplicates
+
+- **Víkingur**,  (1):
+  - vikingur (2): **Vikingur** • **Vikingur**
+
+
+
+
 By City
 
 - ? (7): 

@@ -37,6 +37,14 @@ Alphabet
 
 
 
+Duplicates
+
+- **D.C. United**, Washington (1):
+  - dc united (2): D.C. United • DC United
+
+
+
+
 By City
 
 - **Carson, California** (2): 

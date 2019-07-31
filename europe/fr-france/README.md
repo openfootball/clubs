@@ -87,6 +87,26 @@ Alphabet
 
 
 
+Duplicates
+
+- **Paris Saint-Germain**, Paris (1):
+  - paris saint germain (2): Paris Saint-Germain • Paris Saint Germain
+- **AS Saint-Étienne**, Saint-Étienne (2):
+  - st etienne (2): St Etienne • St-Etienne
+  - as saint etienne (2): **AS Saint-Etienne** • **AS Saint-Etienne**
+- **AS Nancy Lorraine**, Nancy (1):
+  - as nancy lorraine (2): AS Nancy Lorraine • AS Nancy-Lorraine
+- **US Quevilly-Rouen Métropole**, Petit-Quevilly (1):
+  - quevilly rouen (2): Quevilly Rouen • Quevilly-Rouen
+- **AC Arles-Avignon**, Avignon (1):
+  - ac arles avignon (2): AC Arles-Avignon • AC Arles Avignon
+- **Évian TG FC**, Thonon-les-Bains (2):
+  - Évian thonon gaillard fc (2): Évian Thonon Gaillard FC • Évian Thonon-Gaillard FC
+  - evian thonon gaillard fc (2): Evian Thonon Gaillard FC • Evian Thonon-Gaillard FC
+
+
+
+
 By City
 
 - **Ajaccio** (2): 

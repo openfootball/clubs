@@ -24,6 +24,15 @@ Alphabet
 
 
 
+Duplicates
+
+- **PFC CSKA Sofia**, Sofia (2):
+  - pfc cska sofia (2): PFC CSKA Sofia • PFC CSKA-Sofia
+  - cska sofia (2): CSKA Sofia • CSKA-Sofia
+
+
+
+
 By City
 
 - **Sofia** (4): 

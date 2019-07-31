@@ -95,6 +95,20 @@ Alphabet
 
 
 
+Duplicates
+
+- **Hellas Verona FC**, Verona (1):
+  - hellas verona fc (2): Hellas Verona FC • Hellas Verona F.C.
+- **US Sassuolo Calcio**, Sassuolo (1):
+  - us sassuolo calcio (2): US Sassuolo Calcio • U.S. Sassuolo Calcio
+- **SPAL**, Ferrara (1):
+  - spal (2): SPAL • Spal
+- **AS Livorno Calcio**, Livorno (1):
+  - as livorno calcio (2): AS Livorno Calcio • A.S. Livorno Calcio
+
+
+
+
 By City
 
 - **Genova** (2): 

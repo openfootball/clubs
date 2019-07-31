@@ -55,6 +55,16 @@ Alphabet
 
 
 
+Duplicates
+
+- **St Johnstone FC**, Perth (1):
+  - st johnstone (2): St Johnstone • St. Johnstone
+- **Saint Mirren FC**, Paisley (1):
+  - st mirren (2): St Mirren • St. Mirren
+
+
+
+
 By City
 
 - **Glasgow** (4): 

@@ -36,6 +36,16 @@ Alphabet
 
 
 
+Duplicates
+
+- **Club América**, Ciudad de México (1):
+  - club america (2): **Club America** • **Club America**
+- **Club León**, León (1):
+  - club leon (2): **Club Leon** • **Club Leon**
+
+
+
+
 By City
 
 - **Ciudad de México** (3): 

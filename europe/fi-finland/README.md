@@ -35,6 +35,16 @@ Alphabet
 
 
 
+Duplicates
+
+- **Myllykosken Pallo -47**, Myllykoski (1):
+  - mypa (2): MYPA • MyPa
+- **JJK Jyväskylä**, Jyväskylä (1):
+  - jjk jyvaskyla (2): **JJK Jyvaskyla** • **JJK Jyvaskyla**
+
+
+
+
 By City
 
 - **Helsinki** (2): 

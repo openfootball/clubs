@@ -46,6 +46,14 @@ Alphabet
 
 
 
+Duplicates
+
+- **Kardemir Karabükspor**, Karabük (1):
+  - karabukspor (2): **Karabukspor** • **Karabukspor**
+
+
+
+
 By City
 
 - **İstanbul** (5): 

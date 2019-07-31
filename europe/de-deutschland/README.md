@@ -147,6 +147,51 @@ Alphabet
 
 
 
+Duplicates
+
+- **Bayern München**, München (1):
+  - bayern muenchen (2): **Bayern Muenchen** • **Bayern Muenchen**
+- **TSV 1860 München**, München (1):
+  - tsv 1860 muenchen (2): **TSV 1860 Muenchen** • **TSV 1860 Muenchen**
+- **1. FC Nürnberg**, Nürnberg (2):
+  - nurnberg (2): **Nurnberg** • **Nurnberg**
+  - 1 fc nuernberg (2): **1. FC Nuernberg** • **1. FC Nuernberg**
+- **Greuther Fürth**, Fürth (2):
+  - greuther furth (2): **Greuther Furth** • **Greuther Furth**
+  - spvgg greuther fuerth (2): **SpVgg Greuther Fuerth** • **SpVgg Greuther Fuerth**
+- **Würzburger Kickers**, Würzburg (1):
+  - wurzburger kickers (2): **Wurzburger Kickers** • **Wurzburger Kickers**
+- **1. FC Köln**, Köln (1):
+  - 1 fc koeln (2): **1. FC Koeln** • **1. FC Koeln**
+- **Fortuna Köln**, Köln (1):
+  - fortuna koeln (2): **Fortuna Koeln** • **Fortuna Koeln**
+- **Fortuna Düsseldorf**, Düsseldorf (2):
+  - fortuna dusseldorf (2): **Fortuna Dusseldorf** • **Fortuna Dusseldorf**
+  - fortuna duesseldorf (2): **Fortuna Duesseldorf** • **Fortuna Duesseldorf**
+- **Bor. Mönchengladbach**, Mönchengladbach (3):
+  - m'gladbach (2): M'Gladbach • M'gladbach
+  - borussia monchengladbach (2): **Borussia Monchengladbach** • **Borussia Monchengladbach**
+  - bor moenchengladbach (2): **Bor. Moenchengladbach** • **Bor. Moenchengladbach**
+- **Preussen Münster**, Münster (2):
+  - preussen muenster (3): **Preussen Muenster** • **Preussen Muenster** • **Preussen Muenster**
+  - preussen munster (2): **Preussen Munster** • **Preussen Munster**
+- **Gütersloh**, Gütersloh (1):
+  - gutersloh (2): **Gutersloh** • **Gutersloh**
+- **Rot-Weiß Oberhausen**, Oberhausen (1):
+  - rot weiss oberhausen (2): **Rot-Weiss Oberhausen** • **Rot-Weiss Oberhausen**
+- **1. FC Saarbrücken**, Saarbrücken (2):
+  - saarbrucken (2): **Saarbrucken** • **Saarbrucken**
+  - 1 fc saarbruecken (2): **1. FC Saarbruecken** • **1. FC Saarbruecken**
+- **Blau-Weiß 90 Berlin (-1992)**, Berlin (1):
+  - blau weiss 90 berlin (2): **Blau-Weiss 90 Berlin** • **Blau-Weiss 90 Berlin**
+- **FC St. Pauli**, Hamburg (1):
+  - st pauli (2): St Pauli • St. Pauli
+- **VfB Lübeck**, Lübeck (1):
+  - lubeck (2): **Lubeck** • **Lubeck**
+
+
+
+
 By City
 
 - **Berlin, Berlin** (6): 

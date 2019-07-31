@@ -184,6 +184,25 @@ Alphabet
 
 
 
+Duplicates
+
+- **Manchester United FC**, Manchester (2):
+  - man united (2): Man United • Man. United
+  - manchester u (2): Manchester U. • Manchester U
+- **Manchester City FC**, Manchester (1):
+  - man city (2): Man City • Man. City
+- **Norwich City FC**, Norwich (1):
+  - norwich city fc (2): Norwich City FC • Norwich City F.C.
+- **Watford FC**, Watford (1):
+  - watford fc (2): Watford FC • Watford F.C.
+- **AFC Bournemouth**, Bournemouth (1):
+  - afc bournemouth (2): AFC Bournemouth • A.F.C. Bournemouth
+- **Accrington FC (1878-1896)**, Accrington (1):
+  - accrington fc (2): Accrington FC (1878-1896) • Accrington F.C.
+
+
+
+
 By City
 
 - **London** (20): 
