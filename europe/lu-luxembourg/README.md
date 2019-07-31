@@ -4,7 +4,7 @@
 - **F91 Dudelange** : (1) Dudelange
 - **FC Differdange 03** : (1) Differdange
 - **CS Grevenmacher**
-- **UN Käerjéng 97** => (2) UN Kaerjéng 97† • UN Kaeerjéng 97†
+- **UN Käerjéng 97** => (2) UN Kaerjeng 97† • UN Kaeerjéng 97†
 - **CS Fola Esch** : (1) Fola
 - **Racing FC Union Lëtzebuerg**
 - **FC Progrès Niederkorn**
@@ -17,7 +17,7 @@ Alphabet
 - **Alphabet Specials** (4):  **ä**  **è**  **é**  **ë** 
   - **ä** (228 / 00e4)×1 => a•ae
   - **è** (232 / 00e8)×1 => **?**
-  - **é** (233 / 00e9)×1 => **?**
+  - **é** (233 / 00e9)×1 => e
   - **ë** (235 / 00eb)×1 => **?**
 
 

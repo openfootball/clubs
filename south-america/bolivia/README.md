@@ -1,9 +1,9 @@
 5 clubs
 
-- **Club Bolívar** : (1) Bolívar
+- **Club Bolívar** : (1) Bolívar => (2) Bolivar† • Club Bolivar†
 - **The Strongest** : (2) Strongest • Club The Strongest
-- **Real Potosí** : (1) Club Bamin Real Potosí
-- **Club Deportivo San José** : (1) San José
+- **Real Potosí** : (1) Club Bamin Real Potosí => (2) Real Potosi† • Club Bamin Real Potosi†
+- **Club Deportivo San José** : (1) San José => (2) San Jose† • Club Deportivo San Jose†
 - **Club Deportivo Oriente Petrolero** : (1) Oriente Petrolero
 
 
@@ -12,8 +12,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **é**  **í** 
-  - **é** (233 / 00e9)×2 => **?**
-  - **í** (237 / 00ed)×4 => **?**
+  - **é** (233 / 00e9)×2 => e
+  - **í** (237 / 00ed)×4 => i
 
 
 

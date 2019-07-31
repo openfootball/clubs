@@ -9,16 +9,16 @@
 - **GD Chaves** : (1) Chaves
 - **Estoril Praia** : (1) Estoril
 - **CD Feirense** : (1) Feirense
-- **Vitória de Guimarães** : (2) Guimaraes • Vitória SC
-- **Vitória de Setúbal** : (2) Setubal • Vitória FC
-- **CS Marítimo** : (2) Maritimo • Marítimo
+- **Vitória de Guimarães** : (2) Guimaraes • Vitória SC => (2) Vitoria SC† • Vitoria de Guimarães†
+- **Vitória de Setúbal** : (2) Setubal • Vitória FC => (2) Vitoria FC† • Vitoria de Setubal†
+- **CS Marítimo** : (2) Maritimo • Marítimo => (2) Maritimo† • CS Maritimo†
 - **Moreirense FC** : (1) Moreirense
 - **FC Paços de Ferreira** : (2) Pacos Ferreira • Paços Ferreira
 - **Portimonense SC** : (1) Portimonense
 - **Rio Ave FC** : (1) Rio Ave
 - **SC Braga** : (3) Braga • Sp Braga • Sporting Braga
 - **CD Tondela** : (1) Tondela
-- **Académica de Coimbra** : (4) Académica • Academica • A. Académica de Coimbra • Associação Académica de Coimbra
+- **Académica de Coimbra** : (4) Académica • Academica • A. Académica de Coimbra • Associação Académica de Coimbra => (4) Academica† • Academica de Coimbra† • A. Academica de Coimbra† • Associação Academica de Coimbra†
 - **FC Arouca** : (1) Arouca
 - **CD Nacional Madeira** : (4) Nacional • CD Nacional • Nacional da Madeira • Clube Desportivo Nacional
 - **FC Penafiel** : (1) Penafiel
@@ -51,11 +51,11 @@ Alphabet
 - **Alphabet Specials** (7):  **ã**  **ç**  **é**  **í**  **ó**  **õ**  **ú** 
   - **ã** (227 / 00e3)×6 => **?**
   - **ç** (231 / 00e7)×5 => **?**
-  - **é** (233 / 00e9)×4 => **?**
-  - **í** (237 / 00ed)×2 => **?**
-  - **ó** (243 / 00f3)×4 => **?**
+  - **é** (233 / 00e9)×4 => e
+  - **í** (237 / 00ed)×2 => i
+  - **ó** (243 / 00f3)×4 => o
   - **õ** (245 / 00f5)×1 => **?**
-  - **ú** (250 / 00fa)×1 => **?**
+  - **ú** (250 / 00fa)×1 => u
 
 
 

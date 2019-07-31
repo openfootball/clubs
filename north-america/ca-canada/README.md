@@ -1,6 +1,6 @@
 3 clubs
 
-- **Montreal Impact** : (4) Montreal • Montreal I. • Impact Montréal • Impact de Montréal
+- **Montreal Impact** : (4) Montreal • Montreal I. • Impact Montréal • Impact de Montréal => (2) Impact Montreal† • Impact de Montreal†
 - **Toronto FC** : (2) TFC • Toronto
 - **Vancouver Whitecaps FC** : (2) Vancouver • Vancouver Whitecaps
 
@@ -10,7 +10,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **é** 
-  - **é** (233 / 00e9)×2 => **?**
+  - **é** (233 / 00e9)×2 => e
 
 
 

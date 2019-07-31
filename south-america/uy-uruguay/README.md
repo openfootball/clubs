@@ -1,21 +1,21 @@
 16 clubs
 
-- **Liverpool Montevideo** : (4) Liverpool • Liverpool FC • Liverpool Fútbol Club • Liverpool FC Montevideo
+- **Liverpool Montevideo** : (4) Liverpool • Liverpool FC • Liverpool Fútbol Club • Liverpool FC Montevideo => (1) Liverpool Futbol Club†
 - **Nacional de Montevideo** : (3) Nacional • C. N. de F. • Club Nacional de Football
 - **Defensor Sporting** : (3) Defensor • Defensor Sp. • Defensor Sporting Club
-- **CA Peñarol** : (2) Peñarol • Club Atlético Peñarol
-- **CA Cerro** : (2) Cerro • Club Atlético Cerro
-- **Danubio FC** : (2) Danubio • Danubio Fútbol Club
+- **CA Peñarol** : (2) Peñarol • Club Atlético Peñarol => (3) Penarol† • CA Penarol† • Club Atletico Penarol†
+- **CA Cerro** : (2) Cerro • Club Atlético Cerro => (1) Club Atletico Cerro†
+- **Danubio FC** : (2) Danubio • Danubio Fútbol Club => (1) Danubio Futbol Club†
 - **El Tanque Sisley** : (1) Deportivo El Tanque Sisley
-- **Centro Atlético Fénix** : (1) Fénix
+- **Centro Atlético Fénix** : (1) Fénix => (2) Fenix† • Centro Atletico Fenix†
 - **CS Miramar Misiones** : (2) Miramar Misiones • Club Sportivo Miramar Misiones
-- **Montevideo Wanderers** : (3) Wanderers • Montevideo Wanderers FC • Montevideo Wanderers Fútbol Club
+- **Montevideo Wanderers** : (3) Wanderers • Montevideo Wanderers FC • Montevideo Wanderers Fútbol Club => (1) Montevideo Wanderers Futbol Club†
 - **Racing CM** : (2) Racing • Racing Club de Montevideo
-- **CA Rentistas** : (2) Rentistas • Club Atlético Rentistas
-- **CA River Plate** : (2) River Plate • Club Atlético River Plate
-- **Juventud de Las Piedras** : (2) Juventud • Club Atlético Juventud de Las Piedras
-- **Cerro Largo** : (2) Cerro Largo FC • Cerro Largo Fútbol Club
-- **Sud América** : (2) I.A.S.A • Institución Atlética Sud América
+- **CA Rentistas** : (2) Rentistas • Club Atlético Rentistas => (1) Club Atletico Rentistas†
+- **CA River Plate** : (2) River Plate • Club Atlético River Plate => (1) Club Atletico River Plate†
+- **Juventud de Las Piedras** : (2) Juventud • Club Atlético Juventud de Las Piedras => (1) Club Atletico Juventud de Las Piedras†
+- **Cerro Largo** : (2) Cerro Largo FC • Cerro Largo Fútbol Club => (1) Cerro Largo Futbol Club†
+- **Sud América** : (2) I.A.S.A • Institución Atlética Sud América => (2) Sud America† • Institucion Atletica Sud America†
 
 
 
@@ -23,10 +23,10 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **é**  **ñ**  **ó**  **ú** 
-  - **é** (233 / 00e9)×11 => **?**
-  - **ñ** (241 / 00f1)×3 => **?**
-  - **ó** (243 / 00f3)×1 => **?**
-  - **ú** (250 / 00fa)×4 => **?**
+  - **é** (233 / 00e9)×11 => e
+  - **ñ** (241 / 00f1)×3 => n
+  - **ó** (243 / 00f3)×1 => o
+  - **ú** (250 / 00fa)×4 => u
 
 
 

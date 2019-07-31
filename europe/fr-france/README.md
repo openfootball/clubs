@@ -13,18 +13,18 @@
 - **Olympique Lyonnais** : (2) Lyon • Olympique Lyon
 - **Olympique de Marseille** : (2) Marseille • Olympique Marseille
 - **FC Metz** : (2) Metz • Football Club de Metz
-- **Montpellier HSC** : (4) Montpellier • HSC Montpellier • Montpellier Hérault SC • Montpellier-Herault Sports Club
+- **Montpellier HSC** : (4) Montpellier • HSC Montpellier • Montpellier Hérault SC • Montpellier-Herault Sports Club => (1) Montpellier Herault SC†
 - **FC Nantes** : (2) Nantes • Football Club de Nantes
 - **OGC Nice** : (2) Nice • Olympique Gymnaste Club Nice Côte d'Azur
 - **Stade Rennais FC** : (2) Rennes • Stade Rennais Football Club
-- **AS Saint-Étienne** : (4) St Etienne • St-Étienne • AS Saint-Etienne • Association Sportive de Saint-Étienne Loire
+- **AS Saint-Étienne** : (4) St Etienne • St-Étienne • AS Saint-Etienne • Association Sportive de Saint-Étienne Loire => (3) St-Etienne† • AS Saint-Etienne† • Association Sportive de Saint-Etienne Loire†
 - **RC Strasbourg** : (1) Strasbourg
 - **Toulouse FC** : (2) Toulouse • Toulouse Football Club
-- **ES Troyes AC** : (3) Troyes • ESTAC Troyes • Espérance Sportive Troyes Aube Champagne
+- **ES Troyes AC** : (3) Troyes • ESTAC Troyes • Espérance Sportive Troyes Aube Champagne => (1) Esperance Sportive Troyes Aube Champagne†
 - **Stade de Reims** : (2) Reims • Stade Reims
 - **Nîmes Olympique** : (1) Nimes
 - **AC Ajaccio** : (2) Ajaccio • Athletic Club Ajaccien
-- **GFC Ajaccio** : (2) Ajaccio GFCO • Gazélec Football Club Ajaccio
+- **GFC Ajaccio** : (2) Ajaccio GFCO • Gazélec Football Club Ajaccio => (1) Gazelec Football Club Ajaccio†
 - **AJ Auxerre** : (2) Auxerre • Association de la Jeunesse Auxerroise
 - **Bourg-en-Bresse 01** : (1) Bourg Peronnas
 - **Stade Brestois 29** : (2) Brest • Stade Brestois
@@ -35,9 +35,9 @@
 - **FC Lorient** : (2) Lorient • Football Club Lorient-Bretagne Sud
 - **AS Nancy Lorraine** : (3) Nancy • AS Nancy-Lorraine • Association Sportive Nancy-Lorraine
 - **Chamois Niortais FC** : (3) Niort • Chamois Niortais • Chamois Niortais Football Club
-- **US Orléans** : (2) Orleans • Union sportive Orléans Loiret football
-- **US Quevilly-Rouen Métropole** : (2) Quevilly Rouen • Quevilly-Rouen
-- **FC Sochaux-Montbéliard** : (2) Sochaux • Football Club de Sochaux-Montbéliard
+- **US Orléans** : (2) Orleans • Union sportive Orléans Loiret football => (2) US Orleans† • Union sportive Orleans Loiret football†
+- **US Quevilly-Rouen Métropole** : (2) Quevilly Rouen • Quevilly-Rouen => (1) US Quevilly-Rouen Metropole†
+- **FC Sochaux-Montbéliard** : (2) Sochaux • Football Club de Sochaux-Montbéliard => (2) FC Sochaux-Montbeliard† • Football Club de Sochaux-Montbeliard†
 - **Tours FC** : (2) Tours • Tours Football Club
 - **Valenciennes FC** : (2) Valenciennes • Valenciennes Football Club
 - **AC Arles-Avignon** : (3) Arles • AC Arles Avignon • Athletic Club Arles-Avignon
@@ -48,9 +48,9 @@
 - **US Boulogne** : (1) Boulogne
 - **AS Cannes** : (1) Cannes
 - **FCO Charleville** : (1) Charleville
-- **US Créteil** : (3) Creteil • US Créteil-Lusitanos • Union Sportive Créteil-Lusitanos
-- **SAS Épinal** : (1) Epinal
-- **Évian TG FC** : (4) Evian Thonon Gaillard • Évian Thonon Gaillard FC • Évian Thonon-Gaillard FC • Evian Thonon Gaillard Football Club
+- **US Créteil** : (3) Creteil • US Créteil-Lusitanos • Union Sportive Créteil-Lusitanos => (3) US Creteil† • US Creteil-Lusitanos† • Union Sportive Creteil-Lusitanos†
+- **SAS Épinal** : (1) Epinal => (1) SAS Epinal†
+- **Évian TG FC** : (4) Evian Thonon Gaillard • Évian Thonon Gaillard FC • Évian Thonon-Gaillard FC • Evian Thonon Gaillard Football Club => (3) Evian TG FC† • Evian Thonon Gaillard FC† • Evian Thonon-Gaillard FC†
 - **Grenoble Foot 38** : (1) Grenoble
 - **FC Gueugnon** : (1) Gueugnon
 - **FC Istres** : (1) Istres
@@ -76,11 +76,11 @@
 Alphabet
 
 - **Alphabet Specials** (7):  **É**  **â**  **ç**  **è**  **é**  **î**  **ô** 
-  - **É** (201 / 00c9)×7 => **?**
+  - **É** (201 / 00c9)×7 => E
   - **â** (226 / 00e2)×2 => **?**
   - **ç** (231 / 00e7)×2 => **?**
   - **è** (232 / 00e8)×1 => **?**
-  - **é** (233 / 00e9)×11 => **?**
+  - **é** (233 / 00e9)×11 => e
   - **î** (238 / 00ee)×1 => **?**
   - **ô** (244 / 00f4)×2 => **?**
 

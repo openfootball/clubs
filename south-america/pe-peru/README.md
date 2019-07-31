@@ -4,8 +4,8 @@
 - **Sporting Cristal** : (1) Club Sporting Cristal
 - **Juan Aurich** : (1) Club Juan Aurich S.A
 - **Sport Huancayo**
-- **Real Garcilaso** : (1) Asociación Civil Real Atlético Garcilaso
-- **Universidad César Vallejo** : (1) Club Deportivo Universidad César Vallejo
+- **Real Garcilaso** : (1) Asociación Civil Real Atlético Garcilaso => (1) Asociacion Civil Real Atletico Garcilaso†
+- **Universidad César Vallejo** : (1) Club Deportivo Universidad César Vallejo => (2) Universidad Cesar Vallejo† • Club Deportivo Universidad Cesar Vallejo†
 
 
 
@@ -13,8 +13,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **é**  **ó** 
-  - **é** (233 / 00e9)×3 => **?**
-  - **ó** (243 / 00f3)×1 => **?**
+  - **é** (233 / 00e9)×3 => e
+  - **ó** (243 / 00f3)×1 => o
 
 
 

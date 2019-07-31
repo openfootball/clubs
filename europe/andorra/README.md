@@ -1,6 +1,6 @@
 5 clubs
 
-- **UE Sant Julià** : (1) Sant Julià
+- **UE Sant Julià** : (1) Sant Julià => (2) Sant Julia† • UE Sant Julia†
 - **FC Santa Coloma**
 - **UE Santa Coloma**
 - **FC Lusitans**
@@ -12,7 +12,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **à** 
-  - **à** (224 / 00e0)×2 => **?**
+  - **à** (224 / 00e0)×2 => a
 
 
 

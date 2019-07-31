@@ -22,7 +22,7 @@
 - **KV Oostende** : (3) Oostende • K.V. Oostende • Koninklijke Voetbalclub Oostende
 - **SV Zulte Waregem** : (4) Waregem • Zulte Waregem • S.V. Zulte Waregem • Sportvereniging Zulte Waregem
 - **Sporting Charleroi** : (4) Charleroi • R. Charleroi SC • Sporting de Charleroi • Royal Charleroi Sporting Club
-- **Royal Excel Mouscron** : (5) Mouscron • Mouscron-Peruwelz • Mouscron-Péruwelz • R. Mouscron-Péruwelz • Royal Mouscron-Péruwelz
+- **Royal Excel Mouscron** : (5) Mouscron • Mouscron-Peruwelz • Mouscron-Péruwelz • R. Mouscron-Péruwelz • Royal Mouscron-Péruwelz => (3) Mouscron-Peruwelz† • R. Mouscron-Peruwelz† • Royal Mouscron-Peruwelz†
 - **RAEC Mons** : (1) Bergen
 - **KAS Eupen** : (1) Eupen
 - **Standard Liège** : (5) Standard • Standard Liege • Standard de Liège • R. Standard de Liège • Royal Standard de Liège
@@ -30,7 +30,7 @@
 - **KRC Harelbeke** : (1) Harelbeke
 - **K Heusden-Zolder** : (1) Heusden Zolder
 - **KFC Lommel SK** : (1) Lommel
-- **RAA Louviéroise** : (1) Louvieroise
+- **RAA Louviéroise** : (1) Louvieroise => (1) RAA Louvieroise†
 - **KSV Roeselare** : (1) Roeselare
 - **RFC Seraing** : (1) Seraing
 - **AFC Tubize** : (1) Tubize
@@ -43,7 +43,7 @@ Alphabet
 
 - **Alphabet Specials** (2):  **è**  **é** 
   - **è** (232 / 00e8)×4 => **?**
-  - **é** (233 / 00e9)×4 => **?**
+  - **é** (233 / 00e9)×4 => e
 
 
 

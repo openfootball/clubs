@@ -9,7 +9,7 @@
 - **Yokohama F. Marinos** : (2) Yokohama • Yokohama M.
 - **Kawasaki Frontale**
 - **Nagoya Grampus** : (1) Nagoya
-- **Júbilo Iwata** : (1) Iwata
+- **Júbilo Iwata** : (1) Iwata => (1) Jubilo Iwata†
 - **Urawa Red Diamonds** : (1) Urawa
 - **Kashiwa Reysol** : (1) Kashiwa
 - **Shimizu S-Pulse** : (1) Shimizu
@@ -34,7 +34,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ú** 
-  - **ú** (250 / 00fa)×1 => **?**
+  - **ú** (250 / 00fa)×1 => u
 
 
 
