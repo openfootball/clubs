@@ -4,82 +4,82 @@
 
 == Comunidad de Madrid ==
 
-Atlético Madrid,    Madrid › Comunidad de Madrid   ## use Atlético de Madrid - why? why not?
-  | Atlético | Ath Madrid | Atletico Madrid | Club Atlético de Madrid
+Atlético Madrid,    Madrid    ## use Atlético de Madrid - why? why not?
+  | Atlético | Atlético de Madrid | Club Atlético de Madrid | Ath Madrid [en]
 Atlético Madrid B,  Madrid › Comunidad de Madrid
-  | Ath Madrid B
+  | Ath Madrid B [en]
 
-Real Madrid CF,   Madrid › Comunidad de Madrid
-  | Real Madrid | R. Madrid | Real Madrid Club de Fútbol    ## add Madrid ?
-Real Madrid CF B, Madrid › Comunidad de Madrid
-  | Real Madrid B
+Real Madrid,   Madrid 
+  | R. Madrid | Real Madrid CF | Real Madrid Club de Fútbol    ## add Madrid ?
+Real Madrid B, Madrid › Comunidad de Madrid
+  | Real Madrid CF B
 
-Getafe CF,      Madrid › Comunidad de Madrid    # Getafe - city in madrid metro area
-  | Getafe | Getafe C.F. | Getafe Club de Fútbol
+Getafe CF,      Madrid    # Getafe - city in madrid metro area
+  | Getafe  | Getafe Club de Fútbol
 Rayo Vallecano, Madrid › Comunidad de Madrid
   | Rayo | Vallecano | Rayo Vallecano de Madrid
 
-AD Alcorcón, Alcorcón › Comunidad de Madrid   ## use Madrid (Alcorcón) - why? why not?
-  | Alcorcon | Alcorcón| Agrupación Deportiva Alcorcón
+AD Alcorcón, Alcorcón  ## use Madrid (Alcorcón) - why? why not?
+  | Alcorcón| Agrupación Deportiva Alcorcón
 
 
 == Andalucía ==
 
-Málaga CF,   Málaga › Andalucía
-  | Malaga | Málaga | Málaga C.F. | CF Málaga | FC Málaga
-Málaga CF B, Málaga › Andalucía
-  | Malaga B
+Málaga CF,   Málaga 
+  | Málaga | CF Málaga | FC Málaga
+Málaga CF B, Málaga 
+  | Málaga B
 
-Sevilla FC,   Sevilla › Andalucía
-  | Sevilla | Sevilla F.C. | Sevilla Fútbol Club
-Sevilla FC B, Sevilla › Andalucía
+Sevilla FC,   Sevilla 
+  | Sevilla  | Sevilla Fútbol Club
+Sevilla FC B, Sevilla 
   | Sevilla B
 
-Real Betis, Sevilla › Andalucía
+Real Betis, Sevilla 
   | Betis | Betis Sevilla | Real Betis Sevilla | Real Betis Balompié
 
-Algeciras CF,     Algeciras › Andalucía
+Algeciras CF,     Algeciras 
   | Algeciras
-UD Almería,       Almería   › Andalucía
-  | Almeria | Almería | U.D. Almería | Unión Deportiva Almería
-Cádiz CF,         Cádiz     › Andalucía
-  | Cadiz
-Córdoba CF,       Córdoba   › Andalucía
-  | Cordoba | Córdoba | Córdoba Club de Fútbol
-Écija Balompié,   Écija     › Andalucía
-  | Ecija
-Real Jaén CF,     Jaén      › Andalucía
-  | Jaen | Jaén | Real Jaén Club de Fútbol
+UD Almería,       Almería   
+  | Almería | Unión Deportiva Almería
+Cádiz CF,         Cádiz     
+  | Cádiz
+Córdoba CF,       Córdoba  
+  | Córdoba | Córdoba Club de Fútbol
+Écija Balompié,   Écija     
+  | Écija
+Real Jaén CF,     Jaén     
+  | Jaén | Real Jaén Club de Fútbol
 
 ## note: different from Granada 74 <=> Granda (CF) !!!
 ##   see https://es.wikipedia.org/wiki/Granada_74_Club_de_Fútbol
-Granada CF, Granada › Andalucía
-  | Granada | Granada C.F. | Granada Club de Fútbol
-Granada 74, Granada › Andalucía
+Granada CF, Granada 
+  | Granada  | Granada Club de Fútbol
+Granada 74, Granada 
 
 
 == Cataluña ==
 
-FC Barcelona,   Barcelona › Cataluña
-  | Barcelona | F.C. Barcelona | Fútbol Club Barcelona
-FC Barcelona B, Barcelona › Cataluña
+FC Barcelona,   Barcelona
+  | Barcelona  | Fútbol Club Barcelona
+FC Barcelona B, Barcelona 
   | Barcelona B | Fútbol Club Barcelona B
 
-RCD Español, Barcelona › Cataluña
-  | Espanol  | Espanyol | RCD Espanyol| R.C.D. Espanyol | Espanyol Barcelona
-  | Real CD Espanyol | Real Club Deportivo Espanyol | Real Club Deportivo Español
+RCD Espanyol, Barcelona 
+  | Espanyol | Espanyol Barcelona
+  | Real CD Espanyol | Real Club Deportivo Espanyol 
+  | Español | Real Club Deportivo Español
 
-
-Gimnàstic Tarragona, Tarragona › Cataluña
-  | Gimnastic
-Girona FC,           Gerona    › Cataluña
+Gimnàstic Tarragona, Tarragona 
+  | Gimnàstic
+Girona FC,           Gerona 
   | Girona | Girona Futbol Club
 
 
 == Galicia ==
 
 RCD La Coruña,  La Coruña  › Galicia
-  | La Coruna | RC Deportivo de La Coruña | Real Club Deportivo La Coruña
+  | La Coruña | RC Deportivo de La Coruña | Real Club Deportivo La Coruña
   | Deportivo | Deportivo La Coruña | Deportivo de La Coruña | Deportivo da Coruña
 RC Celta Vigo,  Vigo       › Galicia        ## use R. C. Celta de Vigo - why? why not?
   | Celta | Celta Vigo | R.C. Celta | Real Club Celta Vigo | Real Club Celta de Vigo
@@ -100,17 +100,17 @@ Levante UD,     Valencia › Comunidad Valenciana
 Alicante CF,    Alicante › Comunidad Valenciana
   | Alicante
 Hércules CF,    Alicante › Comunidad Valenciana
-  | Hercules | Hércules | Hércules de Alicante Club de Fútbol
+  | Hércules | Hércules de Alicante Club de Fútbol
 
 CD Alcoyano,    Alcoy    › Comunidad Valenciana
   | Alcoyano
 Elche CF,       Elche    › Comunidad Valenciana
-  | Elche | Elche C.F.
+  | Elche
 CD Castellón,   Castellón de la Plana › Comunidad Valenciana
-  | Castellon
+  | Castellón
 
 Villarreal CF,    Villarreal › Comunidad Valenciana    ## fix typo Villareal
-  | Villarreal | Villareal | Villarreal C.F.
+  | Villarreal | Villareal
 Villarreal CF B,  Villarreal › Comunidad Valenciana
   | Villarreal B
 
@@ -120,7 +120,7 @@ Villarreal CF B,  Villarreal › Comunidad Valenciana
 Real Sociedad,     San Sebastián › País Vasco
   | Sociedad | R. Sociedad | Real Sociedad San Sebastián | Real Sociedad de Fútbol
 Deportivo Alavés,  Vitoria       › País Vasco
-  | Alaves | Alavés | CD Alavés
+  | Alavés | CD Alavés
 SD Eibar,          Eibar         › País Vasco
   | Eibar | Sociedad Deportiva Eibar
 
@@ -133,7 +133,7 @@ Athletic Club Bilbao B, Bilbao › País Vasco
 == Asturias ==
 
 Sporting Gijón, Gijón › Asturias
-  | Sporting | Sp Gijon | Real Sporting | Real Sporting de Gijón
+  | Sporting | Sp Gijón | Real Sporting | Real Sporting de Gijón
   | Sporting de Gijón
 
 
@@ -152,7 +152,7 @@ CD Badajoz,      Badajoz      › Extremadura
 CF Extremadura,  Almendralejo › Extremadura
   | Extremadura
 CP Mérida,       Mérida       › Extremadura
-  | Merida
+  | Mérida
 
 
 == Castilla y León ==
@@ -160,7 +160,7 @@ CP Mérida,       Mérida       › Extremadura
 Burgos CF,   Burgos          › Castilla y León
   | Burgos
 CD Mirandés, Miranda de Ebro › Castilla y León
-  | Mirandes | Mirandés | Club Deportivo Mirandés
+ | Mirandés | Club Deportivo Mirandés
 
 
 == Región de Murcia ==
@@ -205,15 +205,15 @@ CA Osasuna,   ##  city:pamplona
 
 
 CD Leganés
-  | Leganes | Club Deportivo Leganés
+  | Leganés | Club Deportivo Leganés
 Cultural Leonesa
   | Leonesa
 UE Lleida
-  | Lerida | Lleida
+  | Lleida | Lerida 
 UE Llagostera
   | Llagostera
 CD Logroñés
-  | Logrones
+  | Logroñés
 Lorca FC
   | Lorca
 CD Lugo
@@ -234,7 +234,7 @@ Pontevedra CF
   | Pontevedra
 
 Real Unión
-  | Real Union
+
 Recreativo Huelva
   | Recreativo | RC Recreativo de Huelva |Real Club Recreativo de Huelva
 CF Reus
