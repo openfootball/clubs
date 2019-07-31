@@ -93,9 +93,9 @@ Racing Ferrol,  Ferrol
 == Comunidad Valenciana ==
 
 Valencia CF,    Valencia
-  | Valencia | Valencia C.F.| Valencia Club de Fútbol | FC Valencia | CF Valencia
+  | Valencia | Valencia Club de Fútbol | FC Valencia | CF Valencia
 Levante UD,     Valencia 
-  | Levante | Levante U.D. | Levante Unión Deportiva
+  | Levante | Levante Unión Deportiva
 
 Alicante CF,    Alicante 
   | Alicante
