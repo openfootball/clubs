@@ -89,8 +89,8 @@
 
 Alphabet
 
-- **Alphabet Specials** (1):  **à** (224)
-  - **à** (224 / 00e0): 3×
+- **Alphabet Specials** (1):  **à** 
+  - **à** (224 / 00e0)×3 => **?**
 
 
 

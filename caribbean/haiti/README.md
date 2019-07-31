@@ -8,8 +8,8 @@
 
 Alphabet
 
-- **Alphabet Specials** (1):  **ê** (234)
-  - **ê** (234 / 00ea): 3×
+- **Alphabet Specials** (1):  **ê** 
+  - **ê** (234 / 00ea)×3 => **?**
 
 
 

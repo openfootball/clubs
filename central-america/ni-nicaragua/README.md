@@ -7,8 +7,8 @@
 
 Alphabet
 
-- **Alphabet Specials** (1):  **í** (237)
-  - **í** (237 / 00ed): 3×
+- **Alphabet Specials** (1):  **í** 
+  - **í** (237 / 00ed)×3 => **?**
 
 
 

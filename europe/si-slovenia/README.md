@@ -15,8 +15,8 @@
 
 Alphabet
 
-- **Alphabet Specials** (1):  **ž** (382)
-  - **ž** (382 / 017e): 2×
+- **Alphabet Specials** (1):  **ž** 
+  - **ž** (382 / 017e)×2 => **?**
 
 
 

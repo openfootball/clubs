@@ -6,7 +6,7 @@
 - **FCI Tallinn**
 - **JK Trans Narva** : (1) JK Narva Trans
 - **JK Nõmme Kalju** : (2) Kalju • Nõmme Kalju FC
-- **JK Sillamäe Kalev** (2†) JK Sillamae Kalev • JK Sillamaee Kalev
+- **JK Sillamäe Kalev** => (2) JK Sillamae Kalev† • JK Sillamaee Kalev†
 - **FC Santos Tartu**
 
 
@@ -14,9 +14,9 @@
 
 Alphabet
 
-- **Alphabet Specials** (2):  **ä** (228) **õ** (245)
-  - **ä** (228 / 00e4): 1×
-  - **õ** (245 / 00f5): 2×
+- **Alphabet Specials** (2):  **ä**  **õ** 
+  - **ä** (228 / 00e4)×1 => a•ae
+  - **õ** (245 / 00f5)×2 => **?**
 
 
 

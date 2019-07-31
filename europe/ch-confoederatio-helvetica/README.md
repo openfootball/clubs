@@ -1,7 +1,7 @@
 22 clubs
 
-- **Grasshoppers Zürich** : (3) Grasshoppers • Grasshoppers Zurich • Grasshopper Club Zürich (4†) Grasshoppers Zurich • Grasshoppers Zuerich • Grasshopper Club Zurich • Grasshopper Club Zuerich
-- **FC Zürich** : (3) Zürich • Zurich • FC Zurich (4†) Zurich • Zuerich • FC Zurich • FC Zuerich
+- **Grasshoppers Zürich** : (3) Grasshoppers • Grasshoppers Zurich • Grasshopper Club Zürich => (4) Grasshoppers Zurich† • Grasshoppers Zuerich† • Grasshopper Club Zurich† • Grasshopper Club Zuerich†
+- **FC Zürich** : (3) Zürich • Zurich • FC Zurich => (4) Zurich† • Zuerich† • FC Zurich† • FC Zuerich†
 - **FC Winterthur** : (1) Winterthur
 - **FC Basel** : (2) Basel • FC Basel 1893
 - **BSC Young Boys** : (4) BSC YB • Young Boys • Young Boys Bern • Berner Sport Club Young Boys
@@ -28,10 +28,10 @@
 
 Alphabet
 
-- **Alphabet Specials** (3):  **â** (226) **è** (232) **ü** (252)
-  - **â** (226 / 00e2): 2×
-  - **è** (232 / 00e8): 2×
-  - **ü** (252 / 00fc): 4×
+- **Alphabet Specials** (3):  **â**  **è**  **ü** 
+  - **â** (226 / 00e2)×2 => **?**
+  - **è** (232 / 00e8)×2 => **?**
+  - **ü** (252 / 00fc)×4 => u•ue
 
 
 

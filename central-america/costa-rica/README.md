@@ -9,8 +9,8 @@
 
 Alphabet
 
-- **Alphabet Specials** (1):  **é** (233)
-  - **é** (233 / 00e9): 2×
+- **Alphabet Specials** (1):  **é** 
+  - **é** (233 / 00e9)×2 => **?**
 
 
 

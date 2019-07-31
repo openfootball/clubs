@@ -5,7 +5,7 @@
 - **Valur Reykjavík** : (1) Valur
 - **Víkingur Reykjavík**
 - **ÍA Akranes** : (2) IA Akranes • Íþróttabandalag Akraness
-- **FH Hafnarfjördur** : (1) FH (2†) FH Hafnarfjordur • FH Hafnarfjoerdur
+- **FH Hafnarfjördur** : (1) FH => (2) FH Hafnarfjordur† • FH Hafnarfjoerdur†
 - **Breidablik**
 - **Thór Akureyri**
 - **ÍBV Vestmannaeyjar** : (1) ÍBV
@@ -18,13 +18,13 @@
 
 Alphabet
 
-- **Alphabet Specials** (6):  **Í** (205) **é** (233) **í** (237) **ó** (243) **ö** (246) **þ** (254)
-  - **Í** (205 / 00cd): 4×
-  - **é** (233 / 00e9): 1×
-  - **í** (237 / 00ed): 7×
-  - **ó** (243 / 00f3): 2×
-  - **ö** (246 / 00f6): 1×
-  - **þ** (254 / 00fe): 1×
+- **Alphabet Specials** (6):  **Í**  **é**  **í**  **ó**  **ö**  **þ** 
+  - **Í** (205 / 00cd)×4 => **?**
+  - **é** (233 / 00e9)×1 => **?**
+  - **í** (237 / 00ed)×7 => **?**
+  - **ó** (243 / 00f3)×2 => **?**
+  - **ö** (246 / 00f6)×1 => o•oe
+  - **þ** (254 / 00fe)×1 => **?**
 
 
 
