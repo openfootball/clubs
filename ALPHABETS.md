@@ -7,9 +7,9 @@ Alphabet
   - **É** (201 / 00c9)×8 => **?** (2):  **es_(Spain)**×1 **fr (France)**×7
   - **Í** (205 / 00cd)×7 => **?** (2):  **fo (Faroe Islands)**×3 **is (Iceland)**×4
   - **Ö** (214 / 00d6)×6 => O•Oe (1):  **se (Sweden)**×6
-  - **Ú** (218 / 00da)×2 => **?** (1):  **hu (Hungary)**×2
-  - **ß** (223 / 00df)×12 => ss (1):  **de (Germany)**×12
-  - **à** (224 / 00e0)×6 => **?** (3):  **ad (Andorra)**×2 **es (Spain)**×1 **it (Italy)**×3
+  - **Ú** (218 / 00da)×2 => **?** (1):  [**hu (Hungary)**]×2
+  - **ß** (223 / 00df)×12 => ss (1):  [**de (Germany)**]×12
+  - **à** (224 / 00e0)×6 => **?** (3):  [**ad (Andorra)**]×2 **es (Spain)**×1 **it (Italy)**×3
   - **á** (225 / 00e1)×50 => **?** (9):  **sv (El Salvador)**×4 **cz (Czech Republic)**×5 **es (Spain)**×8 **hu (Hungary)**×6 **sk (Slovakia)**×4 **ar (Argentina)**×5 **br (Brazil)**×11 **co (Colombia)**×1 **ve (Venezuela)**×6
   - **â** (226 / 00e2)×12 => **?** (3):  **ch (Switzerland)**×2 **fr (France)**×2 **ro (Romania)**×8
   - **ã** (227 / 00e3)×16 => **?** (2):  **pt (Portugal)**×6 **br (Brazil)**×10
