@@ -5,43 +5,45 @@
 == Bayern ==
 
 Bayern München, 1900,     München
-  | Bayern | Bayern Munich | Bayern Muenchen | FC Bayern München
+  | Bayern | FC Bayern München 
+  | Bayern Munich [en]
 TSV 1860 München, 1860, München
-  | Munich 1860 | TSV 1860 Muenchen | TSV München 1860 | 1860 München
+  | 1860 München | TSV München 1860  
+  | Munich 1860 [en]
 
 1. FC Nürnberg, 1900, Nürnberg       ### todo: always map Nurnberg to 1. FC Nürnberg ?!
-  | Nurnberg | Nürnberg | 1. FC Nuernberg
-Greuther Fürth, 1903, Fürth
-  | Greuther Furth | SpVgg Greuther Fuerth | SpVgg Greuther Fürth
-FC Augsburg, 1907,    Augsburg › Bayern
+  | Nürnberg
+SpVgg Greuther Fürth, 1903, Fürth
+  | Greuther Fürth
+FC Augsburg, 1907,    Augsburg
   | Augsburg
-SpVgg Unterhaching,  Unterhaching › Bayern
-  | Unterhaching | U'haching
-FC Ingolstadt 04, 2004,    Ingolstadt › Bayern               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
+SpVgg Unterhaching,  Unterhaching
+  | U'haching | Unterhaching 
+FC Ingolstadt 04, 2004,    Ingolstadt               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
   | Ingolstadt
-SSV Jahn Regensburg,   Regensburg › Bayern
+SSV Jahn Regensburg,   Regensburg
   | Regensburg | Jahn Regensburg
-1. FC Schweinfurt 05,  Schweinfurt › Bayern
+1. FC Schweinfurt 05,  Schweinfurt
   | Schweinfurt
-Würzburger Kickers, 1907,     Würzburg › Bayern
-  | Wurzburger Kickers | FC Würzburger Kickers
-Wacker Burghausen,  Burghausen › Bayern
+Würzburger Kickers, 1907,     Würzburg
+  | FC Würzburger Kickers
+Wacker Burghausen,  Burghausen
   | Burghausen
 
-TSV 1860 Rosenheim,  Rosenheim › Bayern
+TSV 1860 Rosenheim,  Rosenheim
 FV Illertissen
 
 
 == Nordrhein-Westfalen ==
 
 1. FC Köln, 1948,   Köln
-  | FC Koln | 1. FC Koeln   ## Köln
+  | FC Köln      ## add Köln too - why? why not?
 Fortuna Köln, 1948,  Köln
-  | F Koln  | Fortuna Koeln | SC Fortuna Köln | Sportclub Fortuna Köln
+  | F Köln | SC Fortuna Köln | Sportclub Fortuna Köln
 FC Viktoria Köln,    Köln
 
 Fortuna Düsseldorf,  1895, Düsseldorf › Nordrhein-Westfalen
-  | Dusseldorf | F. Düsseldorf | Fortuna Dusseldorf | Fortuna Duesseldorf
+  | F. Düsseldorf
 
 Borussia Dortmund, 1909,    Dortmund      › Nordrhein-Westfalen
   | Dortmund | Bor. Dortmund | BV 09 Borussia Dortmund
@@ -54,7 +56,7 @@ Bayer 04 Leverkusen, 1904,    Leverkusen    › Nordrhein-Westfalen
 MSV Duisburg,         Duisburg      › Nordrhein-Westfalen     ## until 1965/66 Meidericher SV -- was Meidericher SV in 1963/64
   | Duisburg | Meidericher SV
 Bor. Mönchengladbach, 1900, Mönchengladbach › Nordrhein-Westfalen
-  | Mönchengladbach | M'Gladbach | M'gladbach | Borussia Monchengladbach
+  | Mönchengladbach | M'Gladbach | Borussia Monchengladbach
   | Borussia M'gladbach | Bor. M'gladbach | Bor. Moenchengladbach | Borussia Mönchengladbach
   | VfL Borussia Mönchengladbach
 
@@ -65,11 +67,10 @@ SG Wattenscheid 09,    Bochum (Wattenscheid) › Nordrhein-Westfalen   ## Bochum
 
 Arminia Bielefeld,  1905,    Bielefeld     › Nordrhein-Westfalen
   | Bielefeld | DSC Arminia Bielefeld
-Preussen Münster,     Münster       › Nordrhein-Westfalen
-  | Münster | Preussen Muenster | Preußen Münster | SC Preußen 06
+Preußen Münster,     Münster       › Nordrhein-Westfalen
+  | Münster | SC Preußen 06
 
 Gütersloh,            Gütersloh     › Nordrhein-Westfalen
-  | Gutersloh
 KFC Uerdingen,        Krefeld       › Nordrhein-Westfalen     ## bis 1995 FC Bayer 05 Uerdingen
   | Uerdingen | KFC Uerdingen 05 | Bayer 05 Uerdingen | FC Bayer 05 Uerdingen | Bayer Uerdingen
 # note:  now called KFC Uerdingen 05 (was Bayer 05 Uerdingen)
