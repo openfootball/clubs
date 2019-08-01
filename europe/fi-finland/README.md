@@ -37,10 +37,11 @@ Alphabet
 
 Duplicates
 
-- **Myllykosken Pallo -47**, Myllykoski (1):
-  - mypa (2): MYPA • MyPa
+- **Myllykosken Pallo -47**, Myllykoski (2):
+  - `myllykoskenpallo47` (2): Myllykosken Pallo -47 • Myllykosken Pallo-47
+  - `mypa` (2): MYPA • MyPa
 - **JJK Jyväskylä**, Jyväskylä (1):
-  - jjk jyvaskyla (2): **JJK Jyvaskyla** • **JJK Jyvaskyla**
+  - `jjkjyvaskyla` (2): **JJK Jyvaskyla** • **JJK Jyvaskyla**
 
 
 

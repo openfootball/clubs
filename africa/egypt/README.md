@@ -32,7 +32,7 @@ Alphabet
 Duplicates
 
 - **Al Ahly**, Cairo (1):
-  - al ahly (2): Al Ahly • Al-Ahly
+  - `alahly` (2): Al Ahly • Al-Ahly
 
 
 

@@ -47,7 +47,7 @@ Alphabet
 Duplicates
 
 - **Górnik Zabrze**, Zabrze (1):
-  - gornik zabrze (2): **Gornik Zabrze** • **Gornik Zabrze**
+  - `gornikzabrze` (2): **Gornik Zabrze** • **Gornik Zabrze**
 
 
 

@@ -31,7 +31,7 @@ Alphabet
 Duplicates
 
 - **Red Star Belgrade**, Belgrade (1):
-  - crvena zvezda (2): Crvena Zvezda • Crvena zvezda
+  - `crvenazvezda` (2): Crvena Zvezda • Crvena zvezda
 
 
 

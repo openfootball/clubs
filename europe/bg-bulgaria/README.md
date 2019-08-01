@@ -27,8 +27,8 @@ Alphabet
 Duplicates
 
 - **PFC CSKA Sofia**, Sofia (2):
-  - pfc cska sofia (2): PFC CSKA Sofia • PFC CSKA-Sofia
-  - cska sofia (2): CSKA Sofia • CSKA-Sofia
+  - `pfccskasofia` (2): PFC CSKA Sofia • PFC CSKA-Sofia
+  - `cskasofia` (2): CSKA Sofia • CSKA-Sofia
 
 
 

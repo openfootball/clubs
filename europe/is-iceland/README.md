@@ -32,7 +32,7 @@ Alphabet
 Duplicates
 
 - **KR Reykjavík**, Reykjavík (1):
-  - kr reykjavik (2): **KR Reykjavik** • **KR Reykjavik**
+  - `krreykjavik` (2): **KR Reykjavik** • **KR Reykjavik**
 
 
 

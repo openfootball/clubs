@@ -25,7 +25,7 @@ Alphabet
 Duplicates
 
 - **FC BATE Borisov**, Barysaw (1):
-  - bate borisov (2): BATE Borisov • Bate Borisov
+  - `bateborisov` (2): BATE Borisov • Bate Borisov
 
 
 

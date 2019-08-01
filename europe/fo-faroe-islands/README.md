@@ -25,7 +25,7 @@ Alphabet
 Duplicates
 
 - **Víkingur**,  (1):
-  - vikingur (2): **Vikingur** • **Vikingur**
+  - `vikingur` (2): **Vikingur** • **Vikingur**
 
 
 

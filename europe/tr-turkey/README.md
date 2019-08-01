@@ -1,11 +1,11 @@
 26 clubs
 
-- **Fenerbahçe İstanbul SK** : (5) Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club => (2) Fenerbahçe Spor Kulubu† • Fenerbahçe Spor Kuluebue†
+- **Fenerbahçe İstanbul SK** : (5) Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club => (6) Fenerbahce† • Fenerbahce SK† • Fenerbahce Spor Kulubu† • Fenerbahce İstanbul SK† • Fenerbahce Sports Club† • Fenerbahçe Spor Kuluebue†
 - **Galatasaray İstanbul AŞ** : (3) Galatasaray • Galatasaray AŞ • Galatasaray Istanbul
 - **Beşiktaş İstanbul JK** : (3) Besiktas • Beşiktaş • Beşiktaş JK
 - **Kasımpaşa İstanbul SK** : (1) Kasimpasa
 - **İstanbul Başakşehir** : (1) Buyuksehyr
-- **Gençlerbirliği Ankara SK** : (1) Genclerbirligi
+- **Gençlerbirliği Ankara SK** : (1) Genclerbirligi => (1) Genclerbirliği Ankara SK†
 - **Osmanlıspor Ankara** : (2) Osmanlispor • Osmanlıspor
 - **Kardemir Karabükspor** : (2) Karabükspor • Karabukspor => (4) Karabukspor† • Karabuekspor† • Kardemir Karabukspor† • Kardemir Karabuekspor†
 - **Elazığspor** : (1) Elazigspor
@@ -34,7 +34,7 @@ Alphabet
 
 - **Alphabet Specials** (9):  **Ç**  **ç**  **ö**  **ü**  **ğ**  **İ**  **ı**  **Ş**  **ş** 
   - **Ç** (199 / 00c7)×1 => **?**
-  - **ç** (231 / 00e7)×6 => **?**
+  - **ç** (231 / 00e7)×6 => c
   - **ö** (246 / 00f6)×1 => o•oe
   - **ü** (252 / 00fc)×4 => u•ue
   - **ğ** (287 / 011f)×2 => **?**
@@ -48,8 +48,10 @@ Alphabet
 
 Duplicates
 
+- **Fenerbahçe İstanbul SK**, İstanbul (1):
+  - `fenerbahce` (2): **Fenerbahce** • **Fenerbahce**
 - **Kardemir Karabükspor**, Karabük (1):
-  - karabukspor (2): **Karabukspor** • **Karabukspor**
+  - `karabukspor` (2): **Karabukspor** • **Karabukspor**
 
 
 

@@ -33,7 +33,7 @@ Alphabet
 Duplicates
 
 - **Ferencvárosi TC**, Budapest (1):
-  - ferencvaros (2): **Ferencvaros** • **Ferencvaros**
+  - `ferencvaros` (2): **Ferencvaros** • **Ferencvaros**
 
 
 

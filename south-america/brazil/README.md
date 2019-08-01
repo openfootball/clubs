@@ -1,13 +1,13 @@
 43 clubs
 
-- **Corinthians SP** : (4) Corinthians • Corinthians São Paulo • SC Corinthians Paulista • Sport Club Corinthians Paulista
-- **São Paulo FC** : (5) Sao Paulo • São Paulo • São Paulo SP • FC São Paulo • São Paulo Futebol Clube
-- **Palmeiras SP** : (4) Palmeiras • SE Palmeiras • SE Palmeiras São Paulo • Sociedade Esportiva Palmeiras
+- **Corinthians SP** : (4) Corinthians • Corinthians São Paulo • SC Corinthians Paulista • Sport Club Corinthians Paulista => (1) Corinthians Sao Paulo†
+- **São Paulo FC** : (5) Sao Paulo • São Paulo • São Paulo SP • FC São Paulo • São Paulo Futebol Clube => (5) Sao Paulo† • Sao Paulo FC† • Sao Paulo SP† • FC Sao Paulo† • Sao Paulo Futebol Clube†
+- **Palmeiras SP** : (4) Palmeiras • SE Palmeiras • SE Palmeiras São Paulo • Sociedade Esportiva Palmeiras => (1) SE Palmeiras Sao Paulo†
 - **Santos SP** : (4) Santos • Santos FC • FC Santos • Santos Futebol Clube
-- **Ponte Preta** : (2) AA Ponte Preta • Associação Atlética Ponte Preta => (1) Associação Atletica Ponte Preta†
+- **Ponte Preta** : (2) AA Ponte Preta • Associação Atlética Ponte Preta => (1) Associacao Atletica Ponte Preta†
 - **CA Bragantino** : (2) Bragantino • Clube Atlético Bragantino => (1) Clube Atletico Bragantino†
 - **Oeste SP** : (3) Oeste • Oeste FC • Oeste Futebol Clube
-- **Portuguesa** : (1) Associação Portuguesa de Desportos
+- **Portuguesa** : (1) Associação Portuguesa de Desportos => (1) Associacao Portuguesa de Desportos†
 - **Botafogo RJ** : (3) Botafogo • Botafogo FR • Botafogo de Futebol e Regatas
 - **Flamengo RJ** : (4) Flamengo • CR Flamengo • Flamengo Rio de Janeiro • Clube de Regatas do Flamengo
 - **Fluminense RJ** : (4) Fluminense • Fluminense FC • Fluminense Football Club • Fluminense Rio de Janeiro
@@ -16,15 +16,15 @@
 - **Cruzeiro MG** : (4) Cruzeiro • Cruzeiro EC • Cruzeiro Esporte Clube • Cruzeiro Belo Horizonte
 - **América MG** : (4) America MG • América FC • América Mineiro • América Futebol Clube => (4) America MG† • America FC† • America Mineiro† • America Futebol Clube†
 - **Tupi MG** : (3) Tupi • Tupi FC • Tupi Football Club
-- **Grêmio RS** : (5) Gremio • Grêmio • Grêmio FBPA • Grêmio Porto Alegre • Grêmio Foot-Ball Porto Alegrense
+- **Grêmio RS** : (5) Gremio • Grêmio • Grêmio FBPA • Grêmio Porto Alegre • Grêmio Foot-Ball Porto Alegrense => (5) Gremio† • Gremio RS† • Gremio FBPA† • Gremio Porto Alegre† • Gremio Foot-Ball Porto Alegrense†
 - **Internacional Porto Alegre** : (4) Internacional • SC Internacional • Internacional RS • Sport Club Internacional
-- **Brasil RS** : (4) GE Brasil • Brasil de Pelotas • Grêmio Esportivo Brasil • Grêmio Esportivo Brasil de Pelotas
+- **Brasil RS** : (4) GE Brasil • Brasil de Pelotas • Grêmio Esportivo Brasil • Grêmio Esportivo Brasil de Pelotas => (2) Gremio Esportivo Brasil† • Gremio Esportivo Brasil de Pelotas†
 - **Atlético PR** : (6) Atletico-PR • Atlético/PR • Athletico-PR • Atlético Paranaense • C Atlético Paranaense • Clube Atlético Paranaense => (5) Atletico PR† • Atletico/PR† • Atletico Paranaense† • C Atletico Paranaense† • Clube Atletico Paranaense†
 - **Coritiba PR** : (3) Coritiba • Coritiba FC • Coritiba Football Club
 - **Londrina EC** : (2) Londrina • Londrina Esporte Clube
 - **Paraná Clube** : (1) Parana => (1) Parana Clube†
 - **Figueirense** : (3) Figueirense FC • Figueirense SC • Figueirense Futebol Clube
-- **Chapecoense** : (2) Chapecoense-SC • Associação Chapecoense de Futebol
+- **Chapecoense** : (2) Chapecoense-SC • Associação Chapecoense de Futebol => (1) Associacao Chapecoense de Futebol†
 - **Criciúma EC** : (3) Criciuma • Criciúma • Criciúma Esporte Clube => (3) Criciuma† • Criciuma EC† • Criciuma Esporte Clube†
 - **Avaí FC** : (2) Avai • Avaí Futebol Clube => (2) Avai FC† • Avai Futebol Clube†
 - **Joinvile EC** : (3) Joinvile • Joinville • Joinville Esporte Clube
@@ -42,7 +42,7 @@
 - **CRB AL** : (2) CRB • Clube de Regatas Brasil
 - **CSA** : (1) Centro Sportivo Alagoano
 - **Luverdense EC** : (2) Luverdense • Luverdense Esporte Clube
-- **Sampaio Corrêa FC** : (2) Sampaio Corrêa • Sampaio Corrêa Futebol Clube
+- **Sampaio Corrêa FC** : (2) Sampaio Corrêa • Sampaio Corrêa Futebol Clube => (3) Sampaio Correa† • Sampaio Correa FC† • Sampaio Correa Futebol Clube†
 
 
 
@@ -51,10 +51,10 @@ Alphabet
 
 - **Alphabet Specials** (8):  **á**  **ã**  **ç**  **é**  **ê**  **í**  **ó**  **ú** 
   - **á** (225 / 00e1)×11 => a
-  - **ã** (227 / 00e3)×10 => **?**
-  - **ç** (231 / 00e7)×3 => **?**
+  - **ã** (227 / 00e3)×10 => a
+  - **ç** (231 / 00e7)×3 => c
   - **é** (233 / 00e9)×18 => e
-  - **ê** (234 / 00ea)×10 => **?**
+  - **ê** (234 / 00ea)×10 => e
   - **í** (237 / 00ed)×2 => i
   - **ó** (243 / 00f3)×3 => o
   - **ú** (250 / 00fa)×3 => u
@@ -64,24 +64,30 @@ Alphabet
 
 Duplicates
 
-- **Atlético MG**, Belo Horizonte (1):
-  - atletico mg (2): Atletico-MG • Atletico MG
+- **São Paulo FC**, São Paulo (1):
+  - `saopaulo` (2): **Sao Paulo** • **Sao Paulo**
+- **Atlético MG**, Belo Horizonte (2):
+  - `atléticomg` (2): Atlético MG • Atlético/MG
+  - `atleticomg` (3): Atletico-MG • Atletico MG • Atletico/MG
 - **América MG**, Belo Horizonte (1):
-  - america mg (2): **America MG** • **America MG**
-- **Atlético PR**, Curitiba (1):
-  - atletico pr (2): Atletico-PR • Atletico PR
+  - `americamg` (2): **America MG** • **America MG**
+- **Grêmio RS**, Porto Alegre (1):
+  - `gremio` (2): **Gremio** • **Gremio**
+- **Atlético PR**, Curitiba (2):
+  - `atléticopr` (2): Atlético PR • Atlético/PR
+  - `atleticopr` (3): Atletico-PR • Atletico PR • Atletico/PR
 - **Criciúma EC**, Criciúma (1):
-  - criciuma (2): **Criciuma** • **Criciuma**
+  - `criciuma` (2): **Criciuma** • **Criciuma**
 - **Náutico PE**, Recife (1):
-  - nautico (2): **Nautico** • **Nautico**
+  - `nautico` (2): **Nautico** • **Nautico**
 - **EC Vitória**, Salvador (1):
-  - vitoria (2): **Vitoria** • **Vitoria**
+  - `vitoria` (2): **Vitoria** • **Vitoria**
 - **Goiás EC**, Goiânia (1):
-  - goias (2): **Goias** • **Goias**
+  - `goias` (2): **Goias** • **Goias**
 - **Atlético GO**, Goiânia (1):
-  - atletico go (2): **Atletico GO** • **Atletico GO**
+  - `atleticogo` (2): **Atletico GO** • **Atletico GO**
 - **Ceára SC**, Fortaleza (1):
-  - ceara (2): **Ceara** • **Ceara**
+  - `ceara` (2): **Ceara** • **Ceara**
 
 
 

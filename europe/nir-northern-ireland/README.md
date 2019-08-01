@@ -24,7 +24,7 @@ Alphabet
 Duplicates
 
 - **Derry City F.C.**, Derry (1):
-  - derry city fc (2): Derry City F.C. • Derry City FC
+  - `derrycityfc` (2): Derry City F.C. • Derry City FC
 
 
 

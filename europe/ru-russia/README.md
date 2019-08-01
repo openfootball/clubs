@@ -54,6 +54,14 @@ Alphabet
 
 Duplicates
 
+- **FC Sibir Novosibirsk**, Novosibirsk (1):
+  - `sibir` (2): Sibir' • Sibir
+- **PFC Krylya Sovetov Samara**, Samara (1):
+  - `kryliasovetov` (2): Krylia Sovetov • Kryl'ia Sovetov
+- **FC Kuban**, Krasnodar (1):
+  - `kuban` (2): Kuban • Kuban'
+- **Tom Tomsk**, Tomsk (1):
+  - `tom` (2): Tom • Tom'
 
 
 

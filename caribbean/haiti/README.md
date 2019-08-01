@@ -1,6 +1,6 @@
 2 clubs
 
-- **Tempête FC** : (2) Tempête • Tempête Football Club
+- **Tempête FC** : (2) Tempête • Tempête Football Club => (3) Tempete† • Tempete FC† • Tempete Football Club†
 - **Valencia FC** : (1) Valencia
 
 
@@ -9,7 +9,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ê** 
-  - **ê** (234 / 00ea)×3 => **?**
+  - **ê** (234 / 00ea)×3 => e
 
 
 

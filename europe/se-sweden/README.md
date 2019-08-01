@@ -47,18 +47,18 @@ Alphabet
 Duplicates
 
 - **IFK Göteborg**, Göteborg (2):
-  - goteborg (2): **Goteborg** • **Goteborg**
-  - ifk goteborg (2): **IFK Goteborg** • **IFK Goteborg**
+  - `goteborg` (2): **Goteborg** • **Goteborg**
+  - `ifkgoteborg` (2): **IFK Goteborg** • **IFK Goteborg**
 - **GAIS**, Göteborg (1):
-  - gais (2): GAIS • Gais
+  - `gais` (2): GAIS • Gais
 - **BK Häcken**, Göteborg (1):
-  - hacken (2): **Hacken** • **Hacken**
+  - `hacken` (2): **Hacken** • **Hacken**
 - **Malmö FF**, Malmö (1):
-  - malmo ff (2): **Malmo FF** • **Malmo FF**
+  - `malmoff` (2): **Malmo FF** • **Malmo FF**
 - **Örebro SK**, Örebro (1):
-  - orebro (2): **Orebro** • **Orebro**
+  - `orebro` (2): **Orebro** • **Orebro**
 - **IFK Norrköping**, Norrköping (1):
-  - norrkoping (2): **Norrkoping** • **Norrkoping**
+  - `norrkoping` (2): **Norrkoping** • **Norrkoping**
 
 
 

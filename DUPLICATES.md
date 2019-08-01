@@ -3,7 +3,7 @@ Duplicates
 **Egypt (eg)**
 
 - **Al Ahly**, Cairo (1):
-  - al ahly (2): Al Ahly • Al-Ahly
+  - `alahly` (2): Al Ahly • Al-Ahly
 
 
 
@@ -17,7 +17,7 @@ Duplicates
 **China (cn)**
 
 - **Tianjin TEDA**, Tianjin (1):
-  - tianjin teda (2): Tianjin TEDA • Tianjin Teda
+  - `tianjinteda` (2): Tianjin TEDA • Tianjin Teda
 
 
 
@@ -36,6 +36,8 @@ Duplicates
 
 **South Korea (kr)**
 
+- **Busan I'Park**, city:busan (1):
+  - `busanipark` (2): Busan I'Park • Busan IPark
 
 
 
@@ -133,23 +135,25 @@ Duplicates
 **Belgium (be)**
 
 - **RSC Anderlecht**, Brussels (1):
-  - rsc anderlecht (2): RSC Anderlecht • R.S.C. Anderlecht
+  - `rscanderlecht` (2): RSC Anderlecht • R.S.C. Anderlecht
 - **KVC Westerlo**, Westerlo (1):
-  - kvc westerlo (2): KVC Westerlo • K.V.C. Westerlo
+  - `kvcwesterlo` (2): KVC Westerlo • K.V.C. Westerlo
 - **KRC Genk**, Genk (1):
-  - krc genk (2): KRC Genk • K.R.C. Genk
+  - `krcgenk` (2): KRC Genk • K.R.C. Genk
 - **KAA Gent**, Gent (1):
-  - kaa gent (2): KAA Gent • K.A.A. Gent
+  - `kaagent` (2): KAA Gent • K.A.A. Gent
 - **Cercle Brugge**, Brugge (1):
-  - cercle brugge ksv (2): Cercle Brugge KSV • Cercle Brugge K.S.V.
+  - `cerclebruggeksv` (2): Cercle Brugge KSV • Cercle Brugge K.S.V.
 - **KV Kortrijk**, Kortrijk (1):
-  - kv kortrijk (2): KV Kortrijk • K.V. Kortrijk
+  - `kvkortrijk` (2): KV Kortrijk • K.V. Kortrijk
 - **KV Oostende**, Oostende (1):
-  - kv oostende (2): KV Oostende • K.V. Oostende
+  - `kvoostende` (2): KV Oostende • K.V. Oostende
 - **SV Zulte Waregem**, Waregem (1):
-  - sv zulte waregem (2): SV Zulte Waregem • S.V. Zulte Waregem
+  - `svzultewaregem` (2): SV Zulte Waregem • S.V. Zulte Waregem
 - **Royal Excel Mouscron**, Mouscron (1):
-  - mouscron peruwelz (2): **Mouscron-Peruwelz** • **Mouscron-Peruwelz**
+  - `mouscronperuwelz` (2): **Mouscron-Peruwelz** • **Mouscron-Peruwelz**
+- **Standard Liège**, Liège (1):
+  - `standardliege` (2): **Standard Liege** • **Standard Liege**
 
 
 
@@ -157,8 +161,8 @@ Duplicates
 **Bulgaria (bg)**
 
 - **PFC CSKA Sofia**, Sofia (2):
-  - pfc cska sofia (2): PFC CSKA Sofia • PFC CSKA-Sofia
-  - cska sofia (2): CSKA Sofia • CSKA-Sofia
+  - `pfccskasofia` (2): PFC CSKA Sofia • PFC CSKA-Sofia
+  - `cskasofia` (2): CSKA Sofia • CSKA-Sofia
 
 
 
@@ -166,7 +170,7 @@ Duplicates
 **Belarus (by)**
 
 - **FC BATE Borisov**, Barysaw (1):
-  - bate borisov (2): BATE Borisov • Bate Borisov
+  - `bateborisov` (2): BATE Borisov • Bate Borisov
 
 
 
@@ -174,10 +178,10 @@ Duplicates
 **Switzerland (ch)**
 
 - **Grasshoppers Zürich**, Zürich (1):
-  - grasshoppers zurich (2): **Grasshoppers Zurich** • **Grasshoppers Zurich**
+  - `grasshopperszurich` (2): **Grasshoppers Zurich** • **Grasshoppers Zurich**
 - **FC Zürich**, Zürich (2):
-  - zurich (2): **Zurich** • **Zurich**
-  - fc zurich (2): **FC Zurich** • **FC Zurich**
+  - `zurich` (2): **Zurich** • **Zurich**
+  - `fczurich` (2): **FC Zurich** • **FC Zurich**
 
 
 
@@ -196,45 +200,20 @@ Duplicates
 
 **Germany (de)**
 
-- **Bayern München**, München (1):
-  - bayern muenchen (2): **Bayern Muenchen** • **Bayern Muenchen**
-- **TSV 1860 München**, München (1):
-  - tsv 1860 muenchen (2): **TSV 1860 Muenchen** • **TSV 1860 Muenchen**
-- **1. FC Nürnberg**, Nürnberg (2):
-  - nurnberg (2): **Nurnberg** • **Nurnberg**
-  - 1 fc nuernberg (2): **1. FC Nuernberg** • **1. FC Nuernberg**
-- **Greuther Fürth**, Fürth (2):
-  - greuther furth (2): **Greuther Furth** • **Greuther Furth**
-  - spvgg greuther fuerth (2): **SpVgg Greuther Fuerth** • **SpVgg Greuther Fuerth**
-- **Würzburger Kickers**, Würzburg (1):
-  - wurzburger kickers (2): **Wurzburger Kickers** • **Wurzburger Kickers**
-- **1. FC Köln**, Köln (1):
-  - 1 fc koeln (2): **1. FC Koeln** • **1. FC Koeln**
-- **Fortuna Köln**, Köln (1):
-  - fortuna koeln (2): **Fortuna Koeln** • **Fortuna Koeln**
-- **Fortuna Düsseldorf**, Düsseldorf (2):
-  - fortuna dusseldorf (2): **Fortuna Dusseldorf** • **Fortuna Dusseldorf**
-  - fortuna duesseldorf (2): **Fortuna Duesseldorf** • **Fortuna Duesseldorf**
-- **Bor. Mönchengladbach**, Mönchengladbach (3):
-  - m'gladbach (2): M'Gladbach • M'gladbach
-  - borussia monchengladbach (2): **Borussia Monchengladbach** • **Borussia Monchengladbach**
-  - bor moenchengladbach (2): **Bor. Moenchengladbach** • **Bor. Moenchengladbach**
-- **Preussen Münster**, Münster (2):
-  - preussen muenster (3): **Preussen Muenster** • **Preussen Muenster** • **Preussen Muenster**
-  - preussen munster (2): **Preussen Munster** • **Preussen Munster**
-- **Gütersloh**, Gütersloh (1):
-  - gutersloh (2): **Gutersloh** • **Gutersloh**
+- **Bor. Mönchengladbach**, Mönchengladbach (2):
+  - `borussiamonchengladbach` (2): **Borussia Monchengladbach** • **Borussia Monchengladbach**
+  - `bormoenchengladbach` (2): **Bor. Moenchengladbach** • **Bor. Moenchengladbach**
 - **Rot-Weiß Oberhausen**, Oberhausen (1):
-  - rot weiss oberhausen (2): **Rot-Weiss Oberhausen** • **Rot-Weiss Oberhausen**
+  - `rotweissoberhausen` (2): **Rot-Weiss Oberhausen** • **Rot-Weiss Oberhausen**
 - **1. FC Saarbrücken**, Saarbrücken (2):
-  - saarbrucken (2): **Saarbrucken** • **Saarbrucken**
-  - 1 fc saarbruecken (2): **1. FC Saarbruecken** • **1. FC Saarbruecken**
+  - `saarbrucken` (2): **Saarbrucken** • **Saarbrucken**
+  - `1fcsaarbruecken` (2): **1. FC Saarbruecken** • **1. FC Saarbruecken**
 - **Blau-Weiß 90 Berlin (-1992)**, Berlin (1):
-  - blau weiss 90 berlin (2): **Blau-Weiss 90 Berlin** • **Blau-Weiss 90 Berlin**
+  - `blauweiss90berlin` (2): **Blau-Weiss 90 Berlin** • **Blau-Weiss 90 Berlin**
 - **FC St. Pauli**, Hamburg (1):
-  - st pauli (2): St Pauli • St. Pauli
+  - `stpauli` (2): St Pauli • St. Pauli
 - **VfB Lübeck**, Lübeck (1):
-  - lubeck (2): **Lubeck** • **Lubeck**
+  - `lubeck` (2): **Lubeck** • **Lubeck**
 
 
 
@@ -254,18 +233,18 @@ Duplicates
 **England (eng)**
 
 - **Manchester United FC**, Manchester (2):
-  - man united (2): Man United • Man. United
-  - manchester u (2): Manchester U. • Manchester U
+  - `manunited` (2): Man United • Man. United
+  - `manchesteru` (2): Manchester U. • Manchester U
 - **Manchester City FC**, Manchester (1):
-  - man city (2): Man City • Man. City
+  - `mancity` (2): Man City • Man. City
 - **Norwich City FC**, Norwich (1):
-  - norwich city fc (2): Norwich City FC • Norwich City F.C.
+  - `norwichcityfc` (2): Norwich City FC • Norwich City F.C.
 - **Watford FC**, Watford (1):
-  - watford fc (2): Watford FC • Watford F.C.
+  - `watfordfc` (2): Watford FC • Watford F.C.
 - **AFC Bournemouth**, Bournemouth (1):
-  - afc bournemouth (2): AFC Bournemouth • A.F.C. Bournemouth
+  - `afcbournemouth` (2): AFC Bournemouth • A.F.C. Bournemouth
 - **Accrington FC (1878-1896)**, Accrington (1):
-  - accrington fc (2): Accrington FC (1878-1896) • Accrington F.C.
+  - `accringtonfc` (2): Accrington FC (1878-1896) • Accrington F.C.
 
 
 
@@ -278,10 +257,11 @@ Duplicates
 
 **Finland (fi)**
 
-- **Myllykosken Pallo -47**, Myllykoski (1):
-  - mypa (2): MYPA • MyPa
+- **Myllykosken Pallo -47**, Myllykoski (2):
+  - `myllykoskenpallo47` (2): Myllykosken Pallo -47 • Myllykosken Pallo-47
+  - `mypa` (2): MYPA • MyPa
 - **JJK Jyväskylä**, Jyväskylä (1):
-  - jjk jyvaskyla (2): **JJK Jyvaskyla** • **JJK Jyvaskyla**
+  - `jjkjyvaskyla` (2): **JJK Jyvaskyla** • **JJK Jyvaskyla**
 
 
 
@@ -289,7 +269,7 @@ Duplicates
 **Faroe Islands (fo)**
 
 - **Víkingur**,  (1):
-  - vikingur (2): **Vikingur** • **Vikingur**
+  - `vikingur` (2): **Vikingur** • **Vikingur**
 
 
 
@@ -297,19 +277,19 @@ Duplicates
 **France (fr)**
 
 - **Paris Saint-Germain**, Paris (1):
-  - paris saint germain (2): Paris Saint-Germain • Paris Saint Germain
+  - `parissaintgermain` (2): Paris Saint-Germain • Paris Saint Germain
 - **AS Saint-Étienne**, Saint-Étienne (2):
-  - st etienne (2): St Etienne • St-Etienne
-  - as saint etienne (2): **AS Saint-Etienne** • **AS Saint-Etienne**
+  - `stetienne` (2): St Etienne • St-Etienne
+  - `assaintetienne` (2): **AS Saint-Etienne** • **AS Saint-Etienne**
 - **AS Nancy Lorraine**, Nancy (1):
-  - as nancy lorraine (2): AS Nancy Lorraine • AS Nancy-Lorraine
+  - `asnancylorraine` (2): AS Nancy Lorraine • AS Nancy-Lorraine
 - **US Quevilly-Rouen Métropole**, Petit-Quevilly (1):
-  - quevilly rouen (2): Quevilly Rouen • Quevilly-Rouen
+  - `quevillyrouen` (2): Quevilly Rouen • Quevilly-Rouen
 - **AC Arles-Avignon**, Avignon (1):
-  - ac arles avignon (2): AC Arles-Avignon • AC Arles Avignon
+  - `acarlesavignon` (2): AC Arles-Avignon • AC Arles Avignon
 - **Évian TG FC**, Thonon-les-Bains (2):
-  - Évian thonon gaillard fc (2): Évian Thonon Gaillard FC • Évian Thonon-Gaillard FC
-  - evian thonon gaillard fc (2): Evian Thonon Gaillard FC • Evian Thonon-Gaillard FC
+  - `Évianthonongaillardfc` (2): Évian Thonon Gaillard FC • Évian Thonon-Gaillard FC
+  - `evianthonongaillardfc` (2): Evian Thonon Gaillard FC • Evian Thonon-Gaillard FC
 
 
 
@@ -341,7 +321,7 @@ Duplicates
 **Hungary (hu)**
 
 - **Ferencvárosi TC**, Budapest (1):
-  - ferencvaros (2): **Ferencvaros** • **Ferencvaros**
+  - `ferencvaros` (2): **Ferencvaros** • **Ferencvaros**
 
 
 
@@ -349,17 +329,19 @@ Duplicates
 **Ireland (ie)**
 
 - **Bohemian F.C.**, Dublin (1):
-  - bohemian fc (2): Bohemian F.C. • Bohemian FC
+  - `bohemianfc` (2): Bohemian F.C. • Bohemian FC
+- **St Patrick's Athletic F.C.**, Dublin (1):
+  - `stpatricks` (2): St Patrick's • St. Patricks
 - **University College Dublin A.F.C.**, Dublin (1):
-  - university college dublin afc (2): University College Dublin A.F.C. • University College Dublin AFC
+  - `universitycollegedublinafc` (2): University College Dublin A.F.C. • University College Dublin AFC
 - **Cork City F.C.**, Cork (1):
-  - cork city fc (2): Cork City F.C. • Cork City FC
+  - `corkcityfc` (2): Cork City F.C. • Cork City FC
 - **Drogheda United F.C.**, Drogheda (1):
-  - drogheda united fc (2): Drogheda United F.C. • Drogheda United FC
+  - `droghedaunitedfc` (2): Drogheda United F.C. • Drogheda United FC
 - **Dundalk F.C.**, Dundalk (1):
-  - dundalk fc (2): Dundalk F.C. • Dundalk FC
+  - `dundalkfc` (2): Dundalk F.C. • Dundalk FC
 - **Sligo Rovers F.C.**, Sligo (1):
-  - sligo rovers fc (2): Sligo Rovers F.C. • Sligo Rovers FC
+  - `sligoroversfc` (2): Sligo Rovers F.C. • Sligo Rovers FC
 
 
 
@@ -367,7 +349,7 @@ Duplicates
 **Iceland (is)**
 
 - **KR Reykjavík**, Reykjavík (1):
-  - kr reykjavik (2): **KR Reykjavik** • **KR Reykjavik**
+  - `krreykjavik` (2): **KR Reykjavik** • **KR Reykjavik**
 
 
 
@@ -375,13 +357,13 @@ Duplicates
 **Italy (it)**
 
 - **Hellas Verona FC**, Verona (1):
-  - hellas verona fc (2): Hellas Verona FC • Hellas Verona F.C.
+  - `hellasveronafc` (2): Hellas Verona FC • Hellas Verona F.C.
 - **US Sassuolo Calcio**, Sassuolo (1):
-  - us sassuolo calcio (2): US Sassuolo Calcio • U.S. Sassuolo Calcio
+  - `ussassuolocalcio` (2): US Sassuolo Calcio • U.S. Sassuolo Calcio
 - **SPAL**, Ferrara (1):
-  - spal (2): SPAL • Spal
+  - `spal` (2): SPAL • Spal
 - **AS Livorno Calcio**, Livorno (1):
-  - as livorno calcio (2): AS Livorno Calcio • A.S. Livorno Calcio
+  - `aslivornocalcio` (2): AS Livorno Calcio • A.S. Livorno Calcio
 
 
 
@@ -449,7 +431,7 @@ Duplicates
 **Northern Ireland (nir)**
 
 - **Derry City F.C.**, Derry (1):
-  - derry city fc (2): Derry City F.C. • Derry City FC
+  - `derrycityfc` (2): Derry City F.C. • Derry City FC
 
 
 
@@ -457,7 +439,7 @@ Duplicates
 **Netherlands (nl)**
 
 - **VVV Venlo**, Venlo (1):
-  - vvv venlo (2): VVV Venlo • VVV-Venlo
+  - `vvvvenlo` (2): VVV Venlo • VVV-Venlo
 
 
 
@@ -471,7 +453,7 @@ Duplicates
 **Poland (pl)**
 
 - **Górnik Zabrze**, Zabrze (1):
-  - gornik zabrze (2): **Gornik Zabrze** • **Gornik Zabrze**
+  - `gornikzabrze` (2): **Gornik Zabrze** • **Gornik Zabrze**
 
 
 
@@ -479,9 +461,11 @@ Duplicates
 **Portugal (pt)**
 
 - **CS Marítimo**, Funchal (1):
-  - maritimo (2): **Maritimo** • **Maritimo**
+  - `maritimo` (2): **Maritimo** • **Maritimo**
+- **FC Paços de Ferreira**, Paços de Ferreira (1):
+  - `pacosferreira` (2): **Pacos Ferreira** • **Pacos Ferreira**
 - **Académica de Coimbra**, Coimbra (1):
-  - academica (2): **Academica** • **Academica**
+  - `academica` (2): **Academica** • **Academica**
 
 
 
@@ -489,7 +473,7 @@ Duplicates
 **Romania (ro)**
 
 - **U Cluj**, Cluj (1):
-  - u cluj (2): U Cluj • U. Cluj
+  - `ucluj` (2): U Cluj • U. Cluj
 
 
 
@@ -497,23 +481,33 @@ Duplicates
 **Serbia (rs)**
 
 - **Red Star Belgrade**, Belgrade (1):
-  - crvena zvezda (2): Crvena Zvezda • Crvena zvezda
+  - `crvenazvezda` (2): Crvena Zvezda • Crvena zvezda
 
 
 
 
 **Russia (ru)**
 
+- **FC Sibir Novosibirsk**, Novosibirsk (1):
+  - `sibir` (2): Sibir' • Sibir
+- **PFC Krylya Sovetov Samara**, Samara (1):
+  - `kryliasovetov` (2): Krylia Sovetov • Kryl'ia Sovetov
+- **FC Kuban**, Krasnodar (1):
+  - `kuban` (2): Kuban • Kuban'
+- **Tom Tomsk**, Tomsk (1):
+  - `tom` (2): Tom • Tom'
 
 
 
 
 **Scotland (sco)**
 
+- **Queen's Park**, Glasgow (1):
+  - `queenspark` (2): Queen's Park • Queens Park
 - **St Johnstone FC**, Perth (1):
-  - st johnstone (2): St Johnstone • St. Johnstone
+  - `stjohnstone` (2): St Johnstone • St. Johnstone
 - **Saint Mirren FC**, Paisley (1):
-  - st mirren (2): St Mirren • St. Mirren
+  - `stmirren` (2): St Mirren • St. Mirren
 
 
 
@@ -521,18 +515,18 @@ Duplicates
 **Sweden (se)**
 
 - **IFK Göteborg**, Göteborg (2):
-  - goteborg (2): **Goteborg** • **Goteborg**
-  - ifk goteborg (2): **IFK Goteborg** • **IFK Goteborg**
+  - `goteborg` (2): **Goteborg** • **Goteborg**
+  - `ifkgoteborg` (2): **IFK Goteborg** • **IFK Goteborg**
 - **GAIS**, Göteborg (1):
-  - gais (2): GAIS • Gais
+  - `gais` (2): GAIS • Gais
 - **BK Häcken**, Göteborg (1):
-  - hacken (2): **Hacken** • **Hacken**
+  - `hacken` (2): **Hacken** • **Hacken**
 - **Malmö FF**, Malmö (1):
-  - malmo ff (2): **Malmo FF** • **Malmo FF**
+  - `malmoff` (2): **Malmo FF** • **Malmo FF**
 - **Örebro SK**, Örebro (1):
-  - orebro (2): **Orebro** • **Orebro**
+  - `orebro` (2): **Orebro** • **Orebro**
 - **IFK Norrköping**, Norrköping (1):
-  - norrkoping (2): **Norrkoping** • **Norrkoping**
+  - `norrkoping` (2): **Norrkoping** • **Norrkoping**
 
 
 
@@ -551,14 +545,18 @@ Duplicates
 
 **San Marino (sm)**
 
+- **AC Juvenes-Dogana**,  (1):
+  - `acjuvenesdogana` (2): AC Juvenes-Dogana • AC Juvenes/Dogana
 
 
 
 
 **Turkey (tr)**
 
+- **Fenerbahçe İstanbul SK**, İstanbul (1):
+  - `fenerbahce` (2): **Fenerbahce** • **Fenerbahce**
 - **Kardemir Karabükspor**, Karabük (1):
-  - karabukspor (2): **Karabukspor** • **Karabukspor**
+  - `karabukspor` (2): **Karabukspor** • **Karabukspor**
 
 
 
@@ -590,9 +588,9 @@ Duplicates
 **Mexico (mx)**
 
 - **Club América**, Ciudad de México (1):
-  - club america (2): **Club America** • **Club America**
+  - `clubamerica` (2): **Club America** • **Club America**
 - **Club León**, León (1):
-  - club leon (2): **Club Leon** • **Club Leon**
+  - `clubleon` (2): **Club Leon** • **Club Leon**
 
 
 
@@ -600,7 +598,7 @@ Duplicates
 **United States (us)**
 
 - **D.C. United**, Washington (1):
-  - dc united (2): D.C. United • DC United
+  - `dcunited` (2): D.C. United • DC United
 
 
 
@@ -620,19 +618,21 @@ Duplicates
 **Argentina (ar)**
 
 - **Vélez Sarsfield**, Buenos Aires (1):
-  - velez sarsfield (2): **Velez Sarsfield** • **Velez Sarsfield**
+  - `velezsarsfield` (2): **Velez Sarsfield** • **Velez Sarsfield**
 - **Huracán**, Buenos Aires (1):
-  - huracan (2): **Huracan** • **Huracan**
+  - `huracan` (2): **Huracan** • **Huracan**
 - **CA Lanús**, Lanús (1):
-  - lanus (2): **Lanus** • **Lanus**
+  - `lanus` (2): **Lanus** • **Lanus**
 - **Estudiantes LP**, La Plata (1):
-  - estudiantes lp (2): Estudiantes LP • Estudiantes L.P.
+  - `estudianteslp` (2): Estudiantes LP • Estudiantes L.P.
 - **Olimpo Bahía Blanca**, Bahía Blanca (1):
-  - olimpo bahia blanca (2): **Olimpo Bahia Blanca** • **Olimpo Bahia Blanca**
+  - `olimpobahiablanca` (2): **Olimpo Bahia Blanca** • **Olimpo Bahia Blanca**
 - **Sarmiento Junín**, Junín (1):
-  - sarmiento junin (2): **Sarmiento Junin** • **Sarmiento Junin**
+  - `sarmientojunin` (2): **Sarmiento Junin** • **Sarmiento Junin**
 - **Colón Santa Fe**, Santa Fe (1):
-  - colon santa fe (2): Colon Santa FE • Colon Santa Fe
+  - `colonsantafe` (2): Colon Santa FE • Colon Santa Fe
+- **Newell's Old Boys**, Rosario (1):
+  - `newellsoldboys` (2): Newell's Old Boys • Newells Old Boys
 
 
 
@@ -645,24 +645,30 @@ Duplicates
 
 **Brazil (br)**
 
-- **Atlético MG**, Belo Horizonte (1):
-  - atletico mg (2): Atletico-MG • Atletico MG
+- **São Paulo FC**, São Paulo (1):
+  - `saopaulo` (2): **Sao Paulo** • **Sao Paulo**
+- **Atlético MG**, Belo Horizonte (2):
+  - `atléticomg` (2): Atlético MG • Atlético/MG
+  - `atleticomg` (3): Atletico-MG • Atletico MG • Atletico/MG
 - **América MG**, Belo Horizonte (1):
-  - america mg (2): **America MG** • **America MG**
-- **Atlético PR**, Curitiba (1):
-  - atletico pr (2): Atletico-PR • Atletico PR
+  - `americamg` (2): **America MG** • **America MG**
+- **Grêmio RS**, Porto Alegre (1):
+  - `gremio` (2): **Gremio** • **Gremio**
+- **Atlético PR**, Curitiba (2):
+  - `atléticopr` (2): Atlético PR • Atlético/PR
+  - `atleticopr` (3): Atletico-PR • Atletico PR • Atletico/PR
 - **Criciúma EC**, Criciúma (1):
-  - criciuma (2): **Criciuma** • **Criciuma**
+  - `criciuma` (2): **Criciuma** • **Criciuma**
 - **Náutico PE**, Recife (1):
-  - nautico (2): **Nautico** • **Nautico**
+  - `nautico` (2): **Nautico** • **Nautico**
 - **EC Vitória**, Salvador (1):
-  - vitoria (2): **Vitoria** • **Vitoria**
+  - `vitoria` (2): **Vitoria** • **Vitoria**
 - **Goiás EC**, Goiânia (1):
-  - goias (2): **Goias** • **Goias**
+  - `goias` (2): **Goias** • **Goias**
 - **Atlético GO**, Goiânia (1):
-  - atletico go (2): **Atletico GO** • **Atletico GO**
+  - `atleticogo` (2): **Atletico GO** • **Atletico GO**
 - **Ceára SC**, Fortaleza (1):
-  - ceara (2): **Ceara** • **Ceara**
+  - `ceara` (2): **Ceara** • **Ceara**
 
 
 

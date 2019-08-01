@@ -14,10 +14,10 @@
 - **FC Aarau** : (1) Aarau
 - **FC Wohlen** : (1) Wohlen
 - **FC Sion** : (1) Sion
-- **Xamax Neuchâtel** : (2) Xamax • Neuchâtel Xamax FCS
+- **Xamax Neuchâtel** : (2) Xamax • Neuchâtel Xamax FCS => (2) Xamax Neuchatel† • Neuchatel Xamax FCS†
 - **FC Lausanne** : (2) Lausanne • FC Lausanne-Sport
 - **FC Le Mont** : (1) FC Le Mont-sur-Lausanne,
-- **Servette FC** : (3) Servette • Servette Genève • Servette FC Genève
+- **Servette FC** : (3) Servette • Servette Genève • Servette FC Genève => (2) Servette Geneve† • Servette FC Geneve†
 - **FC Lugano** : (1) Lugano
 - **FC Chiasso** : (1) Chiasso
 - **FC Locarno** : (1) Locarno
@@ -29,8 +29,8 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **â**  **è**  **ü** 
-  - **â** (226 / 00e2)×2 => **?**
-  - **è** (232 / 00e8)×2 => **?**
+  - **â** (226 / 00e2)×2 => a
+  - **è** (232 / 00e8)×2 => e
   - **ü** (252 / 00fc)×4 => u•ue
 
 
@@ -39,10 +39,10 @@ Alphabet
 Duplicates
 
 - **Grasshoppers Zürich**, Zürich (1):
-  - grasshoppers zurich (2): **Grasshoppers Zurich** • **Grasshoppers Zurich**
+  - `grasshopperszurich` (2): **Grasshoppers Zurich** • **Grasshoppers Zurich**
 - **FC Zürich**, Zürich (2):
-  - zurich (2): **Zurich** • **Zurich**
-  - fc zurich (2): **FC Zurich** • **FC Zurich**
+  - `zurich` (2): **Zurich** • **Zurich**
+  - `fczurich` (2): **FC Zurich** • **FC Zurich**
 
 
 

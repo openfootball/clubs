@@ -55,19 +55,21 @@ Alphabet
 Duplicates
 
 - **Vélez Sarsfield**, Buenos Aires (1):
-  - velez sarsfield (2): **Velez Sarsfield** • **Velez Sarsfield**
+  - `velezsarsfield` (2): **Velez Sarsfield** • **Velez Sarsfield**
 - **Huracán**, Buenos Aires (1):
-  - huracan (2): **Huracan** • **Huracan**
+  - `huracan` (2): **Huracan** • **Huracan**
 - **CA Lanús**, Lanús (1):
-  - lanus (2): **Lanus** • **Lanus**
+  - `lanus` (2): **Lanus** • **Lanus**
 - **Estudiantes LP**, La Plata (1):
-  - estudiantes lp (2): Estudiantes LP • Estudiantes L.P.
+  - `estudianteslp` (2): Estudiantes LP • Estudiantes L.P.
 - **Olimpo Bahía Blanca**, Bahía Blanca (1):
-  - olimpo bahia blanca (2): **Olimpo Bahia Blanca** • **Olimpo Bahia Blanca**
+  - `olimpobahiablanca` (2): **Olimpo Bahia Blanca** • **Olimpo Bahia Blanca**
 - **Sarmiento Junín**, Junín (1):
-  - sarmiento junin (2): **Sarmiento Junin** • **Sarmiento Junin**
+  - `sarmientojunin` (2): **Sarmiento Junin** • **Sarmiento Junin**
 - **Colón Santa Fe**, Santa Fe (1):
-  - colon santa fe (2): Colon Santa FE • Colon Santa Fe
+  - `colonsantafe` (2): Colon Santa FE • Colon Santa Fe
+- **Newell's Old Boys**, Rosario (1):
+  - `newellsoldboys` (2): Newell's Old Boys • Newells Old Boys
 
 
 

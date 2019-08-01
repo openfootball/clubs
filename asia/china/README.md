@@ -39,7 +39,7 @@ Alphabet
 Duplicates
 
 - **Tianjin TEDA**, Tianjin (1):
-  - tianjin teda (2): Tianjin TEDA • Tianjin Teda
+  - `tianjinteda` (2): Tianjin TEDA • Tianjin Teda
 
 
 

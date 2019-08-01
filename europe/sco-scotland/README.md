@@ -57,10 +57,12 @@ Alphabet
 
 Duplicates
 
+- **Queen's Park**, Glasgow (1):
+  - `queenspark` (2): Queen's Park • Queens Park
 - **St Johnstone FC**, Perth (1):
-  - st johnstone (2): St Johnstone • St. Johnstone
+  - `stjohnstone` (2): St Johnstone • St. Johnstone
 - **Saint Mirren FC**, Paisley (1):
-  - st mirren (2): St Mirren • St. Mirren
+  - `stmirren` (2): St Mirren • St. Mirren
 
 
 

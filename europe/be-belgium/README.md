@@ -25,7 +25,7 @@
 - **Royal Excel Mouscron** : (5) Mouscron • Mouscron-Peruwelz • Mouscron-Péruwelz • R. Mouscron-Péruwelz • Royal Mouscron-Péruwelz => (3) Mouscron-Peruwelz† • R. Mouscron-Peruwelz† • Royal Mouscron-Peruwelz†
 - **RAEC Mons** : (1) Bergen
 - **KAS Eupen** : (1) Eupen
-- **Standard Liège** : (5) Standard • Standard Liege • Standard de Liège • R. Standard de Liège • Royal Standard de Liège
+- **Standard Liège** : (5) Standard • Standard Liege • Standard de Liège • R. Standard de Liège • Royal Standard de Liège => (4) Standard Liege† • Standard de Liege† • R. Standard de Liege† • Royal Standard de Liege†
 - **KFC Verbroedering Geel** : (1) Geel
 - **KRC Harelbeke** : (1) Harelbeke
 - **K Heusden-Zolder** : (1) Heusden Zolder
@@ -42,7 +42,7 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **è**  **é** 
-  - **è** (232 / 00e8)×4 => **?**
+  - **è** (232 / 00e8)×4 => e
   - **é** (233 / 00e9)×4 => e
 
 
@@ -51,23 +51,25 @@ Alphabet
 Duplicates
 
 - **RSC Anderlecht**, Brussels (1):
-  - rsc anderlecht (2): RSC Anderlecht • R.S.C. Anderlecht
+  - `rscanderlecht` (2): RSC Anderlecht • R.S.C. Anderlecht
 - **KVC Westerlo**, Westerlo (1):
-  - kvc westerlo (2): KVC Westerlo • K.V.C. Westerlo
+  - `kvcwesterlo` (2): KVC Westerlo • K.V.C. Westerlo
 - **KRC Genk**, Genk (1):
-  - krc genk (2): KRC Genk • K.R.C. Genk
+  - `krcgenk` (2): KRC Genk • K.R.C. Genk
 - **KAA Gent**, Gent (1):
-  - kaa gent (2): KAA Gent • K.A.A. Gent
+  - `kaagent` (2): KAA Gent • K.A.A. Gent
 - **Cercle Brugge**, Brugge (1):
-  - cercle brugge ksv (2): Cercle Brugge KSV • Cercle Brugge K.S.V.
+  - `cerclebruggeksv` (2): Cercle Brugge KSV • Cercle Brugge K.S.V.
 - **KV Kortrijk**, Kortrijk (1):
-  - kv kortrijk (2): KV Kortrijk • K.V. Kortrijk
+  - `kvkortrijk` (2): KV Kortrijk • K.V. Kortrijk
 - **KV Oostende**, Oostende (1):
-  - kv oostende (2): KV Oostende • K.V. Oostende
+  - `kvoostende` (2): KV Oostende • K.V. Oostende
 - **SV Zulte Waregem**, Waregem (1):
-  - sv zulte waregem (2): SV Zulte Waregem • S.V. Zulte Waregem
+  - `svzultewaregem` (2): SV Zulte Waregem • S.V. Zulte Waregem
 - **Royal Excel Mouscron**, Mouscron (1):
-  - mouscron peruwelz (2): **Mouscron-Peruwelz** • **Mouscron-Peruwelz**
+  - `mouscronperuwelz` (2): **Mouscron-Peruwelz** • **Mouscron-Peruwelz**
+- **Standard Liège**, Liège (1):
+  - `standardliege` (2): **Standard Liege** • **Standard Liege**
 
 
 
