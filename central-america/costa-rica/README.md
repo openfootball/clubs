@@ -2,7 +2,7 @@
 
 - **LD Alajuelense** : (1) Alajuelense
 - **CS Herediano** : (1) Herediano
-- **CS Cartaginés** : (1) Cartaginés => (2) Cartagines† • CS Cartagines†
+- **CS Cartaginés** : (1) Cartaginés ⇒ (2) Cartagines† • CS Cartagines†
 
 
 
@@ -10,7 +10,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **é** 
-  - **é** (233 / 00e9)×2 => e
+  - **é** (233 / 00e9)×2 ⇒ e
 
 
 

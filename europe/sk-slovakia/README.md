@@ -5,11 +5,11 @@
 - **FC Spartak Trnava** : (1) Spartak Trnava
 - **FK Senica** : (1) Senica
 - **MFK Košice** : (1) Košice
-- **Dukla Banská Bystrica** : (1) Banská Bystrica => (2) Banska Bystrica† • Dukla Banska Bystrica†
+- **Dukla Banská Bystrica** : (1) Banská Bystrica ⇒ (2) Banska Bystrica† • Dukla Banska Bystrica†
 - **FC Nitra** : (1) Nitra
 - **MFK Petržalka**
-- **AS Trenčín** : (1) Trenčín => (2) Trenčin† • AS Trenčin†
-- **FC DAC 1904 Dunajská Streda** : (1) Dunajská Streda => (2) Dunajska Streda† • FC DAC 1904 Dunajska Streda†
+- **AS Trenčín** : (1) Trenčín ⇒ (2) Trenčin† • AS Trenčin†
+- **FC DAC 1904 Dunajská Streda** : (1) Dunajská Streda ⇒ (2) Dunajska Streda† • FC DAC 1904 Dunajska Streda†
 - **MFK Ružomberok** : (1) Ružomberok
 - **TJ Spartak Myjava** : (1) Spartak Myjava
 
@@ -19,13 +19,13 @@
 Alphabet
 
 - **Alphabet Specials** (7):  **á**  **í**  **č**  **Š**  **š**  **Ž**  **ž** 
-  - **á** (225 / 00e1)×4 => a
-  - **í** (237 / 00ed)×2 => i
-  - **č** (269 / 010d)×2 => **?**
-  - **Š** (352 / 0160)×2 => **?**
-  - **š** (353 / 0161)×2 => **?**
-  - **Ž** (381 / 017d)×2 => **?**
-  - **ž** (382 / 017e)×3 => **?**
+  - **á** (225 / 00e1)×4 ⇒ a
+  - **í** (237 / 00ed)×2 ⇒ i
+  - **č** (269 / 010d)×2 ⇒ **?**
+  - **Š** (352 / 0160)×2 ⇒ **?**
+  - **š** (353 / 0161)×2 ⇒ **?**
+  - **Ž** (381 / 017d)×2 ⇒ **?**
+  - **ž** (382 / 017e)×3 ⇒ **?**
 
 
 

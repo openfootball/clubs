@@ -3,12 +3,12 @@
 - **KF Tirana** : (1) Klubi i Futbollit Tirana
 - **FK Partizani Tirana** : (2) Partizani • FK Partizani
 - **FK Dinamo Tirana**
-- **KS Skënderbeu** : (3) Skënderbeu • KF Skënderbeu • Skënderbeu Korçë => (1) Skënderbeu Korcë†
+- **KS Skënderbeu** : (3) Skënderbeu • KF Skënderbeu • Skënderbeu Korçë ⇒ (1) Skënderbeu Korcë†
 - **KS Flamurtari**
 - **KF Vllaznia**
 - **KS Besa**
 - **KS Teuta** : (1) KF Teuta
-- **KF Laçi** => (1) KF Laci†
+- **KF Laçi** ⇒ (1) KF Laci†
 - **FK Kukësi** : (1) Kukës
 - **KS Luftëtari**
 
@@ -18,8 +18,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **ç**  **ë** 
-  - **ç** (231 / 00e7)×2 => c
-  - **ë** (235 / 00eb)×8 => **?**
+  - **ç** (231 / 00e7)×2 ⇒ c
+  - **ë** (235 / 00eb)×8 ⇒ **?**
 
 
 

@@ -17,18 +17,18 @@
 - **Corona Brașov** : (2) Corona Brasov • ASC Corona 2010 Brașov
 - **FC Brașov** : (2) FC Brasov • SR Brașov
 - **Dunărea Călărași** : (1) Calarasi
-- **Chindia Târgoviște** : (1) Chindia Targoviste => (1) Chindia Targoviște†
+- **Chindia Târgoviște** : (1) Chindia Targoviste ⇒ (1) Chindia Targoviște†
 - **CS Turnu Severin** : (1) Clubul Sportiv Turnu Severin
 - **FC Severin** : (1) FC Drobeta-Turnu Severin
 - **FC Botoșani** : (4) Botoşani • FC Botosani • FC Botoşani • Fotbal Club Botoșani
 - **FC Hermannstadt** : (1) Hermannstadt
 - **Săgeata Năvodari** : (2) Navodari • AFC Săgeata Năvodari
 - **Oțelul Galați** : (5) Oţelul • Otelul • Oțelul • Otelul Galati • ASC Oțelul Galați
-- **Pandurii Târgu Jiu** : (3) Pandurii • Pandurii Tg Jiu • CS Pandurii Târgu Jiu => (2) Pandurii Targu Jiu† • CS Pandurii Targu Jiu†
+- **Pandurii Târgu Jiu** : (3) Pandurii • Pandurii Tg Jiu • CS Pandurii Târgu Jiu ⇒ (2) Pandurii Targu Jiu† • CS Pandurii Targu Jiu†
 - **FC Politehnica Iași** : (6) Poli Iasi • Poli Iași • CSMS laşi • CSMS Iasi • Politehnica Iași • CSM Politehnica Iași
 - **Poli Timișoara** : (3) Timişoara • Poli Timisoara • ACS Poli Timișoara
-- **Sepsi Sfântu Gheorghe** : (2) Sepsi • Sepsi OSK => (1) Sepsi Sfantu Gheorghe†
-- **Târgu Mureș** : (4) Targu Mures • Târgu Mureş • ASA Târgu Mureș • ASA Târgu Mureş => (4) Targu Mureș† • Targu Mureş† • ASA Targu Mureș† • ASA Targu Mureş†
+- **Sepsi Sfântu Gheorghe** : (2) Sepsi • Sepsi OSK ⇒ (1) Sepsi Sfantu Gheorghe†
+- **Târgu Mureș** : (4) Targu Mures • Târgu Mureş • ASA Târgu Mureș • ASA Târgu Mureş ⇒ (4) Targu Mureș† • Targu Mureş† • ASA Targu Mureș† • ASA Targu Mureş†
 - **Universitatea Craiova** : (5) U Craiova • CS U Craiova • U Craiova 1948 CS • CS Universitatea Craiova • U Craiova 1948 Club Sportiv
 - **UTA Arad** : (2) FC UTA Arad • Fotbal Club UTA Arad
 - **FC Voluntari** : (1) Voluntari
@@ -39,12 +39,12 @@
 Alphabet
 
 - **Alphabet Specials** (6):  **â**  **ă**  **ş**  **ţ**  **ș**  **ț** 
-  - **â** (226 / 00e2)×8 => a
-  - **ă** (259 / 0103)×9 => **?**
-  - **ş** (351 / 015f)×10 => **?**
-  - **ţ** (355 / 0163)×1 => **?**
-  - **ș** (537 / 0219)×28 => **?**
-  - **ț** (539 / 021b)×10 => **?**
+  - **â** (226 / 00e2)×8 ⇒ a
+  - **ă** (259 / 0103)×9 ⇒ **?**
+  - **ş** (351 / 015f)×10 ⇒ **?**
+  - **ţ** (355 / 0163)×1 ⇒ **?**
+  - **ș** (537 / 0219)×28 ⇒ **?**
+  - **ț** (539 / 021b)×10 ⇒ **?**
 
 
 

@@ -1,16 +1,16 @@
 12 clubs
 
-- **KR Reykjavík** : (2) KR Reykjavik • Knattspyrnufélag Reykjavíkur => (2) KR Reykjavik† • Knattspyrnufelag Reykjavikur†
-- **Fram Reykjavík** : (1) Fram => (1) Fram Reykjavik†
-- **Valur Reykjavík** : (1) Valur => (1) Valur Reykjavik†
-- **Víkingur Reykjavík** => (1) Vikingur Reykjavik†
-- **ÍA Akranes** : (2) IA Akranes • Íþróttabandalag Akraness => (1) Íþrottabandalag Akraness†
-- **FH Hafnarfjördur** : (1) FH => (2) FH Hafnarfjordur† • FH Hafnarfjoerdur†
+- **KR Reykjavík** : (2) KR Reykjavik • Knattspyrnufélag Reykjavíkur ⇒ (2) KR Reykjavik† • Knattspyrnufelag Reykjavikur†
+- **Fram Reykjavík** : (1) Fram ⇒ (1) Fram Reykjavik†
+- **Valur Reykjavík** : (1) Valur ⇒ (1) Valur Reykjavik†
+- **Víkingur Reykjavík** ⇒ (1) Vikingur Reykjavik†
+- **ÍA Akranes** : (2) IA Akranes • Íþróttabandalag Akraness ⇒ (1) Íþrottabandalag Akraness†
+- **FH Hafnarfjördur** : (1) FH ⇒ (2) FH Hafnarfjordur† • FH Hafnarfjoerdur†
 - **Breidablik**
-- **Thór Akureyri** => (1) Thor Akureyri†
+- **Thór Akureyri** ⇒ (1) Thor Akureyri†
 - **ÍBV Vestmannaeyjar** : (1) ÍBV
 - **Fylkir**
-- **Keflavík** => (1) Keflavik†
+- **Keflavík** ⇒ (1) Keflavik†
 - **Stjarnan**
 
 
@@ -19,12 +19,12 @@
 Alphabet
 
 - **Alphabet Specials** (6):  **Í**  **é**  **í**  **ó**  **ö**  **þ** 
-  - **Í** (205 / 00cd)×4 => **?**
-  - **é** (233 / 00e9)×1 => e
-  - **í** (237 / 00ed)×7 => i
-  - **ó** (243 / 00f3)×2 => o
-  - **ö** (246 / 00f6)×1 => o•oe
-  - **þ** (254 / 00fe)×1 => **?**
+  - **Í** (205 / 00cd)×4 ⇒ **?**
+  - **é** (233 / 00e9)×1 ⇒ e
+  - **í** (237 / 00ed)×7 ⇒ i
+  - **ó** (243 / 00f3)×2 ⇒ o
+  - **ö** (246 / 00f6)×1 ⇒ o•oe
+  - **þ** (254 / 00fe)×1 ⇒ **?**
 
 
 

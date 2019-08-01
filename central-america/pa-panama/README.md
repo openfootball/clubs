@@ -3,7 +3,7 @@
 - **Chorrillo FC** : (1) Chorrillo
 - **Tauro FC** : (1) Tauro
 - **Club Deportivo Árabe Unido** : (2) Árabe U. • Árabe Unido
-- **San Francisco FC** : (2) San Francisco • San Francisco Fútbol Club de La Chorrera => (1) San Francisco Futbol Club de La Chorrera†
+- **San Francisco FC** : (2) San Francisco • San Francisco Fútbol Club de La Chorrera ⇒ (1) San Francisco Futbol Club de La Chorrera†
 - **Sporting San Miguelito** : (1) Sporting SM
 
 
@@ -12,8 +12,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **Á**  **ú** 
-  - **Á** (193 / 00c1)×3 => **?**
-  - **ú** (250 / 00fa)×1 => u
+  - **Á** (193 / 00c1)×3 ⇒ **?**
+  - **ú** (250 / 00fa)×1 ⇒ u
 
 
 

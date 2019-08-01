@@ -9,16 +9,16 @@
 - **GD Chaves** : (1) Chaves
 - **Estoril Praia** : (1) Estoril
 - **CD Feirense** : (1) Feirense
-- **Vitória de Guimarães** : (2) Guimaraes • Vitória SC => (2) Vitoria SC† • Vitoria de Guimaraes†
-- **Vitória de Setúbal** : (2) Setubal • Vitória FC => (2) Vitoria FC† • Vitoria de Setubal†
-- **CS Marítimo** : (2) Maritimo • Marítimo => (2) Maritimo† • CS Maritimo†
+- **Vitória de Guimarães** : (2) Guimaraes • Vitória SC ⇒ (2) Vitoria SC† • Vitoria de Guimaraes†
+- **Vitória de Setúbal** : (2) Setubal • Vitória FC ⇒ (2) Vitoria FC† • Vitoria de Setubal†
+- **CS Marítimo** : (2) Maritimo • Marítimo ⇒ (2) Maritimo† • CS Maritimo†
 - **Moreirense FC** : (1) Moreirense
-- **FC Paços de Ferreira** : (2) Pacos Ferreira • Paços Ferreira => (2) Pacos Ferreira† • FC Pacos de Ferreira†
+- **FC Paços de Ferreira** : (2) Pacos Ferreira • Paços Ferreira ⇒ (2) Pacos Ferreira† • FC Pacos de Ferreira†
 - **Portimonense SC** : (1) Portimonense
 - **Rio Ave FC** : (1) Rio Ave
 - **SC Braga** : (3) Braga • Sp Braga • Sporting Braga
 - **CD Tondela** : (1) Tondela
-- **Académica de Coimbra** : (4) Académica • Academica • A. Académica de Coimbra • Associação Académica de Coimbra => (4) Academica† • Academica de Coimbra† • A. Academica de Coimbra† • Associacao Academica de Coimbra†
+- **Académica de Coimbra** : (4) Académica • Academica • A. Académica de Coimbra • Associação Académica de Coimbra ⇒ (4) Academica† • Academica de Coimbra† • A. Academica de Coimbra† • Associacao Academica de Coimbra†
 - **FC Arouca** : (1) Arouca
 - **CD Nacional Madeira** : (4) Nacional • CD Nacional • Nacional da Madeira • Clube Desportivo Nacional
 - **FC Penafiel** : (1) Penafiel
@@ -27,17 +27,17 @@
 - **CF Estrela da Amadora** : (1) Est Amadora
 - **SC Farense** : (1) Farense
 - **Gil Vicente FC** : (1) Gil Vicente
-- **União de Leiria** : (2) Leiria • União Desportiva de Leiria => (2) Uniao de Leiria† • Uniao Desportiva de Leiria†
-- **União da Madeira** : (2) Madeira • Uniao Madeira => (1) Uniao da Madeira†
+- **União de Leiria** : (2) Leiria • União Desportiva de Leiria ⇒ (2) Uniao de Leiria† • Uniao Desportiva de Leiria†
+- **União da Madeira** : (2) Madeira • Uniao Madeira ⇒ (1) Uniao da Madeira†
 - **SC Salgueiros** : (1) Salgueiros
 - **FC Tirsense** : (1) Tirsense
 - **SC Campomaiorense** : (2) Campomaior • Campomaiorense
 - **FC Felgueiras** : (1) Felgueiras
-- **Leça FC** : (1) Leca => (1) Leca FC†
+- **Leça FC** : (1) Leca ⇒ (1) Leca FC†
 - **FC Alverca** : (1) Alverca
 - **Sporting de Espinho** : (2) Espinho • Sporting Clube de Espinho
-- **Leixões SC** : (1) Leixoes => (1) Leixoes SC†
-- **Naval 1º de Maio** : (2) Naval • Associação Naval 1º de Maio => (1) Associacao Naval 1º de Maio†
+- **Leixões SC** : (1) Leixoes ⇒ (1) Leixoes SC†
+- **Naval 1º de Maio** : (2) Naval • Associação Naval 1º de Maio ⇒ (1) Associacao Naval 1º de Maio†
 - **SC Olhanense** : (1) Olhanense
 - **CD Santa Clara** : (1) Santa Clara
 - **CD Trofense** : (2) Trofense • Clube Desportivo Trofense
@@ -49,13 +49,13 @@
 Alphabet
 
 - **Alphabet Specials** (7):  **ã**  **ç**  **é**  **í**  **ó**  **õ**  **ú** 
-  - **ã** (227 / 00e3)×6 => a
-  - **ç** (231 / 00e7)×5 => c
-  - **é** (233 / 00e9)×4 => e
-  - **í** (237 / 00ed)×2 => i
-  - **ó** (243 / 00f3)×4 => o
-  - **õ** (245 / 00f5)×1 => o
-  - **ú** (250 / 00fa)×1 => u
+  - **ã** (227 / 00e3)×6 ⇒ a
+  - **ç** (231 / 00e7)×5 ⇒ c
+  - **é** (233 / 00e9)×4 ⇒ e
+  - **í** (237 / 00ed)×2 ⇒ i
+  - **ó** (243 / 00f3)×4 ⇒ o
+  - **õ** (245 / 00f5)×1 ⇒ o
+  - **ú** (250 / 00fa)×1 ⇒ u
 
 
 

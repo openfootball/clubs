@@ -2,18 +2,18 @@
 
 - **AC Sparta Praha** : (4) Sparta Praha • Sparta Prague • AC Sparta Prague • Athletic Club Sparta Praha
 - **FK Dukla Praha** : (2) Dukla • FK Dukla Prague
-- **SK Slavia Praha** : (2) Slavia Praha • Sportovní klub Slavia Praha => (1) Sportovni klub Slavia Praha†
+- **SK Slavia Praha** : (2) Slavia Praha • Sportovní klub Slavia Praha ⇒ (1) Sportovni klub Slavia Praha†
 - **Bohemians Praha 1905** : (1) Bohemians 1905
-- **FK Mladá Boleslav** : (2) Mladá Boleslav • Fotbalový klub Mladá Boleslav => (3) Mlada Boleslav† • FK Mlada Boleslav† • Fotbalový klub Mlada Boleslav†
-- **1. FK Příbram** : (1) Příbram => (2) Přibram† • 1. FK Přibram†
+- **FK Mladá Boleslav** : (2) Mladá Boleslav • Fotbalový klub Mladá Boleslav ⇒ (3) Mlada Boleslav† • FK Mlada Boleslav† • Fotbalový klub Mlada Boleslav†
+- **1. FK Příbram** : (1) Příbram ⇒ (2) Přibram† • 1. FK Přibram†
 - **Viktoria Plzeň** : (3) Plzeň • FC Viktoria Plzeň • Football Club Viktoria Plzeň
 - **FC Slovan Liberec** : (2) Liberec • Football Club Slovan Liberec
 - **FK Jablonec** : (1) Jablonec
-- **FC Baník Ostrava** : (1) Baník => (2) Banik† • FC Banik Ostrava†
+- **FC Baník Ostrava** : (1) Baník ⇒ (2) Banik† • FC Banik Ostrava†
 - **SK Sigma Olomouc** : (1) Sigma
 - **FK Teplice** : (1) Teplice
-- **1. FC Slovácko** : (1) Slovácko => (2) Slovacko† • 1. FC Slovacko†
-- **FC Zlín** : (1) Zlín => (2) Zlin† • FC Zlin†
+- **1. FC Slovácko** : (1) Slovácko ⇒ (2) Slovacko† • 1. FC Slovacko†
+- **FC Zlín** : (1) Zlín ⇒ (2) Zlin† • FC Zlin†
 - **FC Vysočina Jihlava** : (1) Jihlava
 - **FC Zbrojovka Brno** : (1) Brno
 
@@ -23,12 +23,12 @@
 Alphabet
 
 - **Alphabet Specials** (6):  **á**  **í**  **ý**  **č**  **ň**  **ř** 
-  - **á** (225 / 00e1)×5 => a
-  - **í** (237 / 00ed)×7 => i
-  - **ý** (253 / 00fd)×1 => **?**
-  - **č** (269 / 010d)×1 => **?**
-  - **ň** (328 / 0148)×4 => **?**
-  - **ř** (345 / 0159)×2 => **?**
+  - **á** (225 / 00e1)×5 ⇒ a
+  - **í** (237 / 00ed)×7 ⇒ i
+  - **ý** (253 / 00fd)×1 ⇒ **?**
+  - **č** (269 / 010d)×1 ⇒ **?**
+  - **ň** (328 / 0148)×4 ⇒ **?**
+  - **ř** (345 / 0159)×2 ⇒ **?**
 
 
 

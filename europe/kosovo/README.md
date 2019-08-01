@@ -2,7 +2,7 @@
 
 - **KF Drita**
 - **FC Prishtina**
-- **KF Trepça'89** => (1) KF Trepca'89†
+- **KF Trepça'89** ⇒ (1) KF Trepca'89†
 
 
 
@@ -10,7 +10,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ç** 
-  - **ç** (231 / 00e7)×1 => c
+  - **ç** (231 / 00e7)×1 ⇒ c
 
 
 

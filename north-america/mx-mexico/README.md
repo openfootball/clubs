@@ -1,6 +1,6 @@
 23 clubs
 
-- **Club América** : (1) Club America => (1) Club America†
+- **Club América** : (1) Club America ⇒ (1) Club America†
 - **Cruz Azul**
 - **Pumas UNAM** : (1) U.N.A.M.- Pumas
 - **CD Guadalajara Chivas** : (1) Guadalajara Chivas
@@ -10,16 +10,16 @@
 - **Tigres UANL** : (1) U.A.N.L.- Tigres
 - **Lobos BUAP**
 - **Club Puebla** : (1) Puebla
-- **Atlético San Luis** : (1) Atl. San Luis => (1) Atletico San Luis†
+- **Atlético San Luis** : (1) Atl. San Luis ⇒ (1) Atletico San Luis†
 - **Atlante FC** : (1) Atlante
 - **Jaguares Chiapas** : (1) Chiapas
-- **Club León** : (1) Club Leon => (1) Club Leon†
+- **Club León** : (1) Club Leon ⇒ (1) Club Leon†
 - **Club Tijuana**
 - **Dorados Sinaloa** : (1) Dorados de Sinaloa
 - **Monarcas Morelia** : (1) Monarcas
 - **Club Necaxa** : (1) Necaxa
 - **CF Pachuca** : (1) Pachuca
-- **Querétaro FC** : (1) Queretaro => (1) Queretaro FC†
+- **Querétaro FC** : (1) Queretaro ⇒ (1) Queretaro FC†
 - **Santos Laguna**
 - **Deportivo Toluca FC** : (1) Toluca
 - **Tiburones Rojos Veracruz** : (1) Veracruz
@@ -30,8 +30,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **é**  **ó** 
-  - **é** (233 / 00e9)×3 => e
-  - **ó** (243 / 00f3)×1 => o
+  - **é** (233 / 00e9)×3 ⇒ e
+  - **ó** (243 / 00f3)×1 ⇒ o
 
 
 

@@ -2,15 +2,15 @@
 
 - **Bakı FK**
 - **İnter Bakı PİK**
-- **Neftçi PFK** => (1) Neftci PFK†
+- **Neftçi PFK** ⇒ (1) Neftci PFK†
 - **Qarabağ FK** : (1) Qarabağ
-- **Xäzär Länkäran FK** => (2) Xazar Lankaran FK† • Xaezaer Laenkaeran FK†
-- **Olimpik-Şüvälan PFK** => (2) Olimpik-Şuvalan PFK† • Olimpik-Şuevaelan PFK†
+- **Xäzär Länkäran FK** ⇒ (2) Xazar Lankaran FK† • Xaezaer Laenkaeran FK†
+- **Olimpik-Şüvälan PFK** ⇒ (2) Olimpik-Şuvalan PFK† • Olimpik-Şuevaelan PFK†
 - **Simurq PFK**
 - **Gabala SC**
 - **Keşla FK**
-- **Zirä FK** => (2) Zira FK† • Zirae FK†
-- **Käpäz PFK** => (2) Kapaz PFK† • Kaepaez PFK†
+- **Zirä FK** ⇒ (2) Zira FK† • Zirae FK†
+- **Käpäz PFK** ⇒ (2) Kapaz PFK† • Kaepaez PFK†
 
 
 
@@ -18,14 +18,14 @@
 Alphabet
 
 - **Alphabet Specials** (8):  **ä**  **ç**  **ü**  **ğ**  **İ**  **ı**  **Ş**  **ş** 
-  - **ä** (228 / 00e4)×8 => a•ae
-  - **ç** (231 / 00e7)×1 => c
-  - **ü** (252 / 00fc)×1 => u•ue
-  - **ğ** (287 / 011f)×2 => **?**
-  - **İ** (304 / 0130)×2 => **?**
-  - **ı** (305 / 0131)×2 => **?**
-  - **Ş** (350 / 015e)×1 => **?**
-  - **ş** (351 / 015f)×1 => **?**
+  - **ä** (228 / 00e4)×8 ⇒ a•ae
+  - **ç** (231 / 00e7)×1 ⇒ c
+  - **ü** (252 / 00fc)×1 ⇒ u•ue
+  - **ğ** (287 / 011f)×2 ⇒ **?**
+  - **İ** (304 / 0130)×2 ⇒ **?**
+  - **ı** (305 / 0131)×2 ⇒ **?**
+  - **Ş** (350 / 015e)×1 ⇒ **?**
+  - **ş** (351 / 015f)×1 ⇒ **?**
 
 
 
