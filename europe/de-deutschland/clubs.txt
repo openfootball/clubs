@@ -42,54 +42,54 @@ Fortuna Köln, 1948,  Köln
   | F Köln | SC Fortuna Köln | Sportclub Fortuna Köln
 FC Viktoria Köln,    Köln
 
-Fortuna Düsseldorf,  1895, Düsseldorf › Nordrhein-Westfalen
-  | F. Düsseldorf
+Fortuna Düsseldorf,  1895, Düsseldorf
+  | Düsseldorf | F. Düsseldorf
 
-Borussia Dortmund, 1909,    Dortmund      › Nordrhein-Westfalen
+Borussia Dortmund, 1909,    Dortmund
   | Dortmund | Bor. Dortmund | BV 09 Borussia Dortmund
-Borussia Dortmund II,       Dortmund      › Nordrhein-Westfalen
+Borussia Dortmund II,       Dortmund
   | Dortmund II | Bor. Dortmund II
-FC Schalke 04, 1904,         Gelsenkirchen › Nordrhein-Westfalen
+FC Schalke 04, 1904,         Gelsenkirchen
   | Schalke | Schalke 04
-Bayer 04 Leverkusen, 1904,    Leverkusen    › Nordrhein-Westfalen
+Bayer 04 Leverkusen, 1904,    Leverkusen
   | Leverkusen | Bayer Leverkusen | Bay. Leverkusen
-MSV Duisburg,         Duisburg      › Nordrhein-Westfalen     ## until 1965/66 Meidericher SV -- was Meidericher SV in 1963/64
+MSV Duisburg,         Duisburg       ## until 1965/66 Meidericher SV -- was Meidericher SV in 1963/64
   | Duisburg | Meidericher SV
-Bor. Mönchengladbach, 1900, Mönchengladbach › Nordrhein-Westfalen
+Bor. Mönchengladbach, 1900, Mönchengladbach
   | Mönchengladbach | M'Gladbach | Borussia Monchengladbach
   | Borussia M'gladbach | Bor. M'gladbach | Bor. Moenchengladbach | Borussia Mönchengladbach
   | VfL Borussia Mönchengladbach
 
-VfL Bochum, 1938,            Bochum › Nordrhein-Westfalen
+VfL Bochum, 1938,            Bochum
   | Bochum | VfL Bochum 1848
-SG Wattenscheid 09,    Bochum (Wattenscheid) › Nordrhein-Westfalen   ## Bochum-Wattenscheid - Bochumer Stadtbezirk
+SG Wattenscheid 09,    Bochum (Wattenscheid)    ## Bochum-Wattenscheid - Bochumer Stadtbezirk
   | Wattenscheid | Wattenscheid 09
 
-Arminia Bielefeld,  1905,    Bielefeld     › Nordrhein-Westfalen
+Arminia Bielefeld,  1905,    Bielefeld   
   | Bielefeld | DSC Arminia Bielefeld
-Preußen Münster,     Münster       › Nordrhein-Westfalen
+Preußen Münster,     Münster      
   | Münster | SC Preußen 06
 
-Gütersloh,            Gütersloh     › Nordrhein-Westfalen
-KFC Uerdingen,        Krefeld       › Nordrhein-Westfalen     ## bis 1995 FC Bayer 05 Uerdingen
+Gütersloh,            Gütersloh    
+KFC Uerdingen,        Krefeld          ## bis 1995 FC Bayer 05 Uerdingen
   | Uerdingen | KFC Uerdingen 05 | Bayer 05 Uerdingen | FC Bayer 05 Uerdingen | Bayer Uerdingen
 # note:  now called KFC Uerdingen 05 (was Bayer 05 Uerdingen)
 # -- (1953-1995) note: now KFC Uerdingen 05
 
 
-Alemannia Aachen,     Aachen        › Nordrhein-Westfalen
+Alemannia Aachen,     Aachen       
   | Aachen | TSV Alemannia Aachen
-SC Paderborn 07,  1907,      Paderborn     › Nordrhein-Westfalen
+SC Paderborn 07,  1907,      Paderborn     
   | Paderborn
-Rot Weiss Ahlen,    Ahlen › Nordrhein-Westfalen
+Rot Weiss Ahlen,    Ahlen 
   | Ahlen
-Rot-Weiß Oberhausen,   Oberhausen › Nordrhein-Westfalen
+Rot-Weiß Oberhausen,   Oberhausen 
   | Oberhausen | Rot-Weiss Oberhausen
-SF Siegen,            Siegen › Nordrhein-Westfalen
+SF Siegen,            Siegen
   | Siegen | Sportfreunde Siegen
-Wuppertaler SV,         Wuppertal › Nordrhein-Westfalen
+Wuppertaler SV,         Wuppertal 
   | Wuppertaler
-Rot-Weiss Essen,     Essen › Nordrhein-Westfalen
+Rot-Weiss Essen,     Essen 
   | Essen | RW Essen
 ##  - 2 (1): 1993-94
 ##  - 2 (3): 2006-07 2004-05 1996-97
