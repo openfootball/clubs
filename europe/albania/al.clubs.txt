@@ -3,19 +3,29 @@
 
 
 KF Tirana,           Tirana
-  | Klubi i Futbollit Tirana
+  | Tirana | Klubi i Futbollit Tirana
 FK Partizani Tirana, Tirana
   | Partizani | FK Partizani
 FK Dinamo Tirana,    Tirana
 
 KS Skënderbeu
-  | Skënderbeu | KF Skënderbeu | Skënderbeu Korçë
+  | Skënderbeu | KF Skënderbeu | KF Skënderbeu Korçë | Skënderbeu Korçë
 KS Flamurtari
+  | Flamurtari Vlorë | Flamurtari
+
 KF Vllaznia
 KS Besa
 KS Teuta
-  | KF Teuta
+  | KF Teuta | KF Teuta Durrës | Teuta
 KF Laçi
+  | Laçi
 FK Kukësi
-  | Kukës
+  |Kukësi | Kukës
 KS Luftëtari
+FC Kamza
+  | Kamza
+KS Kastrioti
+  | Kastrioti
+Luftëtari Gjirokastër FC
+  | Luftëtari
+
