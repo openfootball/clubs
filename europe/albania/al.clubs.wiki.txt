@@ -1,0 +1,15 @@
+#############################
+#  Wikipedia Page Names
+#    en.wikipedia.org/wiki/[Name]
+
+Name
+Flamurtari Vlorë
+FC Kamza
+KS Kastrioti
+FK Kukësi
+KF Laçi
+Luftëtari Gjirokastër FC
+FK Partizani Tirana
+KF Skënderbeu Korçë
+KF Teuta Durrës
+KF Tirana
