@@ -1,21 +1,21 @@
 #########################
 # Belgium (BEL), be
 
-Name,                 Wikipedia,                      Web
-RSC Anderlecht,       R.S.C._Anderlecht,              www.rsca.be
-Club Brugge,          Club_Brugge_KV,                 www.clubbrugge.be
-Cercle Brugge KSV,    Cercle_Brugge_K.S.V.,           www.cerclebrugge.be
-KV Oostende,          K.V._Oostende,                  www.kvo.be
-SV Zulte Waregem,     S.V._Zulte_Waregem,             www.essevee.be
-KV Kortrijk,          K.V._Kortrijk,                  www.kvk.be
-KAA Gent,             K.A.A._Gent,                    www.kaagent.be
-KSC Lokeren OV,       K.S.C._Lokeren_Oost-Vlaanderen, www.sporting.be
-Waasland-Beveren,     Waasland-Beveren,               www.waasland-beveren.be
-KVC Westerlo,         K.V.C._Westerlo,                www.kvcwesterlo.be
-KV Mechelen,          KV_Mechelen,                    www.kvmechelen.be
-KRC Genk,             K.R.C._Genk,                    www.krcgenk.be
-K. Sint-Truidense VV, Sint-Truidense_V.V.,            www.stvv.com
-OH Leuven,            Oud-Heverlee_Leuven,            www.ohl.be
-Standard Liège,       Standard_Liège,                 www.standard.be
-R. Charleroi SC,      R._Charleroi_S.C.,              www.sporting-charleroi.be
-R. Mouscron-Péruwelz, Royal_Mouscron-Péruwelz,        www.rmp-foot.be
+Name,                 Web
+RSC Anderlecht,       www.rsca.be
+Club Brugge,          www.clubbrugge.be
+Cercle Brugge KSV,    www.cerclebrugge.be
+KV Oostende,          www.kvo.be
+SV Zulte Waregem,     www.essevee.be
+KV Kortrijk,          www.kvk.be
+KAA Gent,             www.kaagent.be
+KSC Lokeren OV,       www.sporting.be
+Waasland-Beveren,     www.waasland-beveren.be
+KVC Westerlo,         www.kvcwesterlo.be
+KV Mechelen,          www.kvmechelen.be
+KRC Genk,             www.krcgenk.be
+K. Sint-Truidense VV, www.stvv.com
+OH Leuven,            www.ohl.be
+Standard Liège,       www.standard.be
+R. Charleroi SC,      www.sporting-charleroi.be
+R. Mouscron-Péruwelz, www.rmp-foot.be

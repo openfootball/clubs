@@ -24,7 +24,7 @@ FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein 
 SC Wiener Neustadt,  Wr. Neustadt
   | Neustadt
 SKN St. Pölten,      St. Pölten
-  | St. Pölten 
+  | St. Pölten
 
 
 
@@ -36,7 +36,7 @@ FC Stahl Linz,       Linz
   | SK VOEST Linz
 
 ##
-## add support for historic names - how? 
+## add support for historic names - how?
 #
 # FC Stahl Linz | FC Linz (1991-1997, 2013-), 1946,  Linz
 #  | SK VÖEST Linz (1946-1978)
@@ -65,7 +65,7 @@ Wolfsberger AC, 	Wolfsberg
 == Salzburg ==
 
 FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
-  | Salzburg | FC Salzburg
+  | Salzburg | FC Salzburg | FC Red Bull Salzburg
 SV Grödig,           Grödig
   | Grödig
 
@@ -79,4 +79,4 @@ FC Wacker Innsbruck, Innsbruck
 == Vorarlberg ==
 
 SCR Altach,          Altach
-  | Altach
+  | Altach | SC Rheindorf Altach

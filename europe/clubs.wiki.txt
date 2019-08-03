@@ -13,6 +13,25 @@ KF Teuta Durrës
 KF Tirana
 
 
+=================================
+= Austria (at)
+
+FC Admira Wacker Mödling
+FK Austria Wien
+SC Rheindorf Altach
+TSV Hartberg
+LASK Linz
+SV Mattersburg
+SK Rapid Wien
+FC Red Bull Salzburg
+SKN St. Pölten
+SK Sturm Graz
+FC Wacker Innsbruck (2002)
+Wolfsberger AC
+
+
+
+
 ===========================
 = Belgium (be)
 
@@ -32,3 +51,29 @@ Sint-Truidense V.V.
 Standard Liège
 Waasland-Beveren
 S.V. Zulte Waregem
+K.V.C. Westerlo
+KV Mechelen
+Oud-Heverlee Leuven
+
+
+====================================
+=  Czech Republic (cz)
+
+FC Baník Ostrava
+Bohemians 1905
+FK Dukla Prague
+FK Jablonec
+MFK Karviná
+FK Mladá Boleslav
+SFC Opava
+1. FK Příbram
+SK Sigma Olomouc
+SK Slavia Prague
+1. FC Slovácko
+FC Slovan Liberec
+AC Sparta Prague
+FK Teplice
+FC Viktoria Plzeň
+FC Fastav Zlín
+FC Vysočina Jihlava
+FC Zbrojovka Brno

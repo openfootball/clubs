@@ -2,15 +2,19 @@
 =  Czech Republic (cz)
 
 
-AC Sparta Praha, 1893, Praha     ## Prague [en]
+AC Sparta Praha, 1893, Praha       ## Prague [en]
   | Sparta Praha | Sparta Prague
-  | AC Sparta Prague | Athletic Club Sparta Praha
+  | Athletic Club Sparta Praha
+  | AC Sparta Prague [en]
 
 FK Dukla Praha, 1958,  Praha
-  | Dukla | FK Dukla Prague
+  | Dukla
+  | FK Dukla Prague [en]
 
 SK Slavia Praha, 1892, Praha
   | Slavia Praha | Sportovní klub Slavia Praha
+  | SK Slavia Prague [en] | Slavia Prague [en]
+
 
 Bohemians Praha 1905, 1905, Praha
   | Bohemians 1905
@@ -44,10 +48,16 @@ FK Teplice, 1945, Teplice     ## Ústí nad Labem
   | Slovácko
 
 FC Zlín, 1919,   Zlín     ## Zlín
-  | Zlín
+  | Zlín | FC Fastav Zlín |Fastav Zlín
 
 FC Vysočina Jihlava, 1948,  Jihlava  ## Vysočina
   | Jihlava
 
 FC Zbrojovka Brno, 1913,   Brno     ## South Moravia
   | Brno
+
+MFK Karviná
+  | Karviná
+
+SFC Opava
+ | Opava
