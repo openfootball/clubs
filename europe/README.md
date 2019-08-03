@@ -1,6 +1,6 @@
-54 datafiles, 1351 clubs
+54 datafiles, 1350 clubs
 
-**europe/albania/al.clubs.txt** _(14)_:  [KF Tirana](https://en.wikipedia.org/wiki/KF_Tirana) • [FK Partizani Tirana](https://en.wikipedia.org/wiki/FK_Partizani_Tirana) • FK Dinamo Tirana • [KS Skënderbeu](https://en.wikipedia.org/wiki/KF_Skënderbeu_Korçë) • [KS Flamurtari](https://en.wikipedia.org/wiki/Flamurtari_Vlorë) • KF Vllaznia • KS Besa • [KS Teuta](https://en.wikipedia.org/wiki/KF_Teuta_Durrës) • [KF Laçi](https://en.wikipedia.org/wiki/KF_Laçi) • [FK Kukësi](https://en.wikipedia.org/wiki/FK_Kukësi) • KS Luftëtari • [FC Kamza](https://en.wikipedia.org/wiki/FC_Kamza) • [KS Kastrioti](https://en.wikipedia.org/wiki/KS_Kastrioti) • [Luftëtari Gjirokastër FC](https://en.wikipedia.org/wiki/Luftëtari_Gjirokastër_FC)
+**europe/albania/al.clubs.txt** _(13)_:  [KF Tirana](https://en.wikipedia.org/wiki/KF_Tirana) • [FK Partizani Tirana](https://en.wikipedia.org/wiki/FK_Partizani_Tirana) • FK Dinamo Tirana • [KS Skënderbeu](https://en.wikipedia.org/wiki/KF_Skënderbeu_Korçë) • [KS Flamurtari](https://en.wikipedia.org/wiki/Flamurtari_Vlorë) • KF Vllaznia • KS Besa • [KS Teuta](https://en.wikipedia.org/wiki/KF_Teuta_Durrës) • [KF Laçi](https://en.wikipedia.org/wiki/KF_Laçi) • [FK Kukësi](https://en.wikipedia.org/wiki/FK_Kukësi) • [KS Luftëtari](https://en.wikipedia.org/wiki/Luftëtari_Gjirokastër_FC) • [FC Kamza](https://en.wikipedia.org/wiki/FC_Kamza) • [KS Kastrioti](https://en.wikipedia.org/wiki/KS_Kastrioti)
 
 **europe/andorra/ad.clubs.txt** _(5)_:  UE Sant Julià • FC Santa Coloma • UE Santa Coloma • FC Lusitans • UE Engordany
 

@@ -1,4 +1,4 @@
-14 clubs
+13 clubs
 
 - **KF Tirana** : (2) Tirana • Klubi i Futbollit Tirana
 - **FK Partizani Tirana** : (2) Partizani • FK Partizani
@@ -10,10 +10,9 @@
 - **KS Teuta** : (3) Teuta • KF Teuta • KF Teuta Durrës
 - **KF Laçi** : (1) Laçi ≈ (2) ≈Laci† • ≈KF Laci†
 - **FK Kukësi** : (2) Kukës • Kukësi
-- **KS Luftëtari**
+- **KS Luftëtari** : (2) Luftëtari • Luftëtari Gjirokastër FC
 - **FC Kamza** : (1) Kamza
 - **KS Kastrioti** : (1) Kastrioti
-- **Luftëtari Gjirokastër FC** : (1) Luftëtari
 
 
 
@@ -39,7 +38,7 @@ By City
   - KF Tirana  (2) Tirana • Klubi i Futbollit Tirana
   - FK Partizani Tirana  (2) Partizani • FK Partizani
   - FK Dinamo Tirana 
-- ? (11): 
+- ? (10): 
   - KS Skënderbeu  (4) Skënderbeu • KF Skënderbeu • KF Skënderbeu Korçë • Skënderbeu Korçë
   - KS Flamurtari  (2) Flamurtari Vlorë • Flamurtari
   - KF Vllaznia 
@@ -47,10 +46,9 @@ By City
   - KS Teuta  (3) KF Teuta • KF Teuta Durrës • Teuta
   - KF Laçi  (1) Laçi
   - FK Kukësi  (2) Kukësi • Kukës
-  - KS Luftëtari 
+  - KS Luftëtari  (2) Luftëtari • Luftëtari Gjirokastër FC
   - FC Kamza  (1) Kamza
   - KS Kastrioti  (1) Kastrioti
-  - Luftëtari Gjirokastër FC  (1) Luftëtari
 
 
 
@@ -64,7 +62,7 @@ By Region
 
 By Year
 
-- ? (14):   KF Tirana • FK Partizani Tirana • FK Dinamo Tirana • KS Skënderbeu • KS Flamurtari • KF Vllaznia • KS Besa • KS Teuta • KF Laçi • FK Kukësi • KS Luftëtari • FC Kamza • KS Kastrioti • Luftëtari Gjirokastër FC
+- ? (13):   KF Tirana • FK Partizani Tirana • FK Dinamo Tirana • KS Skënderbeu • KS Flamurtari • KF Vllaznia • KS Besa • KS Teuta • KF Laçi • FK Kukësi • KS Luftëtari • FC Kamza • KS Kastrioti
 
 
 

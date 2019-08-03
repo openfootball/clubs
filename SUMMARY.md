@@ -1,4 +1,4 @@
-86 datafiles, 1700 clubs
+86 datafiles, 1699 clubs
 
 **africa/egypt/eg.clubs.txt** _(18)_:  Al Ahly • Al Mokawloon Al Arab • El Dakhleya • El Entag El Harby • ENPPI SC • Ittihad El Shorta • Tala'ea El Gaish • Wadi Degla • Al Ittihad Al Sakandary • Haras El Hodood • Smouha SC • Zamalek • Ismaily • El Gouna • Ghazl El Mahalla • Misr El Makasa • Petrojet • Telephonat Bani Sweif
 
@@ -30,7 +30,7 @@
 
 **central-america/sv-el-salvador/clubs.txt** _(5)_:  I. Metapán • Club Deportivo Águila • Club Deportivo FAS • Alianza FC • Luis Ángel Firpo
 
-**europe/albania/al.clubs.txt** _(14)_:  [KF Tirana](https://en.wikipedia.org/wiki/KF_Tirana) • [FK Partizani Tirana](https://en.wikipedia.org/wiki/FK_Partizani_Tirana) • FK Dinamo Tirana • [KS Skënderbeu](https://en.wikipedia.org/wiki/KF_Skënderbeu_Korçë) • [KS Flamurtari](https://en.wikipedia.org/wiki/Flamurtari_Vlorë) • KF Vllaznia • KS Besa • [KS Teuta](https://en.wikipedia.org/wiki/KF_Teuta_Durrës) • [KF Laçi](https://en.wikipedia.org/wiki/KF_Laçi) • [FK Kukësi](https://en.wikipedia.org/wiki/FK_Kukësi) • KS Luftëtari • [FC Kamza](https://en.wikipedia.org/wiki/FC_Kamza) • [KS Kastrioti](https://en.wikipedia.org/wiki/KS_Kastrioti) • [Luftëtari Gjirokastër FC](https://en.wikipedia.org/wiki/Luftëtari_Gjirokastër_FC)
+**europe/albania/al.clubs.txt** _(13)_:  [KF Tirana](https://en.wikipedia.org/wiki/KF_Tirana) • [FK Partizani Tirana](https://en.wikipedia.org/wiki/FK_Partizani_Tirana) • FK Dinamo Tirana • [KS Skënderbeu](https://en.wikipedia.org/wiki/KF_Skënderbeu_Korçë) • [KS Flamurtari](https://en.wikipedia.org/wiki/Flamurtari_Vlorë) • KF Vllaznia • KS Besa • [KS Teuta](https://en.wikipedia.org/wiki/KF_Teuta_Durrës) • [KF Laçi](https://en.wikipedia.org/wiki/KF_Laçi) • [FK Kukësi](https://en.wikipedia.org/wiki/FK_Kukësi) • [KS Luftëtari](https://en.wikipedia.org/wiki/Luftëtari_Gjirokastër_FC) • [FC Kamza](https://en.wikipedia.org/wiki/FC_Kamza) • [KS Kastrioti](https://en.wikipedia.org/wiki/KS_Kastrioti)
 
 **europe/andorra/ad.clubs.txt** _(5)_:  UE Sant Julià • FC Santa Coloma • UE Santa Coloma • FC Lusitans • UE Engordany
 
