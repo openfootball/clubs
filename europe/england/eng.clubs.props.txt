@@ -1,0 +1,29 @@
+####################################
+# English League Teams
+
+Name,                 Web
+Chelsea FC,           www.chelseafc.com
+Arsenal FC,           www.arsenal.com
+Tottenham Hotspur,    www.tottenhamhotspur.com
+West Ham United,      www.whufc.com
+Crystal Palace,       www.cpfc.co.uk
+Manchester United,    www.manutd.com
+Manchester City,      www.mcfc.co.uk
+Everton FC,           www.evertonfc.com
+Liverpool FC,         www.liverpoolfc.com
+West Bromwich Albion, www.wba.co.uk
+Newcastle United,     www.nufc.co.uk
+Stoke City FC,        www.stokecityfc.com
+Sunderland AFC,       www.safc.com
+Aston Villa,          www.avfc.co.uk
+Southampton FC,       www.saintsfc.co.uk
+Leicester City,       www.lcfc.com
+AFC Bournemouth,      www.afcb.co.uk
+Norwich City,         www.canaries.co.uk
+Watford FC,           www.watfordfc.com
+Burnley FC,           www.burnleyfootballclub.com
+Hull City,            www.hullcitytigers.com
+Queens Park Rangers,  www.qpr.co.uk
+Fulham FC,            www.fulhamfc.com
+Middlesbrough FC,     www.mfc.co.uk
+Reading FC,           www.readingfc.co.uk

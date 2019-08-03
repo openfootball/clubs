@@ -3,18 +3,24 @@
 
 
 Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
-  | Lokomotiv | FC Lokomotiv | FC Lokomotiv Moskva | Lokomotiv Moscow
+  | Lokomotiv | FC Lokomotiv | FC Lokomotiv Moskva
+  | Lokomotiv Moscow [en] | FC Lokomotiv Moscow [en]
 PFC CSKA Moskva, 1911,   Moskva
-  | CSKA | PFK CSCA | CSKA Moskva | CSKA Moscow | PFK CSKA Moscow
+  | CSKA | PFK CSCA | CSKA Moskva
+  | CSKA Moscow [en] | PFC CSKA Moscow [en] | PFK CSKA Moscow [en]
 Dynamo Moskva, 1923,     Moskva
-  | Dynamo | Dynamo Moscow
-  | Dinamo | Dinamo Moscow | Dinamo Moskva | FC Dinamo Moskva
+  | Dynamo | Dinamo | Dinamo Moskva | FC Dinamo Moskva
+  | Dynamo Moscow [en] | Dinamo Moscow [en] | FC Dynamo Moscow [en]
 FC Spartak Moskva, 1922,    Moskva
-  | Spartak | Spartak Moskva | Spartak Moskau | Spartak Moscow | FC Spartak
-FC Moskva
+  | Spartak | FC Spartak | Spartak Moskva
+  | Spartak Moscow [en] | FC Spartak Moscow [en]
+  | Spartak Moskau [de]
+FC Moskva,    Moskva
   | Moskva
-Torpedo Moskva
-  | Torpedo | Torpedo Moscow | T. Moscow
+  | FC Moscow [en]
+Torpedo Moskva,    Moskva
+  | Torpedo
+  | T. Moscow [en] | Torpedo Moscow [en] | FC Torpedo Moscow [en]
 
 
 Zenit St. Petersburg, 1925,     St. Petersburg
@@ -40,23 +46,21 @@ FC Alania Vladikavkaz,  Vladikovkaz
 
 PFC Krylya Sovetov Samara,    Samara
   | Krylya Sovetov | FK Krylya Sovetov Samara
-  | Krylia Sovetov | Kryl'ia Sovetov | Krylia Sovetov Samara
-
+  | Krylia Sovetov | Kryl'ia Sovetov | Krylia Sovetov Samara | PFC Krylia Sovetov Samara
 
 Arsenal Tula,  Tula
-  | Arsenal | FC Arsenal Tula,
+  | Arsenal | FC Arsenal Tula
 
 Chernomorets Novorosisk,  Novorosisk
-  | Chernomorets
+  | Chernomorets | FC Chernomorets Novorossiysk
 
 FC Khimki,  Khimki
   | Khimki
 
 FC Krasnodar,  Krasnodar
   | Krasnodar | Krasnodar Krasnodar
-
 FC Kuban,    Krasnodar
-  | Kuban | Kuban' | Kuban Krasnodar
+  | Kuban | Kuban' | Kuban Krasnodar | FC Kuban Krasnodar
 
 Luch Energia Vladivostok,   Vladivostok
   | Luch
@@ -80,21 +84,25 @@ SKA-Energiia, Khabarovsk
   | SKA Energia | SKA Khabarovsk
 Sokol, Saratov
 Terek Grozny, Grozny
-  | Terek
+  | Terek | FC Terek Grozny
 Akhmat Grozny, Grozny
+  | FC Akhmat Grozny
 Tom Tomsk, Tomsk
-  | Tom | Tom' | Tomsk
+  | Tom | Tom' | Tomsk | FC Tom Tomsk
 Tosno,  Tosno
 FC Ufa, Ufa
   | Ufa | Ufa Ufa
 Ural Yekaterinburg, Yekaterinburg
-  | Ural
+  | Ural | FC Ural Yekaterinburg
+  | Football Club Ural Sverdlovsk Oblast
 Uralan, Elista
 Volga Nizhnii Novgorod, Nizhny Novgorod
   | Volga | Volga N. Novgorod
 
 FC Tambov,  Tambov
-Orenburg,  Orenburg
+FC Orenburg,  Orenburg
+  | Orenburg
 Volgar-Astrakhan,  Astrakhan
 Vladikavkaz,   Vladikavkaz
 Yenisey, Krasnoyarsk
+  | FC Yenisey Krasnoyarsk

@@ -1,0 +1,16 @@
+#########################################
+# Scotland (SCO),  sco
+
+Name,                   Web
+Celtic FC,              www.celticfc.net
+Motherwell FC,          www.motherwellfc.co.uk
+Dundee United,          www.dundeeunitedfc.co.uk
+Dundee FC,              www.dundeefc.co.uk
+Aberdeen FC,            www.afc.co.uk
+Saint Johnstone FC,     www.perthstjohnstonefc.co.uk
+Inverness CT,           www.ictfc.com
+Kilmarnock FC,          www.kilmarnockfc.co.uk
+Partick Thistle,        www.ptfc.co.uk
+Ross County FC,         www.rosscountyfootballclub.co.uk
+Saint Mirren FC,        www.saintmirren.net
+Hamilton Accies,        www.acciesfc.co.uk

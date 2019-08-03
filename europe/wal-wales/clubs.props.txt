@@ -1,7 +1,5 @@
 #######################
 # Wales (WAL), wal
 
-Name,            Wikipedia,            Web
-Swansea City,    Swansea_City_A.F.C.,  www.swanseacity.net
-Cardiff City,    Cardiff_City_F.C.
-Newport County,  Newport_County_A.F.C.
+Name,            Web
+Swansea City,    www.swanseacity.net

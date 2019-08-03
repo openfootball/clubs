@@ -55,8 +55,7 @@ Livingston FC, Livingston
 Queen of the South,  Dumfries
   | Queen of Sth
 Saint Mirren FC, 1877,  Paisley
-  | St Mirren | St. Mirren
-
+  | St Mirren | St Mirren FC
 
 ## todo/check/fix: map Airdrie to Airdrieonians  - why? why not?
 ##

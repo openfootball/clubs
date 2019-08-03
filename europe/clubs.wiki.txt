@@ -79,10 +79,39 @@ FC Vysočina Jihlava
 FC Zbrojovka Brno
 
 
-========================================
-=   Monaco (mc)
 
-AS Monaco FC
+====================================
+=  England (eng)
+
+Arsenal F.C.
+A.F.C. Bournemouth
+Brighton & Hove Albion F.C.
+Burnley F.C.
+Chelsea F.C.
+Crystal Palace F.C.
+Everton F.C.
+Fulham F.C.
+Huddersfield Town A.F.C.
+Leicester City F.C.
+Liverpool F.C.
+Manchester City F.C.
+Manchester United F.C.
+Newcastle United F.C.
+Southampton F.C.
+Tottenham Hotspur F.C.
+Watford F.C.
+West Ham United F.C.
+Wolverhampton Wanderers F.C.
+West Bromwich Albion F.C.
+Stoke City F.C.
+Sunderland A.F.C.
+Aston Villa F.C.
+Norwich City F.C.
+Hull City A.F.C.
+Queens Park Rangers F.C.
+Middlesbrough F.C.
+Reading F.C.
+
 
 
 ====================================
@@ -117,7 +146,6 @@ FC Metz
 AC Ajaccio
 
 
-
 ============================================
 = Germany • Deutschland (de)
 
@@ -139,7 +167,6 @@ FC Bayern Munich
 FC Schalke 04
 VfB Stuttgart
 VfL Wolfsburg
-
 
 
 ==========================================
@@ -166,6 +193,11 @@ S.P.A.L.
 Torino F.C.
 Udinese Calcio
 
+
+========================================
+=   Monaco (mc)
+
+AS Monaco FC
 
 
 =====================================
@@ -196,6 +228,109 @@ Roda JC Kerkrade
 SC Cambuur
 
 
+
+====================================
+=  Portugal (pt)
+
+Belenenses SAD
+S.L. Benfica
+Boavista F.C.
+S.C. Braga
+G.D. Chaves
+C.D. Aves
+C.D. Feirense
+C.S. Marítimo
+Moreirense F.C.
+C.D. Nacional
+FC Porto
+Portimonense S.C.
+Rio Ave F.C.
+C.D. Santa Clara
+Sporting CP
+C.D. Tondela
+Vitória S.C.    ## Vitória de Guimarães
+Vitória F.C.    ## Vitória de Setúbal
+
+=====================================
+=  Russia (ru)
+
+FC Akhmat Grozny
+FC Terek Grozny
+FC Anzhi Makhachkala
+FC Arsenal Tula
+PFC CSKA Moscow
+FC Dynamo Moscow
+FC Krasnodar
+FC Kuban Krasnodar
+PFC Krylia Sovetov Samara
+FC Lokomotiv Moscow
+FC Rostov
+FC Orenburg
+FC Rubin Kazan
+FC Spartak Moscow
+FC Ufa
+FC Ural Yekaterinburg
+FC Yenisey Krasnoyarsk
+FC Zenit Saint Petersburg
+FC Moscow
+FC Torpedo Moscow
+FC Amkar Perm
+FC Sibir Novosibirsk
+FC Alania Vladikavkaz
+FC Chernomorets Novorossiysk
+FC Tom Tomsk
+
+
+
+==============================================
+=  Scotland (sco)
+
+Aberdeen F.C.
+Celtic F.C.
+Dundee F.C.
+Hamilton Academical F.C.
+Heart of Midlothian F.C.
+Hibernian F.C.
+Kilmarnock F.C.
+Livingston F.C.
+Motherwell F.C.
+Rangers F.C.
+St Johnstone F.C.
+St Mirren F.C.
+Dundee United F.C.
+Inverness Caledonian Thistle F.C.
+Partick Thistle F.C.
+Ross County F.C.
+Clydebank F.C.
+East Stirlingshire F.C.
+Gretna F.C.
+
+
+====================================
+=  Spain • España (es)
+
+Deportivo Alavés
+Athletic Bilbao
+Atlético Madrid
+FC Barcelona
+RC Celta de Vigo
+SD Eibar
+RCD Espanyol
+Getafe CF
+Girona FC
+SD Huesca
+CD Leganés
+Levante UD
+Rayo Vallecano
+Real Betis
+Real Madrid CF
+Real Sociedad
+Sevilla FC
+Valencia CF
+Real Valladolid
+Villarreal CF
+
+
 ===================================================
 =  Switzerland • Confoederatio Helvetica (ch)
 
@@ -210,7 +345,6 @@ FC Thun
 Neuchâtel Xamax FCS
 BSC Young Boys
 FC Zürich
-
 
 
 ===================================
@@ -234,3 +368,11 @@ Konyaspor
 Sivasspor
 Trabzonspor
 Yeni Malatyaspor
+
+
+================================
+=  Wales (wal)
+
+Cardiff City F.C.
+Swansea City A.F.C.
+Newport County A.F.C.

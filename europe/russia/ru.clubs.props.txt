@@ -1,0 +1,14 @@
+#############################
+# Russia (RUS), ru
+
+Name,                    Web
+Lokomotiv Moscow,        www.fclm.ru
+CSKA Moskva,             www.pfc-cska.com
+Dynamo Moscow,           www.fcdynamo.ru
+Spartak Moskva,          www.spartak.com
+FC Moskva,               ?
+Torpedo Moscow,          www.fc-tm.ru
+Zenit St. Petersburg,    www.fc-zenit.ru
+FC Rubin Kazan,          www.rubinfc.com
+FC Amkar Perm,           www.fc-amkar.org
+FC Anzhi Makhachkala,    www.fc-anji.ru
