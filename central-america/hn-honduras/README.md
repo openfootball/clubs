@@ -1,8 +1,8 @@
 5 clubs
 
 - **CD Olimpia** : (1) Olimpia
-- **CD Marathón** : (1) Marathón ⇒ (2) Marathon† • CD Marathon†
-- **Real CD España** : (1) Real España ⇒ (2) Real Espana† • Real CD Espana†
+- **CD Marathón** : (1) Marathón ≈ (2) ≈Marathon† • ≈CD Marathon†
+- **Real CD España** : (1) Real España ≈ (2) ≈Real Espana† • ≈Real CD Espana†
 - **CD Motagua** : (1) Motagua
 - **CD Victoria** : (1) Victoria
 
@@ -12,8 +12,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **ñ**  **ó** 
-  - **ñ** (241 / 00f1)×2 ⇒ n
-  - **ó** (243 / 00f3)×2 ⇒ o
+  - **ñ** U+00F1 (241)×2 ⇒ n
+  - **ó** U+00F3 (243)×2 ⇒ o
 
 
 

@@ -1,6 +1,6 @@
 1 clubs
 
-- **Real Estelí** : (2) R. Estelí • Real Estelí FC ⇒ (3) R. Esteli† • Real Esteli† • Real Esteli FC†
+- **Real Estelí** : (2) R. Estelí • Real Estelí FC ≈ (3) ≈R. Esteli† • ≈Real Esteli† • ≈Real Esteli FC†
 
 
 
@@ -8,7 +8,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **í** 
-  - **í** (237 / 00ed)×3 ⇒ i
+  - **í** U+00ED (237)×3 ⇒ i
 
 
 

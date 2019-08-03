@@ -1,71 +1,71 @@
 88 clubs
 
-- **Atlético Madrid** : (4) Atlético • Ath Madrid [en] • Atlético de Madrid • Club Atlético de Madrid ⇒ (4) Atletico† • Atletico Madrid† • Atletico de Madrid† • Club Atletico de Madrid†
-- **Atlético Madrid B** : (1) Ath Madrid B [en] ⇒ (1) Atletico Madrid B†
-- **Real Madrid** : (3) R. Madrid • Real Madrid CF • Real Madrid Club de Fútbol ⇒ (1) Real Madrid Club de Futbol†
+- **Atlético Madrid** : (4) Atlético • Ath Madrid [en] • Atlético de Madrid • Club Atlético de Madrid ≈ (4) ≈Atletico† • ≈Atletico Madrid† • ≈Atletico de Madrid† • ≈Club Atletico de Madrid†
+- **Atlético Madrid B** : (1) Ath Madrid B [en] ≈ (1) ≈Atletico Madrid B†
+- **Real Madrid** : (3) R. Madrid • Real Madrid CF • Real Madrid Club de Fútbol ≈ (1) ≈Real Madrid Club de Futbol†
 - **Real Madrid B** : (1) Real Madrid CF B
-- **Getafe CF** : (2) Getafe • Getafe Club de Fútbol ⇒ (1) Getafe Club de Futbol†
+- **Getafe CF** : (2) Getafe • Getafe Club de Fútbol ≈ (1) ≈Getafe Club de Futbol†
 - **Rayo Vallecano** : (3) Rayo • Vallecano • Rayo Vallecano de Madrid
-- **AD Alcorcón** : (2) Alcorcón • Agrupación Deportiva Alcorcón ⇒ (3) Alcorcon† • AD Alcorcon† • Agrupacion Deportiva Alcorcon†
-- **Málaga CF** : (3) Málaga • CF Málaga • FC Málaga ⇒ (4) Malaga† • CF Malaga† • Malaga CF† • FC Malaga†
-- **Málaga CF B** : (1) Málaga B ⇒ (2) Malaga B† • Malaga CF B†
-- **Sevilla FC** : (2) Sevilla • Sevilla Fútbol Club ⇒ (1) Sevilla Futbol Club†
+- **AD Alcorcón** : (2) Alcorcón • Agrupación Deportiva Alcorcón ≈ (3) ≈Alcorcon† • ≈AD Alcorcon† • ≈Agrupacion Deportiva Alcorcon†
+- **Málaga CF** : (3) Málaga • CF Málaga • FC Málaga ≈ (4) ≈Malaga† • ≈CF Malaga† • ≈Malaga CF† • ≈FC Malaga†
+- **Málaga CF B** : (1) Málaga B ≈ (2) ≈Malaga B† • ≈Malaga CF B†
+- **Sevilla FC** : (2) Sevilla • Sevilla Fútbol Club ≈ (1) ≈Sevilla Futbol Club†
 - **Sevilla FC B** : (1) Sevilla B
-- **Real Betis** : (4) Betis • Betis Sevilla • Real Betis Sevilla • Real Betis Balompié ⇒ (1) Real Betis Balompie†
+- **Real Betis** : (4) Betis • Betis Sevilla • Real Betis Sevilla • Real Betis Balompié ≈ (1) ≈Real Betis Balompie†
 - **Algeciras CF** : (1) Algeciras
-- **UD Almería** : (2) Almería • Unión Deportiva Almería ⇒ (3) Almeria† • UD Almeria† • Union Deportiva Almeria†
-- **Cádiz CF** : (1) Cádiz ⇒ (2) Cadiz† • Cadiz CF†
-- **Córdoba CF** : (2) Córdoba • Córdoba Club de Fútbol ⇒ (3) Cordoba† • Cordoba CF† • Cordoba Club de Futbol†
-- **Écija Balompié** : (1) Écija ⇒ (2) Ecija† • Ecija Balompie†
-- **Real Jaén CF** : (2) Jaén • Real Jaén Club de Fútbol ⇒ (3) Jaen† • Real Jaen CF† • Real Jaen Club de Futbol†
-- **Granada CF** : (2) Granada • Granada Club de Fútbol ⇒ (1) Granada Club de Futbol†
+- **UD Almería** : (2) Almería • Unión Deportiva Almería ≈ (3) ≈Almeria† • ≈UD Almeria† • ≈Union Deportiva Almeria†
+- **Cádiz CF** : (1) Cádiz ≈ (2) ≈Cadiz† • ≈Cadiz CF†
+- **Córdoba CF** : (2) Córdoba • Córdoba Club de Fútbol ≈ (3) ≈Cordoba† • ≈Cordoba CF† • ≈Cordoba Club de Futbol†
+- **Écija Balompié** : (1) Écija ≈ (2) ≈Ecija† • ≈Ecija Balompie†
+- **Real Jaén CF** : (2) Jaén • Real Jaén Club de Fútbol ≈ (3) ≈Jaen† • ≈Real Jaen CF† • ≈Real Jaen Club de Futbol†
+- **Granada CF** : (2) Granada • Granada Club de Fútbol ≈ (1) ≈Granada Club de Futbol†
 - **Granada 74**
-- **FC Barcelona** : (2) Barcelona • Fútbol Club Barcelona ⇒ (1) Futbol Club Barcelona†
-- **FC Barcelona B** : (2) Barcelona B • Fútbol Club Barcelona B ⇒ (1) Futbol Club Barcelona B†
-- **RCD Espanyol** : (6) Español • Espanyol • Real CD Espanyol • Espanyol Barcelona • Real Club Deportivo Español • Real Club Deportivo Espanyol ⇒ (2) Espanol† • Real Club Deportivo Espanol†
-- **Gimnàstic Tarragona** : (1) Gimnàstic ⇒ (2) Gimnastic† • Gimnastic Tarragona†
+- **FC Barcelona** : (2) Barcelona • Fútbol Club Barcelona ≈ (1) ≈Futbol Club Barcelona†
+- **FC Barcelona B** : (2) Barcelona B • Fútbol Club Barcelona B ≈ (1) ≈Futbol Club Barcelona B†
+- **RCD Espanyol** : (6) Español • Espanyol • Real CD Espanyol • Espanyol Barcelona • Real Club Deportivo Español • Real Club Deportivo Espanyol ≈ (2) ≈Espanol† • ≈Real Club Deportivo Espanol†
+- **Gimnàstic Tarragona** : (1) Gimnàstic ≈ (2) ≈Gimnastic† • ≈Gimnastic Tarragona†
 - **Girona FC** : (2) Girona • Girona Futbol Club
-- **RCD La Coruña** : (7) La Coruña • Deportivo • Deportivo da Coruña • Deportivo La Coruña • Deportivo de La Coruña • RC Deportivo de La Coruña • Real Club Deportivo La Coruña ⇒ (7) La Coruna† • RCD La Coruna† • Deportivo La Coruna† • Deportivo da Coruna† • Deportivo de La Coruna† • RC Deportivo de La Coruna† • Real Club Deportivo La Coruna†
+- **RCD La Coruña** : (7) La Coruña • Deportivo • Deportivo da Coruña • Deportivo La Coruña • Deportivo de La Coruña • RC Deportivo de La Coruña • Real Club Deportivo La Coruña ≈ (7) ≈La Coruna† • ≈RCD La Coruna† • ≈Deportivo La Coruna† • ≈Deportivo da Coruna† • ≈Deportivo de La Coruna† • ≈RC Deportivo de La Coruna† • ≈Real Club Deportivo La Coruna†
 - **RC Celta Vigo** : (6) Celta • Celta Vigo • R.C. Celta • RC Celta de Vigo • Real Club Celta Vigo • Real Club Celta de Vigo
 - **SD Compostela** : (1) Compostela
 - **Racing Ferrol** : (1) Ferrol
-- **Valencia CF** : (4) Valencia • FC Valencia • CF Valencia • Valencia Club de Fútbol ⇒ (1) Valencia Club de Futbol†
-- **Levante UD** : (2) Levante • Levante Unión Deportiva ⇒ (1) Levante Union Deportiva†
+- **Valencia CF** : (4) Valencia • FC Valencia • CF Valencia • Valencia Club de Fútbol ≈ (1) ≈Valencia Club de Futbol†
+- **Levante UD** : (2) Levante • Levante Unión Deportiva ≈ (1) ≈Levante Union Deportiva†
 - **Alicante CF** : (1) Alicante
-- **Hércules CF** : (2) Hércules • Hércules de Alicante Club de Fútbol ⇒ (3) Hercules† • Hercules CF† • Hercules de Alicante Club de Futbol†
+- **Hércules CF** : (2) Hércules • Hércules de Alicante Club de Fútbol ≈ (3) ≈Hercules† • ≈Hercules CF† • ≈Hercules de Alicante Club de Futbol†
 - **CD Alcoyano** : (1) Alcoyano
 - **Elche CF** : (1) Elche
-- **CD Castellón** : (1) Castellón ⇒ (2) Castellon† • CD Castellon†
+- **CD Castellón** : (1) Castellón ≈ (2) ≈Castellon† • ≈CD Castellon†
 - **Villarreal CF** : (2) Villareal • Villarreal
 - **Villarreal CF B** : (1) Villarreal B
-- **Real Sociedad** : (4) Sociedad • R. Sociedad • Real Sociedad de Fútbol • Real Sociedad San Sebastián ⇒ (2) Real Sociedad de Futbol† • Real Sociedad San Sebastian†
-- **Deportivo Alavés** : (2) Alavés • CD Alavés ⇒ (3) Alaves† • CD Alaves† • Deportivo Alaves†
+- **Real Sociedad** : (4) Sociedad • R. Sociedad • Real Sociedad de Fútbol • Real Sociedad San Sebastián ≈ (2) ≈Real Sociedad de Futbol† • ≈Real Sociedad San Sebastian†
+- **Deportivo Alavés** : (2) Alavés • CD Alavés ≈ (3) ≈Alaves† • ≈CD Alaves† • ≈Deportivo Alaves†
 - **SD Eibar** : (2) Eibar • Sociedad Deportiva Eibar
 - **Athletic Club Bilbao** : (4) Athletic • Ath Bilbao • Athletic Club • Athletic Bilbao
 - **Athletic Club Bilbao B** : (1) Ath Bilbao B
-- **Sporting Gijón** : (5) Sporting • Sp Gijón • Real Sporting • Sporting de Gijón • Real Sporting de Gijón ⇒ (4) Sp Gijon† • Sporting Gijon† • Sporting de Gijon† • Real Sporting de Gijon†
-- **Albacete Balompié** : (1) Albacete ⇒ (1) Albacete Balompie†
+- **Sporting Gijón** : (5) Sporting • Sp Gijón • Real Sporting • Sporting de Gijón • Real Sporting de Gijón ≈ (4) ≈Sp Gijon† • ≈Sporting Gijon† • ≈Sporting de Gijon† • ≈Real Sporting de Gijon†
+- **Albacete Balompié** : (1) Albacete ≈ (1) ≈Albacete Balompie†
 - **CD Guadalajara** : (1) Guadalajara
 - **CD Badajoz** : (1) Badajoz
 - **CF Extremadura** : (1) Extremadura
-- **CP Mérida** : (1) Mérida ⇒ (2) Merida† • CP Merida†
+- **CP Mérida** : (1) Mérida ≈ (2) ≈Merida† • ≈CP Merida†
 - **Burgos CF** : (1) Burgos
-- **CD Mirandés** : (2) Mirandés • Club Deportivo Mirandés ⇒ (3) Mirandes† • CD Mirandes† • Club Deportivo Mirandes†
-- **Real Murcia CF** : (2) Murcia • Real Murcia Club de Fútbol ⇒ (1) Real Murcia Club de Futbol†
+- **CD Mirandés** : (2) Mirandés • Club Deportivo Mirandés ≈ (3) ≈Mirandes† • ≈CD Mirandes† • ≈Club Deportivo Mirandes†
+- **Real Murcia CF** : (2) Murcia • Real Murcia Club de Fútbol ≈ (1) ≈Real Murcia Club de Futbol†
 - **UCAM Murcia**
 - **CF Ciudad de Murcia** : (1) Ciudad de Murcia
 - **FC Cartagena** : (1) Cartagena
 - **SD Huesca** : (1) Huesca
-- **UD Las Palmas** : (2) Las Palmas • Unión Deportiva Las Palmas ⇒ (1) Union Deportiva Las Palmas†
+- **UD Las Palmas** : (2) Las Palmas • Unión Deportiva Las Palmas ≈ (1) ≈Union Deportiva Las Palmas†
 - **Universidad Las Palmas** : (1) U.Las Palmas
 - **RCD Mallorca** : (3) Mallorca • Real CD Mallorca • Real Club Deportivo Mallorca
 - **RCD Mallorca B** : (1) Mallorca B
-- **CA Osasuna** : (3) Osasuna • At. Osasuna • Club Atlético Osasuna ⇒ (1) Club Atletico Osasuna†
-- **CD Leganés** : (2) Leganés • Club Deportivo Leganés ⇒ (3) Leganes† • CD Leganes† • Club Deportivo Leganes†
+- **CA Osasuna** : (3) Osasuna • At. Osasuna • Club Atlético Osasuna ≈ (1) ≈Club Atletico Osasuna†
+- **CD Leganés** : (2) Leganés • Club Deportivo Leganés ≈ (3) ≈Leganes† • ≈CD Leganes† • ≈Club Deportivo Leganes†
 - **Cultural Leonesa** : (1) Leonesa
 - **UE Lleida** : (2) Lleida • Lerida
 - **UE Llagostera** : (1) Llagostera
-- **CD Logroñés** : (1) Logroñés ⇒ (2) Logrones† • CD Logrones†
+- **CD Logroñés** : (1) Logroñés ≈ (2) ≈Logrones† • ≈CD Logrones†
 - **Lorca FC** : (1) Lorca
 - **CD Lugo** : (2) Lugo • Club Deportivo Lugo
 - **CD Numancia** : (2) Numancia • Club Deportivo Numancia de Soria
@@ -74,7 +74,7 @@
 - **Polideportivo Ejido** : (1) Poli Ejido
 - **SD Ponferradina** : (2) Ponferradina • Sociedad Deportiva Ponferradina
 - **Pontevedra CF** : (1) Pontevedra
-- **Real Unión** ⇒ (1) Real Union†
+- **Real Unión** ≈ (1) ≈Real Union†
 - **Recreativo Huelva** : (3) Recreativo • RC Recreativo de Huelva • Real Club Recreativo de Huelva
 - **CF Reus** : (1) Reus Deportiu
 - **CE Sabadell** : (3) Sabadell • CE Sabadell FC • Centre d'Esports Sabadell Futbol Club
@@ -83,11 +83,11 @@
 - **CD Tenerife** : (2) Tenerife • Club Deportivo Tenerife
 - **Terrassa FC** : (1) Terrassa
 - **CD Toledo** : (1) Toledo
-- **Real Valladolid CF** : (4) Valladolid • Real Valladolid • R. Valladolid C.F. • Real Valladolid Club de Fútbol ⇒ (1) Real Valladolid Club de Futbol†
+- **Real Valladolid CF** : (4) Valladolid • Real Valladolid • R. Valladolid C.F. • Real Valladolid Club de Fútbol ≈ (1) ≈Real Valladolid Club de Futbol†
 - **UD Vecindario** : (1) Vecindario
 - **Xerez CD** : (1) Xerez
 - **Real Zaragoza** : (1) Zaragoza
-- **Real Madrid Castilla** : (2) Castilla • Real Madrid Castilla Club de Fútbol ⇒ (1) Real Madrid Castilla Club de Futbol†
+- **Real Madrid Castilla** : (2) Castilla • Real Madrid Castilla Club de Fútbol ≈ (1) ≈Real Madrid Castilla Club de Futbol†
 
 
 
@@ -95,14 +95,14 @@
 Alphabet
 
 - **Alphabet Specials** (8):  **É**  **à**  **á**  **é**  **í**  **ñ**  **ó**  **ú** 
-  - **É** (201 / 00c9)×2 ⇒ E
-  - **à** (224 / 00e0)×2 ⇒ a
-  - **á** (225 / 00e1)×9 ⇒ a
-  - **é** (233 / 00e9)×28 ⇒ e
-  - **í** (237 / 00ed)×3 ⇒ i
-  - **ñ** (241 / 00f1)×11 ⇒ n
-  - **ó** (243 / 00f3)×17 ⇒ o
-  - **ú** (250 / 00fa)×14 ⇒ u
+  - **É** U+00C9 (201)×2 ⇒ E
+  - **à** U+00E0 (224)×2 ⇒ a
+  - **á** U+00E1 (225)×9 ⇒ a
+  - **é** U+00E9 (233)×28 ⇒ e
+  - **í** U+00ED (237)×3 ⇒ i
+  - **ñ** U+00F1 (241)×11 ⇒ n
+  - **ó** U+00F3 (243)×17 ⇒ o
+  - **ú** U+00FA (250)×14 ⇒ u
 
 
 

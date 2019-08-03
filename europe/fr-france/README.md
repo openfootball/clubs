@@ -7,50 +7,50 @@
 - **Angers SCO** : (2) Angers • Angers Sporting Club de l'Ouest
 - **Girondins de Bordeaux** : (3) Bordeaux • FC Girondins de Bordeaux • Football Club des Girondins de Bordeaux
 - **Stade Malherbe Caen** : (3) Caen • SM Caen • Stade Malherbe de Caen
-- **Dijon FCO** : (2) Dijon • Dijon Football Côte-d'Or ⇒ (1) Dijon Football Cote-d'Or†
+- **Dijon FCO** : (2) Dijon • Dijon Football Côte-d'Or ≈ (1) ≈Dijon Football Cote-d'Or†
 - **EA Guingamp** : (3) Guingamp • En Avant Guingamp • En Avant de Guingamp
 - **Lille OSC** : (4) LOSC • Lille • OSC Lille • LOSC Lille
 - **Olympique Lyonnais** : (2) Lyon • Olympique Lyon
 - **Olympique de Marseille** : (2) Marseille • Olympique Marseille
 - **FC Metz** : (2) Metz • Football Club de Metz
-- **Montpellier HSC** : (4) Montpellier • HSC Montpellier • Montpellier Hérault SC • Montpellier-Herault Sports Club ⇒ (1) Montpellier Herault SC†
+- **Montpellier HSC** : (4) Montpellier • HSC Montpellier • Montpellier Hérault SC • Montpellier-Herault Sports Club ≈ (1) ≈Montpellier Herault SC†
 - **FC Nantes** : (2) Nantes • Football Club de Nantes
-- **OGC Nice** : (2) Nice • Olympique Gymnaste Club Nice Côte d'Azur ⇒ (1) Olympique Gymnaste Club Nice Cote d'Azur†
+- **OGC Nice** : (2) Nice • Olympique Gymnaste Club Nice Côte d'Azur ≈ (1) ≈Olympique Gymnaste Club Nice Cote d'Azur†
 - **Stade Rennais FC** : (2) Rennes • Stade Rennais Football Club
-- **AS Saint-Étienne** : (4) St Etienne • St-Étienne • AS Saint-Etienne • Association Sportive de Saint-Étienne Loire ⇒ (3) St-Etienne† • AS Saint-Etienne† • Association Sportive de Saint-Etienne Loire†
+- **AS Saint-Étienne** : (4) St Etienne • St-Étienne • AS Saint-Etienne • Association Sportive de Saint-Étienne Loire ≈ (3) ≈St-Etienne† • ≈AS Saint-Etienne† • ≈Association Sportive de Saint-Etienne Loire†
 - **RC Strasbourg** : (1) Strasbourg
 - **Toulouse FC** : (2) Toulouse • Toulouse Football Club
-- **ES Troyes AC** : (3) Troyes • ESTAC Troyes • Espérance Sportive Troyes Aube Champagne ⇒ (1) Esperance Sportive Troyes Aube Champagne†
+- **ES Troyes AC** : (3) Troyes • ESTAC Troyes • Espérance Sportive Troyes Aube Champagne ≈ (1) ≈Esperance Sportive Troyes Aube Champagne†
 - **Stade de Reims** : (2) Reims • Stade Reims
-- **Nîmes Olympique** : (1) Nimes ⇒ (1) Nimes Olympique†
+- **Nîmes Olympique** : (1) Nimes ≈ (1) ≈Nimes Olympique†
 - **AC Ajaccio** : (2) Ajaccio • Athletic Club Ajaccien
-- **GFC Ajaccio** : (2) Ajaccio GFCO • Gazélec Football Club Ajaccio ⇒ (1) Gazelec Football Club Ajaccio†
+- **GFC Ajaccio** : (2) Ajaccio GFCO • Gazélec Football Club Ajaccio ≈ (1) ≈Gazelec Football Club Ajaccio†
 - **AJ Auxerre** : (2) Auxerre • Association de la Jeunesse Auxerroise
 - **Bourg-en-Bresse 01** : (1) Bourg Peronnas
 - **Stade Brestois 29** : (2) Brest • Stade Brestois
-- **LB Châteauroux** : (2) Chateauroux • La Berrichonne de Châteauroux ⇒ (2) LB Chateauroux† • La Berrichonne de Chateauroux†
+- **LB Châteauroux** : (2) Chateauroux • La Berrichonne de Châteauroux ≈ (2) ≈LB Chateauroux† • ≈La Berrichonne de Chateauroux†
 - **Clermont Foot 63** : (2) Clermont • Clermont Foot
 - **Le Havre AC** : (3) Le Havre • Havre AC • Le Havre Athletic Club Football
 - **RC Lens** : (2) Lens • Racing Club de Lens
 - **FC Lorient** : (2) Lorient • Football Club Lorient-Bretagne Sud
 - **AS Nancy Lorraine** : (3) Nancy • AS Nancy-Lorraine • Association Sportive Nancy-Lorraine
 - **Chamois Niortais FC** : (3) Niort • Chamois Niortais • Chamois Niortais Football Club
-- **US Orléans** : (2) Orleans • Union sportive Orléans Loiret football ⇒ (2) US Orleans† • Union sportive Orleans Loiret football†
-- **US Quevilly-Rouen Métropole** : (2) Quevilly Rouen • Quevilly-Rouen ⇒ (1) US Quevilly-Rouen Metropole†
-- **FC Sochaux-Montbéliard** : (2) Sochaux • Football Club de Sochaux-Montbéliard ⇒ (2) FC Sochaux-Montbeliard† • Football Club de Sochaux-Montbeliard†
+- **US Orléans** : (2) Orleans • Union sportive Orléans Loiret football ≈ (2) ≈US Orleans† • ≈Union sportive Orleans Loiret football†
+- **US Quevilly-Rouen Métropole** : (2) Quevilly Rouen • Quevilly-Rouen ≈ (1) ≈US Quevilly-Rouen Metropole†
+- **FC Sochaux-Montbéliard** : (2) Sochaux • Football Club de Sochaux-Montbéliard ≈ (2) ≈FC Sochaux-Montbeliard† • ≈Football Club de Sochaux-Montbeliard†
 - **Tours FC** : (2) Tours • Tours Football Club
 - **Valenciennes FC** : (2) Valenciennes • Valenciennes Football Club
 - **AC Arles-Avignon** : (3) Arles • AC Arles Avignon • Athletic Club Arles-Avignon
 - **SC Bastia** : (2) Bastia • Sporting Club de Bastia
 - **CA Bastia**
 - **AS Beauvais Oise** : (1) Beauvais
-- **Racing Besançon** : (2) Besancon • Besançon RC ⇒ (2) Besancon RC† • Racing Besancon†
+- **Racing Besançon** : (2) Besancon • Besançon RC ≈ (2) ≈Besancon RC† • ≈Racing Besancon†
 - **US Boulogne** : (1) Boulogne
 - **AS Cannes** : (1) Cannes
 - **FCO Charleville** : (1) Charleville
-- **US Créteil** : (3) Creteil • US Créteil-Lusitanos • Union Sportive Créteil-Lusitanos ⇒ (3) US Creteil† • US Creteil-Lusitanos† • Union Sportive Creteil-Lusitanos†
-- **SAS Épinal** : (1) Epinal ⇒ (1) SAS Epinal†
-- **Évian TG FC** : (4) Evian Thonon Gaillard • Évian Thonon Gaillard FC • Évian Thonon-Gaillard FC • Evian Thonon Gaillard Football Club ⇒ (3) Evian TG FC† • Evian Thonon Gaillard FC† • Evian Thonon-Gaillard FC†
+- **US Créteil** : (3) Creteil • US Créteil-Lusitanos • Union Sportive Créteil-Lusitanos ≈ (3) ≈US Creteil† • ≈US Creteil-Lusitanos† • ≈Union Sportive Creteil-Lusitanos†
+- **SAS Épinal** : (1) Epinal ≈ (1) ≈SAS Epinal†
+- **Évian TG FC** : (4) Evian Thonon Gaillard • Évian Thonon Gaillard FC • Évian Thonon-Gaillard FC • Evian Thonon Gaillard Football Club ≈ (3) ≈Evian TG FC† • ≈Evian Thonon Gaillard FC† • ≈Evian Thonon-Gaillard FC†
 - **Grenoble Foot 38** : (1) Grenoble
 - **FC Gueugnon** : (1) Gueugnon
 - **FC Istres** : (1) Istres
@@ -63,7 +63,7 @@
 - **Perpignan FC** : (1) Perpignan
 - **FC Rouen** : (1) Rouen
 - **CS Sedan-Ardennes** : (1) Sedan
-- **FC Sète** : (1) Sete ⇒ (1) FC Sete†
+- **FC Sète** : (1) Sete ≈ (1) ≈FC Sete†
 - **Stade Briochin** : (1) St Brieuc
 - **Sporting Toulon Var** : (1) Toulon
 - **ASOA Valence** : (1) Valence
@@ -76,13 +76,13 @@
 Alphabet
 
 - **Alphabet Specials** (7):  **É**  **â**  **ç**  **è**  **é**  **î**  **ô** 
-  - **É** (201 / 00c9)×7 ⇒ E
-  - **â** (226 / 00e2)×2 ⇒ a
-  - **ç** (231 / 00e7)×2 ⇒ c
-  - **è** (232 / 00e8)×1 ⇒ e
-  - **é** (233 / 00e9)×11 ⇒ e
-  - **î** (238 / 00ee)×1 ⇒ i
-  - **ô** (244 / 00f4)×2 ⇒ o
+  - **É** U+00C9 (201)×7 ⇒ E
+  - **â** U+00E2 (226)×2 ⇒ a
+  - **ç** U+00E7 (231)×2 ⇒ c
+  - **è** U+00E8 (232)×1 ⇒ e
+  - **é** U+00E9 (233)×11 ⇒ e
+  - **î** U+00EE (238)×1 ⇒ i
+  - **ô** U+00F4 (244)×2 ⇒ o
 
 
 

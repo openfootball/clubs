@@ -9,17 +9,17 @@
 - **KuPS Kuopio** : (1) KuPS
 - **Myllykosken Pallo -47** : (3) MyPa • MYPA • Myllykosken Pallo-47
 - **FC Lahti** : (1) Lahti
-- **JJK Jyväskylä** : (2) JJK • JJK Jyvaskyla ⇒ (2) JJK Jyvaskyla† • JJK Jyvaeskylae†
+- **JJK Jyväskylä** : (2) JJK • JJK Jyvaskyla ≈ (2) ≈JJK Jyvaskyla† • ≈JJK Jyvaeskylae†
 - **Tampere United**
 - **FC Ilves** : (2) Ilves • Ilves Tampere
 - **IFK Mariehamn** : (1) Mariehamn
 - **KPV Kokkola** : (2) KPV • Kokkolan Palloveikot
 - **Rovaniemen Palloseura** : (3) RoPS • Rovaniemi • RoPS Rovaniemi
-- **SJK Seinäjoki** : (2) SJK • Seinäjoen Jalkapallokerho ⇒ (4) SJK Seinajoki† • SJK Seinaejoki† • Seinajoen Jalkapallokerho† • Seinaejoen Jalkapallokerho†
+- **SJK Seinäjoki** : (2) SJK • Seinäjoen Jalkapallokerho ≈ (4) ≈SJK Seinajoki† • ≈SJK Seinaejoki† • ≈Seinajoen Jalkapallokerho† • ≈Seinaejoen Jalkapallokerho†
 - **Vaasan Palloseura** : (2) VPS • VPS Vaasa
 - **FC Haka** : (1) Haka
-- **FF Jaro** : (2) Jaro • Fotbollsföreningen Jaro Jalkapalloseura ⇒ (2) Fotbollsforeningen Jaro Jalkapalloseura† • Fotbollsfoereningen Jaro Jalkapalloseura†
-- **KTP Kotka** : (2) KTP • Kotkan Työväen Palloilijat ⇒ (2) Kotkan Tyovaen Palloilijat† • Kotkan Tyoevaeen Palloilijat†
+- **FF Jaro** : (2) Jaro • Fotbollsföreningen Jaro Jalkapalloseura ≈ (2) ≈Fotbollsforeningen Jaro Jalkapalloseura† • ≈Fotbollsfoereningen Jaro Jalkapalloseura†
+- **KTP Kotka** : (2) KTP • Kotkan Työväen Palloilijat ≈ (2) ≈Kotkan Tyovaen Palloilijat† • ≈Kotkan Tyoevaeen Palloilijat†
 - **PK-35 Vantaa** : (2) PK-35 • Pallokerho-35
 - **Palloseura Kemi Kings** : (3) PS Kemi • Kemi City FC • Kemi City Football Club
 
@@ -29,8 +29,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **ä**  **ö** 
-  - **ä** (228 / 00e4)×5 ⇒ a•ae
-  - **ö** (246 / 00f6)×2 ⇒ o•oe
+  - **ä** U+00E4 (228)×5 ⇒ a•ae
+  - **ö** U+00F6 (246)×2 ⇒ o•oe
 
 
 

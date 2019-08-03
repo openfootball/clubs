@@ -1,7 +1,7 @@
 22 clubs
 
-- **Grasshoppers Zürich** : (3) Grasshoppers • Grasshoppers Zurich • Grasshopper Club Zürich ⇒ (4) Grasshoppers Zurich† • Grasshoppers Zuerich† • Grasshopper Club Zurich† • Grasshopper Club Zuerich†
-- **FC Zürich** : (3) Zürich • Zurich • FC Zurich ⇒ (4) Zurich† • Zuerich† • FC Zurich† • FC Zuerich†
+- **Grasshoppers Zürich** : (3) Grasshoppers • Grasshoppers Zurich • Grasshopper Club Zürich ≈ (4) ≈Grasshoppers Zurich† • ≈Grasshoppers Zuerich† • ≈Grasshopper Club Zurich† • ≈Grasshopper Club Zuerich†
+- **FC Zürich** : (3) Zürich • Zurich • FC Zurich ≈ (4) ≈Zurich† • ≈Zuerich† • ≈FC Zurich† • ≈FC Zuerich†
 - **FC Winterthur** : (1) Winterthur
 - **FC Basel** : (2) Basel • FC Basel 1893
 - **BSC Young Boys** : (4) BSC YB • Young Boys • Young Boys Bern • Berner Sport Club Young Boys
@@ -14,10 +14,10 @@
 - **FC Aarau** : (1) Aarau
 - **FC Wohlen** : (1) Wohlen
 - **FC Sion** : (1) Sion
-- **Xamax Neuchâtel** : (2) Xamax • Neuchâtel Xamax FCS ⇒ (2) Xamax Neuchatel† • Neuchatel Xamax FCS†
+- **Xamax Neuchâtel** : (2) Xamax • Neuchâtel Xamax FCS ≈ (2) ≈Xamax Neuchatel† • ≈Neuchatel Xamax FCS†
 - **FC Lausanne** : (2) Lausanne • FC Lausanne-Sport
 - **FC Le Mont** : (1) FC Le Mont-sur-Lausanne,
-- **Servette FC** : (3) Servette • Servette Genève • Servette FC Genève ⇒ (2) Servette Geneve† • Servette FC Geneve†
+- **Servette FC** : (3) Servette • Servette Genève • Servette FC Genève ≈ (2) ≈Servette Geneve† • ≈Servette FC Geneve†
 - **FC Lugano** : (1) Lugano
 - **FC Chiasso** : (1) Chiasso
 - **FC Locarno** : (1) Locarno
@@ -29,9 +29,9 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **â**  **è**  **ü** 
-  - **â** (226 / 00e2)×2 ⇒ a
-  - **è** (232 / 00e8)×2 ⇒ e
-  - **ü** (252 / 00fc)×4 ⇒ u•ue
+  - **â** U+00E2 (226)×2 ⇒ a
+  - **è** U+00E8 (232)×2 ⇒ e
+  - **ü** U+00FC (252)×4 ⇒ u•ue
 
 
 

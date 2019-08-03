@@ -1,7 +1,7 @@
 83 clubs
 
 - **AS Roma** : (2) Roma • Associazione Sportiva Roma
-- **SS Lazio** : (3) Lazio • Lazio Roma • Società Sportiva Lazio ⇒ (1) Societa Sportiva Lazio†
+- **SS Lazio** : (3) Lazio • Lazio Roma • Società Sportiva Lazio ≈ (1) ≈Societa Sportiva Lazio†
 - **AC Milan** : (2) Milan • Associazione Calcio Milan
 - **FC Internazionale Milano** : (2) Inter • Internazionale
 - **Torino FC** : (2) Torino • Torino Football Club
@@ -16,7 +16,7 @@
 - **Cagliari Calcio** : (1) Cagliari
 - **FC Crotone** : (3) Crotone • Crotone FC • Federazione Calcistica Crotone
 - **ACF Fiorentina** : (3) Fiorentina • AC Firenze • Associazione Calcio Firenze Fiorentina
-- **SSC Napoli** : (2) Napoli • Società Sportiva Calcio Napoli ⇒ (1) Societa Sportiva Calcio Napoli†
+- **SSC Napoli** : (2) Napoli • Società Sportiva Calcio Napoli ≈ (1) ≈Societa Sportiva Calcio Napoli†
 - **US Sassuolo Calcio** : (3) Sassuolo • U.S. Sassuolo Calcio • Unione Sportiva Sassuolo Calcio
 - **SPAL** : (3) Spal • S.P.A.L. 2013 • SPAL 2013 Ferrara
 - **Udinese Calcio** : (1) Udinese
@@ -32,7 +32,7 @@
 - **Foggia**
 - **Frosinone** : (1) Frosinone Calcio
 - **Novara**
-- **Palermo** : (2) US Palermo • Unione Sportiva Città di Palermo ⇒ (1) Unione Sportiva Citta di Palermo†
+- **Palermo** : (2) US Palermo • Unione Sportiva Città di Palermo ≈ (1) ≈Unione Sportiva Citta di Palermo†
 - **Parma** : (2) Parma FC • Parma Football Club
 - **Perugia**
 - **Pescara** : (1) Pescara Calcio
@@ -90,7 +90,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **à** 
-  - **à** (224 / 00e0)×3 ⇒ a
+  - **à** U+00E0 (224)×3 ⇒ a
 
 
 

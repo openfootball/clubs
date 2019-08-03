@@ -1,19 +1,19 @@
 18 clubs
 
-- **Caracas FC** : (2) Caracas • Caracas Fútbol Club ⇒ (1) Caracas Futbol Club†
+- **Caracas FC** : (2) Caracas • Caracas Fútbol Club ≈ (1) ≈Caracas Futbol Club†
 - **Deportivo La Guaira** : (1) Dvo. La Guaira
 - **Deportivo Petare** : (1) Dvo. Petare
-- **Deportivo Táchira** : (2) Dvo. Táchira • Deportivo Táchira Fútbol Club ⇒ (3) Dvo. Tachira† • Deportivo Tachira† • Deportivo Tachira Futbol Club†
-- **Zamora FC** : (2) Zamora • Zamora Fútbol Club ⇒ (1) Zamora Futbol Club†
+- **Deportivo Táchira** : (2) Dvo. Táchira • Deportivo Táchira Fútbol Club ≈ (3) ≈Dvo. Tachira† • ≈Deportivo Tachira† • ≈Deportivo Tachira Futbol Club†
+- **Zamora FC** : (2) Zamora • Zamora Fútbol Club ≈ (1) ≈Zamora Futbol Club†
 - **Deportivo Lara** : (2) Dvo. Lara • Club Deportivo Lara
-- **Deportivo Anzoátegui** : (2) Dvo. Anzoátegui • Deportivo Anzoátegui Sport Club ⇒ (3) Dvo. Anzoategui† • Deportivo Anzoategui† • Deportivo Anzoategui Sport Club†
+- **Deportivo Anzoátegui** : (2) Dvo. Anzoátegui • Deportivo Anzoátegui Sport Club ≈ (3) ≈Dvo. Anzoategui† • ≈Deportivo Anzoategui† • ≈Deportivo Anzoategui Sport Club†
 - **AC Mineros** : (2) Mineros • Mineros de Guayana
-- **Atlético El Vigía** ⇒ (1) Atletico El Vigia†
+- **Atlético El Vigía** ≈ (1) ≈Atletico El Vigia†
 - **Llaneros FC** : (2) Llaneros • Llaneros de Guanare
-- **Atlético Venezuela** ⇒ (1) Atletico Venezuela†
+- **Atlético Venezuela** ≈ (1) ≈Atletico Venezuela†
 - **Zulia FC** : (1) Zulia
 - **Aragua FC** : (1) Aragua
-- **Estudiantes de Mérida** : (1) Estudiantes ⇒ (1) Estudiantes de Merida†
+- **Estudiantes de Mérida** : (1) Estudiantes ≈ (1) ≈Estudiantes de Merida†
 - **Tucanes FC** : (2) Tucanes • Tucanes de Amazonas
 - **Yaracuyanos FC** : (1) Yaracuyanos
 - **Carabobo FC** : (1) Carabobo
@@ -25,10 +25,10 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **á**  **é**  **í**  **ú** 
-  - **á** (225 / 00e1)×6 ⇒ a
-  - **é** (233 / 00e9)×3 ⇒ e
-  - **í** (237 / 00ed)×1 ⇒ i
-  - **ú** (250 / 00fa)×3 ⇒ u
+  - **á** U+00E1 (225)×6 ⇒ a
+  - **é** U+00E9 (233)×3 ⇒ e
+  - **í** U+00ED (237)×1 ⇒ i
+  - **ú** U+00FA (250)×3 ⇒ u
 
 
 

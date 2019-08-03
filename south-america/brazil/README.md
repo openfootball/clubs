@@ -1,48 +1,48 @@
 43 clubs
 
-- **Corinthians SP** : (4) Corinthians • Corinthians São Paulo • SC Corinthians Paulista • Sport Club Corinthians Paulista ⇒ (1) Corinthians Sao Paulo†
-- **São Paulo FC** : (5) Sao Paulo • São Paulo • São Paulo SP • FC São Paulo • São Paulo Futebol Clube ⇒ (5) Sao Paulo† • Sao Paulo FC† • Sao Paulo SP† • FC Sao Paulo† • Sao Paulo Futebol Clube†
-- **Palmeiras SP** : (4) Palmeiras • SE Palmeiras • SE Palmeiras São Paulo • Sociedade Esportiva Palmeiras ⇒ (1) SE Palmeiras Sao Paulo†
+- **Corinthians SP** : (4) Corinthians • Corinthians São Paulo • SC Corinthians Paulista • Sport Club Corinthians Paulista ≈ (1) ≈Corinthians Sao Paulo†
+- **São Paulo FC** : (5) Sao Paulo • São Paulo • São Paulo SP • FC São Paulo • São Paulo Futebol Clube ≈ (5) ≈Sao Paulo† • ≈Sao Paulo FC† • ≈Sao Paulo SP† • ≈FC Sao Paulo† • ≈Sao Paulo Futebol Clube†
+- **Palmeiras SP** : (4) Palmeiras • SE Palmeiras • SE Palmeiras São Paulo • Sociedade Esportiva Palmeiras ≈ (1) ≈SE Palmeiras Sao Paulo†
 - **Santos SP** : (4) Santos • Santos FC • FC Santos • Santos Futebol Clube
-- **Ponte Preta** : (2) AA Ponte Preta • Associação Atlética Ponte Preta ⇒ (1) Associacao Atletica Ponte Preta†
-- **CA Bragantino** : (2) Bragantino • Clube Atlético Bragantino ⇒ (1) Clube Atletico Bragantino†
+- **Ponte Preta** : (2) AA Ponte Preta • Associação Atlética Ponte Preta ≈ (1) ≈Associacao Atletica Ponte Preta†
+- **CA Bragantino** : (2) Bragantino • Clube Atlético Bragantino ≈ (1) ≈Clube Atletico Bragantino†
 - **Oeste SP** : (3) Oeste • Oeste FC • Oeste Futebol Clube
-- **Portuguesa** : (1) Associação Portuguesa de Desportos ⇒ (1) Associacao Portuguesa de Desportos†
+- **Portuguesa** : (1) Associação Portuguesa de Desportos ≈ (1) ≈Associacao Portuguesa de Desportos†
 - **Botafogo RJ** : (3) Botafogo • Botafogo FR • Botafogo de Futebol e Regatas
 - **Flamengo RJ** : (4) Flamengo • CR Flamengo • Flamengo Rio de Janeiro • Clube de Regatas do Flamengo
 - **Fluminense RJ** : (4) Fluminense • Fluminense FC • Fluminense Football Club • Fluminense Rio de Janeiro
 - **CR Vasco da Gama** : (5) Vasco • Vasco RJ • Vasco da Gama • Vasco da Gama Rio de Janeiro • Club de Regatas Vasco da Gama
-- **Atlético MG** : (5) Atlético/MG • Atletico-MG • Atlético Mineiro • C Atlético Mineiro • Clube Atlético Mineiro ⇒ (5) Atletico MG† • Atletico/MG† • Atletico Mineiro† • C Atletico Mineiro† • Clube Atletico Mineiro†
+- **Atlético MG** : (5) Atlético/MG • Atletico-MG • Atlético Mineiro • C Atlético Mineiro • Clube Atlético Mineiro ≈ (5) ≈Atletico MG† • ≈Atletico/MG† • ≈Atletico Mineiro† • ≈C Atletico Mineiro† • ≈Clube Atletico Mineiro†
 - **Cruzeiro MG** : (4) Cruzeiro • Cruzeiro EC • Cruzeiro Esporte Clube • Cruzeiro Belo Horizonte
-- **América MG** : (4) America MG • América FC • América Mineiro • América Futebol Clube ⇒ (4) America MG† • America FC† • America Mineiro† • America Futebol Clube†
+- **América MG** : (4) America MG • América FC • América Mineiro • América Futebol Clube ≈ (4) ≈America MG† • ≈America FC† • ≈America Mineiro† • ≈America Futebol Clube†
 - **Tupi MG** : (3) Tupi • Tupi FC • Tupi Football Club
-- **Grêmio RS** : (5) Gremio • Grêmio • Grêmio FBPA • Grêmio Porto Alegre • Grêmio Foot-Ball Porto Alegrense ⇒ (5) Gremio† • Gremio RS† • Gremio FBPA† • Gremio Porto Alegre† • Gremio Foot-Ball Porto Alegrense†
+- **Grêmio RS** : (5) Gremio • Grêmio • Grêmio FBPA • Grêmio Porto Alegre • Grêmio Foot-Ball Porto Alegrense ≈ (5) ≈Gremio† • ≈Gremio RS† • ≈Gremio FBPA† • ≈Gremio Porto Alegre† • ≈Gremio Foot-Ball Porto Alegrense†
 - **Internacional Porto Alegre** : (4) Internacional • SC Internacional • Internacional RS • Sport Club Internacional
-- **Brasil RS** : (4) GE Brasil • Brasil de Pelotas • Grêmio Esportivo Brasil • Grêmio Esportivo Brasil de Pelotas ⇒ (2) Gremio Esportivo Brasil† • Gremio Esportivo Brasil de Pelotas†
-- **Atlético PR** : (6) Atletico-PR • Atlético/PR • Athletico-PR • Atlético Paranaense • C Atlético Paranaense • Clube Atlético Paranaense ⇒ (5) Atletico PR† • Atletico/PR† • Atletico Paranaense† • C Atletico Paranaense† • Clube Atletico Paranaense†
+- **Brasil RS** : (4) GE Brasil • Brasil de Pelotas • Grêmio Esportivo Brasil • Grêmio Esportivo Brasil de Pelotas ≈ (2) ≈Gremio Esportivo Brasil† • ≈Gremio Esportivo Brasil de Pelotas†
+- **Atlético PR** : (6) Atletico-PR • Atlético/PR • Athletico-PR • Atlético Paranaense • C Atlético Paranaense • Clube Atlético Paranaense ≈ (5) ≈Atletico PR† • ≈Atletico/PR† • ≈Atletico Paranaense† • ≈C Atletico Paranaense† • ≈Clube Atletico Paranaense†
 - **Coritiba PR** : (3) Coritiba • Coritiba FC • Coritiba Football Club
 - **Londrina EC** : (2) Londrina • Londrina Esporte Clube
-- **Paraná Clube** : (1) Parana ⇒ (1) Parana Clube†
+- **Paraná Clube** : (1) Parana ≈ (1) ≈Parana Clube†
 - **Figueirense** : (3) Figueirense FC • Figueirense SC • Figueirense Futebol Clube
-- **Chapecoense** : (2) Chapecoense-SC • Associação Chapecoense de Futebol ⇒ (1) Associacao Chapecoense de Futebol†
-- **Criciúma EC** : (3) Criciuma • Criciúma • Criciúma Esporte Clube ⇒ (3) Criciuma† • Criciuma EC† • Criciuma Esporte Clube†
-- **Avaí FC** : (2) Avai • Avaí Futebol Clube ⇒ (2) Avai FC† • Avai Futebol Clube†
+- **Chapecoense** : (2) Chapecoense-SC • Associação Chapecoense de Futebol ≈ (1) ≈Associacao Chapecoense de Futebol†
+- **Criciúma EC** : (3) Criciuma • Criciúma • Criciúma Esporte Clube ≈ (3) ≈Criciuma† • ≈Criciuma EC† • ≈Criciuma Esporte Clube†
+- **Avaí FC** : (2) Avai • Avaí Futebol Clube ≈ (2) ≈Avai FC† • ≈Avai Futebol Clube†
 - **Joinvile EC** : (3) Joinvile • Joinville • Joinville Esporte Clube
 - **Sport Recife** : (3) Sport • Sport PE • Sport Club do Recife
 - **Santa Cruz** : (2) Santa Cruz FC • Santa Cruz Futebol Clube
-- **Náutico PE** : (4) Nautico • Náutico • C Náutico Capibaribe • Clube Náutico Capibaribe ⇒ (4) Nautico† • Nautico PE† • C Nautico Capibaribe† • Clube Nautico Capibaribe†
-- **EC Vitória** : (3) Vitoria • Vitória • Esporte Clube Vitória ⇒ (3) Vitoria† • EC Vitoria† • Esporte Clube Vitoria†
+- **Náutico PE** : (4) Nautico • Náutico • C Náutico Capibaribe • Clube Náutico Capibaribe ≈ (4) ≈Nautico† • ≈Nautico PE† • ≈C Nautico Capibaribe† • ≈Clube Nautico Capibaribe†
+- **EC Vitória** : (3) Vitoria • Vitória • Esporte Clube Vitória ≈ (3) ≈Vitoria† • ≈EC Vitoria† • ≈Esporte Clube Vitoria†
 - **EC Bahia** : (3) Bahia • Bahia BA • Esporte Clube Bahia
-- **Goiás EC** : (3) Goias • Goiás • Goiás Esporte Clube ⇒ (3) Goias† • Goias EC† • Goias Esporte Clube†
-- **Atlético GO** : (2) Atletico GO • Atlético Goianiense ⇒ (2) Atletico GO† • Atletico Goianiense†
+- **Goiás EC** : (3) Goias • Goiás • Goiás Esporte Clube ≈ (3) ≈Goias† • ≈Goias EC† • ≈Goias Esporte Clube†
+- **Atlético GO** : (2) Atletico GO • Atlético Goianiense ≈ (2) ≈Atletico GO† • ≈Atletico Goianiense†
 - **Vila Nova GO** : (4) Vila Nova • Vila Nova FC • Vila Nova de Goias • Vila Nova Futebol Clube
-- **Ceára SC** : (3) Ceara • Ceará • Ceará Sporting Club ⇒ (3) Ceara† • Ceara SC† • Ceara Sporting Club†
+- **Ceára SC** : (3) Ceara • Ceará • Ceará Sporting Club ≈ (3) ≈Ceara† • ≈Ceara SC† • ≈Ceara Sporting Club†
 - **Fortaleza** : (1) Fortaleza Esporte Clube
 - **Paysandu SC** : (2) Paysandu • Paysandu Sport Club
 - **CRB AL** : (2) CRB • Clube de Regatas Brasil
 - **CSA** : (1) Centro Sportivo Alagoano
 - **Luverdense EC** : (2) Luverdense • Luverdense Esporte Clube
-- **Sampaio Corrêa FC** : (2) Sampaio Corrêa • Sampaio Corrêa Futebol Clube ⇒ (3) Sampaio Correa† • Sampaio Correa FC† • Sampaio Correa Futebol Clube†
+- **Sampaio Corrêa FC** : (2) Sampaio Corrêa • Sampaio Corrêa Futebol Clube ≈ (3) ≈Sampaio Correa† • ≈Sampaio Correa FC† • ≈Sampaio Correa Futebol Clube†
 
 
 
@@ -50,14 +50,14 @@
 Alphabet
 
 - **Alphabet Specials** (8):  **á**  **ã**  **ç**  **é**  **ê**  **í**  **ó**  **ú** 
-  - **á** (225 / 00e1)×11 ⇒ a
-  - **ã** (227 / 00e3)×10 ⇒ a
-  - **ç** (231 / 00e7)×3 ⇒ c
-  - **é** (233 / 00e9)×18 ⇒ e
-  - **ê** (234 / 00ea)×10 ⇒ e
-  - **í** (237 / 00ed)×2 ⇒ i
-  - **ó** (243 / 00f3)×3 ⇒ o
-  - **ú** (250 / 00fa)×3 ⇒ u
+  - **á** U+00E1 (225)×11 ⇒ a
+  - **ã** U+00E3 (227)×10 ⇒ a
+  - **ç** U+00E7 (231)×3 ⇒ c
+  - **é** U+00E9 (233)×18 ⇒ e
+  - **ê** U+00EA (234)×10 ⇒ e
+  - **í** U+00ED (237)×2 ⇒ i
+  - **ó** U+00F3 (243)×3 ⇒ o
+  - **ú** U+00FA (250)×3 ⇒ u
 
 
 

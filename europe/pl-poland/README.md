@@ -2,26 +2,26 @@
 
 - **Legia Warszawa** : (2) Legia • Legia Warsaw
 - **KSP Polonia Warszawa** : (1) Polonia Warszawa
-- **Górnik Zabrze** : (2) Gornik Z. • Gornik Zabrze ⇒ (1) Gornik Zabrze†
+- **Górnik Zabrze** : (2) Gornik Z. • Gornik Zabrze ≈ (1) ≈Gornik Zabrze†
 - **KKS Lech Poznań** : (2) Lech • Lech Poznan
-- **Wisła Kraków** : (1) Wisla ⇒ (1) Wisła Krakow†
-- **KS Cracovia** : (2) Cracovia • MKS Cracovia Kraków ⇒ (1) MKS Cracovia Krakow†
+- **Wisła Kraków** : (1) Wisla ≈ (1) ≈Wisła Krakow†
+- **KS Cracovia** : (2) Cracovia • MKS Cracovia Kraków ≈ (1) ≈MKS Cracovia Krakow†
 - **WKS Śląsk Wrocław** : (2) Śląsk • Slask Wroclaw
 - **Jagiellonia Białystok** : (1) Jagiellonia
 - **Arka Gdynia** : (1) Arka
-- **GKS Bełchatów** : (1) GKS Belchatow ⇒ (1) GKS Bełchatow†
+- **GKS Bełchatów** : (1) GKS Belchatow ≈ (1) ≈GKS Bełchatow†
 - **Korona Kielce**
 - **Lechia Gdańsk** : (1) Lechia Gdansk
-- **Górnik Łęczna** : (1) Leczna ⇒ (1) Gornik Łęczna†
+- **Górnik Łęczna** : (1) Leczna ≈ (1) ≈Gornik Łęczna†
 - **Miedź Legnica** : (1) Legnica
 - **Piast Gliwice** : (2) Piast • GKS Piast Gliwice
 - **Wisła Płock** : (1) Plock
 - **Podbeskidzie Bielsko-Biała** : (1) Podbeskidzie
 - **Pogoń Szczecin** : (1) Pogon Szczecin
-- **Ruch Chorzów** : (1) Ruch ⇒ (1) Ruch Chorzow†
+- **Ruch Chorzów** : (1) Ruch ≈ (1) ≈Ruch Chorzow†
 - **Sandecja Nowy Sącz** : (1) Sandecja Nowy S.
 - **Bruk-Bet Termalica Nieciecza** : (1) Termalica B-B.
-- **Widzew Łódź** : (1) Widzew Lodz ⇒ (1) Widzew Łodź†
+- **Widzew Łódź** : (1) Widzew Lodz ≈ (1) ≈Widzew Łodź†
 - **Zagłębie Lubin** : (1) Zaglebie
 - **Zagłębie Sosnowiec** : (1) Zaglebie Sosnowiec
 - **Zawisza Bydgoszcz** : (1) Zawisza
@@ -32,14 +32,14 @@
 Alphabet
 
 - **Alphabet Specials** (8):  **ó**  **ą**  **ę**  **Ł**  **ł**  **ń**  **Ś**  **ź** 
-  - **ó** (243 / 00f3)×7 ⇒ o
-  - **ą** (261 / 0105)×3 ⇒ **?**
-  - **ę** (281 / 0119)×3 ⇒ **?**
-  - **Ł** (321 / 0141)×2 ⇒ **?**
-  - **ł** (322 / 0142)×9 ⇒ **?**
-  - **ń** (324 / 0144)×3 ⇒ **?**
-  - **Ś** (346 / 015a)×2 ⇒ **?**
-  - **ź** (378 / 017a)×2 ⇒ **?**
+  - **ó** U+00F3 (243)×7 ⇒ o
+  - **ą** U+0105 (261)×3 ⇒ **?**
+  - **ę** U+0119 (281)×3 ⇒ **?**
+  - **Ł** U+0141 (321)×2 ⇒ **?**
+  - **ł** U+0142 (322)×9 ⇒ **?**
+  - **ń** U+0144 (324)×3 ⇒ **?**
+  - **Ś** U+015A (346)×2 ⇒ **?**
+  - **ź** U+017A (378)×2 ⇒ **?**
 
 
 

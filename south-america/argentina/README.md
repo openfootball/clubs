@@ -1,40 +1,40 @@
 36 clubs
 
-- **All Boys** : (1) Club Atlético All Boys ⇒ (1) Club Atletico All Boys†
-- **Argentinos Juniors** : (3) Argentinos • Argentinos Jrs • Asociación Atlética Argentinos Juniors ⇒ (1) Asociacion Atletica Argentinos Juniors†
-- **Boca Juniors** : (3) Boca • Boca Jrs • Club Atlético Boca Juniors ⇒ (1) Club Atletico Boca Juniors†
-- **River Plate** : (2) River • Club Atlético River Plate ⇒ (1) Club Atletico River Plate†
-- **San Lorenzo** : (2) CA San Lorenzo de Almagro • Club Atlético San Lorenzo de Almagro ⇒ (1) Club Atletico San Lorenzo de Almagro†
-- **Vélez Sarsfield** : (5) Vélez • CA Vélez • Velez Sarsfield • CA Vélez Sarsfield • Club Atlético Vélez Sarsfield ⇒ (5) Velez† • CA Velez† • Velez Sarsfield† • CA Velez Sarsfield† • Club Atletico Velez Sarsfield†
-- **Huracán** : (2) Huracan • Club Atlético Huracán ⇒ (2) Huracan† • Club Atletico Huracan†
-- **Nueva Chicago** : (1) Club Atlético Nueva Chicago ⇒ (1) Club Atletico Nueva Chicago†
-- **CA Tigre** : (2) Tigre • Club Atlético Tigre ⇒ (1) Club Atletico Tigre†
-- **CA Independiente de Avellaneda** : (2) Independiente • Club Atlético Independiente ⇒ (1) Club Atletico Independiente†
+- **All Boys** : (1) Club Atlético All Boys ≈ (1) ≈Club Atletico All Boys†
+- **Argentinos Juniors** : (3) Argentinos • Argentinos Jrs • Asociación Atlética Argentinos Juniors ≈ (1) ≈Asociacion Atletica Argentinos Juniors†
+- **Boca Juniors** : (3) Boca • Boca Jrs • Club Atlético Boca Juniors ≈ (1) ≈Club Atletico Boca Juniors†
+- **River Plate** : (2) River • Club Atlético River Plate ≈ (1) ≈Club Atletico River Plate†
+- **San Lorenzo** : (2) CA San Lorenzo de Almagro • Club Atlético San Lorenzo de Almagro ≈ (1) ≈Club Atletico San Lorenzo de Almagro†
+- **Vélez Sarsfield** : (5) Vélez • CA Vélez • Velez Sarsfield • CA Vélez Sarsfield • Club Atlético Vélez Sarsfield ≈ (5) ≈Velez† • ≈CA Velez† • ≈Velez Sarsfield† • ≈CA Velez Sarsfield† • ≈Club Atletico Velez Sarsfield†
+- **Huracán** : (2) Huracan • Club Atlético Huracán ≈ (2) ≈Huracan† • ≈Club Atletico Huracan†
+- **Nueva Chicago** : (1) Club Atlético Nueva Chicago ≈ (1) ≈Club Atletico Nueva Chicago†
+- **CA Tigre** : (2) Tigre • Club Atlético Tigre ≈ (1) ≈Club Atletico Tigre†
+- **CA Independiente de Avellaneda** : (2) Independiente • Club Atlético Independiente ≈ (1) ≈Club Atletico Independiente†
 - **Racing Club** : (1) Racing
-- **Quilmes AC** : (2) Quilmes • Quilmes Atlético Club ⇒ (1) Quilmes Atletico Club†
-- **CA Lanús** : (3) Lanús • Lanus • Club Atlético Lanús ⇒ (3) Lanus† • CA Lanus† • Club Atletico Lanus†
-- **Arsenal de Sarandí** : (4) Arsenal • Arsenal FC • Arsenal Sarandi • Arsenal Fútbol Club ⇒ (2) Arsenal de Sarandi† • Arsenal Futbol Club†
+- **Quilmes AC** : (2) Quilmes • Quilmes Atlético Club ≈ (1) ≈Quilmes Atletico Club†
+- **CA Lanús** : (3) Lanús • Lanus • Club Atlético Lanús ≈ (3) ≈Lanus† • ≈CA Lanus† • ≈Club Atletico Lanus†
+- **Arsenal de Sarandí** : (4) Arsenal • Arsenal FC • Arsenal Sarandi • Arsenal Fútbol Club ≈ (2) ≈Arsenal de Sarandi† • ≈Arsenal Futbol Club†
 - **Estudiantes LP** : (3) Estudiantes • Estudiantes L.P. • Club Estudiantes de La Plata
 - **Gimnasia y Esgrima** : (4) GELP • Gimnasia L.P. • Gimnasia y Esgrima La Plata • Club de Gimnasia y Esgrima La Plata
-- **Club Atlético Aldosivi** : (1) Aldosivi ⇒ (1) Club Atletico Aldosivi†
-- **Club Atlético Banfield** : (1) Banfield ⇒ (1) Club Atletico Banfield†
+- **Club Atlético Aldosivi** : (1) Aldosivi ≈ (1) ≈Club Atletico Aldosivi†
+- **Club Atlético Banfield** : (1) Banfield ≈ (1) ≈Club Atletico Banfield†
 - **Defensa y Justicia** : (1) Club Social y Deportivo Defensa y Justicia
-- **Olimpo Bahía Blanca** : (4) Olimpo • Club Olimpo • Olimpo Bahia Blanca • Olimpo de Bahía Blanca ⇒ (2) Olimpo Bahia Blanca† • Olimpo de Bahia Blanca†
-- **Sarmiento Junín** : (4) Sarmiento • Sarmiento Junin • Club Atlético Sarmiento • Club Atlético Sarmiento (Junín) ⇒ (3) Sarmiento Junin† • Club Atletico Sarmiento† • Club Atletico Sarmiento (Junin)†
-- **Temperley** : (1) Club Atlético Temperley ⇒ (1) Club Atletico Temperley†
-- **Chacarita Juniors** : (1) Club Atlético Chacarita Juniors ⇒ (1) Club Atletico Chacarita Juniors†
-- **Colón Santa Fe** : (5) Colón • CA Colón • Colon Santa FE • Club Atlético Colón • Club Atlético Colón (Santa Fe) ⇒ (5) Colon† • CA Colon† • Colon Santa Fe† • Club Atletico Colon† • Club Atletico Colon (Santa Fe)†
-- **Unión Santa Fe** : (3) Unión • Union de Santa Fe • Club Atlético Unión ⇒ (3) Union† • Union Santa Fe† • Club Atletico Union†
-- **Newell's Old Boys** : (5) Newell's • N.O. Boys • Newells Old Boys • CA Newell's Old Boys • Club Atlético Newell's Old Boys ⇒ (1) Club Atletico Newell's Old Boys†
-- **Rosario Central** : (1) Club Atlético Rosario Central ⇒ (1) Club Atletico Rosario Central†
-- **Atlético Rafaela** : (4) Atl. Rafaela • At. de Rafaela • Atlético de Rafaela • Asociación Mutual Social y Deportiva Atlético de Rafaela ⇒ (3) Atletico Rafaela† • Atletico de Rafaela† • Asociacion Mutual Social y Deportiva Atletico de Rafaela†
-- **Club Atlético Belgrano** : (1) Belgrano ⇒ (1) Club Atletico Belgrano†
-- **Talleres de Córdoba** : (2) Talleres Cordoba • Club Atlético Talleres ⇒ (2) Talleres de Cordoba† • Club Atletico Talleres†
+- **Olimpo Bahía Blanca** : (4) Olimpo • Club Olimpo • Olimpo Bahia Blanca • Olimpo de Bahía Blanca ≈ (2) ≈Olimpo Bahia Blanca† • ≈Olimpo de Bahia Blanca†
+- **Sarmiento Junín** : (4) Sarmiento • Sarmiento Junin • Club Atlético Sarmiento • Club Atlético Sarmiento (Junín) ≈ (3) ≈Sarmiento Junin† • ≈Club Atletico Sarmiento† • ≈Club Atletico Sarmiento (Junin)†
+- **Temperley** : (1) Club Atlético Temperley ≈ (1) ≈Club Atletico Temperley†
+- **Chacarita Juniors** : (1) Club Atlético Chacarita Juniors ≈ (1) ≈Club Atletico Chacarita Juniors†
+- **Colón Santa Fe** : (5) Colón • CA Colón • Colon Santa FE • Club Atlético Colón • Club Atlético Colón (Santa Fe) ≈ (5) ≈Colon† • ≈CA Colon† • ≈Colon Santa Fe† • ≈Club Atletico Colon† • ≈Club Atletico Colon (Santa Fe)†
+- **Unión Santa Fe** : (3) Unión • Union de Santa Fe • Club Atlético Unión ≈ (3) ≈Union† • ≈Union Santa Fe† • ≈Club Atletico Union†
+- **Newell's Old Boys** : (5) Newell's • N.O. Boys • Newells Old Boys • CA Newell's Old Boys • Club Atlético Newell's Old Boys ≈ (1) ≈Club Atletico Newell's Old Boys†
+- **Rosario Central** : (1) Club Atlético Rosario Central ≈ (1) ≈Club Atletico Rosario Central†
+- **Atlético Rafaela** : (4) Atl. Rafaela • At. de Rafaela • Atlético de Rafaela • Asociación Mutual Social y Deportiva Atlético de Rafaela ≈ (3) ≈Atletico Rafaela† • ≈Atletico de Rafaela† • ≈Asociacion Mutual Social y Deportiva Atletico de Rafaela†
+- **Club Atlético Belgrano** : (1) Belgrano ≈ (1) ≈Club Atletico Belgrano†
+- **Talleres de Córdoba** : (2) Talleres Cordoba • Club Atlético Talleres ≈ (2) ≈Talleres de Cordoba† • ≈Club Atletico Talleres†
 - **Godoy Cruz** : (1) Club Deportivo Godoy Cruz Antonio Tomba
-- **San Martín** : (3) San Martin S.J. • San Martín San Juan • Club Atlético San Martín ⇒ (3) San Martin† • San Martin San Juan† • Club Atletico San Martin†
-- **Atlético Tucumán** : (1) Atl. Tucuman ⇒ (1) Atletico Tucuman†
-- **San Martín de Tucumán** : (3) San Martin T. • Club Atlético San Martín • Club Atlético San Martín (Tucumán) ⇒ (3) San Martin de Tucuman† • Club Atletico San Martin† • Club Atletico San Martin (Tucuman)†
-- **Patronato** : (1) Club Atlético Patronato de la Juventud Católica ⇒ (1) Club Atletico Patronato de la Juventud Catolica†
+- **San Martín** : (3) San Martin S.J. • San Martín San Juan • Club Atlético San Martín ≈ (3) ≈San Martin† • ≈San Martin San Juan† • ≈Club Atletico San Martin†
+- **Atlético Tucumán** : (1) Atl. Tucuman ≈ (1) ≈Atletico Tucuman†
+- **San Martín de Tucumán** : (3) San Martin T. • Club Atlético San Martín • Club Atlético San Martín (Tucumán) ≈ (3) ≈San Martin de Tucuman† • ≈Club Atletico San Martin† • ≈Club Atletico San Martin (Tucuman)†
+- **Patronato** : (1) Club Atlético Patronato de la Juventud Católica ≈ (1) ≈Club Atletico Patronato de la Juventud Catolica†
 - **Crucero del Norte** : (1) Club Mutual Crucero del Norte
 
 
@@ -43,11 +43,11 @@
 Alphabet
 
 - **Alphabet Specials** (5):  **á**  **é**  **í**  **ó**  **ú** 
-  - **á** (225 / 00e1)×5 ⇒ a
-  - **é** (233 / 00e9)×38 ⇒ e
-  - **í** (237 / 00ed)×11 ⇒ i
-  - **ó** (243 / 00f3)×12 ⇒ o
-  - **ú** (250 / 00fa)×4 ⇒ u
+  - **á** U+00E1 (225)×5 ⇒ a
+  - **é** U+00E9 (233)×38 ⇒ e
+  - **í** U+00ED (237)×11 ⇒ i
+  - **ó** U+00F3 (243)×12 ⇒ o
+  - **ú** U+00FA (250)×4 ⇒ u
 
 
 

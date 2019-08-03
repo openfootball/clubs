@@ -1,4 +1,4 @@
-86 datafiles, 1697 clubs
+86 datafiles, 1700 clubs
 
 **africa/egypt/eg.clubs.txt** _(18)_:  Al Ahly • Al Mokawloon Al Arab • El Dakhleya • El Entag El Harby • ENPPI SC • Ittihad El Shorta • Tala'ea El Gaish • Wadi Degla • Al Ittihad Al Sakandary • Haras El Hodood • Smouha SC • Zamalek • Ismaily • El Gouna • Ghazl El Mahalla • Misr El Makasa • Petrojet • Telephonat Bani Sweif
 
@@ -30,7 +30,7 @@
 
 **central-america/sv-el-salvador/clubs.txt** _(5)_:  I. Metapán • Club Deportivo Águila • Club Deportivo FAS • Alianza FC • Luis Ángel Firpo
 
-**europe/albania/al.clubs.txt** _(11)_:  KF Tirana • FK Partizani Tirana • FK Dinamo Tirana • KS Skënderbeu • KS Flamurtari • KF Vllaznia • KS Besa • KS Teuta • KF Laçi • FK Kukësi • KS Luftëtari
+**europe/albania/al.clubs.txt** _(14)_:  KF Tirana • FK Partizani Tirana • FK Dinamo Tirana • KS Skënderbeu • KS Flamurtari • KF Vllaznia • KS Besa • KS Teuta • KF Laçi • FK Kukësi • KS Luftëtari • FC Kamza • KS Kastrioti • Luftëtari Gjirokastër FC
 
 **europe/andorra/ad.clubs.txt** _(5)_:  UE Sant Julià • FC Santa Coloma • UE Santa Coloma • FC Lusitans • UE Engordany
 

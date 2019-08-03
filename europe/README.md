@@ -1,6 +1,6 @@
-54 datafiles, 1348 clubs
+54 datafiles, 1351 clubs
 
-**europe/albania/al.clubs.txt** _(11)_:  KF Tirana • FK Partizani Tirana • FK Dinamo Tirana • KS Skënderbeu • KS Flamurtari • KF Vllaznia • KS Besa • KS Teuta • KF Laçi • FK Kukësi • KS Luftëtari
+**europe/albania/al.clubs.txt** _(14)_:  KF Tirana • FK Partizani Tirana • FK Dinamo Tirana • KS Skënderbeu • KS Flamurtari • KF Vllaznia • KS Besa • KS Teuta • KF Laçi • FK Kukësi • KS Luftëtari • FC Kamza • KS Kastrioti • Luftëtari Gjirokastër FC
 
 **europe/andorra/ad.clubs.txt** _(5)_:  UE Sant Julià • FC Santa Coloma • UE Santa Coloma • FC Lusitans • UE Engordany
 

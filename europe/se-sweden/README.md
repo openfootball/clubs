@@ -1,30 +1,30 @@
 28 clubs
 
-- **AIK** : (2) AIK Fotboll • Allmänna Idrottsklubben ⇒ (2) Allmanna Idrottsklubben† • Allmaenna Idrottsklubben†
+- **AIK** : (2) AIK Fotboll • Allmänna Idrottsklubben ≈ (2) ≈Allmanna Idrottsklubben† • ≈Allmaenna Idrottsklubben†
 - **IF Brommapojkarna** : (1) Brommapojkarna
 - **Djurgårdens IF** : (2) Djurgården • Djurgarden
 - **Hammarby IF** : (1) Hammarby
-- **IFK Göteborg** : (4) Göteborg • Goteborg • IFK Goteborg • Idrottsföreningen Kamraterna Göteborg ⇒ (6) Goteborg† • Goeteborg† • IFK Goteborg† • IFK Goeteborg† • Idrottsforeningen Kamraterna Goteborg† • Idrottsfoereningen Kamraterna Goeteborg†
-- **GAIS** : (2) Gais • Göteborgs Atlet- och Idrottssällskap ⇒ (2) Goteborgs Atlet- och Idrottssallskap† • Goeteborgs Atlet- och Idrottssaellskap†
-- **BK Häcken** : (3) Hacken • Häcken • Bollklubben Häcken ⇒ (6) Hacken† • Haecken† • BK Hacken† • BK Haecken† • Bollklubben Hacken† • Bollklubben Haecken†
-- **Malmö FF** : (3) Malmö • Malmo FF • Malmö Fotbollförening ⇒ (6) Malmo† • Malmoe† • Malmo FF† • Malmoe FF† • Malmo Fotbollforening† • Malmoe Fotbollfoerening†
+- **IFK Göteborg** : (4) Göteborg • Goteborg • IFK Goteborg • Idrottsföreningen Kamraterna Göteborg ≈ (6) ≈Goteborg† • ≈Goeteborg† • ≈IFK Goteborg† • ≈IFK Goeteborg† • ≈Idrottsforeningen Kamraterna Goteborg† • ≈Idrottsfoereningen Kamraterna Goeteborg†
+- **GAIS** : (2) Gais • Göteborgs Atlet- och Idrottssällskap ≈ (2) ≈Goteborgs Atlet- och Idrottssallskap† • ≈Goeteborgs Atlet- och Idrottssaellskap†
+- **BK Häcken** : (3) Hacken • Häcken • Bollklubben Häcken ≈ (6) ≈Hacken† • ≈Haecken† • ≈BK Hacken† • ≈BK Haecken† • ≈Bollklubben Hacken† • ≈Bollklubben Haecken†
+- **Malmö FF** : (3) Malmö • Malmo FF • Malmö Fotbollförening ≈ (6) ≈Malmo† • ≈Malmoe† • ≈Malmo FF† • ≈Malmoe FF† • ≈Malmo Fotbollforening† • ≈Malmoe Fotbollfoerening†
 - **IF Elfsborg** : (1) Elfsborg
 - **Helsingborgs IF** : (1) Helsingborg
 - **Kalmar FF** : (1) Kalmar
-- **Örebro SK** : (3) Örebro • Orebro • Örebro Sportklubb ⇒ (6) Orebro† • Oerebro† • Orebro SK† • Oerebro SK† • Orebro Sportklubb† • Oerebro Sportklubb†
+- **Örebro SK** : (3) Örebro • Orebro • Örebro Sportklubb ≈ (6) ≈Orebro† • ≈Oerebro† • ≈Orebro SK† • ≈Oerebro SK† • ≈Orebro Sportklubb† • ≈Oerebro Sportklubb†
 - **Gefle IF** : (1) Gefle
 - **AFC Eskilstuna**
-- **Mjällby AIF** : (1) Mjallby ⇒ (2) Mjallby AIF† • Mjaellby AIF†
-- **Åtvidabergs FF** : (5) ÅFF • Åtvid • Åtvidaberg • Atvidabergs • Åtvidabergs Fotbollförening ⇒ (2) Åtvidabergs Fotbollforening† • Åtvidabergs Fotbollfoerening†
+- **Mjällby AIF** : (1) Mjallby ≈ (2) ≈Mjallby AIF† • ≈Mjaellby AIF†
+- **Åtvidabergs FF** : (5) ÅFF • Åtvid • Åtvidaberg • Atvidabergs • Åtvidabergs Fotbollförening ≈ (2) ≈Åtvidabergs Fotbollforening† • ≈Åtvidabergs Fotbollfoerening†
 - **Dalkurd FF** : (1) Dalkurd
 - **IK Sirius** : (1) Sirius
 - **Falkenbergs FF** : (1) Falkenbergs
 - **Halmstads BK** : (2) Halmstad • Halmstads Bollklubb
-- **Jönköpings Södra IF** : (1) Jonkopings ⇒ (2) Jonkopings Sodra IF† • Joenkoepings Soedra IF†
+- **Jönköpings Södra IF** : (1) Jonkopings ≈ (2) ≈Jonkopings Sodra IF† • ≈Joenkoepings Soedra IF†
 - **Ljungskile SK** : (1) Ljungskile
-- **IFK Norrköping** : (3) Norrköping • Norrkoping • IFK Norrköping FK ⇒ (6) Norrkoping† • Norrkoeping† • IFK Norrkoping† • IFK Norrkoeping† • IFK Norrkoping FK† • IFK Norrkoeping FK†
-- **Östers IF** : (1) Osters ⇒ (2) Osters IF† • Oesters IF†
-- **Östersunds FK** : (2) Östersund • Ostersunds ⇒ (4) Ostersund† • Oestersund† • Ostersunds FK† • Oestersunds FK†
+- **IFK Norrköping** : (3) Norrköping • Norrkoping • IFK Norrköping FK ≈ (6) ≈Norrkoping† • ≈Norrkoeping† • ≈IFK Norrkoping† • ≈IFK Norrkoeping† • ≈IFK Norrkoping FK† • ≈IFK Norrkoeping FK†
+- **Östers IF** : (1) Osters ≈ (2) ≈Osters IF† • ≈Oesters IF†
+- **Östersunds FK** : (2) Östersund • Ostersunds ≈ (4) ≈Ostersund† • ≈Oestersund† • ≈Ostersunds FK† • ≈Oestersunds FK†
 - **GIF Sundsvall** : (1) Sundsvall
 - **Syrianska FC** : (1) Syrianska
 - **Trelleborgs FF** : (1) Trelleborgs
@@ -35,11 +35,11 @@
 Alphabet
 
 - **Alphabet Specials** (5):  **Å**  **Ö**  **ä**  **å**  **ö** 
-  - **Å** (197 / 00c5)×5 ⇒ **?**
-  - **Ö** (214 / 00d6)×6 ⇒ O•Oe
-  - **ä** (228 / 00e4)×6 ⇒ a•ae
-  - **å** (229 / 00e5)×2 ⇒ **?**
-  - **ö** (246 / 00f6)×16 ⇒ o•oe
+  - **Å** U+00C5 (197)×5 ⇒ **?**
+  - **Ö** U+00D6 (214)×6 ⇒ O•Oe
+  - **ä** U+00E4 (228)×6 ⇒ a•ae
+  - **å** U+00E5 (229)×2 ⇒ **?**
+  - **ö** U+00F6 (246)×16 ⇒ o•oe
 
 
 
