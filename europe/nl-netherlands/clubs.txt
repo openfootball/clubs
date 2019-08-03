@@ -101,7 +101,10 @@ FC Utrecht, 1970,   Utrecht   ## Utrecht
   | Utrecht | Football Club Utrecht
 
 Vitesse Arnhem, 1892,  Arnhem   ## Gelderland
-  | Vitesse | Stichting Betaald Voetbal Vitesse
+  | Vitesse | SBV Vitesse | Stichting Betaald Voetbal Vitesse
 
 FC Volendam, Volendam
   | Volendam
+
+FC Emmen
+  | Emmen

@@ -1,2 +1,0 @@
-Name,                Wikipedia,                  Web
-AS Monaco,           AS_Monaco_FC,               www.asmonaco.com

@@ -77,3 +77,136 @@ FC Viktoria Plzeň
 FC Fastav Zlín
 FC Vysočina Jihlava
 FC Zbrojovka Brno
+
+
+========================================
+=   Monaco (mc)
+
+AS Monaco FC
+
+
+====================================
+=  France (fr)
+
+Amiens SC
+FC Girondins de Bordeaux
+Stade Malherbe Caen
+Dijon FCO
+En Avant de Guingamp
+Olympique Lyonnais
+Olympique de Marseille
+Montpellier HSC
+FC Nantes
+OGC Nice
+Nîmes Olympique
+Paris Saint-Germain F.C.
+Stade de Reims
+Stade Rennais F.C.
+AS Saint-Étienne
+Angers SCO
+Lille OSC
+RC Strasbourg Alsace
+Toulouse FC
+SC Bastia
+FC Lorient
+Gazélec Ajaccio
+Troyes AC
+Evian Thonon Gaillard F.C.
+RC Lens
+FC Metz
+AC Ajaccio
+
+
+
+============================================
+= Germany • Deutschland (de)
+
+FC Augsburg
+Hertha BSC
+SV Werder Bremen
+Borussia Dortmund
+Fortuna Düsseldorf
+Eintracht Frankfurt
+SC Freiburg
+Hannover 96
+TSG 1899 Hoffenheim
+RB Leipzig
+Bayer 04 Leverkusen
+1. FSV Mainz 05
+Borussia Mönchengladbach
+FC Bayern Munich
+1. FC Nürnberg
+FC Schalke 04
+VfB Stuttgart
+VfL Wolfsburg
+
+
+
+==========================================
+=  Italy (it)
+
+Atalanta B.C.
+Bologna F.C. 1909
+Cagliari Calcio
+A.C. ChievoVerona
+Empoli F.C.
+ACF Fiorentina
+Frosinone Calcio
+Genoa C.F.C.
+Inter Milan
+Juventus F.C.
+S.S. Lazio
+A.C. Milan
+S.S.C. Napoli
+Parma Calcio 1913
+A.S. Roma
+U.C. Sampdoria
+U.S. Sassuolo Calcio
+S.P.A.L.
+Torino F.C.
+Udinese Calcio
+
+
+
+=====================================
+=  Netherlands (nl)
+
+ADO Den Haag
+AFC Ajax
+AZ Alkmaar
+FC Emmen
+SBV Excelsior
+Feyenoord
+Fortuna Sittard
+De Graafschap
+FC Groningen
+SC Heerenveen
+Heracles Almelo
+NAC Breda
+PEC Zwolle
+PSV Eindhoven
+FC Utrecht
+SBV Vitesse
+VVV-Venlo
+Willem II (football club)
+FC Twente
+N.E.C. (football club)
+RKC Waalwijk
+Roda JC Kerkrade
+SC Cambuur
+
+
+===================================================
+=  Switzerland • Confoederatio Helvetica (ch)
+
+FC Basel
+Grasshopper Club Zürich
+FC Lausanne-Sport
+FC Lugano
+FC Luzern
+FC Sion
+FC St. Gallen
+FC Thun
+Neuchâtel Xamax FCS
+BSC Young Boys
+FC Zürich

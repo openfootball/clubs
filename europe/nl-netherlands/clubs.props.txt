@@ -1,25 +1,25 @@
 ###########################
 #  Eredivisie
 
-Name,            Wikipedia,                 Web
-AFC Ajax,        AFC_Ajax,                  www.ajax.nl
-AZ Alkmaar,      AZ_Alkmaar,                www.az.nl
-ADO Den Haag,    ADO_Den_Haag,              www.adodenhaag.nl
-Feyenoord,       Feyenoord,                 www.feyenoord.nl
-SBV Excelsior,   S.B.V._Excelsior,          www.sbvexcelsior.nl
-Heracles Almelo, Heracles_Almelo,           www.heracles.nl
-FC Twente,       FC_Twente,                 www.fctwente.nl
-PEC Zwolle,      PEC_Zwolle,                www.peczwolle.nl
-FC Groningen,    FC_Groningen,              www.fcgroningen.nl
-FC Utrecht,      FC_Utrecht,                www.fcutrecht.nl
-NAC Breda,       NAC_Breda,                 www.nac.nl
-NEC Nijmegen,    N.E.C._(football_club),    www.nec-nijmegen.nl
-Vitesse Arnhem,  Vitesse,                   www.vitesse.nl
-De Graafschap,   De_Graafschap,             www.degraafschap.nl
-PSV Eindhoven,   PSV_Eindhoven,             www.psv.nl
-RKC Waalwijk,    RKC_Waalwijk,              www.rkcwaalwijk.nl
-Willem II,       Willem_II_(football_club), www.willem-ii.nl
-Roda JC,         Roda_JC_Kerkrade,          www.rodajc.nl
-VVV-Venlo,       VVV-Venlo,                 www.vvv-venlo.nl
-SC Heerenveen,   SC_Heerenveen,             www.sc-heerenveen.nl
-SC Cambuur,      SC_Cambuur,                www.cambuur.nl
+Name,            Web
+AFC Ajax,        www.ajax.nl
+AZ Alkmaar,      www.az.nl
+ADO Den Haag,    www.adodenhaag.nl
+Feyenoord,       www.feyenoord.nl
+SBV Excelsior,   www.sbvexcelsior.nl
+Heracles Almelo, www.heracles.nl
+FC Twente,       www.fctwente.nl
+PEC Zwolle,      www.peczwolle.nl
+FC Groningen,    www.fcgroningen.nl
+FC Utrecht,      www.fcutrecht.nl
+NAC Breda,       www.nac.nl
+NEC Nijmegen,    www.nec-nijmegen.nl
+Vitesse Arnhem,  www.vitesse.nl
+De Graafschap,   www.degraafschap.nl
+PSV Eindhoven,   www.psv.nl
+RKC Waalwijk,    www.rkcwaalwijk.nl
+Willem II,       www.willem-ii.nl
+Roda JC,         www.rodajc.nl
+VVV-Venlo,       www.vvv-venlo.nl
+SC Heerenveen,   www.sc-heerenveen.nl
+SC Cambuur,      www.cambuur.nl

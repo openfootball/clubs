@@ -5,10 +5,10 @@
 == Bayern ==
 
 Bayern München, 1900,     München
-  | Bayern | FC Bayern München 
-  | Bayern Munich [en]
+  | Bayern | FC Bayern München
+  | Bayern Munich [en] | FC Bayern Munich [en]
 TSV 1860 München, 1860, München
-  | 1860 München | TSV München 1860  
+  | 1860 München | TSV München 1860
   | Munich 1860 [en]
 
 1. FC Nürnberg, 1900, Nürnberg       ### todo: always map Nurnberg to 1. FC Nürnberg ?!
@@ -18,7 +18,7 @@ SpVgg Greuther Fürth, 1903, Fürth
 FC Augsburg, 1907,    Augsburg
   | Augsburg
 SpVgg Unterhaching,  Unterhaching
-  | U'haching | Unterhaching 
+  | U'haching | Unterhaching
 FC Ingolstadt 04, 2004,    Ingolstadt               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
   | Ingolstadt
 SSV Jahn Regensburg,   Regensburg
@@ -65,31 +65,31 @@ VfL Bochum, 1938,            Bochum
 SG Wattenscheid 09,    Bochum (Wattenscheid)    ## Bochum-Wattenscheid - Bochumer Stadtbezirk
   | Wattenscheid | Wattenscheid 09
 
-Arminia Bielefeld,  1905,    Bielefeld   
+Arminia Bielefeld,  1905,    Bielefeld
   | Bielefeld | DSC Arminia Bielefeld
-Preußen Münster,     Münster      
+Preußen Münster,     Münster
   | Münster | SC Preußen 06
 
-Gütersloh,            Gütersloh    
+Gütersloh,            Gütersloh
 KFC Uerdingen,        Krefeld          ## bis 1995 FC Bayer 05 Uerdingen
   | Uerdingen | KFC Uerdingen 05 | Bayer 05 Uerdingen | FC Bayer 05 Uerdingen | Bayer Uerdingen
 # note:  now called KFC Uerdingen 05 (was Bayer 05 Uerdingen)
 # -- (1953-1995) note: now KFC Uerdingen 05
 
 
-Alemannia Aachen,     Aachen       
+Alemannia Aachen,     Aachen
   | Aachen | TSV Alemannia Aachen
-SC Paderborn 07,  1907,      Paderborn     
+SC Paderborn 07,  1907,      Paderborn
   | Paderborn
-Rot Weiss Ahlen,    Ahlen 
+Rot Weiss Ahlen,    Ahlen
   | Ahlen
-Rot-Weiß Oberhausen,   Oberhausen 
+Rot-Weiß Oberhausen,   Oberhausen
   | Oberhausen | Rot-Weiss Oberhausen
 SF Siegen,            Siegen
   | Siegen | Sportfreunde Siegen
-Wuppertaler SV,         Wuppertal 
+Wuppertaler SV,         Wuppertal
   | Wuppertaler
-Rot-Weiss Essen,     Essen 
+Rot-Weiss Essen,     Essen
   | Essen | RW Essen
 ##  - 2 (1): 1993-94
 ##  - 2 (3): 2006-07 2004-05 1996-97

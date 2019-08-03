@@ -1,0 +1,27 @@
+################################
+#  France, fr
+
+Name,                  Web
+Paris SG,              www.psg.fr
+SC Bastia,             www.sc-bastia.net
+Girondins de Bordeaux, www.girondins.com
+SM Caen,               www.smcaen.fr
+Olympique Lyonnais,    www.olweb.fr
+AS Saint-Étienne,      www.asse.fr
+LOSC Lille,            www.losc.fr
+FC Lorient,            www.fclweb.fr
+Stade Rennais FC,      www.staderennais.com
+EA Guingamp,           www.eaguingamp.com
+Olympique Marseille,   www.om.net
+OGC Nice,              www.ogcnice.com
+HSC Montpellier,       www.mhscfoot.com
+FC Nantes,             www.fcnantes.com
+Stade de Reims,        www.stade-de-reims.com
+Toulouse FC,           www.tfc.info
+GFC Ajaccio,           www.gfca-foot.com
+ESTAC Troyes,          www.estac.fr
+Angers SCO,            www.angers-sco.fr
+Évian TG,              www.etgfc.com
+RC Lens,               www.rclens.fr
+FC Metz,               www.fcmetz.com
+AC Ajaccio,            www.ac-ajaccio.com
