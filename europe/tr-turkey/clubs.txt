@@ -7,19 +7,24 @@ Fenerbahçe İstanbul SK,  İstanbul
   | Fenerbahçe Spor Kulübü | Fenerbahçe Sports Club
 Galatasaray İstanbul AŞ, İstanbul
   | Galatasaray | Galatasaray Istanbul | Galatasaray AŞ
+  | Galatasaray SK
 Beşiktaş İstanbul JK,    İstanbul
   | Besiktas | Beşiktaş JK | Beşiktaş
-Kasımpaşa İstanbul SK,   İstanbul
+Kasımpaşa İstanbul SK,   İstanbul (Beyoğlu)
+  | Kasımpaşa S.K. | Kasımpaşa
   | Kasimpasa
 
-İstanbul Başakşehir,  İstanbul
-  | Buyuksehyr           ## (double) check if Buyuksehyr matching !?
+İstanbul Başakşehir,  İstanbul (Başakşehir)
+  | İstanbul Başakşehir F.K.
+  | Buyuksehyr | İstanbul Büyükşehir Belediyespor    ## (double) check if Buyuksehyr matching (or separate club) !?
 
 
 Gençlerbirliği Ankara SK, Ankara
   | Genclerbirligi
 Osmanlıspor Ankara,       Ankara
   | Osmanlispor | Osmanlıspor
+MKE Ankaragücü,           Ankara
+  | Ankaragücü
 
 Kardemir Karabükspor,  Karabük
   | Karabükspor | Karabukspor
@@ -33,7 +38,8 @@ Akhisar Belediyespor, Akhisar
 Alanyaspor,  Alanya
 Antalyaspor, Antalya
 Bursaspor,   Bursa
-Göztepe Izmir, İzmir
+Göztepe Izmir,    İzmir (Güzelyalı)
+  | Göztepe | Göztepe S.K.
   | Goztep
 Kayserispor,         Kayseri
 Kayseri Erciyesspor, Kayseri
@@ -54,3 +60,6 @@ Balıkesirspor,       Balıkesir
   | Balikesirspor
 Mersin İdmanyurdu,   Mersin
   | Mersin Idman Yurdu
+
+BB Erzurumspor,     Erzurum
+  | Erzurum BB | Büyükşehir Belediye Erzurumspor

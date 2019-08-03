@@ -210,3 +210,27 @@ FC Thun
 Neuchâtel Xamax FCS
 BSC Young Boys
 FC Zürich
+
+
+
+===================================
+=  Turkey (tr)
+
+Akhisar Belediyespor
+Alanyaspor
+MKE Ankaragücü
+Antalyaspor
+Beşiktaş J.K.
+Bursaspor
+Çaykur Rizespor
+Büyükşehir Belediye Erzurumspor
+Fenerbahçe S.K. (football)
+Galatasaray S.K. (football)
+Göztepe S.K.
+İstanbul Başakşehir F.K.
+Kasımpaşa S.K.
+Kayserispor
+Konyaspor
+Sivasspor
+Trabzonspor
+Yeni Malatyaspor
