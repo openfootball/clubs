@@ -53,7 +53,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ä** 
-  - **ä** U+00E4 (228)×1 ⇒ a•ae
+  - **ä** (U+00E4 / 228)×1 ⇒ a•ae
 
 
 

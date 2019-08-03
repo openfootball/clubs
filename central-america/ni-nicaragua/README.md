@@ -8,7 +8,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **í** 
-  - **í** U+00ED (237)×3 ⇒ i
+  - **í** (U+00ED / 237)×3 ⇒ i
 
 
 

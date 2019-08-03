@@ -24,7 +24,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ö** 
-  - **ö** U+00F6 (246)×5 ⇒ o•oe
+  - **ö** (U+00F6 / 246)×5 ⇒ o•oe
 
 
 

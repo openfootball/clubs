@@ -34,7 +34,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ú** 
-  - **ú** U+00FA (250)×1 ⇒ u
+  - **ú** (U+00FA / 250)×1 ⇒ u
 
 
 

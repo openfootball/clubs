@@ -12,7 +12,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **à** 
-  - **à** U+00E0 (224)×2 ⇒ a
+  - **à** (U+00E0 / 224)×2 ⇒ a
 
 
 

@@ -10,7 +10,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **é** 
-  - **é** U+00E9 (233)×2 ⇒ e
+  - **é** (U+00E9 / 233)×2 ⇒ e
 
 
 
