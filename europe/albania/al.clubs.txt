@@ -20,12 +20,10 @@ KS Teuta
 KF Laçi
   | Laçi
 FK Kukësi
-  |Kukësi | Kukës
+  | Kukësi | Kukës
 KS Luftëtari
+  | Luftëtari | Luftëtari Gjirokastër FC
 FC Kamza
   | Kamza
 KS Kastrioti
   | Kastrioti
-Luftëtari Gjirokastër FC
-  | Luftëtari
-
