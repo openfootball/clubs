@@ -2,16 +2,16 @@
 # Bulgaria (BUL), bg
 
 
-Name,                   Wikipedia,              Web
-PFC Levski Sofia,       PFC_Levski_Sofia,       www.levski.bg
-PFC Slavia Sofia,       PFC_Slavia_Sofia,       www.pfcslavia.com
-PFC CSKA Sofia,         PFC_CSKA_Sofia,         www.cska.bg
-PFC Lokomotiv Sofia,    PFC_Lokomotiv_Sofia,    ?
-PFC Botev Plovdiv,      PFC_Botev_Plovdiv,      www.botevplovdiv.bg
-PFC Lokomotiv Plovdiv,  PFC_Lokomotiv_Plovdiv,  www.lokomotivpd.com
-PFC Litex Lovech,       PFC_Litex_Lovech,       www.pfclitex.com
-PFC Cherno More Varna,  PFC_Cherno_More_Varna,  www.chernomorepfc.bg
-PFC Ludogorets Razgrad, PFC_Ludogorets_Razgrad, www.ludogorets.com
-PFC Beroe Stara Zagora, PFC_Beroe_Stara_Zagora, www.beroe.bg
-PFC Montana,            PFC_Montana,            ?
-FC Pirin Blagoevgrad,   FC_Pirin_Blagoevgrad,   ?
+Name,                   Web
+PFC Levski Sofia,       www.levski.bg
+PFC Slavia Sofia,       www.pfcslavia.com
+PFC CSKA Sofia,         www.cska.bg
+PFC Lokomotiv Sofia,    ?
+PFC Botev Plovdiv,      www.botevplovdiv.bg
+PFC Lokomotiv Plovdiv,  www.lokomotivpd.com
+PFC Litex Lovech,       www.pfclitex.com
+PFC Cherno More Varna,  www.chernomorepfc.bg
+PFC Ludogorets Razgrad, www.ludogorets.com
+PFC Beroe Stara Zagora, www.beroe.bg
+PFC Montana,            ?
+FC Pirin Blagoevgrad,   ?

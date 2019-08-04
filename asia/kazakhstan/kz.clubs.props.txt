@@ -1,5 +1,0 @@
-############################
-# Kazakhstan (KAZ), kz
-
-Name,       Wikipedia
-FC Astana,  FC_Astana

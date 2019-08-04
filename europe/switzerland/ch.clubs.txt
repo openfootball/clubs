@@ -3,69 +3,69 @@
 
 
 == Zürich ==
-Grasshoppers Zürich, 1886,       Zürich › Zürich
+Grasshoppers Zürich, 1886,       Zürich
   | Grasshoppers | Grasshoppers Zurich | Grasshopper Club Zürich
-FC Zürich, 1896,                 Zürich › Zürich
+FC Zürich, 1896,                 Zürich
   | Zürich | Zurich | FC Zurich
-FC Winterthur, 1896,      Winterthur › Zürich
+FC Winterthur, 1896,      Winterthur
   | Winterthur
 
 
 == Basel-Stadt ==
-FC Basel, 1893,          Basel › Basel-Stadt
+FC Basel, 1893,          Basel
   | Basel | FC Basel 1893
 
 == Bern ==
-BSC Young Boys, 1898,          Bern › Bern
+BSC Young Boys, 1898,          Bern
   | Young Boys | Young Boys Bern | Berner Sport Club Young Boys | BSC YB
-FC Biel-Bienne, 1896,     Biel/Bienne ›  Bern
+FC Biel-Bienne, 1896,     Biel/Bienne
   | Biel-Bienne
-FC Thun, 1898,                 Thun › Bern
+FC Thun, 1898,                 Thun
   | Thun | FC Thun 1898
 
 == Luzern ==
-FC Luzern, 1901,                Luzern › Luzern    ## use Lucerne [fr] - why??
+FC Luzern, 1901,                Luzern    ## use Lucerne [fr] - why??
   | Luzern
 
 == St. Gallen ==
-FC St. Gallen, 1879,            St. Gallen  › St. Gallen
+FC St. Gallen, 1879,            St. Gallen
   | St. Gallen
-FC Wil, 1900,                   Wil › St. Gallen
+FC Wil, 1900,                   Wil
   | Wil | FC Wil 1900
 
 == Schaffhausen ==
-FC Schaffhausen, 1896,  Schaffhausen › Schaffhausen
+FC Schaffhausen, 1896,  Schaffhausen
 
 == Aargau ==
-FC Aarau, 1902,                Aarau › Aargau
+FC Aarau, 1902,                Aarau
   | Aarau
-FC Wohlen, 1904,          Wohlen › Aargau
+FC Wohlen, 1904,          Wohlen
   | Wohlen
 
 == Valais ==
-FC Sion, 1909,                 Sion › Valais
+FC Sion, 1909,                 Sion
   | Sion
 
 == Neuchâtel ==
-Xamax Neuchâtel,              Neuchâtel › Neuchâtel
+Xamax Neuchâtel,              Neuchâtel
   | Xamax | Neuchâtel Xamax FCS
 
 == Lausanne ==
-FC Lausanne,  1896,           Lausanne › Lausanne
+FC Lausanne,  1896,           Lausanne
   | Lausanne | FC Lausanne-Sport
-FC Le Mont, 1942,             Le Mont-sur-Lausanne › Lausanne
+FC Le Mont, 1942,             Le Mont-sur-Lausanne
   | FC Le Mont-sur-Lausanne,
 
 == Genève ==
-Servette FC, 1890,            Genève › Genève
+Servette FC, 1890,            Genève
   | Servette | Servette Genève | Servette FC Genève
 
 == Ticino ==
-FC Lugano, 1908,              Lugano ›  Ticino
+FC Lugano, 1908,              Lugano
   | Lugano
-FC Chiasso, 1905,            Chiasso › Ticino
+FC Chiasso, 1905,            Chiasso
   | Chiasso
-FC Locarno, 1906,    Locarno › Ticino
+FC Locarno, 1906,    Locarno
   | Locarno
-AC Bellinzona, 1904,    Bellinzona › Ticino
+AC Bellinzona, 1904,    Bellinzona
   | Bellinzona

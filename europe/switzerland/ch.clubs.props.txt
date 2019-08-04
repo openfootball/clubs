@@ -1,17 +1,17 @@
 #########################################################
 #  Switzerland • Confoederatio Helvetica (ch)
 
-Name,                 Wikipedia (de),            Web
-FC Zürich,            FC_Zürich,                 www.fcz.ch
-Grasshoppers Zürich,  Grasshopper_Club_Zürich,   www.gcz.ch
-FC Basel,             FC_Basel,                  www.fcb.ch
-BSC Young Boys,       BSC_Young_Boys,            www.bscyb.ch
-FC Luzern,            FC_Luzern,                 www.fcl.ch
-FC St. Gallen,        FC_St._Gallen,             www.fcsg.ch
-FC Thun,              FC_Thun,                   www.fcthun.ch
-FC Sion,              FC_Sion,                   www.fc-sion.ch
-FC Aarau,             FC_Aarau,                  www.fcaarau.ch
-FC Lausanne,          FC_Lausanne-Sport,         www.lausanne-sport.ch
-FC Le Mont,           FC_Le_Mont-sur-Lausanne,   www.fclemontlausanne.ch
-Servette Genève,      Servette_FC_Genève,        www.servettefc.ch
-FC Lugano,            FC_Lugano,                 www.aclugano.ch
+Name,                 Web
+FC Zürich,            www.fcz.ch
+Grasshoppers Zürich,  www.gcz.ch
+FC Basel,             www.fcb.ch
+BSC Young Boys,       www.bscyb.ch
+FC Luzern,            www.fcl.ch
+FC St. Gallen,        www.fcsg.ch
+FC Thun,              www.fcthun.ch
+FC Sion,              www.fc-sion.ch
+FC Aarau,             www.fcaarau.ch
+FC Lausanne,          www.lausanne-sport.ch
+FC Le Mont,           www.fclemontlausanne.ch
+Servette Genève,      www.servettefc.ch
+FC Lugano,            www.aclugano.ch

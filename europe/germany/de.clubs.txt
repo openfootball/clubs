@@ -9,7 +9,7 @@ Bayern München, 1900,     München
   | Bayern Munich [en] | FC Bayern Munich [en]
 TSV 1860 München, 1860, München
   | 1860 München | TSV München 1860
-  | Munich 1860 [en]
+  | Munich 1860 [en] | TSV 1860 Munich [en]
 
 1. FC Nürnberg, 1900, Nürnberg       ### todo: always map Nurnberg to 1. FC Nürnberg ?!
   | Nürnberg
@@ -68,7 +68,7 @@ SG Wattenscheid 09,    Bochum (Wattenscheid)    ## Bochum-Wattenscheid - Bochume
 Arminia Bielefeld,  1905,    Bielefeld
   | Bielefeld | DSC Arminia Bielefeld
 Preußen Münster,     Münster
-  | Münster | SC Preußen 06
+  | Münster | SC Preußen 06 | SC Preußen Münster
 
 Gütersloh,            Gütersloh
 KFC Uerdingen,        Krefeld          ## bis 1995 FC Bayer 05 Uerdingen

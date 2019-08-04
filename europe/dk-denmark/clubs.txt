@@ -2,79 +2,70 @@
 =   Denmark (dk)
 
 
-===================
-==  Hovedstaden
-
-FC København, 1992,    København › Hovedstaden         ## Copenhagen [en]
+== Hovedstaden ==
+FC København, 1992,    København         ## Copenhagen [en]
   | Kobenhavn | København | Football Club København | FC Copenhagen
 
-Brøndby IF, 1964,    Brøndbyvester › Hovedstaden       ## use Brøndby ??
+Brøndby IF, 1964,    Brøndbyvester       ## use Brøndby ??
   | Brondby | Brøndby | Brondby IF | Brøndbyernes Idrætsforening
 
-FC Nordsjælland, 1991,  Farum › Hovedstaden
+FC Nordsjælland, 1991,  Farum
   | Nordsjaelland | Nordsjælland | Football Club Nordsjælland
 
-FC Helsingør, 2005,  Helsingør › Hovedstaden
- | Helsingør | Helsingor 
+FC Helsingør, 2005,  Helsingør
+ | Helsingør | Helsingor
 
-
-Lyngby BK, 1921, Lyngby  › Hovedstaden
+Lyngby BK, 1921, Lyngby
   | Lyngby | Lyngby Boldklub
-  
-====================
-==  Nordjylland
 
-Aalborg BK, 1885,    Aalborg › Nordjylland
+
+== Nordjylland ==
+Aalborg BK, 1885,    Aalborg
   | AaB | Aalborg | Aalborg Boldspilklub
 
-Hobro IK, 1913,     Hobro › Nordjylland
+Hobro IK, 1913,     Hobro
   | Hobro | Hobro Idræts Klub
 
-Vendsyssel FF, Hjørring › Nordjylland
+Vendsyssel FF, Hjørring
   | Vendsyssel
- 
-=====================
-==  Midtjylland
 
-FC Midtjylland, 1999,   Herning › Midtjylland
+
+== Midtjylland ==
+FC Midtjylland, 1999,   Herning
   | Midtjylland | Football Club Midtjylland
 
-AGF Aarhus, 1880,   Aarhus ›  Midtjylland
+AGF Aarhus, 1880,   Aarhus
   | AGF | Aarhus | Aarhus Gymnastikforening
 
-Viborg FF, 1896,    Viborg › Midtjylland
+Viborg FF, 1896,    Viborg
   | Viborg | Viborg Fodsports Forening
 
-AC Horsens,   Horsens › Midtjylland
+AC Horsens,   Horsens
   | Horsens
 
-Silkeborg IF, 1917,  Silkeborg › Midtjylland
-  | Silkeborg | SIF | Silkeborg Idrætsforening 
+Silkeborg IF, 1917,  Silkeborg
+  | Silkeborg | SIF | Silkeborg Idrætsforening
 
-===================
-==  Østjylland
 
-Randers FC, 2003,   Randers › Østjylland
+== Østjylland ==
+Randers FC, 2003,   Randers
   | Randers | Randers Football Club
 
-=================
-==  Syddanmark
 
-Sønderjysk Elitesport, 2004,   Haderslev › Syddanmark
+== Syddanmark ==
+Sønderjysk Elitesport, 2004,   Haderslev
   | Sonderjyske | SønderjyskE
 
-Odense BK, 1887,      Odense  › Syddanmark
+Odense BK, 1887,      Odense
   | OB | Odense | Odense Boldklub
 
-Esbjerg fB, 1924,    Esbjerg › Syddanmark
+Esbjerg fB, 1924,    Esbjerg
   | Esbjerg | Esbjerg forenede Boldklubber
 
-Vejle, 1891, Vejle › Syddanmark
+Vejle, 1891, Vejle
   | Vejle Boldklub
 
-=====================
-==  Sjælland
 
-FC Vestsjælland,  Slagelse › Sjælland
+== Sjælland ==
+FC Vestsjælland,  Slagelse
   | Vestsjaelland
-

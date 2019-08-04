@@ -56,6 +56,23 @@ KV Mechelen
 Oud-Heverlee Leuven
 
 
+==============================
+=  Bulgaria (bg)
+
+PFC Levski Sofia
+PFC Slavia Sofia
+PFC CSKA Sofia
+PFC Lokomotiv Sofia
+PFC Botev Plovdiv
+PFC Lokomotiv Plovdiv
+PFC Litex Lovech
+PFC Cherno More Varna
+PFC Ludogorets Razgrad
+PFC Beroe Stara Zagora
+PFC Montana
+FC Pirin Blagoevgrad
+
+
 ====================================
 =  Czech Republic (cz)
 
@@ -77,6 +94,23 @@ FC Viktoria Plzeň
 FC Fastav Zlín
 FC Vysočina Jihlava
 FC Zbrojovka Brno
+
+
+==========================
+=  Denmark (dk)
+
+F.C. Copenhagen
+FC Nordsjælland
+Brøndby IF
+AaB Fodbold
+Hobro IK
+FC Midtjylland
+Aarhus Gymnastikforening
+Viborg FF
+Randers FC
+SønderjyskE Fodbold
+Odense Boldklub
+Esbjerg fB
 
 
 
@@ -168,6 +202,46 @@ FC Schalke 04
 VfB Stuttgart
 VfL Wolfsburg
 
+FC Erzgebirge Aue
+1. FC Union Berlin
+Arminia Bielefeld
+VfL Bochum
+SV Darmstadt 98
+Dynamo Dresden
+MSV Duisburg
+SpVgg Greuther Fürth
+Hamburger SV
+1. FC Heidenheim
+FC Ingolstadt 04
+Holstein Kiel
+1. FC Köln
+1. FC Magdeburg
+SC Paderborn 07
+SSV Jahn Regensburg
+SV Sandhausen
+FC St. Pauli
+
+VfR Aalen
+Eintracht Braunschweig
+FC Energie Cottbus
+SG Sonnenhof Großaspach
+Hallescher FC
+FC Carl Zeiss Jena
+1. FC Kaiserslautern
+Karlsruher SC
+SC Fortuna Köln
+Sportfreunde Lotte
+SV Meppen
+TSV 1860 Munich
+SC Preußen Münster
+VfL Osnabrück
+F.C. Hansa Rostock
+KFC Uerdingen 05
+SpVgg Unterhaching
+SV Wehen Wiesbaden
+Würzburger Kickers
+FSV Zwickau
+
 
 ==========================================
 =  Italy (it)
@@ -192,6 +266,11 @@ U.S. Sassuolo Calcio
 S.P.A.L.
 Torino F.C.
 Udinese Calcio
+
+===================================
+=  Liechtenstein (li)
+
+FC Vaduz
 
 
 ========================================

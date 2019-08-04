@@ -1,146 +1,43 @@
-Name,                Wikipedia (de),           Web,                   Address
-Bayern München,      FC_Bayern_München,        www.fcbayern.de,       Säbener Straße 51-57 // 81547 München
-Borussia Dortmund,   Borussia_Dortmund,        www.bvb.de,            Rheinlanddamm 207-209 // 44137 Dortmund
-Bayer Leverkusen,    Bayer_04_Leverkusen,      www.bayer04.de,        Bismarckstr. 122 - 124 // 51373 Leverkusen
-Schalke 04,          FC_Schalke_04,            www.schalke04.de,      Ernst-Kuzorra-Weg 1 // 45891 Gelsenkirchen
-Eintracht Frankfurt, Eintracht_Frankfurt,      www.eintracht.de,      Mörfelder Landstraße 362 // 60528 Frankfurt am Main
-Hamburger SV,        Hamburger_SV,             www.hsv.de,            Sylvesterallee 7 // 22525 Hamburg
-Borussia M'gladbach, Borussia_Mönchengladbach, www.borussia.de,       Hennes-Weisweiler-Allee 1 // 41179 Mönchengladbach
-Hannover 96,         Hannover_96,              www.hannover96.de,     Robert-Enke-Straße 1 // 30169 Hannover
-VfL Wolfsburg,       VfL_Wolfsburg,            www.vfl-wolfsburg.de,  In den Allerwiesen 1 // 38446 Wolfsburg
-1. FSV Mainz 05,     1._FSV_Mainz_05,          www.mainz05.de,        Isaac-Fulda-Allee 5 // 55124 Mainz
-Werder Bremen,       Werder_Bremen,            www.werder.de,         Franz-Böhmert-Straße 1c // 28205 Bremen
-1899 Hoffenheim,     TSG_1899_Hoffenheim,      www.achtzehn99.de,     Horrenberger Straße 58 // 74939 Zuzenhausen    ## city:hoffenheim ??
-VfB Stuttgart,       VfB_Stuttgart,            www.vfb.de,            Mercedesstraße 109 // 70372 Stuttgart
-FC Augsburg,         FC_Augsburg,              www.fcaugsburg.de,     Donauwörther Str. 170 // 86154 Augsburg
-Hertha BSC,          Hertha_BSC,               www.herthabsc.de,      Hanns-Braun-Straße / Friesenhaus 2 // 14053 Berlin
-1. FC Köln,          1._FC_Köln,               www.fc-koeln.de,       Franz-Kremer-Allee 1 // 50937 Köln
-FC Ingolstadt 04,    FC_Ingolstadt_04,         www.fcingolstadt.de,   Am Sportpark 1 // 85053 Ingolstadt
-SV Darmstadt 98,     SV_Darmstadt_98,          www.sv98.de,           ?
+Name,                   Web,                       Address
+Bayern München,         www.fcbayern.de,           Säbener Straße 51-57 // 81547 München
+Borussia Dortmund,      www.bvb.de,                Rheinlanddamm 207-209 // 44137 Dortmund
+Bayer Leverkusen,       www.bayer04.de,            Bismarckstr. 122 - 124 // 51373 Leverkusen
+Schalke 04,             www.schalke04.de,          Ernst-Kuzorra-Weg 1 // 45891 Gelsenkirchen
+Eintracht Frankfurt,    www.eintracht.de,          Mörfelder Landstraße 362 // 60528 Frankfurt am Main
+Hamburger SV,           www.hsv.de,                Sylvesterallee 7 // 22525 Hamburg
+Borussia M'gladbach,    www.borussia.de,           Hennes-Weisweiler-Allee 1 // 41179 Mönchengladbach
+Hannover 96,            www.hannover96.de,         Robert-Enke-Straße 1 // 30169 Hannover
+VfL Wolfsburg,          www.vfl-wolfsburg.de,      In den Allerwiesen 1 // 38446 Wolfsburg
+1. FSV Mainz 05,        www.mainz05.de,            Isaac-Fulda-Allee 5 // 55124 Mainz
+Werder Bremen,          www.werder.de,             Franz-Böhmert-Straße 1c // 28205 Bremen
+1899 Hoffenheim,        www.achtzehn99.de,         Horrenberger Straße 58 // 74939 Zuzenhausen    ## city:hoffenheim ??
+VfB Stuttgart,          www.vfb.de,                Mercedesstraße 109 // 70372 Stuttgart
+FC Augsburg,            www.fcaugsburg.de,         Donauwörther Str. 170 // 86154 Augsburg
+Hertha BSC,             www.herthabsc.de,          Hanns-Braun-Straße / Friesenhaus 2 // 14053 Berlin
+1. FC Köln,             www.fc-koeln.de,           Franz-Kremer-Allee 1 // 50937 Köln
+FC Ingolstadt 04,       www.fcingolstadt.de,       Am Sportpark 1 // 85053 Ingolstadt
+SV Darmstadt 98,        www.sv98.de,               ?
 
-SC Paderborn 07,        SC_Paderborn_07,          www.scpaderborn07.de,      Paderborner Str. 89 // 33104 Paderborn
-SC Freiburg,            SC_Freiburg,              www.scfreiburg.com,        Schwarzwaldstr. 193 // 79117 Freiburg
-Eintracht Braunschweig, Eintracht_Braunschweig,   www.eintracht.com,         Hamburger Straße 210 // 38112 Braunschweig
-1. FC Nürnberg,         1._FC_Nürnberg,           www.fcn.de,                Valznerweiherstraße 200 // 90480 Nürnberg
-Fortuna Düsseldorf,     Fortuna_Düsseldorf,       www.f95.de,                Arena Straße 1 // 40474 Düsseldorf
-SpVgg Greuther Fürth,   SpVgg_Greuther_Fürth,     www.greuther-fuerth.de,    Laubenweg 60 // 90765 Fürth
-1. FC Kaiserslautern,   1._FC_Kaiserslautern,     www.fck.de,                Fritz-Walter-Str. 1 // 67663 Kaiserslautern
-FSV Frankfurt,          FSV_Frankfurt,            www.fsv-frankfurt.de,      Richard-Herrmann-Platz 1 // 60386 Frankfurt/Main
-TSV München 1860,       TSV_1860_München,         www.tsv1860.de,            Grünwalder Straße 114 // 81547 München
-1. FC Union Berlin,     1._FC_Union_Berlin,       www.fc-union-berlin.de,    An der Wuhlheide 263 // 12555 Berlin
-VfL Bochum,             VfL_Bochum,               www.vfl-bochum.de,         Castroper Straße 145 // 44791 Bochum
-FC St. Pauli,           FC_St._Pauli,             www.fcstpauli.com,         Heiligengeistfeld 1 // 20359 Hamburg
-SV Sandhausen,          SV_Sandhausen,            www.svs1916.de,            Jahnstraße 1 // 69207 Sandhausen
-Karlsruher SC,          Karlsruher_SC,            www.ksc.de,                Adenauerring 17 // 76131 Karlsruhe
-1. FC Heidenheim,       1._FC_Heidenheim,         www.fc-heidenheim.de,      ?
-RB Leipzig,             RB_Leipzig,               www.dierotenbullen.com,    ?
-MSV Duisburg,           ?,                        ?,                         ?
-Arminia Bielefeld,      ?,                        www.arminia-bielefeld.de,  Melanchthonstraße 31a // 33615 Bielefeld
+SC Paderborn 07,        www.scpaderborn07.de,      Paderborner Str. 89 // 33104 Paderborn
+SC Freiburg,            www.scfreiburg.com,        Schwarzwaldstr. 193 // 79117 Freiburg
+Eintracht Braunschweig, www.eintracht.com,         Hamburger Straße 210 // 38112 Braunschweig
+1. FC Nürnberg,         www.fcn.de,                Valznerweiherstraße 200 // 90480 Nürnberg
+Fortuna Düsseldorf,     www.f95.de,                Arena Straße 1 // 40474 Düsseldorf
+SpVgg Greuther Fürth,   www.greuther-fuerth.de,    Laubenweg 60 // 90765 Fürth
+1. FC Kaiserslautern,   www.fck.de,                Fritz-Walter-Str. 1 // 67663 Kaiserslautern
+FSV Frankfurt,          www.fsv-frankfurt.de,      Richard-Herrmann-Platz 1 // 60386 Frankfurt/Main
+TSV München 1860,       www.tsv1860.de,            Grünwalder Straße 114 // 81547 München
+1. FC Union Berlin,     www.fc-union-berlin.de,    An der Wuhlheide 263 // 12555 Berlin
+VfL Bochum,             www.vfl-bochum.de,         Castroper Straße 145 // 44791 Bochum
+FC St. Pauli,           www.fcstpauli.com,         Heiligengeistfeld 1 // 20359 Hamburg
+SV Sandhausen,          www.svs1916.de,            Jahnstraße 1 // 69207 Sandhausen
+Karlsruher SC,          www.ksc.de,                Adenauerring 17 // 76131 Karlsruhe
+1. FC Heidenheim,       www.fc-heidenheim.de,      ?
+RB Leipzig,             www.dierotenbullen.com,    ?
+MSV Duisburg,           ?,                         ?
+Arminia Bielefeld,      www.arminia-bielefeld.de,  Melanchthonstraße 31a // 33615 Bielefeld
 
-## Brandenburg (bb)
-Energie Cottbus,         ?,                        www.fcenergie.de,          Am Eliaspark 1 // 03042 Cottbus
-FSV Optik Rathenow,      FSV_Optik_Rathenow
-SV Falkensee-Finkenkrug, SV_Falkensee-Finkenkrug
-
-## Berlin (be)
-Tasmania 1900 Berlin,    SC_Tasmania_1900_Berlin
-Tennis Borussia Berlin,  Tennis_Borussia_Berlin
-Blau-Weiß 90 Berlin,     Blau-Weiß_90_Berlin
-BFC Dynamo,              BFC_Dynamo
-Berliner AK 07,          Berliner_AK_07
-FC Viktoria 1889 Berlin, FC_Viktoria_1889_Berlin
-
-## Baden-Württemberg (bw)
-VfR Aalen,                VfR_Aalen,              www.vfr-aalen.de,           Stadionweg 5/1 // 73430 Aalen
-SV Waldhof Mannheim,      SV_Waldhof_Mannheim
-SSV Ulm 1846,             SSV_Ulm_1846_Fußball
-FC Nöttingen,             FC_Nöttingen
-Bahlinger SC,             Bahlinger_SC
-Neckarsulmer Sport-Union, Neckarsulmer_Sport-Union
-Offenburger FV,           Offenburger_FV
-FC-Astoria Walldorf,      FC-Astoria_Walldorf
-SV Waldkirch,             SV_Waldkirch
-SSV Reutlingen 05,        SSV_Reutlingen_05
-
-## Bayern (by)
-TSV 1860 Rosenheim,       TSV_1860_Rosenheim
-Wacker Burghausen,        Wacker_Burghausen
-SpVgg Unterhaching,       SpVgg_Unterhaching
-FV Illertissen            FV_Illertissen
-
-## Bremen (hb)
-SG Aumund-Vegesack,       SG_Aumund-Vegesack
-FC Oberneuland,           FC_Oberneuland
-
-## Hessen (he)
-Kickers Offenbach,        Kickers_Offenbach
-KSV Hessen Kassel,        KSV_Hessen_Kassel
-
-## Hamburg (hh)
-SC Victoria Hamburg,      SC_Victoria_Hamburg
-USC Paloma Hamburg,       USC_Paloma_Hamburg
-HSV Barmbek-Uhlenhorst,   HSV_Barmbek-Uhlenhorst
-
-## Mecklenburg-Vorpommern (mv)
-TSG Neustrelitz,          TSG_Neustrelitz
-FC Schönberg 95,          FC_Schönberg_95
-1. FC Neubrandenburg 04,  1._FC_Neubrandenburg_04
-
-## Niedersachsen (ni)
-SV Wilhelmshaven,         SV_Wilhelmshaven
-BSV Schwarz-Weiß Rehden,  BSV_Schwarz-Weiß_Rehden
-TSV Havelse,              TSV_Havelse
-FT Braunschweig,          Freie_Turnerschaft_Braunschweig
-SV Meppen,                SV_Meppen
-
-## Nordrhein-Westfalen (nw)
-Alemannia Aachen,         Alemannia_Aachen
-Fortuna Köln,             SC_Fortuna_Köln
-FC Viktoria Köln,         FC_Viktoria_Köln
-Rot-Weiss Essen,          Rot-Weiss_Essen
-Rot-Weiß Oberhausen,      Rot-Weiß_Oberhausen
-Wuppertaler SV,           Wuppertaler_SV
-KFC Uerdingen,            SC_Bayer_05_Uerdingen
-SG Wattenscheid 09,       SG_Wattenscheid_09
-SF Baumberg,              Sportfreunde_Baumberg
-SF Siegen,                Sportfreunde_Siegen
-SF Lotte,                 Sportfreunde_Lotte
-SV Lippstadt 08,          SV_Lippstadt_08
-SC Wiedenbrück,           SC_Wiedenbrück
-FC Hennef 05,             FC_Hennef_05
-TuS Erndtebrück,          TuS_Erndtebrück
-
-## Rheinland-Pfalz (rp)
-Eintracht Trier,             Eintracht_Trier
-TSG Pfeddersheim,            TSG_Pfeddersheim
-SV Roßbach/Verscheid,        SV_Roßbach/Verscheid
-Wormatia Worms,              Wormatia_Worms
-SV Alemannia Waldalgesheim,  SV_Alemannia_Waldalgesheim
-FSV Salmrohr,                FSV_Salmrohr
-FK Pirmasens,                FK_Pirmasens
-
-## Schleswig-Holstein (sh)
-VfR Neumünster,          VfR_Neumünster
-VfB Lübeck,              VfB_Lübeck
-
-## Saarland (sl)
-1. FC Saarbrücken,         1._FC_Saarbrücken
-SV Elversberg,             SV_Elversberg
-VfB Borussia Neunkirchen,  Borussia_Neunkirchen
-FC Homburg,                FC_08_Homburg
-
-## Sachsen (sn)
-Erzgebirge Aue,            FC_Erzgebirge_Aue,        www.fc-erzgebirge.de,   Lößnitzer Straße 95 // 08280 Aue
-Dynamo Dresden,            ?,                        www.dynamo-dresden.de,  Lennéstraße 12 // 01069 Dresden
-Chemnitzer FC,             Chemnitzer_FC
-VfB Leipzig,               VfB_Leipzig
-FSV Zwickau,               FSV_Zwickau
-
-## Sachsen-Anhalt (st)
-Hallescher FC,             Hallescher_FC
-1. FC Magdeburg,           1._FC_Magdeburg
-
-## Thüringen (th)
-Rot-Weiß Erfurt,            FC_Rot-Weiß_Erfurt
-SV Schott Jena,             SV_Schott_Jena
-FC Carl Zeiss Jena,         FC_Carl_Zeiss_Jena
+Energie Cottbus,        www.fcenergie.de,          Am Eliaspark 1 // 03042 Cottbus
+VfR Aalen,              www.vfr-aalen.de,          Stadionweg 5/1 // 73430 Aalen
+Erzgebirge Aue,         www.fc-erzgebirge.de,      Lößnitzer Straße 95 // 08280 Aue
+Dynamo Dresden,         www.dynamo-dresden.de,     Lennéstraße 12 // 01069 Dresden
