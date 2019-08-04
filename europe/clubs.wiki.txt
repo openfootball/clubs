@@ -102,7 +102,7 @@ FC Zbrojovka Brno
 F.C. Copenhagen
 FC Nordsjælland
 Brøndby IF
-AaB Fodbold
+Aalborg Boldspilklub
 Hobro IK
 FC Midtjylland
 Aarhus Gymnastikforening
@@ -137,14 +137,79 @@ Watford F.C.
 West Ham United F.C.
 Wolverhampton Wanderers F.C.
 West Bromwich Albion F.C.
-Stoke City F.C.
-Sunderland A.F.C.
+
 Aston Villa F.C.
-Norwich City F.C.
+Birmingham City F.C.
+Blackburn Rovers F.C.
+Bolton Wanderers F.C.
+Brentford F.C.
+Bristol City F.C.
+Derby County F.C.
 Hull City A.F.C.
-Queens Park Rangers F.C.
+Ipswich Town F.C.
+Leeds United F.C.
 Middlesbrough F.C.
+Millwall F.C.
+Norwich City F.C.
+Nottingham Forest F.C.
+Preston North End F.C.
+Queens Park Rangers F.C.
 Reading F.C.
+Rotherham United F.C.
+Sheffield United F.C.
+Sheffield Wednesday F.C.
+Stoke City F.C.
+West Bromwich Albion F.C.
+Wigan Athletic F.C.
+
+Accrington Stanley F.C.
+AFC Wimbledon
+Barnsley F.C.
+Blackpool F.C.
+Bradford City A.F.C.
+Bristol Rovers F.C.
+Burton Albion F.C.
+Charlton Athletic F.C.
+Coventry City F.C.
+Doncaster Rovers F.C.
+Fleetwood Town F.C.
+Gillingham F.C.
+Luton Town F.C.
+Oxford United F.C.
+Peterborough United F.C.
+Plymouth Argyle F.C.
+Portsmouth F.C.
+Rochdale A.F.C.
+Scunthorpe United F.C.
+Shrewsbury Town F.C.
+Southend United F.C.
+Sunderland A.F.C.
+Walsall F.C.
+Wycombe Wanderers F.C.
+
+Bury F.C.
+Cambridge United F.C.
+Carlisle United F.C.
+Cheltenham Town F.C.
+Colchester United F.C.
+Crawley Town F.C.
+Crewe Alexandra F.C.
+Exeter City F.C.
+Forest Green Rovers F.C.
+Grimsby Town F.C.
+Lincoln City F.C.
+Macclesfield Town F.C.
+Mansfield Town F.C.
+Milton Keynes Dons F.C.
+Morecambe F.C.
+Northampton Town F.C.
+Notts County F.C.
+Oldham Athletic A.F.C.
+Port Vale F.C.
+Stevenage F.C.
+Swindon Town F.C.
+Tranmere Rovers F.C.
+Yeovil Town F.C.
 
 
 
