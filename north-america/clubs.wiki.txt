@@ -1,0 +1,59 @@
+============================
+=  Canada (ca)
+
+Montreal Impact
+Toronto FC
+Vancouver Whitecaps FC
+
+
+===========================================
+=  Mexico (mx)
+
+Club América
+Club Atlas
+Lobos BUAP
+Cruz Azul
+C.D. Guadalajara
+Club León
+C.F. Monterrey
+Monarcas Morelia
+Club Necaxa
+C.F. Pachuca
+Puebla F.C.
+Querétaro FC
+Santos Laguna
+Club Tijuana
+Club Toluca
+Tigres UANL
+Club Universidad Nacional
+Tiburones Rojos de Veracruz
+
+
+
+==============================================
+=  United States (us)
+
+Atlanta United FC
+Chicago Fire Soccer Club
+Colorado Rapids
+Columbus Crew SC
+FC Cincinnati
+FC Dallas
+D.C. United
+Houston Dynamo
+LA Galaxy
+Los Angeles FC             ## Los_Angeles_Football_Club
+Minnesota United FC
+New England Revolution
+New York City FC
+New York Red Bulls
+Orlando City SC
+Philadelphia Union
+Portland Timbers
+Real Salt Lake
+San Jose Earthquakes
+Seattle Sounders FC
+Sporting Kansas City
+Chivas USA
+Miami Fusion
+Tampa Bay Mutiny

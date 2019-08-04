@@ -31,7 +31,7 @@ Sanfrecce Hiroshima,    Hiroshima › Hiroshima
 
 Vegalta Sendai,       Sendai, Miyagi
 Hokkaido Consadole Sapporo,  Sapporo › Hokkaido
-  | Sapporo
+  | Sapporo | Consadole Sapporo
 Avispa Fukuoka,       Hakata › Fukuoka
 Matsumoto Yamaga,     Matsumoto › Nagano
   | Yamaga

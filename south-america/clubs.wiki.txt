@@ -1,0 +1,53 @@
+===========================
+=  Argentina (ar)
+
+Aldosivi
+Argentinos Juniors
+Arsenal de Sarandí
+Atlético Tucumán
+Club Atlético Banfield
+Boca Juniors
+Central Córdoba de Santiago del Estero
+Club Atlético Colón
+Defensa y Justicia
+Estudiantes de La Plata
+Club de Gimnasia y Esgrima La Plata
+Godoy Cruz Antonio Tomba
+Club Atlético Huracán
+Club Atlético Independiente
+Club Atlético Lanús
+Newell's Old Boys
+Club Atlético Patronato
+Racing Club de Avellaneda
+Club Atlético River Plate
+Rosario Central
+San Lorenzo de Almagro
+Talleres de Córdoba
+Unión de Santa Fe
+Club Atlético Vélez Sarsfield
+
+
+
+======================
+=  Brazil (br)
+
+Club Athletico Paranaense
+Clube Atlético Mineiro
+Avaí FC
+Esporte Clube Bahia
+Botafogo de Futebol e Regatas
+Ceará Sporting Club
+Associação Chapecoense de Futebol
+Sport Club Corinthians Paulista
+Cruzeiro Esporte Clube
+Centro Sportivo Alagoano
+Clube de Regatas do Flamengo
+Fluminense FC
+Fortaleza Esporte Clube
+Goiás Esporte Clube
+Grêmio Foot-Ball Porto Alegrense
+Sport Club Internacional
+Sociedade Esportiva Palmeiras
+Santos FC
+São Paulo FC
+CR Vasco da Gama

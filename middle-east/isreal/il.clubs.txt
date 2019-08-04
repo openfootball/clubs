@@ -15,6 +15,7 @@ Hapoel Haifa FC
 
 Hapoel Kiryat Shmona FC
   | H. Kiryat Shmona
+  | Hapoel Ironi Kiryat Shmona FC
 Maccabi Netanya FC
   | M. Netanya
 Beitar Jerusalem FC
@@ -23,3 +24,18 @@ Hapoel Beer-Sheva FC
   | H. Beer-Sheva
 
 H. Ramat Gan
+
+FC Ashdod,     Ashdod
+  | Ashdod | FC Ironi Ashdod
+
+Bnei Sakhnin FC,  Sakhnin
+  | Bnei Sakhnin
+
+Hapoel Hadera FC, Hadera
+  | Hapoel Hadera
+
+Hapoel Ra'anana AFC, Ra'anana
+  | Hapoel Ra'anana
+
+Maccabi Petah Tikva FC, Petah Tikva
+  | Maccabi Petah Tikva

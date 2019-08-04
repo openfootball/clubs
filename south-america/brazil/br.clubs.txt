@@ -62,7 +62,7 @@ Brasil RS,  Pelotas › Rio Grande do Sul
 Atlético PR,   Curitiba › Paraná
   | Atlético Paranaense | C Atlético Paranaense | Clube Atlético Paranaense
   | Atletico-PR | Atlético/PR
-  | Athletico-PR       ## allow typo th too
+  | Athletico-PR [en] | Club Athletico Paranaense [en]
 Coritiba PR,   Curitiba › Paraná
   | Coritiba | Coritiba FC | Coritiba Football Club
 Londrina EC,      Londrina › Paraná

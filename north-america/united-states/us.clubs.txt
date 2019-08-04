@@ -10,7 +10,7 @@
 Atlanta United FC, 2017,  Atlanta       › Georgia
   | Atlanta United
 Chicago Fire, 1998,  Bridgeview    › Illinois    ## year 1997? use Chicago (not Bridgeview?)
-  | Chicago
+  | Chicago | Chicago Fire Soccer Club
 Columbus Crew SC, 1996,  Columbus      › Ohio   ## year 1994?
   | Columbus | Columbus Crew
 D.C. United, 1996,  Washington    › D.C.    ## year 1995?

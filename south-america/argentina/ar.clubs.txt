@@ -13,6 +13,7 @@ Boca Juniors,       Buenos Aires
 River Plate,        Buenos Aires
   | River | Club Atlético River Plate
 San Lorenzo,        Buenos Aires
+  | San Lorenzo de Almagro
   | CA San Lorenzo de Almagro | Club Atlético San Lorenzo de Almagro
 Vélez Sarsfield,    Buenos Aires
   | Vélez | Velez Sarsfield | CA Vélez
@@ -30,6 +31,7 @@ CA Independiente de Avellaneda, Avellaneda › Buenos Aires  #  Avellaneda sits 
   | Independiente | Club Atlético Independiente
 Racing Club,                    Avellaneda › Buenos Aires  #  Avellaneda sits in the metropolitan area of the Greater Buenos Aires
   | Racing
+  | Racing Club de Avellaneda
 Quilmes AC,    Quilmes › Buenos Aires       # Quilmes is a city in the province of Buenos Aires
   | Quilmes | Quilmes Atlético Club
 CA Lanús,   Lanús › Buenos Aires         #  Lanús is a city in  Greater Buenos Aires
@@ -41,6 +43,7 @@ Arsenal de Sarandí,  Sarandí › Buenos Aires    #  Sarandí es una ciudad de 
 
 Estudiantes LP, La Plata › Buenos Aires
   | Estudiantes | Estudiantes L.P. | Club Estudiantes de La Plata
+  | Estudiantes de La Plata
 Gimnasia y Esgrima,  La Plata › Buenos Aires
   | Gimnasia L.P. | Gimnasia y Esgrima La Plata | GELP
   | Club de Gimnasia y Esgrima La Plata
@@ -68,7 +71,8 @@ Colón Santa Fe,  Santa Fe
   | Colón | CA Colón | Club Atlético Colón | Club Atlético Colón (Santa Fe)
   | Colon Santa FE
 Unión Santa Fe,  Santa Fe
-  | Unión | Union de Santa Fe | Club Atlético Unión
+  | Unión | Unión de Santa Fe | Club Atlético Unión
+
 
 Newell's Old Boys, Rosario › Santa Fe
   | Newell's | Newells Old Boys | N.O. Boys
@@ -92,8 +96,8 @@ Talleres de Córdoba,      Córdoba
 == Provincia Mendoza ==
 
 Godoy Cruz, 	Mendoza       # Godoy Cruy is a city in Greater Mendoza
+  | Godoy Cruz Antonio Tomba
   | Club Deportivo Godoy Cruz Antonio Tomba
-
 
 == Provincia San Juan ==
 
@@ -113,6 +117,7 @@ San Martín de Tucumán,  San Miguel de Tucumán  › Tucumán
 == Provincia Entre Ríos ==
 
 Patronato, Paraná › Entre Ríos
+  | Club Atlético Patronato
   | Club Atlético Patronato de la Juventud Católica
 
 
@@ -120,3 +125,11 @@ Patronato, Paraná › Entre Ríos
 
 Crucero del Norte, Garupá › Misiones
   | Club Mutual Crucero del Norte
+
+
+== Provincia Santiago del Estero ==
+
+Central Córdoba, Santiago del Estero › Santiago del Estero
+  | Club Atlético Central Córdoba
+  | Central Córdoba de Santiago del Estero
+  | Central Córdoba (SdE)

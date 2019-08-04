@@ -1,0 +1,22 @@
+########################
+# United States, us
+
+Name,                     Web
+Los Angeles Galaxy,       www.lagalaxy.com
+San Jose Earthquakes,     www.sjearthquakes.com
+Seattle Sounders FC,      www.soundersfc.com
+Portland Timbers,         www.timbers.com
+Houston Dynamo,           www.houstondynamo.com
+FC Dallas,                www.fcdallas.com
+Real Salt Lake,           www.realsaltlake.com
+Sporting Kansas City,     www.sportingkc.com
+Colorado Rapids,          www.coloradorapids.com
+Chicago Fire,             www.chicago-fire.com
+Columbus Crew,            www.columbuscrewsc.com
+D.C. United,              www.dcunited.com
+New England Revolution,   www.revolutionsoccer.net
+Philadelphia Union,       www.philadelphiaunion.com
+NY Red Bulls,             www.newyorkredbulls.com
+New York City,            www.nycfc.com
+Orlando City,             www.orlandocitysc.com
+Atlanta United FC,        www.atlutd.com
