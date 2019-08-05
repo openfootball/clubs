@@ -1,8 +1,8 @@
 3 clubs
 
-- **LD Alajuelense** : (1) Alajuelense
-- **CS Herediano** : (1) Herediano
-- **CS Cartaginés** : (1) Cartaginés ≈ (2) ≈Cartagines† • ≈CS Cartagines†
+-  : (1) Alajuelense
+-  : (1) Herediano
+-  : (1) Cartaginés ⇒ (2) ≈Cartagines≈ · ≈CS Cartagines≈
 
 
 
@@ -40,7 +40,7 @@ By Region
 
 By Year
 
-- ? (3):   LD Alajuelense • CS Herediano • CS Cartaginés
+- ? (3):   LD Alajuelense · CS Herediano · CS Cartaginés
 
 
 
@@ -50,7 +50,7 @@ By Year
 By A to Z
 
 - **A** (1): Alajuelense
-- **C** (3): Cartaginés • CS Herediano • CS Cartaginés
+- **C** (3): Cartaginés · CS Herediano · CS Cartaginés
 - **H** (1): Herediano
 - **L** (1): LD Alajuelense
 

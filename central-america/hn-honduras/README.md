@@ -1,10 +1,10 @@
 5 clubs
 
-- **CD Olimpia** : (1) Olimpia
-- **CD Marathón** : (1) Marathón ≈ (2) ≈Marathon† • ≈CD Marathon†
-- **Real CD España** : (1) Real España ≈ (2) ≈Real Espana† • ≈Real CD Espana†
-- **CD Motagua** : (1) Motagua
-- **CD Victoria** : (1) Victoria
+-  : (1) Olimpia
+-  : (1) Marathón ⇒ (2) ≈Marathon≈ · ≈CD Marathon≈
+-  : (1) Real España ⇒ (2) ≈Real Espana≈ · ≈Real CD Espana≈
+-  : (1) Motagua
+-  : (1) Victoria
 
 
 
@@ -39,15 +39,15 @@ By City
 
 By Region
 
-- **city:tegucigalpa†** (2):   CD Olimpia • CD Motagua
-- **city:sanpedrosula†** (2):   CD Marathón • Real CD España
+- **city:tegucigalpa†** (2):   CD Olimpia · CD Motagua
+- **city:sanpedrosula†** (2):   CD Marathón · Real CD España
 
 
 
 
 By Year
 
-- ? (5):   CD Olimpia • CD Marathón • Real CD España • CD Motagua • CD Victoria
+- ? (5):   CD Olimpia · CD Marathón · Real CD España · CD Motagua · CD Victoria
 
 
 
@@ -56,10 +56,10 @@ By Year
 
 By A to Z
 
-- **C** (4): CD Motagua • CD Olimpia • CD Marathón • CD Victoria
-- **M** (2): Motagua • Marathón
+- **C** (4): CD Motagua · CD Olimpia · CD Marathón · CD Victoria
+- **M** (2): Motagua · Marathón
 - **O** (1): Olimpia
-- **R** (2): Real España • Real CD España
+- **R** (2): Real España · Real CD España
 - **V** (1): Victoria
 
 

@@ -1,13 +1,13 @@
 8 clubs
 
-- **Jeunesse d'Esch** : (2) Jeunesse Esch • AS Jeunesse Esch
-- **F91 Dudelange** : (1) Dudelange
-- **FC Differdange 03** : (1) Differdange
-- **CS Grevenmacher**
-- **UN Käerjéng 97** ≈ (2) ≈UN Kaerjeng 97† • ≈UN Kaeerjéng 97†
-- **CS Fola Esch** : (1) Fola
-- **Racing FC Union Lëtzebuerg**
-- **FC Progrès Niederkorn** ≈ (1) ≈FC Progres Niederkorn†
+-  : (2) Jeunesse Esch · AS Jeunesse Esch
+-  : (1) Dudelange
+-  : (1) Differdange
+- 
+-  ⇒ (2) ≈UN Kaerjeng 97≈ · ≈UN Kaeerjéng 97≈
+-  : (1) Fola
+- 
+-  ⇒ (1) ≈FC Progres Niederkorn≈
 
 
 
@@ -32,7 +32,7 @@ Duplicates
 By City
 
 - **Dudelange** (1): F91 Dudelange  (1) Dudelange
-- **Esch-sur-Alzette** (1): Jeunesse d'Esch  (2) Jeunesse Esch • AS Jeunesse Esch
+- **Esch-sur-Alzette** (1): Jeunesse d'Esch  (2) Jeunesse Esch · AS Jeunesse Esch
 - ? (6): 
   - FC Differdange 03  (1) Differdange
   - CS Grevenmacher 
@@ -54,7 +54,7 @@ By Region
 
 By Year
 
-- ? (8):   Jeunesse d'Esch • F91 Dudelange • FC Differdange 03 • CS Grevenmacher • UN Käerjéng 97 • CS Fola Esch • Racing FC Union Lëtzebuerg • FC Progrès Niederkorn
+- ? (8):   Jeunesse d'Esch · F91 Dudelange · FC Differdange 03 · CS Grevenmacher · UN Käerjéng 97 · CS Fola Esch · Racing FC Union Lëtzebuerg · FC Progrès Niederkorn
 
 
 
@@ -64,10 +64,10 @@ By Year
 By A to Z
 
 - **A** (1): AS Jeunesse Esch
-- **C** (2): CS Fola Esch • CS Grevenmacher
-- **D** (2): Dudelange • Differdange
-- **F** (4): Fola • F91 Dudelange • FC Differdange 03 • FC Progrès Niederkorn
-- **J** (2): Jeunesse Esch • Jeunesse d'Esch
+- **C** (2): CS Fola Esch · CS Grevenmacher
+- **D** (2): Dudelange · Differdange
+- **F** (4): Fola · F91 Dudelange · FC Differdange 03 · FC Progrès Niederkorn
+- **J** (2): Jeunesse Esch · Jeunesse d'Esch
 - **R** (1): Racing FC Union Lëtzebuerg
 - **U** (1): UN Käerjéng 97
 

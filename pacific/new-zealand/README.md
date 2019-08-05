@@ -1,14 +1,14 @@
 9 clubs
 
-- **Auckland City FC** : (1) Auckland City
-- **Waitakere United**
-- **Hawke's Bay United**
-- **Team Wellington**
-- **Waikato FC**
-- **YoungHeart Manawatu**
-- **Canterbury United**
-- **Otago United**
-- **Wellington Phoenix**
+-  : (1) Auckland City
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 
 
@@ -45,9 +45,9 @@ By City
 
 By Region
 
-- **Auckland › North Island** (2):   Auckland City FC • Waitakere United
+- **Auckland › North Island** (2):   Auckland City FC · Waitakere United
 - **Hawke's Bay › North Island** (1):   Hawke's Bay United
-- **Wellington › North Island** (2):   Team Wellington • Wellington Phoenix
+- **Wellington › North Island** (2):   Team Wellington · Wellington Phoenix
 - **Waikato › North Island** (1):   Waikato FC
 - **Manawatu-Wanganui › North Island** (1):   YoungHeart Manawatu
 - **Canterbury › South Island** (1):   Canterbury United
@@ -58,7 +58,7 @@ By Region
 
 By Year
 
-- ? (9):   Auckland City FC • Waitakere United • Hawke's Bay United • Team Wellington • Waikato FC • YoungHeart Manawatu • Canterbury United • Otago United • Wellington Phoenix
+- ? (9):   Auckland City FC · Waitakere United · Hawke's Bay United · Team Wellington · Waikato FC · YoungHeart Manawatu · Canterbury United · Otago United · Wellington Phoenix
 
 
 
@@ -67,12 +67,12 @@ By Year
 
 By A to Z
 
-- **A** (2): Auckland City • Auckland City FC
+- **A** (2): Auckland City · Auckland City FC
 - **C** (1): Canterbury United
 - **H** (1): Hawke's Bay United
 - **O** (1): Otago United
 - **T** (1): Team Wellington
-- **W** (3): Waikato FC • Waitakere United • Wellington Phoenix
+- **W** (3): Waikato FC · Waitakere United · Wellington Phoenix
 - **Y** (1): YoungHeart Manawatu
 
 

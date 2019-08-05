@@ -1,6 +1,6 @@
 1 clubs
 
-- **Alpha United FC** : (1) Alpha United
+-  : (1) Alpha United
 
 
 
@@ -43,7 +43,7 @@ By Year
 
 By A to Z
 
-- **A** (2): Alpha United • Alpha United FC
+- **A** (2): Alpha United · Alpha United FC
 
 
 

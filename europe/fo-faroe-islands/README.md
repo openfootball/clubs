@@ -1,12 +1,12 @@
 7 clubs
 
-- **HB Tórshavn** : (3) HB • Havnar Bóltfelag • Havnar Bóltfelag Tórshavn ≈ (3) ≈HB Torshavn† • ≈Havnar Boltfelag† • ≈Havnar Boltfelag Torshavn†
-- **B36 Tórshavn** : (1) B36 ≈ (1) ≈B36 Torshavn†
-- **EB/Streymur**
-- **NSÍ Runavík** ≈ (1) ≈NSÍ Runavik†
-- **Víkingur** : (1) Vikingur ≈ (1) ≈Vikingur†
-- **ÍF Fuglafjørdur**
-- **KÍ Klaksvík** ≈ (1) ≈KÍ Klaksvik†
+-  : (3) HB · Havnar Bóltfelag · Havnar Bóltfelag Tórshavn ⇒ (3) ≈HB Torshavn≈ · ≈Havnar Boltfelag≈ · ≈Havnar Boltfelag Torshavn≈
+-  : (1) B36 ⇒ (1) ≈B36 Torshavn≈
+- 
+-  ⇒ (1) ≈NSÍ Runavik≈
+-  : (1) Vikingur ⇒ (1) ≈Vikingur≈
+- 
+-  ⇒ (1) ≈KÍ Klaksvik≈
 
 
 
@@ -25,7 +25,7 @@ Alphabet
 Duplicates
 
 - **Víkingur**,  (1):
-  - `vikingur` (2): **Vikingur** • **Vikingur**
+  - `vikingur` (2): **Vikingur** · **Vikingur**
 
 
 
@@ -33,7 +33,7 @@ Duplicates
 By City
 
 - ? (7): 
-  - HB Tórshavn  (3) Havnar Bóltfelag • Havnar Bóltfelag Tórshavn • HB
+  - HB Tórshavn  (3) Havnar Bóltfelag · Havnar Bóltfelag Tórshavn · HB
   - B36 Tórshavn  (1) B36
   - EB/Streymur 
   - NSÍ Runavík 
@@ -52,7 +52,7 @@ By Region
 
 By Year
 
-- ? (7):   HB Tórshavn • B36 Tórshavn • EB/Streymur • NSÍ Runavík • Víkingur • ÍF Fuglafjørdur • KÍ Klaksvík
+- ? (7):   HB Tórshavn · B36 Tórshavn · EB/Streymur · NSÍ Runavík · Víkingur · ÍF Fuglafjørdur · KÍ Klaksvík
 
 
 
@@ -61,12 +61,12 @@ By Year
 
 By A to Z
 
-- **B** (2): B36 • B36 Tórshavn
+- **B** (2): B36 · B36 Tórshavn
 - **E** (1): EB/Streymur
-- **H** (4): HB • HB Tórshavn • Havnar Bóltfelag • Havnar Bóltfelag Tórshavn
+- **H** (4): HB · HB Tórshavn · Havnar Bóltfelag · Havnar Bóltfelag Tórshavn
 - **K** (1): KÍ Klaksvík
 - **N** (1): NSÍ Runavík
-- **V** (2): Vikingur • Víkingur
+- **V** (2): Vikingur · Víkingur
 - **Í** (1): ÍF Fuglafjørdur
 
 

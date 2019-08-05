@@ -1,6 +1,6 @@
 1 clubs
 
-- **Raja Casablanca** : (1) Raja Club Athletic
+-  : (1) Raja Club Athletic
 
 
 
@@ -43,7 +43,7 @@ By Year
 
 By A to Z
 
-- **R** (2): Raja Casablanca • Raja Club Athletic
+- **R** (2): Raja Casablanca · Raja Club Athletic
 
 
 

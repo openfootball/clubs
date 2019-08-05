@@ -1,7 +1,7 @@
 2 clubs
 
-- **Tempête FC** : (2) Tempête • Tempête Football Club ≈ (3) ≈Tempete† • ≈Tempete FC† • ≈Tempete Football Club†
-- **Valencia FC** : (1) Valencia
+-  : (2) Tempête · Tempête Football Club ⇒ (3) ≈Tempete≈ · ≈Tempete FC≈ · ≈Tempete Football Club≈
+-  : (1) Valencia
 
 
 
@@ -23,7 +23,7 @@ Duplicates
 By City
 
 - **Léogâne** (1): Valencia FC  (1) Valencia
-- **Saint-Marc** (1): Tempête FC  (2) Tempête • Tempête Football Club
+- **Saint-Marc** (1): Tempête FC  (2) Tempête · Tempête Football Club
 
 
 
@@ -38,7 +38,7 @@ By Region
 
 By Year
 
-- ? (2):   Tempête FC • Valencia FC
+- ? (2):   Tempête FC · Valencia FC
 
 
 
@@ -47,8 +47,8 @@ By Year
 
 By A to Z
 
-- **T** (3): Tempête • Tempête FC • Tempête Football Club
-- **V** (2): Valencia • Valencia FC
+- **T** (3): Tempête · Tempête FC · Tempête Football Club
+- **V** (2): Valencia · Valencia FC
 
 
 

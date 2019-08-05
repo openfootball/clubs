@@ -1,7 +1,7 @@
 2 clubs
 
-- **Caledonia AIA** : (1) Caledonia
-- **W Connection** : (1) WC FC
+-  : (1) Caledonia
+-  : (1) WC FC
 
 
 
@@ -36,7 +36,7 @@ By Region
 
 By Year
 
-- ? (2):   Caledonia AIA • W Connection
+- ? (2):   Caledonia AIA · W Connection
 
 
 
@@ -45,8 +45,8 @@ By Year
 
 By A to Z
 
-- **C** (2): Caledonia • Caledonia AIA
-- **W** (2): WC FC • W Connection
+- **C** (2): Caledonia · Caledonia AIA
+- **W** (2): WC FC · W Connection
 
 
 

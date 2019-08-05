@@ -1,31 +1,33 @@
-26 clubs
+28 clubs
 
-- **Fenerbahçe İstanbul SK** : (5) Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club ≈ (6) ≈Fenerbahce† • ≈Fenerbahce SK† • ≈Fenerbahce Spor Kulubu† • ≈Fenerbahce İstanbul SK† • ≈Fenerbahce Sports Club† • ≈Fenerbahçe Spor Kuluebue†
-- **Galatasaray İstanbul AŞ** : (3) Galatasaray • Galatasaray AŞ • Galatasaray Istanbul
-- **Beşiktaş İstanbul JK** : (3) Besiktas • Beşiktaş • Beşiktaş JK
-- **Kasımpaşa İstanbul SK** : (1) Kasimpasa
-- **İstanbul Başakşehir** : (1) Buyuksehyr
-- **Gençlerbirliği Ankara SK** : (1) Genclerbirligi ≈ (1) ≈Genclerbirliği Ankara SK†
-- **Osmanlıspor Ankara** : (2) Osmanlispor • Osmanlıspor
-- **Kardemir Karabükspor** : (2) Karabükspor • Karabukspor ≈ (4) ≈Karabukspor† • ≈Karabuekspor† • ≈Kardemir Karabukspor† • ≈Kardemir Karabuekspor†
-- **Elazığspor** : (1) Elazigspor
-- **Eskişehirspor** : (1) Eskisehirspor
-- **Akhisar Belediyespor** : (1) Akhisar
-- **Alanyaspor**
-- **Antalyaspor**
-- **Bursaspor**
-- **Göztepe Izmir** : (1) Goztep ≈ (2) ≈Goztepe Izmir† • ≈Goeztepe Izmir†
-- **Kayserispor**
-- **Kayseri Erciyesspor** : (1) Erciyesspor
-- **Konyaspor**
-- **Sivasspor**
-- **Trabzonspor AŞ** : (1) Trabzonspor
-- **Yeni Malatyaspor**
-- **Adanaspor**
-- **Gaziantepspor**
-- **Çaykur Rizespor** : (1) Rizespor
-- **Balıkesirspor** : (1) Balikesirspor
-- **Mersin İdmanyurdu** : (1) Mersin Idman Yurdu
+-  : (5) Fenerbahce · Fenerbahçe · Fenerbahçe SK · Fenerbahçe Spor Kulübü · Fenerbahçe Sports Club ⇒ (6) ≈Fenerbahce≈ · ≈Fenerbahce SK≈ · ≈Fenerbahce Spor Kulubu≈ · ≈Fenerbahce İstanbul SK≈ · ≈Fenerbahce Sports Club≈ · ≈Fenerbahçe Spor Kuluebue≈
+-  : (4) Galatasaray · Galatasaray AŞ · Galatasaray SK · Galatasaray Istanbul
+-  : (3) Besiktas · Beşiktaş · Beşiktaş JK
+-  : (3) Kasimpasa · Kasımpaşa · Kasımpaşa S.K.
+-  : (3) Buyuksehyr · İstanbul Başakşehir F.K. · İstanbul Büyükşehir Belediyespor ⇒ (2) ≈İstanbul Buyukşehir Belediyespor≈ · ≈İstanbul Bueyuekşehir Belediyespor≈
+-  : (1) Genclerbirligi ⇒ (1) ≈Genclerbirliği Ankara SK≈
+-  : (2) Osmanlispor · Osmanlıspor
+-  : (1) Ankaragücü ⇒ (4) ≈Ankaragucu≈ · ≈Ankaraguecue≈ · ≈MKE Ankaragucu≈ · ≈MKE Ankaraguecue≈
+-  : (2) Karabükspor · Karabukspor ⇒ (4) ≈Karabukspor≈ · ≈Karabuekspor≈ · ≈Kardemir Karabukspor≈ · ≈Kardemir Karabuekspor≈
+-  : (1) Elazigspor
+-  : (1) Eskisehirspor
+-  : (1) Akhisar
+- 
+- 
+- 
+-  : (3) Goztep · Göztepe · Göztepe S.K. ⇒ (6) ≈Goztepe≈ · ≈Goeztepe≈ · ≈Goztepe S.K.≈ · ≈Goztepe Izmir≈ · ≈Goeztepe S.K.≈ · ≈Goeztepe Izmir≈
+- 
+-  : (1) Erciyesspor
+- 
+- 
+-  : (1) Trabzonspor
+- 
+- 
+- 
+-  : (1) Rizespor
+-  : (1) Balikesirspor
+-  : (1) Mersin Idman Yurdu
+-  : (2) Erzurum BB · Büyükşehir Belediye Erzurumspor ⇒ (2) ≈Buyukşehir Belediye Erzurumspor≈ · ≈Bueyuekşehir Belediye Erzurumspor≈
 
 
 
@@ -35,13 +37,13 @@ Alphabet
 - **Alphabet Specials** (9):  **Ç**  **ç**  **ö**  **ü**  **ğ**  **İ**  **ı**  **Ş**  **ş** 
   - **Ç** (U+00C7 / 199)×1 ⇒ **?**
   - **ç** (U+00E7 / 231)×6 ⇒ c
-  - **ö** (U+00F6 / 246)×1 ⇒ o•oe
-  - **ü** (U+00FC / 252)×4 ⇒ u•ue
+  - **ö** (U+00F6 / 246)×3 ⇒ o•oe
+  - **ü** (U+00FC / 252)×12 ⇒ u•ue
   - **ğ** (U+011F / 287)×2 ⇒ **?**
-  - **İ** (U+0130 / 304)×6 ⇒ **?**
-  - **ı** (U+0131 / 305)×5 ⇒ **?**
+  - **İ** (U+0130 / 304)×8 ⇒ **?**
+  - **ı** (U+0131 / 305)×7 ⇒ **?**
   - **Ş** (U+015E / 350)×3 ⇒ **?**
-  - **ş** (U+015F / 351)×10 ⇒ **?**
+  - **ş** (U+015F / 351)×16 ⇒ **?**
 
 
 
@@ -49,9 +51,9 @@ Alphabet
 Duplicates
 
 - **Fenerbahçe İstanbul SK**, İstanbul (1):
-  - `fenerbahce` (2): **Fenerbahce** • **Fenerbahce**
+  - `fenerbahce` (2): **Fenerbahce** · **Fenerbahce**
 - **Kardemir Karabükspor**, Karabük (1):
-  - `karabukspor` (2): **Karabukspor** • **Karabukspor**
+  - `karabukspor` (2): **Karabukspor** · **Karabukspor**
 
 
 
@@ -59,14 +61,15 @@ Duplicates
 By City
 
 - **İstanbul** (5): 
-  - Fenerbahçe İstanbul SK  (5) Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club
-  - Galatasaray İstanbul AŞ  (3) Galatasaray • Galatasaray Istanbul • Galatasaray AŞ
-  - Beşiktaş İstanbul JK  (3) Besiktas • Beşiktaş JK • Beşiktaş
-  - Kasımpaşa İstanbul SK  (1) Kasimpasa
-  - İstanbul Başakşehir  (1) Buyuksehyr
-- **Ankara** (2): 
+  - Fenerbahçe İstanbul SK  (5) Fenerbahce · Fenerbahçe · Fenerbahçe SK · Fenerbahçe Spor Kulübü · Fenerbahçe Sports Club
+  - Galatasaray İstanbul AŞ  (4) Galatasaray · Galatasaray Istanbul · Galatasaray AŞ · Galatasaray SK
+  - Beşiktaş İstanbul JK  (3) Besiktas · Beşiktaş JK · Beşiktaş
+  - Kasımpaşa İstanbul SK  (3) Kasımpaşa S.K. · Kasımpaşa · Kasimpasa
+  - İstanbul Başakşehir  (3) İstanbul Başakşehir F.K. · Buyuksehyr · İstanbul Büyükşehir Belediyespor
+- **Ankara** (3): 
   - Gençlerbirliği Ankara SK  (1) Genclerbirligi
-  - Osmanlıspor Ankara  (2) Osmanlispor • Osmanlıspor
+  - Osmanlıspor Ankara  (2) Osmanlispor · Osmanlıspor
+  - MKE Ankaragücü  (1) Ankaragücü
 - **Kayseri** (2): 
   - Kayserispor 
   - Kayseri Erciyesspor  (1) Erciyesspor
@@ -77,24 +80,25 @@ By City
 - **Balıkesir** (1): Balıkesirspor  (1) Balikesirspor
 - **Bursa** (1): Bursaspor 
 - **Elazığ** (1): Elazığspor  (1) Elazigspor
+- **Erzurum** (1): BB Erzurumspor  (2) Erzurum BB · Büyükşehir Belediye Erzurumspor
 - **Eskişehir** (1): Eskişehirspor  (1) Eskisehirspor
 - **Gaziantep** (1): Gaziantepspor 
-- **Karabük** (1): Kardemir Karabükspor  (2) Karabükspor • Karabukspor
+- **Karabük** (1): Kardemir Karabükspor  (2) Karabükspor · Karabukspor
 - **Konya** (1): Konyaspor 
 - **Malatya** (1): Yeni Malatyaspor 
 - **Mersin** (1): Mersin İdmanyurdu  (1) Mersin Idman Yurdu
 - **Rize** (1): Çaykur Rizespor  (1) Rizespor
 - **Sivas** (1): Sivasspor 
 - **Trabzon** (1): Trabzonspor AŞ  (1) Trabzonspor
-- **İzmir** (1): Göztepe Izmir  (1) Goztep
+- **İzmir** (1): Göztepe Izmir  (3) Göztepe · Göztepe S.K. · Goztep
 
 
 
 
 By Region
 
-- **İstanbul†** (5):   Fenerbahçe İstanbul SK • Galatasaray İstanbul AŞ • Beşiktaş İstanbul JK • Kasımpaşa İstanbul SK • İstanbul Başakşehir
-- **Ankara†** (2):   Gençlerbirliği Ankara SK • Osmanlıspor Ankara
+- **İstanbul†** (5):   Fenerbahçe İstanbul SK · Galatasaray İstanbul AŞ · Beşiktaş İstanbul JK · Kasımpaşa İstanbul SK · İstanbul Başakşehir
+- **Ankara†** (3):   Gençlerbirliği Ankara SK · Osmanlıspor Ankara · MKE Ankaragücü
 - **Karabük†** (1):   Kardemir Karabükspor
 - **Elazığ†** (1):   Elazığspor
 - **Eskişehir†** (1):   Eskişehirspor
@@ -103,7 +107,7 @@ By Region
 - **Antalya†** (1):   Antalyaspor
 - **Bursa†** (1):   Bursaspor
 - **İzmir†** (1):   Göztepe Izmir
-- **Kayseri†** (2):   Kayserispor • Kayseri Erciyesspor
+- **Kayseri†** (2):   Kayserispor · Kayseri Erciyesspor
 - **Konya†** (1):   Konyaspor
 - **Sivas†** (1):   Sivasspor
 - **Trabzon†** (1):   Trabzonspor AŞ
@@ -113,13 +117,14 @@ By Region
 - **Rize†** (1):   Çaykur Rizespor
 - **Balıkesir†** (1):   Balıkesirspor
 - **Mersin†** (1):   Mersin İdmanyurdu
+- **Erzurum†** (1):   BB Erzurumspor
 
 
 
 
 By Year
 
-- ? (26):   Fenerbahçe İstanbul SK • Galatasaray İstanbul AŞ • Beşiktaş İstanbul JK • Kasımpaşa İstanbul SK • İstanbul Başakşehir • Gençlerbirliği Ankara SK • Osmanlıspor Ankara • Kardemir Karabükspor • Elazığspor • Eskişehirspor • Akhisar Belediyespor • Alanyaspor • Antalyaspor • Bursaspor • Göztepe Izmir • Kayserispor • Kayseri Erciyesspor • Konyaspor • Sivasspor • Trabzonspor AŞ • Yeni Malatyaspor • Adanaspor • Gaziantepspor • Çaykur Rizespor • Balıkesirspor • Mersin İdmanyurdu
+- ? (28):   Fenerbahçe İstanbul SK · Galatasaray İstanbul AŞ · Beşiktaş İstanbul JK · Kasımpaşa İstanbul SK · İstanbul Başakşehir · Gençlerbirliği Ankara SK · Osmanlıspor Ankara · MKE Ankaragücü · Kardemir Karabükspor · Elazığspor · Eskişehirspor · Akhisar Belediyespor · Alanyaspor · Antalyaspor · Bursaspor · Göztepe Izmir · Kayserispor · Kayseri Erciyesspor · Konyaspor · Sivasspor · Trabzonspor AŞ · Yeni Malatyaspor · Adanaspor · Gaziantepspor · Çaykur Rizespor · Balıkesirspor · Mersin İdmanyurdu · BB Erzurumspor
 
 
 
@@ -128,20 +133,20 @@ By Year
 
 By A to Z
 
-- **A** (5): Akhisar • Adanaspor • Alanyaspor • Antalyaspor • Akhisar Belediyespor
-- **B** (8): Besiktas • Beşiktaş • Bursaspor • Buyuksehyr • Beşiktaş JK • Balikesirspor • Balıkesirspor • Beşiktaş İstanbul JK
-- **E** (5): Elazigspor • Elazığspor • Erciyesspor • Eskisehirspor • Eskişehirspor
-- **F** (6): Fenerbahce • Fenerbahçe • Fenerbahçe SK • Fenerbahçe Spor Kulübü • Fenerbahçe Sports Club • Fenerbahçe İstanbul SK
-- **G** (9): Goztep • Galatasaray • Gaziantepspor • Göztepe Izmir • Galatasaray AŞ • Genclerbirligi • Galatasaray Istanbul • Galatasaray İstanbul AŞ • Gençlerbirliği Ankara SK
-- **K** (8): Kasimpasa • Konyaspor • Karabukspor • Karabükspor • Kayserispor • Kayseri Erciyesspor • Kardemir Karabükspor • Kasımpaşa İstanbul SK
-- **M** (2): Mersin İdmanyurdu • Mersin Idman Yurdu
-- **O** (3): Osmanlispor • Osmanlıspor • Osmanlıspor Ankara
+- **A** (6): Akhisar · Adanaspor · Alanyaspor · Ankaragücü · Antalyaspor · Akhisar Belediyespor
+- **B** (10): Besiktas · Beşiktaş · Bursaspor · Buyuksehyr · Beşiktaş JK · Balikesirspor · Balıkesirspor · BB Erzurumspor · Beşiktaş İstanbul JK · Büyükşehir Belediye Erzurumspor
+- **E** (6): Elazigspor · Elazığspor · Erzurum BB · Erciyesspor · Eskisehirspor · Eskişehirspor
+- **F** (6): Fenerbahce · Fenerbahçe · Fenerbahçe SK · Fenerbahçe Spor Kulübü · Fenerbahçe Sports Club · Fenerbahçe İstanbul SK
+- **G** (12): Goztep · Göztepe · Galatasaray · Göztepe S.K. · Gaziantepspor · Göztepe Izmir · Galatasaray AŞ · Galatasaray SK · Genclerbirligi · Galatasaray Istanbul · Galatasaray İstanbul AŞ · Gençlerbirliği Ankara SK
+- **K** (10): Kasimpasa · Kasımpaşa · Konyaspor · Karabukspor · Karabükspor · Kayserispor · Kasımpaşa S.K. · Kayseri Erciyesspor · Kardemir Karabükspor · Kasımpaşa İstanbul SK
+- **M** (3): MKE Ankaragücü · Mersin İdmanyurdu · Mersin Idman Yurdu
+- **O** (3): Osmanlispor · Osmanlıspor · Osmanlıspor Ankara
 - **R** (1): Rizespor
 - **S** (1): Sivasspor
-- **T** (2): Trabzonspor • Trabzonspor AŞ
+- **T** (2): Trabzonspor · Trabzonspor AŞ
 - **Y** (1): Yeni Malatyaspor
 - **Ç** (1): Çaykur Rizespor
-- **İ** (1): İstanbul Başakşehir
+- **İ** (3): İstanbul Başakşehir · İstanbul Başakşehir F.K. · İstanbul Büyükşehir Belediyespor
 
 
 

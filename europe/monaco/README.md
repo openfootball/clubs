@@ -1,6 +1,6 @@
 1 clubs
 
-- **AS Monaco** : (4) Monaco • AS Monaco FC • Association sportive de Monaco FC • Association Sportive de Monaco Football Club
+-  : (4) Monaco · AS Monaco FC · Association sportive de Monaco FC · Association Sportive de Monaco Football Club
 
 
 
@@ -20,7 +20,7 @@ Duplicates
 
 By City
 
-- **Monaco** (1): AS Monaco  (4) Monaco • AS Monaco FC • Association sportive de Monaco FC • Association Sportive de Monaco Football Club
+- **Monaco** (1): AS Monaco  (4) Monaco · AS Monaco FC · Association sportive de Monaco FC · Association Sportive de Monaco Football Club
 
 
 
@@ -43,7 +43,7 @@ By Year
 
 By A to Z
 
-- **A** (4): AS Monaco • AS Monaco FC • Association sportive de Monaco FC • Association Sportive de Monaco Football Club
+- **A** (4): AS Monaco · AS Monaco FC · Association sportive de Monaco FC · Association Sportive de Monaco Football Club
 - **M** (1): Monaco
 
 

@@ -1,16 +1,16 @@
 11 clubs
 
-- **Bakı FK**
-- **İnter Bakı PİK**
-- **Neftçi PFK** ≈ (1) ≈Neftci PFK†
-- **Qarabağ FK** : (1) Qarabağ
-- **Xäzär Länkäran FK** ≈ (2) ≈Xazar Lankaran FK† • ≈Xaezaer Laenkaeran FK†
-- **Olimpik-Şüvälan PFK** ≈ (2) ≈Olimpik-Şuvalan PFK† • ≈Olimpik-Şuevaelan PFK†
-- **Simurq PFK**
-- **Gabala SC**
-- **Keşla FK**
-- **Zirä FK** ≈ (2) ≈Zira FK† • ≈Zirae FK†
-- **Käpäz PFK** ≈ (2) ≈Kapaz PFK† • ≈Kaepaez PFK†
+- 
+- 
+-  ⇒ (1) ≈Neftci PFK≈
+-  : (1) Qarabağ
+-  ⇒ (2) ≈Xazar Lankaran FK≈ · ≈Xaezaer Laenkaeran FK≈
+-  ⇒ (2) ≈Olimpik-Şuvalan PFK≈ · ≈Olimpik-Şuevaelan PFK≈
+- 
+- 
+- 
+-  ⇒ (2) ≈Zira FK≈ · ≈Zirae FK≈
+-  ⇒ (2) ≈Kapaz PFK≈ · ≈Kaepaez PFK≈
 
 
 
@@ -62,7 +62,7 @@ By Region
 
 By Year
 
-- ? (11):   Bakı FK • İnter Bakı PİK • Neftçi PFK • Qarabağ FK • Xäzär Länkäran FK • Olimpik-Şüvälan PFK • Simurq PFK • Gabala SC • Keşla FK • Zirä FK • Käpäz PFK
+- ? (11):   Bakı FK · İnter Bakı PİK · Neftçi PFK · Qarabağ FK · Xäzär Länkäran FK · Olimpik-Şüvälan PFK · Simurq PFK · Gabala SC · Keşla FK · Zirä FK · Käpäz PFK
 
 
 
@@ -73,10 +73,10 @@ By A to Z
 
 - **B** (1): Bakı FK
 - **G** (1): Gabala SC
-- **K** (2): Keşla FK • Käpäz PFK
+- **K** (2): Keşla FK · Käpäz PFK
 - **N** (1): Neftçi PFK
 - **O** (1): Olimpik-Şüvälan PFK
-- **Q** (2): Qarabağ • Qarabağ FK
+- **Q** (2): Qarabağ · Qarabağ FK
 - **S** (1): Simurq PFK
 - **X** (1): Xäzär Länkäran FK
 - **Z** (1): Zirä FK

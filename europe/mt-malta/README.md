@@ -1,13 +1,13 @@
 8 clubs
 
-- **Valletta FC** : (1) Valletta
-- **Sliema Wanderers FC** : (1) Sliema Wanderers
-- **Birkirkara FC** : (1) Birkirkara
-- **Floriana FC**
-- **Hibernians FC** : (1) Hibernians
-- **Marsaxlokk FC**
-- **Balzan FC**
-- **Gżira United FC**
+-  : (1) Valletta
+-  : (1) Sliema Wanderers
+-  : (1) Birkirkara
+- 
+-  : (1) Hibernians
+- 
+- 
+- 
 
 
 
@@ -51,7 +51,7 @@ By Region
 
 By Year
 
-- ? (8):   Valletta FC • Sliema Wanderers FC • Birkirkara FC • Floriana FC • Hibernians FC • Marsaxlokk FC • Balzan FC • Gżira United FC
+- ? (8):   Valletta FC · Sliema Wanderers FC · Birkirkara FC · Floriana FC · Hibernians FC · Marsaxlokk FC · Balzan FC · Gżira United FC
 
 
 
@@ -60,13 +60,13 @@ By Year
 
 By A to Z
 
-- **B** (3): Balzan FC • Birkirkara • Birkirkara FC
+- **B** (3): Balzan FC · Birkirkara · Birkirkara FC
 - **F** (1): Floriana FC
 - **G** (1): Gżira United FC
-- **H** (2): Hibernians • Hibernians FC
+- **H** (2): Hibernians · Hibernians FC
 - **M** (1): Marsaxlokk FC
-- **S** (2): Sliema Wanderers • Sliema Wanderers FC
-- **V** (2): Valletta • Valletta FC
+- **S** (2): Sliema Wanderers · Sliema Wanderers FC
+- **V** (2): Valletta · Valletta FC
 
 
 

@@ -1,6 +1,6 @@
 1 clubs
 
-- **Puerto Rico Islanders** : (1) Puerto Rico Islanders FC
+-  : (1) Puerto Rico Islanders FC
 
 
 
@@ -43,7 +43,7 @@ By Year
 
 By A to Z
 
-- **P** (2): Puerto Rico Islanders • Puerto Rico Islanders FC
+- **P** (2): Puerto Rico Islanders · Puerto Rico Islanders FC
 
 
 
