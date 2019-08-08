@@ -1,12 +1,12 @@
 7 clubs
 
--  : (3) HB · Havnar Bóltfelag · Havnar Bóltfelag Tórshavn ⇒ (3) ≈HB Torshavn≈ · ≈Havnar Boltfelag≈ · ≈Havnar Boltfelag Torshavn≈
--  : (1) B36 ⇒ (1) ≈B36 Torshavn≈
-- 
--  ⇒ (1) ≈NSÍ Runavik≈
--  : (1) Vikingur ⇒ (1) ≈Vikingur≈
-- 
--  ⇒ (1) ≈KÍ Klaksvik≈
+- **HB Tórshavn** : (3) HB · Havnar Bóltfelag · Havnar Bóltfelag Tórshavn ⇒ (3) ≈HB Torshavn≈ · ≈Havnar Boltfelag≈ · ≈Havnar Boltfelag Torshavn≈
+- **B36 Tórshavn** : (1) B36 ⇒ (1) ≈B36 Torshavn≈
+- **EB/Streymur**
+- **NSÍ Runavík** ⇒ (1) ≈NSI Runavik≈
+- **Víkingur** : (1) Vikingur ⇒ (1) ≈Vikingur≈
+- **ÍF Fuglafjørdur** ⇒ (1) ≈IF Fuglafjordur≈
+- **KÍ Klaksvík** ⇒ (1) ≈KI Klaksvik≈
 
 
 
@@ -14,10 +14,10 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **Í**  **í**  **ó**  **ø** 
-  - **Í** (U+00CD / 205)×3 ⇒ **?**
+  - **Í** (U+00CD / 205)×3 ⇒ I
   - **í** (U+00ED / 237)×3 ⇒ i
   - **ó** (U+00F3 / 243)×5 ⇒ o
-  - **ø** (U+00F8 / 248)×1 ⇒ **?**
+  - **ø** (U+00F8 / 248)×1 ⇒ o
 
 
 

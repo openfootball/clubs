@@ -1,15 +1,15 @@
 10 clubs
 
--  : (2) Dinamo Zagreb · NK Dinamo Zagreb
--  : (1) Lokomotiva Zagreb
--  : (1) Hajduk Split
-- 
--  : (1) Slaven Koprivnica
--  : (1) Varaždin
--  : (1) Rijeka
--  : (1) Osijek
--  : (1) Cibalia
--  : (1) Šibenik
+- **GNK Dinamo Zagreb** : (2) Dinamo Zagreb · NK Dinamo Zagreb
+- **NK Lokomotiva Zagreb** : (1) Lokomotiva Zagreb
+- **HNK Hajduk Split** : (1) Hajduk Split
+- **RNK Split**
+- **NK Slaven Koprivnica** : (1) Slaven Koprivnica
+- **NK Varaždin** : (1) Varaždin ⇒ (2) ≈Varazdin≈ · ≈NK Varazdin≈
+- **HNK Rijeka** : (1) Rijeka
+- **NK Osijek** : (1) Osijek
+- **HNK Cibalia** : (1) Cibalia
+- **HNK Šibenik** : (1) Šibenik ⇒ (2) ≈Sibenik≈ · ≈HNK Sibenik≈
 
 
 
@@ -17,8 +17,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **Š**  **ž** 
-  - **Š** (U+0160 / 352)×2 ⇒ **?**
-  - **ž** (U+017E / 382)×2 ⇒ **?**
+  - **Š** (U+0160 / 352)×2 ⇒ S
+  - **ž** (U+017E / 382)×2 ⇒ z
 
 
 

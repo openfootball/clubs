@@ -1,11 +1,11 @@
 6 clubs
 
--  : (1) Sociedad Deportivo Quito
--  : (1) Club Deportivo El Nacional
--  : (3) LDU de Quito · Liga de Quito · Liga Deportiva Universitaria de Quito
--  : (2) Emelec · Club Sport Emelec
--  : (4) Barcelona · Barcelona SC · Barcelona SC Guayaquil · Barcelona Sporting Club
--  : (3) LDU de Loja · Liga de Loja · Liga Deportiva Universitaria de Loja
+- **Deportivo Quito** : (1) Sociedad Deportivo Quito
+- **El Nacional** : (1) Club Deportivo El Nacional
+- **LDU Quito** : (3) LDU de Quito · Liga de Quito · Liga Deportiva Universitaria de Quito
+- **CS Emelec** : (2) Emelec · Club Sport Emelec
+- **Barcelona Guayaquil** : (4) Barcelona · Barcelona SC · Barcelona SC Guayaquil · Barcelona Sporting Club
+- **LDU Loja** : (3) LDU de Loja · Liga de Loja · Liga Deportiva Universitaria de Loja
 
 
 

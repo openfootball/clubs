@@ -1,16 +1,16 @@
 11 clubs
 
--  : (4) BATE · BATE Borisov · Bate Borisov · BATE Borissow
--  : (1) Gomel
--  : (1) Dinamo Minsk
--  : (1) Partizan Minsk
--  : (1) Minsk
--  : (1) Dnepr
--  : (1) Shakhtyor
--  : (1) Naftan
--  : (1) Torpedo Zhodino
--  : (1) Dinamo Brest
--  : (1) Neman
+- **FC BATE Borisov** : (4) BATE · BATE Borisov · Bate Borisov · BATE Borissow
+- **FC Gomel** : (1) Gomel
+- **FC Dinamo Minsk** : (1) Dinamo Minsk
+- **FC Partizan Minsk** : (1) Partizan Minsk
+- **FC Minsk** : (1) Minsk
+- **FC Dnepr Mogilev** : (1) Dnepr
+- **FC Shakhtyor Soligorsk** : (1) Shakhtyor
+- **FC Naftan Novopolotsk** : (1) Naftan
+- **FC Torpedo Zhodino** : (1) Torpedo Zhodino
+- **FC Dinamo Brest** : (1) Dinamo Brest
+- **FC Neman Grodno** : (1) Neman
 
 
 

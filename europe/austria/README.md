@@ -1,22 +1,22 @@
 17 clubs
 
--  : (2) Austria Wien · Austria Vienna
--  : (2) Rapid Wien · Rapid Vienna
-- 
--  : (1) Mattersburg
--  : (2) Admira · Admira Wien ⇒ (2) ≈FC Admira Wacker Modling≈ · ≈FC Admira Wacker Moedling≈
--  : (1) Neustadt
--  : (1) St. Pölten ⇒ (4) ≈St. Polten≈ · ≈St. Poelten≈ · ≈SKN St. Polten≈ · ≈SKN St. Poelten≈
--  : (2) LASK · Linzer ASK
--  : (1) SK VOEST Linz
--  : (1) Ried
--  : (2) Sturm · Sturm Graz
--  : (1) Hartberg
--  : (2) Wolfsberg · AC Wolfsberger
--  : (3) Salzburg · FC Salzburg · FC Red Bull Salzburg
--  : (1) Grödig ⇒ (4) ≈Grodig≈ · ≈Groedig≈ · ≈SV Grodig≈ · ≈SV Groedig≈
--  : (2) FC Tirol · Wacker Innsbruck
--  : (2) Altach · SC Rheindorf Altach
+- [**FK Austria Wien**](https://en.wikipedia.org/wiki/FK_Austria_Wien) : (2) Austria Wien · Austria Vienna
+- [**SK Rapid Wien**](https://en.wikipedia.org/wiki/SK_Rapid_Wien) : (2) Rapid Wien · Rapid Vienna
+- **Wiener Sport-Club**
+- [**SV Mattersburg**](https://en.wikipedia.org/wiki/SV_Mattersburg) : (1) Mattersburg
+- [**FC Admira Wacker Mödling**](https://en.wikipedia.org/wiki/FC_Admira_Wacker_Mödling) : (2) Admira · Admira Wien ⇒ (2) ≈FC Admira Wacker Modling≈ · ≈FC Admira Wacker Moedling≈
+- **SC Wiener Neustadt** : (1) Neustadt
+- [**SKN St. Pölten**](https://en.wikipedia.org/wiki/SKN_St._Pölten) : (1) St. Pölten ⇒ (4) ≈St. Polten≈ · ≈St. Poelten≈ · ≈SKN St. Polten≈ · ≈SKN St. Poelten≈
+- [**LASK Linz**](https://en.wikipedia.org/wiki/LASK_Linz) : (2) LASK · Linzer ASK
+- **FC Stahl Linz** : (1) SK VOEST Linz
+- **SV Ried** : (1) Ried
+- [**SK Sturm Graz**](https://en.wikipedia.org/wiki/SK_Sturm_Graz) : (2) Sturm · Sturm Graz
+- [**TSV Hartberg**](https://en.wikipedia.org/wiki/TSV_Hartberg) : (1) Hartberg
+- [**Wolfsberger AC**](https://en.wikipedia.org/wiki/Wolfsberger_AC) : (2) Wolfsberg · AC Wolfsberger
+- [**FC RB Salzburg**](https://en.wikipedia.org/wiki/FC_Red_Bull_Salzburg) : (3) Salzburg · FC Salzburg · FC Red Bull Salzburg
+- **SV Grödig** : (1) Grödig ⇒ (4) ≈Grodig≈ · ≈Groedig≈ · ≈SV Grodig≈ · ≈SV Groedig≈
+- [**FC Wacker Innsbruck**](https://en.wikipedia.org/wiki/FC_Wacker_Innsbruck_(2002)) : (2) FC Tirol · Wacker Innsbruck
+- [**SCR Altach**](https://en.wikipedia.org/wiki/SC_Rheindorf_Altach) : (2) Altach · SC Rheindorf Altach
 
 
 

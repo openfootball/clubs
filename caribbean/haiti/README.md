@@ -1,7 +1,7 @@
 2 clubs
 
--  : (2) Tempête · Tempête Football Club ⇒ (3) ≈Tempete≈ · ≈Tempete FC≈ · ≈Tempete Football Club≈
--  : (1) Valencia
+- **Tempête FC** : (2) Tempête · Tempête Football Club ⇒ (3) ≈Tempete≈ · ≈Tempete FC≈ · ≈Tempete Football Club≈
+- **Valencia FC** : (1) Valencia
 
 
 

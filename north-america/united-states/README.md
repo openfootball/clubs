@@ -1,31 +1,31 @@
 26 clubs
 
--  : (1) Atlanta United
--  : (2) Chicago · Chicago Fire Soccer Club
--  : (2) Columbus · Columbus Crew
--  : (2) DC United · Washington D.C. United
--  : (2) New England · N.E. Revolution
--  : (1) New York City
--  : (3) Metrostars · NY Red Bulls · New York Metrostars
--  : (2) Orlando · Orlando City
--  : (1) Philadelphia
--  : (1) Colorado
--  : (1) Dallas
--  : (2) Houston · H. Dynamo
--  : (1) Los Angeles Galaxy
-- 
--  : (3) San Jose · Earthquakes · SJ Earthquakes
--  : (1) Seattle Sounders
--  : (1) Portland
--  : (1) Minnesota United
--  : (1) Real Salt Lake City
--  : (2) Sporting KC · Kansas City Wizards
--  : (1) Cincinnati
-- 
-- 
--  : (2) Chivas USA · Club Deportivo Chivas US
-- 
-- 
+- [**Atlanta United FC**](https://en.wikipedia.org/wiki/Atlanta_United_FC) : (1) Atlanta United
+- [**Chicago Fire**](https://en.wikipedia.org/wiki/Chicago_Fire_Soccer_Club) : (2) Chicago · Chicago Fire Soccer Club
+- [**Columbus Crew SC**](https://en.wikipedia.org/wiki/Columbus_Crew_SC) : (2) Columbus · Columbus Crew
+- [**D.C. United**](https://en.wikipedia.org/wiki/D.C._United) : (2) DC United · Washington D.C. United
+- [**New England Revolution**](https://en.wikipedia.org/wiki/New_England_Revolution) : (2) New England · N.E. Revolution
+- [**New York City FC**](https://en.wikipedia.org/wiki/New_York_City_FC) : (1) New York City
+- [**New York Red Bulls**](https://en.wikipedia.org/wiki/New_York_Red_Bulls) : (3) Metrostars · NY Red Bulls · New York Metrostars
+- [**Orlando City SC**](https://en.wikipedia.org/wiki/Orlando_City_SC) : (2) Orlando · Orlando City
+- [**Philadelphia Union**](https://en.wikipedia.org/wiki/Philadelphia_Union) : (1) Philadelphia
+- [**Colorado Rapids**](https://en.wikipedia.org/wiki/Colorado_Rapids) : (1) Colorado
+- [**FC Dallas**](https://en.wikipedia.org/wiki/FC_Dallas) : (1) Dallas
+- [**Houston Dynamo**](https://en.wikipedia.org/wiki/Houston_Dynamo) : (2) Houston · H. Dynamo
+- [**LA Galaxy**](https://en.wikipedia.org/wiki/LA_Galaxy) : (1) Los Angeles Galaxy
+- [**Los Angeles FC**](https://en.wikipedia.org/wiki/Los_Angeles_FC)
+- [**San Jose Earthquakes**](https://en.wikipedia.org/wiki/San_Jose_Earthquakes) : (3) San Jose · Earthquakes · SJ Earthquakes
+- [**Seattle Sounders FC**](https://en.wikipedia.org/wiki/Seattle_Sounders_FC) : (1) Seattle Sounders
+- [**Portland Timbers**](https://en.wikipedia.org/wiki/Portland_Timbers) : (1) Portland
+- [**Minnesota United FC**](https://en.wikipedia.org/wiki/Minnesota_United_FC) : (1) Minnesota United
+- [**Real Salt Lake**](https://en.wikipedia.org/wiki/Real_Salt_Lake) : (1) Real Salt Lake City
+- [**Sporting Kansas City**](https://en.wikipedia.org/wiki/Sporting_Kansas_City) : (2) Sporting KC · Kansas City Wizards
+- [**FC Cincinnati**](https://en.wikipedia.org/wiki/FC_Cincinnati) : (1) Cincinnati
+- [**Tampa Bay Mutiny (1996-2001)**](https://en.wikipedia.org/wiki/Tampa_Bay_Mutiny)
+- [**Miami Fusion (1998-2001)**](https://en.wikipedia.org/wiki/Miami_Fusion)
+- [**CD Chivas USA (2005-2014)**](https://en.wikipedia.org/wiki/Chivas_USA) : (2) Chivas USA · Club Deportivo Chivas US
+- **Miami**
+- **Nashville**
 
 
 

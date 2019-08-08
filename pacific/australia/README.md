@@ -1,14 +1,14 @@
 9 clubs
 
-- 
-- 
-- 
--  : (1) WS Wanderers FC
-- 
--  : (1) Newcastle Jets
-- 
-- 
-- 
+- **Adelaide United**
+- **Brisbane Roar**
+- **Sydney FC**
+- **Western Sydney Wanderers** : (1) WS Wanderers FC
+- **Central Coast Mariners**
+- **Newcastle United Jets** : (1) Newcastle Jets
+- **Melbourne Heart**
+- **Melbourne Victory**
+- **Perth Glory**
 
 
 

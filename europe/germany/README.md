@@ -1,138 +1,138 @@
 133 clubs
 
--  : (4) Bayern · FC Bayern München · Bayern Munich [en] · FC Bayern Munich [en] ⇒ (4) ≈Bayern Munchen≈ · ≈Bayern Muenchen≈ · ≈FC Bayern Munchen≈ · ≈FC Bayern Muenchen≈
--  : (4) 1860 München · TSV München 1860 · Munich 1860 [en] · TSV 1860 Munich [en] ⇒ (6) ≈1860 Munchen≈ · ≈1860 Muenchen≈ · ≈TSV 1860 Munchen≈ · ≈TSV Munchen 1860≈ · ≈TSV 1860 Muenchen≈ · ≈TSV Muenchen 1860≈
--  : (1) Nürnberg ⇒ (4) ≈Nurnberg≈ · ≈Nuernberg≈ · ≈1. FC Nurnberg≈ · ≈1. FC Nuernberg≈
--  : (1) Greuther Fürth ⇒ (4) ≈Greuther Furth≈ · ≈Greuther Fuerth≈ · ≈SpVgg Greuther Furth≈ · ≈SpVgg Greuther Fuerth≈
--  : (1) Augsburg
--  : (2) U'haching · Unterhaching
--  : (1) Ingolstadt
--  : (2) Regensburg · Jahn Regensburg
--  : (1) Schweinfurt
--  : (1) FC Würzburger Kickers ⇒ (4) ≈Wurzburger Kickers≈ · ≈Wuerzburger Kickers≈ · ≈FC Wurzburger Kickers≈ · ≈FC Wuerzburger Kickers≈
--  : (1) Burghausen
-- 
-- 
--  : (1) FC Köln ⇒ (4) ≈FC Koln≈ · ≈FC Koeln≈ · ≈1. FC Koln≈ · ≈1. FC Koeln≈
--  : (3) F Köln · SC Fortuna Köln · Sportclub Fortuna Köln ⇒ (8) ≈F Koln≈ · ≈F Koeln≈ · ≈Fortuna Koln≈ · ≈Fortuna Koeln≈ · ≈SC Fortuna Koln≈ · ≈SC Fortuna Koeln≈ · ≈Sportclub Fortuna Koln≈ · ≈Sportclub Fortuna Koeln≈
--  ⇒ (2) ≈FC Viktoria Koln≈ · ≈FC Viktoria Koeln≈
--  : (2) Düsseldorf · F. Düsseldorf ⇒ (6) ≈Dusseldorf≈ · ≈Duesseldorf≈ · ≈F. Dusseldorf≈ · ≈F. Duesseldorf≈ · ≈Fortuna Dusseldorf≈ · ≈Fortuna Duesseldorf≈
--  : (3) Dortmund · Bor. Dortmund · BV 09 Borussia Dortmund
--  : (2) Dortmund II · Bor. Dortmund II
--  : (2) Schalke · Schalke 04
--  : (3) Leverkusen · Bay. Leverkusen · Bayer Leverkusen
--  : (2) Duisburg · Meidericher SV
--  : (8) M'Gladbach · Mönchengladbach · Bor. M'gladbach · Borussia M'gladbach · Bor. Moenchengladbach · Borussia Monchengladbach · Borussia Mönchengladbach · VfL Borussia Mönchengladbach ⇒ (8) ≈Monchengladbach≈ · ≈Moenchengladbach≈ · ≈Bor. Monchengladbach≈ · ≈Bor. Moenchengladbach≈ · ≈Borussia Monchengladbach≈ · ≈Borussia Moenchengladbach≈ · ≈VfL Borussia Monchengladbach≈ · ≈VfL Borussia Moenchengladbach≈
--  : (2) Bochum · VfL Bochum 1848
--  : (2) Wattenscheid · Wattenscheid 09
--  : (2) Bielefeld · DSC Arminia Bielefeld
--  : (3) Münster · SC Preußen 06 · SC Preußen Münster ⇒ (7) ≈Munster≈ · ≈Muenster≈ · ≈SC Preussen 06≈ · ≈Preussen Munster≈ · ≈Preussen Muenster≈ · ≈SC Preussen Munster≈ · ≈SC Preussen Muenster≈
--  ⇒ (2) ≈Gutersloh≈ · ≈Guetersloh≈
--  : (5) Uerdingen · Bayer Uerdingen · KFC Uerdingen 05 · Bayer 05 Uerdingen · FC Bayer 05 Uerdingen
--  : (2) Aachen · TSV Alemannia Aachen
--  : (1) Paderborn
--  : (1) Ahlen
--  : (2) Oberhausen · Rot-Weiss Oberhausen ⇒ (1) ≈Rot-Weiss Oberhausen≈
--  : (2) Siegen · Sportfreunde Siegen
--  : (1) Wuppertaler
--  : (2) Essen · RW Essen
--  : (1) Sportfreunde Baumberg
--  : (1) Sportfreunde Lotte
-- 
--  : (1) SC Wiedenbrück 2000 ⇒ (4) ≈SC Wiedenbruck≈ · ≈SC Wiedenbrueck≈ · ≈SC Wiedenbruck 2000≈ · ≈SC Wiedenbrueck 2000≈
-- 
--  ⇒ (2) ≈TuS Erndtebruck≈ · ≈TuS Erndtebrueck≈
--  : (3) Saarbrucken · Saarbrücken · 1. FC Saarbruecken ⇒ (4) ≈Saarbrucken≈ · ≈Saarbruecken≈ · ≈1. FC Saarbrucken≈ · ≈1. FC Saarbruecken≈
--  : (3) Homburg · FC Homburg · FC Homburg/Saar
--  : (1) Borussia Neunkirchen
--  : (1) SV 07 Elversberg
--  : (1) Osnabruck ⇒ (2) ≈VfL Osnabruck≈ · ≈VfL Osnabrueck≈
--  : (1) Wolfsburg
--  : (2) Hannover · Hannover 1896
--  : (2) Braunschweig · Eintr. Braunschweig
--  : (1) Freie Turnerschaft Braunschweig
--  : (1) Meppen
--  : (1) Oldenburg
-- 
--  ⇒ (1) ≈BSV Schwarz-Weiss Rehden≈
-- 
--  : (2) Cottbus · FC Energie Cottbus
--  : (1) Babelsberg
-- 
-- 
--  : (3) Hertha · Hertha BSC Berlin · Hertha Berliner Sport-Club
--  : (2) TB Berlin · TeBe Berlin
--  : (1) Union Berlin
--  : (1) Blau-Weiss 90 Berlin ⇒ (1) ≈Blau-Weiss 90 Berlin≈
--  : (2) Tasmania Berlin · Tasmania 1900 Berlin
--  : (1) BFC Dynamo
-- 
-- 
--  : (1) Hamburg
--  : (3) St Pauli · St. Pauli · FC Sankt Pauli
--  : (1) Victoria Hamburg
-- 
-- 
--  : (2) Bremen · SV Werder Bremen
-- 
-- 
-- 
-- 
--  : (1) Stuttgart
--  : (1) Stuttgart II
--  : (2) Stutt. Kick. · Stuttgarter K
--  : (1) Freiburg
--  : (2) Hoffenheim · 1899 Hoffenheim
--  : (1) Karlsruhe
--  : (1) Ulm
--  : (1) Aalen
--  : (2) Heidenheim · 1. FC Heidenheim 1846
--  : (1) Reutlingen
--  : (2) Sandhausen · SV Sandhausen 1916
--  : (1) Mannheim
--  : (2) Waldhof Mannheim · SV Waldhof Mannheim 07
--  : (3) Großaspach · SG Sonnenhof Großaspach · Sportgemeinschaft Sonnenhof Großaspach ⇒ (4) ≈Grossaspach≈ · ≈SG Grossaspach≈ · ≈SG Sonnenhof Grossaspach≈ · ≈Sportgemeinschaft Sonnenhof Grossaspach≈
--  ⇒ (2) ≈FC Nottingen≈ · ≈FC Noettingen≈
-- 
-- 
-- 
-- 
-- 
--  : (3) E. Frankfurt · Ein Frankfurt · SG Eintracht Frankfurt
--  : (2) Frankfurt FSV · FSV Frankfurt 1899
--  : (1) Darmstadt
--  : (2) Wehen · Wiesbaden
--  : (1) Offenbach
-- 
--  : (3) K'lautern · Kaiserslautern · 1. FC K'lautern
--  : (2) Mainz · FSV Mainz 05
-- 
--  : (1) Ein Trier
--  : (1) Koblenz
-- 
--  ⇒ (1) ≈SV Rossbach/Verscheid≈
-- 
-- 
-- 
--  : (1) FK 03 Pirmasens
--  : (2) Lübeck · Lubeck ⇒ (4) ≈Lubeck≈ · ≈Luebeck≈ · ≈VfB Lubeck≈ · ≈VfB Luebeck≈
--  : (1) Kiel
--  ⇒ (2) ≈VfR Neumunster≈ · ≈VfR Neumuenster≈
--  : (2) Rostock · FC Hansa Rostock
-- 
--  ⇒ (2) ≈FC Schonberg 95≈ · ≈FC Schoenberg 95≈
-- 
--  : (2) Dresden · SG Dynamo Dresden
-- 
--  : (1) Leipzig
--  : (1) Chemnitz
--  : (2) Aue · Erzgebirge Aue
--  : (1) Zwickau
--  : (1) Halle
-- 
--  : (1) CZ Jena
-- 
--  : (3) Erfurt · RW Erfurt · Rot-Weiß Erfurt ⇒ (2) ≈Rot-Weiss Erfurt≈ · ≈FC Rot-Weiss Erfurt≈
+- [**Bayern München**](https://en.wikipedia.org/wiki/FC_Bayern_Munich) : (4) Bayern · FC Bayern München · Bayern Munich [en] · FC Bayern Munich [en] ⇒ (4) ≈Bayern Munchen≈ · ≈Bayern Muenchen≈ · ≈FC Bayern Munchen≈ · ≈FC Bayern Muenchen≈
+- [**TSV 1860 München**](https://en.wikipedia.org/wiki/TSV_1860_Munich) : (4) 1860 München · TSV München 1860 · Munich 1860 [en] · TSV 1860 Munich [en] ⇒ (6) ≈1860 Munchen≈ · ≈1860 Muenchen≈ · ≈TSV 1860 Munchen≈ · ≈TSV Munchen 1860≈ · ≈TSV 1860 Muenchen≈ · ≈TSV Muenchen 1860≈
+- [**1. FC Nürnberg**](https://en.wikipedia.org/wiki/1._FC_Nürnberg) : (1) Nürnberg ⇒ (4) ≈Nurnberg≈ · ≈Nuernberg≈ · ≈1. FC Nurnberg≈ · ≈1. FC Nuernberg≈
+- [**SpVgg Greuther Fürth**](https://en.wikipedia.org/wiki/SpVgg_Greuther_Fürth) : (1) Greuther Fürth ⇒ (4) ≈Greuther Furth≈ · ≈Greuther Fuerth≈ · ≈SpVgg Greuther Furth≈ · ≈SpVgg Greuther Fuerth≈
+- [**FC Augsburg**](https://en.wikipedia.org/wiki/FC_Augsburg) : (1) Augsburg
+- [**SpVgg Unterhaching**](https://en.wikipedia.org/wiki/SpVgg_Unterhaching) : (2) U'haching · Unterhaching
+- [**FC Ingolstadt 04**](https://en.wikipedia.org/wiki/FC_Ingolstadt_04) : (1) Ingolstadt
+- [**SSV Jahn Regensburg**](https://en.wikipedia.org/wiki/SSV_Jahn_Regensburg) : (2) Regensburg · Jahn Regensburg
+- **1. FC Schweinfurt 05** : (1) Schweinfurt
+- [**Würzburger Kickers**](https://en.wikipedia.org/wiki/Würzburger_Kickers) : (1) FC Würzburger Kickers ⇒ (4) ≈Wurzburger Kickers≈ · ≈Wuerzburger Kickers≈ · ≈FC Wurzburger Kickers≈ · ≈FC Wuerzburger Kickers≈
+- **Wacker Burghausen** : (1) Burghausen
+- **TSV 1860 Rosenheim**
+- **FV Illertissen**
+- [**1. FC Köln**](https://en.wikipedia.org/wiki/1._FC_Köln) : (1) FC Köln ⇒ (4) ≈FC Koln≈ · ≈FC Koeln≈ · ≈1. FC Koln≈ · ≈1. FC Koeln≈
+- [**Fortuna Köln**](https://en.wikipedia.org/wiki/SC_Fortuna_Köln) : (3) F Köln · SC Fortuna Köln · Sportclub Fortuna Köln ⇒ (8) ≈F Koln≈ · ≈F Koeln≈ · ≈Fortuna Koln≈ · ≈Fortuna Koeln≈ · ≈SC Fortuna Koln≈ · ≈SC Fortuna Koeln≈ · ≈Sportclub Fortuna Koln≈ · ≈Sportclub Fortuna Koeln≈
+- **FC Viktoria Köln** ⇒ (2) ≈FC Viktoria Koln≈ · ≈FC Viktoria Koeln≈
+- [**Fortuna Düsseldorf**](https://en.wikipedia.org/wiki/Fortuna_Düsseldorf) : (2) Düsseldorf · F. Düsseldorf ⇒ (6) ≈Dusseldorf≈ · ≈Duesseldorf≈ · ≈F. Dusseldorf≈ · ≈F. Duesseldorf≈ · ≈Fortuna Dusseldorf≈ · ≈Fortuna Duesseldorf≈
+- [**Borussia Dortmund**](https://en.wikipedia.org/wiki/Borussia_Dortmund) : (3) Dortmund · Bor. Dortmund · BV 09 Borussia Dortmund
+- **Borussia Dortmund II** : (2) Dortmund II · Bor. Dortmund II
+- [**FC Schalke 04**](https://en.wikipedia.org/wiki/FC_Schalke_04) : (2) Schalke · Schalke 04
+- [**Bayer 04 Leverkusen**](https://en.wikipedia.org/wiki/Bayer_04_Leverkusen) : (3) Leverkusen · Bay. Leverkusen · Bayer Leverkusen
+- [**MSV Duisburg**](https://en.wikipedia.org/wiki/MSV_Duisburg) : (2) Duisburg · Meidericher SV
+- [**Bor. Mönchengladbach**](https://en.wikipedia.org/wiki/Borussia_Mönchengladbach) : (8) M'Gladbach · Mönchengladbach · Bor. M'gladbach · Borussia M'gladbach · Bor. Moenchengladbach · Borussia Monchengladbach · Borussia Mönchengladbach · VfL Borussia Mönchengladbach ⇒ (8) ≈Monchengladbach≈ · ≈Moenchengladbach≈ · ≈Bor. Monchengladbach≈ · ≈Bor. Moenchengladbach≈ · ≈Borussia Monchengladbach≈ · ≈Borussia Moenchengladbach≈ · ≈VfL Borussia Monchengladbach≈ · ≈VfL Borussia Moenchengladbach≈
+- [**VfL Bochum**](https://en.wikipedia.org/wiki/VfL_Bochum) : (2) Bochum · VfL Bochum 1848
+- **SG Wattenscheid 09** : (2) Wattenscheid · Wattenscheid 09
+- [**Arminia Bielefeld**](https://en.wikipedia.org/wiki/Arminia_Bielefeld) : (2) Bielefeld · DSC Arminia Bielefeld
+- [**Preußen Münster**](https://en.wikipedia.org/wiki/SC_Preußen_Münster) : (3) Münster · SC Preußen 06 · SC Preußen Münster ⇒ (7) ≈Munster≈ · ≈Muenster≈ · ≈SC Preussen 06≈ · ≈Preussen Munster≈ · ≈Preussen Muenster≈ · ≈SC Preussen Munster≈ · ≈SC Preussen Muenster≈
+- **Gütersloh** ⇒ (2) ≈Gutersloh≈ · ≈Guetersloh≈
+- [**KFC Uerdingen**](https://en.wikipedia.org/wiki/KFC_Uerdingen_05) : (5) Uerdingen · Bayer Uerdingen · KFC Uerdingen 05 · Bayer 05 Uerdingen · FC Bayer 05 Uerdingen
+- **Alemannia Aachen** : (2) Aachen · TSV Alemannia Aachen
+- [**SC Paderborn 07**](https://en.wikipedia.org/wiki/SC_Paderborn_07) : (1) Paderborn
+- **Rot Weiss Ahlen** : (1) Ahlen
+- **Rot-Weiß Oberhausen** : (2) Oberhausen · Rot-Weiss Oberhausen ⇒ (1) ≈Rot-Weiss Oberhausen≈
+- **SF Siegen** : (2) Siegen · Sportfreunde Siegen
+- **Wuppertaler SV** : (1) Wuppertaler
+- **Rot-Weiss Essen** : (2) Essen · RW Essen
+- **SF Baumberg** : (1) Sportfreunde Baumberg
+- [**SF Lotte**](https://en.wikipedia.org/wiki/Sportfreunde_Lotte) : (1) Sportfreunde Lotte
+- **SV Lippstadt 08**
+- **SC Wiedenbrück** : (1) SC Wiedenbrück 2000 ⇒ (4) ≈SC Wiedenbruck≈ · ≈SC Wiedenbrueck≈ · ≈SC Wiedenbruck 2000≈ · ≈SC Wiedenbrueck 2000≈
+- **FC Hennef 05**
+- **TuS Erndtebrück** ⇒ (2) ≈TuS Erndtebruck≈ · ≈TuS Erndtebrueck≈
+- **1. FC Saarbrücken** : (3) Saarbrucken · Saarbrücken · 1. FC Saarbruecken ⇒ (4) ≈Saarbrucken≈ · ≈Saarbruecken≈ · ≈1. FC Saarbrucken≈ · ≈1. FC Saarbruecken≈
+- **FC 08 Homburg** : (3) Homburg · FC Homburg · FC Homburg/Saar
+- **VfB Borussia Neunkirchen** : (1) Borussia Neunkirchen
+- **SV Elversberg** : (1) SV 07 Elversberg
+- [**VfL Osnabrück**](https://en.wikipedia.org/wiki/VfL_Osnabrück) : (1) Osnabruck ⇒ (2) ≈VfL Osnabruck≈ · ≈VfL Osnabrueck≈
+- [**VfL Wolfsburg**](https://en.wikipedia.org/wiki/VfL_Wolfsburg) : (1) Wolfsburg
+- [**Hannover 96**](https://en.wikipedia.org/wiki/Hannover_96) : (2) Hannover · Hannover 1896
+- [**Eintracht Braunschweig**](https://en.wikipedia.org/wiki/Eintracht_Braunschweig) : (2) Braunschweig · Eintr. Braunschweig
+- **FT Braunschweig** : (1) Freie Turnerschaft Braunschweig
+- [**SV Meppen**](https://en.wikipedia.org/wiki/SV_Meppen) : (1) Meppen
+- **VfB Oldenburg** : (1) Oldenburg
+- **SV Wilhelmshaven**
+- **BSV Schwarz-Weiß Rehden** ⇒ (1) ≈BSV Schwarz-Weiss Rehden≈
+- **TSV Havelse**
+- [**Energie Cottbus**](https://en.wikipedia.org/wiki/FC_Energie_Cottbus) : (2) Cottbus · FC Energie Cottbus
+- **SV Babelsberg 03** : (1) Babelsberg
+- **FSV Optik Rathenow**
+- **SV Falkensee-Finkenkrug**
+- [**Hertha BSC**](https://en.wikipedia.org/wiki/Hertha_BSC) : (3) Hertha · Hertha BSC Berlin · Hertha Berliner Sport-Club
+- **Tennis Borussia Berlin** : (2) TB Berlin · TeBe Berlin
+- [**1. FC Union Berlin**](https://en.wikipedia.org/wiki/1._FC_Union_Berlin) : (1) Union Berlin
+- **Blau-Weiß 90 Berlin (-1992)** : (1) Blau-Weiss 90 Berlin ⇒ (1) ≈Blau-Weiss 90 Berlin≈
+- **SC Tasmania 1900 Berlin (-1973)** : (2) Tasmania Berlin · Tasmania 1900 Berlin
+- **BFC Dynamo Berlin** : (1) BFC Dynamo
+- **Berliner AK 07**
+- **FC Viktoria 1889 Berlin**
+- [**Hamburger SV**](https://en.wikipedia.org/wiki/Hamburger_SV) : (1) Hamburg
+- [**FC St. Pauli**](https://en.wikipedia.org/wiki/FC_St._Pauli) : (3) St Pauli · St. Pauli · FC Sankt Pauli
+- **SC Victoria Hamburg** : (1) Victoria Hamburg
+- **USC Paloma Hamburg**
+- **HSV Barmbek-Uhlenhorst**
+- [**Werder Bremen**](https://en.wikipedia.org/wiki/SV_Werder_Bremen) : (2) Bremen · SV Werder Bremen
+- **Werder Bremen II**
+- **SG Aumund-Vegesack**
+- **FC Oberneuland**
+- **Bremer SV**
+- [**VfB Stuttgart**](https://en.wikipedia.org/wiki/VfB_Stuttgart) : (1) Stuttgart
+- **VfB Stuttgart II** : (1) Stuttgart II
+- **Stuttgarter Kickers** : (2) Stutt. Kick. · Stuttgarter K
+- [**SC Freiburg**](https://en.wikipedia.org/wiki/SC_Freiburg) : (1) Freiburg
+- [**TSG 1899 Hoffenheim**](https://en.wikipedia.org/wiki/TSG_1899_Hoffenheim) : (2) Hoffenheim · 1899 Hoffenheim
+- [**Karlsruher SC**](https://en.wikipedia.org/wiki/Karlsruher_SC) : (1) Karlsruhe
+- **SSV Ulm 1846** : (1) Ulm
+- [**VfR Aalen**](https://en.wikipedia.org/wiki/VfR_Aalen) : (1) Aalen
+- [**1. FC Heidenheim**](https://en.wikipedia.org/wiki/1._FC_Heidenheim) : (2) Heidenheim · 1. FC Heidenheim 1846
+- **SSV Reutlingen 05** : (1) Reutlingen
+- [**SV Sandhausen**](https://en.wikipedia.org/wiki/SV_Sandhausen) : (2) Sandhausen · SV Sandhausen 1916
+- **VfR Mannheim** : (1) Mannheim
+- **SV Waldhof Mannheim** : (2) Waldhof Mannheim · SV Waldhof Mannheim 07
+- [**SG Großaspach**](https://en.wikipedia.org/wiki/SG_Sonnenhof_Großaspach) : (3) Großaspach · SG Sonnenhof Großaspach · Sportgemeinschaft Sonnenhof Großaspach ⇒ (4) ≈Grossaspach≈ · ≈SG Grossaspach≈ · ≈SG Sonnenhof Grossaspach≈ · ≈Sportgemeinschaft Sonnenhof Grossaspach≈
+- **FC Nöttingen** ⇒ (2) ≈FC Nottingen≈ · ≈FC Noettingen≈
+- **Bahlinger SC**
+- **Neckarsulmer Sport-Union**
+- **Offenburger FV**
+- **FC-Astoria Walldorf**
+- **SV Waldkirch**
+- [**Eintracht Frankfurt**](https://en.wikipedia.org/wiki/Eintracht_Frankfurt) : (3) E. Frankfurt · Ein Frankfurt · SG Eintracht Frankfurt
+- **FSV Frankfurt** : (2) Frankfurt FSV · FSV Frankfurt 1899
+- [**SV Darmstadt 98**](https://en.wikipedia.org/wiki/SV_Darmstadt_98) : (1) Darmstadt
+- [**SV Wehen Wiesbaden**](https://en.wikipedia.org/wiki/SV_Wehen_Wiesbaden) : (2) Wehen · Wiesbaden
+- **Kickers Offenbach** : (1) Offenbach
+- **KSV Hessen Kassel**
+- [**1. FC Kaiserslautern**](https://en.wikipedia.org/wiki/1._FC_Kaiserslautern) : (3) K'lautern · Kaiserslautern · 1. FC K'lautern
+- [**1. FSV Mainz 05**](https://en.wikipedia.org/wiki/1._FSV_Mainz_05) : (2) Mainz · FSV Mainz 05
+- **1. FSV Mainz 05 II**
+- **Eintracht Trier** : (1) Ein Trier
+- **TuS Koblenz** : (1) Koblenz
+- **TSG Pfeddersheim**
+- **SV Roßbach/Verscheid** ⇒ (1) ≈SV Rossbach/Verscheid≈
+- **Wormatia Worms**
+- **SV Alemannia Waldalgesheim**
+- **FSV Salmrohr**
+- **FK Pirmasens** : (1) FK 03 Pirmasens
+- **VfB Lübeck** : (2) Lübeck · Lubeck ⇒ (4) ≈Lubeck≈ · ≈Luebeck≈ · ≈VfB Lubeck≈ · ≈VfB Luebeck≈
+- [**Holstein Kiel**](https://en.wikipedia.org/wiki/Holstein_Kiel) : (1) Kiel
+- **VfR Neumünster** ⇒ (2) ≈VfR Neumunster≈ · ≈VfR Neumuenster≈
+- [**Hansa Rostock**](https://en.wikipedia.org/wiki/F.C._Hansa_Rostock) : (2) Rostock · FC Hansa Rostock
+- **TSG Neustrelitz**
+- **FC Schönberg 95** ⇒ (2) ≈FC Schonberg 95≈ · ≈FC Schoenberg 95≈
+- **1. FC Neubrandenburg 04**
+- [**Dynamo Dresden**](https://en.wikipedia.org/wiki/Dynamo_Dresden) : (2) Dresden · SG Dynamo Dresden
+- [**RB Leipzig**](https://en.wikipedia.org/wiki/RB_Leipzig)
+- **VfB Leipzig (-2004)** : (1) Leipzig
+- **Chemnitzer FC** : (1) Chemnitz
+- [**FC Erzgebirge Aue**](https://en.wikipedia.org/wiki/FC_Erzgebirge_Aue) : (2) Aue · Erzgebirge Aue
+- [**FSV Zwickau**](https://en.wikipedia.org/wiki/FSV_Zwickau) : (1) Zwickau
+- [**Hallescher FC**](https://en.wikipedia.org/wiki/Hallescher_FC) : (1) Halle
+- [**1. FC Magdeburg**](https://en.wikipedia.org/wiki/1._FC_Magdeburg)
+- [**FC Carl Zeiss Jena**](https://en.wikipedia.org/wiki/FC_Carl_Zeiss_Jena) : (1) CZ Jena
+- **SV Schott Jena**
+- **FC Rot-Weiß Erfurt** : (3) Erfurt · RW Erfurt · Rot-Weiß Erfurt ⇒ (2) ≈Rot-Weiss Erfurt≈ · ≈FC Rot-Weiss Erfurt≈
 
 
 

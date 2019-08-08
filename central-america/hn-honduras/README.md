@@ -1,10 +1,10 @@
 5 clubs
 
--  : (1) Olimpia
--  : (1) Marathón ⇒ (2) ≈Marathon≈ · ≈CD Marathon≈
--  : (1) Real España ⇒ (2) ≈Real Espana≈ · ≈Real CD Espana≈
--  : (1) Motagua
--  : (1) Victoria
+- **CD Olimpia** : (1) Olimpia
+- **CD Marathón** : (1) Marathón ⇒ (2) ≈Marathon≈ · ≈CD Marathon≈
+- **Real CD España** : (1) Real España ⇒ (2) ≈Real Espana≈ · ≈Real CD Espana≈
+- **CD Motagua** : (1) Motagua
+- **CD Victoria** : (1) Victoria
 
 
 

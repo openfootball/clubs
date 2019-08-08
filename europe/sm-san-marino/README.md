@@ -1,13 +1,13 @@
 8 clubs
 
-- 
-- 
--  : (1) AC Juvenes/Dogana
--  : (1) La Fiorita
-- 
-- 
-- 
-- 
+- **SP Tre Fiori**
+- **SP Tre Penne**
+- **AC Juvenes-Dogana** : (1) AC Juvenes/Dogana
+- **SP La Fiorita** : (1) La Fiorita
+- **AC Libertas**
+- **SC Faetano**
+- **SS Murata**
+- **SS Folgore**
 
 
 

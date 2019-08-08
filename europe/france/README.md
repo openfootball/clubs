@@ -1,74 +1,74 @@
 69 clubs
 
--  : (6) Paris SG · Paris S.Germain · Paris St. Germain · Paris Saint Germain · Paris Saint-Germain F.C. · Paris-Saint-Germain Football Club
-- 
--  : (2) Red Star · Red Star 93
--  : (1) Amiens
--  : (2) Angers · Angers Sporting Club de l'Ouest
--  : (3) Bordeaux · FC Girondins de Bordeaux · Football Club des Girondins de Bordeaux
--  : (3) Caen · SM Caen · Stade Malherbe de Caen
--  : (2) Dijon · Dijon Football Côte-d'Or ⇒ (1) ≈Dijon Football Cote-d'Or≈
--  : (3) Guingamp · En Avant Guingamp · En Avant de Guingamp
--  : (4) LOSC · Lille · OSC Lille · LOSC Lille
--  : (2) Lyon · Olympique Lyon
--  : (2) Marseille · Olympique Marseille
--  : (2) Metz · Football Club de Metz
--  : (4) Montpellier · HSC Montpellier · Montpellier Hérault SC · Montpellier-Herault Sports Club ⇒ (1) ≈Montpellier Herault SC≈
--  : (2) Nantes · Football Club de Nantes
--  : (2) Nice · Olympique Gymnaste Club Nice Côte d'Azur ⇒ (1) ≈Olympique Gymnaste Club Nice Cote d'Azur≈
--  : (2) Rennes · Stade Rennais Football Club
--  : (4) St Etienne · St-Étienne · AS Saint-Etienne · Association Sportive de Saint-Étienne Loire ⇒ (3) ≈St-Etienne≈ · ≈AS Saint-Etienne≈ · ≈Association Sportive de Saint-Etienne Loire≈
--  : (2) Strasbourg · RC Strasbourg Alsace
--  : (2) Toulouse · Toulouse Football Club
--  : (4) Troyes · Troyes AC · ESTAC Troyes · Espérance Sportive Troyes Aube Champagne ⇒ (1) ≈Esperance Sportive Troyes Aube Champagne≈
--  : (2) Reims · Stade Reims
--  : (1) Nimes ⇒ (1) ≈Nimes Olympique≈
--  : (2) Ajaccio · Athletic Club Ajaccien
--  : (3) Ajaccio GFCO · Gazélec Ajaccio · Gazélec Football Club Ajaccio ⇒ (2) ≈Gazelec Ajaccio≈ · ≈Gazelec Football Club Ajaccio≈
--  : (2) Auxerre · Association de la Jeunesse Auxerroise
--  : (1) Bourg Peronnas
--  : (2) Brest · Stade Brestois
--  : (2) Chateauroux · La Berrichonne de Châteauroux ⇒ (2) ≈LB Chateauroux≈ · ≈La Berrichonne de Chateauroux≈
--  : (2) Clermont · Clermont Foot
--  : (3) Le Havre · Havre AC · Le Havre Athletic Club Football
--  : (2) Lens · Racing Club de Lens
--  : (2) Lorient · Football Club Lorient-Bretagne Sud
--  : (3) Nancy · AS Nancy-Lorraine · Association Sportive Nancy-Lorraine
--  : (3) Niort · Chamois Niortais · Chamois Niortais Football Club
--  : (2) Orleans · Union sportive Orléans Loiret football ⇒ (2) ≈US Orleans≈ · ≈Union sportive Orleans Loiret football≈
--  : (2) Quevilly Rouen · Quevilly-Rouen ⇒ (1) ≈US Quevilly-Rouen Metropole≈
--  : (2) Sochaux · Football Club de Sochaux-Montbéliard ⇒ (2) ≈FC Sochaux-Montbeliard≈ · ≈Football Club de Sochaux-Montbeliard≈
--  : (2) Tours · Tours Football Club
--  : (2) Valenciennes · Valenciennes Football Club
--  : (3) Arles · AC Arles Avignon · Athletic Club Arles-Avignon
--  : (2) Bastia · Sporting Club de Bastia
-- 
--  : (1) Beauvais
--  : (2) Besancon · Besançon RC ⇒ (2) ≈Besancon RC≈ · ≈Racing Besancon≈
--  : (1) Boulogne
--  : (1) Cannes
--  : (1) Charleville
--  : (3) Creteil · US Créteil-Lusitanos · Union Sportive Créteil-Lusitanos ⇒ (3) ≈US Creteil≈ · ≈US Creteil-Lusitanos≈ · ≈Union Sportive Creteil-Lusitanos≈
--  : (1) Epinal ⇒ (1) ≈SAS Epinal≈
--  : (4) Evian Thonon Gaillard · Évian Thonon Gaillard FC · Évian Thonon-Gaillard FC · Evian Thonon Gaillard Football Club ⇒ (3) ≈Evian TG FC≈ · ≈Evian Thonon Gaillard FC≈ · ≈Evian Thonon-Gaillard FC≈
--  : (1) Grenoble
--  : (1) Gueugnon
--  : (1) Istres
--  : (2) Laval · Stade Lavallois Mayenne Football Club
--  : (1) Le Mans
--  : (1) Libourne
--  : (1) Louhans-Cuis.
--  : (1) Martigues
--  : (1) Mulhouse
--  : (1) Perpignan
--  : (1) Rouen
--  : (1) Sedan
--  : (1) Sete ⇒ (1) ≈FC Sete≈
--  : (1) St Brieuc
--  : (1) Toulon
--  : (1) Valence
--  : (1) Vannes
--  : (1) Wasquehal
+- [**Paris Saint-Germain**](https://en.wikipedia.org/wiki/Paris_Saint-Germain_F.C.) : (6) Paris SG · Paris S.Germain · Paris St. Germain · Paris Saint Germain · Paris Saint-Germain F.C. · Paris-Saint-Germain Football Club
+- **Paris FC**
+- **Red Star FC** : (2) Red Star · Red Star 93
+- [**Amiens SC**](https://en.wikipedia.org/wiki/Amiens_SC) : (1) Amiens
+- [**Angers SCO**](https://en.wikipedia.org/wiki/Angers_SCO) : (2) Angers · Angers Sporting Club de l'Ouest
+- [**Girondins de Bordeaux**](https://en.wikipedia.org/wiki/FC_Girondins_de_Bordeaux) : (3) Bordeaux · FC Girondins de Bordeaux · Football Club des Girondins de Bordeaux
+- [**Stade Malherbe Caen**](https://en.wikipedia.org/wiki/Stade_Malherbe_Caen) : (3) Caen · SM Caen · Stade Malherbe de Caen
+- [**Dijon FCO**](https://en.wikipedia.org/wiki/Dijon_FCO) : (2) Dijon · Dijon Football Côte-d'Or ⇒ (1) ≈Dijon Football Cote-d'Or≈
+- [**EA Guingamp**](https://en.wikipedia.org/wiki/En_Avant_de_Guingamp) : (3) Guingamp · En Avant Guingamp · En Avant de Guingamp
+- [**Lille OSC**](https://en.wikipedia.org/wiki/Lille_OSC) : (4) LOSC · Lille · OSC Lille · LOSC Lille
+- [**Olympique Lyonnais**](https://en.wikipedia.org/wiki/Olympique_Lyonnais) : (2) Lyon · Olympique Lyon
+- [**Olympique de Marseille**](https://en.wikipedia.org/wiki/Olympique_de_Marseille) : (2) Marseille · Olympique Marseille
+- [**FC Metz**](https://en.wikipedia.org/wiki/FC_Metz) : (2) Metz · Football Club de Metz
+- [**Montpellier HSC**](https://en.wikipedia.org/wiki/Montpellier_HSC) : (4) Montpellier · HSC Montpellier · Montpellier Hérault SC · Montpellier-Herault Sports Club ⇒ (1) ≈Montpellier Herault SC≈
+- [**FC Nantes**](https://en.wikipedia.org/wiki/FC_Nantes) : (2) Nantes · Football Club de Nantes
+- [**OGC Nice**](https://en.wikipedia.org/wiki/OGC_Nice) : (2) Nice · Olympique Gymnaste Club Nice Côte d'Azur ⇒ (1) ≈Olympique Gymnaste Club Nice Cote d'Azur≈
+- [**Stade Rennais FC**](https://en.wikipedia.org/wiki/Stade_Rennais_F.C.) : (2) Rennes · Stade Rennais Football Club
+- [**AS Saint-Étienne**](https://en.wikipedia.org/wiki/AS_Saint-Étienne) : (4) St Etienne · St-Étienne · AS Saint-Etienne · Association Sportive de Saint-Étienne Loire ⇒ (3) ≈St-Etienne≈ · ≈AS Saint-Etienne≈ · ≈Association Sportive de Saint-Etienne Loire≈
+- [**RC Strasbourg**](https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace) : (2) Strasbourg · RC Strasbourg Alsace
+- [**Toulouse FC**](https://en.wikipedia.org/wiki/Toulouse_FC) : (2) Toulouse · Toulouse Football Club
+- [**ES Troyes AC**](https://en.wikipedia.org/wiki/Troyes_AC) : (4) Troyes · Troyes AC · ESTAC Troyes · Espérance Sportive Troyes Aube Champagne ⇒ (1) ≈Esperance Sportive Troyes Aube Champagne≈
+- [**Stade de Reims**](https://en.wikipedia.org/wiki/Stade_de_Reims) : (2) Reims · Stade Reims
+- [**Nîmes Olympique**](https://en.wikipedia.org/wiki/Nîmes_Olympique) : (1) Nimes ⇒ (1) ≈Nimes Olympique≈
+- [**AC Ajaccio**](https://en.wikipedia.org/wiki/AC_Ajaccio) : (2) Ajaccio · Athletic Club Ajaccien
+- [**GFC Ajaccio**](https://en.wikipedia.org/wiki/Gazélec_Ajaccio) : (3) Ajaccio GFCO · Gazélec Ajaccio · Gazélec Football Club Ajaccio ⇒ (2) ≈Gazelec Ajaccio≈ · ≈Gazelec Football Club Ajaccio≈
+- **AJ Auxerre** : (2) Auxerre · Association de la Jeunesse Auxerroise
+- **Bourg-en-Bresse 01** : (1) Bourg Peronnas
+- **Stade Brestois 29** : (2) Brest · Stade Brestois
+- **LB Châteauroux** : (2) Chateauroux · La Berrichonne de Châteauroux ⇒ (2) ≈LB Chateauroux≈ · ≈La Berrichonne de Chateauroux≈
+- **Clermont Foot 63** : (2) Clermont · Clermont Foot
+- **Le Havre AC** : (3) Le Havre · Havre AC · Le Havre Athletic Club Football
+- [**RC Lens**](https://en.wikipedia.org/wiki/RC_Lens) : (2) Lens · Racing Club de Lens
+- [**FC Lorient**](https://en.wikipedia.org/wiki/FC_Lorient) : (2) Lorient · Football Club Lorient-Bretagne Sud
+- **AS Nancy Lorraine** : (3) Nancy · AS Nancy-Lorraine · Association Sportive Nancy-Lorraine
+- **Chamois Niortais FC** : (3) Niort · Chamois Niortais · Chamois Niortais Football Club
+- **US Orléans** : (2) Orleans · Union sportive Orléans Loiret football ⇒ (2) ≈US Orleans≈ · ≈Union sportive Orleans Loiret football≈
+- **US Quevilly-Rouen Métropole** : (2) Quevilly Rouen · Quevilly-Rouen ⇒ (1) ≈US Quevilly-Rouen Metropole≈
+- **FC Sochaux-Montbéliard** : (2) Sochaux · Football Club de Sochaux-Montbéliard ⇒ (2) ≈FC Sochaux-Montbeliard≈ · ≈Football Club de Sochaux-Montbeliard≈
+- **Tours FC** : (2) Tours · Tours Football Club
+- **Valenciennes FC** : (2) Valenciennes · Valenciennes Football Club
+- **AC Arles-Avignon** : (3) Arles · AC Arles Avignon · Athletic Club Arles-Avignon
+- [**SC Bastia**](https://en.wikipedia.org/wiki/SC_Bastia) : (2) Bastia · Sporting Club de Bastia
+- **CA Bastia**
+- **AS Beauvais Oise** : (1) Beauvais
+- **Racing Besançon** : (2) Besancon · Besançon RC ⇒ (2) ≈Besancon RC≈ · ≈Racing Besancon≈
+- **US Boulogne** : (1) Boulogne
+- **AS Cannes** : (1) Cannes
+- **FCO Charleville** : (1) Charleville
+- **US Créteil** : (3) Creteil · US Créteil-Lusitanos · Union Sportive Créteil-Lusitanos ⇒ (3) ≈US Creteil≈ · ≈US Creteil-Lusitanos≈ · ≈Union Sportive Creteil-Lusitanos≈
+- **SAS Épinal** : (1) Epinal ⇒ (1) ≈SAS Epinal≈
+- **Évian TG FC** : (4) Evian Thonon Gaillard · Évian Thonon Gaillard FC · Évian Thonon-Gaillard FC · Evian Thonon Gaillard Football Club ⇒ (3) ≈Evian TG FC≈ · ≈Evian Thonon Gaillard FC≈ · ≈Evian Thonon-Gaillard FC≈
+- **Grenoble Foot 38** : (1) Grenoble
+- **FC Gueugnon** : (1) Gueugnon
+- **FC Istres** : (1) Istres
+- **Stade Lavallois** : (2) Laval · Stade Lavallois Mayenne Football Club
+- **Le Mans FC** : (1) Le Mans
+- **FC Libourne-Saint-Seurin** : (1) Libourne
+- **CS Louhans-Cuiseaux** : (1) Louhans-Cuis.
+- **FC Martigues** : (1) Martigues
+- **FC Mulhouse** : (1) Mulhouse
+- **Perpignan FC** : (1) Perpignan
+- **FC Rouen** : (1) Rouen
+- **CS Sedan-Ardennes** : (1) Sedan
+- **FC Sète** : (1) Sete ⇒ (1) ≈FC Sete≈
+- **Stade Briochin** : (1) St Brieuc
+- **Sporting Toulon Var** : (1) Toulon
+- **ASOA Valence** : (1) Valence
+- **Vannes OC** : (1) Vannes
+- **Wasquehal Foot** : (1) Wasquehal
 
 
 
@@ -101,7 +101,7 @@ Duplicates
 - **AC Arles-Avignon**, Avignon (1):
   - `acarlesavignon` (2): AC Arles-Avignon · AC Arles Avignon
 - **Évian TG FC**, Thonon-les-Bains (2):
-  - `Évianthonongaillardfc` (2): Évian Thonon Gaillard FC · Évian Thonon-Gaillard FC
+  - `évianthonongaillardfc` (2): Évian Thonon Gaillard FC · Évian Thonon-Gaillard FC
   - `evianthonongaillardfc` (2): Evian Thonon Gaillard FC · Evian Thonon-Gaillard FC
 
 

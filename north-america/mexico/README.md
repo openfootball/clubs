@@ -1,28 +1,28 @@
 23 clubs
 
--  : (1) Club America ⇒ (1) ≈Club America≈
-- 
--  : (2) U.N.A.M.- Pumas · Club Universidad Nacional
--  : (2) C.D. Guadalajara · Guadalajara Chivas
--  : (1) Atlas
--  : (1) Leones Negros
--  : (1) Monterrey
--  : (1) U.A.N.L.- Tigres
-- 
--  : (2) Puebla · Puebla F.C.
--  : (1) Atl. San Luis ⇒ (1) ≈Atletico San Luis≈
--  : (1) Atlante
--  : (1) Chiapas
--  : (1) Club Leon ⇒ (1) ≈Club Leon≈
-- 
--  : (1) Dorados de Sinaloa
--  : (1) Monarcas
--  : (1) Necaxa
--  : (1) Pachuca
--  : (1) Queretaro ⇒ (1) ≈Queretaro FC≈
-- 
--  : (2) Toluca · Club Toluca
--  : (2) Veracruz · Tiburones Rojos de Veracruz
+- [**Club América**](https://en.wikipedia.org/wiki/Club_América) : (1) Club America ⇒ (1) ≈Club America≈
+- [**Cruz Azul**](https://en.wikipedia.org/wiki/Cruz_Azul)
+- [**Pumas UNAM**](https://en.wikipedia.org/wiki/Club_Universidad_Nacional) : (2) U.N.A.M.- Pumas · Club Universidad Nacional
+- [**CD Guadalajara Chivas**](https://en.wikipedia.org/wiki/C.D._Guadalajara) : (2) C.D. Guadalajara · Guadalajara Chivas
+- [**Club Atlas**](https://en.wikipedia.org/wiki/Club_Atlas) : (1) Atlas
+- **Leones Negros U. de G.** : (1) Leones Negros
+- [**CF Monterrey**](https://en.wikipedia.org/wiki/C.F._Monterrey) : (1) Monterrey
+- [**Tigres UANL**](https://en.wikipedia.org/wiki/Tigres_UANL) : (1) U.A.N.L.- Tigres
+- [**Lobos BUAP**](https://en.wikipedia.org/wiki/Lobos_BUAP)
+- [**Club Puebla**](https://en.wikipedia.org/wiki/Puebla_F.C.) : (2) Puebla · Puebla F.C.
+- **Atlético San Luis** : (1) Atl. San Luis ⇒ (1) ≈Atletico San Luis≈
+- **Atlante FC** : (1) Atlante
+- **Jaguares Chiapas** : (1) Chiapas
+- [**Club León**](https://en.wikipedia.org/wiki/Club_León) : (1) Club Leon ⇒ (1) ≈Club Leon≈
+- [**Club Tijuana**](https://en.wikipedia.org/wiki/Club_Tijuana)
+- **Dorados Sinaloa** : (1) Dorados de Sinaloa
+- [**Monarcas Morelia**](https://en.wikipedia.org/wiki/Monarcas_Morelia) : (1) Monarcas
+- [**Club Necaxa**](https://en.wikipedia.org/wiki/Club_Necaxa) : (1) Necaxa
+- [**CF Pachuca**](https://en.wikipedia.org/wiki/C.F._Pachuca) : (1) Pachuca
+- [**Querétaro FC**](https://en.wikipedia.org/wiki/Querétaro_FC) : (1) Queretaro ⇒ (1) ≈Queretaro FC≈
+- [**Santos Laguna**](https://en.wikipedia.org/wiki/Santos_Laguna)
+- [**Deportivo Toluca FC**](https://en.wikipedia.org/wiki/Club_Toluca) : (2) Toluca · Club Toluca
+- [**Tiburones Rojos Veracruz**](https://en.wikipedia.org/wiki/Tiburones_Rojos_de_Veracruz) : (2) Veracruz · Tiburones Rojos de Veracruz
 
 
 

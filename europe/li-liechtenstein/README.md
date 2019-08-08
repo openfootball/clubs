@@ -1,7 +1,7 @@
 2 clubs
 
--  : (1) Vaduz
--  : (1) Eschen/Mauren
+- [**FC Vaduz**](https://en.wikipedia.org/wiki/FC_Vaduz) : (1) Vaduz
+- **FC USV Eschen/Mauren** : (1) Eschen/Mauren
 
 
 

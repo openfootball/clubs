@@ -1,15 +1,15 @@
 10 clubs
 
-- 
--  : (1) Slavija
--  : (1) Olimpic Sarajevo
--  : (1) Željezničar
--  : (2) Zrinjski · Zrinjski Mostar
--  : (1) Široki Brijeg
--  : (1) Borac
-- 
--  : (1) Sloboda
--  : (1) Radnik Bijeljina
+- **FK Sarajevo**
+- **FK Slavija Sarajevo** : (1) Slavija
+- **FK Olimpic Sarajevo** : (1) Olimpic Sarajevo
+- **FK Željezničar** : (1) Željezničar ⇒ (2) ≈Zeljeznicar≈ · ≈FK Zeljeznicar≈
+- **HŠK Zrinjski** : (2) Zrinjski · Zrinjski Mostar ⇒ (1) ≈HSK Zrinjski≈
+- **NK Široki Brijeg** : (1) Široki Brijeg ⇒ (2) ≈Siroki Brijeg≈ · ≈NK Siroki Brijeg≈
+- **FK Borac Banja Luka** : (1) Borac
+- **FK Modriča** ⇒ (1) ≈FK Modrica≈
+- **FK Sloboda Tuzla** : (1) Sloboda
+- **FK Radnik Bijeljina** : (1) Radnik Bijeljina
 
 
 
@@ -17,9 +17,9 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **č**  **Š**  **Ž** 
-  - **č** (U+010D / 269)×3 ⇒ **?**
-  - **Š** (U+0160 / 352)×3 ⇒ **?**
-  - **Ž** (U+017D / 381)×2 ⇒ **?**
+  - **č** (U+010D / 269)×3 ⇒ c
+  - **Š** (U+0160 / 352)×3 ⇒ S
+  - **Ž** (U+017D / 381)×2 ⇒ Z
 
 
 

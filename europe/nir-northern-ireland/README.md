@@ -1,15 +1,15 @@
 10 clubs
 
--  : (3) Derry · Derry City · Derry City FC
--  : (1) Linfield
--  : (1) Glentoran
--  : (1) Cliftonville
--  : (1) Crusaders
-- 
-- 
-- 
-- 
-- 
+- **Derry City F.C.** : (3) Derry · Derry City · Derry City FC
+- **Linfield FC** : (1) Linfield
+- **Glentoran FC** : (1) Glentoran
+- **Cliftonville FC** : (1) Cliftonville
+- **Crusaders FC** : (1) Crusaders
+- **Portadown FC**
+- **Lisburn Distillery FC**
+- **Glenavon FC**
+- **Coleraine FC**
+- **Ballymena United FC**
 
 
 

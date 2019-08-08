@@ -1,19 +1,19 @@
 14 clubs
 
--  : (5) Dinamo Kiev · Dynamo Kiew · Dynamo Kiev · Dynamo Kyiv · FC Dynamo Kiew
--  : (1) Arsenal Kyiv
--  : (4) Shakhtar Don. · Shakhtar Donetsk · Schachtar Donezk · Schachtjor Donezk
--  : (1) Metalurh Donetsk
--  : (1) Olimpik Donetsk
--  : (2) Metalist · Metalist Kharkiv
--  : (3) Dnipro · Dnipro Dnipropetrovsk · FC Dnipro Dnipropetrovsk
--  : (1) Vorskla
--  : (1) Karpaty
--  : (1) Tavriya
--  : (1) Zorya Luhansk
--  : (1) Mariupol
--  : (1) Olexandriya
--  : (1) Chornomorets Odesa
+- **FC Dynamo Kyiv** : (5) Dinamo Kiev · Dynamo Kiew · Dynamo Kiev · Dynamo Kyiv · FC Dynamo Kiew
+- **FC Arsenal Kyiv** : (1) Arsenal Kyiv
+- **FC Shakhtar Donetsk** : (4) Shakhtar Don. · Shakhtar Donetsk · Schachtar Donezk · Schachtjor Donezk
+- **FC Metalurh Donetsk** : (1) Metalurh Donetsk
+- **FC Olimpik Donetsk** : (1) Olimpik Donetsk
+- **FC Metalist Kharkiv** : (2) Metalist · Metalist Kharkiv
+- **FC Dnipro** : (3) Dnipro · Dnipro Dnipropetrovsk · FC Dnipro Dnipropetrovsk
+- **FC Vorskla Poltava** : (1) Vorskla
+- **FC Karpaty Lviv** : (1) Karpaty
+- **SC Tavriya Simferopol** : (1) Tavriya
+- **FC Zorya Luhansk** : (1) Zorya Luhansk
+- **FC Mariupol** : (1) Mariupol
+- **FC Olexandriya** : (1) Olexandriya
+- **FC Chornomorets Odesa** : (1) Chornomorets Odesa
 
 
 

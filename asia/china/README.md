@@ -1,30 +1,30 @@
 25 clubs
 
--  : (1) Beijing Guoan
--  : (1) Beijing Renhe F.C.
--  : (1) Shanghai SIPG F.C.
--  : (1) Shanghai Shenhua
--  : (1) Shanghai Shenxin F.C.
--  : (2) Guangzhou Evergrande · Guangzhou Evergrande Taobao F.C.
-- 
--  : (2) Chongqing Lifan · Chongqing Dangdai Lifan F.C.
-- 
--  : (1) Dalian Yifang F.C.
--  : (2) Guizhou Zhicheng · Guizhou Hengfeng Zhicheng F.C.
-- 
--  : (1) Shandong Luneng
--  : (2) Hebei · Hebei China Fortune F.C.
--  : (1) Jiangsu Suning F.C.
--  : (1) Shenzhen
--  : (1) Shijiazhuang
-- 
--  : (2) Tianjin Teda · Tianjin Teda F.C.
-- 
-- 
-- 
--  : (1) Liaoning
--  : (1) Yanbian
--  : (2) Harbin Yiteng · Zhejiang Yiteng
+- [**Beijing Sinobo Guoan**](https://en.wikipedia.org/wiki/Beijing_Sinobo_Guoan) : (1) Beijing Guoan
+- [**Beijing Renhe**](https://en.wikipedia.org/wiki/Beijing_Renhe_F.C.) : (1) Beijing Renhe F.C.
+- [**Shanghai SIPG**](https://en.wikipedia.org/wiki/Shanghai_SIPG_F.C.) : (1) Shanghai SIPG F.C.
+- [**Shanghai Greenland Shenhua**](https://en.wikipedia.org/wiki/Shanghai_Greenland_Shenhua) : (1) Shanghai Shenhua
+- **Shanghai Shenxin** : (1) Shanghai Shenxin F.C.
+- [**Guangzhou Evergrande Taobao**](https://en.wikipedia.org/wiki/Guangzhou_Evergrande_Taobao_F.C.) : (2) Guangzhou Evergrande · Guangzhou Evergrande Taobao F.C.
+- [**Guangzhou R&F**](https://en.wikipedia.org/wiki/Guangzhou_R&F)
+- [**Chongqing Dangdai Lifan**](https://en.wikipedia.org/wiki/Chongqing_Dangdai_Lifan_F.C.) : (2) Chongqing Lifan · Chongqing Dangdai Lifan F.C.
+- [**Changchun Yatai**](https://en.wikipedia.org/wiki/Changchun_Yatai)
+- [**Dalian Yifang**](https://en.wikipedia.org/wiki/Dalian_Yifang_F.C.) : (1) Dalian Yifang F.C.
+- [**Guizhou Hengfeng**](https://en.wikipedia.org/wiki/Guizhou_Hengfeng_Zhicheng_F.C.) : (2) Guizhou Zhicheng · Guizhou Hengfeng Zhicheng F.C.
+- **Hangzhou Greentown**
+- [**Shandong Luneng Taishan**](https://en.wikipedia.org/wiki/Shandong_Luneng_Taishan) : (1) Shandong Luneng
+- [**Hebei China Fortune**](https://en.wikipedia.org/wiki/Hebei_China_Fortune_F.C.) : (2) Hebei · Hebei China Fortune F.C.
+- [**Jiangsu Suning**](https://en.wikipedia.org/wiki/Jiangsu_Suning_F.C.) : (1) Jiangsu Suning F.C.
+- **Shenzhen F.C.** : (1) Shenzhen
+- **Shijiazhuang Ever Bright** : (1) Shijiazhuang
+- **Tianjin Tianhai**
+- [**Tianjin TEDA**](https://en.wikipedia.org/wiki/Tianjin_Teda_F.C.) : (2) Tianjin Teda · Tianjin Teda F.C.
+- [**Tianjin Quanjian**](https://en.wikipedia.org/wiki/Tianjin_Quanjian)
+- **Wuhan Zall**
+- [**Henan Jianye**](https://en.wikipedia.org/wiki/Henan_Jianye)
+- **Liaoning F.C.** : (1) Liaoning
+- **Yanbian Funde** : (1) Yanbian
+- **Zhejiang Yiteng F.C.** : (2) Harbin Yiteng · Zhejiang Yiteng
 
 
 

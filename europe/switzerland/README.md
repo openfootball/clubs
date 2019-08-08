@@ -1,27 +1,27 @@
 22 clubs
 
--  : (3) Grasshoppers · Grasshoppers Zurich · Grasshopper Club Zürich ⇒ (4) ≈Grasshoppers Zurich≈ · ≈Grasshoppers Zuerich≈ · ≈Grasshopper Club Zurich≈ · ≈Grasshopper Club Zuerich≈
--  : (3) Zürich · Zurich · FC Zurich ⇒ (4) ≈Zurich≈ · ≈Zuerich≈ · ≈FC Zurich≈ · ≈FC Zuerich≈
--  : (1) Winterthur
--  : (2) Basel · FC Basel 1893
--  : (4) BSC YB · Young Boys · Young Boys Bern · Berner Sport Club Young Boys
--  : (1) Biel-Bienne
--  : (2) Thun · FC Thun 1898
--  : (1) Luzern
--  : (1) St. Gallen
--  : (2) Wil · FC Wil 1900
-- 
--  : (1) Aarau
--  : (1) Wohlen
--  : (1) Sion
--  : (2) Xamax · Neuchâtel Xamax FCS ⇒ (2) ≈Xamax Neuchatel≈ · ≈Neuchatel Xamax FCS≈
--  : (2) Lausanne · FC Lausanne-Sport
--  : (1) FC Le Mont-sur-Lausanne,
--  : (3) Servette · Servette Genève · Servette FC Genève ⇒ (2) ≈Servette Geneve≈ · ≈Servette FC Geneve≈
--  : (1) Lugano
--  : (1) Chiasso
--  : (1) Locarno
--  : (1) Bellinzona
+- [**Grasshoppers Zürich**](https://en.wikipedia.org/wiki/Grasshopper_Club_Zürich) : (3) Grasshoppers · Grasshoppers Zurich · Grasshopper Club Zürich ⇒ (4) ≈Grasshoppers Zurich≈ · ≈Grasshoppers Zuerich≈ · ≈Grasshopper Club Zurich≈ · ≈Grasshopper Club Zuerich≈
+- [**FC Zürich**](https://en.wikipedia.org/wiki/FC_Zürich) : (3) Zürich · Zurich · FC Zurich ⇒ (4) ≈Zurich≈ · ≈Zuerich≈ · ≈FC Zurich≈ · ≈FC Zuerich≈
+- **FC Winterthur** : (1) Winterthur
+- [**FC Basel**](https://en.wikipedia.org/wiki/FC_Basel) : (2) Basel · FC Basel 1893
+- [**BSC Young Boys**](https://en.wikipedia.org/wiki/BSC_Young_Boys) : (4) BSC YB · Young Boys · Young Boys Bern · Berner Sport Club Young Boys
+- **FC Biel-Bienne** : (1) Biel-Bienne
+- [**FC Thun**](https://en.wikipedia.org/wiki/FC_Thun) : (2) Thun · FC Thun 1898
+- [**FC Luzern**](https://en.wikipedia.org/wiki/FC_Luzern) : (1) Luzern
+- [**FC St. Gallen**](https://en.wikipedia.org/wiki/FC_St._Gallen) : (1) St. Gallen
+- **FC Wil** : (2) Wil · FC Wil 1900
+- **FC Schaffhausen**
+- **FC Aarau** : (1) Aarau
+- **FC Wohlen** : (1) Wohlen
+- [**FC Sion**](https://en.wikipedia.org/wiki/FC_Sion) : (1) Sion
+- [**Xamax Neuchâtel**](https://en.wikipedia.org/wiki/Neuchâtel_Xamax_FCS) : (2) Xamax · Neuchâtel Xamax FCS ⇒ (2) ≈Xamax Neuchatel≈ · ≈Neuchatel Xamax FCS≈
+- [**FC Lausanne**](https://en.wikipedia.org/wiki/FC_Lausanne-Sport) : (2) Lausanne · FC Lausanne-Sport
+- **FC Le Mont** : (1) FC Le Mont-sur-Lausanne,
+- **Servette FC** : (3) Servette · Servette Genève · Servette FC Genève ⇒ (2) ≈Servette Geneve≈ · ≈Servette FC Geneve≈
+- [**FC Lugano**](https://en.wikipedia.org/wiki/FC_Lugano) : (1) Lugano
+- **FC Chiasso** : (1) Chiasso
+- **FC Locarno** : (1) Locarno
+- **AC Bellinzona** : (1) Bellinzona
 
 
 

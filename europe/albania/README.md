@@ -1,18 +1,18 @@
 13 clubs
 
--  : (2) Tirana · Klubi i Futbollit Tirana
--  : (2) Partizani · FK Partizani
-- 
--  : (4) Skënderbeu · KF Skënderbeu · Skënderbeu Korçë · KF Skënderbeu Korçë ⇒ (2) ≈Skënderbeu Korcë≈ · ≈KF Skënderbeu Korcë≈
--  : (2) Flamurtari · Flamurtari Vlorë
-- 
-- 
--  : (3) Teuta · KF Teuta · KF Teuta Durrës
--  : (1) Laçi ⇒ (2) ≈Laci≈ · ≈KF Laci≈
--  : (2) Kukës · Kukësi
--  : (2) Luftëtari · Luftëtari Gjirokastër FC
--  : (1) Kamza
--  : (1) Kastrioti
+- [**KF Tirana**](https://en.wikipedia.org/wiki/KF_Tirana) : (2) Tirana · Klubi i Futbollit Tirana
+- [**FK Partizani Tirana**](https://en.wikipedia.org/wiki/FK_Partizani_Tirana) : (2) Partizani · FK Partizani
+- **FK Dinamo Tirana**
+- [**KS Skënderbeu**](https://en.wikipedia.org/wiki/KF_Skënderbeu_Korçë) : (4) Skënderbeu · KF Skënderbeu · Skënderbeu Korçë · KF Skënderbeu Korçë ⇒ (5) ≈Skenderbeu≈ · ≈KS Skenderbeu≈ · ≈KF Skenderbeu≈ · ≈Skenderbeu Korce≈ · ≈KF Skenderbeu Korce≈
+- [**KS Flamurtari**](https://en.wikipedia.org/wiki/Flamurtari_Vlorë) : (2) Flamurtari · Flamurtari Vlorë ⇒ (1) ≈Flamurtari Vlore≈
+- **KF Vllaznia**
+- **KS Besa**
+- [**KS Teuta**](https://en.wikipedia.org/wiki/KF_Teuta_Durrës) : (3) Teuta · KF Teuta · KF Teuta Durrës ⇒ (1) ≈KF Teuta Durres≈
+- [**KF Laçi**](https://en.wikipedia.org/wiki/KF_Laçi) : (1) Laçi ⇒ (2) ≈Laci≈ · ≈KF Laci≈
+- [**FK Kukësi**](https://en.wikipedia.org/wiki/FK_Kukësi) : (2) Kukës · Kukësi ⇒ (3) ≈Kukes≈ · ≈Kukesi≈ · ≈FK Kukesi≈
+- [**KS Luftëtari**](https://en.wikipedia.org/wiki/Luftëtari_Gjirokastër_FC) : (2) Luftëtari · Luftëtari Gjirokastër FC ⇒ (3) ≈Luftetari≈ · ≈KS Luftetari≈ · ≈Luftetari Gjirokaster FC≈
+- [**FC Kamza**](https://en.wikipedia.org/wiki/FC_Kamza) : (1) Kamza
+- [**KS Kastrioti**](https://en.wikipedia.org/wiki/KS_Kastrioti) : (1) Kastrioti
 
 
 
@@ -21,7 +21,7 @@ Alphabet
 
 - **Alphabet Specials** (2):  **ç**  **ë** 
   - **ç** (U+00E7 / 231)×4 ⇒ c
-  - **ë** (U+00EB / 235)×16 ⇒ **?**
+  - **ë** (U+00EB / 235)×16 ⇒ e
 
 
 

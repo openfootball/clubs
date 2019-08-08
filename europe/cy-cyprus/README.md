@@ -1,13 +1,13 @@
 8 clubs
 
--  : (3) Omonia · AC Omonia · Omonia Nicosia
--  : (3) APOEL · APOEL FC · APOEL Nikosia
--  : (2) Anorthosis · Anorthosis Famagusta
--  : (3) AEL · AEL Limassol FC · Athlitiki Enosi Lemesou
--  : (1) Apollon
--  : (1) AEK Larnaca
--  : (1) APOP
--  : (1) Ermis
+- **AC Omonia Nicosia** : (3) Omonia · AC Omonia · Omonia Nicosia
+- **APOEL Nicosia FC** : (3) APOEL · APOEL FC · APOEL Nikosia
+- **Anorthosis Famagusta FC** : (2) Anorthosis · Anorthosis Famagusta
+- **AEL Limassol** : (3) AEL · AEL Limassol FC · Athlitiki Enosi Lemesou
+- **Apollon Limassol FC** : (1) Apollon
+- **AEK Larnaca FC** : (1) AEK Larnaca
+- **APOP/Kinyras Peyias FC** : (1) APOP
+- **Ermis Aradippou FC** : (1) Ermis
 
 
 

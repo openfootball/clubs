@@ -1,16 +1,16 @@
 11 clubs
 
-- 
-- 
--  ⇒ (1) ≈Neftci PFK≈
--  : (1) Qarabağ
--  ⇒ (2) ≈Xazar Lankaran FK≈ · ≈Xaezaer Laenkaeran FK≈
--  ⇒ (2) ≈Olimpik-Şuvalan PFK≈ · ≈Olimpik-Şuevaelan PFK≈
-- 
-- 
-- 
--  ⇒ (2) ≈Zira FK≈ · ≈Zirae FK≈
--  ⇒ (2) ≈Kapaz PFK≈ · ≈Kaepaez PFK≈
+- **Bakı FK** ⇒ (1) ≈Baki FK≈
+- **İnter Bakı PİK** ⇒ (1) ≈Inter Baki PIK≈
+- **Neftçi PFK** ⇒ (1) ≈Neftci PFK≈
+- **Qarabağ FK** : (1) Qarabağ ⇒ (2) ≈Qarabag≈ · ≈Qarabag FK≈
+- **Xäzär Länkäran FK** ⇒ (2) ≈Xazar Lankaran FK≈ · ≈Xaezaer Laenkaeran FK≈
+- **Olimpik-Şüvälan PFK** ⇒ (2) ≈Olimpik-Suvalan PFK≈ · ≈Olimpik-Şuevaelan PFK≈
+- **Simurq PFK**
+- **Gabala SC**
+- **Keşla FK** ⇒ (1) ≈Kesla FK≈
+- **Zirä FK** ⇒ (2) ≈Zira FK≈ · ≈Zirae FK≈
+- **Käpäz PFK** ⇒ (2) ≈Kapaz PFK≈ · ≈Kaepaez PFK≈
 
 
 
@@ -21,11 +21,11 @@ Alphabet
   - **ä** (U+00E4 / 228)×8 ⇒ a•ae
   - **ç** (U+00E7 / 231)×1 ⇒ c
   - **ü** (U+00FC / 252)×1 ⇒ u•ue
-  - **ğ** (U+011F / 287)×2 ⇒ **?**
-  - **İ** (U+0130 / 304)×2 ⇒ **?**
-  - **ı** (U+0131 / 305)×2 ⇒ **?**
-  - **Ş** (U+015E / 350)×1 ⇒ **?**
-  - **ş** (U+015F / 351)×1 ⇒ **?**
+  - **ğ** (U+011F / 287)×2 ⇒ g
+  - **İ** (U+0130 / 304)×2 ⇒ I
+  - **ı** (U+0131 / 305)×2 ⇒ i
+  - **Ş** (U+015E / 350)×1 ⇒ S
+  - **ş** (U+015F / 351)×1 ⇒ s
 
 
 

@@ -1,33 +1,33 @@
 28 clubs
 
--  : (5) Fenerbahce · Fenerbahçe · Fenerbahçe SK · Fenerbahçe Spor Kulübü · Fenerbahçe Sports Club ⇒ (6) ≈Fenerbahce≈ · ≈Fenerbahce SK≈ · ≈Fenerbahce Spor Kulubu≈ · ≈Fenerbahce İstanbul SK≈ · ≈Fenerbahce Sports Club≈ · ≈Fenerbahçe Spor Kuluebue≈
--  : (4) Galatasaray · Galatasaray AŞ · Galatasaray SK · Galatasaray Istanbul
--  : (3) Besiktas · Beşiktaş · Beşiktaş JK
--  : (3) Kasimpasa · Kasımpaşa · Kasımpaşa S.K.
--  : (3) Buyuksehyr · İstanbul Başakşehir F.K. · İstanbul Büyükşehir Belediyespor ⇒ (2) ≈İstanbul Buyukşehir Belediyespor≈ · ≈İstanbul Bueyuekşehir Belediyespor≈
--  : (1) Genclerbirligi ⇒ (1) ≈Genclerbirliği Ankara SK≈
--  : (2) Osmanlispor · Osmanlıspor
--  : (1) Ankaragücü ⇒ (4) ≈Ankaragucu≈ · ≈Ankaraguecue≈ · ≈MKE Ankaragucu≈ · ≈MKE Ankaraguecue≈
--  : (2) Karabükspor · Karabukspor ⇒ (4) ≈Karabukspor≈ · ≈Karabuekspor≈ · ≈Kardemir Karabukspor≈ · ≈Kardemir Karabuekspor≈
--  : (1) Elazigspor
--  : (1) Eskisehirspor
--  : (1) Akhisar
-- 
-- 
-- 
--  : (3) Goztep · Göztepe · Göztepe S.K. ⇒ (6) ≈Goztepe≈ · ≈Goeztepe≈ · ≈Goztepe S.K.≈ · ≈Goztepe Izmir≈ · ≈Goeztepe S.K.≈ · ≈Goeztepe Izmir≈
-- 
--  : (1) Erciyesspor
-- 
-- 
--  : (1) Trabzonspor
-- 
-- 
-- 
--  : (1) Rizespor
--  : (1) Balikesirspor
--  : (1) Mersin Idman Yurdu
--  : (2) Erzurum BB · Büyükşehir Belediye Erzurumspor ⇒ (2) ≈Buyukşehir Belediye Erzurumspor≈ · ≈Bueyuekşehir Belediye Erzurumspor≈
+- [**Fenerbahçe İstanbul SK**](https://en.wikipedia.org/wiki/Fenerbahçe_S.K._(football)) : (5) Fenerbahce · Fenerbahçe · Fenerbahçe SK · Fenerbahçe Spor Kulübü · Fenerbahçe Sports Club ⇒ (6) ≈Fenerbahce≈ · ≈Fenerbahce SK≈ · ≈Fenerbahce Spor Kulubu≈ · ≈Fenerbahce Istanbul SK≈ · ≈Fenerbahce Sports Club≈ · ≈Fenerbahçe Spor Kuluebue≈
+- [**Galatasaray İstanbul AŞ**](https://en.wikipedia.org/wiki/Galatasaray_S.K._(football)) : (4) Galatasaray · Galatasaray AŞ · Galatasaray SK · Galatasaray Istanbul ⇒ (2) ≈Galatasaray AS≈ · ≈Galatasaray Istanbul AS≈
+- [**Beşiktaş İstanbul JK**](https://en.wikipedia.org/wiki/Beşiktaş_J.K.) : (3) Besiktas · Beşiktaş · Beşiktaş JK ⇒ (3) ≈Besiktas≈ · ≈Besiktas JK≈ · ≈Besiktas Istanbul JK≈
+- [**Kasımpaşa İstanbul SK**](https://en.wikipedia.org/wiki/Kasımpaşa_S.K.) : (3) Kasimpasa · Kasımpaşa · Kasımpaşa S.K. ⇒ (3) ≈Kasimpasa≈ · ≈Kasimpasa S.K.≈ · ≈Kasimpasa Istanbul SK≈
+- [**İstanbul Başakşehir**](https://en.wikipedia.org/wiki/İstanbul_Başakşehir_F.K.) : (3) Buyuksehyr · İstanbul Başakşehir F.K. · İstanbul Büyükşehir Belediyespor ⇒ (4) ≈Istanbul Basaksehir≈ · ≈Istanbul Basaksehir F.K.≈ · ≈Istanbul Buyuksehir Belediyespor≈ · ≈İstanbul Bueyuekşehir Belediyespor≈
+- **Gençlerbirliği Ankara SK** : (1) Genclerbirligi ⇒ (1) ≈Genclerbirligi Ankara SK≈
+- **Osmanlıspor Ankara** : (2) Osmanlispor · Osmanlıspor ⇒ (2) ≈Osmanlispor≈ · ≈Osmanlispor Ankara≈
+- [**MKE Ankaragücü**](https://en.wikipedia.org/wiki/MKE_Ankaragücü) : (1) Ankaragücü ⇒ (4) ≈Ankaragucu≈ · ≈Ankaraguecue≈ · ≈MKE Ankaragucu≈ · ≈MKE Ankaraguecue≈
+- **Kardemir Karabükspor** : (2) Karabükspor · Karabukspor ⇒ (4) ≈Karabukspor≈ · ≈Karabuekspor≈ · ≈Kardemir Karabukspor≈ · ≈Kardemir Karabuekspor≈
+- **Elazığspor** : (1) Elazigspor ⇒ (1) ≈Elazigspor≈
+- **Eskişehirspor** : (1) Eskisehirspor ⇒ (1) ≈Eskisehirspor≈
+- [**Akhisar Belediyespor**](https://en.wikipedia.org/wiki/Akhisar_Belediyespor) : (1) Akhisar
+- [**Alanyaspor**](https://en.wikipedia.org/wiki/Alanyaspor)
+- [**Antalyaspor**](https://en.wikipedia.org/wiki/Antalyaspor)
+- [**Bursaspor**](https://en.wikipedia.org/wiki/Bursaspor)
+- [**Göztepe Izmir**](https://en.wikipedia.org/wiki/Göztepe_S.K.) : (3) Goztep · Göztepe · Göztepe S.K. ⇒ (6) ≈Goztepe≈ · ≈Goeztepe≈ · ≈Goztepe S.K.≈ · ≈Goztepe Izmir≈ · ≈Goeztepe S.K.≈ · ≈Goeztepe Izmir≈
+- [**Kayserispor**](https://en.wikipedia.org/wiki/Kayserispor)
+- **Kayseri Erciyesspor** : (1) Erciyesspor
+- [**Konyaspor**](https://en.wikipedia.org/wiki/Konyaspor)
+- [**Sivasspor**](https://en.wikipedia.org/wiki/Sivasspor)
+- [**Trabzonspor AŞ**](https://en.wikipedia.org/wiki/Trabzonspor) : (1) Trabzonspor ⇒ (1) ≈Trabzonspor AS≈
+- [**Yeni Malatyaspor**](https://en.wikipedia.org/wiki/Yeni_Malatyaspor)
+- **Adanaspor**
+- **Gaziantepspor**
+- [**Çaykur Rizespor**](https://en.wikipedia.org/wiki/Çaykur_Rizespor) : (1) Rizespor ⇒ (1) ≈Caykur Rizespor≈
+- **Balıkesirspor** : (1) Balikesirspor ⇒ (1) ≈Balikesirspor≈
+- **Mersin İdmanyurdu** : (1) Mersin Idman Yurdu ⇒ (1) ≈Mersin Idmanyurdu≈
+- [**BB Erzurumspor**](https://en.wikipedia.org/wiki/Büyükşehir_Belediye_Erzurumspor) : (2) Erzurum BB · Büyükşehir Belediye Erzurumspor ⇒ (2) ≈Buyuksehir Belediye Erzurumspor≈ · ≈Bueyuekşehir Belediye Erzurumspor≈
 
 
 
@@ -35,15 +35,15 @@
 Alphabet
 
 - **Alphabet Specials** (9):  **Ç**  **ç**  **ö**  **ü**  **ğ**  **İ**  **ı**  **Ş**  **ş** 
-  - **Ç** (U+00C7 / 199)×1 ⇒ **?**
+  - **Ç** (U+00C7 / 199)×1 ⇒ C
   - **ç** (U+00E7 / 231)×6 ⇒ c
   - **ö** (U+00F6 / 246)×3 ⇒ o•oe
   - **ü** (U+00FC / 252)×12 ⇒ u•ue
-  - **ğ** (U+011F / 287)×2 ⇒ **?**
-  - **İ** (U+0130 / 304)×8 ⇒ **?**
-  - **ı** (U+0131 / 305)×7 ⇒ **?**
-  - **Ş** (U+015E / 350)×3 ⇒ **?**
-  - **ş** (U+015F / 351)×16 ⇒ **?**
+  - **ğ** (U+011F / 287)×2 ⇒ g
+  - **İ** (U+0130 / 304)×8 ⇒ I
+  - **ı** (U+0131 / 305)×7 ⇒ i
+  - **Ş** (U+015E / 350)×3 ⇒ S
+  - **ş** (U+015F / 351)×16 ⇒ s
 
 
 
@@ -52,8 +52,22 @@ Duplicates
 
 - **Fenerbahçe İstanbul SK**, İstanbul (1):
   - `fenerbahce` (2): **Fenerbahce** · **Fenerbahce**
+- **Beşiktaş İstanbul JK**, İstanbul (1):
+  - `besiktas` (2): **Besiktas** · **Besiktas**
+- **Kasımpaşa İstanbul SK**, İstanbul (1):
+  - `kasimpasa` (2): **Kasimpasa** · **Kasimpasa**
+- **Osmanlıspor Ankara**, Ankara (1):
+  - `osmanlispor` (2): **Osmanlispor** · **Osmanlispor**
 - **Kardemir Karabükspor**, Karabük (1):
   - `karabukspor` (2): **Karabukspor** · **Karabukspor**
+- **Elazığspor**, Elazığ (1):
+  - `elazigspor` (2): **Elazigspor** · **Elazigspor**
+- **Eskişehirspor**, Eskişehir (1):
+  - `eskisehirspor` (2): **Eskisehirspor** · **Eskisehirspor**
+- **Balıkesirspor**, Balıkesir (1):
+  - `balikesirspor` (2): **Balikesirspor** · **Balikesirspor**
+- **Mersin İdmanyurdu**, Mersin (1):
+  - `mersinidmanyurdu` (2): Mersin Idman Yurdu · Mersin Idmanyurdu
 
 
 

@@ -1,13 +1,13 @@
 8 clubs
 
--  : (2) Lincoln Red Imps · Lincoln Red Imps FC
-- 
-- 
--  : (1) Europa FC
-- 
-- 
--  : (1) St Joseph's FC
-- 
+- **Lincoln FC** : (2) Lincoln Red Imps · Lincoln Red Imps FC
+- **Manchester 62 FC**
+- **Lynx FC**
+- **College Europa FC** : (1) Europa FC
+- **Glacis United FC**
+- **Lions Gibraltar FC**
+- **St Joseph's FRAC** : (1) St Joseph's FC
+- **Gibraltar Phoenix FC**
 
 
 

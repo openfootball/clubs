@@ -257,6 +257,17 @@ Club Name Duplicates
 
 **Denmark (dk)**
 
+- **FC København**, København (1):
+  - `kobenhavn` (2): **Kobenhavn** · **Kobenhavn**
+- **Brøndby IF**, Brøndbyvester (2):
+  - `brondby` (2): **Brondby** · **Brondby**
+  - `brondbyif` (2): **Brondby IF** · **Brondby IF**
+- **FC Nordsjælland**, Farum (1):
+  - `nordsjaelland` (2): **Nordsjaelland** · **Nordsjaelland**
+- **FC Helsingør**, Helsingør (1):
+  - `helsingor` (2): **Helsingor** · **Helsingor**
+- **Sønderjysk Elitesport**, Haderslev (1):
+  - `sonderjyske` (2): Sonderjyske · SonderjyskE
 
 
 
@@ -319,7 +330,7 @@ Club Name Duplicates
 - **AC Arles-Avignon**, Avignon (1):
   - `acarlesavignon` (2): AC Arles-Avignon · AC Arles Avignon
 - **Évian TG FC**, Thonon-les-Bains (2):
-  - `Évianthonongaillardfc` (2): Évian Thonon Gaillard FC · Évian Thonon-Gaillard FC
+  - `évianthonongaillardfc` (2): Évian Thonon Gaillard FC · Évian Thonon-Gaillard FC
   - `evianthonongaillardfc` (2): Evian Thonon Gaillard FC · Evian Thonon-Gaillard FC
 
 
@@ -401,6 +412,8 @@ Club Name Duplicates
 
 - **KR Reykjavík**, Reykjavík (1):
   - `krreykjavik` (2): **KR Reykjavik** · **KR Reykjavik**
+- **ÍA Akranes**, Akranes (1):
+  - `iaakranes` (2): **IA Akranes** · **IA Akranes**
 
 
 
@@ -463,6 +476,9 @@ Club Name Duplicates
 
 **Macedonia (mk)**
 
+- **FK Rabotnički**,  (2):
+  - `rabotnicki` (2): **Rabotnicki** · **Rabotnicki**
+  - `fkrabotnicki` (2): **FK Rabotnicki** · **FK Rabotnicki**
 
 
 
@@ -497,6 +513,22 @@ Club Name Duplicates
 
 **Norway (no)**
 
+- **Vålerenga Fotball**, Oslo (1):
+  - `valerenga` (2): **Valerenga** · **Valerenga**
+- **Tromsø IL**, Tromsø (1):
+  - `tromso` (2): **Tromso** · **Tromso**
+- **Strømsgodset IF**, Drammen (1):
+  - `stromsgodset` (2): **Stromsgodset** · **Stromsgodset**
+- **Lillestrøm SK**, Lillestrøm (1):
+  - `lillestrom` (2): **Lillestrom** · **Lillestrom**
+- **Stabæk**, Bærum (1):
+  - `stabaek` (2): **Stabaek** · **Stabaek**
+- **Mjøndalen IF**, Mjøndalen (1):
+  - `mjondalen` (2): **Mjondalen** · **Mjondalen**
+- **Bodø/Glimt**, Bodø (1):
+  - `bodoglimt` (2): **Bodo/Glimt** · **Bodo/Glimt**
+- **Hønefoss BK**, Hønefoss (1):
+  - `honefoss` (2): **Honefoss** · **Honefoss**
 
 
 
@@ -505,6 +537,16 @@ Club Name Duplicates
 
 - **Górnik Zabrze**, Zabrze (1):
   - `gornikzabrze` (2): **Gornik Zabrze** · **Gornik Zabrze**
+- **GKS Bełchatów**, Bełchatów (1):
+  - `gksbelchatow` (2): **GKS Belchatow** · **GKS Belchatow**
+- **Lechia Gdańsk**, Gdańsk (1):
+  - `lechiagdansk` (2): **Lechia Gdansk** · **Lechia Gdansk**
+- **Pogoń Szczecin**, Szczecin (1):
+  - `pogonszczecin` (2): **Pogon Szczecin** · **Pogon Szczecin**
+- **Widzew Łódź**, Łódź (1):
+  - `widzewlodz` (2): **Widzew Lodz** · **Widzew Lodz**
+- **Zagłębie Sosnowiec**, Sosnowiec (1):
+  - `zaglebiesosnowiec` (2): **Zaglebie Sosnowiec** · **Zaglebie Sosnowiec**
 
 
 
@@ -523,8 +565,46 @@ Club Name Duplicates
 
 **Romania (ro)**
 
+- **Steaua București**, București (2):
+  - `steauabucuresti` (2): **Steaua Bucuresti** · **Steaua Bucuresti**
+  - `fcsteauabucuresti` (2): **FC Steaua Bucuresti** · **FC Steaua Bucuresti**
+- **Dinamo București**, București (2):
+  - `dinamobucuresti` (3): **Dinamo Bucuresti** · **Dinamo Bucuresti** · **Dinamo Bucuresti**
+  - `fcdinamobucuresti` (2): **FC Dinamo Bucuresti** · **FC Dinamo Bucuresti**
+- **Rapid București**, București (2):
+  - `fcrapidbucuresti` (2): **FC Rapid Bucuresti** · **FC Rapid Bucuresti**
+  - `rapidbucuresti` (2): **Rapid Bucuresti** · **Rapid Bucuresti**
+- **Daco-Getica București**, București (1):
+  - `dacogeticabucuresti` (2): **Daco-Getica Bucuresti** · **Daco-Getica Bucuresti**
 - **U Cluj**, Cluj (1):
   - `ucluj` (2): U Cluj · U. Cluj
+- **Ceahlăul Piatra Neamț**, Piatra Neamț (1):
+  - `ceahlaulpiatraneamt` (2): **Ceahlaul Piatra Neamt** · **Ceahlaul Piatra Neamt**
+- **Gaz Metan Mediaș**, Mediaș (1):
+  - `gazmetanmedias` (2): **Gaz Metan Medias** · **Gaz Metan Medias**
+- **Gloria Bistrița**, Bistrița (1):
+  - `gloriabistrita` (2): **Gloria Bistrita** · **Gloria Bistrita**
+- **FC Petrolul Ploiești**, Ploiești (2):
+  - `petrolulploiesti` (2): **Petrolul Ploiesti** · **Petrolul Ploiesti**
+  - `fcpetrolulploiesti` (2): **FC Petrolul Ploiesti** · **FC Petrolul Ploiesti**
+- **Corona Brașov**, Brașov (1):
+  - `coronabrasov` (2): **Corona Brasov** · **Corona Brasov**
+- **FC Brașov**, Brașov (1):
+  - `fcbrasov` (2): **FC Brasov** · **FC Brasov**
+- **Chindia Târgoviște**, Târgoviște (1):
+  - `chindiatargoviste` (2): **Chindia Targoviste** · **Chindia Targoviste**
+- **FC Botoșani**, Botoșani (1):
+  - `fcbotosani` (3): **FC Botosani** · **FC Botosani** · **FC Botosani**
+- **Oțelul Galați**, Galați (2):
+  - `otelul` (3): **Otelul** · **Otelul** · **Otelul**
+  - `otelulgalati` (2): **Otelul Galati** · **Otelul Galati**
+- **FC Politehnica Iași**, Iași (1):
+  - `poliiasi` (2): **Poli Iasi** · **Poli Iasi**
+- **Poli Timișoara**, Timișoara (1):
+  - `politimisoara` (2): **Poli Timisoara** · **Poli Timisoara**
+- **Târgu Mureș**, Târgu Mureș (2):
+  - `targumures` (3): **Targu Mures** · **Targu Mures** · **Targu Mures**
+  - `asatargumures` (2): **ASA Targu Mures** · **ASA Targu Mures**
 
 
 
@@ -563,6 +643,8 @@ Club Name Duplicates
 
 **Sweden (se)**
 
+- **Djurgårdens IF**, Stockholm (1):
+  - `djurgarden` (2): **Djurgarden** · **Djurgarden**
 - **IFK Göteborg**, Göteborg (2):
   - `goteborg` (2): **Goteborg** · **Goteborg**
   - `ifkgoteborg` (2): **IFK Goteborg** · **IFK Goteborg**
@@ -588,6 +670,8 @@ Club Name Duplicates
 
 **Slovakia (sk)**
 
+- **ŠK Slovan Bratislava**, Bratislava (1):
+  - `skslovanbratislava` (2): **SK Slovan Bratislava** · **SK Slovan Bratislava**
 
 
 
@@ -621,8 +705,22 @@ Club Name Duplicates
 
 - **Fenerbahçe İstanbul SK**, İstanbul (1):
   - `fenerbahce` (2): **Fenerbahce** · **Fenerbahce**
+- **Beşiktaş İstanbul JK**, İstanbul (1):
+  - `besiktas` (2): **Besiktas** · **Besiktas**
+- **Kasımpaşa İstanbul SK**, İstanbul (1):
+  - `kasimpasa` (2): **Kasimpasa** · **Kasimpasa**
+- **Osmanlıspor Ankara**, Ankara (1):
+  - `osmanlispor` (2): **Osmanlispor** · **Osmanlispor**
 - **Kardemir Karabükspor**, Karabük (1):
   - `karabukspor` (2): **Karabukspor** · **Karabukspor**
+- **Elazığspor**, Elazığ (1):
+  - `elazigspor` (2): **Elazigspor** · **Elazigspor**
+- **Eskişehirspor**, Eskişehir (1):
+  - `eskisehirspor` (2): **Eskisehirspor** · **Eskisehirspor**
+- **Balıkesirspor**, Balıkesir (1):
+  - `balikesirspor` (2): **Balikesirspor** · **Balikesirspor**
+- **Mersin İdmanyurdu**, Mersin (1):
+  - `mersinidmanyurdu` (2): Mersin Idman Yurdu · Mersin Idmanyurdu
 
 
 

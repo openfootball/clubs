@@ -1,10 +1,10 @@
 5 clubs
 
--  : (1) Sant Julià ⇒ (2) ≈Sant Julia≈ · ≈UE Sant Julia≈
-- 
-- 
-- 
-- 
+- **UE Sant Julià** : (1) Sant Julià ⇒ (2) ≈Sant Julia≈ · ≈UE Sant Julia≈
+- **FC Santa Coloma**
+- **UE Santa Coloma**
+- **FC Lusitans**
+- **UE Engordany**
 
 
 

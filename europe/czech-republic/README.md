@@ -1,23 +1,23 @@
 18 clubs
 
--  : (4) Sparta Praha · Sparta Prague · AC Sparta Prague [en] · Athletic Club Sparta Praha
--  : (2) Dukla · FK Dukla Prague [en]
--  : (4) Slavia Praha · Slavia Prague [en] · SK Slavia Prague [en] · Sportovní klub Slavia Praha ⇒ (1) ≈Sportovni klub Slavia Praha≈
--  : (1) Bohemians 1905
--  : (2) Mladá Boleslav · Fotbalový klub Mladá Boleslav ⇒ (3) ≈Mlada Boleslav≈ · ≈FK Mlada Boleslav≈ · ≈Fotbalový klub Mlada Boleslav≈
--  : (1) Příbram ⇒ (2) ≈Přibram≈ · ≈1. FK Přibram≈
--  : (3) Plzeň · FC Viktoria Plzeň · Football Club Viktoria Plzeň
--  : (2) Liberec · Football Club Slovan Liberec
--  : (1) Jablonec
--  : (1) Baník ⇒ (2) ≈Banik≈ · ≈FC Banik Ostrava≈
--  : (1) Sigma
--  : (1) Teplice
--  : (1) Slovácko ⇒ (2) ≈Slovacko≈ · ≈1. FC Slovacko≈
--  : (3) Zlín · Fastav Zlín · FC Fastav Zlín ⇒ (4) ≈Zlin≈ · ≈FC Zlin≈ · ≈Fastav Zlin≈ · ≈FC Fastav Zlin≈
--  : (1) Jihlava
--  : (1) Brno
--  : (1) Karviná ⇒ (2) ≈Karvina≈ · ≈MFK Karvina≈
--  : (1) Opava
+- [**AC Sparta Praha**](https://en.wikipedia.org/wiki/AC_Sparta_Prague) : (4) Sparta Praha · Sparta Prague · AC Sparta Prague [en] · Athletic Club Sparta Praha
+- [**FK Dukla Praha**](https://en.wikipedia.org/wiki/FK_Dukla_Prague) : (2) Dukla · FK Dukla Prague [en]
+- [**SK Slavia Praha**](https://en.wikipedia.org/wiki/SK_Slavia_Prague) : (4) Slavia Praha · Slavia Prague [en] · SK Slavia Prague [en] · Sportovní klub Slavia Praha ⇒ (1) ≈Sportovni klub Slavia Praha≈
+- [**Bohemians Praha 1905**](https://en.wikipedia.org/wiki/Bohemians_1905) : (1) Bohemians 1905
+- [**FK Mladá Boleslav**](https://en.wikipedia.org/wiki/FK_Mladá_Boleslav) : (2) Mladá Boleslav · Fotbalový klub Mladá Boleslav ⇒ (3) ≈Mlada Boleslav≈ · ≈FK Mlada Boleslav≈ · ≈Fotbalovy klub Mlada Boleslav≈
+- [**1. FK Příbram**](https://en.wikipedia.org/wiki/1._FK_Příbram) : (1) Příbram ⇒ (2) ≈Pribram≈ · ≈1. FK Pribram≈
+- [**Viktoria Plzeň**](https://en.wikipedia.org/wiki/FC_Viktoria_Plzeň) : (3) Plzeň · FC Viktoria Plzeň · Football Club Viktoria Plzeň ⇒ (4) ≈Plzen≈ · ≈Viktoria Plzen≈ · ≈FC Viktoria Plzen≈ · ≈Football Club Viktoria Plzen≈
+- [**FC Slovan Liberec**](https://en.wikipedia.org/wiki/FC_Slovan_Liberec) : (2) Liberec · Football Club Slovan Liberec
+- [**FK Jablonec**](https://en.wikipedia.org/wiki/FK_Jablonec) : (1) Jablonec
+- [**FC Baník Ostrava**](https://en.wikipedia.org/wiki/FC_Baník_Ostrava) : (1) Baník ⇒ (2) ≈Banik≈ · ≈FC Banik Ostrava≈
+- [**SK Sigma Olomouc**](https://en.wikipedia.org/wiki/SK_Sigma_Olomouc) : (1) Sigma
+- [**FK Teplice**](https://en.wikipedia.org/wiki/FK_Teplice) : (1) Teplice
+- [**1. FC Slovácko**](https://en.wikipedia.org/wiki/1._FC_Slovácko) : (1) Slovácko ⇒ (2) ≈Slovacko≈ · ≈1. FC Slovacko≈
+- [**FC Zlín**](https://en.wikipedia.org/wiki/FC_Fastav_Zlín) : (3) Zlín · Fastav Zlín · FC Fastav Zlín ⇒ (4) ≈Zlin≈ · ≈FC Zlin≈ · ≈Fastav Zlin≈ · ≈FC Fastav Zlin≈
+- [**FC Vysočina Jihlava**](https://en.wikipedia.org/wiki/FC_Vysočina_Jihlava) : (1) Jihlava ⇒ (1) ≈FC Vysocina Jihlava≈
+- [**FC Zbrojovka Brno**](https://en.wikipedia.org/wiki/FC_Zbrojovka_Brno) : (1) Brno
+- [**MFK Karviná**](https://en.wikipedia.org/wiki/MFK_Karviná) : (1) Karviná ⇒ (2) ≈Karvina≈ · ≈MFK Karvina≈
+- [**SFC Opava**](https://en.wikipedia.org/wiki/SFC_Opava) : (1) Opava
 
 
 
@@ -27,10 +27,10 @@ Alphabet
 - **Alphabet Specials** (6):  **á**  **í**  **ý**  **č**  **ň**  **ř** 
   - **á** (U+00E1 / 225)×7 ⇒ a
   - **í** (U+00ED / 237)×9 ⇒ i
-  - **ý** (U+00FD / 253)×1 ⇒ **?**
-  - **č** (U+010D / 269)×1 ⇒ **?**
-  - **ň** (U+0148 / 328)×4 ⇒ **?**
-  - **ř** (U+0159 / 345)×2 ⇒ **?**
+  - **ý** (U+00FD / 253)×1 ⇒ y
+  - **č** (U+010D / 269)×1 ⇒ c
+  - **ň** (U+0148 / 328)×4 ⇒ n
+  - **ř** (U+0159 / 345)×2 ⇒ r
 
 
 

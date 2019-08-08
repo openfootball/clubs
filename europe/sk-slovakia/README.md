@@ -1,17 +1,17 @@
 12 clubs
 
--  : (2) Slovan Bratislava · SK Slovan Bratislava
--  : (1) Žilina
--  : (1) Spartak Trnava
--  : (1) Senica
--  : (1) Košice
--  : (1) Banská Bystrica ⇒ (2) ≈Banska Bystrica≈ · ≈Dukla Banska Bystrica≈
--  : (1) Nitra
-- 
--  : (1) Trenčín ⇒ (2) ≈Trenčin≈ · ≈AS Trenčin≈
--  : (1) Dunajská Streda ⇒ (2) ≈Dunajska Streda≈ · ≈FC DAC 1904 Dunajska Streda≈
--  : (1) Ružomberok
--  : (1) Spartak Myjava
+- **ŠK Slovan Bratislava** : (2) Slovan Bratislava · SK Slovan Bratislava ⇒ (1) ≈SK Slovan Bratislava≈
+- **MŠK Žilina** : (1) Žilina ⇒ (2) ≈Zilina≈ · ≈MSK Zilina≈
+- **FC Spartak Trnava** : (1) Spartak Trnava
+- **FK Senica** : (1) Senica
+- **MFK Košice** : (1) Košice ⇒ (2) ≈Kosice≈ · ≈MFK Kosice≈
+- **Dukla Banská Bystrica** : (1) Banská Bystrica ⇒ (2) ≈Banska Bystrica≈ · ≈Dukla Banska Bystrica≈
+- **FC Nitra** : (1) Nitra
+- **MFK Petržalka** ⇒ (1) ≈MFK Petrzalka≈
+- **AS Trenčín** : (1) Trenčín ⇒ (2) ≈Trencin≈ · ≈AS Trencin≈
+- **FC DAC 1904 Dunajská Streda** : (1) Dunajská Streda ⇒ (2) ≈Dunajska Streda≈ · ≈FC DAC 1904 Dunajska Streda≈
+- **MFK Ružomberok** : (1) Ružomberok ⇒ (2) ≈Ruzomberok≈ · ≈MFK Ruzomberok≈
+- **TJ Spartak Myjava** : (1) Spartak Myjava
 
 
 
@@ -21,17 +21,19 @@ Alphabet
 - **Alphabet Specials** (7):  **á**  **í**  **č**  **Š**  **š**  **Ž**  **ž** 
   - **á** (U+00E1 / 225)×4 ⇒ a
   - **í** (U+00ED / 237)×2 ⇒ i
-  - **č** (U+010D / 269)×2 ⇒ **?**
-  - **Š** (U+0160 / 352)×2 ⇒ **?**
-  - **š** (U+0161 / 353)×2 ⇒ **?**
-  - **Ž** (U+017D / 381)×2 ⇒ **?**
-  - **ž** (U+017E / 382)×3 ⇒ **?**
+  - **č** (U+010D / 269)×2 ⇒ c
+  - **Š** (U+0160 / 352)×2 ⇒ S
+  - **š** (U+0161 / 353)×2 ⇒ s
+  - **Ž** (U+017D / 381)×2 ⇒ Z
+  - **ž** (U+017E / 382)×3 ⇒ z
 
 
 
 
 Duplicates
 
+- **ŠK Slovan Bratislava**, Bratislava (1):
+  - `skslovanbratislava` (2): **SK Slovan Bratislava** · **SK Slovan Bratislava**
 
 
 

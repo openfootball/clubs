@@ -1,6 +1,6 @@
 1 clubs
 
--  : (2) R. Estelí · Real Estelí FC ⇒ (3) ≈R. Esteli≈ · ≈Real Esteli≈ · ≈Real Esteli FC≈
+- **Real Estelí** : (2) R. Estelí · Real Estelí FC ⇒ (3) ≈R. Esteli≈ · ≈Real Esteli≈ · ≈Real Esteli FC≈
 
 
 

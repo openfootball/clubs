@@ -1,26 +1,26 @@
 21 clubs
 
--  : (1) Shamrock Rovers
--  : (2) Bohemians · Bohemian FC
--  : (4) St Patrick's · St. Patricks · St Patrick's Athletic · Saint Patrick's Athletic FC
--  : (3) UCD · UC Dublin · University College Dublin AFC
--  : (1) Shelbourne
--  : (2) Athlone · Athlone Town
--  : (2) Bray · Bray Wanderers
--  : (1) Cobh Ramblers
--  : (3) Cork · Cork City · Cork City FC
--  : (3) Drogheda · Drogheda United · Drogheda United FC
--  : (2) Dundalk · Dundalk FC
--  : (1) Finn Harps
--  : (2) Galway · Galway United
--  : (1) Limerick
--  : (2) Longford · Longford Town
-- 
-- 
--  : (3) Sligo · Sligo Rovers · Sligo Rovers FC
--  : (1) Waterford
--  : (1) Wexford
-- 
+- **Shamrock Rovers FC** : (1) Shamrock Rovers
+- **Bohemian F.C.** : (2) Bohemians · Bohemian FC
+- **St Patrick's Athletic F.C.** : (4) St Patrick's · St. Patricks · St Patrick's Athletic · Saint Patrick's Athletic FC
+- **University College Dublin A.F.C.** : (3) UCD · UC Dublin · University College Dublin AFC
+- **Shelbourne F.C.** : (1) Shelbourne
+- **Athlone Town A.F.C.** : (2) Athlone · Athlone Town
+- **Bray Wanderers F.C.** : (2) Bray · Bray Wanderers
+- **Cobh Ramblers F.C.** : (1) Cobh Ramblers
+- **Cork City F.C.** : (3) Cork · Cork City · Cork City FC
+- **Drogheda United F.C.** : (3) Drogheda · Drogheda United · Drogheda United FC
+- **Dundalk F.C.** : (2) Dundalk · Dundalk FC
+- **Finn Harps F.C.** : (1) Finn Harps
+- **Galway United F.C.** : (2) Galway · Galway United
+- **Limerick F.C.** : (1) Limerick
+- **Longford Town F.C.** : (2) Longford · Longford Town
+- **Mervue**
+- **Monaghan**
+- **Sligo Rovers F.C.** : (3) Sligo · Sligo Rovers · Sligo Rovers FC
+- **Waterford F.C.** : (1) Waterford
+- **Wexford F.C.** : (1) Wexford
+- **Sporting Fingal FC**
 
 
 

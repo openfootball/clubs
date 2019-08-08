@@ -1,9 +1,9 @@
 4 clubs
 
--  : (1) Municipal
--  : (1) Xelajú ⇒ (2) ≈Xelaju≈ · ≈Club Xelaju MC≈
--  : (2) CSD Comuni. · Comunicaciones
--  : (1) Heredia
+- **CSD Municipal** : (1) Municipal
+- **Club Xelajú MC** : (1) Xelajú ⇒ (2) ≈Xelaju≈ · ≈Club Xelaju MC≈
+- **Comunicaciones FC** : (2) CSD Comuni. · Comunicaciones
+- **Heredia Jaguares de Peten** : (1) Heredia
 
 
 

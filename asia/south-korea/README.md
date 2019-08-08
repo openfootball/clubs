@@ -1,19 +1,19 @@
 14 clubs
 
--  : (2) Busan IPark · Busan IPark FC
--  : (1) Chunnam Dragons FC
--  : (1) Daegu
--  : (1) Daejeon Citizen FC
--  : (1) Gangwon
--  : (1) Gyeongnam
--  : (1) Incheon United FC
--  : (1) Jeju United FC
--  : (2) Jeonbuk Hyundai Motors · Jeonbuk Hyundai Motors FC
--  : (1) FC Pohang Steelers
--  : (1) Seongnam Ilhwa Chunma FC
--  : (1) Seoul
--  : (2) Suwon Samsung Bluewings · Suwon Samsung Bluewings FC
--  : (1) Ulsan Hyundai FC
+- **Busan I'Park** : (2) Busan IPark · Busan IPark FC
+- **Chunnam Dragons** : (1) Chunnam Dragons FC
+- **Daegu FC** : (1) Daegu
+- **Daejeon Citizen** : (1) Daejeon Citizen FC
+- **Gangwon FC** : (1) Gangwon
+- **Gyeongnam FC** : (1) Gyeongnam
+- **Incheon United** : (1) Incheon United FC
+- **Jeju United** : (1) Jeju United FC
+- **Jeonbuk Motors** : (2) Jeonbuk Hyundai Motors · Jeonbuk Hyundai Motors FC
+- **Pohang Steelers** : (1) FC Pohang Steelers
+- **Seongnam Ilhwa Chunma** : (1) Seongnam Ilhwa Chunma FC
+- **FC Seoul** : (1) Seoul
+- **Suwon Bluewings** : (2) Suwon Samsung Bluewings · Suwon Samsung Bluewings FC
+- **Ulsan Hyundai** : (1) Ulsan Hyundai FC
 
 
 

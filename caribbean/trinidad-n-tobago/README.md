@@ -1,7 +1,7 @@
 2 clubs
 
--  : (1) Caledonia
--  : (1) WC FC
+- **Caledonia AIA** : (1) Caledonia
+- **W Connection** : (1) WC FC
 
 
 

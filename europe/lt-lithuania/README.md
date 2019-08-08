@@ -1,17 +1,17 @@
 12 clubs
 
--  : (1) Ekranas
--  : (1) Sūduva
-- 
-- 
-- 
--  : (3) Žalgiris · Žalgiris Vilnius · FK Žalgiris Vilnius
-- 
-- 
--  : (1) Riteriai
-- 
-- 
-- 
+- **FK Ekranas** : (1) Ekranas
+- **FK Sūduva** : (1) Sūduva ⇒ (2) ≈Suduva≈ · ≈FK Suduva≈
+- **FK Tauras**
+- **FK Vėtra** ⇒ (1) ≈FK Vetra≈
+- **FC Šiauliai** ⇒ (1) ≈FC Siauliai≈
+- **VMFD Žalgiris** : (3) Žalgiris · Žalgiris Vilnius · FK Žalgiris Vilnius ⇒ (4) ≈Zalgiris≈ · ≈VMFD Zalgiris≈ · ≈Zalgiris Vilnius≈ · ≈FK Zalgiris Vilnius≈
+- **FBK Kaunas**
+- **FK Banga**
+- **FK Riteriai** : (1) Riteriai
+- **FC Stumbras**
+- **FK Atlantas**
+- **FK Kruoja**
 
 
 
@@ -19,10 +19,10 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **ė**  **Š**  **ū**  **Ž** 
-  - **ė** (U+0117 / 279)×1 ⇒ **?**
-  - **Š** (U+0160 / 352)×1 ⇒ **?**
-  - **ū** (U+016B / 363)×2 ⇒ **?**
-  - **Ž** (U+017D / 381)×4 ⇒ **?**
+  - **ė** (U+0117 / 279)×1 ⇒ e
+  - **Š** (U+0160 / 352)×1 ⇒ S
+  - **ū** (U+016B / 363)×2 ⇒ u
+  - **Ž** (U+017D / 381)×4 ⇒ Z
 
 
 

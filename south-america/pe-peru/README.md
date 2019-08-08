@@ -1,11 +1,11 @@
 6 clubs
 
--  : (1) Club Alianza Lima
--  : (1) Club Sporting Cristal
--  : (1) Club Juan Aurich S.A
-- 
--  : (1) Asociación Civil Real Atlético Garcilaso ⇒ (1) ≈Asociacion Civil Real Atletico Garcilaso≈
--  : (1) Club Deportivo Universidad César Vallejo ⇒ (2) ≈Universidad Cesar Vallejo≈ · ≈Club Deportivo Universidad Cesar Vallejo≈
+- **Alianza Lima** : (1) Club Alianza Lima
+- **Sporting Cristal** : (1) Club Sporting Cristal
+- **Juan Aurich** : (1) Club Juan Aurich S.A
+- **Sport Huancayo**
+- **Real Garcilaso** : (1) Asociación Civil Real Atlético Garcilaso ⇒ (1) ≈Asociacion Civil Real Atletico Garcilaso≈
+- **Universidad César Vallejo** : (1) Club Deportivo Universidad César Vallejo ⇒ (2) ≈Universidad Cesar Vallejo≈ · ≈Club Deportivo Universidad Cesar Vallejo≈
 
 
 

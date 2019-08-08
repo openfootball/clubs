@@ -1,42 +1,42 @@
 37 clubs
 
--  : (1) Club Atlético All Boys ⇒ (1) ≈Club Atletico All Boys≈
--  : (3) Argentinos · Argentinos Jrs · Asociación Atlética Argentinos Juniors ⇒ (1) ≈Asociacion Atletica Argentinos Juniors≈
--  : (3) Boca · Boca Jrs · Club Atlético Boca Juniors ⇒ (1) ≈Club Atletico Boca Juniors≈
--  : (2) River · Club Atlético River Plate ⇒ (1) ≈Club Atletico River Plate≈
--  : (3) San Lorenzo de Almagro · CA San Lorenzo de Almagro · Club Atlético San Lorenzo de Almagro ⇒ (1) ≈Club Atletico San Lorenzo de Almagro≈
--  : (5) Vélez · CA Vélez · Velez Sarsfield · CA Vélez Sarsfield · Club Atlético Vélez Sarsfield ⇒ (5) ≈Velez≈ · ≈CA Velez≈ · ≈Velez Sarsfield≈ · ≈CA Velez Sarsfield≈ · ≈Club Atletico Velez Sarsfield≈
--  : (2) Huracan · Club Atlético Huracán ⇒ (2) ≈Huracan≈ · ≈Club Atletico Huracan≈
--  : (1) Club Atlético Nueva Chicago ⇒ (1) ≈Club Atletico Nueva Chicago≈
--  : (2) Tigre · Club Atlético Tigre ⇒ (1) ≈Club Atletico Tigre≈
--  : (2) Independiente · Club Atlético Independiente ⇒ (1) ≈Club Atletico Independiente≈
--  : (2) Racing · Racing Club de Avellaneda
--  : (2) Quilmes · Quilmes Atlético Club ⇒ (1) ≈Quilmes Atletico Club≈
--  : (3) Lanús · Lanus · Club Atlético Lanús ⇒ (3) ≈Lanus≈ · ≈CA Lanus≈ · ≈Club Atletico Lanus≈
--  : (4) Arsenal · Arsenal FC · Arsenal Sarandi · Arsenal Fútbol Club ⇒ (2) ≈Arsenal de Sarandi≈ · ≈Arsenal Futbol Club≈
--  : (4) Estudiantes · Estudiantes L.P. · Estudiantes de La Plata · Club Estudiantes de La Plata
--  : (4) GELP · Gimnasia L.P. · Gimnasia y Esgrima La Plata · Club de Gimnasia y Esgrima La Plata
--  : (1) Aldosivi ⇒ (1) ≈Club Atletico Aldosivi≈
--  : (1) Banfield ⇒ (1) ≈Club Atletico Banfield≈
--  : (1) Club Social y Deportivo Defensa y Justicia
--  : (4) Olimpo · Club Olimpo · Olimpo Bahia Blanca · Olimpo de Bahía Blanca ⇒ (2) ≈Olimpo Bahia Blanca≈ · ≈Olimpo de Bahia Blanca≈
--  : (4) Sarmiento · Sarmiento Junin · Club Atlético Sarmiento · Club Atlético Sarmiento (Junín) ⇒ (3) ≈Sarmiento Junin≈ · ≈Club Atletico Sarmiento≈ · ≈Club Atletico Sarmiento (Junin)≈
--  : (1) Club Atlético Temperley ⇒ (1) ≈Club Atletico Temperley≈
--  : (1) Club Atlético Chacarita Juniors ⇒ (1) ≈Club Atletico Chacarita Juniors≈
--  : (5) Colón · CA Colón · Colon Santa FE · Club Atlético Colón · Club Atlético Colón (Santa Fe) ⇒ (5) ≈Colon≈ · ≈CA Colon≈ · ≈Colon Santa Fe≈ · ≈Club Atletico Colon≈ · ≈Club Atletico Colon (Santa Fe)≈
--  : (3) Unión · Unión de Santa Fe · Club Atlético Unión ⇒ (4) ≈Union≈ · ≈Union Santa Fe≈ · ≈Union de Santa Fe≈ · ≈Club Atletico Union≈
--  : (5) Newell's · N.O. Boys · Newells Old Boys · CA Newell's Old Boys · Club Atlético Newell's Old Boys ⇒ (1) ≈Club Atletico Newell's Old Boys≈
--  : (1) Club Atlético Rosario Central ⇒ (1) ≈Club Atletico Rosario Central≈
--  : (4) Atl. Rafaela · At. de Rafaela · Atlético de Rafaela · Asociación Mutual Social y Deportiva Atlético de Rafaela ⇒ (3) ≈Atletico Rafaela≈ · ≈Atletico de Rafaela≈ · ≈Asociacion Mutual Social y Deportiva Atletico de Rafaela≈
--  : (1) Belgrano ⇒ (1) ≈Club Atletico Belgrano≈
--  : (2) Talleres Cordoba · Club Atlético Talleres ⇒ (2) ≈Talleres de Cordoba≈ · ≈Club Atletico Talleres≈
--  : (2) Godoy Cruz Antonio Tomba · Club Deportivo Godoy Cruz Antonio Tomba
--  : (3) San Martin S.J. · San Martín San Juan · Club Atlético San Martín ⇒ (3) ≈San Martin≈ · ≈San Martin San Juan≈ · ≈Club Atletico San Martin≈
--  : (1) Atl. Tucuman ⇒ (1) ≈Atletico Tucuman≈
--  : (3) San Martin T. · Club Atlético San Martín · Club Atlético San Martín (Tucumán) ⇒ (3) ≈San Martin de Tucuman≈ · ≈Club Atletico San Martin≈ · ≈Club Atletico San Martin (Tucuman)≈
--  : (2) Club Atlético Patronato · Club Atlético Patronato de la Juventud Católica ⇒ (2) ≈Club Atletico Patronato≈ · ≈Club Atletico Patronato de la Juventud Catolica≈
--  : (1) Club Mutual Crucero del Norte
--  : (3) Central Córdoba (SdE) · Club Atlético Central Córdoba · Central Córdoba de Santiago del Estero ⇒ (4) ≈Central Cordoba≈ · ≈Central Cordoba (SdE)≈ · ≈Club Atletico Central Cordoba≈ · ≈Central Cordoba de Santiago del Estero≈
+- **All Boys** : (1) Club Atlético All Boys ⇒ (1) ≈Club Atletico All Boys≈
+- [**Argentinos Juniors**](https://en.wikipedia.org/wiki/Argentinos_Juniors) : (3) Argentinos · Argentinos Jrs · Asociación Atlética Argentinos Juniors ⇒ (1) ≈Asociacion Atletica Argentinos Juniors≈
+- [**Boca Juniors**](https://en.wikipedia.org/wiki/Boca_Juniors) : (3) Boca · Boca Jrs · Club Atlético Boca Juniors ⇒ (1) ≈Club Atletico Boca Juniors≈
+- [**River Plate**](https://en.wikipedia.org/wiki/Club_Atlético_River_Plate) : (2) River · Club Atlético River Plate ⇒ (1) ≈Club Atletico River Plate≈
+- [**San Lorenzo**](https://en.wikipedia.org/wiki/San_Lorenzo_de_Almagro) : (3) San Lorenzo de Almagro · CA San Lorenzo de Almagro · Club Atlético San Lorenzo de Almagro ⇒ (1) ≈Club Atletico San Lorenzo de Almagro≈
+- [**Vélez Sarsfield**](https://en.wikipedia.org/wiki/Club_Atlético_Vélez_Sarsfield) : (5) Vélez · CA Vélez · Velez Sarsfield · CA Vélez Sarsfield · Club Atlético Vélez Sarsfield ⇒ (5) ≈Velez≈ · ≈CA Velez≈ · ≈Velez Sarsfield≈ · ≈CA Velez Sarsfield≈ · ≈Club Atletico Velez Sarsfield≈
+- [**Huracán**](https://en.wikipedia.org/wiki/Club_Atlético_Huracán) : (2) Huracan · Club Atlético Huracán ⇒ (2) ≈Huracan≈ · ≈Club Atletico Huracan≈
+- **Nueva Chicago** : (1) Club Atlético Nueva Chicago ⇒ (1) ≈Club Atletico Nueva Chicago≈
+- **CA Tigre** : (2) Tigre · Club Atlético Tigre ⇒ (1) ≈Club Atletico Tigre≈
+- [**CA Independiente de Avellaneda**](https://en.wikipedia.org/wiki/Club_Atlético_Independiente) : (2) Independiente · Club Atlético Independiente ⇒ (1) ≈Club Atletico Independiente≈
+- [**Racing Club**](https://en.wikipedia.org/wiki/Racing_Club_de_Avellaneda) : (2) Racing · Racing Club de Avellaneda
+- **Quilmes AC** : (2) Quilmes · Quilmes Atlético Club ⇒ (1) ≈Quilmes Atletico Club≈
+- [**CA Lanús**](https://en.wikipedia.org/wiki/Club_Atlético_Lanús) : (3) Lanús · Lanus · Club Atlético Lanús ⇒ (3) ≈Lanus≈ · ≈CA Lanus≈ · ≈Club Atletico Lanus≈
+- [**Arsenal de Sarandí**](https://en.wikipedia.org/wiki/Arsenal_de_Sarandí) : (4) Arsenal · Arsenal FC · Arsenal Sarandi · Arsenal Fútbol Club ⇒ (2) ≈Arsenal de Sarandi≈ · ≈Arsenal Futbol Club≈
+- [**Estudiantes LP**](https://en.wikipedia.org/wiki/Estudiantes_de_La_Plata) : (4) Estudiantes · Estudiantes L.P. · Estudiantes de La Plata · Club Estudiantes de La Plata
+- [**Gimnasia y Esgrima**](https://en.wikipedia.org/wiki/Club_de_Gimnasia_y_Esgrima_La_Plata) : (4) GELP · Gimnasia L.P. · Gimnasia y Esgrima La Plata · Club de Gimnasia y Esgrima La Plata
+- [**Club Atlético Aldosivi**](https://en.wikipedia.org/wiki/Aldosivi) : (1) Aldosivi ⇒ (1) ≈Club Atletico Aldosivi≈
+- [**Club Atlético Banfield**](https://en.wikipedia.org/wiki/Club_Atlético_Banfield) : (1) Banfield ⇒ (1) ≈Club Atletico Banfield≈
+- [**Defensa y Justicia**](https://en.wikipedia.org/wiki/Defensa_y_Justicia) : (1) Club Social y Deportivo Defensa y Justicia
+- **Olimpo Bahía Blanca** : (4) Olimpo · Club Olimpo · Olimpo Bahia Blanca · Olimpo de Bahía Blanca ⇒ (2) ≈Olimpo Bahia Blanca≈ · ≈Olimpo de Bahia Blanca≈
+- **Sarmiento Junín** : (4) Sarmiento · Sarmiento Junin · Club Atlético Sarmiento · Club Atlético Sarmiento (Junín) ⇒ (3) ≈Sarmiento Junin≈ · ≈Club Atletico Sarmiento≈ · ≈Club Atletico Sarmiento (Junin)≈
+- **Temperley** : (1) Club Atlético Temperley ⇒ (1) ≈Club Atletico Temperley≈
+- **Chacarita Juniors** : (1) Club Atlético Chacarita Juniors ⇒ (1) ≈Club Atletico Chacarita Juniors≈
+- [**Colón Santa Fe**](https://en.wikipedia.org/wiki/Club_Atlético_Colón) : (5) Colón · CA Colón · Colon Santa FE · Club Atlético Colón · Club Atlético Colón (Santa Fe) ⇒ (5) ≈Colon≈ · ≈CA Colon≈ · ≈Colon Santa Fe≈ · ≈Club Atletico Colon≈ · ≈Club Atletico Colon (Santa Fe)≈
+- [**Unión Santa Fe**](https://en.wikipedia.org/wiki/Unión_de_Santa_Fe) : (3) Unión · Unión de Santa Fe · Club Atlético Unión ⇒ (4) ≈Union≈ · ≈Union Santa Fe≈ · ≈Union de Santa Fe≈ · ≈Club Atletico Union≈
+- [**Newell's Old Boys**](https://en.wikipedia.org/wiki/Newell's_Old_Boys) : (5) Newell's · N.O. Boys · Newells Old Boys · CA Newell's Old Boys · Club Atlético Newell's Old Boys ⇒ (1) ≈Club Atletico Newell's Old Boys≈
+- [**Rosario Central**](https://en.wikipedia.org/wiki/Rosario_Central) : (1) Club Atlético Rosario Central ⇒ (1) ≈Club Atletico Rosario Central≈
+- **Atlético Rafaela** : (4) Atl. Rafaela · At. de Rafaela · Atlético de Rafaela · Asociación Mutual Social y Deportiva Atlético de Rafaela ⇒ (3) ≈Atletico Rafaela≈ · ≈Atletico de Rafaela≈ · ≈Asociacion Mutual Social y Deportiva Atletico de Rafaela≈
+- **Club Atlético Belgrano** : (1) Belgrano ⇒ (1) ≈Club Atletico Belgrano≈
+- [**Talleres de Córdoba**](https://en.wikipedia.org/wiki/Talleres_de_Córdoba) : (2) Talleres Cordoba · Club Atlético Talleres ⇒ (2) ≈Talleres de Cordoba≈ · ≈Club Atletico Talleres≈
+- [**Godoy Cruz**](https://en.wikipedia.org/wiki/Godoy_Cruz_Antonio_Tomba) : (2) Godoy Cruz Antonio Tomba · Club Deportivo Godoy Cruz Antonio Tomba
+- **San Martín** : (3) San Martin S.J. · San Martín San Juan · Club Atlético San Martín ⇒ (3) ≈San Martin≈ · ≈San Martin San Juan≈ · ≈Club Atletico San Martin≈
+- [**Atlético Tucumán**](https://en.wikipedia.org/wiki/Atlético_Tucumán) : (1) Atl. Tucuman ⇒ (1) ≈Atletico Tucuman≈
+- **San Martín de Tucumán** : (3) San Martin T. · Club Atlético San Martín · Club Atlético San Martín (Tucumán) ⇒ (3) ≈San Martin de Tucuman≈ · ≈Club Atletico San Martin≈ · ≈Club Atletico San Martin (Tucuman)≈
+- [**Patronato**](https://en.wikipedia.org/wiki/Club_Atlético_Patronato) : (2) Club Atlético Patronato · Club Atlético Patronato de la Juventud Católica ⇒ (2) ≈Club Atletico Patronato≈ · ≈Club Atletico Patronato de la Juventud Catolica≈
+- **Crucero del Norte** : (1) Club Mutual Crucero del Norte
+- [**Central Córdoba**](https://en.wikipedia.org/wiki/Central_Córdoba_de_Santiago_del_Estero) : (3) Central Córdoba (SdE) · Club Atlético Central Córdoba · Central Córdoba de Santiago del Estero ⇒ (4) ≈Central Cordoba≈ · ≈Central Cordoba (SdE)≈ · ≈Club Atletico Central Cordoba≈ · ≈Central Cordoba de Santiago del Estero≈
 
 
 

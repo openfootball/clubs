@@ -1,10 +1,10 @@
 5 clubs
 
--  : (2) U. de Chile · Club Universidad de Chile
--  : (3) CDUC · CD Universidad Católica · Club Deportivo Universidad Católica ⇒ (3) ≈Universidad Catolica≈ · ≈CD Universidad Catolica≈ · ≈Club Deportivo Universidad Catolica≈
--  : (1) Club Unión Española S.A.D.P ⇒ (2) ≈Union Espanola≈ · ≈Club Union Espanola S.A.D.P≈
--  : (2) Huachipato · Club Deportivo Huachipato
--  : (2) Iquique · Club Deportes Iquique
+- **Universidad de Chile** : (2) U. de Chile · Club Universidad de Chile
+- **Universidad Católica** : (3) CDUC · CD Universidad Católica · Club Deportivo Universidad Católica ⇒ (3) ≈Universidad Catolica≈ · ≈CD Universidad Catolica≈ · ≈Club Deportivo Universidad Catolica≈
+- **Unión Española** : (1) Club Unión Española S.A.D.P ⇒ (2) ≈Union Espanola≈ · ≈Club Union Espanola S.A.D.P≈
+- **CD Huachipato** : (2) Huachipato · Club Deportivo Huachipato
+- **Deportes Iquique** : (2) Iquique · Club Deportes Iquique
 
 
 

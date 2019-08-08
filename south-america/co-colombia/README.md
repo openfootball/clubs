@@ -1,11 +1,11 @@
 6 clubs
 
--  : (3) Millonarios · Millonarios FC · Millonarios Fútbol Club ⇒ (2) ≈Millonarios Bogota≈ · ≈Millonarios Futbol Club≈
--  : (2) Santa Fe · Corporación Deportiva Santa Fe ⇒ (1) ≈Corporacion Deportiva Santa Fe≈
--  : (2) At. Nacional · Club Atlético Nacional S.A. ⇒ (2) ≈Atletico Nacional≈ · ≈Club Atletico Nacional S.A.≈
--  : (2) Junior · Corporación Popular Deportiva Junior ⇒ (1) ≈Corporacion Popular Deportiva Junior≈
--  : (1) Corporación Deportiva Once Caldas ⇒ (1) ≈Corporacion Deportiva Once Caldas≈
-- 
+- **Millonarios Bogotá** : (3) Millonarios · Millonarios FC · Millonarios Fútbol Club ⇒ (2) ≈Millonarios Bogota≈ · ≈Millonarios Futbol Club≈
+- **Independiente Santa Fe** : (2) Santa Fe · Corporación Deportiva Santa Fe ⇒ (1) ≈Corporacion Deportiva Santa Fe≈
+- **Atlético Nacional** : (2) At. Nacional · Club Atlético Nacional S.A. ⇒ (2) ≈Atletico Nacional≈ · ≈Club Atletico Nacional S.A.≈
+- **Junior de Barranquilla** : (2) Junior · Corporación Popular Deportiva Junior ⇒ (1) ≈Corporacion Popular Deportiva Junior≈
+- **Once Caldas** : (1) Corporación Deportiva Once Caldas ⇒ (1) ≈Corporacion Deportiva Once Caldas≈
+- **Deportes Tolima**
 
 
 

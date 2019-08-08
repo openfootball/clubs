@@ -1,24 +1,24 @@
 19 clubs
 
--  : (4) Kobenhavn · København · FC Copenhagen · Football Club København
--  : (4) Brondby · Brøndby · Brondby IF · Brøndbyernes Idrætsforening
--  : (3) Nordsjælland · Nordsjaelland · Football Club Nordsjælland
--  : (2) Helsingør · Helsingor
--  : (2) Lyngby · Lyngby Boldklub
--  : (3) AaB · Aalborg · Aalborg Boldspilklub
--  : (2) Hobro · Hobro Idræts Klub
--  : (1) Vendsyssel
--  : (2) Midtjylland · Football Club Midtjylland
--  : (3) AGF · Aarhus · Aarhus Gymnastikforening
--  : (2) Viborg · Viborg Fodsports Forening
--  : (1) Horsens
--  : (3) SIF · Silkeborg · Silkeborg Idrætsforening
--  : (2) Randers · Randers Football Club
--  : (3) Sonderjyske · SønderjyskE · SønderjyskE Fodbold
--  : (3) OB · Odense · Odense Boldklub
--  : (2) Esbjerg · Esbjerg forenede Boldklubber
--  : (1) Vejle Boldklub
--  : (1) Vestsjaelland
+- [**FC København**](https://en.wikipedia.org/wiki/F.C._Copenhagen) : (4) Kobenhavn · København · FC Copenhagen · Football Club København ⇒ (3) ≈Kobenhavn≈ · ≈FC Kobenhavn≈ · ≈Football Club Kobenhavn≈
+- [**Brøndby IF**](https://en.wikipedia.org/wiki/Brøndby_IF) : (4) Brondby · Brøndby · Brondby IF · Brøndbyernes Idrætsforening ⇒ (3) ≈Brondby≈ · ≈Brondby IF≈ · ≈Brondbyernes Idraetsforening≈
+- [**FC Nordsjælland**](https://en.wikipedia.org/wiki/FC_Nordsjælland) : (3) Nordsjælland · Nordsjaelland · Football Club Nordsjælland ⇒ (3) ≈Nordsjaelland≈ · ≈FC Nordsjaelland≈ · ≈Football Club Nordsjaelland≈
+- **FC Helsingør** : (2) Helsingør · Helsingor ⇒ (2) ≈Helsingor≈ · ≈FC Helsingor≈
+- **Lyngby BK** : (2) Lyngby · Lyngby Boldklub
+- [**Aalborg BK**](https://en.wikipedia.org/wiki/Aalborg_Boldspilklub) : (3) AaB · Aalborg · Aalborg Boldspilklub
+- [**Hobro IK**](https://en.wikipedia.org/wiki/Hobro_IK) : (2) Hobro · Hobro Idræts Klub ⇒ (1) ≈Hobro Idraets Klub≈
+- **Vendsyssel FF** : (1) Vendsyssel
+- [**FC Midtjylland**](https://en.wikipedia.org/wiki/FC_Midtjylland) : (2) Midtjylland · Football Club Midtjylland
+- [**AGF Aarhus**](https://en.wikipedia.org/wiki/Aarhus_Gymnastikforening) : (3) AGF · Aarhus · Aarhus Gymnastikforening
+- [**Viborg FF**](https://en.wikipedia.org/wiki/Viborg_FF) : (2) Viborg · Viborg Fodsports Forening
+- **AC Horsens** : (1) Horsens
+- **Silkeborg IF** : (3) SIF · Silkeborg · Silkeborg Idrætsforening ⇒ (1) ≈Silkeborg Idraetsforening≈
+- [**Randers FC**](https://en.wikipedia.org/wiki/Randers_FC) : (2) Randers · Randers Football Club
+- [**Sønderjysk Elitesport**](https://en.wikipedia.org/wiki/SønderjyskE_Fodbold) : (3) Sonderjyske · SønderjyskE · SønderjyskE Fodbold ⇒ (3) ≈SonderjyskE≈ · ≈SonderjyskE Fodbold≈ · ≈Sonderjysk Elitesport≈
+- [**Odense BK**](https://en.wikipedia.org/wiki/Odense_Boldklub) : (3) OB · Odense · Odense Boldklub
+- [**Esbjerg fB**](https://en.wikipedia.org/wiki/Esbjerg_fB) : (2) Esbjerg · Esbjerg forenede Boldklubber
+- **Vejle** : (1) Vejle Boldklub
+- **FC Vestsjælland** : (1) Vestsjaelland ⇒ (1) ≈FC Vestsjaelland≈
 
 
 
@@ -26,14 +26,25 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **æ**  **ø** 
-  - **æ** (U+00E6 / 230)×7 ⇒ **?**
-  - **ø** (U+00F8 / 248)×11 ⇒ **?**
+  - **æ** (U+00E6 / 230)×7 ⇒ ae
+  - **ø** (U+00F8 / 248)×11 ⇒ o
 
 
 
 
 Duplicates
 
+- **FC København**, København (1):
+  - `kobenhavn` (2): **Kobenhavn** · **Kobenhavn**
+- **Brøndby IF**, Brøndbyvester (2):
+  - `brondby` (2): **Brondby** · **Brondby**
+  - `brondbyif` (2): **Brondby IF** · **Brondby IF**
+- **FC Nordsjælland**, Farum (1):
+  - `nordsjaelland` (2): **Nordsjaelland** · **Nordsjaelland**
+- **FC Helsingør**, Helsingør (1):
+  - `helsingor` (2): **Helsingor** · **Helsingor**
+- **Sønderjysk Elitesport**, Haderslev (1):
+  - `sonderjyske` (2): Sonderjyske · SonderjyskE
 
 
 

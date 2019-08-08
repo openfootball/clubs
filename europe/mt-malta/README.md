@@ -1,13 +1,13 @@
 8 clubs
 
--  : (1) Valletta
--  : (1) Sliema Wanderers
--  : (1) Birkirkara
-- 
--  : (1) Hibernians
-- 
-- 
-- 
+- **Valletta FC** : (1) Valletta
+- **Sliema Wanderers FC** : (1) Sliema Wanderers
+- **Birkirkara FC** : (1) Birkirkara
+- **Floriana FC**
+- **Hibernians FC** : (1) Hibernians
+- **Marsaxlokk FC**
+- **Balzan FC**
+- **Gżira United FC** ⇒ (1) ≈Gzira United FC≈
 
 
 
@@ -15,7 +15,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ż** 
-  - **ż** (U+017C / 380)×1 ⇒ **?**
+  - **ż** (U+017C / 380)×1 ⇒ z
 
 
 

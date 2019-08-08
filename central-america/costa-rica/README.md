@@ -1,8 +1,8 @@
 3 clubs
 
--  : (1) Alajuelense
--  : (1) Herediano
--  : (1) Cartaginés ⇒ (2) ≈Cartagines≈ · ≈CS Cartagines≈
+- **LD Alajuelense** : (1) Alajuelense
+- **CS Herediano** : (1) Herediano
+- **CS Cartaginés** : (1) Cartaginés ⇒ (2) ≈Cartagines≈ · ≈CS Cartagines≈
 
 
 

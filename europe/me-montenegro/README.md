@@ -1,15 +1,15 @@
 10 clubs
 
--  : (1) Budućnost Podgorica
-- 
-- 
--  : (1) Rudar Pljevlja
-- 
-- 
--  : (2) Sutjeska · Sutjeska Nikšić
--  : (1) Titograd
-- 
-- 
+- **FK Budućnost Podgorica** : (1) Budućnost Podgorica ⇒ (2) ≈Buducnost Podgorica≈ · ≈FK Buducnost Podgorica≈
+- **FK Mogren**
+- **FK Zeta**
+- **FK Rudar Pljevlja** : (1) Rudar Pljevlja
+- **OFK Petrovac**
+- **FK Čelik Nikšić** ⇒ (1) ≈FK Celik Niksic≈
+- **FK Sutjeska** : (2) Sutjeska · Sutjeska Nikšić ⇒ (1) ≈Sutjeska Niksic≈
+- **OFK Titograd** : (1) Titograd
+- **FK Bokelj**
+- **FK Lovćen** ⇒ (1) ≈FK Lovcen≈
 
 
 
@@ -17,9 +17,9 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **ć**  **Č**  **š** 
-  - **ć** (U+0107 / 263)×5 ⇒ **?**
-  - **Č** (U+010C / 268)×1 ⇒ **?**
-  - **š** (U+0161 / 353)×2 ⇒ **?**
+  - **ć** (U+0107 / 263)×5 ⇒ c
+  - **Č** (U+010C / 268)×1 ⇒ C
+  - **š** (U+0161 / 353)×2 ⇒ s
 
 
 

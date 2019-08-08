@@ -1,10 +1,10 @@
 5 clubs
 
--  : (3) Metapán · Isidro Metapán · Asociación Deportiva Isidro Metapán ⇒ (4) ≈Metapan≈ · ≈I. Metapan≈ · ≈Isidro Metapan≈ · ≈Asociacion Deportiva Isidro Metapan≈
--  : (1) Águila
--  : (2) CD FAS · Futbolistas Asociados Santanecos
--  : (2) Alianza · Alianza Fútbol Club ⇒ (1) ≈Alianza Futbol Club≈
--  : (2) L.A. Firpo · CD Luis Ángel Firpo
+- **I. Metapán** : (3) Metapán · Isidro Metapán · Asociación Deportiva Isidro Metapán ⇒ (4) ≈Metapan≈ · ≈I. Metapan≈ · ≈Isidro Metapan≈ · ≈Asociacion Deportiva Isidro Metapan≈
+- **Club Deportivo Águila** : (1) Águila ⇒ (2) ≈Aguila≈ · ≈Club Deportivo Aguila≈
+- **Club Deportivo FAS** : (2) CD FAS · Futbolistas Asociados Santanecos
+- **Alianza FC** : (2) Alianza · Alianza Fútbol Club ⇒ (1) ≈Alianza Futbol Club≈
+- **Luis Ángel Firpo** : (2) L.A. Firpo · CD Luis Ángel Firpo ⇒ (2) ≈Luis Angel Firpo≈ · ≈CD Luis Angel Firpo≈
 
 
 
@@ -12,7 +12,7 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **Á**  **á**  **ó**  **ú** 
-  - **Á** (U+00C1 / 193)×4 ⇒ **?**
+  - **Á** (U+00C1 / 193)×4 ⇒ A
   - **á** (U+00E1 / 225)×4 ⇒ a
   - **ó** (U+00F3 / 243)×1 ⇒ o
   - **ú** (U+00FA / 250)×1 ⇒ u

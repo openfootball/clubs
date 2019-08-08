@@ -1,18 +1,18 @@
 13 clubs
 
--  : (4) CSKA Sofia · CDNA Sofia · CSKA-Sofia · PFC CSKA-Sofia
--  : (3) Levski · Levski Sofia · Professional Football Club Levski Sofia
--  : (2) Slavia Sofia · Professional Football Club Slavia Sofia
--  : (1) Lokomotiv Sofia
--  : (1) Botev Plovdiv
--  : (2) Lokomotiv Plovdiv · PFC Lokomotiv Plovdiv 1936
--  : (2) Litex · Professional Football Club Litex Lovech
--  : (1) Cherno More
--  : (4) Ludogorets · Ludogorets Razgrad · PFC Ludogorets 1945 · Professional Football Club Ludogorets Razgrad
--  : (2) Beroe · Professional Football Club Beroe
--  : (3) Montana · PFC Montana 1921 · Professional Football Club Montana
--  : (2) Blagoevgrad · PFC Pirin Blagoevgrad
--  : (2) Dunav · FC Dunav
+- [**PFC CSKA Sofia**](https://en.wikipedia.org/wiki/PFC_CSKA_Sofia) : (4) CSKA Sofia · CDNA Sofia · CSKA-Sofia · PFC CSKA-Sofia
+- [**PFC Levski Sofia**](https://en.wikipedia.org/wiki/PFC_Levski_Sofia) : (3) Levski · Levski Sofia · Professional Football Club Levski Sofia
+- [**PFC Slavia Sofia**](https://en.wikipedia.org/wiki/PFC_Slavia_Sofia) : (2) Slavia Sofia · Professional Football Club Slavia Sofia
+- [**PFC Lokomotiv Sofia**](https://en.wikipedia.org/wiki/PFC_Lokomotiv_Sofia) : (1) Lokomotiv Sofia
+- [**PFC Botev Plovdiv**](https://en.wikipedia.org/wiki/PFC_Botev_Plovdiv) : (1) Botev Plovdiv
+- [**PFC Lokomotiv Plovdiv**](https://en.wikipedia.org/wiki/PFC_Lokomotiv_Plovdiv) : (2) Lokomotiv Plovdiv · PFC Lokomotiv Plovdiv 1936
+- [**PFC Litex Lovech**](https://en.wikipedia.org/wiki/PFC_Litex_Lovech) : (2) Litex · Professional Football Club Litex Lovech
+- [**PFC Cherno More Varna**](https://en.wikipedia.org/wiki/PFC_Cherno_More_Varna) : (1) Cherno More
+- [**PFC Ludogorets Razgrad**](https://en.wikipedia.org/wiki/PFC_Ludogorets_Razgrad) : (4) Ludogorets · Ludogorets Razgrad · PFC Ludogorets 1945 · Professional Football Club Ludogorets Razgrad
+- [**PFC Beroe Stara Zagora**](https://en.wikipedia.org/wiki/PFC_Beroe_Stara_Zagora) : (2) Beroe · Professional Football Club Beroe
+- [**PFC Montana**](https://en.wikipedia.org/wiki/PFC_Montana) : (3) Montana · PFC Montana 1921 · Professional Football Club Montana
+- [**FC Pirin Blagoevgrad**](https://en.wikipedia.org/wiki/FC_Pirin_Blagoevgrad) : (2) Blagoevgrad · PFC Pirin Blagoevgrad
+- **FC Dunav Ruse** : (2) Dunav · FC Dunav
 
 
 

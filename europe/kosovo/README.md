@@ -1,8 +1,8 @@
 3 clubs
 
-- 
-- 
--  ⇒ (1) ≈KF Trepca'89≈
+- **KF Drita**
+- **FC Prishtina**
+- **KF Trepça'89** ⇒ (1) ≈KF Trepca'89≈
 
 
 

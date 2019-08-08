@@ -1,17 +1,17 @@
 12 clubs
 
-- 
-- 
--  : (4) Rabotnički · Rabotnicki · FK Rabotnicki · Rabotnički Skopje
--  : (1) KF Renova
--  : (2) Shkëndija · KF Shkëndija
--  : (1) Vardar
-- 
-- 
-- 
-- 
-- 
-- 
+- **FK Metalurg Skopje**
+- **FK Makedonija Skopje**
+- **FK Rabotnički** : (4) Rabotnički · Rabotnicki · FK Rabotnicki · Rabotnički Skopje ⇒ (3) ≈Rabotnicki≈ · ≈FK Rabotnicki≈ · ≈Rabotnicki Skopje≈
+- **FK Renova** : (1) KF Renova
+- **FK Shkëndija 79** : (2) Shkëndija · KF Shkëndija ⇒ (3) ≈Shkendija≈ · ≈KF Shkendija≈ · ≈FK Shkendija 79≈
+- **FK Vardar** : (1) Vardar
+- **FK Teteks**
+- **FK Milano**
+- **FK Pelister**
+- **FC Shkupi 1927**
+- **FK Sileks**
+- **FK Turnovo**
 
 
 
@@ -19,14 +19,17 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **ë**  **č** 
-  - **ë** (U+00EB / 235)×3 ⇒ **?**
-  - **č** (U+010D / 269)×3 ⇒ **?**
+  - **ë** (U+00EB / 235)×3 ⇒ e
+  - **č** (U+010D / 269)×3 ⇒ c
 
 
 
 
 Duplicates
 
+- **FK Rabotnički**,  (2):
+  - `rabotnicki` (2): **Rabotnicki** · **Rabotnicki**
+  - `fkrabotnicki` (2): **FK Rabotnicki** · **FK Rabotnicki**
 
 
 

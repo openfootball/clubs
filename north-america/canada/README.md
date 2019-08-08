@@ -1,8 +1,8 @@
 3 clubs
 
--  : (4) Montreal · Montreal I. · Impact Montréal · Impact de Montréal ⇒ (2) ≈Impact Montreal≈ · ≈Impact de Montreal≈
--  : (2) TFC · Toronto
--  : (2) Vancouver · Vancouver Whitecaps
+- [**Montreal Impact**](https://en.wikipedia.org/wiki/Montreal_Impact) : (4) Montreal · Montreal I. · Impact Montréal · Impact de Montréal ⇒ (2) ≈Impact Montreal≈ · ≈Impact de Montreal≈
+- [**Toronto FC**](https://en.wikipedia.org/wiki/Toronto_FC) : (2) TFC · Toronto
+- [**Vancouver Whitecaps FC**](https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC) : (2) Vancouver · Vancouver Whitecaps
 
 
 

@@ -1,16 +1,16 @@
 11 clubs
 
--  : (1) Ventspils
-- 
--  : (1) Skonto
-- 
-- 
-- 
-- 
--  : (1) Spartaks Jūrmala
-- 
-- 
-- 
+- **FK Ventspils** : (1) Ventspils
+- **SK Liepājas Metalurgs** ⇒ (1) ≈SK Liepajas Metalurgs≈
+- **Skonto FC** : (1) Skonto
+- **FC Daugava Daugavpils**
+- **FK Jelgava**
+- **FC Dinaburg**
+- **JFK Olimps/RFS**
+- **FK Spartaks Jūrmala** : (1) Spartaks Jūrmala ⇒ (2) ≈Spartaks Jurmala≈ · ≈FK Spartaks Jurmala≈
+- **FK Liepāja** ⇒ (1) ≈FK Liepaja≈
+- **Riga FC**
+- **FC Daugava Rīga** ⇒ (1) ≈FC Daugava Riga≈
 
 
 
@@ -18,9 +18,9 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **ā**  **ī**  **ū** 
-  - **ā** (U+0101 / 257)×2 ⇒ **?**
-  - **ī** (U+012B / 299)×1 ⇒ **?**
-  - **ū** (U+016B / 363)×2 ⇒ **?**
+  - **ā** (U+0101 / 257)×2 ⇒ a
+  - **ī** (U+012B / 299)×1 ⇒ i
+  - **ū** (U+016B / 363)×2 ⇒ u
 
 
 

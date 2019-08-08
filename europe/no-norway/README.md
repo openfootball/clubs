@@ -1,31 +1,31 @@
 26 clubs
 
--  : (2) Valerenga · Vålerenga
--  : (2) Rosenborg · Rosenborg Ballklub
--  : (1) Ranheim Fotball
--  : (1) Molde
--  : (3) Tromso · Tromsø · Tromsø Idrettslag
--  : (2) Aalesund · Aalesunds Fotballklubb
--  : (1) Brann
--  : (3) Stromsgodset · Strømsgodset · Strømsgodset Toppfotball
--  : (2) Fredrikstad · Fredrikstad Fotballklubb
--  : (2) Lillestrom · Lillestrøm
--  : (3) Viking · Viking Stavanger · Viking Fotballklubb
--  : (2) Odd · Odds Ballklubb
--  : (1) Sandefjord Fotball
--  : (1) Sandnes
--  : (3) Sarpsborg · Sarpsborg 08 FF · Sarpsborg 08 Fotballforening
--  : (1) Sogndal Fotball
--  : (2) Stabaek · Stabæk Fotball
--  : (2) Start · Idrettsklubben Start
--  : (2) Kristiansund · Kristiansund Ballklubb
--  : (2) Mjondalen · Mjøndalen
--  : (3) Bodo/Glimt · FK Bodø/Glimt · Fotballklubben Bodø/Glimt
--  : (2) Haugesund · Fotballklubben Haugesund
--  : (3) Honefoss · Hønefoss · Hønefoss Ballklubb
--  : (1) Jerv
--  : (1) Ull/Kisa
--  : (2) Hødd · Idrettslaget Hødd
+- **Vålerenga Fotball** : (2) Valerenga · Vålerenga ⇒ (2) ≈Valerenga≈ · ≈Valerenga Fotball≈
+- **Rosenborg BK** : (2) Rosenborg · Rosenborg Ballklub
+- **Ranheim** : (1) Ranheim Fotball
+- **Molde FK** : (1) Molde
+- **Tromsø IL** : (3) Tromso · Tromsø · Tromsø Idrettslag ⇒ (3) ≈Tromso≈ · ≈Tromso IL≈ · ≈Tromso Idrettslag≈
+- **Aalesunds FK** : (2) Aalesund · Aalesunds Fotballklubb
+- **SK Brann** : (1) Brann
+- **Strømsgodset IF** : (3) Stromsgodset · Strømsgodset · Strømsgodset Toppfotball ⇒ (3) ≈Stromsgodset≈ · ≈Stromsgodset IF≈ · ≈Stromsgodset Toppfotball≈
+- **Fredrikstad FK** : (2) Fredrikstad · Fredrikstad Fotballklubb
+- **Lillestrøm SK** : (2) Lillestrom · Lillestrøm ⇒ (2) ≈Lillestrom≈ · ≈Lillestrom SK≈
+- **Viking FK** : (3) Viking · Viking Stavanger · Viking Fotballklubb
+- **Odds BK** : (2) Odd · Odds Ballklubb
+- **Sandefjord** : (1) Sandefjord Fotball
+- **Sandnes Ulf** : (1) Sandnes
+- **Sarpsborg 08** : (3) Sarpsborg · Sarpsborg 08 FF · Sarpsborg 08 Fotballforening
+- **Sogndal** : (1) Sogndal Fotball
+- **Stabæk** : (2) Stabaek · Stabæk Fotball ⇒ (2) ≈Stabaek≈ · ≈Stabaek Fotball≈
+- **IK Start** : (2) Start · Idrettsklubben Start
+- **Kristiansund BK** : (2) Kristiansund · Kristiansund Ballklubb
+- **Mjøndalen IF** : (2) Mjondalen · Mjøndalen ⇒ (2) ≈Mjondalen≈ · ≈Mjondalen IF≈
+- **Bodø/Glimt** : (3) Bodo/Glimt · FK Bodø/Glimt · Fotballklubben Bodø/Glimt ⇒ (3) ≈Bodo/Glimt≈ · ≈FK Bodo/Glimt≈ · ≈Fotballklubben Bodo/Glimt≈
+- **FK Haugesund** : (2) Haugesund · Fotballklubben Haugesund
+- **Hønefoss BK** : (3) Honefoss · Hønefoss · Hønefoss Ballklubb ⇒ (3) ≈Honefoss≈ · ≈Honefoss BK≈ · ≈Honefoss Ballklubb≈
+- **FK Jerv** : (1) Jerv
+- **Ullensaker/Kisa IL** : (1) Ull/Kisa
+- **IL Hødd** : (2) Hødd · Idrettslaget Hødd ⇒ (3) ≈Hodd≈ · ≈IL Hodd≈ · ≈Idrettslaget Hodd≈
 
 
 
@@ -33,15 +33,31 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **å**  **æ**  **ø** 
-  - **å** (U+00E5 / 229)×2 ⇒ **?**
-  - **æ** (U+00E6 / 230)×2 ⇒ **?**
-  - **ø** (U+00F8 / 248)×19 ⇒ **?**
+  - **å** (U+00E5 / 229)×2 ⇒ a
+  - **æ** (U+00E6 / 230)×2 ⇒ ae
+  - **ø** (U+00F8 / 248)×19 ⇒ o
 
 
 
 
 Duplicates
 
+- **Vålerenga Fotball**, Oslo (1):
+  - `valerenga` (2): **Valerenga** · **Valerenga**
+- **Tromsø IL**, Tromsø (1):
+  - `tromso` (2): **Tromso** · **Tromso**
+- **Strømsgodset IF**, Drammen (1):
+  - `stromsgodset` (2): **Stromsgodset** · **Stromsgodset**
+- **Lillestrøm SK**, Lillestrøm (1):
+  - `lillestrom` (2): **Lillestrom** · **Lillestrom**
+- **Stabæk**, Bærum (1):
+  - `stabaek` (2): **Stabaek** · **Stabaek**
+- **Mjøndalen IF**, Mjøndalen (1):
+  - `mjondalen` (2): **Mjondalen** · **Mjondalen**
+- **Bodø/Glimt**, Bodø (1):
+  - `bodoglimt` (2): **Bodo/Glimt** · **Bodo/Glimt**
+- **Hønefoss BK**, Hønefoss (1):
+  - `honefoss` (2): **Honefoss** · **Honefoss**
 
 
 

@@ -1,27 +1,27 @@
 22 clubs
 
--  : (2) HJK · Helsingin Jalkapalloklubi
--  : (3) HIFK · HIFK Fotboll · IFK Helsingfors
--  : (2) Haka Valkeakoski · Valkeakosken Haka
--  : (2) FC Inter · Inter Turku
--  : (1) TPS
--  : (2) Honka · FC Honka
--  : (1) KuPS
--  : (3) MyPa · MYPA · Myllykosken Pallo-47
--  : (1) Lahti
--  : (2) JJK · JJK Jyvaskyla ⇒ (2) ≈JJK Jyvaskyla≈ · ≈JJK Jyvaeskylae≈
-- 
--  : (2) Ilves · Ilves Tampere
--  : (1) Mariehamn
--  : (2) KPV · Kokkolan Palloveikot
--  : (3) RoPS · Rovaniemi · RoPS Rovaniemi
--  : (2) SJK · Seinäjoen Jalkapallokerho ⇒ (4) ≈SJK Seinajoki≈ · ≈SJK Seinaejoki≈ · ≈Seinajoen Jalkapallokerho≈ · ≈Seinaejoen Jalkapallokerho≈
--  : (2) VPS · VPS Vaasa
--  : (1) Haka
--  : (2) Jaro · Fotbollsföreningen Jaro Jalkapalloseura ⇒ (2) ≈Fotbollsforeningen Jaro Jalkapalloseura≈ · ≈Fotbollsfoereningen Jaro Jalkapalloseura≈
--  : (2) KTP · Kotkan Työväen Palloilijat ⇒ (2) ≈Kotkan Tyovaen Palloilijat≈ · ≈Kotkan Tyoevaeen Palloilijat≈
--  : (2) PK-35 · Pallokerho-35
--  : (3) PS Kemi · Kemi City FC · Kemi City Football Club
+- **HJK Helsinki** : (2) HJK · Helsingin Jalkapalloklubi
+- **HIFK Helsinki** : (3) HIFK · HIFK Fotboll · IFK Helsingfors
+- **FC Haka Valkeakoski** : (2) Haka Valkeakoski · Valkeakosken Haka
+- **FC Inter Turku** : (2) FC Inter · Inter Turku
+- **TPS Turku** : (1) TPS
+- **FC Honka Espoo** : (2) Honka · FC Honka
+- **KuPS Kuopio** : (1) KuPS
+- **Myllykosken Pallo -47** : (3) MyPa · MYPA · Myllykosken Pallo-47
+- **FC Lahti** : (1) Lahti
+- **JJK Jyväskylä** : (2) JJK · JJK Jyvaskyla ⇒ (2) ≈JJK Jyvaskyla≈ · ≈JJK Jyvaeskylae≈
+- **Tampere United**
+- **FC Ilves** : (2) Ilves · Ilves Tampere
+- **IFK Mariehamn** : (1) Mariehamn
+- **KPV Kokkola** : (2) KPV · Kokkolan Palloveikot
+- **Rovaniemen Palloseura** : (3) RoPS · Rovaniemi · RoPS Rovaniemi
+- **SJK Seinäjoki** : (2) SJK · Seinäjoen Jalkapallokerho ⇒ (4) ≈SJK Seinajoki≈ · ≈SJK Seinaejoki≈ · ≈Seinajoen Jalkapallokerho≈ · ≈Seinaejoen Jalkapallokerho≈
+- **Vaasan Palloseura** : (2) VPS · VPS Vaasa
+- **FC Haka** : (1) Haka
+- **FF Jaro** : (2) Jaro · Fotbollsföreningen Jaro Jalkapalloseura ⇒ (2) ≈Fotbollsforeningen Jaro Jalkapalloseura≈ · ≈Fotbollsfoereningen Jaro Jalkapalloseura≈
+- **KTP Kotka** : (2) KTP · Kotkan Työväen Palloilijat ⇒ (2) ≈Kotkan Tyovaen Palloilijat≈ · ≈Kotkan Tyoevaeen Palloilijat≈
+- **PK-35 Vantaa** : (2) PK-35 · Pallokerho-35
+- **Palloseura Kemi Kings** : (3) PS Kemi · Kemi City FC · Kemi City Football Club
 
 
 

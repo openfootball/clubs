@@ -1,20 +1,20 @@
 15 clubs
 
--  : (1) H. Tel-Aviv
--  : (2) M. Tel-Aviv · Maccabi Tel Aviv
--  : (1) Bnei Yehuda
--  : (1) M. Haifa
--  : (1) H. Haifa
--  : (2) H. Kiryat Shmona · Hapoel Ironi Kiryat Shmona FC
--  : (1) M. Netanya
--  : (1) Beitar Jerusalem
--  : (1) H. Beer-Sheva
-- 
--  : (2) Ashdod · FC Ironi Ashdod
--  : (1) Bnei Sakhnin
--  : (1) Hapoel Hadera
--  : (1) Hapoel Ra'anana
--  : (1) Maccabi Petah Tikva
+- [**Hapoel Tel-Aviv FC**](https://en.wikipedia.org/wiki/Hapoel_Tel_Aviv_F.C.) : (1) H. Tel-Aviv
+- [**Maccabi Tel-Aviv FC**](https://en.wikipedia.org/wiki/Maccabi_Tel_Aviv_F.C.) : (2) M. Tel-Aviv · Maccabi Tel Aviv
+- [**Bnei Yehuda Tel-Aviv FC**](https://en.wikipedia.org/wiki/Bnei_Yehuda_Tel_Aviv_F.C.) : (1) Bnei Yehuda
+- [**Maccabi Haifa FC**](https://en.wikipedia.org/wiki/Maccabi_Haifa_F.C.) : (1) M. Haifa
+- [**Hapoel Haifa FC**](https://en.wikipedia.org/wiki/Hapoel_Haifa_F.C.) : (1) H. Haifa
+- [**Hapoel Kiryat Shmona FC**](https://en.wikipedia.org/wiki/Hapoel_Ironi_Kiryat_Shmona_F.C.) : (2) H. Kiryat Shmona · Hapoel Ironi Kiryat Shmona FC
+- [**Maccabi Netanya FC**](https://en.wikipedia.org/wiki/Maccabi_Netanya_F.C.) : (1) M. Netanya
+- [**Beitar Jerusalem FC**](https://en.wikipedia.org/wiki/Beitar_Jerusalem_F.C.) : (1) Beitar Jerusalem
+- [**Hapoel Beer-Sheva FC**](https://en.wikipedia.org/wiki/Hapoel_Be'er_Sheva_F.C.) : (1) H. Beer-Sheva
+- **H. Ramat Gan**
+- [**FC Ashdod**](https://en.wikipedia.org/wiki/F.C._Ashdod) : (2) Ashdod · FC Ironi Ashdod
+- [**Bnei Sakhnin FC**](https://en.wikipedia.org/wiki/Bnei_Sakhnin_F.C.) : (1) Bnei Sakhnin
+- [**Hapoel Hadera FC**](https://en.wikipedia.org/wiki/Hapoel_Hadera_F.C.) : (1) Hapoel Hadera
+- [**Hapoel Ra'anana AFC**](https://en.wikipedia.org/wiki/Hapoel_Ra'anana_A.F.C.) : (1) Hapoel Ra'anana
+- [**Maccabi Petah Tikva FC**](https://en.wikipedia.org/wiki/Maccabi_Petah_Tikva_F.C.) : (1) Maccabi Petah Tikva
 
 
 

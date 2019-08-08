@@ -1,9 +1,9 @@
 4 clubs
 
--  : (2) Libertad · Club Libertad Asunción ⇒ (2) ≈Libertad Ascuncion≈ · ≈Club Libertad Asuncion≈
--  : (1) Olimpia
--  : (2) Nacional · Nacional de Asunción ⇒ (1) ≈Nacional de Asuncion≈
--  : (1) Club Cerro Porteño ⇒ (2) ≈Cerro Porteno≈ · ≈Club Cerro Porteno≈
+- **Libertad Ascunción** : (2) Libertad · Club Libertad Asunción ⇒ (2) ≈Libertad Ascuncion≈ · ≈Club Libertad Asuncion≈
+- **Club Olimpia** : (1) Olimpia
+- **Club Nacional** : (2) Nacional · Nacional de Asunción ⇒ (1) ≈Nacional de Asuncion≈
+- **Cerro Porteño** : (1) Club Cerro Porteño ⇒ (2) ≈Cerro Porteno≈ · ≈Club Cerro Porteno≈
 
 
 

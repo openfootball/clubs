@@ -1,16 +1,16 @@
 11 clubs
 
--  : (5) Sheriff · Tiraspol · FC Sheriff · FC Tiraspol · Sheriff Tiraspol
--  : (1) Dacia
--  : (1) Zimbru
--  : (1) Iskra-Stal
--  : (1) Milsami
-- 
--  : (2) Zaria · Zaria Balti
-- 
--  : (1) Petrocub
--  : (1) Saxan
--  : (1) Veris
+- **FC Sheriff Tiraspol** : (5) Sheriff · Tiraspol · FC Sheriff · FC Tiraspol · Sheriff Tiraspol
+- **FC Dacia Chisinau** : (1) Dacia
+- **FC Zimbru Chisinau** : (1) Zimbru
+- **FC Iskra-Stal** : (1) Iskra-Stal
+- **FC Milsami Orhei** : (1) Milsami
+- **FC Olimpia Balti**
+- **FC Zaria Balti** : (2) Zaria · Zaria Balti
+- **FC Nistru Otaci**
+- **CS Petrocub** : (1) Petrocub
+- **FC Saxan** : (1) Saxan
+- **FC Veris** : (1) Veris
 
 
 

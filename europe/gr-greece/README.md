@@ -1,51 +1,51 @@
 46 clubs
 
--  : (2) AEK · AEK Athens
--  : (1) Panathinaikos
--  : (1) Apollon
--  : (1) Atromitos
--  : (1) Panionios
--  : (1) Akratitos
--  : (1) Athinaikos
--  : (1) Chalkidona
--  : (1) Egaleo
--  : (2) Eth Asteras · Ethnikos Asteras
--  : (2) Kalithea · Kallithea
--  : (1) Thrasyvoulos
--  : (1) Eleysina
--  : (2) Proodeftiki · Proodeytiki
--  : (1) Ionikos
--  : (5) Olympiakos · Olympiacos · Olympiakos P. · Olympiacos FC · Olympiakos Piräus ⇒ (2) ≈Olympiakos Piraus≈ · ≈Olympiakos Piraeus≈
--  : (2) Ethnikos · Ethnikos Piraeus
--  : (1) PAOK
--  : (1) Aris
--  : (1) Iraklis
--  : (1) Kalamaria
--  : (1) Asteras Tripolis
--  : (1) Xanthi
--  : (1) Panetolikos
--  : (2) Giannina · Yiannina
--  : (2) Levadiakos · Levadeiakos
--  : (3) Larisa · Larissa · Larissa FC
--  : (1) Lamia
--  : (1) Kerkyra
--  : (1) Platanias
--  : (2) Doxa · Doxa Dramas
--  : (1) Edessaikos
--  : (1) Ergotelis
--  : (1) OFI
--  : (1) Kalamata
--  : (1) Kallonis
--  : (1) Kastoria
--  : (1) Kavala
--  : (1) Niki Volos
--  : (3) Olympiacos Volou · Olympiakos Volou · Olympiacos Volou FC
--  : (1) Panahaiki
--  : (1) Paniliakos
--  : (1) Panserraikos
--  : (1) Panthrakikos
--  : (1) Trikala
--  : (2) Veria · Veroia
+- **AEK Athens FC** : (2) AEK · AEK Athens
+- **Panathinaikos FC** : (1) Panathinaikos
+- **Apollon Smyrnis FC** : (1) Apollon
+- **Atromitos FC** : (1) Atromitos
+- **Panionios GSS** : (1) Panionios
+- **APO Akratitos** : (1) Akratitos
+- **Athinaikos AS FC** : (1) Athinaikos
+- **Chalkidona FC** : (1) Chalkidona
+- **Egaleo FC** : (1) Egaleo
+- **Ethnikos Asteras FC** : (2) Eth Asteras · Ethnikos Asteras
+- **Kallithea FC** : (2) Kalithea · Kallithea
+- **Thrasyvoulos FC** : (1) Thrasyvoulos
+- **Panelefsiniakos FC** : (1) Eleysina
+- **Proodeftiki FC** : (2) Proodeftiki · Proodeytiki
+- **Ionikos FC** : (1) Ionikos
+- **Olympiacos Piraeus FC** : (5) Olympiakos · Olympiacos · Olympiakos P. · Olympiacos FC · Olympiakos Piräus ⇒ (2) ≈Olympiakos Piraus≈ · ≈Olympiakos Piraeus≈
+- **Ethnikos Piraeus FC** : (2) Ethnikos · Ethnikos Piraeus
+- **PAOK FC** : (1) PAOK
+- **Aris Thessaloniki FC** : (1) Aris
+- **Iraklis 1908 Thessaloniki FC** : (1) Iraklis
+- **Apollon Pontou FC** : (1) Kalamaria
+- **Asteras Tripolis FC** : (1) Asteras Tripolis
+- **Xanthi FC** : (1) Xanthi
+- **Panetolikos GFS** : (1) Panetolikos
+- **PAS Giannina FC** : (2) Giannina · Yiannina
+- **Levadiakos FC** : (2) Levadiakos · Levadeiakos
+- **AE Larissa FC** : (3) Larisa · Larissa · Larissa FC
+- **PAS Lamia 1964** : (1) Lamia
+- **Kerkyra FC** : (1) Kerkyra
+- **Platanias FC** : (1) Platanias
+- **Doxa Dramas FC** : (2) Doxa · Doxa Dramas
+- **Edessaikos FC** : (1) Edessaikos
+- **Ergotelis FC** : (1) Ergotelis
+- **OFI Crete FC** : (1) OFI
+- **Kalamata FC** : (1) Kalamata
+- **AEL Kalloni FC** : (1) Kallonis
+- **Kastoria FC** : (1) Kastoria
+- **Kavala FC** : (1) Kavala
+- **Niki Volou FC** : (1) Niki Volos
+- **Olympiacos Volou 1937 FC** : (3) Olympiacos Volou · Olympiakos Volou · Olympiacos Volou FC
+- **Panachaiki FC** : (1) Panahaiki
+- **Paniliakos FC** : (1) Paniliakos
+- **Panserraikos FC** : (1) Panserraikos
+- **Panthrakikos FC** : (1) Panthrakikos
+- **Trikala FC** : (1) Trikala
+- **Veria FC** : (2) Veria · Veroia
 
 
 

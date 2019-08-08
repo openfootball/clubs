@@ -1,17 +1,17 @@
 12 clubs
 
--  : (1) Dinamo Tbilisi
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- **FC Dinamo Tbilisi** : (1) Dinamo Tbilisi
+- **FC Zestafoni**
+- **FC Metalurgi Rustavi**
+- **FC Dila Gori**
+- **FC WIT Georgia**
+- **FC Gagra**
+- **FC Torpedo Kutaisi**
+- **FC Chikhura Sachkhere**
+- **FC Samtredia**
+- **FC Dinamo Batumi**
+- **FC Tskhinvali**
+- **FC Sioni Bolnisi**
 
 
 

@@ -1,54 +1,54 @@
 49 clubs
 
--  : (4) Corinthians · Corinthians São Paulo · SC Corinthians Paulista · Sport Club Corinthians Paulista ⇒ (1) ≈Corinthians Sao Paulo≈
--  : (5) Sao Paulo · São Paulo · São Paulo SP · FC São Paulo · São Paulo Futebol Clube ⇒ (5) ≈Sao Paulo≈ · ≈Sao Paulo FC≈ · ≈Sao Paulo SP≈ · ≈FC Sao Paulo≈ · ≈Sao Paulo Futebol Clube≈
--  : (4) Palmeiras · SE Palmeiras · SE Palmeiras São Paulo · Sociedade Esportiva Palmeiras ⇒ (1) ≈SE Palmeiras Sao Paulo≈
--  : (4) Santos · Santos FC · FC Santos · Santos Futebol Clube
--  : (2) AA Ponte Preta · Associação Atlética Ponte Preta ⇒ (1) ≈Associacao Atletica Ponte Preta≈
--  : (2) Bragantino · Clube Atlético Bragantino ⇒ (1) ≈Clube Atletico Bragantino≈
--  : (2) Bragantino · Red Bull Bragantino
--  : (3) Oeste · Oeste FC · Oeste Futebol Clube
--  : (1) Associação Portuguesa de Desportos ⇒ (1) ≈Associacao Portuguesa de Desportos≈
--  : (3) Botafogo FC · Botafogo Futebol Clube · Botafogo Futebol Clube (SP)
--  : (2) Guarani · Guarani Futebol Clube
--  : (1) Esporte Clube São Bento ⇒ (2) ≈Sao Bento≈ · ≈Esporte Clube Sao Bento≈
--  : (3) Botafogo · Botafogo FR · Botafogo de Futebol e Regatas
--  : (4) Flamengo · CR Flamengo · Flamengo Rio de Janeiro · Clube de Regatas do Flamengo
--  : (4) Fluminense · Fluminense FC · Fluminense Football Club · Fluminense Rio de Janeiro
--  : (5) Vasco · Vasco RJ · Vasco da Gama · Vasco da Gama Rio de Janeiro · Club de Regatas Vasco da Gama
--  : (5) Atlético/MG · Atletico-MG · Atlético Mineiro · C Atlético Mineiro · Clube Atlético Mineiro ⇒ (5) ≈Atletico MG≈ · ≈Atletico/MG≈ · ≈Atletico Mineiro≈ · ≈C Atletico Mineiro≈ · ≈Clube Atletico Mineiro≈
--  : (4) Cruzeiro · Cruzeiro EC · Cruzeiro Esporte Clube · Cruzeiro Belo Horizonte
--  : (5) America MG · América FC · América Mineiro · América Futebol Clube · América Futebol Clube (MG) ⇒ (5) ≈America MG≈ · ≈America FC≈ · ≈America Mineiro≈ · ≈America Futebol Clube≈ · ≈America Futebol Clube (MG)≈
--  : (3) Tupi · Tupi FC · Tupi Football Club
--  : (5) Gremio · Grêmio · Grêmio FBPA · Grêmio Porto Alegre · Grêmio Foot-Ball Porto Alegrense ⇒ (5) ≈Gremio≈ · ≈Gremio RS≈ · ≈Gremio FBPA≈ · ≈Gremio Porto Alegre≈ · ≈Gremio Foot-Ball Porto Alegrense≈
--  : (4) Internacional · SC Internacional · Internacional RS · Sport Club Internacional
--  : (4) GE Brasil · Brasil de Pelotas · Grêmio Esportivo Brasil · Grêmio Esportivo Brasil de Pelotas ⇒ (2) ≈Gremio Esportivo Brasil≈ · ≈Gremio Esportivo Brasil de Pelotas≈
--  : (7) Atletico-PR · Atlético/PR · Athletico-PR [en] · Atlético Paranaense · C Atlético Paranaense · Clube Atlético Paranaense · Club Athletico Paranaense [en] ⇒ (5) ≈Atletico PR≈ · ≈Atletico/PR≈ · ≈Atletico Paranaense≈ · ≈C Atletico Paranaense≈ · ≈Clube Atletico Paranaense≈
--  : (3) Coritiba · Coritiba FC · Coritiba Football Club
--  : (2) Londrina · Londrina Esporte Clube
--  : (1) Parana ⇒ (1) ≈Parana Clube≈
--  : (2) Operário · Operário Ferroviário Esporte Clube ⇒ (3) ≈Operario≈ · ≈Operario Ferroviario≈ · ≈Operario Ferroviario Esporte Clube≈
--  : (3) Figueirense FC · Figueirense SC · Figueirense Futebol Clube
--  : (2) Chapecoense-SC · Associação Chapecoense de Futebol ⇒ (1) ≈Associacao Chapecoense de Futebol≈
--  : (3) Criciuma · Criciúma · Criciúma Esporte Clube ⇒ (3) ≈Criciuma≈ · ≈Criciuma EC≈ · ≈Criciuma Esporte Clube≈
--  : (2) Avai · Avaí Futebol Clube ⇒ (2) ≈Avai FC≈ · ≈Avai Futebol Clube≈
--  : (3) Joinvile · Joinville · Joinville Esporte Clube
--  : (3) Sport · Sport PE · Sport Club do Recife
--  : (2) Santa Cruz FC · Santa Cruz Futebol Clube
--  : (4) Nautico · Náutico · C Náutico Capibaribe · Clube Náutico Capibaribe ⇒ (4) ≈Nautico≈ · ≈Nautico PE≈ · ≈C Nautico Capibaribe≈ · ≈Clube Nautico Capibaribe≈
--  : (3) Vitoria · Vitória · Esporte Clube Vitória ⇒ (3) ≈Vitoria≈ · ≈EC Vitoria≈ · ≈Esporte Clube Vitoria≈
--  : (3) Bahia · Bahia BA · Esporte Clube Bahia
--  : (3) Goias · Goiás · Goiás Esporte Clube ⇒ (3) ≈Goias≈ · ≈Goias EC≈ · ≈Goias Esporte Clube≈
--  : (3) Atletico GO · Atlético Goianiense · Atlético Clube Goianiense ⇒ (3) ≈Atletico GO≈ · ≈Atletico Goianiense≈ · ≈Atletico Clube Goianiense≈
--  : (4) Vila Nova · Vila Nova FC · Vila Nova de Goias · Vila Nova Futebol Clube
--  : (3) Ceara · Ceará · Ceará Sporting Club ⇒ (3) ≈Ceara≈ · ≈Ceara SC≈ · ≈Ceara Sporting Club≈
--  : (1) Fortaleza Esporte Clube
--  : (2) Paysandu · Paysandu Sport Club
--  : (2) CRB · Clube de Regatas Brasil
--  : (1) Centro Sportivo Alagoano
--  : (2) Luverdense · Luverdense Esporte Clube
--  : (1) Cuiabá Esporte Clube ⇒ (2) ≈Cuiaba≈ · ≈Cuiaba Esporte Clube≈
--  : (2) Sampaio Corrêa · Sampaio Corrêa Futebol Clube ⇒ (3) ≈Sampaio Correa≈ · ≈Sampaio Correa FC≈ · ≈Sampaio Correa Futebol Clube≈
+- [**Corinthians SP**](https://en.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista) : (4) Corinthians · Corinthians São Paulo · SC Corinthians Paulista · Sport Club Corinthians Paulista ⇒ (1) ≈Corinthians Sao Paulo≈
+- [**São Paulo FC**](https://en.wikipedia.org/wiki/São_Paulo_FC) : (5) Sao Paulo · São Paulo · São Paulo SP · FC São Paulo · São Paulo Futebol Clube ⇒ (5) ≈Sao Paulo≈ · ≈Sao Paulo FC≈ · ≈Sao Paulo SP≈ · ≈FC Sao Paulo≈ · ≈Sao Paulo Futebol Clube≈
+- [**Palmeiras SP**](https://en.wikipedia.org/wiki/Sociedade_Esportiva_Palmeiras) : (4) Palmeiras · SE Palmeiras · SE Palmeiras São Paulo · Sociedade Esportiva Palmeiras ⇒ (1) ≈SE Palmeiras Sao Paulo≈
+- [**Santos SP**](https://en.wikipedia.org/wiki/Santos_FC) : (4) Santos · Santos FC · FC Santos · Santos Futebol Clube
+- [**Ponte Preta**](https://en.wikipedia.org/wiki/Associação_Atlética_Ponte_Preta) : (2) AA Ponte Preta · Associação Atlética Ponte Preta ⇒ (1) ≈Associacao Atletica Ponte Preta≈
+- **CA Bragantino** : (2) Bragantino · Clube Atlético Bragantino ⇒ (1) ≈Clube Atletico Bragantino≈
+- [**RB Bragantino**](https://en.wikipedia.org/wiki/Red_Bull_Bragantino) : (2) Bragantino · Red Bull Bragantino
+- [**Oeste SP**](https://en.wikipedia.org/wiki/Oeste_Futebol_Clube) : (3) Oeste · Oeste FC · Oeste Futebol Clube
+- **Portuguesa** : (1) Associação Portuguesa de Desportos ⇒ (1) ≈Associacao Portuguesa de Desportos≈
+- [**Botafogo SP**](https://en.wikipedia.org/wiki/Botafogo_Futebol_Clube_(SP)) : (3) Botafogo FC · Botafogo Futebol Clube · Botafogo Futebol Clube (SP)
+- [**Guarani FC**](https://en.wikipedia.org/wiki/Guarani_FC) : (2) Guarani · Guarani Futebol Clube
+- [**São Bento**](https://en.wikipedia.org/wiki/Esporte_Clube_São_Bento) : (1) Esporte Clube São Bento ⇒ (2) ≈Sao Bento≈ · ≈Esporte Clube Sao Bento≈
+- [**Botafogo RJ**](https://en.wikipedia.org/wiki/Botafogo_de_Futebol_e_Regatas) : (3) Botafogo · Botafogo FR · Botafogo de Futebol e Regatas
+- [**Flamengo RJ**](https://en.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo) : (4) Flamengo · CR Flamengo · Flamengo Rio de Janeiro · Clube de Regatas do Flamengo
+- [**Fluminense RJ**](https://en.wikipedia.org/wiki/Fluminense_FC) : (4) Fluminense · Fluminense FC · Fluminense Football Club · Fluminense Rio de Janeiro
+- [**CR Vasco da Gama**](https://en.wikipedia.org/wiki/CR_Vasco_da_Gama) : (5) Vasco · Vasco RJ · Vasco da Gama · Vasco da Gama Rio de Janeiro · Club de Regatas Vasco da Gama
+- [**Atlético MG**](https://en.wikipedia.org/wiki/Clube_Atlético_Mineiro) : (5) Atlético/MG · Atletico-MG · Atlético Mineiro · C Atlético Mineiro · Clube Atlético Mineiro ⇒ (5) ≈Atletico MG≈ · ≈Atletico/MG≈ · ≈Atletico Mineiro≈ · ≈C Atletico Mineiro≈ · ≈Clube Atletico Mineiro≈
+- [**Cruzeiro MG**](https://en.wikipedia.org/wiki/Cruzeiro_Esporte_Clube) : (4) Cruzeiro · Cruzeiro EC · Cruzeiro Esporte Clube · Cruzeiro Belo Horizonte
+- [**América MG**](https://en.wikipedia.org/wiki/América_Futebol_Clube_(MG)) : (5) America MG · América FC · América Mineiro · América Futebol Clube · América Futebol Clube (MG) ⇒ (5) ≈America MG≈ · ≈America FC≈ · ≈America Mineiro≈ · ≈America Futebol Clube≈ · ≈America Futebol Clube (MG)≈
+- **Tupi MG** : (3) Tupi · Tupi FC · Tupi Football Club
+- [**Grêmio RS**](https://en.wikipedia.org/wiki/Grêmio_Foot-Ball_Porto_Alegrense) : (5) Gremio · Grêmio · Grêmio FBPA · Grêmio Porto Alegre · Grêmio Foot-Ball Porto Alegrense ⇒ (5) ≈Gremio≈ · ≈Gremio RS≈ · ≈Gremio FBPA≈ · ≈Gremio Porto Alegre≈ · ≈Gremio Foot-Ball Porto Alegrense≈
+- [**Internacional Porto Alegre**](https://en.wikipedia.org/wiki/Sport_Club_Internacional) : (4) Internacional · SC Internacional · Internacional RS · Sport Club Internacional
+- [**Brasil RS**](https://en.wikipedia.org/wiki/Grêmio_Esportivo_Brasil) : (4) GE Brasil · Brasil de Pelotas · Grêmio Esportivo Brasil · Grêmio Esportivo Brasil de Pelotas ⇒ (2) ≈Gremio Esportivo Brasil≈ · ≈Gremio Esportivo Brasil de Pelotas≈
+- [**Atlético PR**](https://en.wikipedia.org/wiki/Club_Athletico_Paranaense) : (7) Atletico-PR · Atlético/PR · Athletico-PR [en] · Atlético Paranaense · C Atlético Paranaense · Clube Atlético Paranaense · Club Athletico Paranaense [en] ⇒ (5) ≈Atletico PR≈ · ≈Atletico/PR≈ · ≈Atletico Paranaense≈ · ≈C Atletico Paranaense≈ · ≈Clube Atletico Paranaense≈
+- [**Coritiba PR**](https://en.wikipedia.org/wiki/Coritiba_Foot_Ball_Club) : (3) Coritiba · Coritiba FC · Coritiba Football Club
+- [**Londrina EC**](https://en.wikipedia.org/wiki/Londrina_Esporte_Clube) : (2) Londrina · Londrina Esporte Clube
+- [**Paraná Clube**](https://en.wikipedia.org/wiki/Paraná_Clube) : (1) Parana ⇒ (1) ≈Parana Clube≈
+- [**Operário Ferroviário**](https://en.wikipedia.org/wiki/Operário_Ferroviário_Esporte_Clube) : (2) Operário · Operário Ferroviário Esporte Clube ⇒ (3) ≈Operario≈ · ≈Operario Ferroviario≈ · ≈Operario Ferroviario Esporte Clube≈
+- [**Figueirense**](https://en.wikipedia.org/wiki/Figueirense_FC) : (3) Figueirense FC · Figueirense SC · Figueirense Futebol Clube
+- [**Chapecoense**](https://en.wikipedia.org/wiki/Associação_Chapecoense_de_Futebol) : (2) Chapecoense-SC · Associação Chapecoense de Futebol ⇒ (1) ≈Associacao Chapecoense de Futebol≈
+- [**Criciúma EC**](https://en.wikipedia.org/wiki/Criciúma_Esporte_Clube) : (3) Criciuma · Criciúma · Criciúma Esporte Clube ⇒ (3) ≈Criciuma≈ · ≈Criciuma EC≈ · ≈Criciuma Esporte Clube≈
+- [**Avaí FC**](https://en.wikipedia.org/wiki/Avaí_FC) : (2) Avai · Avaí Futebol Clube ⇒ (2) ≈Avai FC≈ · ≈Avai Futebol Clube≈
+- **Joinvile EC** : (3) Joinvile · Joinville · Joinville Esporte Clube
+- [**Sport Recife**](https://en.wikipedia.org/wiki/Sport_Club_do_Recife) : (3) Sport · Sport PE · Sport Club do Recife
+- **Santa Cruz** : (2) Santa Cruz FC · Santa Cruz Futebol Clube
+- **Náutico PE** : (4) Nautico · Náutico · C Náutico Capibaribe · Clube Náutico Capibaribe ⇒ (4) ≈Nautico≈ · ≈Nautico PE≈ · ≈C Nautico Capibaribe≈ · ≈Clube Nautico Capibaribe≈
+- [**EC Vitória**](https://en.wikipedia.org/wiki/Esporte_Clube_Vitória) : (3) Vitoria · Vitória · Esporte Clube Vitória ⇒ (3) ≈Vitoria≈ · ≈EC Vitoria≈ · ≈Esporte Clube Vitoria≈
+- [**EC Bahia**](https://en.wikipedia.org/wiki/Esporte_Clube_Bahia) : (3) Bahia · Bahia BA · Esporte Clube Bahia
+- [**Goiás EC**](https://en.wikipedia.org/wiki/Goiás_Esporte_Clube) : (3) Goias · Goiás · Goiás Esporte Clube ⇒ (3) ≈Goias≈ · ≈Goias EC≈ · ≈Goias Esporte Clube≈
+- [**Atlético GO**](https://en.wikipedia.org/wiki/Atlético_Clube_Goianiense) : (3) Atletico GO · Atlético Goianiense · Atlético Clube Goianiense ⇒ (3) ≈Atletico GO≈ · ≈Atletico Goianiense≈ · ≈Atletico Clube Goianiense≈
+- [**Vila Nova GO**](https://en.wikipedia.org/wiki/Vila_Nova_Futebol_Clube) : (4) Vila Nova · Vila Nova FC · Vila Nova de Goias · Vila Nova Futebol Clube
+- [**Ceára SC**](https://en.wikipedia.org/wiki/Ceará_Sporting_Club) : (3) Ceara · Ceará · Ceará Sporting Club ⇒ (3) ≈Ceara≈ · ≈Ceara SC≈ · ≈Ceara Sporting Club≈
+- [**Fortaleza**](https://en.wikipedia.org/wiki/Fortaleza_Esporte_Clube) : (1) Fortaleza Esporte Clube
+- **Paysandu SC** : (2) Paysandu · Paysandu Sport Club
+- [**CRB AL**](https://en.wikipedia.org/wiki/Clube_de_Regatas_Brasil) : (2) CRB · Clube de Regatas Brasil
+- [**CSA**](https://en.wikipedia.org/wiki/Centro_Sportivo_Alagoano) : (1) Centro Sportivo Alagoano
+- **Luverdense EC** : (2) Luverdense · Luverdense Esporte Clube
+- [**Cuiabá**](https://en.wikipedia.org/wiki/Cuiabá_Esporte_Clube) : (1) Cuiabá Esporte Clube ⇒ (2) ≈Cuiaba≈ · ≈Cuiaba Esporte Clube≈
+- **Sampaio Corrêa FC** : (2) Sampaio Corrêa · Sampaio Corrêa Futebol Clube ⇒ (3) ≈Sampaio Correa≈ · ≈Sampaio Correa FC≈ · ≈Sampaio Correa Futebol Clube≈
 
 
 

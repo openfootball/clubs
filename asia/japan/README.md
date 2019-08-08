@@ -1,32 +1,32 @@
 27 clubs
 
--  : (1) Tokyo
--  : (1) Verdy
-- 
-- 
--  : (1) C-Osaka
--  : (1) G-Osaka
--  : (2) Yokohama · Yokohama M.
-- 
--  : (1) Nagoya
--  : (1) Iwata ⇒ (1) ≈Jubilo Iwata≈
--  : (1) Urawa
--  : (1) Kashiwa
--  : (1) Shimizu
-- 
--  : (1) Hiroshima
-- 
--  : (2) Sapporo · Consadole Sapporo
-- 
--  : (1) Yamaga
--  : (1) Kobe
-- 
--  : (1) Kashima
--  : (1) Oita
--  : (1) Shonan
--  : (1) Kofu
-- 
--  : (1) Tokushima
+- [**FC Tokyo**](https://en.wikipedia.org/wiki/FC_Tokyo) : (1) Tokyo
+- **Tokyo Verdy** : (1) Verdy
+- **Albirex Niigata**
+- **Omiya Ardija**
+- [**Cerezo Osaka**](https://en.wikipedia.org/wiki/Cerezo_Osaka) : (1) C-Osaka
+- [**Gamba Osaka**](https://en.wikipedia.org/wiki/Gamba_Osaka) : (1) G-Osaka
+- [**Yokohama F. Marinos**](https://en.wikipedia.org/wiki/Yokohama_F._Marinos) : (2) Yokohama · Yokohama M.
+- [**Kawasaki Frontale**](https://en.wikipedia.org/wiki/Kawasaki_Frontale)
+- [**Nagoya Grampus**](https://en.wikipedia.org/wiki/Nagoya_Grampus) : (1) Nagoya
+- [**Júbilo Iwata**](https://en.wikipedia.org/wiki/Júbilo_Iwata) : (1) Iwata ⇒ (1) ≈Jubilo Iwata≈
+- [**Urawa Red Diamonds**](https://en.wikipedia.org/wiki/Urawa_Red_Diamonds) : (1) Urawa
+- **Kashiwa Reysol** : (1) Kashiwa
+- [**Shimizu S-Pulse**](https://en.wikipedia.org/wiki/Shimizu_S-Pulse) : (1) Shimizu
+- [**Sagan Tosu**](https://en.wikipedia.org/wiki/Sagan_Tosu)
+- [**Sanfrecce Hiroshima**](https://en.wikipedia.org/wiki/Sanfrecce_Hiroshima) : (1) Hiroshima
+- [**Vegalta Sendai**](https://en.wikipedia.org/wiki/Vegalta_Sendai)
+- [**Hokkaido Consadole Sapporo**](https://en.wikipedia.org/wiki/Consadole_Sapporo) : (2) Sapporo · Consadole Sapporo
+- **Avispa Fukuoka**
+- [**Matsumoto Yamaga**](https://en.wikipedia.org/wiki/Matsumoto_Yamaga) : (1) Yamaga
+- [**Vissel Kobe**](https://en.wikipedia.org/wiki/Vissel_Kobe) : (1) Kobe
+- **V-Varen Nagasaki**
+- [**Kashima Antlers**](https://en.wikipedia.org/wiki/Kashima_Antlers) : (1) Kashima
+- [**Oita Trinita**](https://en.wikipedia.org/wiki/Oita_Trinita) : (1) Oita
+- [**Shonan Bellmare**](https://en.wikipedia.org/wiki/Shonan_Bellmare) : (1) Shonan
+- **Ventforet Kofu** : (1) Kofu
+- **Montedio Yamagata**
+- **Tokushima Vortis** : (1) Tokushima
 
 
 

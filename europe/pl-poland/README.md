@@ -1,30 +1,30 @@
 25 clubs
 
--  : (2) Legia · Legia Warsaw
--  : (1) Polonia Warszawa
--  : (2) Gornik Z. · Gornik Zabrze ⇒ (1) ≈Gornik Zabrze≈
--  : (2) Lech · Lech Poznan
--  : (1) Wisla ⇒ (1) ≈Wisła Krakow≈
--  : (2) Cracovia · MKS Cracovia Kraków ⇒ (1) ≈MKS Cracovia Krakow≈
--  : (2) Śląsk · Slask Wroclaw
--  : (1) Jagiellonia
--  : (1) Arka
--  : (1) GKS Belchatow ⇒ (1) ≈GKS Bełchatow≈
-- 
--  : (1) Lechia Gdansk
--  : (1) Leczna ⇒ (1) ≈Gornik Łęczna≈
--  : (1) Legnica
--  : (2) Piast · GKS Piast Gliwice
--  : (1) Plock
--  : (1) Podbeskidzie
--  : (1) Pogon Szczecin
--  : (1) Ruch ⇒ (1) ≈Ruch Chorzow≈
--  : (1) Sandecja Nowy S.
--  : (1) Termalica B-B.
--  : (1) Widzew Lodz ⇒ (1) ≈Widzew Łodź≈
--  : (1) Zaglebie
--  : (1) Zaglebie Sosnowiec
--  : (1) Zawisza
+- **Legia Warszawa** : (2) Legia · Legia Warsaw
+- **KSP Polonia Warszawa** : (1) Polonia Warszawa
+- **Górnik Zabrze** : (2) Gornik Z. · Gornik Zabrze ⇒ (1) ≈Gornik Zabrze≈
+- **KKS Lech Poznań** : (2) Lech · Lech Poznan ⇒ (1) ≈KKS Lech Poznan≈
+- **Wisła Kraków** : (1) Wisla ⇒ (1) ≈Wisla Krakow≈
+- **KS Cracovia** : (2) Cracovia · MKS Cracovia Kraków ⇒ (1) ≈MKS Cracovia Krakow≈
+- **WKS Śląsk Wrocław** : (2) Śląsk · Slask Wroclaw ⇒ (2) ≈Slask≈ · ≈WKS Slask Wroclaw≈
+- **Jagiellonia Białystok** : (1) Jagiellonia ⇒ (1) ≈Jagiellonia Bialystok≈
+- **Arka Gdynia** : (1) Arka
+- **GKS Bełchatów** : (1) GKS Belchatow ⇒ (1) ≈GKS Belchatow≈
+- **Korona Kielce**
+- **Lechia Gdańsk** : (1) Lechia Gdansk ⇒ (1) ≈Lechia Gdansk≈
+- **Górnik Łęczna** : (1) Leczna ⇒ (1) ≈Gornik Leczna≈
+- **Miedź Legnica** : (1) Legnica ⇒ (1) ≈Miedz Legnica≈
+- **Piast Gliwice** : (2) Piast · GKS Piast Gliwice
+- **Wisła Płock** : (1) Plock ⇒ (1) ≈Wisla Plock≈
+- **Podbeskidzie Bielsko-Biała** : (1) Podbeskidzie ⇒ (1) ≈Podbeskidzie Bielsko-Biala≈
+- **Pogoń Szczecin** : (1) Pogon Szczecin ⇒ (1) ≈Pogon Szczecin≈
+- **Ruch Chorzów** : (1) Ruch ⇒ (1) ≈Ruch Chorzow≈
+- **Sandecja Nowy Sącz** : (1) Sandecja Nowy S. ⇒ (1) ≈Sandecja Nowy Sacz≈
+- **Bruk-Bet Termalica Nieciecza** : (1) Termalica B-B.
+- **Widzew Łódź** : (1) Widzew Lodz ⇒ (1) ≈Widzew Lodz≈
+- **Zagłębie Lubin** : (1) Zaglebie ⇒ (1) ≈Zaglebie Lubin≈
+- **Zagłębie Sosnowiec** : (1) Zaglebie Sosnowiec ⇒ (1) ≈Zaglebie Sosnowiec≈
+- **Zawisza Bydgoszcz** : (1) Zawisza
 
 
 
@@ -33,13 +33,13 @@ Alphabet
 
 - **Alphabet Specials** (8):  **ó**  **ą**  **ę**  **Ł**  **ł**  **ń**  **Ś**  **ź** 
   - **ó** (U+00F3 / 243)×7 ⇒ o
-  - **ą** (U+0105 / 261)×3 ⇒ **?**
-  - **ę** (U+0119 / 281)×3 ⇒ **?**
-  - **Ł** (U+0141 / 321)×2 ⇒ **?**
-  - **ł** (U+0142 / 322)×9 ⇒ **?**
-  - **ń** (U+0144 / 324)×3 ⇒ **?**
-  - **Ś** (U+015A / 346)×2 ⇒ **?**
-  - **ź** (U+017A / 378)×2 ⇒ **?**
+  - **ą** (U+0105 / 261)×3 ⇒ a
+  - **ę** (U+0119 / 281)×3 ⇒ e
+  - **Ł** (U+0141 / 321)×2 ⇒ L
+  - **ł** (U+0142 / 322)×9 ⇒ l
+  - **ń** (U+0144 / 324)×3 ⇒ n
+  - **Ś** (U+015A / 346)×2 ⇒ S
+  - **ź** (U+017A / 378)×2 ⇒ z
 
 
 
@@ -48,6 +48,16 @@ Duplicates
 
 - **Górnik Zabrze**, Zabrze (1):
   - `gornikzabrze` (2): **Gornik Zabrze** · **Gornik Zabrze**
+- **GKS Bełchatów**, Bełchatów (1):
+  - `gksbelchatow` (2): **GKS Belchatow** · **GKS Belchatow**
+- **Lechia Gdańsk**, Gdańsk (1):
+  - `lechiagdansk` (2): **Lechia Gdansk** · **Lechia Gdansk**
+- **Pogoń Szczecin**, Szczecin (1):
+  - `pogonszczecin` (2): **Pogon Szczecin** · **Pogon Szczecin**
+- **Widzew Łódź**, Łódź (1):
+  - `widzewlodz` (2): **Widzew Lodz** · **Widzew Lodz**
+- **Zagłębie Sosnowiec**, Sosnowiec (1):
+  - `zaglebiesosnowiec` (2): **Zaglebie Sosnowiec** · **Zaglebie Sosnowiec**
 
 
 

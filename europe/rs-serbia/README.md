@@ -1,18 +1,18 @@
 13 clubs
 
--  : (3) Crvena Zvezda · Crvena zvezda · FK Crvena zvezda
--  : (3) Partizan · FK Partizan · Partizan Belgrade
-- 
--  : (2) Rad · FK Rad
--  : (1) Vojvodina
-- 
--  : (1) Sloboda Užice
--  : (1) Jagodina
-- 
--  : (2) Spartak Subotica · FC Spartak Subotica
--  : (1) Radnicki Niš
--  : (1) Mladost Lučani
--  : (1) Čukarički
+- **Red Star Belgrade** : (3) Crvena Zvezda · Crvena zvezda · FK Crvena zvezda
+- **FK Partizan Belgrade** : (3) Partizan · FK Partizan · Partizan Belgrade
+- **OFK Beograd**
+- **FK Rad Belgrade** : (2) Rad · FK Rad
+- **FK Vojvodina** : (1) Vojvodina
+- **FK Spartak Zlatibor voda**
+- **FK Sloboda Užice** : (1) Sloboda Užice ⇒ (2) ≈Sloboda Uzice≈ · ≈FK Sloboda Uzice≈
+- **FK Jagodina** : (1) Jagodina
+- **FK Borac Čačak** ⇒ (1) ≈FK Borac Cacak≈
+- **FK Spartak Subotica** : (2) Spartak Subotica · FC Spartak Subotica
+- **FK Radnicki Niš** : (1) Radnicki Niš ⇒ (2) ≈Radnicki Nis≈ · ≈FK Radnicki Nis≈
+- **FK Mladost Lučani** : (1) Mladost Lučani ⇒ (2) ≈Mladost Lucani≈ · ≈FK Mladost Lucani≈
+- **FK Čukarički** : (1) Čukarički ⇒ (2) ≈Cukaricki≈ · ≈FK Cukaricki≈
 
 
 
@@ -20,10 +20,10 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **Č**  **č**  **š**  **ž** 
-  - **Č** (U+010C / 268)×3 ⇒ **?**
-  - **č** (U+010D / 269)×5 ⇒ **?**
-  - **š** (U+0161 / 353)×2 ⇒ **?**
-  - **ž** (U+017E / 382)×2 ⇒ **?**
+  - **Č** (U+010C / 268)×3 ⇒ C
+  - **č** (U+010D / 269)×5 ⇒ c
+  - **š** (U+0161 / 353)×2 ⇒ s
+  - **ž** (U+017E / 382)×2 ⇒ z
 
 
 

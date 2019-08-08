@@ -1,19 +1,19 @@
 14 clubs
 
--  : (2) Ferencváros · Ferencvaros ⇒ (2) ≈Ferencvaros≈ · ≈Ferencvarosi TC≈
--  : (1) Honvéd ⇒ (2) ≈Honved≈ · ≈Budapest Honved FC≈
--  : (1) MTK
-- 
--  : (1) Debrecen
--  : (1) Győr
--  : (1) Paks
--  : (1) Kecskemét ⇒ (2) ≈Kecskemet≈ · ≈Kecskemeti TE≈
--  : (1) Újpest
--  : (1) Haladás ⇒ (2) ≈Haladas≈ · ≈Szombathelyi Haladas≈
--  : (1) Zalaegerszeg
--  : (1) Fehérvár ⇒ (2) ≈Fehervar≈ · ≈Fehervar FC≈
--  : (1) Vasas
--  : (1) Diósgyőr ⇒ (2) ≈Diosgyőr≈ · ≈Diosgyőri VTK≈
+- **Ferencvárosi TC** : (2) Ferencváros · Ferencvaros ⇒ (2) ≈Ferencvaros≈ · ≈Ferencvarosi TC≈
+- **Budapest Honvéd FC** : (1) Honvéd ⇒ (2) ≈Honved≈ · ≈Budapest Honved FC≈
+- **MTK Budapest** : (1) MTK
+- **Videoton FC**
+- **Debreceni VSC** : (1) Debrecen
+- **Győri ETO FC** : (1) Győr ⇒ (2) ≈Gyor≈ · ≈Gyori ETO FC≈
+- **Paksi SE** : (1) Paks
+- **Kecskeméti TE** : (1) Kecskemét ⇒ (2) ≈Kecskemet≈ · ≈Kecskemeti TE≈
+- **Újpest FC** : (1) Újpest ⇒ (2) ≈Ujpest≈ · ≈Ujpest FC≈
+- **Szombathelyi Haladás** : (1) Haladás ⇒ (2) ≈Haladas≈ · ≈Szombathelyi Haladas≈
+- **Zalaegerszegi TE** : (1) Zalaegerszeg
+- **Fehérvár FC** : (1) Fehérvár ⇒ (2) ≈Fehervar≈ · ≈Fehervar FC≈
+- **Vasas FC** : (1) Vasas
+- **Diósgyőri VTK** : (1) Diósgyőr ⇒ (2) ≈Diosgyor≈ · ≈Diosgyori VTK≈
 
 
 
@@ -21,11 +21,11 @@
 Alphabet
 
 - **Alphabet Specials** (5):  **Ú**  **á**  **é**  **ó**  **ő** 
-  - **Ú** (U+00DA / 218)×2 ⇒ **?**
+  - **Ú** (U+00DA / 218)×2 ⇒ U
   - **á** (U+00E1 / 225)×6 ⇒ a
   - **é** (U+00E9 / 233)×6 ⇒ e
   - **ó** (U+00F3 / 243)×2 ⇒ o
-  - **ő** (U+0151 / 337)×4 ⇒ **?**
+  - **ő** (U+0151 / 337)×4 ⇒ o
 
 
 

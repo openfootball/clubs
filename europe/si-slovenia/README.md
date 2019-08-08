@@ -1,14 +1,14 @@
 9 clubs
 
--  : (1) Olimpija Ljubljana
--  : (1) IB Ljubljana
--  : (1) Maribor
--  : (1) Mura
--  : (1) Koper
--  : (1) Gorica
--  : (1) Domžale
--  : (1) Rudar Velenje
--  : (1) Celje
+- **NK Olimpija Ljubljana** : (1) Olimpija Ljubljana
+- **NK IB Ljubljana** : (1) IB Ljubljana
+- **NK Maribor** : (1) Maribor
+- **ND Mura 05** : (1) Mura
+- **FC Koper** : (1) Koper
+- **ND Gorica** : (1) Gorica
+- **NK Domžale** : (1) Domžale ⇒ (2) ≈Domzale≈ · ≈NK Domzale≈
+- **NK Rudar Velenje** : (1) Rudar Velenje
+- **NK Celje** : (1) Celje
 
 
 
@@ -16,7 +16,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ž** 
-  - **ž** (U+017E / 382)×2 ⇒ **?**
+  - **ž** (U+017E / 382)×2 ⇒ z
 
 
 

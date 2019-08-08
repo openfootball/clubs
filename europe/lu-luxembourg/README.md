@@ -1,13 +1,13 @@
 8 clubs
 
--  : (2) Jeunesse Esch · AS Jeunesse Esch
--  : (1) Dudelange
--  : (1) Differdange
-- 
--  ⇒ (2) ≈UN Kaerjeng 97≈ · ≈UN Kaeerjéng 97≈
--  : (1) Fola
-- 
--  ⇒ (1) ≈FC Progres Niederkorn≈
+- **Jeunesse d'Esch** : (2) Jeunesse Esch · AS Jeunesse Esch
+- **F91 Dudelange** : (1) Dudelange
+- **FC Differdange 03** : (1) Differdange
+- **CS Grevenmacher**
+- **UN Käerjéng 97** ⇒ (2) ≈UN Kaerjeng 97≈ · ≈UN Kaeerjéng 97≈
+- **CS Fola Esch** : (1) Fola
+- **Racing FC Union Lëtzebuerg** ⇒ (1) ≈Racing FC Union Letzebuerg≈
+- **FC Progrès Niederkorn** ⇒ (1) ≈FC Progres Niederkorn≈
 
 
 
@@ -18,7 +18,7 @@ Alphabet
   - **ä** (U+00E4 / 228)×1 ⇒ a•ae
   - **è** (U+00E8 / 232)×1 ⇒ e
   - **é** (U+00E9 / 233)×1 ⇒ e
-  - **ë** (U+00EB / 235)×1 ⇒ **?**
+  - **ë** (U+00EB / 235)×1 ⇒ e
 
 
 

@@ -1,23 +1,23 @@
 18 clubs
 
--  : (2) Caracas · Caracas Fútbol Club ⇒ (1) ≈Caracas Futbol Club≈
--  : (1) Dvo. La Guaira
--  : (1) Dvo. Petare
--  : (2) Dvo. Táchira · Deportivo Táchira Fútbol Club ⇒ (3) ≈Dvo. Tachira≈ · ≈Deportivo Tachira≈ · ≈Deportivo Tachira Futbol Club≈
--  : (2) Zamora · Zamora Fútbol Club ⇒ (1) ≈Zamora Futbol Club≈
--  : (2) Dvo. Lara · Club Deportivo Lara
--  : (2) Dvo. Anzoátegui · Deportivo Anzoátegui Sport Club ⇒ (3) ≈Dvo. Anzoategui≈ · ≈Deportivo Anzoategui≈ · ≈Deportivo Anzoategui Sport Club≈
--  : (2) Mineros · Mineros de Guayana
--  ⇒ (1) ≈Atletico El Vigia≈
--  : (2) Llaneros · Llaneros de Guanare
--  ⇒ (1) ≈Atletico Venezuela≈
--  : (1) Zulia
--  : (1) Aragua
--  : (1) Estudiantes ⇒ (1) ≈Estudiantes de Merida≈
--  : (2) Tucanes · Tucanes de Amazonas
--  : (1) Yaracuyanos
--  : (1) Carabobo
--  : (1) Trujillanos
+- **Caracas FC** : (2) Caracas · Caracas Fútbol Club ⇒ (1) ≈Caracas Futbol Club≈
+- **Deportivo La Guaira** : (1) Dvo. La Guaira
+- **Deportivo Petare** : (1) Dvo. Petare
+- **Deportivo Táchira** : (2) Dvo. Táchira · Deportivo Táchira Fútbol Club ⇒ (3) ≈Dvo. Tachira≈ · ≈Deportivo Tachira≈ · ≈Deportivo Tachira Futbol Club≈
+- **Zamora FC** : (2) Zamora · Zamora Fútbol Club ⇒ (1) ≈Zamora Futbol Club≈
+- **Deportivo Lara** : (2) Dvo. Lara · Club Deportivo Lara
+- **Deportivo Anzoátegui** : (2) Dvo. Anzoátegui · Deportivo Anzoátegui Sport Club ⇒ (3) ≈Dvo. Anzoategui≈ · ≈Deportivo Anzoategui≈ · ≈Deportivo Anzoategui Sport Club≈
+- **AC Mineros** : (2) Mineros · Mineros de Guayana
+- **Atlético El Vigía** ⇒ (1) ≈Atletico El Vigia≈
+- **Llaneros FC** : (2) Llaneros · Llaneros de Guanare
+- **Atlético Venezuela** ⇒ (1) ≈Atletico Venezuela≈
+- **Zulia FC** : (1) Zulia
+- **Aragua FC** : (1) Aragua
+- **Estudiantes de Mérida** : (1) Estudiantes ⇒ (1) ≈Estudiantes de Merida≈
+- **Tucanes FC** : (2) Tucanes · Tucanes de Amazonas
+- **Yaracuyanos FC** : (1) Yaracuyanos
+- **Carabobo FC** : (1) Carabobo
+- **Trujillanos FC** : (1) Trujillanos
 
 
 

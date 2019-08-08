@@ -1,47 +1,47 @@
 42 clubs
 
--  : (4) Benfica · Benfica Lis. · Benfica Lisboa · Benfica Lissabon
--  : (3) Sp Lisbon · Sporting Lisboa · Sporting Clube de Portugal
--  : (2) Belenenses · Belenenses SAD
--  : (1) Porto
--  : (1) Boavista
--  : (1) Aves
--  : (1) Chaves
--  : (1) Estoril
--  : (1) Feirense
--  : (2) Guimaraes · Vitória SC ⇒ (2) ≈Vitoria SC≈ · ≈Vitoria de Guimaraes≈
--  : (2) Setubal · Vitória FC ⇒ (2) ≈Vitoria FC≈ · ≈Vitoria de Setubal≈
--  : (2) Maritimo · Marítimo ⇒ (2) ≈Maritimo≈ · ≈CS Maritimo≈
--  : (1) Moreirense
--  : (2) Pacos Ferreira · Paços Ferreira ⇒ (2) ≈Pacos Ferreira≈ · ≈FC Pacos de Ferreira≈
--  : (1) Portimonense
--  : (1) Rio Ave
--  : (3) Braga · Sp Braga · Sporting Braga
--  : (1) Tondela
--  : (4) Académica · Academica · A. Académica de Coimbra · Associação Académica de Coimbra ⇒ (4) ≈Academica≈ · ≈Academica de Coimbra≈ · ≈A. Academica de Coimbra≈ · ≈Associacao Academica de Coimbra≈
--  : (1) Arouca
--  : (4) Nacional · CD Nacional · Nacional da Madeira · Clube Desportivo Nacional
--  : (1) Penafiel
--  : (1) Beira Mar
--  : (1) Desp. Chaves
--  : (1) Est Amadora
--  : (1) Farense
--  : (1) Gil Vicente
--  : (2) Leiria · União Desportiva de Leiria ⇒ (2) ≈Uniao de Leiria≈ · ≈Uniao Desportiva de Leiria≈
--  : (2) Madeira · Uniao Madeira ⇒ (1) ≈Uniao da Madeira≈
--  : (1) Salgueiros
--  : (1) Tirsense
--  : (2) Campomaior · Campomaiorense
--  : (1) Felgueiras
--  : (1) Leca ⇒ (1) ≈Leca FC≈
--  : (1) Alverca
--  : (2) Espinho · Sporting Clube de Espinho
--  : (1) Leixoes ⇒ (1) ≈Leixoes SC≈
--  : (2) Naval · Associação Naval 1º de Maio ⇒ (1) ≈Associacao Naval 1º de Maio≈
--  : (1) Olhanense
--  : (1) Santa Clara
--  : (2) Trofense · Clube Desportivo Trofense
--  : (1) Varzim
+- [**SL Benfica**](https://en.wikipedia.org/wiki/S.L._Benfica) : (4) Benfica · Benfica Lis. · Benfica Lisboa · Benfica Lissabon
+- [**Sporting CP**](https://en.wikipedia.org/wiki/Sporting_CP) : (3) Sp Lisbon · Sporting Lisboa · Sporting Clube de Portugal
+- [**Os Belenenses**](https://en.wikipedia.org/wiki/Belenenses_SAD) : (2) Belenenses · Belenenses SAD
+- [**FC Porto**](https://en.wikipedia.org/wiki/FC_Porto) : (1) Porto
+- [**Boavista FC**](https://en.wikipedia.org/wiki/Boavista_F.C.) : (1) Boavista
+- [**CD Aves**](https://en.wikipedia.org/wiki/C.D._Aves) : (1) Aves
+- [**GD Chaves**](https://en.wikipedia.org/wiki/G.D._Chaves) : (1) Chaves
+- **Estoril Praia** : (1) Estoril
+- [**CD Feirense**](https://en.wikipedia.org/wiki/C.D._Feirense) : (1) Feirense
+- [**Vitória de Guimarães**](https://en.wikipedia.org/wiki/Vitória_S.C.) : (2) Guimaraes · Vitória SC ⇒ (2) ≈Vitoria SC≈ · ≈Vitoria de Guimaraes≈
+- [**Vitória de Setúbal**](https://en.wikipedia.org/wiki/Vitória_F.C.) : (2) Setubal · Vitória FC ⇒ (2) ≈Vitoria FC≈ · ≈Vitoria de Setubal≈
+- [**CS Marítimo**](https://en.wikipedia.org/wiki/C.S._Marítimo) : (2) Maritimo · Marítimo ⇒ (2) ≈Maritimo≈ · ≈CS Maritimo≈
+- [**Moreirense FC**](https://en.wikipedia.org/wiki/Moreirense_F.C.) : (1) Moreirense
+- **FC Paços de Ferreira** : (2) Pacos Ferreira · Paços Ferreira ⇒ (2) ≈Pacos Ferreira≈ · ≈FC Pacos de Ferreira≈
+- [**Portimonense SC**](https://en.wikipedia.org/wiki/Portimonense_S.C.) : (1) Portimonense
+- [**Rio Ave FC**](https://en.wikipedia.org/wiki/Rio_Ave_F.C.) : (1) Rio Ave
+- [**SC Braga**](https://en.wikipedia.org/wiki/S.C._Braga) : (3) Braga · Sp Braga · Sporting Braga
+- [**CD Tondela**](https://en.wikipedia.org/wiki/C.D._Tondela) : (1) Tondela
+- **Académica de Coimbra** : (4) Académica · Academica · A. Académica de Coimbra · Associação Académica de Coimbra ⇒ (4) ≈Academica≈ · ≈Academica de Coimbra≈ · ≈A. Academica de Coimbra≈ · ≈Associacao Academica de Coimbra≈
+- **FC Arouca** : (1) Arouca
+- [**CD Nacional Madeira**](https://en.wikipedia.org/wiki/C.D._Nacional) : (4) Nacional · CD Nacional · Nacional da Madeira · Clube Desportivo Nacional
+- **FC Penafiel** : (1) Penafiel
+- **SC Beira-Mar** : (1) Beira Mar
+- **Desportivo de Chaves** : (1) Desp. Chaves
+- **CF Estrela da Amadora** : (1) Est Amadora
+- **SC Farense** : (1) Farense
+- **Gil Vicente FC** : (1) Gil Vicente
+- **União de Leiria** : (2) Leiria · União Desportiva de Leiria ⇒ (2) ≈Uniao de Leiria≈ · ≈Uniao Desportiva de Leiria≈
+- **União da Madeira** : (2) Madeira · Uniao Madeira ⇒ (1) ≈Uniao da Madeira≈
+- **SC Salgueiros** : (1) Salgueiros
+- **FC Tirsense** : (1) Tirsense
+- **SC Campomaiorense** : (2) Campomaior · Campomaiorense
+- **FC Felgueiras** : (1) Felgueiras
+- **Leça FC** : (1) Leca ⇒ (1) ≈Leca FC≈
+- **FC Alverca** : (1) Alverca
+- **Sporting de Espinho** : (2) Espinho · Sporting Clube de Espinho
+- **Leixões SC** : (1) Leixoes ⇒ (1) ≈Leixoes SC≈
+- **Naval 1º de Maio** : (2) Naval · Associação Naval 1º de Maio ⇒ (1) ≈Associacao Naval 1º de Maio≈
+- **SC Olhanense** : (1) Olhanense
+- [**CD Santa Clara**](https://en.wikipedia.org/wiki/C.D._Santa_Clara) : (1) Santa Clara
+- **CD Trofense** : (2) Trofense · Clube Desportivo Trofense
+- **Varzim SC** : (1) Varzim
 
 
 

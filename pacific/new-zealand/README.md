@@ -1,14 +1,14 @@
 9 clubs
 
--  : (1) Auckland City
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- **Auckland City FC** : (1) Auckland City
+- **Waitakere United**
+- **Hawke's Bay United**
+- **Team Wellington**
+- **Waikato FC**
+- **YoungHeart Manawatu**
+- **Canterbury United**
+- **Otago United**
+- **Wellington Phoenix**
 
 
 
