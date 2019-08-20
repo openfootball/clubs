@@ -316,7 +316,8 @@ FSV Zwickau,        Zwickau  › Sachsen
 
 Hallescher FC
   | Halle
-1. FC Magdeburg
+1. FC Magdeburg, 1965,   Magdeburg
+  | Magdeburg
 
 
 == Thüringen ==

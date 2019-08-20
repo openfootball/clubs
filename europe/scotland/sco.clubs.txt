@@ -21,6 +21,10 @@ Edinburgh City,          Edinburgh
 
 Aberdeen FC, 1903, Aberdeen
   | Aberdeen
+Cove Rangers FC, 1922, Aberdeen (Cove Bay)
+  | Cove Rangers | Cove Rangers Football Club
+
+
 
 Dundee FC, 1893,       Dundee     ## note: depends on level (1) for mapping
   | Dundee

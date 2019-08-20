@@ -23,6 +23,10 @@ AD Alcorcón, Alcorcón  ## use Madrid (Alcorcón) - why? why not?
   | Alcorcón| Agrupación Deportiva Alcorcón
 
 
+CF Fuenlabrada, Fuenlabrada      ##   autonomous community of Madrid
+  | Fuenlabrada | Club de Fútbol Fuenlabrada
+
+
 == Andalucía ==
 
 Málaga CF,   Málaga
@@ -149,8 +153,11 @@ CD Guadalajara,     Guadalajara
 
 CD Badajoz,      Badajoz
   | Badajoz
-CF Extremadura,  Almendralejo
+CF Extremadura (-2010),  Almendralejo
   | Extremadura
+Extremadura UD,   Almendralejo
+  | Extremadura Unión Deportiva   ## add Extremadura  - why? why not?
+
 CP Mérida,       Mérida
   | Mérida
 
