@@ -103,6 +103,10 @@ Hyde United FC,   Hyde › Greater Manchester
 Stalybridge Celtic FC, Stalybridge › Greater Manchester
   | Stalybridge Celtic
 
+Salford City FC,   Salford › Greater Manchester
+  | Salford City | Salford
+
+
 
 Aston Villa FC, 1874,    @ Villa Park, Birmingham › Warwickshire   ## West Midlands
   | Aston Villa | Villa
@@ -128,6 +132,9 @@ Portsmouth FC,      @ Fratton Park,    Portsmouth › Hampshire
   | Portsmouth
 Eastleigh FC,         Eastleigh › Hampshire
   | Eastleigh
+
+Havant & Waterlooville FC,  Havant › Hampshire
+  | Havant & Waterlooville | Havant & Waterlooville Football Club
 
 
 Sunderland AFC, 1879,  @ Stadium of Light,  Sunderland
@@ -161,6 +168,9 @@ Middlesbrough Ironopolis FC (1889-1894), Middlesbrough › North Yorkshire
   | Middlesbrough Ironopolis
 Scarborough Athletic FC,  Scarborough › North Yorkshire
   | Scarborough
+Harrogate Town AFC,  Harrogate › North Yorkshire
+  | Harrogate | Harrogate Town | Harrogate Town Association Football Club
+
 
 Leeds United FC,  @ Elland Road,    Leeds › West Yorkshire
   | Leeds | Leeds United
@@ -403,6 +413,10 @@ Accrington FC (1878-1896),  Accrington › Lancashire
   | Accrington F.C.
 Morecambe FC,        @ Globe Arena,    Morecambe › Lancashire
   | Morecambe
+
+Chorley FC,   Chorley › Lancashire
+  | Chorley
+
 
 Hereford FC (2014-),            Hereford › Herefordshire
   | Hereford
