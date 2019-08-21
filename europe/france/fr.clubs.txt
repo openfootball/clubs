@@ -21,6 +21,8 @@ Red Star FC,   Saint-Ouen › Île-de-France
 
 Amiens SC,             Amiens   › Hauts-de-France
   | Amiens
+FC Chambly, 1989,   Chambly › Hauts-de-France
+  | Chambly | Football Club Chambly Oise
 Angers SCO, 1919,            Angers   › Pays de la Loire   ##  Maine-et-Loire > Pays de la Loire
   | Angers | Angers Sporting Club de l'Ouest
 Girondins de Bordeaux, 1881, Bordeaux › Nouvelle-Aquitaine     ## Gironde > Aquitaine
@@ -141,8 +143,8 @@ FC Istres, Istres
   | Istres
 Stade Lavallois, Laval
   | Laval | Stade Lavallois Mayenne Football Club
-Le Mans FC, Le Mans
-  | Le Mans
+Le Mans FC,   Le Mans ›  Pays de la Loire
+  | Le Mans | Le Mans Football Club
 FC Libourne-Saint-Seurin, Libourne
   | Libourne
 CS Louhans-Cuiseaux,   Louhans  ## and Cuiseaux
@@ -172,3 +174,9 @@ Vannes OC,   Vannes
   | Vannes
 Wasquehal Foot, Wasquehal     ## use ES Wasquehal - why? why not?
   | Wasquehal
+
+Rodez AF, 1929,   Rodez › Occitanie
+  | Rodez | Rodez Aveyron Football
+
+AS Béziers, 2007,  Béziers › Occitanie
+  | Béziers | Avenir Sportif Béziers      ## check wikipedia -> AS Béziers (2007)

@@ -26,6 +26,9 @@ AD Alcorcón, Alcorcón  ## use Madrid (Alcorcón) - why? why not?
 CF Fuenlabrada, Fuenlabrada      ##   autonomous community of Madrid
   | Fuenlabrada | Club de Fútbol Fuenlabrada
 
+CF Rayo Majadahonda, 1976,  Majadahonda
+  | Rayo Majadahonda | Club de Fútbol Rayo Majadahonda
+
 
 == Andalucía ==
 
@@ -78,6 +81,9 @@ Gimnàstic Tarragona, Tarragona
   | Gimnàstic
 Girona FC,           Gerona
   | Girona | Girona Futbol Club
+
+CF Reus,  1909,      Reus
+  | Reus Deportiu | CF Reus Deportiu | Club de Futbol Reus Deportiu
 
 
 == Galicia ==
@@ -184,6 +190,8 @@ FC Cartagena,  Cartagena
 
 == Aragón ==
 
+Real Zaragoza,  Zaragoza
+  | Zaragoza
 SD Huesca, Huesca
   | Huesca
 
@@ -202,6 +210,10 @@ RCD Mallorca,   Palma de Mallorca
   | Mallorca | Real CD Mallorca | Real Club Deportivo Mallorca
 RCD Mallorca B, Palma de Mallorca
   | Mallorca B
+
+== Canarias6 ==
+CD Tenerife,   Santa Cruz de Tenerife
+  | Tenerife | Club Deportivo Tenerife
 
 
 
@@ -244,8 +256,6 @@ Real Unión
 
 Recreativo Huelva
   | Recreativo | RC Recreativo de Huelva |Real Club Recreativo de Huelva
-CF Reus
-  | Reus Deportiu
 CE Sabadell
   | Sabadell | CE Sabadell FC | Centre d'Esports Sabadell Futbol Club
 UD Salamanca
@@ -253,8 +263,6 @@ UD Salamanca
 Real Racing Santander
   | Santander
 
-CD Tenerife
-  | Tenerife | Club Deportivo Tenerife
 Terrassa FC
   | Terrassa
 CD Toledo
@@ -267,8 +275,6 @@ UD Vecindario
 
 Xerez CD
   | Xerez
-Real Zaragoza,  ##  city:zaragoza
-  | Zaragoza
 
 Real Madrid Castilla
   | Castilla | Real Madrid Castilla Club de Fútbol

@@ -92,3 +92,6 @@ CD Trofense,     Tulipa
   | Trofense | Clube Desportivo Trofense
 Varzim SC,       Póvoa de Varzim
   | Varzim
+
+FC Famalicão,  1931,  Vila Nova de Famalicão
+  | Famalicão | Futebol Clube de Famalicão
