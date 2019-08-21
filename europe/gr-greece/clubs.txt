@@ -90,7 +90,7 @@ Edessaikos FC,  Edessa › Macedonia
 Ergotelis FC, Heraklion › Crete
   | Ergotelis
 OFI Crete FC, Heraklion › Crete
-  | OFI
+  | OFI | OFI Crete
 
 Kalamata FC,       Kalamata › Peloponnese
   | Kalamata
