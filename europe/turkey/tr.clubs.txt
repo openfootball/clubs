@@ -3,45 +3,93 @@
 
 
 Fenerbahçe İstanbul SK,  İstanbul
-  | Fenerbahce | Fenerbahçe | Fenerbahçe SK
+  | Fenerbahçe | Fenerbahçe SK
   | Fenerbahçe Spor Kulübü | Fenerbahçe Sports Club
 Galatasaray İstanbul AŞ, İstanbul
-  | Galatasaray | Galatasaray Istanbul | Galatasaray AŞ
+  | Galatasaray | Galatasaray İstanbul | Galatasaray AŞ
   | Galatasaray SK
 Beşiktaş İstanbul JK,    İstanbul
-  | Besiktas | Beşiktaş JK | Beşiktaş
+  | Beşiktaş | Beşiktaş JK
 Kasımpaşa İstanbul SK,   İstanbul (Beyoğlu)
-  | Kasımpaşa S.K. | Kasımpaşa
-  | Kasimpasa
+  | Kasımpaşa SK | Kasımpaşa
 
 İstanbul Başakşehir,  İstanbul (Başakşehir)
-  | İstanbul Başakşehir F.K.
-  | Buyuksehyr | İstanbul Büyükşehir Belediyespor    ## (double) check if Buyuksehyr matching (or separate club) !?
+  | İstanbul Başakşehir FK
+  | Büyükşehyr | İstanbul Büyükşehir Belediyespor    ## (double) check if Buyuksehyr matching (or separate club) !?
+
+İstanbulspor, 1913, İstanbul
+
+Sarıyer SK, 1940,       İstanbul (Sarıyer)
+  | Sarıyer | Sarıyer Spor Kulübü
+Zeytinburnuspor, 1953,  İstanbul (Zeytinburnu)
+  | Zeytinburnu | Zeytinburnu SK
 
 
 Gençlerbirliği Ankara SK, 1923,   Ankara
   | Gençlerbirliği | Gençlerbirliği SK | Gençlerbirliği Spor Kulübü
 Osmanlıspor Ankara,       Ankara
-  | Osmanlispor | Osmanlıspor
+  | Osmanlıspor
+  | Ankaraspor | Ankaraspor AŞ |
+# in 2005, the football club changed its name to "Ankaraspor AŞ"
+# On June 29, 2014, the club adopted the current name,
+# which refers to Osman I, founder of the Ottoman Empire.
+
 MKE Ankaragücü,           Ankara
   | Ankaragücü
 
+Hacettepespor, 2001,      Ankara
+  | Hacettepe | Hacettepe SK | Hacettepe Spor Kulübü
+  | Oftasspor | OFTAŞ
+# After a financial crisis in 2003, Gençlerbirliği SK purchased the club
+# and changed its name to Gençlerbirliği Asasspor.
+# The logo of the club was replaced with that of the parent club (Gençlerbirliği).
+# After OFTAŞ signed a sponsorship deal with Gençlerbirliği in 2006,
+# the club's name was changed again to Gençlerbirliği OFTAŞ.
+
+
+Turanspor, 1947,   Ankara
+  | Şekerspor | Beypazarı Şekerspor
+#  Previous names:
+#  Şekerspor (1963–2005)
+#  Etimesgut Şekerspor (2005–2010)
+#  Beypazarı Şekerspor (2010–2012)
+#  Çamlıdere Şekerspor (2012–2013)
+#  Şekerspor (2013–2014)
+#  Tutap Şekerspor (2014–2015)
+#  Turanspor (2015–)
+
+Petrol Ofisi SK (1954-2010),  Ankara
+  | P. Ofisi | Petrol Ofisi
+
+
 Kardemir Karabükspor,  Karabük
-  | Karabükspor | Karabukspor
+  | Karabükspor
 Elazığspor,            Elazığ
-  | Elazigspor
+
 Eskişehirspor,         Eskişehir
-  | Eskisehirspor
+
 
 Akhisar Belediyespor, Akhisar
   | Akhisar
 Alanyaspor,  Alanya
-Antalyaspor, Antalya
+Antalyaspor, 1966, Antalya
+  | Antalya | Antalyaspor Kulübü
+
+
 Bursaspor,   Bursa
-Göztepe Izmir,    İzmir (Güzelyalı)
-  | Göztepe | Göztepe S.K.
+Göztepe İzmir,    İzmir (Güzelyalı)
+  | Göztepe | Göztepe SK
   | Goztep
-Kayserispor,         Kayseri
+Bucaspor, 1928,       İzmir (Buca)
+  | Bucaspor Kulübü
+Altay SK,  1914,     İzmir
+  | Altay | Altay Spor Kulübü
+Karşıyaka SK,  1912,  İzmir (Karşıyaka)
+  | Karşıyaka | Karşıyaka Spor Kulübü
+
+
+Kayserispor,   1966,     Kayseri
+  | Kayseri | Kayseri Spor Kulübü
 Kayseri Erciyesspor, Kayseri
   | Erciyesspor
 
@@ -49,11 +97,19 @@ Konyaspor,     Konya
 Sivasspor,     Sivas
 Trabzonspor AŞ, Trabzon
   | Trabzonspor
-Yeni Malatyaspor, Malatya
 
-Adanaspor,       Adana
+Yeni Malatyaspor, 1986, Malatya
+  | Yeni Malatya Spor Kulübü
+Malatyaspor, 1966, Malatya      # note: Not to be confused with Yeni Malatyaspor
+  | Malatya SK | Malatya Spor Kulübü
 
-Gaziantepspor, 1969,  Gaziantep 
+Adanaspor,  1954,      Adana
+  | Adanaspor AŞ
+Adana Demirspor, 1940, Adana
+  | Ad. Demirspor | Adana Demir Spor Kulübü
+
+
+Gaziantepspor, 1969,  Gaziantep
 Gazişehir Gaziantep FK,  1988, Gaziantep         # formerly known as Gaziantep Büyükşehir Belediyespor
   | Gazişehir Gaziantep | Gazişehir Gaziantep Futbol Kulübü
 
@@ -61,14 +117,43 @@ Gazişehir Gaziantep FK,  1988, Gaziantep         # formerly known as Gaziantep 
   | Rizespor
 
 Balıkesirspor,       Balıkesir
-  | Balikesirspor
+
 Mersin İdmanyurdu,   Mersin
-  | Mersin Idman Yurdu
+  | Mersin İdman Yurdu
 
 BB Erzurumspor,     Erzurum
   | Erzurum BB | Büyükşehir Belediye Erzurumspor
-  
-Denizlispor,  1966,    Denizli 
+
+Denizlispor,  1966,    Denizli
   | Denizlispor Kulübü
 
+Orduspor, 1967,  Ordu
+Manisaspor, 1965,  Manisa
+Samsunspor, 1965, Samsun
+  | Samsunspor Kulübü Derneği
 
+Diyarbakırspor, 1968,  Diyarbakır
+  | Diyarbekirspor AŞ
+Kocaelispor, 1966, İzmit
+  | Kocaelispor Kulübü
+
+Sakaryaspor, 1965,  Adapazarı
+  | Sakaryaspor Kulübü Derneği
+
+Akçaabat Sebatspor, 1923, Akçaabat
+  | A. Sebatspor
+
+Yozgatspor, 1959, Yozgat
+  | Yozgatspor Kulübü
+
+Erzurumspor (1968-2015), Erzurum
+  | Erzurum
+
+Siirtspor,  Siirt
+  | Siirt SK | Siirt Jet-PA
+
+Vanspor FK, 1982, Van
+  | Vanspor | Van Büyükşehir Belediyespor
+
+Çanakkale Dardanelspor, 1966, Çanakkale
+  | Dardanelspor | Çanakkale Dardanel SK
