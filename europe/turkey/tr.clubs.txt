@@ -19,8 +19,8 @@ Kasımpaşa İstanbul SK,   İstanbul (Beyoğlu)
   | Buyuksehyr | İstanbul Büyükşehir Belediyespor    ## (double) check if Buyuksehyr matching (or separate club) !?
 
 
-Gençlerbirliği Ankara SK, Ankara
-  | Genclerbirligi
+Gençlerbirliği Ankara SK, 1923,   Ankara
+  | Gençlerbirliği | Gençlerbirliği SK | Gençlerbirliği Spor Kulübü
 Osmanlıspor Ankara,       Ankara
   | Osmanlispor | Osmanlıspor
 MKE Ankaragücü,           Ankara
@@ -52,7 +52,11 @@ Trabzonspor AŞ, Trabzon
 Yeni Malatyaspor, Malatya
 
 Adanaspor,       Adana
-Gaziantepspor,   Gaziantep
+
+Gaziantepspor, 1969,  Gaziantep 
+Gazişehir Gaziantep FK,  1988, Gaziantep         # formerly known as Gaziantep Büyükşehir Belediyespor
+  | Gazişehir Gaziantep | Gazişehir Gaziantep Futbol Kulübü
+
 Çaykur Rizespor, Rize
   | Rizespor
 
@@ -63,3 +67,8 @@ Mersin İdmanyurdu,   Mersin
 
 BB Erzurumspor,     Erzurum
   | Erzurum BB | Büyükşehir Belediye Erzurumspor
+  
+Denizlispor,  1966,    Denizli 
+  | Denizlispor Kulübü
+
+
