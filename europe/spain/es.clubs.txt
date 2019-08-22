@@ -211,7 +211,7 @@ RCD Mallorca,   Palma de Mallorca
 RCD Mallorca B, Palma de Mallorca
   | Mallorca B
 
-== Canarias6 ==
+== Canarias ==
 CD Tenerife,   Santa Cruz de Tenerife
   | Tenerife | Club Deportivo Tenerife
 
