@@ -37,17 +37,19 @@ FC Petrolul Ploiești, Ploiești
   | Petrolul | Petrolul Ploiesti | Petrolul Ploiești | FC Petrolul Ploieşti
 
 FC Viitorul Constanța,   Ovidiu
-  | Viitorul | FC Viitorul | Viitorul Constanta
+  | Viitorul | FC Viitorul | Viitorul Constanța
 
 Corona Brașov,   Brașov
-  | Corona Brasov | ASC Corona 2010 Brașov
+ | ASC Corona 2010 Brașov
 FC Brașov,  Brașov
-  | FC Brasov |  SR Brașov
+ |  SR Brașov
 
 Dunărea Călărași,   Călărași
-  | Calarasi
-Chindia Târgoviște,  Târgoviște
-  | Chindia Targoviste
+  | Călărași
+Chindia Târgoviște, 2010,  Târgoviște
+  | AFC Chindia Târgoviște
+
+
 CS Turnu Severin,    Drobeta-Turnu Severin
   | Clubul Sportiv Turnu Severin
 FC Severin,         Drobeta-Turnu Severin
@@ -55,16 +57,16 @@ FC Severin,         Drobeta-Turnu Severin
 
 
 FC Botoșani, Botoșani
-  | Botoşani | FC Botosani | FC Botoşani | Fotbal Club Botoșani
+  | Botoşani | FC Botoşani | Fotbal Club Botoșani
 
 FC Hermannstadt,   Hermannstadt
   | Hermannstadt
 
 Săgeata Năvodari, Năvodari
-  | Navodari | AFC Săgeata Năvodari
+  | Năvodari | AFC Săgeata Năvodari
 
 Oțelul Galați,  Galați
-  | Oţelul | Otelul  | Oțelul | Otelul Galati | ASC Oțelul Galați
+  | Oţelul | Oțelul | ASC Oțelul Galați
 
 Pandurii Târgu Jiu,  Târgu Jiu
   | Pandurii | Pandurii Tg Jiu | CS Pandurii Târgu Jiu
@@ -76,20 +78,24 @@ FC Politehnica Iași,   Iași
   | CSMS laşi
 
 Poli Timișoara, Timișoara
-  | Timişoara | Poli Timisoara | ACS Poli Timișoara
+  | Timişoara | ACS Poli Timișoara
 
 Sepsi Sfântu Gheorghe,   Sfântu Gheorghe
-  | Sepsi | Sepsi OSK
+  | Sepsi | Sepsi Sf. Gheorghe | Sepsi OSK
 
 Târgu Mureș,    Târgu Mureș
-  | Targu Mures | ASA Târgu Mureș | ASA Târgu Mureş | Târgu Mureş
+  | ASA Târgu Mureș | ASA Târgu Mureş | Târgu Mureş
 
 Universitatea Craiova,    Craiova
   | U Craiova | CS U Craiova | U Craiova 1948 CS | CS Universitatea Craiova
   | U Craiova 1948 Club Sportiv
+  | Univ. Craiova
 
 UTA Arad,   Arad
   | FC UTA Arad | Fotbal Club UTA Arad
 
 FC Voluntari,  Voluntari
   | Voluntari
+
+FC Academica Clinceni, 2005,  Clinceni
+  | Academica Clinceni | Fotbal Club Academica Clinceni

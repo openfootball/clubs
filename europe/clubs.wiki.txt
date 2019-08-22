@@ -28,7 +28,7 @@ SKN St. Pölten
 SK Sturm Graz
 FC Wacker Innsbruck (2002)
 Wolfsberger AC
-
+WSG Wattens
 
 
 
@@ -370,6 +370,16 @@ N.E.C. (football club)
 RKC Waalwijk
 Roda JC Kerkrade
 SC Cambuur
+
+
+====================================
+= Poland (pl)
+
+Arka Gdynia
+KS_Cracovia_(football)
+Górnik Zabrze
+
+Bruk-Bet Termalica Nieciecza
 
 
 

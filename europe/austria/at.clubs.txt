@@ -75,6 +75,10 @@ SV Grödig,           Grödig
 FC Wacker Innsbruck, Innsbruck
   | Wacker Innsbruck | FC Tirol              ## note: FC Tirol old name - add year
 
+WSG Tirol, 1930,   Wattens
+  | Tirol | WSG Swarovski Tirol | Wattener Sportgemeinschaft Tirol
+  | WSG Wattens
+
 
 == Vorarlberg ==
 

@@ -29,6 +29,10 @@ Zenit St. Petersburg, 1925,     St. Petersburg
 
 
 
+PFC Sochi, 2018, Sochi      #  formed in 2018 on the base of FC Dynamo Saint Petersburg
+  | Sochi | Professional Football Club Sochi
+
+
 FC Rubin Kazan, 1958,  Kazan     ##  Tatarstan (Republic of) > Volga (Federal District)
   | Rubin | FC Rubin | Rubin Kazan
 
@@ -99,7 +103,8 @@ Uralan, Elista
 Volga Nizhnii Novgorod, Nizhny Novgorod
   | Volga | Volga N. Novgorod
 
-FC Tambov,  Tambov
+FC Tambov,  2013, Tambov
+  | Tambov
 FC Orenburg,  Orenburg
   | Orenburg
 Volgar-Astrakhan,  Astrakhan

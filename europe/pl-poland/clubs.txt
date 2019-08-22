@@ -2,58 +2,58 @@
 =  Poland (pl)
 
 
-Legia Warszawa,        Warszawa   ## Warsaw [en]
-  | Legia | Legia Warsaw
+Legia Warszawa,        Warszawa      ## Warsaw [en]
+  | Legia | Legia Warsaw [en]
 KSP Polonia Warszawa,  Warszawa
   | Polonia Warszawa
 
 Górnik Zabrze,   Zabrze
-  | Gornik Zabrze | Gornik Z.
+  | Górnik Z.
 
 KKS Lech Poznań,   Poznań
-  | Lech | Lech Poznan
+  | Lech | Lech Poznań
 Wisła Kraków,     Kraków
-  | Wisla
+  | Wisła
 KS Cracovia,     Kraków
   | Cracovia | MKS Cracovia Kraków
 WKS Śląsk Wrocław,    Wrocław
-  | Śląsk | Slask Wroclaw
+  | Śląsk | Śląsk Wrocław
 Jagiellonia Białystok,  Białystok
   | Jagiellonia
 
 Arka Gdynia,  Gdynia
   | Arka
 GKS Bełchatów,  Bełchatów
-  | GKS Belchatow
 Korona Kielce,  Kielce
 
 Lechia Gdańsk,  Gdańsk
-  | Lechia Gdansk
 Górnik Łęczna,  Lublin
-  | Leczna
+  | Łęczna
 Miedź Legnica,  Legnica
   | Legnica
 Piast Gliwice,  Gliwice
   | Piast | GKS Piast Gliwice
 Wisła Płock,    Płock
-  | Plock
+  | Płock
 Podbeskidzie Bielsko-Biała,   Bielsko-Biała
   | Podbeskidzie
 Pogoń Szczecin,    Szczecin
-  | Pogon Szczecin
 Ruch Chorzów,  Chorzów
   | Ruch
 Sandecja Nowy Sącz, Nieciecza
   | Sandecja Nowy S.
-Bruk-Bet Termalica Nieciecza,  Nieciecza
+Bruk-Bet Termalica Nieciecza, 1922, Nieciecza
   | Termalica B-B.
 
 Widzew Łódź,  Łódź
-  | Widzew Lodz
+ŁKS Łódź,     Łódź
+
 
 Zagłębie Lubin,  Lubin
-  | Zaglebie
+  | Zagłębie
 Zagłębie Sosnowiec,  Sosnowiec
-  | Zaglebie Sosnowiec
 Zawisza Bydgoszcz,  Bydgoszcz
   | Zawisza
+
+Raków Częstochowa, 1921,  Częstochowa
+  | Raków | RKS Raków Częstochowa
