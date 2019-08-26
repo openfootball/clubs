@@ -11,7 +11,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ú** 
-  - **ú** (U+00FA / 250) LATIN SMALL LETTER U WITH ACUTE×2 ⇒ u
+  - **ú**×2 U+00FA (250) - LATIN SMALL LETTER U WITH ACUTE ⇒ u
 
 
 

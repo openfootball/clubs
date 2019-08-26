@@ -31,10 +31,10 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **á**  **é**  **ó**  **ú** 
-  - **á** (U+00E1 / 225) LATIN SMALL LETTER A WITH ACUTE×3 ⇒ a
-  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×4 ⇒ e
-  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×1 ⇒ o
-  - **ú** (U+00FA / 250) LATIN SMALL LETTER U WITH ACUTE×1 ⇒ u
+  - **á**×3 U+00E1 (225) - LATIN SMALL LETTER A WITH ACUTE ⇒ a
+  - **é**×4 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
+  - **ó**×1 U+00F3 (243) - LATIN SMALL LETTER O WITH ACUTE ⇒ o
+  - **ú**×1 U+00FA (250) - LATIN SMALL LETTER U WITH ACUTE ⇒ u
 
 
 

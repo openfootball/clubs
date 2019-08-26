@@ -53,7 +53,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ä** 
-  - **ä** (U+00E4 / 228) LATIN SMALL LETTER A WITH DIAERESIS×1 ⇒ a•ae
+  - **ä**×1 U+00E4 (228) - LATIN SMALL LETTER A WITH DIAERESIS ⇒ a•ae
 
 
 

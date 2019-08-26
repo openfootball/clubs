@@ -8,7 +8,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **í** 
-  - **í** (U+00ED / 237) LATIN SMALL LETTER I WITH ACUTE×3 ⇒ i
+  - **í**×3 U+00ED (237) - LATIN SMALL LETTER I WITH ACUTE ⇒ i
 
 
 

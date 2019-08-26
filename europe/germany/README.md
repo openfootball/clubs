@@ -140,9 +140,9 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **ß**  **ö**  **ü** 
-  - **ß** (U+00DF / 223) LATIN SMALL LETTER SHARP S×13 ⇒ ss
-  - **ö** (U+00F6 / 246) LATIN SMALL LETTER O WITH DIAERESIS×13 ⇒ o•oe
-  - **ü** (U+00FC / 252) LATIN SMALL LETTER U WITH DIAERESIS×27 ⇒ u•ue
+  - **ß**×13 U+00DF (223) - LATIN SMALL LETTER SHARP S ⇒ ss
+  - **ö**×13 U+00F6 (246) - LATIN SMALL LETTER O WITH DIAERESIS ⇒ o•oe
+  - **ü**×27 U+00FC (252) - LATIN SMALL LETTER U WITH DIAERESIS ⇒ u•ue
 
 
 

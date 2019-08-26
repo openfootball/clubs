@@ -90,7 +90,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **à** 
-  - **à** (U+00E0 / 224) LATIN SMALL LETTER A WITH GRAVE×3 ⇒ a
+  - **à**×3 U+00E0 (224) - LATIN SMALL LETTER A WITH GRAVE ⇒ a
 
 
 

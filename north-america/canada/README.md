@@ -10,7 +10,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **é** 
-  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×2 ⇒ e
+  - **é**×2 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
 
 
 

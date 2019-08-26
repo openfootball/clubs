@@ -17,9 +17,9 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **ć**  **Č**  **š** 
-  - **ć** (U+0107 / 263) LATIN SMALL LETTER C WITH ACUTE×5 ⇒ c
-  - **Č** (U+010C / 268) LATIN CAPITAL LETTER C WITH CARON×1 ⇒ C
-  - **š** (U+0161 / 353) LATIN SMALL LETTER S WITH CARON×2 ⇒ s
+  - **ć**×5 U+0107 (263) - LATIN SMALL LETTER C WITH ACUTE ⇒ c
+  - **Č**×1 U+010C (268) - LATIN CAPITAL LETTER C WITH CARON ⇒ C
+  - **š**×2 U+0161 (353) - LATIN SMALL LETTER S WITH CARON ⇒ s
 
 
 

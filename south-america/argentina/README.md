@@ -44,11 +44,11 @@
 Alphabet
 
 - **Alphabet Specials** (5):  **á**  **é**  **í**  **ó**  **ú** 
-  - **á** (U+00E1 / 225) LATIN SMALL LETTER A WITH ACUTE×5 ⇒ a
-  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×40 ⇒ e
-  - **í** (U+00ED / 237) LATIN SMALL LETTER I WITH ACUTE×11 ⇒ i
-  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×17 ⇒ o
-  - **ú** (U+00FA / 250) LATIN SMALL LETTER U WITH ACUTE×4 ⇒ u
+  - **á**×5 U+00E1 (225) - LATIN SMALL LETTER A WITH ACUTE ⇒ a
+  - **é**×40 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
+  - **í**×11 U+00ED (237) - LATIN SMALL LETTER I WITH ACUTE ⇒ i
+  - **ó**×17 U+00F3 (243) - LATIN SMALL LETTER O WITH ACUTE ⇒ o
+  - **ú**×4 U+00FA (250) - LATIN SMALL LETTER U WITH ACUTE ⇒ u
 
 
 

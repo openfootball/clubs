@@ -17,8 +17,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **Š**  **ž** 
-  - **Š** (U+0160 / 352) LATIN CAPITAL LETTER S WITH CARON×2 ⇒ S
-  - **ž** (U+017E / 382) LATIN SMALL LETTER Z WITH CARON×2 ⇒ z
+  - **Š**×2 U+0160 (352) - LATIN CAPITAL LETTER S WITH CARON ⇒ S
+  - **ž**×2 U+017E (382) - LATIN SMALL LETTER Z WITH CARON ⇒ z
 
 
 

@@ -15,8 +15,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **ä**  **õ** 
-  - **ä** (U+00E4 / 228) LATIN SMALL LETTER A WITH DIAERESIS×1 ⇒ a•ae
-  - **õ** (U+00F5 / 245) LATIN SMALL LETTER O WITH TILDE×2 ⇒ o
+  - **ä**×1 U+00E4 (228) - LATIN SMALL LETTER A WITH DIAERESIS ⇒ a•ae
+  - **õ**×2 U+00F5 (245) - LATIN SMALL LETTER O WITH TILDE ⇒ o
 
 
 

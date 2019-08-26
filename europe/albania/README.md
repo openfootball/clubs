@@ -20,8 +20,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **ç**  **ë** 
-  - **ç** (U+00E7 / 231) LATIN SMALL LETTER C WITH CEDILLA×4 ⇒ c
-  - **ë** (U+00EB / 235) LATIN SMALL LETTER E WITH DIAERESIS×16 ⇒ e
+  - **ç**×4 U+00E7 (231) - LATIN SMALL LETTER C WITH CEDILLA ⇒ c
+  - **ë**×16 U+00EB (235) - LATIN SMALL LETTER E WITH DIAERESIS ⇒ e
 
 
 

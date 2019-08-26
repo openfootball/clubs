@@ -33,9 +33,9 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **å**  **æ**  **ø** 
-  - **å** (U+00E5 / 229) LATIN SMALL LETTER A WITH RING ABOVE×2 ⇒ a
-  - **æ** (U+00E6 / 230) LATIN SMALL LETTER AE×2 ⇒ ae
-  - **ø** (U+00F8 / 248) LATIN SMALL LETTER O WITH STROKE×19 ⇒ o
+  - **å**×2 U+00E5 (229) - LATIN SMALL LETTER A WITH RING ABOVE ⇒ a
+  - **æ**×2 U+00E6 (230) - LATIN SMALL LETTER AE ⇒ ae
+  - **ø**×19 U+00F8 (248) - LATIN SMALL LETTER O WITH STROKE ⇒ o
 
 
 

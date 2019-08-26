@@ -9,7 +9,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ê** 
-  - **ê** (U+00EA / 234) LATIN SMALL LETTER E WITH CIRCUMFLEX×3 ⇒ e
+  - **ê**×3 U+00EA (234) - LATIN SMALL LETTER E WITH CIRCUMFLEX ⇒ e
 
 
 

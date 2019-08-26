@@ -26,8 +26,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **æ**  **ø** 
-  - **æ** (U+00E6 / 230) LATIN SMALL LETTER AE×7 ⇒ ae
-  - **ø** (U+00F8 / 248) LATIN SMALL LETTER O WITH STROKE×11 ⇒ o
+  - **æ**×7 U+00E6 (230) - LATIN SMALL LETTER AE ⇒ ae
+  - **ø**×11 U+00F8 (248) - LATIN SMALL LETTER O WITH STROKE ⇒ o
 
 
 

@@ -1,7 +1,7 @@
 18 clubs
 
-- [**FK Austria Wien**](https://en.wikipedia.org/wiki/FK_Austria_Wien) : (2) Austria Wien · Austria Vienna
-- [**SK Rapid Wien**](https://en.wikipedia.org/wiki/SK_Rapid_Wien) : (2) Rapid Wien · Rapid Vienna
+- [**FK Austria Wien**](https://en.wikipedia.org/wiki/FK_Austria_Wien) : (2) Austria Wien · Austria Vienna [en]
+- [**SK Rapid Wien**](https://en.wikipedia.org/wiki/SK_Rapid_Wien) : (2) Rapid Wien · Rapid Vienna [en]
 - **Wiener Sport-Club**
 - [**SV Mattersburg**](https://en.wikipedia.org/wiki/SV_Mattersburg) : (1) Mattersburg
 - [**FC Admira Wacker Mödling**](https://en.wikipedia.org/wiki/FC_Admira_Wacker_Mödling) : (2) Admira · Admira Wien ⇒ (2) ≈FC Admira Wacker Modling≈ · ≈FC Admira Wacker Moedling≈
@@ -25,7 +25,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ö** 
-  - **ö** (U+00F6 / 246) LATIN SMALL LETTER O WITH DIAERESIS×5 ⇒ o•oe
+  - **ö**×5 U+00F6 (246) - LATIN SMALL LETTER O WITH DIAERESIS ⇒ o•oe
 
 
 
@@ -39,8 +39,8 @@ Duplicates
 By City
 
 - **Wien, Wien** (3): 
-  - FK Austria Wien  (2) Austria Vienna · Austria Wien
-  - SK Rapid Wien  (2) Rapid Vienna · Rapid Wien
+  - FK Austria Wien  (2) Austria Wien · Austria Vienna [en]
+  - SK Rapid Wien  (2) Rapid Wien · Rapid Vienna [en]
   - Wiener Sport-Club 
 - **Linz, Oberösterreich** (2): 
   - LASK Linz  (2) LASK · Linzer ASK
@@ -89,14 +89,14 @@ By Year
 
 By A to Z
 
-- **A** (6): Admira · Altach · Admira Wien · Austria Wien · AC Wolfsberger · Austria Vienna
+- **A** (6): Admira · Altach · Admira Wien · Austria Wien · AC Wolfsberger · Austria Vienna [en]
 - **F** (8): FC Tirol · FC Salzburg · FC Stahl Linz · FC RB Salzburg · FK Austria Wien · FC Wacker Innsbruck · FC Red Bull Salzburg · FC Admira Wacker Mödling
 - **G** (1): Grödig
 - **H** (1): Hartberg
 - **L** (3): LASK · LASK Linz · Linzer ASK
 - **M** (1): Mattersburg
 - **N** (1): Neustadt
-- **R** (3): Ried · Rapid Wien · Rapid Vienna
+- **R** (3): Ried · Rapid Wien · Rapid Vienna [en]
 - **S** (14): Sturm · SV Ried · Salzburg · SV Grödig · SCR Altach · St. Pölten · Sturm Graz · SK Rapid Wien · SK Sturm Graz · SK VOEST Linz · SKN St. Pölten · SV Mattersburg · SC Wiener Neustadt · SC Rheindorf Altach
 - **T** (2): Tirol · TSV Hartberg
 - **W** (8): WSG Tirol · Wolfsberg · WSG Wattens · Wolfsberger AC · Wacker Innsbruck · Wiener Sport-Club · WSG Swarovski Tirol · Wattener Sportgemeinschaft Tirol

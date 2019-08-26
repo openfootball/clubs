@@ -19,12 +19,12 @@
 Alphabet
 
 - **Alphabet Specials** (6):  **Í**  **é**  **í**  **ó**  **ö**  **þ** 
-  - **Í** (U+00CD / 205) LATIN CAPITAL LETTER I WITH ACUTE×4 ⇒ I
-  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×1 ⇒ e
-  - **í** (U+00ED / 237) LATIN SMALL LETTER I WITH ACUTE×7 ⇒ i
-  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×2 ⇒ o
-  - **ö** (U+00F6 / 246) LATIN SMALL LETTER O WITH DIAERESIS×1 ⇒ o•oe
-  - **þ** (U+00FE / 254) LATIN SMALL LETTER THORN×1 ⇒ p
+  - **Í**×4 U+00CD (205) - LATIN CAPITAL LETTER I WITH ACUTE ⇒ I
+  - **é**×1 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
+  - **í**×7 U+00ED (237) - LATIN SMALL LETTER I WITH ACUTE ⇒ i
+  - **ó**×2 U+00F3 (243) - LATIN SMALL LETTER O WITH ACUTE ⇒ o
+  - **ö**×1 U+00F6 (246) - LATIN SMALL LETTER O WITH DIAERESIS ⇒ o•oe
+  - **þ**×1 U+00FE (254) - LATIN SMALL LETTER THORN ⇒ p
 
 
 

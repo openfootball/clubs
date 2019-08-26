@@ -12,8 +12,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **Á**  **ú** 
-  - **Á** (U+00C1 / 193) LATIN CAPITAL LETTER A WITH ACUTE×3 ⇒ A
-  - **ú** (U+00FA / 250) LATIN SMALL LETTER U WITH ACUTE×1 ⇒ u
+  - **Á**×3 U+00C1 (193) - LATIN CAPITAL LETTER A WITH ACUTE ⇒ A
+  - **ú**×1 U+00FA (250) - LATIN SMALL LETTER U WITH ACUTE ⇒ u
 
 
 

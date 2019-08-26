@@ -50,13 +50,13 @@
 Alphabet
 
 - **Alphabet Specials** (7):  **ã**  **ç**  **é**  **í**  **ó**  **õ**  **ú** 
-  - **ã** (U+00E3 / 227) LATIN SMALL LETTER A WITH TILDE×9 ⇒ a
-  - **ç** (U+00E7 / 231) LATIN SMALL LETTER C WITH CEDILLA×5 ⇒ c
-  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×4 ⇒ e
-  - **í** (U+00ED / 237) LATIN SMALL LETTER I WITH ACUTE×2 ⇒ i
-  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×4 ⇒ o
-  - **õ** (U+00F5 / 245) LATIN SMALL LETTER O WITH TILDE×1 ⇒ o
-  - **ú** (U+00FA / 250) LATIN SMALL LETTER U WITH ACUTE×1 ⇒ u
+  - **ã**×9 U+00E3 (227) - LATIN SMALL LETTER A WITH TILDE ⇒ a
+  - **ç**×5 U+00E7 (231) - LATIN SMALL LETTER C WITH CEDILLA ⇒ c
+  - **é**×4 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
+  - **í**×2 U+00ED (237) - LATIN SMALL LETTER I WITH ACUTE ⇒ i
+  - **ó**×4 U+00F3 (243) - LATIN SMALL LETTER O WITH ACUTE ⇒ o
+  - **õ**×1 U+00F5 (245) - LATIN SMALL LETTER O WITH TILDE ⇒ o
+  - **ú**×1 U+00FA (250) - LATIN SMALL LETTER U WITH ACUTE ⇒ u
 
 
 

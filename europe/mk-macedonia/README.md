@@ -19,8 +19,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **ë**  **č** 
-  - **ë** (U+00EB / 235) LATIN SMALL LETTER E WITH DIAERESIS×3 ⇒ e
-  - **č** (U+010D / 269) LATIN SMALL LETTER C WITH CARON×3 ⇒ c
+  - **ë**×3 U+00EB (235) - LATIN SMALL LETTER E WITH DIAERESIS ⇒ e
+  - **č**×3 U+010D (269) - LATIN SMALL LETTER C WITH CARON ⇒ c
 
 
 

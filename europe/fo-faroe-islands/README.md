@@ -14,10 +14,10 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **Í**  **í**  **ó**  **ø** 
-  - **Í** (U+00CD / 205) LATIN CAPITAL LETTER I WITH ACUTE×3 ⇒ I
-  - **í** (U+00ED / 237) LATIN SMALL LETTER I WITH ACUTE×3 ⇒ i
-  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×5 ⇒ o
-  - **ø** (U+00F8 / 248) LATIN SMALL LETTER O WITH STROKE×1 ⇒ o
+  - **Í**×3 U+00CD (205) - LATIN CAPITAL LETTER I WITH ACUTE ⇒ I
+  - **í**×3 U+00ED (237) - LATIN SMALL LETTER I WITH ACUTE ⇒ i
+  - **ó**×5 U+00F3 (243) - LATIN SMALL LETTER O WITH ACUTE ⇒ o
+  - **ø**×1 U+00F8 (248) - LATIN SMALL LETTER O WITH STROKE ⇒ o
 
 
 

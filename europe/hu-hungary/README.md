@@ -21,11 +21,11 @@
 Alphabet
 
 - **Alphabet Specials** (5):  **Ú**  **á**  **é**  **ó**  **ő** 
-  - **Ú** (U+00DA / 218) LATIN CAPITAL LETTER U WITH ACUTE×2 ⇒ U
-  - **á** (U+00E1 / 225) LATIN SMALL LETTER A WITH ACUTE×6 ⇒ a
-  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×6 ⇒ e
-  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×2 ⇒ o
-  - **ő** (U+0151 / 337) LATIN SMALL LETTER O WITH DOUBLE ACUTE×4 ⇒ o
+  - **Ú**×2 U+00DA (218) - LATIN CAPITAL LETTER U WITH ACUTE ⇒ U
+  - **á**×6 U+00E1 (225) - LATIN SMALL LETTER A WITH ACUTE ⇒ a
+  - **é**×6 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
+  - **ó**×2 U+00F3 (243) - LATIN SMALL LETTER O WITH ACUTE ⇒ o
+  - **ő**×4 U+0151 (337) - LATIN SMALL LETTER O WITH DOUBLE ACUTE ⇒ o
 
 
 
