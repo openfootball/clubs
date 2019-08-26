@@ -5,9 +5,11 @@
 == Wien ==
 
 FK Austria Wien,   Wien (Favoriten)
-  | Austria Vienna | Austria Wien
+  | Austria Wien
+  | Austria Vienna [en]
 SK Rapid Wien,     Wien (Hütteldorf)
-  | Rapid Vienna | Rapid Wien
+  | Rapid Wien
+  | Rapid Vienna [en]
 Wiener Sport-Club, Wien (Hernals)
 
 
