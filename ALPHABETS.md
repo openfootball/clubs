@@ -1,69 +1,69 @@
 Alphabet
 
 - **Alphabet Specials** (63):  **Á**  **Å**  **Ç**  **É**  **Í**  **Ö**  **Ú**  **ß**  **à**  **á**  **â**  **ã**  **ä**  **å**  **æ**  **ç**  **è**  **é**  **ê**  **ë**  **í**  **î**  **ñ**  **ó**  **ô**  **õ**  **ö**  **ø**  **ú**  **ü**  **ý**  **þ**  **ā**  **ă**  **ą**  **ć**  **Č**  **č**  **ė**  **ę**  **ğ**  **ī**  **İ**  **ı**  **Ł**  **ł**  **ń**  **ň**  **ő**  **ř**  **Ś**  **Ş**  **ş**  **Š**  **š**  **ţ**  **ū**  **ź**  **ż**  **Ž**  **ž**  **ș**  **ț** 
-  - **Á** (U+00C1 / 193)×7 ⇒ A (2):  **pa (Panama)**<!-- -->×3 **sv (El Salvador)**<!-- -->×4
-  - **Å** (U+00C5 / 197)×5 ⇒ A (1):  **se (Sweden)**<!-- -->×5
-  - **Ç** (U+00C7 / 199)×1 ⇒ C (1):  **tr (Turkey)**<!-- -->×1
-  - **É** (U+00C9 / 201)×9 ⇒ E (2):  **fr (France)**<!-- -->×7 **es (Spain)**<!-- -->×2
-  - **Í** (U+00CD / 205)×7 ⇒ I (2):  **fo (Faroe Islands)**<!-- -->×3 **is (Iceland)**<!-- -->×4
-  - **Ö** (U+00D6 / 214)×6 ⇒ O•Oe (1):  **se (Sweden)**<!-- -->×6
-  - **Ú** (U+00DA / 218)×2 ⇒ U (1):  **hu (Hungary)**<!-- -->×2
-  - **ß** (U+00DF / 223)×13 ⇒ ss (1):  **de (Germany)**<!-- -->×13
-  - **à** (U+00E0 / 224)×7 ⇒ a (3):  **ad (Andorra)**<!-- -->×2 **it (Italy)**<!-- -->×3 **es (Spain)**<!-- -->×2
-  - **á** (U+00E1 / 225)×60 ⇒ a (9):  **sv (El Salvador)**<!-- -->×4 **cz (Czech Republic)**<!-- -->×7 **hu (Hungary)**<!-- -->×6 **sk (Slovakia)**<!-- -->×4 **es (Spain)**<!-- -->×9 **ar (Argentina)**<!-- -->×5 **br (Brazil)**<!-- -->×18 **co (Colombia)**<!-- -->×1 **ve (Venezuela)**<!-- -->×6
-  - **â** (U+00E2 / 226)×12 ⇒ a (3):  **fr (France)**<!-- -->×2 **ro (Romania)**<!-- -->×8 **ch (Switzerland)**<!-- -->×2
-  - **ã** (U+00E3 / 227)×18 ⇒ a (2):  **pt (Portugal)**<!-- -->×6 **br (Brazil)**<!-- -->×12
-  - **ä** (U+00E4 / 228)×22 ⇒ a•ae (6):  **az (Azerbaijan)**<!-- -->×8 **ee (Estonia)**<!-- -->×1 **fi (Finland)**<!-- -->×5 **gr (Greece)**<!-- -->×1 **lu (Luxembourg)**<!-- -->×1 **se (Sweden)**<!-- -->×6
-  - **å** (U+00E5 / 229)×4 ⇒ a (2):  **no (Norway)**<!-- -->×2 **se (Sweden)**<!-- -->×2
-  - **æ** (U+00E6 / 230)×9 ⇒ ae (2):  **dk (Denmark)**<!-- -->×7 **no (Norway)**<!-- -->×2
-  - **ç** (U+00E7 / 231)×22 ⇒ c (7):  **al (Albania)**<!-- -->×4 **az (Azerbaijan)**<!-- -->×1 **fr (France)**<!-- -->×2 **xk (Kosovo)**<!-- -->×1 **pt (Portugal)**<!-- -->×5 **tr (Turkey)**<!-- -->×6 **br (Brazil)**<!-- -->×3
-  - **è** (U+00E8 / 232)×8 ⇒ e (4):  **be (Belgium)**<!-- -->×4 **fr (France)**<!-- -->×1 **lu (Luxembourg)**<!-- -->×1 **ch (Switzerland)**<!-- -->×2
-  - **é** (U+00E9 / 233)×144 ⇒ e (17):  **cr (Costa Rica)**<!-- -->×2 **be (Belgium)**<!-- -->×4 **fr (France)**<!-- -->×12 **hu (Hungary)**<!-- -->×6 **is (Iceland)**<!-- -->×1 **lu (Luxembourg)**<!-- -->×1 **pt (Portugal)**<!-- -->×4 **es (Spain)**<!-- -->×28 **ca (Canada)**<!-- -->×2 **mx (Mexico)**<!-- -->×3 **ar (Argentina)**<!-- -->×40 **bo (Bolivia)**<!-- -->×2 **br (Brazil)**<!-- -->×20 **co (Colombia)**<!-- -->×2 **pe (Peru)**<!-- -->×3 **uy (Uruguay)**<!-- -->×11 **ve (Venezuela)**<!-- -->×3
-  - **ê** (U+00EA / 234)×13 ⇒ e (2):  **ht (Haiti)**<!-- -->×3 **br (Brazil)**<!-- -->×10
-  - **ë** (U+00EB / 235)×20 ⇒ e (3):  **al (Albania)**<!-- -->×16 **lu (Luxembourg)**<!-- -->×1 **mk (Macedonia)**<!-- -->×3
-  - **í** (U+00ED / 237)×47 ⇒ i (11):  **ni (Nicaragua)**<!-- -->×3 **cz (Czech Republic)**<!-- -->×9 **fo (Faroe Islands)**<!-- -->×3 **is (Iceland)**<!-- -->×7 **pt (Portugal)**<!-- -->×2 **sk (Slovakia)**<!-- -->×2 **es (Spain)**<!-- -->×3 **ar (Argentina)**<!-- -->×11 **bo (Bolivia)**<!-- -->×4 **br (Brazil)**<!-- -->×2 **ve (Venezuela)**<!-- -->×1
-  - **î** (U+00EE / 238)×1 ⇒ i (1):  **fr (France)**<!-- -->×1
-  - **ñ** (U+00F1 / 241)×20 ⇒ n (5):  **hn (Honduras)**<!-- -->×2 **es (Spain)**<!-- -->×11 **cl (Chile)**<!-- -->×2 **py (Paraguay)**<!-- -->×2 **uy (Uruguay)**<!-- -->×3
-  - **ó** (U+00F3 / 243)×74 ⇒ o (16):  **hn (Honduras)**<!-- -->×2 **sv (El Salvador)**<!-- -->×1 **fo (Faroe Islands)**<!-- -->×5 **hu (Hungary)**<!-- -->×2 **is (Iceland)**<!-- -->×2 **pl (Poland)**<!-- -->×7 **pt (Portugal)**<!-- -->×4 **es (Spain)**<!-- -->×17 **mx (Mexico)**<!-- -->×1 **ar (Argentina)**<!-- -->×17 **br (Brazil)**<!-- -->×3 **cl (Chile)**<!-- -->×5 **co (Colombia)**<!-- -->×3 **pe (Peru)**<!-- -->×1 **py (Paraguay)**<!-- -->×3 **uy (Uruguay)**<!-- -->×1
-  - **ô** (U+00F4 / 244)×2 ⇒ o (1):  **fr (France)**<!-- -->×2
-  - **õ** (U+00F5 / 245)×3 ⇒ o (2):  **ee (Estonia)**<!-- -->×2 **pt (Portugal)**<!-- -->×1
-  - **ö** (U+00F6 / 246)×40 ⇒ o•oe (6):  **at (Austria)**<!-- -->×5 **fi (Finland)**<!-- -->×2 **de (Germany)**<!-- -->×13 **is (Iceland)**<!-- -->×1 **se (Sweden)**<!-- -->×16 **tr (Turkey)**<!-- -->×3
-  - **ø** (U+00F8 / 248)×31 ⇒ o (3):  **dk (Denmark)**<!-- -->×11 **fo (Faroe Islands)**<!-- -->×1 **no (Norway)**<!-- -->×19
-  - **ú** (U+00FA / 250)×35 ⇒ u (11):  **jp (Japan)**<!-- -->×1 **gt (Guatemala)**<!-- -->×2 **pa (Panama)**<!-- -->×1 **sv (El Salvador)**<!-- -->×1 **pt (Portugal)**<!-- -->×1 **es (Spain)**<!-- -->×14 **ar (Argentina)**<!-- -->×4 **br (Brazil)**<!-- -->×3 **co (Colombia)**<!-- -->×1 **uy (Uruguay)**<!-- -->×4 **ve (Venezuela)**<!-- -->×3
-  - **ü** (U+00FC / 252)×44 ⇒ u•ue (4):  **az (Azerbaijan)**<!-- -->×1 **de (Germany)**<!-- -->×27 **ch (Switzerland)**<!-- -->×4 **tr (Turkey)**<!-- -->×12
-  - **ý** (U+00FD / 253)×1 ⇒ y (1):  **cz (Czech Republic)**<!-- -->×1
-  - **þ** (U+00FE / 254)×1 ⇒ th (1):  **is (Iceland)**<!-- -->×1
-  - **ā** (U+0101 / 257)×2 ⇒ a (1):  **lv (Latvia)**<!-- -->×2
-  - **ă** (U+0103 / 259)×9 ⇒ a (1):  **ro (Romania)**<!-- -->×9
-  - **ą** (U+0105 / 261)×3 ⇒ a (1):  **pl (Poland)**<!-- -->×3
-  - **ć** (U+0107 / 263)×5 ⇒ c (1):  **me (Montenegro)**<!-- -->×5
-  - **Č** (U+010C / 268)×4 ⇒ C (2):  **me (Montenegro)**<!-- -->×1 **rs (Serbia)**<!-- -->×3
-  - **č** (U+010D / 269)×14 ⇒ c (5):  **ba (Bosnia and Herzegovina)**<!-- -->×3 **cz (Czech Republic)**<!-- -->×1 **mk (Macedonia)**<!-- -->×3 **rs (Serbia)**<!-- -->×5 **sk (Slovakia)**<!-- -->×2
-  - **ė** (U+0117 / 279)×1 ⇒ e (1):  **lt (Lithuania)**<!-- -->×1
-  - **ę** (U+0119 / 281)×3 ⇒ e (1):  **pl (Poland)**<!-- -->×3
-  - **ğ** (U+011F / 287)×4 ⇒ g (2):  **az (Azerbaijan)**<!-- -->×2 **tr (Turkey)**<!-- -->×2
-  - **ī** (U+012B / 299)×1 ⇒ i (1):  **lv (Latvia)**<!-- -->×1
-  - **İ** (U+0130 / 304)×10 ⇒ I (2):  **az (Azerbaijan)**<!-- -->×2 **tr (Turkey)**<!-- -->×8
-  - **ı** (U+0131 / 305)×9 ⇒ i (2):  **az (Azerbaijan)**<!-- -->×2 **tr (Turkey)**<!-- -->×7
-  - **Ł** (U+0141 / 321)×2 ⇒ L (1):  **pl (Poland)**<!-- -->×2
-  - **ł** (U+0142 / 322)×9 ⇒ l (1):  **pl (Poland)**<!-- -->×9
-  - **ń** (U+0144 / 324)×3 ⇒ n (1):  **pl (Poland)**<!-- -->×3
-  - **ň** (U+0148 / 328)×4 ⇒ n (1):  **cz (Czech Republic)**<!-- -->×4
-  - **ő** (U+0151 / 337)×4 ⇒ o (1):  **hu (Hungary)**<!-- -->×4
-  - **ř** (U+0159 / 345)×2 ⇒ r (1):  **cz (Czech Republic)**<!-- -->×2
-  - **Ś** (U+015A / 346)×2 ⇒ S (1):  **pl (Poland)**<!-- -->×2
-  - **Ş** (U+015E / 350)×4 ⇒ S (2):  **az (Azerbaijan)**<!-- -->×1 **tr (Turkey)**<!-- -->×3
-  - **ş** (U+015F / 351)×27 ⇒ s (3):  **az (Azerbaijan)**<!-- -->×1 **ro (Romania)**<!-- -->×10 **tr (Turkey)**<!-- -->×16
-  - **Š** (U+0160 / 352)×8 ⇒ S (4):  **ba (Bosnia and Herzegovina)**<!-- -->×3 **hr (Croatia)**<!-- -->×2 **lt (Lithuania)**<!-- -->×1 **sk (Slovakia)**<!-- -->×2
-  - **š** (U+0161 / 353)×6 ⇒ s (3):  **me (Montenegro)**<!-- -->×2 **rs (Serbia)**<!-- -->×2 **sk (Slovakia)**<!-- -->×2
-  - **ţ** (U+0163 / 355)×1 ⇒ t (1):  **ro (Romania)**<!-- -->×1
-  - **ū** (U+016B / 363)×4 ⇒ u (2):  **lt (Lithuania)**<!-- -->×2 **lv (Latvia)**<!-- -->×2
-  - **ź** (U+017A / 378)×2 ⇒ z (1):  **pl (Poland)**<!-- -->×2
-  - **ż** (U+017C / 380)×1 ⇒ z (1):  **mt (Malta)**<!-- -->×1
-  - **Ž** (U+017D / 381)×8 ⇒ Z (3):  **ba (Bosnia and Herzegovina)**<!-- -->×2 **lt (Lithuania)**<!-- -->×4 **sk (Slovakia)**<!-- -->×2
-  - **ž** (U+017E / 382)×9 ⇒ z (4):  **hr (Croatia)**<!-- -->×2 **rs (Serbia)**<!-- -->×2 **si (Slovenia)**<!-- -->×2 **sk (Slovakia)**<!-- -->×3
-  - **ș** (U+0219 / 537)×28 ⇒ s (1):  **ro (Romania)**<!-- -->×28
-  - **ț** (U+021B / 539)×10 ⇒ t (1):  **ro (Romania)**<!-- -->×10
+  - **Á** (U+00C1 / 193) LATIN CAPITAL LETTER A WITH ACUTE×7 ⇒ A (2):  **pa (Panama)**<!-- -->×3 **sv (El Salvador)**<!-- -->×4
+  - **Å** (U+00C5 / 197) LATIN CAPITAL LETTER A WITH RING ABOVE×5 ⇒ A (1):  **se (Sweden)**<!-- -->×5
+  - **Ç** (U+00C7 / 199) LATIN CAPITAL LETTER C WITH CEDILLA×3 ⇒ C (1):  **tr (Turkey)**<!-- -->×3
+  - **É** (U+00C9 / 201) LATIN CAPITAL LETTER E WITH ACUTE×9 ⇒ E (2):  **fr (France)**<!-- -->×7 **es (Spain)**<!-- -->×2
+  - **Í** (U+00CD / 205) LATIN CAPITAL LETTER I WITH ACUTE×7 ⇒ I (2):  **fo (Faroe Islands)**<!-- -->×3 **is (Iceland)**<!-- -->×4
+  - **Ö** (U+00D6 / 214) LATIN CAPITAL LETTER O WITH DIAERESIS×6 ⇒ O•OE (1):  **se (Sweden)**<!-- -->×6
+  - **Ú** (U+00DA / 218) LATIN CAPITAL LETTER U WITH ACUTE×2 ⇒ U (1):  **hu (Hungary)**<!-- -->×2
+  - **ß** (U+00DF / 223) LATIN SMALL LETTER SHARP S×13 ⇒ ss (1):  **de (Germany)**<!-- -->×13
+  - **à** (U+00E0 / 224) LATIN SMALL LETTER A WITH GRAVE×7 ⇒ a (3):  **ad (Andorra)**<!-- -->×2 **it (Italy)**<!-- -->×3 **es (Spain)**<!-- -->×2
+  - **á** (U+00E1 / 225) LATIN SMALL LETTER A WITH ACUTE×63 ⇒ a (10):  **sv (El Salvador)**<!-- -->×4 **cz (Czech Republic)**<!-- -->×7 **hu (Hungary)**<!-- -->×6 **sk (Slovakia)**<!-- -->×4 **es (Spain)**<!-- -->×9 **mx (Mexico)**<!-- -->×3 **ar (Argentina)**<!-- -->×5 **br (Brazil)**<!-- -->×18 **co (Colombia)**<!-- -->×1 **ve (Venezuela)**<!-- -->×6
+  - **â** (U+00E2 / 226) LATIN SMALL LETTER A WITH CIRCUMFLEX×13 ⇒ a (3):  **fr (France)**<!-- -->×2 **ro (Romania)**<!-- -->×9 **ch (Switzerland)**<!-- -->×2
+  - **ã** (U+00E3 / 227) LATIN SMALL LETTER A WITH TILDE×21 ⇒ a (2):  **pt (Portugal)**<!-- -->×9 **br (Brazil)**<!-- -->×12
+  - **ä** (U+00E4 / 228) LATIN SMALL LETTER A WITH DIAERESIS×22 ⇒ a•ae (6):  **az (Azerbaijan)**<!-- -->×8 **ee (Estonia)**<!-- -->×1 **fi (Finland)**<!-- -->×5 **gr (Greece)**<!-- -->×1 **lu (Luxembourg)**<!-- -->×1 **se (Sweden)**<!-- -->×6
+  - **å** (U+00E5 / 229) LATIN SMALL LETTER A WITH RING ABOVE×4 ⇒ a (2):  **no (Norway)**<!-- -->×2 **se (Sweden)**<!-- -->×2
+  - **æ** (U+00E6 / 230) LATIN SMALL LETTER AE×9 ⇒ ae (2):  **dk (Denmark)**<!-- -->×7 **no (Norway)**<!-- -->×2
+  - **ç** (U+00E7 / 231) LATIN SMALL LETTER C WITH CEDILLA×26 ⇒ c (7):  **al (Albania)**<!-- -->×4 **az (Azerbaijan)**<!-- -->×1 **fr (France)**<!-- -->×2 **xk (Kosovo)**<!-- -->×1 **pt (Portugal)**<!-- -->×5 **tr (Turkey)**<!-- -->×10 **br (Brazil)**<!-- -->×3
+  - **è** (U+00E8 / 232) LATIN SMALL LETTER E WITH GRAVE×8 ⇒ e (4):  **be (Belgium)**<!-- -->×4 **fr (France)**<!-- -->×1 **lu (Luxembourg)**<!-- -->×1 **ch (Switzerland)**<!-- -->×2
+  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×148 ⇒ e (17):  **cr (Costa Rica)**<!-- -->×2 **be (Belgium)**<!-- -->×4 **fr (France)**<!-- -->×15 **hu (Hungary)**<!-- -->×6 **is (Iceland)**<!-- -->×1 **lu (Luxembourg)**<!-- -->×1 **pt (Portugal)**<!-- -->×4 **es (Spain)**<!-- -->×28 **ca (Canada)**<!-- -->×2 **mx (Mexico)**<!-- -->×4 **ar (Argentina)**<!-- -->×40 **bo (Bolivia)**<!-- -->×2 **br (Brazil)**<!-- -->×20 **co (Colombia)**<!-- -->×2 **pe (Peru)**<!-- -->×3 **uy (Uruguay)**<!-- -->×11 **ve (Venezuela)**<!-- -->×3
+  - **ê** (U+00EA / 234) LATIN SMALL LETTER E WITH CIRCUMFLEX×13 ⇒ e (2):  **ht (Haiti)**<!-- -->×3 **br (Brazil)**<!-- -->×10
+  - **ë** (U+00EB / 235) LATIN SMALL LETTER E WITH DIAERESIS×20 ⇒ e (3):  **al (Albania)**<!-- -->×16 **lu (Luxembourg)**<!-- -->×1 **mk (Macedonia)**<!-- -->×3
+  - **í** (U+00ED / 237) LATIN SMALL LETTER I WITH ACUTE×47 ⇒ i (11):  **ni (Nicaragua)**<!-- -->×3 **cz (Czech Republic)**<!-- -->×9 **fo (Faroe Islands)**<!-- -->×3 **is (Iceland)**<!-- -->×7 **pt (Portugal)**<!-- -->×2 **sk (Slovakia)**<!-- -->×2 **es (Spain)**<!-- -->×3 **ar (Argentina)**<!-- -->×11 **bo (Bolivia)**<!-- -->×4 **br (Brazil)**<!-- -->×2 **ve (Venezuela)**<!-- -->×1
+  - **î** (U+00EE / 238) LATIN SMALL LETTER I WITH CIRCUMFLEX×1 ⇒ i (1):  **fr (France)**<!-- -->×1
+  - **ñ** (U+00F1 / 241) LATIN SMALL LETTER N WITH TILDE×20 ⇒ n (5):  **hn (Honduras)**<!-- -->×2 **es (Spain)**<!-- -->×11 **cl (Chile)**<!-- -->×2 **py (Paraguay)**<!-- -->×2 **uy (Uruguay)**<!-- -->×3
+  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×80 ⇒ o (16):  **hn (Honduras)**<!-- -->×2 **sv (El Salvador)**<!-- -->×1 **fo (Faroe Islands)**<!-- -->×5 **hu (Hungary)**<!-- -->×2 **is (Iceland)**<!-- -->×2 **pl (Poland)**<!-- -->×12 **pt (Portugal)**<!-- -->×4 **es (Spain)**<!-- -->×18 **mx (Mexico)**<!-- -->×1 **ar (Argentina)**<!-- -->×17 **br (Brazil)**<!-- -->×3 **cl (Chile)**<!-- -->×5 **co (Colombia)**<!-- -->×3 **pe (Peru)**<!-- -->×1 **py (Paraguay)**<!-- -->×3 **uy (Uruguay)**<!-- -->×1
+  - **ô** (U+00F4 / 244) LATIN SMALL LETTER O WITH CIRCUMFLEX×2 ⇒ o (1):  **fr (France)**<!-- -->×2
+  - **õ** (U+00F5 / 245) LATIN SMALL LETTER O WITH TILDE×3 ⇒ o (2):  **ee (Estonia)**<!-- -->×2 **pt (Portugal)**<!-- -->×1
+  - **ö** (U+00F6 / 246) LATIN SMALL LETTER O WITH DIAERESIS×40 ⇒ o•oe (6):  **at (Austria)**<!-- -->×5 **fi (Finland)**<!-- -->×2 **de (Germany)**<!-- -->×13 **is (Iceland)**<!-- -->×1 **se (Sweden)**<!-- -->×16 **tr (Turkey)**<!-- -->×3
+  - **ø** (U+00F8 / 248) LATIN SMALL LETTER O WITH STROKE×31 ⇒ o (3):  **dk (Denmark)**<!-- -->×11 **fo (Faroe Islands)**<!-- -->×1 **no (Norway)**<!-- -->×19
+  - **ú** (U+00FA / 250) LATIN SMALL LETTER U WITH ACUTE×38 ⇒ u (12):  **jp (Japan)**<!-- -->×1 **gt (Guatemala)**<!-- -->×2 **pa (Panama)**<!-- -->×1 **sv (El Salvador)**<!-- -->×1 **pt (Portugal)**<!-- -->×1 **es (Spain)**<!-- -->×16 **mx (Mexico)**<!-- -->×1 **ar (Argentina)**<!-- -->×4 **br (Brazil)**<!-- -->×3 **co (Colombia)**<!-- -->×1 **uy (Uruguay)**<!-- -->×4 **ve (Venezuela)**<!-- -->×3
+  - **ü** (U+00FC / 252) LATIN SMALL LETTER U WITH DIAERESIS×82 ⇒ u•ue (4):  **az (Azerbaijan)**<!-- -->×1 **de (Germany)**<!-- -->×27 **ch (Switzerland)**<!-- -->×4 **tr (Turkey)**<!-- -->×50
+  - **ý** (U+00FD / 253) LATIN SMALL LETTER Y WITH ACUTE×1 ⇒ y (1):  **cz (Czech Republic)**<!-- -->×1
+  - **þ** (U+00FE / 254) LATIN SMALL LETTER THORN×1 ⇒ p (1):  **is (Iceland)**<!-- -->×1
+  - **ā** (U+0101 / 257) LATIN SMALL LETTER A WITH MACRON×2 ⇒ a (1):  **lv (Latvia)**<!-- -->×2
+  - **ă** (U+0103 / 259) LATIN SMALL LETTER A WITH BREVE×12 ⇒ a (1):  **ro (Romania)**<!-- -->×12
+  - **ą** (U+0105 / 261) LATIN SMALL LETTER A WITH OGONEK×4 ⇒ a (1):  **pl (Poland)**<!-- -->×4
+  - **ć** (U+0107 / 263) LATIN SMALL LETTER C WITH ACUTE×5 ⇒ c (1):  **me (Montenegro)**<!-- -->×5
+  - **Č** (U+010C / 268) LATIN CAPITAL LETTER C WITH CARON×4 ⇒ C (2):  **me (Montenegro)**<!-- -->×1 **rs (Serbia)**<!-- -->×3
+  - **č** (U+010D / 269) LATIN SMALL LETTER C WITH CARON×14 ⇒ c (5):  **ba (Bosnia and Herzegovina)**<!-- -->×3 **cz (Czech Republic)**<!-- -->×1 **mk (Macedonia)**<!-- -->×3 **rs (Serbia)**<!-- -->×5 **sk (Slovakia)**<!-- -->×2
+  - **ė** (U+0117 / 279) LATIN SMALL LETTER E WITH DOT ABOVE×1 ⇒ e (1):  **lt (Lithuania)**<!-- -->×1
+  - **ę** (U+0119 / 281) LATIN SMALL LETTER E WITH OGONEK×7 ⇒ e (1):  **pl (Poland)**<!-- -->×7
+  - **ğ** (U+011F / 287) LATIN SMALL LETTER G WITH BREVE×9 ⇒ g (2):  **az (Azerbaijan)**<!-- -->×2 **tr (Turkey)**<!-- -->×7
+  - **ī** (U+012B / 299) LATIN SMALL LETTER I WITH MACRON×1 ⇒ i (1):  **lv (Latvia)**<!-- -->×1
+  - **İ** (U+0130 / 304) LATIN CAPITAL LETTER I WITH DOT ABOVE×14 ⇒ I (2):  **az (Azerbaijan)**<!-- -->×2 **tr (Turkey)**<!-- -->×12
+  - **ı** (U+0131 / 305) LATIN SMALL LETTER DOTLESS I×17 ⇒ i (2):  **az (Azerbaijan)**<!-- -->×2 **tr (Turkey)**<!-- -->×15
+  - **Ł** (U+0141 / 321) LATIN CAPITAL LETTER L WITH STROKE×5 ⇒ L (1):  **pl (Poland)**<!-- -->×5
+  - **ł** (U+0142 / 322) LATIN SMALL LETTER L WITH STROKE×13 ⇒ l (1):  **pl (Poland)**<!-- -->×13
+  - **ń** (U+0144 / 324) LATIN SMALL LETTER N WITH ACUTE×4 ⇒ n (1):  **pl (Poland)**<!-- -->×4
+  - **ň** (U+0148 / 328) LATIN SMALL LETTER N WITH CARON×4 ⇒ n (1):  **cz (Czech Republic)**<!-- -->×4
+  - **ő** (U+0151 / 337) LATIN SMALL LETTER O WITH DOUBLE ACUTE×4 ⇒ o (1):  **hu (Hungary)**<!-- -->×4
+  - **ř** (U+0159 / 345) LATIN SMALL LETTER R WITH CARON×2 ⇒ r (1):  **cz (Czech Republic)**<!-- -->×2
+  - **Ś** (U+015A / 346) LATIN CAPITAL LETTER S WITH ACUTE×3 ⇒ S (1):  **pl (Poland)**<!-- -->×3
+  - **Ş** (U+015E / 350) LATIN CAPITAL LETTER S WITH CEDILLA×10 ⇒ S (2):  **az (Azerbaijan)**<!-- -->×1 **tr (Turkey)**<!-- -->×9
+  - **ş** (U+015F / 351) LATIN SMALL LETTER S WITH CEDILLA×35 ⇒ s (3):  **az (Azerbaijan)**<!-- -->×1 **ro (Romania)**<!-- -->×10 **tr (Turkey)**<!-- -->×24
+  - **Š** (U+0160 / 352) LATIN CAPITAL LETTER S WITH CARON×8 ⇒ S (4):  **ba (Bosnia and Herzegovina)**<!-- -->×3 **hr (Croatia)**<!-- -->×2 **lt (Lithuania)**<!-- -->×1 **sk (Slovakia)**<!-- -->×2
+  - **š** (U+0161 / 353) LATIN SMALL LETTER S WITH CARON×6 ⇒ s (3):  **me (Montenegro)**<!-- -->×2 **rs (Serbia)**<!-- -->×2 **sk (Slovakia)**<!-- -->×2
+  - **ţ** (U+0163 / 355) LATIN SMALL LETTER T WITH CEDILLA×1 ⇒ t (1):  **ro (Romania)**<!-- -->×1
+  - **ū** (U+016B / 363) LATIN SMALL LETTER U WITH MACRON×4 ⇒ u (2):  **lt (Lithuania)**<!-- -->×2 **lv (Latvia)**<!-- -->×2
+  - **ź** (U+017A / 378) LATIN SMALL LETTER Z WITH ACUTE×3 ⇒ z (1):  **pl (Poland)**<!-- -->×3
+  - **ż** (U+017C / 380) LATIN SMALL LETTER Z WITH DOT ABOVE×1 ⇒ z (1):  **mt (Malta)**<!-- -->×1
+  - **Ž** (U+017D / 381) LATIN CAPITAL LETTER Z WITH CARON×8 ⇒ Z (3):  **ba (Bosnia and Herzegovina)**<!-- -->×2 **lt (Lithuania)**<!-- -->×4 **sk (Slovakia)**<!-- -->×2
+  - **ž** (U+017E / 382) LATIN SMALL LETTER Z WITH CARON×9 ⇒ z (4):  **hr (Croatia)**<!-- -->×2 **rs (Serbia)**<!-- -->×2 **si (Slovenia)**<!-- -->×2 **sk (Slovakia)**<!-- -->×3
+  - **ș** (U+0219 / 537) LATIN SMALL LETTER S WITH COMMA BELOW×30 ⇒ s (1):  **ro (Romania)**<!-- -->×30
+  - **ț** (U+021B / 539) LATIN SMALL LETTER T WITH COMMA BELOW×11 ⇒ t (1):  **ro (Romania)**<!-- -->×11
 
 
 By Country
@@ -100,7 +100,7 @@ By Country
 - **eng (England)**:  (0)
 - **fi (Finland)**:  (2) **ä** **ö**:  **ä** (U+00E4 / 228)×5  **ö** (U+00F6 / 246)×2 
 - **fo (Faroe Islands)**:  (4) **Í** **í** **ó** **ø**:  **Í** (U+00CD / 205)×3  **í** (U+00ED / 237)×3  **ó** (U+00F3 / 243)×5  **ø** (U+00F8 / 248)×1 
-- **fr (France)**:  (7) **É** **â** **ç** **è** **é** **î** **ô**:  **É** (U+00C9 / 201)×7  **â** (U+00E2 / 226)×2  **ç** (U+00E7 / 231)×2  **è** (U+00E8 / 232)×1  **é** (U+00E9 / 233)×12  **î** (U+00EE / 238)×1  **ô** (U+00F4 / 244)×2 
+- **fr (France)**:  (7) **É** **â** **ç** **è** **é** **î** **ô**:  **É** (U+00C9 / 201)×7  **â** (U+00E2 / 226)×2  **ç** (U+00E7 / 231)×2  **è** (U+00E8 / 232)×1  **é** (U+00E9 / 233)×15  **î** (U+00EE / 238)×1  **ô** (U+00F4 / 244)×2 
 - **ge (Georgia)**:  (0)
 - **de (Germany)**:  (3) **ß** **ö** **ü**:  **ß** (U+00DF / 223)×13  **ö** (U+00F6 / 246)×13  **ü** (U+00FC / 252)×27 
 - **gi (Gibraltar)**:  (0)
@@ -123,9 +123,9 @@ By Country
 - **nl (Netherlands)**:  (0)
 - **nir (Northern Ireland)**:  (0)
 - **no (Norway)**:  (3) **å** **æ** **ø**:  **å** (U+00E5 / 229)×2  **æ** (U+00E6 / 230)×2  **ø** (U+00F8 / 248)×19 
-- **pl (Poland)**:  (8) **ó** **ą** **ę** **Ł** **ł** **ń** **Ś** **ź**:  **ó** (U+00F3 / 243)×7  **ą** (U+0105 / 261)×3  **ę** (U+0119 / 281)×3  **Ł** (U+0141 / 321)×2  **ł** (U+0142 / 322)×9  **ń** (U+0144 / 324)×3  **Ś** (U+015A / 346)×2  **ź** (U+017A / 378)×2 
-- **pt (Portugal)**:  (7) **ã** **ç** **é** **í** **ó** **õ** **ú**:  **ã** (U+00E3 / 227)×6  **ç** (U+00E7 / 231)×5  **é** (U+00E9 / 233)×4  **í** (U+00ED / 237)×2  **ó** (U+00F3 / 243)×4  **õ** (U+00F5 / 245)×1  **ú** (U+00FA / 250)×1 
-- **ro (Romania)**:  (6) **â** **ă** **ş** **ţ** **ș** **ț**:  **â** (U+00E2 / 226)×8  **ă** (U+0103 / 259)×9  **ş** (U+015F / 351)×10  **ţ** (U+0163 / 355)×1  **ș** (U+0219 / 537)×28  **ț** (U+021B / 539)×10 
+- **pl (Poland)**:  (8) **ó** **ą** **ę** **Ł** **ł** **ń** **Ś** **ź**:  **ó** (U+00F3 / 243)×12  **ą** (U+0105 / 261)×4  **ę** (U+0119 / 281)×7  **Ł** (U+0141 / 321)×5  **ł** (U+0142 / 322)×13  **ń** (U+0144 / 324)×4  **Ś** (U+015A / 346)×3  **ź** (U+017A / 378)×3 
+- **pt (Portugal)**:  (7) **ã** **ç** **é** **í** **ó** **õ** **ú**:  **ã** (U+00E3 / 227)×9  **ç** (U+00E7 / 231)×5  **é** (U+00E9 / 233)×4  **í** (U+00ED / 237)×2  **ó** (U+00F3 / 243)×4  **õ** (U+00F5 / 245)×1  **ú** (U+00FA / 250)×1 
+- **ro (Romania)**:  (6) **â** **ă** **ş** **ţ** **ș** **ț**:  **â** (U+00E2 / 226)×9  **ă** (U+0103 / 259)×12  **ş** (U+015F / 351)×10  **ţ** (U+0163 / 355)×1  **ș** (U+0219 / 537)×30  **ț** (U+021B / 539)×11 
 - **rs (Serbia)**:  (4) **Č** **č** **š** **ž**:  **Č** (U+010C / 268)×3  **č** (U+010D / 269)×5  **š** (U+0161 / 353)×2  **ž** (U+017E / 382)×2 
 - **ru (Russia)**:  (0)
 - **sco (Scotland)**:  (0)
@@ -133,14 +133,14 @@ By Country
 - **si (Slovenia)**:  (1) **ž**:  **ž** (U+017E / 382)×2 
 - **sk (Slovakia)**:  (7) **á** **í** **č** **Š** **š** **Ž** **ž**:  **á** (U+00E1 / 225)×4  **í** (U+00ED / 237)×2  **č** (U+010D / 269)×2  **Š** (U+0160 / 352)×2  **š** (U+0161 / 353)×2  **Ž** (U+017D / 381)×2  **ž** (U+017E / 382)×3 
 - **sm (San Marino)**:  (0)
-- **es (Spain)**:  (8) **É** **à** **á** **é** **í** **ñ** **ó** **ú**:  **É** (U+00C9 / 201)×2  **à** (U+00E0 / 224)×2  **á** (U+00E1 / 225)×9  **é** (U+00E9 / 233)×28  **í** (U+00ED / 237)×3  **ñ** (U+00F1 / 241)×11  **ó** (U+00F3 / 243)×17  **ú** (U+00FA / 250)×14 
+- **es (Spain)**:  (8) **É** **à** **á** **é** **í** **ñ** **ó** **ú**:  **É** (U+00C9 / 201)×2  **à** (U+00E0 / 224)×2  **á** (U+00E1 / 225)×9  **é** (U+00E9 / 233)×28  **í** (U+00ED / 237)×3  **ñ** (U+00F1 / 241)×11  **ó** (U+00F3 / 243)×18  **ú** (U+00FA / 250)×16 
 - **ch (Switzerland)**:  (3) **â** **è** **ü**:  **â** (U+00E2 / 226)×2  **è** (U+00E8 / 232)×2  **ü** (U+00FC / 252)×4 
-- **tr (Turkey)**:  (9) **Ç** **ç** **ö** **ü** **ğ** **İ** **ı** **Ş** **ş**:  **Ç** (U+00C7 / 199)×1  **ç** (U+00E7 / 231)×6  **ö** (U+00F6 / 246)×3  **ü** (U+00FC / 252)×12  **ğ** (U+011F / 287)×2  **İ** (U+0130 / 304)×8  **ı** (U+0131 / 305)×7  **Ş** (U+015E / 350)×3  **ş** (U+015F / 351)×16 
+- **tr (Turkey)**:  (9) **Ç** **ç** **ö** **ü** **ğ** **İ** **ı** **Ş** **ş**:  **Ç** (U+00C7 / 199)×3  **ç** (U+00E7 / 231)×10  **ö** (U+00F6 / 246)×3  **ü** (U+00FC / 252)×50  **ğ** (U+011F / 287)×7  **İ** (U+0130 / 304)×12  **ı** (U+0131 / 305)×15  **Ş** (U+015E / 350)×9  **ş** (U+015F / 351)×24 
 - **ua (Ukraine)**:  (0)
 - **wal (Wales)**:  (0)
 - **il (Israel)**:  (0)
 - **ca (Canada)**:  (1) **é**:  **é** (U+00E9 / 233)×2 
-- **mx (Mexico)**:  (2) **é** **ó**:  **é** (U+00E9 / 233)×3  **ó** (U+00F3 / 243)×1 
+- **mx (Mexico)**:  (4) **á** **é** **ó** **ú**:  **á** (U+00E1 / 225)×3  **é** (U+00E9 / 233)×4  **ó** (U+00F3 / 243)×1  **ú** (U+00FA / 250)×1 
 - **us (United States)**:  (0)
 - **au (Australia)**:  (0)
 - **nz (New Zealand)**:  (0)

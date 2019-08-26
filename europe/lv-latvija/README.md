@@ -18,9 +18,9 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **ā**  **ī**  **ū** 
-  - **ā** (U+0101 / 257)×2 ⇒ a
-  - **ī** (U+012B / 299)×1 ⇒ i
-  - **ū** (U+016B / 363)×2 ⇒ u
+  - **ā** (U+0101 / 257) LATIN SMALL LETTER A WITH MACRON×2 ⇒ a
+  - **ī** (U+012B / 299) LATIN SMALL LETTER I WITH MACRON×1 ⇒ i
+  - **ū** (U+016B / 363) LATIN SMALL LETTER U WITH MACRON×2 ⇒ u
 
 
 

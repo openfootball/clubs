@@ -1,4 +1,4 @@
-17 clubs
+18 clubs
 
 - [**FK Austria Wien**](https://en.wikipedia.org/wiki/FK_Austria_Wien) : (2) Austria Wien · Austria Vienna
 - [**SK Rapid Wien**](https://en.wikipedia.org/wiki/SK_Rapid_Wien) : (2) Rapid Wien · Rapid Vienna
@@ -16,6 +16,7 @@
 - [**FC RB Salzburg**](https://en.wikipedia.org/wiki/FC_Red_Bull_Salzburg) : (3) Salzburg · FC Salzburg · FC Red Bull Salzburg
 - **SV Grödig** : (1) Grödig ⇒ (4) ≈Grodig≈ · ≈Groedig≈ · ≈SV Grodig≈ · ≈SV Groedig≈
 - [**FC Wacker Innsbruck**](https://en.wikipedia.org/wiki/FC_Wacker_Innsbruck_(2002)) : (2) FC Tirol · Wacker Innsbruck
+- [**WSG Tirol**](https://en.wikipedia.org/wiki/WSG_Wattens) : (4) Tirol · WSG Wattens · WSG Swarovski Tirol · Wattener Sportgemeinschaft Tirol
 - [**SCR Altach**](https://en.wikipedia.org/wiki/SC_Rheindorf_Altach) : (2) Altach · SC Rheindorf Altach
 
 
@@ -24,7 +25,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ö** 
-  - **ö** (U+00F6 / 246)×5 ⇒ o•oe
+  - **ö** (U+00F6 / 246) LATIN SMALL LETTER O WITH DIAERESIS×5 ⇒ o•oe
 
 
 
@@ -54,6 +55,7 @@ By City
 - **Ried i. Innkreis, Oberösterreich** (1): SV Ried  (1) Ried
 - **Salzburg, Salzburg** (1): FC RB Salzburg  (3) Salzburg · FC Salzburg · FC Red Bull Salzburg
 - **St. Pölten, Niederösterreich** (1): SKN St. Pölten  (1) St. Pölten
+- **Wattens, Tirol** (1): WSG Tirol  (4) Tirol · WSG Swarovski Tirol · Wattener Sportgemeinschaft Tirol · WSG Wattens
 - **Wolfsberg, Kärnten** (1): Wolfsberger AC  (2) Wolfsberg · AC Wolfsberger
 - **Wr. Neustadt, Niederösterreich** (1): SC Wiener Neustadt  (1) Neustadt
 
@@ -69,7 +71,7 @@ By Region
 - **Steiermark** (2):   SK Sturm Graz · TSV Hartberg
 - **Kärnten** (1):   Wolfsberger AC
 - **Salzburg** (2):   FC RB Salzburg · SV Grödig
-- **Tirol** (1):   FC Wacker Innsbruck
+- **Tirol** (2):   FC Wacker Innsbruck · WSG Tirol
 - **Vorarlberg** (1):   SCR Altach
 
 
@@ -77,6 +79,7 @@ By Region
 
 By Year
 
+- **1930** (1):   WSG Tirol
 - ? (17):   FK Austria Wien · SK Rapid Wien · Wiener Sport-Club · SV Mattersburg · FC Admira Wacker Mödling · SC Wiener Neustadt · SKN St. Pölten · LASK Linz · FC Stahl Linz · SV Ried · SK Sturm Graz · TSV Hartberg · Wolfsberger AC · FC RB Salzburg · SV Grödig · FC Wacker Innsbruck · SCR Altach
 
 
@@ -95,8 +98,8 @@ By A to Z
 - **N** (1): Neustadt
 - **R** (3): Ried · Rapid Wien · Rapid Vienna
 - **S** (14): Sturm · SV Ried · Salzburg · SV Grödig · SCR Altach · St. Pölten · Sturm Graz · SK Rapid Wien · SK Sturm Graz · SK VOEST Linz · SKN St. Pölten · SV Mattersburg · SC Wiener Neustadt · SC Rheindorf Altach
-- **T** (1): TSV Hartberg
-- **W** (4): Wolfsberg · Wolfsberger AC · Wacker Innsbruck · Wiener Sport-Club
+- **T** (2): Tirol · TSV Hartberg
+- **W** (8): WSG Tirol · Wolfsberg · WSG Wattens · Wolfsberger AC · Wacker Innsbruck · Wiener Sport-Club · WSG Swarovski Tirol · Wattener Sportgemeinschaft Tirol
 
 
 

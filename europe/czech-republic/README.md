@@ -25,12 +25,12 @@
 Alphabet
 
 - **Alphabet Specials** (6):  **á**  **í**  **ý**  **č**  **ň**  **ř** 
-  - **á** (U+00E1 / 225)×7 ⇒ a
-  - **í** (U+00ED / 237)×9 ⇒ i
-  - **ý** (U+00FD / 253)×1 ⇒ y
-  - **č** (U+010D / 269)×1 ⇒ c
-  - **ň** (U+0148 / 328)×4 ⇒ n
-  - **ř** (U+0159 / 345)×2 ⇒ r
+  - **á** (U+00E1 / 225) LATIN SMALL LETTER A WITH ACUTE×7 ⇒ a
+  - **í** (U+00ED / 237) LATIN SMALL LETTER I WITH ACUTE×9 ⇒ i
+  - **ý** (U+00FD / 253) LATIN SMALL LETTER Y WITH ACUTE×1 ⇒ y
+  - **č** (U+010D / 269) LATIN SMALL LETTER C WITH CARON×1 ⇒ c
+  - **ň** (U+0148 / 328) LATIN SMALL LETTER N WITH CARON×4 ⇒ n
+  - **ř** (U+0159 / 345) LATIN SMALL LETTER R WITH CARON×2 ⇒ r
 
 
 

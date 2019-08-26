@@ -11,7 +11,7 @@
 - **IF Elfsborg** : (1) Elfsborg
 - **Helsingborgs IF** : (1) Helsingborg
 - **Kalmar FF** : (1) Kalmar
-- **Örebro SK** : (3) Örebro · Orebro · Örebro Sportklubb ⇒ (6) ≈Orebro≈ · ≈Oerebro≈ · ≈Orebro SK≈ · ≈Oerebro SK≈ · ≈Orebro Sportklubb≈ · ≈Oerebro Sportklubb≈
+- **Örebro SK** : (3) Örebro · Orebro · Örebro Sportklubb ⇒ (6) ≈Orebro≈ · ≈OErebro≈ · ≈Orebro SK≈ · ≈OErebro SK≈ · ≈Orebro Sportklubb≈ · ≈OErebro Sportklubb≈
 - **Gefle IF** : (1) Gefle
 - **AFC Eskilstuna**
 - **Mjällby AIF** : (1) Mjallby ⇒ (2) ≈Mjallby AIF≈ · ≈Mjaellby AIF≈
@@ -23,8 +23,8 @@
 - **Jönköpings Södra IF** : (1) Jonkopings ⇒ (2) ≈Jonkopings Sodra IF≈ · ≈Joenkoepings Soedra IF≈
 - **Ljungskile SK** : (1) Ljungskile
 - **IFK Norrköping** : (3) Norrköping · Norrkoping · IFK Norrköping FK ⇒ (6) ≈Norrkoping≈ · ≈Norrkoeping≈ · ≈IFK Norrkoping≈ · ≈IFK Norrkoeping≈ · ≈IFK Norrkoping FK≈ · ≈IFK Norrkoeping FK≈
-- **Östers IF** : (1) Osters ⇒ (2) ≈Osters IF≈ · ≈Oesters IF≈
-- **Östersunds FK** : (2) Östersund · Ostersunds ⇒ (4) ≈Ostersund≈ · ≈Oestersund≈ · ≈Ostersunds FK≈ · ≈Oestersunds FK≈
+- **Östers IF** : (1) Osters ⇒ (2) ≈Osters IF≈ · ≈OEsters IF≈
+- **Östersunds FK** : (2) Östersund · Ostersunds ⇒ (4) ≈Ostersund≈ · ≈OEstersund≈ · ≈Ostersunds FK≈ · ≈OEstersunds FK≈
 - **GIF Sundsvall** : (1) Sundsvall
 - **Syrianska FC** : (1) Syrianska
 - **Trelleborgs FF** : (1) Trelleborgs
@@ -35,11 +35,11 @@
 Alphabet
 
 - **Alphabet Specials** (5):  **Å**  **Ö**  **ä**  **å**  **ö** 
-  - **Å** (U+00C5 / 197)×5 ⇒ A
-  - **Ö** (U+00D6 / 214)×6 ⇒ O•Oe
-  - **ä** (U+00E4 / 228)×6 ⇒ a•ae
-  - **å** (U+00E5 / 229)×2 ⇒ a
-  - **ö** (U+00F6 / 246)×16 ⇒ o•oe
+  - **Å** (U+00C5 / 197) LATIN CAPITAL LETTER A WITH RING ABOVE×5 ⇒ A
+  - **Ö** (U+00D6 / 214) LATIN CAPITAL LETTER O WITH DIAERESIS×6 ⇒ O•OE
+  - **ä** (U+00E4 / 228) LATIN SMALL LETTER A WITH DIAERESIS×6 ⇒ a•ae
+  - **å** (U+00E5 / 229) LATIN SMALL LETTER A WITH RING ABOVE×2 ⇒ a
+  - **ö** (U+00F6 / 246) LATIN SMALL LETTER O WITH DIAERESIS×16 ⇒ o•oe
 
 
 

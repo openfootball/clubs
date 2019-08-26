@@ -20,10 +20,10 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **Č**  **č**  **š**  **ž** 
-  - **Č** (U+010C / 268)×3 ⇒ C
-  - **č** (U+010D / 269)×5 ⇒ c
-  - **š** (U+0161 / 353)×2 ⇒ s
-  - **ž** (U+017E / 382)×2 ⇒ z
+  - **Č** (U+010C / 268) LATIN CAPITAL LETTER C WITH CARON×3 ⇒ C
+  - **č** (U+010D / 269) LATIN SMALL LETTER C WITH CARON×5 ⇒ c
+  - **š** (U+0161 / 353) LATIN SMALL LETTER S WITH CARON×2 ⇒ s
+  - **ž** (U+017E / 382) LATIN SMALL LETTER Z WITH CARON×2 ⇒ z
 
 
 

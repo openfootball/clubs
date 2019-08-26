@@ -19,13 +19,13 @@
 Alphabet
 
 - **Alphabet Specials** (7):  **á**  **í**  **č**  **Š**  **š**  **Ž**  **ž** 
-  - **á** (U+00E1 / 225)×4 ⇒ a
-  - **í** (U+00ED / 237)×2 ⇒ i
-  - **č** (U+010D / 269)×2 ⇒ c
-  - **Š** (U+0160 / 352)×2 ⇒ S
-  - **š** (U+0161 / 353)×2 ⇒ s
-  - **Ž** (U+017D / 381)×2 ⇒ Z
-  - **ž** (U+017E / 382)×3 ⇒ z
+  - **á** (U+00E1 / 225) LATIN SMALL LETTER A WITH ACUTE×4 ⇒ a
+  - **í** (U+00ED / 237) LATIN SMALL LETTER I WITH ACUTE×2 ⇒ i
+  - **č** (U+010D / 269) LATIN SMALL LETTER C WITH CARON×2 ⇒ c
+  - **Š** (U+0160 / 352) LATIN CAPITAL LETTER S WITH CARON×2 ⇒ S
+  - **š** (U+0161 / 353) LATIN SMALL LETTER S WITH CARON×2 ⇒ s
+  - **Ž** (U+017D / 381) LATIN CAPITAL LETTER Z WITH CARON×2 ⇒ Z
+  - **ž** (U+017E / 382) LATIN SMALL LETTER Z WITH CARON×3 ⇒ z
 
 
 

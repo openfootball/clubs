@@ -17,9 +17,9 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **č**  **Š**  **Ž** 
-  - **č** (U+010D / 269)×3 ⇒ c
-  - **Š** (U+0160 / 352)×3 ⇒ S
-  - **Ž** (U+017D / 381)×2 ⇒ Z
+  - **č** (U+010D / 269) LATIN SMALL LETTER C WITH CARON×3 ⇒ c
+  - **Š** (U+0160 / 352) LATIN CAPITAL LETTER S WITH CARON×3 ⇒ S
+  - **Ž** (U+017D / 381) LATIN CAPITAL LETTER Z WITH CARON×2 ⇒ Z
 
 
 

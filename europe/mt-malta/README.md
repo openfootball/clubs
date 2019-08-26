@@ -15,7 +15,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ż** 
-  - **ż** (U+017C / 380)×1 ⇒ z
+  - **ż** (U+017C / 380) LATIN SMALL LETTER Z WITH DOT ABOVE×1 ⇒ z
 
 
 

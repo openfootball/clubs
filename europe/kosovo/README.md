@@ -10,7 +10,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ç** 
-  - **ç** (U+00E7 / 231)×1 ⇒ c
+  - **ç** (U+00E7 / 231) LATIN SMALL LETTER C WITH CEDILLA×1 ⇒ c
 
 
 

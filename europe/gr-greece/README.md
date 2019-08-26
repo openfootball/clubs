@@ -33,7 +33,7 @@
 - **Doxa Dramas FC** : (2) Doxa · Doxa Dramas
 - **Edessaikos FC** : (1) Edessaikos
 - **Ergotelis FC** : (1) Ergotelis
-- **OFI Crete FC** : (1) OFI
+- **OFI Crete FC** : (2) OFI · OFI Crete
 - **Kalamata FC** : (1) Kalamata
 - **AEL Kalloni FC** : (1) Kallonis
 - **Kastoria FC** : (1) Kastoria
@@ -53,7 +53,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ä** 
-  - **ä** (U+00E4 / 228)×1 ⇒ a•ae
+  - **ä** (U+00E4 / 228) LATIN SMALL LETTER A WITH DIAERESIS×1 ⇒ a•ae
 
 
 
@@ -83,7 +83,7 @@ By City
   - Iraklis 1908 Thessaloniki FC  (1) Iraklis
 - **Heraklion, Crete** (2): 
   - Ergotelis FC  (1) Ergotelis
-  - OFI Crete FC  (1) OFI
+  - OFI Crete FC  (2) OFI · OFI Crete
 - **Nikaia, Attica** (2): 
   - Proodeftiki FC  (2) Proodeftiki · Proodeytiki
   - Ionikos FC  (1) Ionikos
@@ -163,7 +163,7 @@ By A to Z
 - **K** (13): Kavala · Kerkyra · Kalamata · Kalithea · Kallonis · Kastoria · Kalamaria · Kallithea · Kavala FC · Kerkyra FC · Kalamata FC · Kastoria FC · Kallithea FC
 - **L** (7): Lamia · Larisa · Larissa · Larissa FC · Levadiakos · Levadeiakos · Levadiakos FC
 - **N** (2): Niki Volos · Niki Volou FC
-- **O** (12): OFI · Olympiacos · Olympiakos · OFI Crete FC · Olympiacos FC · Olympiakos P. · Olympiacos Volou · Olympiakos Volou · Olympiakos Piräus · Olympiacos Volou FC · Olympiacos Piraeus FC · Olympiacos Volou 1937 FC
+- **O** (13): OFI · OFI Crete · Olympiacos · Olympiakos · OFI Crete FC · Olympiacos FC · Olympiakos P. · Olympiacos Volou · Olympiakos Volou · Olympiakos Piräus · Olympiacos Volou FC · Olympiacos Piraeus FC · Olympiacos Volou 1937 FC
 - **P** (24): PAOK · PAOK FC · Panahaiki · Panionios · Platanias · Paniliakos · Panetolikos · Proodeftiki · Proodeytiki · Panserraikos · Panthrakikos · Platanias FC · Panachaiki FC · Panathinaikos · Paniliakos FC · Panionios GSS · PAS Lamia 1964 · Proodeftiki FC · PAS Giannina FC · Panetolikos GFS · Panserraikos FC · Panthrakikos FC · Panathinaikos FC · Panelefsiniakos FC
 - **T** (4): Trikala · Trikala FC · Thrasyvoulos · Thrasyvoulos FC
 - **V** (3): Veria · Veroia · Veria FC

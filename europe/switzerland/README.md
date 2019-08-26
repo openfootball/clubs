@@ -29,9 +29,9 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **â**  **è**  **ü** 
-  - **â** (U+00E2 / 226)×2 ⇒ a
-  - **è** (U+00E8 / 232)×2 ⇒ e
-  - **ü** (U+00FC / 252)×4 ⇒ u•ue
+  - **â** (U+00E2 / 226) LATIN SMALL LETTER A WITH CIRCUMFLEX×2 ⇒ a
+  - **è** (U+00E8 / 232) LATIN SMALL LETTER E WITH GRAVE×2 ⇒ e
+  - **ü** (U+00FC / 252) LATIN SMALL LETTER U WITH DIAERESIS×4 ⇒ u•ue
 
 
 

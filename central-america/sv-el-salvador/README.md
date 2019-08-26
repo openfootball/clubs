@@ -12,10 +12,10 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **Á**  **á**  **ó**  **ú** 
-  - **Á** (U+00C1 / 193)×4 ⇒ A
-  - **á** (U+00E1 / 225)×4 ⇒ a
-  - **ó** (U+00F3 / 243)×1 ⇒ o
-  - **ú** (U+00FA / 250)×1 ⇒ u
+  - **Á** (U+00C1 / 193) LATIN CAPITAL LETTER A WITH ACUTE×4 ⇒ A
+  - **á** (U+00E1 / 225) LATIN SMALL LETTER A WITH ACUTE×4 ⇒ a
+  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×1 ⇒ o
+  - **ú** (U+00FA / 250) LATIN SMALL LETTER U WITH ACUTE×1 ⇒ u
 
 
 

@@ -12,8 +12,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **é**  **í** 
-  - **é** (U+00E9 / 233)×2 ⇒ e
-  - **í** (U+00ED / 237)×4 ⇒ i
+  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×2 ⇒ e
+  - **í** (U+00ED / 237) LATIN SMALL LETTER I WITH ACUTE×4 ⇒ i
 
 
 

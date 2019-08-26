@@ -42,8 +42,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **è**  **é** 
-  - **è** (U+00E8 / 232)×4 ⇒ e
-  - **é** (U+00E9 / 233)×4 ⇒ e
+  - **è** (U+00E8 / 232) LATIN SMALL LETTER E WITH GRAVE×4 ⇒ e
+  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×4 ⇒ e
 
 
 

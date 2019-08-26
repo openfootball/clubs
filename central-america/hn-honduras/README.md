@@ -12,8 +12,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **ñ**  **ó** 
-  - **ñ** (U+00F1 / 241)×2 ⇒ n
-  - **ó** (U+00F3 / 243)×2 ⇒ o
+  - **ñ** (U+00F1 / 241) LATIN SMALL LETTER N WITH TILDE×2 ⇒ n
+  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×2 ⇒ o
 
 
 

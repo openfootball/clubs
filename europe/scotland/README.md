@@ -1,4 +1,4 @@
-44 clubs
+45 clubs
 
 - [**Celtic FC**](https://en.wikipedia.org/wiki/Celtic_F.C.) : (1) Celtic
 - [**Rangers FC**](https://en.wikipedia.org/wiki/Rangers_F.C.) : (1) Rangers
@@ -8,6 +8,7 @@
 - [**Hibernian FC**](https://en.wikipedia.org/wiki/Hibernian_F.C.) : (2) Hibernian · Hibernians
 - **Edinburgh City**
 - [**Aberdeen FC**](https://en.wikipedia.org/wiki/Aberdeen_F.C.) : (1) Aberdeen
+- **Cove Rangers FC** : (2) Cove Rangers · Cove Rangers Football Club
 - [**Dundee FC**](https://en.wikipedia.org/wiki/Dundee_F.C.) : (1) Dundee
 - [**Dundee United**](https://en.wikipedia.org/wiki/Dundee_United_F.C.) : (3) Dundee Utd · Dundee United FC · Dundee Hibernian
 - [**Hamilton Academical FC**](https://en.wikipedia.org/wiki/Hamilton_Academical_F.C.) : (2) Hamilton · Hamilton Accies
@@ -76,13 +77,15 @@ By City
   - Heart of Midlothian FC  (1) Hearts
   - Hibernian FC  (2) Hibernian · Hibernians
   - Edinburgh City 
+- **Aberdeen** (2): 
+  - Aberdeen FC  (1) Aberdeen
+  - Cove Rangers FC  (2) Cove Rangers · Cove Rangers Football Club
 - **Dundee** (2): 
   - Dundee FC  (1) Dundee
   - Dundee United  (3) Dundee Utd · Dundee United FC · Dundee Hibernian
 - **Falkirk** (2): 
   - Falkirk 
   - East Stirlingshire FC  (1) East Stirling
-- **Aberdeen** (1): Aberdeen FC  (1) Aberdeen
 - **Airdrie** (1): Airdrieonians  (2) Airdrie Utd · Airdrie
 - **Alloa** (1): Alloa Athletic  (1) Alloa
 - **Annan** (1): Annan Athletic 
@@ -123,7 +126,7 @@ By Region
 
 - **Glasgow†** (4):   Celtic FC · Rangers FC · Partick Thistle · Queen's Park
 - **Edinburgh†** (3):   Heart of Midlothian FC · Hibernian FC · Edinburgh City
-- **Aberdeen†** (1):   Aberdeen FC
+- **Aberdeen†** (2):   Aberdeen FC · Cove Rangers FC
 - **Dundee†** (2):   Dundee FC · Dundee United
 - **Hamilton†** (1):   Hamilton Academical FC
 - **Kilmarnock†** (1):   Kilmarnock FC
@@ -174,6 +177,7 @@ By Year
 - **1893** (1):   Dundee FC
 - **1903** (1):   Aberdeen FC
 - **1909** (1):   Dundee United
+- **1922** (1):   Cove Rangers FC
 - **1929** (1):   Ross County FC
 - **1994** (1):   Inverness Caledonian Thistle
 - ? (32):   Rangers FC · Queen's Park · Heart of Midlothian FC · Hibernian FC · Edinburgh City · Brechin City · Dumbarton · Dunfermline Athletic · Falkirk · Greenock Morton · Livingston FC · Queen of the South · Airdrieonians · Albion Rovers · Alloa Athletic · Arbroath · Ayr United · East Fife · Forfar Athletic · Raith Rovers · Stranraer · Annan Athletic · Clyde · Cowdenbeath · Elgin City · Montrose · Peterhead · Stenhousemuir · Stirling Albion · Clydebank FC · East Stirlingshire FC · Gretna FC
@@ -187,7 +191,7 @@ By A to Z
 
 - **A** (13): Ayr · Alloa · Airdrie · Aberdeen · Arbroath · Albion Rvs · Ayr United · Aberdeen FC · Airdrie Utd · Airdrieonians · Albion Rovers · Alloa Athletic · Annan Athletic
 - **B** (2): Brechin · Brechin City
-- **C** (7): Clyde · Celtic · Celtic FC · Clydebank · Cowdenbeath · Clydebank FC · Caley Thistle
+- **C** (10): Clyde · Celtic · Celtic FC · Clydebank · Cowdenbeath · Clydebank FC · Cove Rangers · Caley Thistle · Cove Rangers FC · Cove Rangers Football Club
 - **D** (9): Dundee · Dumbarton · Dundee FC · Dundee Utd · Dunfermline · Dundee United · Dundee Hibernian · Dundee United FC · Dunfermline Athletic
 - **E** (6): Elgin · East Fife · Elgin City · East Stirling · Edinburgh City · East Stirlingshire FC
 - **F** (3): Forfar · Falkirk · Forfar Athletic

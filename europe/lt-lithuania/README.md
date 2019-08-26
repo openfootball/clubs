@@ -19,10 +19,10 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **ė**  **Š**  **ū**  **Ž** 
-  - **ė** (U+0117 / 279)×1 ⇒ e
-  - **Š** (U+0160 / 352)×1 ⇒ S
-  - **ū** (U+016B / 363)×2 ⇒ u
-  - **Ž** (U+017D / 381)×4 ⇒ Z
+  - **ė** (U+0117 / 279) LATIN SMALL LETTER E WITH DOT ABOVE×1 ⇒ e
+  - **Š** (U+0160 / 352) LATIN CAPITAL LETTER S WITH CARON×1 ⇒ S
+  - **ū** (U+016B / 363) LATIN SMALL LETTER U WITH MACRON×2 ⇒ u
+  - **Ž** (U+017D / 381) LATIN CAPITAL LETTER Z WITH CARON×4 ⇒ Z
 
 
 

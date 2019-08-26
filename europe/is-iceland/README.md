@@ -4,7 +4,7 @@
 - **Fram Reykjavík** : (1) Fram ⇒ (1) ≈Fram Reykjavik≈
 - **Valur Reykjavík** : (1) Valur ⇒ (1) ≈Valur Reykjavik≈
 - **Víkingur Reykjavík** ⇒ (1) ≈Vikingur Reykjavik≈
-- **ÍA Akranes** : (2) IA Akranes · Íþróttabandalag Akraness ⇒ (2) ≈IA Akranes≈ · ≈Ithrottabandalag Akraness≈
+- **ÍA Akranes** : (2) IA Akranes · Íþróttabandalag Akraness ⇒ (2) ≈IA Akranes≈ · ≈Iprottabandalag Akraness≈
 - **FH Hafnarfjördur** : (1) FH ⇒ (2) ≈FH Hafnarfjordur≈ · ≈FH Hafnarfjoerdur≈
 - **Breidablik**
 - **Thór Akureyri** ⇒ (1) ≈Thor Akureyri≈
@@ -19,12 +19,12 @@
 Alphabet
 
 - **Alphabet Specials** (6):  **Í**  **é**  **í**  **ó**  **ö**  **þ** 
-  - **Í** (U+00CD / 205)×4 ⇒ I
-  - **é** (U+00E9 / 233)×1 ⇒ e
-  - **í** (U+00ED / 237)×7 ⇒ i
-  - **ó** (U+00F3 / 243)×2 ⇒ o
-  - **ö** (U+00F6 / 246)×1 ⇒ o•oe
-  - **þ** (U+00FE / 254)×1 ⇒ th
+  - **Í** (U+00CD / 205) LATIN CAPITAL LETTER I WITH ACUTE×4 ⇒ I
+  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×1 ⇒ e
+  - **í** (U+00ED / 237) LATIN SMALL LETTER I WITH ACUTE×7 ⇒ i
+  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×2 ⇒ o
+  - **ö** (U+00F6 / 246) LATIN SMALL LETTER O WITH DIAERESIS×1 ⇒ o•oe
+  - **þ** (U+00FE / 254) LATIN SMALL LETTER THORN×1 ⇒ p
 
 
 

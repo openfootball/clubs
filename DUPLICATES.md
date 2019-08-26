@@ -535,18 +535,6 @@ Club Name Duplicates
 
 **Poland (pl)**
 
-- **Górnik Zabrze**, Zabrze (1):
-  - `gornikzabrze` (2): **Gornik Zabrze** · **Gornik Zabrze**
-- **GKS Bełchatów**, Bełchatów (1):
-  - `gksbelchatow` (2): **GKS Belchatow** · **GKS Belchatow**
-- **Lechia Gdańsk**, Gdańsk (1):
-  - `lechiagdansk` (2): **Lechia Gdansk** · **Lechia Gdansk**
-- **Pogoń Szczecin**, Szczecin (1):
-  - `pogonszczecin` (2): **Pogon Szczecin** · **Pogon Szczecin**
-- **Widzew Łódź**, Łódź (1):
-  - `widzewlodz` (2): **Widzew Lodz** · **Widzew Lodz**
-- **Zagłębie Sosnowiec**, Sosnowiec (1):
-  - `zaglebiesosnowiec` (2): **Zaglebie Sosnowiec** · **Zaglebie Sosnowiec**
 
 
 
@@ -587,23 +575,14 @@ Club Name Duplicates
 - **FC Petrolul Ploiești**, Ploiești (2):
   - `petrolulploiesti` (2): **Petrolul Ploiesti** · **Petrolul Ploiesti**
   - `fcpetrolulploiesti` (2): **FC Petrolul Ploiesti** · **FC Petrolul Ploiesti**
-- **Corona Brașov**, Brașov (1):
-  - `coronabrasov` (2): **Corona Brasov** · **Corona Brasov**
-- **FC Brașov**, Brașov (1):
-  - `fcbrasov` (2): **FC Brasov** · **FC Brasov**
-- **Chindia Târgoviște**, Târgoviște (1):
-  - `chindiatargoviste` (2): **Chindia Targoviste** · **Chindia Targoviste**
 - **FC Botoșani**, Botoșani (1):
-  - `fcbotosani` (3): **FC Botosani** · **FC Botosani** · **FC Botosani**
-- **Oțelul Galați**, Galați (2):
-  - `otelul` (3): **Otelul** · **Otelul** · **Otelul**
-  - `otelulgalati` (2): **Otelul Galati** · **Otelul Galati**
+  - `fcbotosani` (2): **FC Botosani** · **FC Botosani**
+- **Oțelul Galați**, Galați (1):
+  - `otelul` (2): **Otelul** · **Otelul**
 - **FC Politehnica Iași**, Iași (1):
   - `poliiasi` (2): **Poli Iasi** · **Poli Iasi**
-- **Poli Timișoara**, Timișoara (1):
-  - `politimisoara` (2): **Poli Timisoara** · **Poli Timisoara**
 - **Târgu Mureș**, Târgu Mureș (2):
-  - `targumures` (3): **Targu Mures** · **Targu Mures** · **Targu Mures**
+  - `targumures` (2): **Targu Mures** · **Targu Mures**
   - `asatargumures` (2): **ASA Targu Mures** · **ASA Targu Mures**
 
 
@@ -703,24 +682,12 @@ Club Name Duplicates
 
 **Turkey (tr)**
 
-- **Fenerbahçe İstanbul SK**, İstanbul (1):
-  - `fenerbahce` (2): **Fenerbahce** · **Fenerbahce**
-- **Beşiktaş İstanbul JK**, İstanbul (1):
-  - `besiktas` (2): **Besiktas** · **Besiktas**
-- **Kasımpaşa İstanbul SK**, İstanbul (1):
-  - `kasimpasa` (2): **Kasimpasa** · **Kasimpasa**
-- **Osmanlıspor Ankara**, Ankara (1):
-  - `osmanlispor` (2): **Osmanlispor** · **Osmanlispor**
-- **Kardemir Karabükspor**, Karabük (1):
-  - `karabukspor` (2): **Karabukspor** · **Karabukspor**
-- **Elazığspor**, Elazığ (1):
-  - `elazigspor` (2): **Elazigspor** · **Elazigspor**
-- **Eskişehirspor**, Eskişehir (1):
-  - `eskisehirspor` (2): **Eskisehirspor** · **Eskisehirspor**
-- **Balıkesirspor**, Balıkesir (1):
-  - `balikesirspor` (2): **Balikesirspor** · **Balikesirspor**
+- **Galatasaray İstanbul AŞ**, İstanbul (1):
+  - `galatasarayistanbul` (2): Galatasaray İstanbul · Galatasaray Istanbul
+- **İstanbulspor**, İstanbul (1):
+  - `istanbulspor` (2): İstanbulspor · Istanbulspor
 - **Mersin İdmanyurdu**, Mersin (1):
-  - `mersinidmanyurdu` (2): Mersin Idman Yurdu · Mersin Idmanyurdu
+  - `mersinidmanyurdu` (4): Mersin İdmanyurdu · Mersin İdman Yurdu · Mersin Idmanyurdu · Mersin Idman Yurdu
 
 
 
@@ -751,10 +718,6 @@ Club Name Duplicates
 
 **Mexico (mx)**
 
-- **Club América**, Ciudad de México (1):
-  - `clubamerica` (2): **Club America** · **Club America**
-- **Club León**, León (1):
-  - `clubleon` (2): **Club Leon** · **Club Leon**
 
 
 

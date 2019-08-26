@@ -1,4 +1,4 @@
-173 clubs
+177 clubs
 
 - [**Arsenal FC**](https://en.wikipedia.org/wiki/Arsenal_F.C.) : (2) Arsenal · FC Arsenal
 - [**Chelsea FC**](https://en.wikipedia.org/wiki/Chelsea_F.C.) : (2) Chelsea · FC Chelsea
@@ -43,6 +43,7 @@
 - **Droylsden FC** : (1) Droylsden
 - **Hyde United FC** : (1) Hyde United
 - **Stalybridge Celtic FC** : (1) Stalybridge Celtic
+- **Salford City FC** : (2) Salford · Salford City
 - [**Aston Villa FC**](https://en.wikipedia.org/wiki/Aston_Villa_F.C.) : (2) Villa · Aston Villa
 - [**Birmingham City FC**](https://en.wikipedia.org/wiki/Birmingham_City_F.C.) : (2) Birmingham · Birmingham City
 - [**Newcastle United FC**](https://en.wikipedia.org/wiki/Newcastle_United_F.C.) : (2) Newcastle · Newcastle United
@@ -53,6 +54,7 @@
 - **Aldershot Town FC** : (1) Aldershot
 - [**Portsmouth FC**](https://en.wikipedia.org/wiki/Portsmouth_F.C.) : (1) Portsmouth
 - **Eastleigh FC** : (1) Eastleigh
+- **Havant & Waterlooville FC** : (2) Havant & Waterlooville · Havant & Waterlooville Football Club
 - [**Sunderland AFC**](https://en.wikipedia.org/wiki/Sunderland_A.F.C.) : (2) Sunderland · AFC Sunderland
 - [**Leicester City FC**](https://en.wikipedia.org/wiki/Leicester_City_F.C.) : (2) Leicester · Leicester City
 - **Loughborough FC (1886-1900)** : (1) Loughborough
@@ -66,6 +68,7 @@
 - [**Middlesbrough FC**](https://en.wikipedia.org/wiki/Middlesbrough_F.C.) : (2) Middlesboro · Middlesbrough
 - **Middlesbrough Ironopolis FC (1889-1894)** : (1) Middlesbrough Ironopolis
 - **Scarborough Athletic FC** : (1) Scarborough
+- **Harrogate Town AFC** : (3) Harrogate · Harrogate Town · Harrogate Town Association Football Club
 - [**Leeds United FC**](https://en.wikipedia.org/wiki/Leeds_United_F.C.) : (2) Leeds · Leeds United
 - **Leeds City FC (1904-1919)** : (1) Leeds City
 - [**Bradford City AFC**](https://en.wikipedia.org/wiki/Bradford_City_A.F.C.) : (2) Bradford · Bradford City
@@ -162,6 +165,7 @@
 - [**Accrington Stanley FC**](https://en.wikipedia.org/wiki/Accrington_Stanley_F.C.) : (2) Accrington · Accrington Stanley
 - **Accrington FC (1878-1896)** : (1) Accrington F.C.
 - [**Morecambe FC**](https://en.wikipedia.org/wiki/Morecambe_F.C.) : (1) Morecambe
+- **Chorley FC** : (1) Chorley
 - **Hereford FC (2014-)** : (1) Hereford
 - **Hereford United FC (1924-2014)** : (1) Hereford United
 - **St. Albans City FC** : (1) St. Albans
@@ -299,6 +303,7 @@ By City
 - **Cheltenham, Gloucestershire** (1): Cheltenham Town FC  (1) Cheltenham
 - **Chester, Cheshire** (1): Chester FC  (1) Chester
 - **Chesterfield, Derbyshire** (1): Chesterfield FC  (1) Chesterfield
+- **Chorley, Lancashire** (1): Chorley FC  (1) Chorley
 - **Cleethorpes, North East Lincolnshire** (1): Grimsby Town FC  (2) Grimsby · Grimsby Town
 - **Colchester, Essex** (1): Colchester United FC  (2) Colchester · Colchester United
 - **Coventry, West Midlands** (1): Coventry City FC  (2) Coventry · Coventry City
@@ -325,7 +330,9 @@ By City
 - **Grays, Essex** (1): Grays Athletic FC  (1) Grays
 - **Guiseley, West Yorkshire** (1): Guiseley AFC  (1) Guiseley
 - **Halifax, West Yorkshire** (1): FC Halifax Town  (2) Halifax · Halifax Town
+- **Harrogate, North Yorkshire** (1): Harrogate Town AFC  (3) Harrogate · Harrogate Town · Harrogate Town Association Football Club
 - **Hartlepool, Durham** (1): Hartlepool United FC  (2) Hartlepool · Hartlepool United
+- **Havant, Hampshire** (1): Havant & Waterlooville FC  (2) Havant & Waterlooville · Havant & Waterlooville Football Club
 - **High Wycombe, Buckinghamshire** (1): Wycombe Wanderers FC  (2) Wycombe · Wycombe Wanderers
 - **Histon and Impington, Cambridgeshire** (1): Histon FC  (1) Histon
 - **Huddersfield, West Yorkshire** (1): Huddersfield Town AFC  (2) Huddersfield · Huddersfield Town
@@ -365,6 +372,7 @@ By City
 - **Reading, Berkshire** (1): Reading FC  (2) Reading · FC Reading
 - **Rochdale, Greater Manchester** (1): Rochdale AFC  (1) Rochdale
 - **Rushden, Northamptonshire** (1): AFC Rushden & Diamonds  (2) Rushden & D · Rushden & Diamonds
+- **Salford, Greater Manchester** (1): Salford City FC  (2) Salford City · Salford
 - **Salisbury, Wiltshire** (1): Salisbury City FC (1947-2014)  (1) Salisbury
 - **Scarborough, North Yorkshire** (1): Scarborough Athletic FC  (1) Scarborough
 - **Scunthorpe, Lincolnshire** (1): Scunthorpe United FC  (2) Scunthorpe · Scunthorpe United
@@ -401,19 +409,19 @@ By City
 By Region
 
 - **London†** (20):   Arsenal FC · Chelsea FC · Tottenham Hotspur FC · West Ham United FC · Fulham FC · Charlton Athletic FC · Crystal Palace FC · Wimbledon FC · AFC Wimbledon · Queens Park Rangers FC · Millwall FC · Brentford FC · Leyton Orient FC · Barnet FC · Dagenham & Redbridge FC · Bromley FC · Hayes & Yeading United FC · Welling United FC · Sutton United FC · Thames AFC (1928-1932)
-- **Lancashire** (13):   Everton FC · Liverpool FC · Blackburn Rovers FC · Burnley FC · Blackpool FC · Preston North End FC · AFC Fylde · Darwen FC (1870-2009) · Bootle FC (1879-1893) · Fleetwood Town FC · Accrington Stanley FC · Accrington FC (1878-1896) · Morecambe FC
+- **Lancashire** (14):   Everton FC · Liverpool FC · Blackburn Rovers FC · Burnley FC · Blackpool FC · Preston North End FC · AFC Fylde · Darwen FC (1870-2009) · Bootle FC (1879-1893) · Fleetwood Town FC · Accrington Stanley FC · Accrington FC (1878-1896) · Morecambe FC · Chorley FC
 - **Lancashire†** (1):   Nelson FC
 - **Manchester†** (2):   Manchester United FC · Manchester City FC
-- **Greater Manchester** (11):   Bolton Wanderers FC · Wigan Athletic FC · Wigan Borough FC (1920-1931) · Oldham Athletic AFC · Stockport County FC · Bury FC · Rochdale AFC · Altrincham FC · Droylsden FC · Hyde United FC · Stalybridge Celtic FC
+- **Greater Manchester** (12):   Bolton Wanderers FC · Wigan Athletic FC · Wigan Borough FC (1920-1931) · Oldham Athletic AFC · Stockport County FC · Bury FC · Rochdale AFC · Altrincham FC · Droylsden FC · Hyde United FC · Stalybridge Celtic FC · Salford City FC
 - **Warwickshire** (3):   Aston Villa FC · Birmingham City FC · Nuneaton Borough FC
 - **Northumberland** (2):   Newcastle United FC · Ashington AFC
 - **Tyne and Wear** (2):   South Shields FC · Gateshead FC
-- **Hampshire** (4):   Southampton FC · Aldershot Town FC · Portsmouth FC · Eastleigh FC
+- **Hampshire** (5):   Southampton FC · Aldershot Town FC · Portsmouth FC · Eastleigh FC · Havant & Waterlooville FC
 - **Sunderland†** (1):   Sunderland AFC
 - **Leicester†** (1):   Leicester City FC
 - **Leicestershire** (1):   Loughborough FC (1886-1900)
 - **West Midlands** (6):   West Bromwich Albion FC · Coventry City FC · Wolverhampton Wanderers FC · Walsall FC · Solihull Moors FC · Stafford Rangers FC
-- **North Yorkshire** (4):   York City FC · Middlesbrough FC · Middlesbrough Ironopolis FC (1889-1894) · Scarborough Athletic FC
+- **North Yorkshire** (5):   York City FC · Middlesbrough FC · Middlesbrough Ironopolis FC (1889-1894) · Scarborough Athletic FC · Harrogate Town AFC
 - **West Yorkshire** (8):   Leeds United FC · Leeds City FC (1904-1919) · Bradford City AFC · Bradford Park Avenue AFC · Huddersfield Town AFC · FC Halifax Town · Farsley Celtic FC · Guiseley AFC
 - **East Yorkshire** (2):   Hull City AFC · North Ferriby United AFC
 - **South Yorkshire** (7):   Sheffield Wednesday FC · Sheffield United FC · Barnsley FC · Rotherham United FC · Rotherham County FC (1870-1925) · Rotherham Town FC (1899-1925) · Doncaster Rovers FC
@@ -485,7 +493,7 @@ By Year
 - **1947** (1):   Salisbury City FC (1947-2014)
 - **2004** (1):   AFC Telford United
 - **2014** (1):   Hereford FC (2014-)
-- ? (128):   Charlton Athletic FC · Wimbledon FC · AFC Wimbledon · Millwall FC · Brentford FC · Leyton Orient FC · Barnet FC · Dagenham & Redbridge FC · Bromley FC · Hayes & Yeading United FC · Welling United FC · Sutton United FC · Blackburn Rovers FC · Blackpool FC · Preston North End FC · AFC Fylde · Nelson FC · Bolton Wanderers FC · Wigan Athletic FC · Oldham Athletic AFC · Stockport County FC · Bury FC · Rochdale AFC · Altrincham FC · Droylsden FC · Hyde United FC · Stalybridge Celtic FC · Birmingham City FC · Ashington AFC · South Shields FC · Gateshead FC · Aldershot Town FC · Portsmouth FC · Eastleigh FC · Coventry City FC · Wolverhampton Wanderers FC · Walsall FC · Solihull Moors FC · Stafford Rangers FC · York City FC · Scarborough Athletic FC · Leeds United FC · Bradford City AFC · Bradford Park Avenue AFC · Huddersfield Town AFC · FC Halifax Town · Farsley Celtic FC · Guiseley AFC · North Ferriby United AFC · Sheffield Wednesday FC · Sheffield United FC · Barnsley FC · Rotherham United FC · Doncaster Rovers FC · Port Vale FC · Burton Albion FC · Tamworth FC · Derby County FC · Oxford United FC · Peterborough United FC · Cambridge United FC · Histon FC · Ipswich Town FC · Notts County FC · Nottingham Forest FC · Mansfield Town FC · Weymouth FC · Maidenhead United FC · Brighton & Hove Albion FC · Crawley Town FC · Eastbourne Borough FC · Lewes FC · Swindon Town FC · Colchester United FC · Southend United FC · Braintree Town FC · Grays Athletic FC · Canvey Island FC · Lincoln City FC · Scunthorpe United FC · Boston United FC · Gainsborough Trinity FC · Grimsby Town FC · Bristol City FC · Bristol Rovers FC · Southport FC · Plymouth Argyle FC · Exeter City FC · Torquay United FC · Gillingham FC · Maidstone United FC · Dartford FC · Dover Athletic FC · Ebbsfleet United FC · Luton Town FC · Milton Keynes Dons FC · Wycombe Wanderers FC · Yeovil Town FC · Bath City FC · Forest Green Rovers FC · Cheltenham Town FC · Kidderminster Harriers FC · Woking FC · Chesterfield FC · Alfreton Town FC · Glossop North End AFC · Carlisle United FC · Barrow AFC · Workington AFC · Northampton Town FC · AFC Rushden & Diamonds · Kettering Town FC · Shrewsbury Town FC · Chester FC · Crewe Alexandra FC · Macclesfield Town FC · Northwich Victoria FC · Fleetwood Town FC · Accrington Stanley FC · Morecambe FC · St. Albans City FC · Boreham Wood FC · Stevenage FC · Hartlepool United FC · Darlington FC · Durham City AFC · Nuneaton Borough FC · Berwick Rangers
+- ? (132):   Charlton Athletic FC · Wimbledon FC · AFC Wimbledon · Millwall FC · Brentford FC · Leyton Orient FC · Barnet FC · Dagenham & Redbridge FC · Bromley FC · Hayes & Yeading United FC · Welling United FC · Sutton United FC · Blackburn Rovers FC · Blackpool FC · Preston North End FC · AFC Fylde · Nelson FC · Bolton Wanderers FC · Wigan Athletic FC · Oldham Athletic AFC · Stockport County FC · Bury FC · Rochdale AFC · Altrincham FC · Droylsden FC · Hyde United FC · Stalybridge Celtic FC · Salford City FC · Birmingham City FC · Ashington AFC · South Shields FC · Gateshead FC · Aldershot Town FC · Portsmouth FC · Eastleigh FC · Havant & Waterlooville FC · Coventry City FC · Wolverhampton Wanderers FC · Walsall FC · Solihull Moors FC · Stafford Rangers FC · York City FC · Scarborough Athletic FC · Harrogate Town AFC · Leeds United FC · Bradford City AFC · Bradford Park Avenue AFC · Huddersfield Town AFC · FC Halifax Town · Farsley Celtic FC · Guiseley AFC · North Ferriby United AFC · Sheffield Wednesday FC · Sheffield United FC · Barnsley FC · Rotherham United FC · Doncaster Rovers FC · Port Vale FC · Burton Albion FC · Tamworth FC · Derby County FC · Oxford United FC · Peterborough United FC · Cambridge United FC · Histon FC · Ipswich Town FC · Notts County FC · Nottingham Forest FC · Mansfield Town FC · Weymouth FC · Maidenhead United FC · Brighton & Hove Albion FC · Crawley Town FC · Eastbourne Borough FC · Lewes FC · Swindon Town FC · Colchester United FC · Southend United FC · Braintree Town FC · Grays Athletic FC · Canvey Island FC · Lincoln City FC · Scunthorpe United FC · Boston United FC · Gainsborough Trinity FC · Grimsby Town FC · Bristol City FC · Bristol Rovers FC · Southport FC · Plymouth Argyle FC · Exeter City FC · Torquay United FC · Gillingham FC · Maidstone United FC · Dartford FC · Dover Athletic FC · Ebbsfleet United FC · Luton Town FC · Milton Keynes Dons FC · Wycombe Wanderers FC · Yeovil Town FC · Bath City FC · Forest Green Rovers FC · Cheltenham Town FC · Kidderminster Harriers FC · Woking FC · Chesterfield FC · Alfreton Town FC · Glossop North End AFC · Carlisle United FC · Barrow AFC · Workington AFC · Northampton Town FC · AFC Rushden & Diamonds · Kettering Town FC · Shrewsbury Town FC · Chester FC · Crewe Alexandra FC · Macclesfield Town FC · Northwich Victoria FC · Fleetwood Town FC · Accrington Stanley FC · Morecambe FC · Chorley FC · St. Albans City FC · Boreham Wood FC · Stevenage FC · Hartlepool United FC · Darlington FC · Durham City AFC · Nuneaton Borough FC · Berwick Rangers
 
 
 
@@ -515,12 +523,12 @@ By A to Z
 
 - **A** (25): Albion · Arsenal · AFC Fylde · Aldershot · Ashington · Accrington · Altrincham · Arsenal FC · Aston Villa · AFC Wimbledon · Alfreton Town · Altrincham FC · Ashington AFC · AFC Sunderland · Aston Villa FC · AFC Bournemouth · Accrington F.C. · Alfreton Town FC · Aldershot Town FC · A.F.C. Bournemouth · AFC Telford United · Accrington Stanley · Accrington Stanley FC · AFC Rushden & Diamonds · Accrington FC (1878-1896)
 - **B** (62): Bury · Barnet · Barrow · Bolton · Bootle · Boston · Burton · Berwick · Bromley · Burnley · Bury FC · Barnsley · Bradford · Brighton · Barnet FC · Bath City · Blackburn · Blackpool · Brentford · Barrow AFC · Birmingham · Bromley FC · Burnley FC · Barnsley FC · Bournemouth · Bristol Rvs · Bath City FC · Blackpool FC · Boreham Wood · Brentford FC · Bristol City · Boston United · Bradford City · Burton Albion · Burton Swifts · Burton United · Bournemouth FC · Braintree Town · Bristol Rovers · Berwick Rangers · Birmingham City · Boreham Wood FC · Bristol City FC · Blackburn Rovers · Bolton Wanderers · Boston United FC · Burton Albion FC · Burton Wanderers · Bradford City AFC · Braintree Town FC · Bristol Rovers FC · Birmingham City FC · Blackburn Rovers FC · Bolton Wanderers FC · Bradford Park Avenue · Bootle FC (1879-1893) · Brighton & Hove Albion · Bradford Park Avenue AFC · Brighton & Hove Albion FC · Burton Swifts FC (1871-1901) · Burton United FC (1901-1910) · Burton Wanderers FC (1871-1901)
-- **C** (34): Crewe · Chelsea · Chester · C Palace · Carlisle · Charlton · Coventry · Cambridge · Crystal P · Chelsea FC · Cheltenham · Chester FC · Colchester · Chesterfield · Crawley Town · Canvey Island · Coventry City · Crystal Palace · Carlisle United · Chesterfield FC · Crawley Town FC · Crewe Alexandra · Cambridge United · Canvey Island FC · Coventry City FC · Charlton Athletic · Colchester United · Crystal Palace FC · Carlisle United FC · Cheltenham Town FC · Crewe Alexandra FC · Cambridge United FC · Charlton Athletic FC · Colchester United FC
+- **C** (36): Crewe · Chelsea · Chester · Chorley · C Palace · Carlisle · Charlton · Coventry · Cambridge · Crystal P · Chelsea FC · Cheltenham · Chester FC · Chorley FC · Colchester · Chesterfield · Crawley Town · Canvey Island · Coventry City · Crystal Palace · Carlisle United · Chesterfield FC · Crawley Town FC · Crewe Alexandra · Cambridge United · Canvey Island FC · Coventry City FC · Charlton Athletic · Colchester United · Crystal Palace FC · Carlisle United FC · Cheltenham Town FC · Crewe Alexandra FC · Cambridge United FC · Charlton Athletic FC · Colchester United FC
 - **D** (22): Derby · Darwen · Dartford · Doncaster · Droylsden · Darlington · Dag and Red · Dartford FC · Durham City · Derby County · Droylsden FC · Darlington FC · Dover Athletic · Derby County FC · Durham City AFC · Doncaster Rovers · Dover Athletic FC · Doncaster Rovers FC · Dagenham & Redbridge · Darwen FC (1870-2009) · Dagenham and Redbridge · Dagenham & Redbridge FC
 - **E** (11): Exeter · Everton · Eastleigh · Ebbsfleet · Everton FC · Exeter City · Eastleigh FC · Exeter City FC · Eastbourne Borough · Ebbsfleet United FC · Eastbourne Borough FC
 - **F** (17): Fylde · Fulham · Farsley · FC Fulham · Fulham FC · FC Arsenal · FC Chelsea · FC Everton · FC Reading · FC Liverpool · Forest Green · FC Southampton · Fleetwood Town · FC Halifax Town · Farsley Celtic FC · Fleetwood Town FC · Forest Green Rovers FC
 - **G** (16): Grays · Grimsby · Guiseley · Gateshead · Gravesend · Gillingham · Gateshead FC · Grimsby Town · Guiseley AFC · Gillingham FC · Grimsby Town FC · Glossop North End · Grays Athletic FC · Gainsborough Trinity · Glossop North End AFC · Gainsborough Trinity FC
-- **H** (22): Hull · Histon · Halifax · Hereford · Histon FC · Hull City · Hartlepool · Hyde United · Halifax Town · Huddersfield · Hull City FC · Hull City AFC · Hyde United FC · Hayes & Yeading · Hereford United · Hartlepool United · Huddersfield Town · Hereford FC (2014-) · Hartlepool United FC · Huddersfield Town AFC · Hayes & Yeading United FC · Hereford United FC (1924-2014)
+- **H** (29): Hull · Histon · Halifax · Hereford · Harrogate · Histon FC · Hull City · Hartlepool · Hyde United · Halifax Town · Huddersfield · Hull City FC · Hull City AFC · Harrogate Town · Hyde United FC · Hayes & Yeading · Hereford United · Hartlepool United · Huddersfield Town · Harrogate Town AFC · Hereford FC (2014-) · Hartlepool United FC · Huddersfield Town AFC · Havant & Waterlooville · Havant & Waterlooville FC · Hayes & Yeading United FC · Hereford United FC (1924-2014) · Havant & Waterlooville Football Club · Harrogate Town Association Football Club
 - **I** (3): Ipswich · Ipswich Town · Ipswich Town FC
 - **K** (5): Kidderminster · Kettering Town · Kettering Town FC · Kidderminster Harriers · Kidderminster Harriers FC
 - **L** (22): Leeds · Lewes · Luton · Lincoln · Lewes FC · Leicester · Liverpool · Leeds City · Luton Town · Leeds United · Lincoln City · Liverpool FC · Loughborough · Leyton Orient · Luton Town FC · Leicester City · Leeds United FC · Lincoln City FC · Leyton Orient FC · Leicester City FC · Leeds City FC (1904-1919) · Loughborough FC (1886-1900)
@@ -530,7 +538,7 @@ By A to Z
 - **P** (14): Palace · Preston · Plymouth · Peterboro · Port Vale · Portsmouth · Port Vale FC · Portsmouth FC · Plymouth Argyle · Preston North End · Plymouth Argyle FC · Peterborough United · Preston North End FC · Peterborough United FC
 - **Q** (3): QPR · Queens Park Rangers · Queens Park Rangers FC
 - **R** (13): Reading · Rochdale · Rotherham · Reading FC · Rushden & D · Rochdale AFC · Rotherham Town · Rotherham County · Rotherham United · Rushden & Diamonds · Rotherham United FC · Rotherham Town FC (1899-1925) · Rotherham County FC (1870-1925)
-- **S** (49): Spurs · Stoke · Sutton · Swindon · Solihull · Southend · Salisbury · Southport · Stevenage · Stockport · Scunthorpe · Shrewsbury · St. Albans · Stoke City · Sunderland · Scarborough · Southampton · Southport FC · Stevenage FC · Swindon Town · South Shields · Stoke City FC · Sheffield Weds · Southampton FC · Sunderland AFC · Shrewsbury Town · Southend United · Swindon Town FC · Sheffield United · South Shields FC · Stafford Rangers · Stockport County · Sutton United FC · Scunthorpe United · Solihull Moors FC · Stevenage Borough · Shrewsbury Town FC · Southend United FC · St. Albans City FC · Stalybridge Celtic · Sheffield United FC · Sheffield Wednesday · Stafford Rangers FC · Stockport County FC · Scunthorpe United FC · Stalybridge Celtic FC · Sheffield Wednesday FC · Scarborough Athletic FC · Salisbury City FC (1947-2014)
+- **S** (52): Spurs · Stoke · Sutton · Salford · Swindon · Solihull · Southend · Salisbury · Southport · Stevenage · Stockport · Scunthorpe · Shrewsbury · St. Albans · Stoke City · Sunderland · Scarborough · Southampton · Salford City · Southport FC · Stevenage FC · Swindon Town · South Shields · Stoke City FC · Sheffield Weds · Southampton FC · Sunderland AFC · Salford City FC · Shrewsbury Town · Southend United · Swindon Town FC · Sheffield United · South Shields FC · Stafford Rangers · Stockport County · Sutton United FC · Scunthorpe United · Solihull Moors FC · Stevenage Borough · Shrewsbury Town FC · Southend United FC · St. Albans City FC · Stalybridge Celtic · Sheffield United FC · Sheffield Wednesday · Stafford Rangers FC · Stockport County FC · Scunthorpe United FC · Stalybridge Celtic FC · Sheffield Wednesday FC · Scarborough Athletic FC · Salisbury City FC (1947-2014)
 - **T** (15): Thames · Torquay · Tamworth · Tranmere · Tottenham · Tamworth FC · Telford United · Torquay United · Tranmere Rovers · Torquay United FC · Tottenham Hotspur · Tranmere Rovers FC · Tottenham Hotspur FC · Thames AFC (1928-1932) · Telford United FC (1872-2004)
 - **V** (1): Villa
 - **W** (33): Wigan · Woking · Wolves · Walsall · Watford · Wycombe · West Ham · Weymouth · West Brom · Wimbledon · Woking FC · Walsall FC · Watford FC · Workington · Weymouth FC · Watford F.C. · Wimbledon FC · West Bromwich · Wigan Borough · Welling United · Wigan Athletic · Workington AFC · West Ham United · Welling United FC · Wigan Athletic FC · Wycombe Wanderers · West Ham United FC · West Bromwich Albion · Wycombe Wanderers FC · West Bromwich Albion FC · Wolverhampton Wanderers · Wolverhampton Wanderers FC · Wigan Borough FC (1920-1931)

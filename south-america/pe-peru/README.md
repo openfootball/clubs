@@ -13,8 +13,8 @@
 Alphabet
 
 - **Alphabet Specials** (2):  **é**  **ó** 
-  - **é** (U+00E9 / 233)×3 ⇒ e
-  - **ó** (U+00F3 / 243)×1 ⇒ o
+  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×3 ⇒ e
+  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×1 ⇒ o
 
 
 

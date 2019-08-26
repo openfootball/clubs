@@ -16,7 +16,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ž** 
-  - **ž** (U+017E / 382)×2 ⇒ z
+  - **ž** (U+017E / 382) LATIN SMALL LETTER Z WITH CARON×2 ⇒ z
 
 
 

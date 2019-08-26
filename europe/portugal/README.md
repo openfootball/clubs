@@ -1,4 +1,4 @@
-42 clubs
+43 clubs
 
 - [**SL Benfica**](https://en.wikipedia.org/wiki/S.L._Benfica) : (4) Benfica · Benfica Lis. · Benfica Lisboa · Benfica Lissabon
 - [**Sporting CP**](https://en.wikipedia.org/wiki/Sporting_CP) : (3) Sp Lisbon · Sporting Lisboa · Sporting Clube de Portugal
@@ -42,6 +42,7 @@
 - [**CD Santa Clara**](https://en.wikipedia.org/wiki/C.D._Santa_Clara) : (1) Santa Clara
 - **CD Trofense** : (2) Trofense · Clube Desportivo Trofense
 - **Varzim SC** : (1) Varzim
+- **FC Famalicão** : (2) Famalicão · Futebol Clube de Famalicão ⇒ (3) ≈Famalicao≈ · ≈FC Famalicao≈ · ≈Futebol Clube de Famalicao≈
 
 
 
@@ -49,13 +50,13 @@
 Alphabet
 
 - **Alphabet Specials** (7):  **ã**  **ç**  **é**  **í**  **ó**  **õ**  **ú** 
-  - **ã** (U+00E3 / 227)×6 ⇒ a
-  - **ç** (U+00E7 / 231)×5 ⇒ c
-  - **é** (U+00E9 / 233)×4 ⇒ e
-  - **í** (U+00ED / 237)×2 ⇒ i
-  - **ó** (U+00F3 / 243)×4 ⇒ o
-  - **õ** (U+00F5 / 245)×1 ⇒ o
-  - **ú** (U+00FA / 250)×1 ⇒ u
+  - **ã** (U+00E3 / 227) LATIN SMALL LETTER A WITH TILDE×9 ⇒ a
+  - **ç** (U+00E7 / 231) LATIN SMALL LETTER C WITH CEDILLA×5 ⇒ c
+  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×4 ⇒ e
+  - **í** (U+00ED / 237) LATIN SMALL LETTER I WITH ACUTE×2 ⇒ i
+  - **ó** (U+00F3 / 243) LATIN SMALL LETTER O WITH ACUTE×4 ⇒ o
+  - **õ** (U+00F5 / 245) LATIN SMALL LETTER O WITH TILDE×1 ⇒ o
+  - **ú** (U+00FA / 250) LATIN SMALL LETTER U WITH ACUTE×1 ⇒ u
 
 
 
@@ -119,6 +120,7 @@ By City
 - **Setúbal** (1): Vitória de Setúbal  (2) Setubal · Vitória FC
 - **Tondela** (1): CD Tondela  (1) Tondela
 - **Tulipa** (1): CD Trofense  (2) Trofense · Clube Desportivo Trofense
+- **Vila Nova de Famalicão** (1): FC Famalicão  (2) Famalicão · Futebol Clube de Famalicão
 - **Vila do Conde** (1): Rio Ave FC  (1) Rio Ave
 
 
@@ -162,12 +164,14 @@ By Region
 - **Ponta Delgada†** (1):   CD Santa Clara
 - **Tulipa†** (1):   CD Trofense
 - **Póvoa de Varzim†** (1):   Varzim SC
+- **Vila Nova de Famalicão†** (1):   FC Famalicão
 
 
 
 
 By Year
 
+- **1931** (1):   FC Famalicão
 - ? (42):   SL Benfica · Sporting CP · Os Belenenses · FC Porto · Boavista FC · CD Aves · GD Chaves · Estoril Praia · CD Feirense · Vitória de Guimarães · Vitória de Setúbal · CS Marítimo · Moreirense FC · FC Paços de Ferreira · Portimonense SC · Rio Ave FC · SC Braga · CD Tondela · Académica de Coimbra · FC Arouca · CD Nacional Madeira · FC Penafiel · SC Beira-Mar · Desportivo de Chaves · CF Estrela da Amadora · SC Farense · Gil Vicente FC · União de Leiria · União da Madeira · SC Salgueiros · FC Tirsense · SC Campomaiorense · FC Felgueiras · Leça FC · FC Alverca · Sporting de Espinho · Leixões SC · Naval 1º de Maio · SC Olhanense · CD Santa Clara · CD Trofense · Varzim SC
 
 
@@ -182,7 +186,7 @@ By A to Z
 - **C** (14): Chaves · CD Aves · CD Tondela · Campomaior · CD Feirense · CD Nacional · CD Trofense · CS Marítimo · CD Santa Clara · Campomaiorense · CD Nacional Madeira · CF Estrela da Amadora · Clube Desportivo Nacional · Clube Desportivo Trofense
 - **D** (2): Desp. Chaves · Desportivo de Chaves
 - **E** (4): Espinho · Estoril · Est Amadora · Estoril Praia
-- **F** (10): Farense · FC Porto · Feirense · FC Arouca · FC Alverca · Felgueiras · FC Penafiel · FC Tirsense · FC Felgueiras · FC Paços de Ferreira
+- **F** (13): Farense · FC Porto · Feirense · FC Arouca · Famalicão · FC Alverca · Felgueiras · FC Penafiel · FC Tirsense · FC Famalicão · FC Felgueiras · FC Paços de Ferreira · Futebol Clube de Famalicão
 - **G** (4): GD Chaves · Guimaraes · Gil Vicente · Gil Vicente FC
 - **L** (5): Leca · Leiria · Leixoes · Leça FC · Leixões SC
 - **M** (5): Madeira · Maritimo · Marítimo · Moreirense · Moreirense FC

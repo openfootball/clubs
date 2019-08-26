@@ -18,14 +18,14 @@
 Alphabet
 
 - **Alphabet Specials** (8):  **ä**  **ç**  **ü**  **ğ**  **İ**  **ı**  **Ş**  **ş** 
-  - **ä** (U+00E4 / 228)×8 ⇒ a•ae
-  - **ç** (U+00E7 / 231)×1 ⇒ c
-  - **ü** (U+00FC / 252)×1 ⇒ u•ue
-  - **ğ** (U+011F / 287)×2 ⇒ g
-  - **İ** (U+0130 / 304)×2 ⇒ I
-  - **ı** (U+0131 / 305)×2 ⇒ i
-  - **Ş** (U+015E / 350)×1 ⇒ S
-  - **ş** (U+015F / 351)×1 ⇒ s
+  - **ä** (U+00E4 / 228) LATIN SMALL LETTER A WITH DIAERESIS×8 ⇒ a•ae
+  - **ç** (U+00E7 / 231) LATIN SMALL LETTER C WITH CEDILLA×1 ⇒ c
+  - **ü** (U+00FC / 252) LATIN SMALL LETTER U WITH DIAERESIS×1 ⇒ u•ue
+  - **ğ** (U+011F / 287) LATIN SMALL LETTER G WITH BREVE×2 ⇒ g
+  - **İ** (U+0130 / 304) LATIN CAPITAL LETTER I WITH DOT ABOVE×2 ⇒ I
+  - **ı** (U+0131 / 305) LATIN SMALL LETTER DOTLESS I×2 ⇒ i
+  - **Ş** (U+015E / 350) LATIN CAPITAL LETTER S WITH CEDILLA×1 ⇒ S
+  - **ş** (U+015F / 351) LATIN SMALL LETTER S WITH CEDILLA×1 ⇒ s
 
 
 

@@ -15,10 +15,10 @@
 Alphabet
 
 - **Alphabet Specials** (4):  **ä**  **è**  **é**  **ë** 
-  - **ä** (U+00E4 / 228)×1 ⇒ a•ae
-  - **è** (U+00E8 / 232)×1 ⇒ e
-  - **é** (U+00E9 / 233)×1 ⇒ e
-  - **ë** (U+00EB / 235)×1 ⇒ e
+  - **ä** (U+00E4 / 228) LATIN SMALL LETTER A WITH DIAERESIS×1 ⇒ a•ae
+  - **è** (U+00E8 / 232) LATIN SMALL LETTER E WITH GRAVE×1 ⇒ e
+  - **é** (U+00E9 / 233) LATIN SMALL LETTER E WITH ACUTE×1 ⇒ e
+  - **ë** (U+00EB / 235) LATIN SMALL LETTER E WITH DIAERESIS×1 ⇒ e
 
 
 
