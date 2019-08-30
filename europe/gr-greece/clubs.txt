@@ -40,8 +40,8 @@ Ionikos FC, Nikaia › Attica   ## Athens Nikaia - a suburb in the western part 
 
 
 Olympiacos Piraeus FC,  Piraeus › Attica
-  | Olympiakos | Olympiacos | Olympiakos Piräus | Olympiakos P.
-  | Olympiacos FC
+  | Olympiacos | Olympiacos Piraeus | Olympiacos FC
+  | Olympiakos | Olympiakos Piräus | Olympiakos P.
 Ethnikos Piraeus FC,    Piraeus › Attica
   | Ethnikos Piraeus | Ethnikos
 
@@ -107,6 +107,8 @@ Niki Volou FC, Volos › Thessaly
 Olympiacos Volou 1937 FC, Volos › Thessaly
   | Olympiacos Volou | Olympiacos Volou FC
   | Olympiakos Volou
+Volos FC, 2017, Volos › Thessaly
+  | Volos NFC | Volos Football Club
 
 
 Panachaiki FC, Patras › Peloponnese
