@@ -170,3 +170,6 @@ Varese Calcio,  Varese
   | Varese
 Virtus Lanciano, Lanciano
   | ASD 1920 Lanciano Calcio
+
+Pordenone Calcio, 1920, Pordenone
+  | Pordenone
