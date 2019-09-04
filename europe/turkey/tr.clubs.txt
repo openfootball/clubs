@@ -112,6 +112,7 @@ Adana Demirspor, 1940, Adana
 Gaziantepspor, 1969,  Gaziantep
 Gazişehir Gaziantep FK,  1988, Gaziantep         # formerly known as Gaziantep Büyükşehir Belediyespor
   | Gazişehir Gaziantep | Gazişehir Gaziantep Futbol Kulübü
+  | Gaziantep
 
 Çaykur Rizespor, Rize
   | Rizespor
