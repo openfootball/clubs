@@ -4,16 +4,18 @@
 
 == Hovedstaden ==
 FC København, 1992,    København         ## Copenhagen [en]
-  | Kobenhavn | København | Football Club København | FC Copenhagen
+  | København | Football Club København
+  | FC Copenhagen [en]
+  | FC Kopenhagen [de]
 
 Brøndby IF, 1964,    Brøndbyvester       ## use Brøndby ??
-  | Brondby | Brøndby | Brondby IF | Brøndbyernes Idrætsforening
+  | Brøndby | Brøndbyernes Idrætsforening
 
 FC Nordsjælland, 1991,  Farum
-  | Nordsjaelland | Nordsjælland | Football Club Nordsjælland
+  | Nordsjælland | Football Club Nordsjælland
 
 FC Helsingør, 2005,  Helsingør
- | Helsingør | Helsingor
+ | Helsingør
 
 Lyngby BK, 1921, Lyngby
   | Lyngby | Lyngby Boldklub
@@ -54,7 +56,7 @@ Randers FC, 2003,   Randers
 
 == Syddanmark ==
 Sønderjysk Elitesport, 2004,   Haderslev
-  | Sonderjyske | SønderjyskE | SønderjyskE Fodbold
+  | SønderjyskE | SønderjyskE Fodbold
 
 Odense BK, 1887,      Odense
   | OB | Odense | Odense Boldklub
@@ -68,4 +70,4 @@ Vejle, 1891, Vejle
 
 == Sjælland ==
 FC Vestsjælland,  Slagelse
-  | Vestsjaelland
+  | Vestsjælland

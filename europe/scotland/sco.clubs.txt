@@ -4,9 +4,9 @@
 
 
 Celtic FC, 1887,       Glasgow
-  | Celtic
+  | Celtic | Celtic Glasgow
 Rangers FC,      Glasgow
-  | Rangers
+  | Rangers | Gl. Rangers
 Partick Thistle, 1876, Glasgow
   | Partick | Partick Thistle FC | Jags
 Queen's Park,    Glasgow

@@ -4,6 +4,7 @@
 
 AEK Athens FC,     Athens    ## use!? - Marousi or Maroussi a suburban city in the northeastern part of the Athens agglomeration
   | AEK | AEK Athens
+  | AEK Athen [de]
 Panathinaikos FC,  Athens
   | Panathinaikos
 Apollon Smyrnis FC,  Athens
@@ -47,7 +48,7 @@ Ethnikos Piraeus FC,    Piraeus › Attica
 
 
 PAOK FC,              Thessaloniki › Central Macedonia
-  | PAOK
+  | PAOK | PAOK Thessal.
 Aris Thessaloniki FC, Thessaloniki › Central Macedonia
   | Aris
 Iraklis 1908 Thessaloniki FC, Thessaloniki › Central Macedonia

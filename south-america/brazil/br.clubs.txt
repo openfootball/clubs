@@ -12,7 +12,8 @@ São Paulo FC,      São Paulo
   | São Paulo | FC São Paulo | São Paulo SP
   | São Paulo Futebol Clube
 Palmeiras SP,  São Paulo
-  | Palmeiras | SE Palmeiras | SE Palmeiras São Paulo
+  | Palmeiras | SE Palmeiras | SE Palmeiras S
+  | SE Palmeiras São Paulo
   | Sociedade Esportiva Palmeiras
 Santos SP,      Santos
   | Santos |Santos FC | FC Santos | Santos Futebol Clube

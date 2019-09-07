@@ -25,15 +25,15 @@ Estoril Praia, Estoril
 CD Feirense, Santa Maria da Feira
   | Feirense
 Vitória de Guimarães, Guimarães
-  | Guimaraes | Vitória SC
+  | Guimarães | Vitória SC | Vit. Guimarães
 Vitória de Setúbal, Setúbal          ## note:  Vitória SC <=> Vitória FC !!!
-  | Setubal | Vitória FC
+  | Setúbal | Vitória FC
 CS Marítimo, Funchal
-  | Maritimo | Marítimo
+  | Marítimo
 Moreirense FC, Moreira de Cónegos
   | Moreirense
 FC Paços de Ferreira, Paços de Ferreira
-  | Pacos Ferreira | Paços Ferreira
+  | Paços Ferreira
 Portimonense SC, Portimão
   | Portimonense
 Rio Ave FC, Vila do Conde
@@ -44,7 +44,7 @@ CD Tondela, Tondela
   | Tondela
 
 Académica de Coimbra, Coimbra
-  | Académica | Academica | A. Académica de Coimbra
+  | Académica | A. Académica de Coimbra
   | Associação Académica de Coimbra   ## Organismo Autónomo de Futebol (AAC–OAF)
 FC Arouca, Arouca
   | Arouca
@@ -55,7 +55,7 @@ FC Penafiel, Penafiel
   | Penafiel
 
 SC Beira-Mar, Aveiro
-  | Beira Mar
+  | Beira-Mar
 Desportivo de Chaves, Chaves
   | Desp. Chaves
 CF Estrela da Amadora, Amadora
@@ -67,7 +67,7 @@ Gil Vicente FC, Barcelos
 União de Leiria,   Leiria
   | Leiria | União Desportiva de Leiria
 União da Madeira,  Funchal
-  | Madeira | Uniao Madeira
+  | Madeira | União Madeira
 SC Salgueiros,  Paranhos
   | Salgueiros
 FC Tirsense,  Santo Tirso
@@ -77,14 +77,14 @@ SC Campomaiorense, Campo Maior
 FC Felgueiras, Felgueiras
   | Felgueiras
 Leça FC, Leça da Palmeira
-  | Leca
+  | Leça
 
 FC Alverca, Alverca do Ribatejo
   | Alverca
 Sporting de Espinho,  Espinho
   | Espinho | Sporting Clube de Espinho
 Leixões SC, Matosinhos
-  | Leixoes
+  | Leixões
 Naval 1º de Maio, Figueira da Foz
   | Naval | Associação Naval 1º de Maio
 SC Olhanense,     Olhão

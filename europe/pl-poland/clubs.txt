@@ -3,7 +3,9 @@
 
 
 Legia Warszawa,        Warszawa      ## Warsaw [en]
-  | Legia | Legia Warsaw [en]
+  | Legia
+  | Legia Warsaw [en]
+  | Legia Warschau [de]
 KSP Polonia Warszawa,  Warszawa
   | Polonia Warszawa
 

@@ -11,7 +11,7 @@ Argentinos Juniors,  Buenos Aires
 Boca Juniors,       Buenos Aires
   | Boca | Boca Jrs | Club Atlético Boca Juniors
 River Plate,        Buenos Aires
-  | River | Club Atlético River Plate
+  | River | CA River Plate | Club Atlético River Plate
 San Lorenzo,        Buenos Aires
   | San Lorenzo de Almagro
   | CA San Lorenzo de Almagro | Club Atlético San Lorenzo de Almagro

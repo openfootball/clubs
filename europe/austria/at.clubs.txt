@@ -153,14 +153,25 @@ FC Liefering,        Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ?
 
 
 Austria Salzburg,    Salzburg
+  | SV Austria Salzburg
 SV Grödig,           Grödig
   | Grödig
+
+SAK 1914
+SV Seekirchen
+FC Pinzgau Saalfelden
+USK Anif
+TSV St. Johann
+SV Wals-Grünau
+SV Kuchl
+Bischofshofen Sportklub 1933
 
 
 == Tirol ==
 
 FC Wacker Innsbruck, Innsbruck
   | Wacker Innsbruck | FC Tirol              ## note: FC Tirol old name - add year
+FC Wacker Innsbruck II, Innsbruck
 
 WSG Tirol, 1930,   Wattens
   | Tirol | WSG Swarovski Tirol | WSG Swarovs. Tirol | Wattener Sportgemeinschaft Tirol
@@ -168,14 +179,35 @@ WSG Tirol, 1930,   Wattens
 
 SC Schwaz,    Schwaz
 FC Kitzbühel, Kitzbühel
+FC Kufstein,  Kufstein
 
+SV Telfs
+SV Wörgl
+SC Imst
+SV Hall
+SVG Reichenau
+FC Zirl
 
 == Vorarlberg ==
 
 SCR Altach,          Altach
-  | Altach | SC Rheindorf Altach
+  | Altach | SC Rheindorf Altach#
+SCR Altach Juniors,  Altach
 
 Austria Lustenau,   Lustenau
   | SC Austria Lustenau
+Austria Lustenau Amateure,   Lustenau
+  | SC Austria Lustenau Amateure
+
 FC Dornbirn 1913,  Dornbirn
   | FC Dornbirn
+Dornbirner SV,     Dornbirn
+
+
+VfB Hohenems
+Meusburger FC Wolfurt
+SW Bregenz
+SPG FC Langenegg
+FC Lauterach
+RW Rankweil
+SC Röfix Röthis

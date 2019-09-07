@@ -22,7 +22,8 @@ PFC Litex Lovech, 1921,        Lovech
 PFC Cherno More Varna, 1913,   Varna
   | Cherno More
 PFC Ludogorets Razgrad, 1945,  Razgrad
-  | Ludogorets | Ludogorets Razgrad | Professional Football Club Ludogorets Razgrad
+  | Ludogorets | Ludog. Razgrad | Ludogorets Razgrad
+  | Professional Football Club Ludogorets Razgrad
   | PFC Ludogorets 1945
 
 

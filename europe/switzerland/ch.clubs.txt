@@ -18,6 +18,7 @@ FC Basel, 1893,          Basel
 == Bern ==
 BSC Young Boys, 1898,          Bern
   | Young Boys | Young Boys Bern | Berner Sport Club Young Boys | BSC YB
+  | YB Bern
 FC Biel-Bienne, 1896,     Biel/Bienne
   | Biel-Bienne
 FC Thun, 1898,                 Thun

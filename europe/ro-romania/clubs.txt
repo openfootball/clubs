@@ -16,7 +16,7 @@ Daco-Getica București,   București
 
 
 CFR Cluj,     Cluj
-  | CFR 1907 Cluj
+  | CFR 1907 Cluj | FC CFR Cluj
 U Cluj,       Cluj
   | U. Cluj  | Universitatea Cluj | FC Universitatea Cluj
 
