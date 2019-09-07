@@ -18,12 +18,16 @@ Santos SP,      Santos
   | Santos |Santos FC | FC Santos | Santos Futebol Clube
 Ponte Preta,    Campinas
   | AA Ponte Preta | Associação Atlética Ponte Preta
+  | AA Ponte Preta SP
 CA Bragantino, Bragança Paulista
   | Bragantino | Clube Atlético Bragantino
 RB Bragantino, Bragança Paulista
-  | Bragantino | Red Bull Bragantino     ## todo/check: Red Bull Brazil merged with CA Prgantino?
+  | Bragantino
+  | Red Bull Bragantino     ## todo/check: Red Bull Brazil merged with CA Prgantino?
+  | RB Bragantino SP
 Oeste SP,      Itápolis
   | Oeste | Oeste FC | Oeste Futebol Clube
+  | Oeste FC SP
 Portuguesa,    São Paulo
   | Associação Portuguesa de Desportos
 Botafogo SP,    Ribeirão Preto
@@ -55,8 +59,9 @@ Atlético MG,    Belo Horizonte
 Cruzeiro MG,    Belo Horizonte
   | Cruzeiro | Cruzeiro EC | Cruzeiro Esporte Clube | Cruzeiro Belo Horizonte
 América MG,     Belo Horizonte
-  | América Mineiro | América FC | América Futebol Clube
-  | America MG | América Futebol Clube (MG)
+  | América Mineiro | América Mineiro MG
+  | América FC | América Futebol Clube
+  | América Futebol Clube (MG)
 Tupi MG,   Juiz de Fora
   | Tupi | Tupi FC | Tupi Football Club
 
@@ -78,6 +83,7 @@ Atlético PR,   Curitiba
   | Athletico-PR [en] | Club Athletico Paranaense [en]
 Coritiba PR,   Curitiba
   | Coritiba | Coritiba FC | Coritiba Football Club
+  | Coritiba FC PR
 Londrina EC,      Londrina
   | Londrina | Londrina EC PR | Londrina Esporte Clube
 Paraná Clube,     Curitiba
@@ -95,6 +101,7 @@ Chapecoense,    Chapecó
   | Chapecoense-SC | Associação Chapecoense de Futebol
 Criciúma EC,   Criciúma
   | Criciúma | Criciúma Esporte Clube
+  | Criciúma SC
 Avaí FC,       Florianópolis
   | Avaí | Avaí FC SC | Avaí Futebol Clube
 Joinvile EC,     Joinville
@@ -112,7 +119,7 @@ Náutico PE,  Recife
 
 == Bahia ==
 EC Vitória,      Salvador
-  | Vitoria | Vitória | Esporte Clube Vitória
+  | Vitória | Vitória BA | Esporte Clube Vitória
 EC Bahia,            Salvador
   | Bahia | Bahia BA | Esporte Clube Bahia
 

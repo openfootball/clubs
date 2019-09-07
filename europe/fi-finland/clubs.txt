@@ -29,6 +29,7 @@ JJK Jyväskylä,     Jyväskylä
 Tampere United,      Tampere
 FC Ilves,            Tampere
   | Ilves | Ilves Tampere
+  | Tampereen Ilves [de]
 
 
 IFK Mariehamn,    Mariehamn

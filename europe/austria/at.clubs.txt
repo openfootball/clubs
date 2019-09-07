@@ -4,19 +4,41 @@
 
 == Wien ==
 
-FK Austria Wien,   Wien (Favoriten)
-  | Austria Wien
-  | Austria Vienna [en]
 SK Rapid Wien,     Wien (Hütteldorf)
   | Rapid Wien
   | Rapid Vienna [en]
-Wiener Sport-Club, Wien (Hernals)
+SK Rapid Wien II,  Wien (Hütteldorf)
+  | Rapid Wien Am.
+
+FK Austria Wien,   Wien (Favoriten)
+  | Austria Wien
+  | Austria Vienna [en]
+Young Violets Austria Wien,   Wien (Favoriten)
+  | Young Violets A.W.
+
+SC Team Wiener Linien,   Wien (Favoriten)
+
+Wiener Sport-Club,       Wien (Hernals)
+  | Wiener Sportklub
+
+Floridsdorfer AC,  1904,  Wien (Floridsdorf)
+
+Wiener Viktoria,         Wien (Meidling)
+  | SC Wiener Viktoria
+FC Mauerwerk,            Wien (Simmering)
+
 
 
 == Burgenland ==
 
 SV Mattersburg,      Mattersburg
   | Mattersburg
+SV Mattersburg II,   Mattersburg
+  | SV Mattersburg Am.
+
+SC Neusiedl am See,  Neusiedl am See
+  | SC Neusiedl
+ASV Draßburg, Draßburg
 
 
 == Niederösterreich ==
@@ -24,20 +46,39 @@ SV Mattersburg,      Mattersburg
 FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
   | Admira | Admira Wacker
   | Admira Wien     ## historic Admira Wien name add (-???) or something
+FC Admira Wacker Mödling II,  Maria Enzersdorf (Südstadt)
+  | Admira Amateure
+
 SC Wiener Neustadt,  Wr. Neustadt
   | Neustadt
+
 SKN St. Pölten,      St. Pölten
   | St. Pölten
 
+SV Horn,   Horn
+SKU Amstetten,   Amstetten
+
+ASK Ebreichsdorf,   Ebreichsdorf
+FC Marchfeld Donauauen,  Mannsdorf an der Donau
+  | Mannsdorf-Großenz.
+SV Leobendorf,     Leobendorf
+SV Stripfing,      Stripfing    # Gemeinde Weikendorf
+FCM Traiskirchen,  Traiskirchen
+ASK-BSC Bruck/Leitha,  Bruck an der Leitha
+  | Bruck/Leitha
 
 
 == Oberösterreich ==
 
 LASK Linz,           Linz (Pasching)          ## use Pasching ??
   | LASK | Linzer ASK
+FC Juniors OÖ,  Linz (Pasching)               ## use Pasching ??
+
+FC Blau-Weiß Linz, Linz
+  | BW Linz
+
 FC Stahl Linz,       Linz
   | SK VOEST Linz
-
 ##
 ## add support for historic names - how?
 #
@@ -49,26 +90,68 @@ FC Stahl Linz,       Linz
 
 SV Ried,             Ried i. Innkreis
   | Ried
+SV Ried II,          Ried i. Innkreis
+
+SK Vorwärts Steyr,   Steyr
+
+FC Wels,         Wels
+WSC Hertha Wels, Wels
+
+Union Vöcklamarkt, Vöcklamarkt
+
+ATSV Stadl-Paura, Stadl-Paura
+Union Gurten,        Gurten
 
 
 == Steiermark ==
 
 SK Sturm Graz,       Graz
   | Sturm | Sturm Graz
+SK Sturm Graz II,    Graz
+  | Sturm Graz Amat.
+
+Grazer AK,   Graz
+
 TSV Hartberg,	       Hartberg
   | Hartberg
+
+Kapfenberger SV,   Kapfenberg
+SV Lafnitz,   Lafnitz
+
+USV Allerheiligen,     Allerheiligen bei Wildon
+  | SV Allerheiligen
+TuS Bad Gleichenberg,  Bad Gleichenberg
+  | Bad Gleichenberg
+Deutschlandsberger SC, Deutschlandsberg
+  | Deutschlandsberg
+FC Gleisdorf 09,       Gleisdorf
+  | FC Gleisdorf
+SC Kalsdorf,           Kalsdorf
+USV St. Anna,          St. Anna am Aigen
+  | St Anna am Aigen
+SC Weiz,               Weiz
 
 
 == Kärnten ==
 
 Wolfsberger AC, 	Wolfsberg
   | Wolfsberg | AC Wolfsberger
+Wolfsberger AC II, 	Wolfsberg
+  | WAC Amateure
+
+ATSV Wolfsberg, 	Wolfsberg
+
+Austria Klagenfurt, Klagenfurt
+  | SK Austria Klagenfurt
 
 
 == Salzburg ==
 
 FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
   | Salzburg | FC Salzburg | Red Bull Salzburg | FC Red Bull Salzburg
+FC Liefering,        Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
+
+
 Austria Salzburg,    Salzburg
 SV Grödig,           Grödig
   | Grödig
@@ -83,8 +166,16 @@ WSG Tirol, 1930,   Wattens
   | Tirol | WSG Swarovski Tirol | WSG Swarovs. Tirol | Wattener Sportgemeinschaft Tirol
   | WSG Wattens
 
+SC Schwaz,    Schwaz
+FC Kitzbühel, Kitzbühel
+
 
 == Vorarlberg ==
 
 SCR Altach,          Altach
   | Altach | SC Rheindorf Altach
+
+Austria Lustenau,   Lustenau
+  | SC Austria Lustenau
+FC Dornbirn 1913,  Dornbirn
+  | FC Dornbirn

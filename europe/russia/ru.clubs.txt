@@ -14,7 +14,7 @@ Dynamo Moskva, 1923,     Moskva
 FC Spartak Moskva, 1922,    Moskva
   | Spartak | FC Spartak | Spartak Moskva
   | Spartak Moscow [en] | FC Spartak Moscow [en]
-  | Spartak Moskau [de]
+  | Spartak Moskau [de] | FC Spartak Moskau [de]
 FC Moskva,    Moskva
   | Moskva
   | FC Moscow [en]
@@ -31,6 +31,7 @@ Zenit St. Petersburg, 1925,     St. Petersburg
 
 PFC Sochi, 2018, Sochi      #  formed in 2018 on the base of FC Dynamo Saint Petersburg
   | Sochi | Professional Football Club Sochi
+  | FK Sochi [de]
 
 
 FC Rubin Kazan, 1958,  Kazan     ##  Tatarstan (Republic of) > Volga (Federal District)
@@ -51,6 +52,7 @@ FC Alania Vladikavkaz,  Vladikovkaz
 PFC Krylya Sovetov Samara,    Samara
   | Krylya Sovetov | FK Krylya Sovetov Samara
   | Krylia Sovetov | Kryl'ia Sovetov | Krylia Sovetov Samara | PFC Krylia Sovetov Samara
+  | Kryliya Sovetov [de]
 
 Arsenal Tula,  Tula
   | Arsenal | FC Arsenal Tula
@@ -60,6 +62,7 @@ Chernomorets Novorosisk,  Novorosisk
 
 FC Khimki,  Khimki
   | Khimki
+  | FK Khimki [de]
 
 FC Krasnodar,  Krasnodar
   | Krasnodar | Krasnodar Krasnodar
@@ -84,6 +87,7 @@ FC Rostov,     Rostov-on-Don
 Rotor, Volgograd
 Saturn, Ramenskoe
 Shinnik, Yaroslavl
+  | Shinnik Yaroslavl
 SKA-Energiia, Khabarovsk
   | SKA Energia | SKA Khabarovsk
 Sokol, Saratov
@@ -99,6 +103,8 @@ FC Ufa, Ufa
 Ural Yekaterinburg, Yekaterinburg
   | Ural | FC Ural Yekaterinburg
   | Football Club Ural Sverdlovsk Oblast
+  | Ural Jekaterinburg [de]
+
 Uralan, Elista
 Volga Nizhnii Novgorod, Nizhny Novgorod
   | Volga | Volga N. Novgorod
