@@ -56,13 +56,13 @@ Portland Timbers, 2011,  Portland      › Oregon   ## year  2009?
   | Portland
 
 Minnesota United FC, 2017,  Minneapolis   › Minnesota   ## use 2015?
-  | Minnesota United
+  | Minnesota United | FC Minnesota Utd.
 
 Real Salt Lake, 2005,  Sandy         › Utah      ## year 2004?  use Salt Lake City (not Sandy?)
   | Real Salt Lake City
 
 Sporting Kansas City, 1996,  Kansas City   › Kansas    ## year 1995? note: Sporting KC named >Kansas City Wiz / Wizards< from 1996-2010
-  | Sporting KC | Kansas City Wizards
+  | Sp. Kansas City | Sporting KC | Kansas City Wizards
 ## note: was known as: Kansas City Wizards
 ##   rebranded in Nov 2010 to Sporting Kansas City
 

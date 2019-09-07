@@ -2,7 +2,7 @@
 =  Israel (il)
 
 Hapoel Tel-Aviv FC
-  | H. Tel-Aviv
+  | H. Tel-Aviv | Hapoel Tel-Aviv
 Maccabi Tel-Aviv FC
   | Maccabi Tel Aviv | M. Tel-Aviv
 Bnei Yehuda Tel-Aviv FC
@@ -17,7 +17,7 @@ Hapoel Kiryat Shmona FC
   | H. Kiryat Shmona
   | Hapoel Ironi Kiryat Shmona FC
 Maccabi Netanya FC
-  | M. Netanya
+  | M. Netanya | Maccabi Netanya
 Beitar Jerusalem FC
   | Beitar Jerusalem
 Hapoel Beer-Sheva FC

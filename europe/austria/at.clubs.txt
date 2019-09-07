@@ -22,7 +22,8 @@ SV Mattersburg,      Mattersburg
 == Niederösterreich ==
 
 FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
-  | Admira  | Admira Wien     ## historic Admira Wien name add (-???) or something
+  | Admira | Admira Wacker
+  | Admira Wien     ## historic Admira Wien name add (-???) or something
 SC Wiener Neustadt,  Wr. Neustadt
   | Neustadt
 SKN St. Pölten,      St. Pölten
@@ -67,7 +68,8 @@ Wolfsberger AC, 	Wolfsberg
 == Salzburg ==
 
 FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
-  | Salzburg | FC Salzburg | FC Red Bull Salzburg
+  | Salzburg | FC Salzburg | Red Bull Salzburg | FC Red Bull Salzburg
+Austria Salzburg,    Salzburg
 SV Grödig,           Grödig
   | Grödig
 
@@ -78,7 +80,7 @@ FC Wacker Innsbruck, Innsbruck
   | Wacker Innsbruck | FC Tirol              ## note: FC Tirol old name - add year
 
 WSG Tirol, 1930,   Wattens
-  | Tirol | WSG Swarovski Tirol | Wattener Sportgemeinschaft Tirol
+  | Tirol | WSG Swarovski Tirol | WSG Swarovs. Tirol | Wattener Sportgemeinschaft Tirol
   | WSG Wattens
 
 

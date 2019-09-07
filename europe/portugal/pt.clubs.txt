@@ -2,11 +2,14 @@
 =  Portugal (pt)
 
 SL Benfica,       Lisboa
-  | Benfica | Benfica Lisboa | Benfica Lissabon | Benfica Lis.
+  | Benfica | Benfica Lisboa | Benfica Lis.
+  | Benfica Lissabon [de]
 Sporting CP,      Lisboa
-  | Sp Lisbon | Sporting Lisboa | Sporting Clube de Portugal
+  | Sporting Lisboa | Sporting Clube de Portugal
+  | Sp Lisbon [en]
+  | Sporting Lissabon [de]
 Os Belenenses,    Lisboa
-  | Belenenses | Belenenses SAD
+  | Belenenses | Belenenses L. | Belenenses SAD
 
 FC Porto,     Porto
   | Porto

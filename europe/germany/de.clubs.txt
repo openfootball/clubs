@@ -20,7 +20,7 @@ FC Augsburg, 1907,    Augsburg
 SpVgg Unterhaching,  Unterhaching
   | U'haching | Unterhaching
 FC Ingolstadt 04, 2004,    Ingolstadt               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
-  | Ingolstadt
+  | Ingolstadt | FC Ingolstadt
 SSV Jahn Regensburg,   Regensburg
   | Regensburg | Jahn Regensburg
 1. FC Schweinfurt 05,  Schweinfurt
@@ -80,7 +80,7 @@ KFC Uerdingen,        Krefeld          ## bis 1995 FC Bayer 05 Uerdingen
 Alemannia Aachen,     Aachen
   | Aachen | TSV Alemannia Aachen
 SC Paderborn 07,  1907,      Paderborn
-  | Paderborn
+  | Paderborn | SC Paderborn
 Rot Weiss Ahlen,    Ahlen
   | Ahlen
 Rot-Weiß Oberhausen,   Oberhausen
@@ -161,7 +161,7 @@ Hertha BSC, 1892,            	Berlin › Berlin
 Tennis Borussia Berlin, Berlin › Berlin
   | TB Berlin | TeBe Berlin
 1. FC Union Berlin, 1966,     Berlin › Berlin
-  | Union Berlin
+  | Union Berlin | FC Union Berlin
 Blau-Weiß 90 Berlin (-1992), Berlin › Berlin
   | Blau-Weiss 90 Berlin
 SC Tasmania 1900 Berlin (-1973), Berlin › Berlin
@@ -208,7 +208,7 @@ Stuttgarter Kickers,   Stuttgart › Baden-Württemberg
 SC Freiburg, 1904,       	  Freiburg  › Baden-Württemberg
   | Freiburg
 TSG 1899 Hoffenheim,  1899,  Sinsheim › Baden-Württemberg   ## Sinsheim-Hoffenheim
-  | Hoffenheim | 1899 Hoffenheim
+  | Hoffenheim | 1899 Hoffenheim | TSG Hoffenheim
 Karlsruher SC,  1894,        Karlsruhe › Baden-Württemberg
   | Karlsruhe
 SSV Ulm 1846,         Ulm › Baden-Württemberg
@@ -216,7 +216,7 @@ SSV Ulm 1846,         Ulm › Baden-Württemberg
 VfR Aalen, 1921,          Aalen › Baden-Württemberg
   | Aalen
 1. FC Heidenheim, 2007,   Heidenheim an der Brenz › Baden-Württemberg
-  | Heidenheim | 1. FC Heidenheim 1846
+  | Heidenheim | FC Heidenheim | 1. FC Heidenheim 1846
 SSV Reutlingen 05,     Reutlingen › Baden-Württemberg
   | Reutlingen
 SV Sandhausen, 1916,         Sandhausen › Baden-Württemberg
@@ -241,14 +241,15 @@ SV Waldkirch
 == Hessen ==
 
 Eintracht Frankfurt, 1899,   Frankfurt am Main › Hessen
-  | Ein Frankfurt | E. Frankfurt | SG Eintracht Frankfurt   ##  Frankfurt
+  | Eintr. Frankfurt | Ein Frankfurt | E. Frankfurt
+  | SG Eintracht Frankfurt   ##  Frankfurt
 FSV Frankfurt, 1899,       Frankfurt am Main › Hessen
    | Frankfurt FSV | FSV Frankfurt 1899
 
 SV Darmstadt 98, 1898,       Darmstadt › Hessen
   | Darmstadt
 SV Wehen Wiesbaden,     Wiesbaden › Hessen
-  | Wehen | Wiesbaden
+  | Wehen | Wiesbaden | Wehen Wiesbaden
 Kickers Offenbach,     Offenbach am Main › Hessen
   | Offenbach
 KSV Hessen Kassel
@@ -257,7 +258,7 @@ KSV Hessen Kassel
 == Rheinland-Pfalz ==
 
 1. FC Kaiserslautern, 1900, Kaiserslautern › Rheinland-Pfalz
-  |K'lautern | Kaiserslautern | 1. FC K'lautern
+  |K'lautern | Kaiserslautern | 1. FC K'lautern | FC Kaiserslautern
 1. FSV Mainz 05, 1905,     Mainz          › Rheinland-Pfalz
   | Mainz | FSV Mainz 05
 1. FSV Mainz 05 II,     Mainz          › Rheinland-Pfalz
@@ -317,7 +318,7 @@ FSV Zwickau,        Zwickau  › Sachsen
 Hallescher FC
   | Halle
 1. FC Magdeburg, 1965,   Magdeburg
-  | Magdeburg
+  | Magdeburg | FC Magdeburg
 
 
 == Thüringen ==

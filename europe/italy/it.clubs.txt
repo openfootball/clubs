@@ -6,17 +6,20 @@ AS Roma,  Roma
   | Roma | Associazione Sportiva Roma
 SS Lazio, Roma
   | Lazio | Lazio Roma | Società Sportiva Lazio
+  | Lazio Rom [de]
 
 AC Milan,                 Milano
   | Milan | Associazione Calcio Milan
 FC Internazionale Milano, Milano
   | Inter | Internazionale
   | Inter Milan
+  | Inter Mailand [de]
 
 Torino FC,   Torino
-  | Torino | Torino Football Club
+  | Torino | Torino Football Club | FC Torino
 Juventus,    Torino
   | Juventus Torino | Juventus FC | Juventus Football Club
+  | Juventus Turin [de]
 
 Hellas Verona FC, 1903,     Verona
   | Verona | Hellas Verona| Hellas Verona F.C. | Hellas Verona Football Club
@@ -25,8 +28,10 @@ AC Chievo Verona, Verona
 
 Genoa CFC,      Genova
   | Genoa | Genoa Cricket and Football Club
+  | FC Genua [de]
 UC Sampdoria,   Genova
   | Sampdoria | Sampdoria Genoa | Unione Calcio Sampdoria
+  | Sampdoria Genua [de]
 
 Atalanta BC,            Bergamo
   | Atalanta | Atalanta Bergamo | Atalanta Bergamasca Calcio
@@ -41,10 +46,11 @@ FC Crotone,      Crotone
   | Crotone | Crotone FC | Federazione Calcistica Crotone
 ACF Fiorentina, Firenze
   | Fiorentina | AC Firenze | Associazione Calcio Firenze Fiorentina
+  | AC Fiorentina
 SSC Napoli,     Napoli
   | Napoli | Società Sportiva Calcio Napoli
 US Sassuolo Calcio, 1922,   Sassuolo
-  | Sassuolo | U.S. Sassuolo Calcio | Unione Sportiva Sassuolo Calcio
+  | Sassuolo | US Sassuolo | Unione Sportiva Sassuolo Calcio
 SPAL,           Ferrara
   | Spal | SPAL 2013 Ferrara | S.P.A.L. 2013
 Udinese Calcio, Udine
@@ -54,6 +60,7 @@ Ascoli, Ascoli Piceno
 Avellino, Avellino
 Bari, Bari
 Brescia, Brescia
+  | Brescia Calcio
 Carpi, Carpi
   | Carpi FC 1909 | Carpi Football Club 1909
 Cesena, Cesena
@@ -61,7 +68,7 @@ Cesena, Cesena
 Cittadella, Cittadella
 Cremonese, Cremona
 Empoli, Empoli
-  | Empoli FC | Empoli Football Club
+  | Empoli FC | Empoli Football Club | FC Empoli
 Foggia, Foggia
 Frosinone, Frosinone
   | Frosinone Calcio
@@ -69,7 +76,7 @@ Novara, Novara
 Palermo, Palermo
   | US Palermo | Unione Sportiva Città di Palermo
 Parma, Parma
-  | Parma FC | Parma Football Club
+  | Parma FC | Parma Football Club | FC Parma
   | Parma Calcio 1913
 Perugia, Perugia
 Pescara, Pescara
@@ -156,6 +163,7 @@ ASD Nocerina, Nocera Inferiore
   | Nocerina | ASD Nocerina 1910
 AC Pisa,        Pisa
   | Pisa | AC Pisa 1909
+  | SC Pisa [de]
 US Pistoiese,    Pistoia
   | Pistoiese | US Pistoiese 1921
 Portogruaro Calcio ASD, Portogruaro

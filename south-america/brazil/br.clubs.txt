@@ -9,7 +9,7 @@ Corinthians SP,    São Paulo
   | Corinthians | SC Corinthians Paulista |Corinthians São Paulo
   | Sport Club Corinthians Paulista
 São Paulo FC,      São Paulo
-  | Sao Paulo | São Paulo | FC São Paulo | São Paulo SP
+  | São Paulo | FC São Paulo | São Paulo SP
   | São Paulo Futebol Clube
 Palmeiras SP,  São Paulo
   | Palmeiras | SE Palmeiras | SE Palmeiras São Paulo
@@ -30,9 +30,9 @@ Botafogo SP,    Ribeirão Preto
   | Botafogo FC | Botafogo Futebol Clube
   | Botafogo Futebol Clube (SP)
 Guarani FC, 1911,  Campinas
-  | Guarani | Guarani Futebol Clube
+  | Guarani | Guarani FC SP | Guarani Futebol Clube
 São Bento,  Sorocaba
-  | Esporte Clube São Bento
+  | São Bento SP | Esporte Clube São Bento
 
 
 == Rio de Janeiro ==
@@ -79,30 +79,32 @@ Atlético PR,   Curitiba
 Coritiba PR,   Curitiba
   | Coritiba | Coritiba FC | Coritiba Football Club
 Londrina EC,      Londrina
-  | Londrina | Londrina Esporte Clube
+  | Londrina | Londrina EC PR | Londrina Esporte Clube
 Paraná Clube,     Curitiba
-  | Parana
+  | Paraná | Paraná Clube PR
 Operário Ferroviário,   Ponta Grossa
   | Operário | Operário Ferroviário Esporte Clube
+  | Operário FEC PR
 
 
 
 == Santa Catarina ==
 Figueirense,   Florianópolis
-  | Figueirense FC | Figueirense SC | Figueirense Futebol Clube
+  | Figueirense FC | Figueirense SC | Figueirense FC SC | Figueirense Futebol Clube
 Chapecoense,    Chapecó
   | Chapecoense-SC | Associação Chapecoense de Futebol
 Criciúma EC,   Criciúma
-  | Criciuma | Criciúma | Criciúma Esporte Clube
+  | Criciúma | Criciúma Esporte Clube
 Avaí FC,       Florianópolis
-  | Avai | Avaí Futebol Clube
+  | Avaí | Avaí FC SC | Avaí Futebol Clube
 Joinvile EC,     Joinville
-  | Joinvile | Joinville | Joinville Esporte Clube     ## check spelling use ville or vile ?
+  | Joinvile
+  | Joinville | Joinville Esporte Clube     ## check spelling use ville or vile ?
 
 
 == Pernambuco ==
 Sport Recife,    Recife
-  | Sport | Sport PE | Sport Club do Recife
+  | Sport | Sport PE | Sport Recife PE | Sport Club do Recife
 Santa Cruz,      Recife
   | Santa Cruz FC | Santa Cruz Futebol Clube
 Náutico PE,  Recife
@@ -146,7 +148,7 @@ CSA,       Maceió
 Luverdense EC, Lucas do Rio Verde
   | Luverdense | Luverdense Esporte Clube
 Cuiabá, Cuiabá
-  | Cuiabá Esporte Clube
+  | Cuiabá MT | Cuiabá Esporte Clube
 
 == Maranhão ==
 Sampaio Corrêa FC, São Luís › Maranhão

@@ -18,10 +18,11 @@ FC Metalist Kharkiv,    city:kharkov
   | Metalist | Metalist Kharkiv
 FC Dnipro,    city:dnipropetrovsk
   | Dnipro | FC Dnipro Dnipropetrovsk | Dnipro Dnipropetrovsk
+  | SC Dnipro
 FC Vorskla Poltava
   | Vorskla
 FC Karpaty Lviv
-  | Karpaty
+  | Karpaty | FC Lviv
 SC Tavriya Simferopol
   | Tavriya
 FC Zorya Luhansk

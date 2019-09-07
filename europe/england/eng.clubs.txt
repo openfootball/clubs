@@ -27,11 +27,11 @@ AFC Wimbledon,      @ Kingsmeadow,   London   ##  London (Norbiton ??)  or Londo
  ## add Wimbledon too here?
 
 Queens Park Rangers FC, 1882,  @ Loftus Road, London   ## Greater London
-  | QPR | Queens Park Rangers
+  | QPR | Queens Park R. | Queens Park Rangers
 Millwall FC,      @ The Den,     London (South Bermondsey)        # London (South Bermondsey) or  London-South Bermondsey
-  | Millwall
+  | Millwall | FC Millwall
 Brentford FC,        @ Griffin Park,  London (Brentford)        #  London (Brentford)  or London-Brentford, Greater London
-  | Brentford
+  | Brentford | FC Brentford
 Leyton Orient FC,     @ Brisbane Road,  London  ##   London (Leyton) or London-Leyton
   | Leyton Orient
 Barnet FC,           @ The Hive Stadium, London ##   London (Canons Park ??)  or London-Edgware ??
@@ -60,9 +60,9 @@ Liverpool FC, 1892, @ Anfield, Liverpool › Lancashire
 Blackburn Rovers FC,  @ Ewood Park,  Blackburn › Lancashire
   | Blackburn | Blackburn Rovers
 Burnley FC, 1882,    @ Turf Moor,   Burnley › Lancashire
-  | Burnley
+  | Burnley | FC Burnley
 Blackpool FC,    @ Bloomfield Road,    Blackpool › Lancashire
-  | Blackpool
+  | Blackpool | FC Blackpool
 Preston North End FC,   @ Deepdale,  Preston › Lancashire   ## North West
   | Preston | Preston North End
 AFC Fylde,            Wesham › Lancashire       ## in the Borough of Fylde
@@ -94,6 +94,7 @@ Bury FC,             @ Gigg Lane, Bury › Greater Manchester
   | Bury
 Rochdale AFC,       @ Spotland Stadium,   Rochdale › Greater Manchester
   | Rochdale
+  | FC Rochdale    ## todo/check if FC Fochdale is alias for Rochdale AFC
 Altrincham FC,   Altrincham › Greater Manchester
   | Altrincham
 Droylsden FC,         Droylsden › Greater Manchester
@@ -129,7 +130,7 @@ Southampton FC, 1885,   @ St Mary's Stadium, Southampton › Hampshire
 Aldershot Town FC,     Aldershot › Hampshire
   | Aldershot
 Portsmouth FC,      @ Fratton Park,    Portsmouth › Hampshire
-  | Portsmouth
+  | Portsmouth | FC Portsmouth
 Eastleigh FC,         Eastleigh › Hampshire
   | Eastleigh
 
@@ -151,7 +152,7 @@ West Bromwich Albion FC, 1878, @ The Hawthorns, West Bromwich › West Midlands
 Coventry City FC,     @ Ricoh Arena,   Coventry › West Midlands
   | Coventry | Coventry City
 Wolverhampton Wanderers FC,    @ Molineux,  Wolverhampton › West Midlands
-  | Wolves | Wolverhampton Wanderers
+  | Wolves | Wolverhampton | Wolverhampton Wanderers
 Walsall FC,       @ Bescot Stadium,     Walsall › West Midlands
   | Walsall
 Solihull Moors FC,   Solihull › West Midlands
@@ -163,7 +164,7 @@ Stafford Rangers FC,   Stafford › West Midlands
 York City FC,       @ Bootham Crescent,   York › North Yorkshire
   | York | York City
 Middlesbrough FC, 1876,  @ Riverside Stadium,   Middlesbrough › North Yorkshire
-  | Middlesbrough | Middlesboro
+  | Middlesbrough | Middlesboro | FC Middlesbrough
 Middlesbrough Ironopolis FC (1889-1894), Middlesbrough › North Yorkshire
   | Middlesbrough Ironopolis
 Scarborough Athletic FC,  Scarborough › North Yorkshire
@@ -197,12 +198,12 @@ North Ferriby United AFC,  North Ferriby › East Yorkshire
   | North Ferriby
 
 Sheffield Wednesday FC,   @ Hillsborough,  Sheffield › South Yorkshire
-  | Sheffield Weds | Sheffield Wednesday
+  | Sheffield Weds | Sheffield Wednes. | Sheffield Wednesday
 Sheffield United FC,  @ Bramall Lane,  Sheffield › South Yorkshire
   | Sheffield United
 
 Barnsley FC,   @ Oakwell,  Barnsley › South Yorkshire
-  | Barnsley
+  | Barnsley | FC Barnsley
 Rotherham United FC,    @ New York Stadium,  Rotherham › South Yorkshire
   | Rotherham | Rotherham United
 Rotherham County FC (1870-1925), Rotherham › South Yorkshire
@@ -231,16 +232,16 @@ Tamworth FC,           Tamworth › Staffordshire
 Derby County FC,    @ iPro Stadium,    Derby › Derbyshire
   | Derby | Derby County
 Norwich City FC, 1890,     @ Carrow Road,    Norwich › Norfolk
-  | Norwich | Norwich City | Norwich City F.C.
+  | Norwich | Norwich City
 
 Watford FC, 1881,   @ Vicarage Road,  Watford › Hertfordshire
-  | Watford | Watford F.C.
+  | Watford | FC Watford
 
 Oxford United FC,      @ Kassam Stadium,   Oxford › Oxfordshire
   | Oxford | Oxford United
 
 Peterborough United FC, @ Abax Stadium,   Peterborough › Cambridgeshire
-  | Peterboro | Peterborough United
+  | Peterboro  | Peterborough Utd. | Peterborough United
 Cambridge United FC,    @ Abbey Stadium,   Cambridge › Cambridgeshire
   | Cambridge | Cambridge United
 ## note: there's also <=> Cambridge City  (!!)
@@ -269,7 +270,7 @@ Maidenhead United FC,   Maidenhead › Berkshire
   | Maidenhead
 
 Brighton & Hove Albion FC,  @ American Express Stadium,  Falmer › East Sussex     # Brighton?
-  | Brighton | Brighton & Hove Albion
+  | Brighton |  Brighton & Hove | Brighton & Hove Albion
 Crawley Town FC,         @ Broadfield Stadium,   Crawley › West Sussex
   | Crawley Town
 Eastbourne Borough FC,   Eastbourne › East Sussex
@@ -328,7 +329,7 @@ Torquay United FC,      Torquay › Devon
   | Torquay | Torquay United
 
 Gillingham FC,    @ Priestfield Stadium,      Gillingham › Kent
-  | Gillingham
+  | Gillingham | FC Gillingham
 Maidstone United FC,    Maidstone › Kent
   | Maidstone | Maidstone United
 Dartford FC,     Dartford › Kent
@@ -343,7 +344,7 @@ Luton Town FC,      @ Kenilworth Road,    Luton › Bedfordshire
   | Luton | Luton Town
 
 Milton Keynes Dons FC,    @ Stadium:mk,  Milton Keynes › Buckinghamshire
-  | Milton Keynes Dons
+  | Milton Keynes Dons | MK Dons
 Wycombe Wanderers FC,   @ Adams Park,  High Wycombe › Buckinghamshire
   | Wycombe | Wycombe Wanderers
 
@@ -399,9 +400,9 @@ AFC Telford United, 2004,  Telford › Shropshire
 Chester FC,    Chester › Cheshire
   | Chester
 Crewe Alexandra FC,  @ Gresty Road,  Crewe › Cheshire
-  | Crewe | Crewe Alexandra
+  | Crewe | Crewe Alexandra | FC Crewe Alexandra
 Macclesfield Town FC, Macclesfield › Cheshire
-  | Macclesfield
+  | Macclesfield | Macclesfield Town
 Northwich Victoria FC,  Northwich › Cheshire
   | Northwich | Northwich Victoria
 
@@ -412,7 +413,7 @@ Accrington Stanley FC,  @ Crown Ground, Accrington › Lancashire
 Accrington FC (1878-1896),  Accrington › Lancashire
   | Accrington F.C.
 Morecambe FC,        @ Globe Arena,    Morecambe › Lancashire
-  | Morecambe
+  | Morecambe | FC Morecambe
 
 Chorley FC,   Chorley › Lancashire
   | Chorley

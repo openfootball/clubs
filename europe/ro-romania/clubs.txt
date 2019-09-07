@@ -7,6 +7,7 @@ Steaua București,        București
 Dinamo București,        București
   | Din. Bucuresti | Dinamo Bucuresti | FC Dinamo București
   | FC Dinamo Bucureşti | Dinamo Bucureşti
+  | Dinamo Bukarest [de]
 Rapid București,         București
   | FC Rapid Bucuresti | FC Rapid București | Rapid Bucureşti
 Daco-Getica București,   București
@@ -60,7 +61,7 @@ FC Botoșani, Botoșani
   | Botoşani | FC Botoşani | Fotbal Club Botoșani
 
 FC Hermannstadt,   Hermannstadt
-  | Hermannstadt
+  | Hermannstadt | AFC Hermannstadt
 
 Săgeata Năvodari, Năvodari
   | Năvodari | AFC Săgeata Năvodari

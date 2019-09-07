@@ -8,4 +8,4 @@ Toronto FC,  2006,         Toronto   › Ontario      ## founding year is 2007? 
   | Toronto | TFC
 
 Vancouver Whitecaps FC, 1974,  Vancouver › British Columbia   ## founding year is 2011? check again
-  | Vancouver | Vancouver Whitecaps
+  | Vancouver | Vancouver W'caps | Vancouver Whitecaps

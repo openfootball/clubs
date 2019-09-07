@@ -8,7 +8,7 @@ Derry City F.C.,       Derry     ## note: plays in (Republic of) Ireland league
 Linfield FC, Belfast
   | Linfield
 Glentoran FC, Belfast
-  | Glentoran
+  | Glentoran | Glentoran Belfast
 Cliftonville FC
   | Cliftonville
 Crusaders FC
@@ -19,3 +19,6 @@ Lisburn Distillery FC
 Glenavon FC
 Coleraine FC
 Ballymena United FC
+
+Institute FC, Derry
+  | Institute | FC Institute

@@ -14,12 +14,13 @@ KKS Lech Poznań,   Poznań
   | Lech | Lech Poznań
 Wisła Kraków,     Kraków
   | Wisła
+  | Wisła Krakau [de]
 KS Cracovia,     Kraków
   | Cracovia | MKS Cracovia Kraków
 WKS Śląsk Wrocław,    Wrocław
   | Śląsk | Śląsk Wrocław
 Jagiellonia Białystok,  Białystok
-  | Jagiellonia
+  | Jagiellonia | Jagiellonia Biał.
 
 Arka Gdynia,  Gdynia
   | Arka

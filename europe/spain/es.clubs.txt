@@ -38,7 +38,7 @@ Málaga CF B, Málaga
   | Málaga B
 
 Sevilla FC,   Sevilla
-  | Sevilla  | Sevilla Fútbol Club
+  | Sevilla  | Sevilla Fútbol Club | FC Sevilla
 Sevilla FC B, Sevilla
   | Sevilla B
 
@@ -73,7 +73,7 @@ FC Barcelona B, Barcelona
   | Barcelona B | Fútbol Club Barcelona B
 
 RCD Espanyol, Barcelona
-  | Espanyol | Espanyol Barcelona
+  | Espanyol | Espanyol Barcelona | Espan. Barcelona
   | Real CD Espanyol | Real Club Deportivo Espanyol
   | Español | Real Club Deportivo Español
 
@@ -93,7 +93,7 @@ RCD La Coruña,  La Coruña
   | Deportivo | Deportivo La Coruña | Deportivo de La Coruña | Deportivo da Coruña
 RC Celta Vigo,  Vigo          ## use R. C. Celta de Vigo - why? why not?
   | Celta | Celta Vigo | R.C. Celta | Real Club Celta Vigo | Real Club Celta de Vigo
-  | RC Celta de Vigo
+  | Celta de Vigo | RC Celta de Vigo
 SD Compostela,  Santiago de Compostela
   | Compostela
 Racing Ferrol,  Ferrol
@@ -192,6 +192,7 @@ FC Cartagena,  Cartagena
 
 Real Zaragoza,  Zaragoza
   | Zaragoza
+  | Real Saragossa [de]
 SD Huesca, Huesca
   | Huesca
 

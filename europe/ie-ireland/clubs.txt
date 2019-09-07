@@ -2,48 +2,48 @@
 =  Ireland (ie)
 
 Shamrock Rovers FC,                Dublin (Tallaght)         #  Tallaght, South Dublin
-  | Shamrock Rovers
-Bohemian F.C.,                     Dublin (Phibsborough)
-  | Bohemians | Bohemian FC
-St Patrick's Athletic F.C.,        Dublin (Inchicore)
-  | St Patrick's | St Patrick's Athletic | Saint Patrick's Athletic FC
+  | Shamrock Rovers | FC Shamrock Rovers
+Bohemian FC,                     Dublin (Phibsborough)
+  | Bohemians
+St Patrick's Athletic FC,        Dublin (Inchicore)
+  | St Patrick's | St Patrick's Athletic
   | St. Patricks
-University College Dublin A.F.C.,  Dublin (Belfield)
-  | UCD | UC Dublin | University College Dublin AFC
-Shelbourne F.C.,                   Dublin (Drumcondra)
+University College Dublin AFC,  Dublin (Belfield)
+  | UCD | UC Dublin
+Shelbourne FC,                   Dublin (Drumcondra)
   | Shelbourne
 
 
 
-Athlone Town A.F.C.,    Athlone
+Athlone Town AFC,    Athlone
   | Athlone | Athlone Town
-Bray Wanderers F.C.,   Bray
+Bray Wanderers FC,   Bray
   | Bray | Bray Wanderers
-Cobh Ramblers F.C.,  Cobh
+Cobh Ramblers FC,  Cobh
   | Cobh Ramblers
-Cork City F.C.,        Cork
-  | Cork | Cork City | Cork City FC
+Cork City FC,        Cork
+  | Cork | Cork City
 
 
-Drogheda United F.C.,  Drogheda
-  | Drogheda | Drogheda United | Drogheda United FC
-Dundalk F.C.,         Dundalk
-  | Dundalk | Dundalk FC
-Finn Harps F.C.,     Ballybofey
+Drogheda United FC,  Drogheda
+  | Drogheda | Drogheda United
+Dundalk FC,         Dundalk
+  | Dundalk | FC Dundalk
+Finn Harps FC,     Ballybofey
   | Finn Harps
-Galway United F.C., Galway
+Galway United FC, Galway
   | Galway | Galway United
-Limerick F.C., Limerick
+Limerick FC, Limerick
   | Limerick
-Longford Town F.C.,  Longford
+Longford Town FC,  Longford
   | Longford | Longford Town
 Mervue
 Monaghan
-Sligo Rovers F.C.,       Sligo
-  | Sligo | Sligo Rovers | Sligo Rovers FC
-Waterford F.C.,          Waterford
+Sligo Rovers FC,       Sligo
+  | Sligo | Sligo Rovers | FC Sligo Rovers
+Waterford FC,          Waterford
   | Waterford
-Wexford F.C.,           Crossabeg
+Wexford FC,           Crossabeg
   | Wexford
 
 Sporting Fingal FC

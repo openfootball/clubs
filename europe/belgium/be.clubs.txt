@@ -20,7 +20,7 @@ Germinal Beerschot,  Antwerpen › Antwerpen › Vlaanderen
   | Germinal
 
 KV Mechelen, 1904,    Mechelen › Antwerpen › Vlaanderen
-  | Mechelen | Yellow Red Koninklijke Voetbalclub Mechelen
+  | Mechelen | YR KV Mechelen | Yellow Red Koninklijke Voetbalclub Mechelen
 
 KVC Westerlo, 1933,    Westerlo › Antwerpen › Vlaanderen
   | Westerlo | K.V.C. Westerlo | Koninklijke Voetbal Club Westerlo
@@ -62,6 +62,7 @@ KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
 
 Club Brugge, 1891,    Brugge › West-Vlaanderen › Vlaanderen
   | Club Brugge KV | Club Brugge Koninklijke Voetbalvereniging
+  | Club Brügge [de]
 Cercle Brugge, 1899,  Brugge › West-Vlaanderen › Vlaanderen
   | Cercle Brugge KSV | Cercle Brugge K.S.V. | Cercle Brugge Koninklijke Sportvereniging
 
@@ -83,8 +84,8 @@ Sporting Charleroi, 1904,    Charleroi › Hainaut › Wallonie  ##  [fr]
   | Sporting de Charleroi
 
 Royal Excel Mouscron, 2010,    Mouscron  › Hainaut › Wallonie     ## Moeskroen [nl]
-  | Mouscron | Mouscron-Peruwelz
-  | Mouscron-Péruwelz | R. Mouscron-Péruwelz | Royal Mouscron-Péruwelz
+  | Mouscron | Mouscron-Péruwelz | RE Mouscron
+  | R. Mouscron-Péruwelz | Royal Mouscron-Péruwelz
 
 RAEC Mons,             Mons      › Hainaut › Wallonie     ##  Bergen [nl]
   | Bergen
@@ -97,6 +98,7 @@ KAS Eupen,             Eupen     › Liège   › Wallonie    ## [de]
 Standard Liège, 1898,   Liège     › Liège   › Wallonie    ## [fr]
   | Standard | Standard Liege | R. Standard de Liège | Royal Standard de Liège
   | Standard de Liège
+  | Standard Lüttich [de]
 
 
 == ??? ==
