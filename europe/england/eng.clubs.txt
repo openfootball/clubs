@@ -46,7 +46,7 @@ Hayes & Yeading United FC,  London  ## London-Hayes
 Welling United FC,          London
   | Welling United
 Sutton United FC,          London
-  | Sutton
+  | Sutton | Sutton United
 
 Thames AFC (1928-1932),  London  ## London-Custom House
   | Thames
@@ -128,7 +128,7 @@ Gateshead FC,  Gateshead › Tyne and Wear
 Southampton FC, 1885,   @ St Mary's Stadium, Southampton › Hampshire
   | Southampton | FC Southampton
 Aldershot Town FC,     Aldershot › Hampshire
-  | Aldershot
+  | Aldershot | Aldershot Town
 Portsmouth FC,      @ Fratton Park,    Portsmouth › Hampshire
   | Portsmouth | FC Portsmouth
 Eastleigh FC,         Eastleigh › Hampshire
@@ -156,7 +156,7 @@ Wolverhampton Wanderers FC,    @ Molineux,  Wolverhampton › West Midlands
 Walsall FC,       @ Bescot Stadium,     Walsall › West Midlands
   | Walsall
 Solihull Moors FC,   Solihull › West Midlands
-  | Solihull
+  | Solihull | Solihull Moors
 Stafford Rangers FC,   Stafford › West Midlands
   | Stafford Rangers
 
@@ -267,7 +267,7 @@ Weymouth FC,       Weymouth › Dorset
 Reading FC, 1871,       @ Madejski Stadium,      Reading › Berkshire
   | Reading | FC Reading
 Maidenhead United FC,   Maidenhead › Berkshire
-  | Maidenhead
+  | Maidenhead | Maidenhead United
 
 Brighton & Hove Albion FC,  @ American Express Stadium,  Falmer › East Sussex     # Brighton?
   | Brighton |  Brighton & Hove | Brighton & Hove Albion
@@ -336,8 +336,8 @@ Dartford FC,     Dartford › Kent
   | Dartford
 Dover Athletic FC,  Dover › Kent
   | Dover Athletic
-Ebbsfleet United FC,  Northfleet › Kent   ## note: before 2007, the club was called Gravesend & Northfleet
-  | Ebbsfleet | Gravesend
+Ebbsfleet United FC,  Northfleet › Kent      ## note: before 2007, the club was called Gravesend & Northfleet
+  | Ebbsfleet | Ebbsfleet United | Gravesend
 
 
 Luton Town FC,      @ Kenilworth Road,    Luton › Bedfordshire
@@ -349,14 +349,14 @@ Wycombe Wanderers FC,   @ Adams Park,  High Wycombe › Buckinghamshire
   | Wycombe | Wycombe Wanderers
 
 Yeovil Town FC,        @ Huish Park,     Yeovil › Somerset
-  | Yeovil
+  | Yeovil | Yeovil Town
 Bath City FC,                Bath › Somerset
   | Bath City
 
 Forest Green Rovers FC,     Nailsworth › Gloucestershire
-  | Forest Green
+  | Forest Green | Forest Green Rovers
 Cheltenham Town FC,         Cheltenham › Gloucestershire
-  | Cheltenham
+  | Cheltenham | Cheltenham Town
 ## note: there's also <=> Cheltenham Saracens  (!!)
 
 Kidderminster Harriers FC,  Kidderminster › Worcestershire
