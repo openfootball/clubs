@@ -25,7 +25,7 @@ Estoril Praia, Estoril
 CD Feirense, Santa Maria da Feira
   | Feirense
 Vitória de Guimarães, Guimarães
-  | Guimarães | Vitória SC | Vit. Guimarães
+  | Guimarães | Vitória SC | Vit. Guimarães | Vitória Guimarães 
 Vitória de Setúbal, Setúbal          ## note:  Vitória SC <=> Vitória FC !!!
   | Setúbal | Vitória FC
 CS Marítimo, Funchal
