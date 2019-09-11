@@ -4,7 +4,7 @@
 
 Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
   | Lokomotiv | FC Lokomotiv | FC Lokomotiv Moskva
-  | Lokomotiv Moscow [en] | FC Lokomotiv Moscow [en]
+  | Loko Moscow [en] | Lokomotiv Moscow [en] | FC Lokomotiv Moscow [en]
 PFC CSKA Moskva, 1911,   Moskva
   | CSKA | PFK CSCA | CSKA Moskva
   | CSKA Moscow [en] | PFC CSKA Moscow [en] | PFK CSKA Moscow [en]
