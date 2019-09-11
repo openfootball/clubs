@@ -75,8 +75,7 @@ Nelson FC,           Nelson, Lancashire
   | Nelson
 
 Manchester United FC, 1878, @ Old Trafford, Manchester     ## North West England
-  | Man United | Manchester United | Man Utd | Manchester U. | Manchester U
-  | Man. United
+  | Man Utd | Man. United | Manchester U. |  Manchester Utd | Manchester United
 Manchester City FC, 1880, @ Etihad Stadium,  Manchester     ## North West England
   | Man City | Manchester City | Man. City | Manchester C
 
@@ -116,7 +115,7 @@ Birmingham City FC,  @ St Andrew's,  Birmingham › Warwickshire   ## West Midla
 
 
 Newcastle United FC, 1892, @ St James' Park, Newcastle upon Tyne › Northumberland   ## North East
-  | Newcastle | Newcastle United
+  | Newcastle | Newcastle Utd | Newcastle United
 Ashington AFC, Ashington › Northumberland
   | Ashington
 
@@ -200,7 +199,7 @@ North Ferriby United AFC,  North Ferriby › East Yorkshire
 Sheffield Wednesday FC,   @ Hillsborough,  Sheffield › South Yorkshire
   | Sheffield Weds | Sheffield Wednes. | Sheffield Wednesday
 Sheffield United FC,  @ Bramall Lane,  Sheffield › South Yorkshire
-  | Sheffield United
+  | Sheffield United | Sheffield Utd
 
 Barnsley FC,   @ Oakwell,  Barnsley › South Yorkshire
   | Barnsley | FC Barnsley
