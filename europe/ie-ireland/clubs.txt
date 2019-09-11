@@ -43,6 +43,8 @@ Sligo Rovers FC,       Sligo
   | Sligo | Sligo Rovers | FC Sligo Rovers
 Waterford FC,          Waterford
   | Waterford
+  | Waterford United (1982-2016)
+
 Wexford FC,           Crossabeg
   | Wexford
 
