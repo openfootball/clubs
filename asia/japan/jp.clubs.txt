@@ -20,18 +20,18 @@ Nagoya Grampus,        Nagoya › Aichi
 Júbilo Iwata,          Iwata › Shizuoka
   | Iwata
 Urawa Red Diamonds,    Urawa › Saitama
-  | Urawa
+  | Urawa | Urawa RD
 Kashiwa Reysol,        Kashiwa › Chiba
   | Kashiwa
 Shimizu S-Pulse,        Shizuoka › Shizuoka
   | Shimizu
 Sagan Tosu,             Tosu › Saga
 Sanfrecce Hiroshima,    Hiroshima › Hiroshima
-  | Hiroshima
+  | Sanfr. Hiroshima | Hiroshima
 
 Vegalta Sendai,       Sendai, Miyagi
 Hokkaido Consadole Sapporo,  Sapporo › Hokkaido
-  | Sapporo | Consadole Sapporo
+  | Hokkaido Consadole | Sapporo | Consadole Sapporo
 Avispa Fukuoka,       Hakata › Fukuoka
 Matsumoto Yamaga,     Matsumoto › Nagano
   | Yamaga
