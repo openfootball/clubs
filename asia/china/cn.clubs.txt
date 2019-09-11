@@ -5,41 +5,41 @@
 Beijing Sinobo Guoan,     Beijing
   | Beijing Guoan
 Beijing Renhe,            Beijing
-  | Beijing Renhe F.C.
+  | Beijing Renhe FC
 
 Shanghai SIPG,               Shanghai
-  | Shanghai SIPG F.C.
+  | Shanghai SIPG FC | SIPG Shanghai 
 Shanghai Greenland Shenhua,  Shanghai
   | Shanghai Shenhua
 Shanghai Shenxin,            Shanghai
-  | Shanghai Shenxin F.C.
+  | Shanghai Shenxin FC
 
 
 Guangzhou Evergrande Taobao,   Guangzhou
-  | Guangzhou Evergrande
-  | Guangzhou Evergrande Taobao F.C.
+  | Guangzhou Ev. | Guangzhou Evergrande
+  | Guangzhou Evergrande Taobao FC
 Guangzhou R&F,                 Guangzhou
 
 Chongqing Dangdai Lifan,   Chongqing
   | Chongqing Lifan
-  | Chongqing Dangdai Lifan F.C.
+  | Chongqing Dangdai Lifan FC
 Changchun Yatai,           Changchun
 Dalian Yifang,             Dalian
-  | Dalian Yifang F.C.
+  | Dalian Yifang FC
 Guizhou Hengfeng,          Guiyang
   | Guizhou Zhicheng
-  | Guizhou Hengfeng Zhicheng F.C.
+  | Guizhou Hengfeng Zhicheng FC
 Hangzhou Greentown,        Hangzhou
 
 Shandong Luneng Taishan,   Jinan
   | Shandong Luneng
 Hebei China Fortune,       Langfang
   | Hebei
-  | Hebei China Fortune F.C.
+  | Hebei China Fortune FC
 Jiangsu Suning,            Nanjing
-  | Jiangsu Suning F.C.
+  | Jiangsu Suning FC
 
-Shenzhen F.C.,               Shenzhen
+Shenzhen FC,               Shenzhen
   | Shenzhen
 
 Shijiazhuang Ever Bright,   Shijiazhuang
@@ -47,7 +47,7 @@ Shijiazhuang Ever Bright,   Shijiazhuang
 
 Tianjin Tianhai,            Tianjin
 Tianjin TEDA,               Tianjin
-  | Tianjin Teda | Tianjin Teda F.C.
+  | Tianjin Teda FC
 Tianjin Quanjian,           Tianjin
 
 
@@ -56,10 +56,10 @@ Tianjin Quanjian,           Tianjin
 Wuhan Zall,                 Wuhan
 Henan Jianye,               Zhengzhou
 
-Liaoning F.C.,              Shenyang
+Liaoning FC,              Shenyang
   | Liaoning
 
 Yanbian Funde,              Yanji
   | Yanbian
-Zhejiang Yiteng F.C.,       Harbin    ## todo check city (from 2014) moved (and renamed)?
+Zhejiang Yiteng FC,       Harbin    ## todo check city (from 2014) moved (and renamed)?
   | Zhejiang Yiteng | Harbin Yiteng
