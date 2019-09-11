@@ -20,7 +20,7 @@ Rayo Vallecano, Madrid › Comunidad de Madrid
   | Rayo | Vallecano | Rayo Vallecano de Madrid
 
 AD Alcorcón, Alcorcón  ## use Madrid (Alcorcón) - why? why not?
-  | Alcorcón| Agrupación Deportiva Alcorcón
+  | Alcorcón| Agrupación Deportiva Alcorcón | Alcorcón AD
 
 
 CF Fuenlabrada, Fuenlabrada      ##   autonomous community of Madrid
@@ -80,7 +80,7 @@ RCD Espanyol, Barcelona
 Gimnàstic Tarragona, Tarragona
   | Gimnàstic
 Girona FC,           Gerona
-  | Girona | Girona Futbol Club
+  | Girona | Girona Futbol Club | FC Girona
 
 CF Reus,  1909,      Reus
   | Reus Deportiu | CF Reus Deportiu | Club de Futbol Reus Deportiu
@@ -91,6 +91,7 @@ CF Reus,  1909,      Reus
 RCD La Coruña,  La Coruña
   | La Coruña | RC Deportivo de La Coruña | Real Club Deportivo La Coruña
   | Deportivo | Deportivo La Coruña | Deportivo de La Coruña | Deportivo da Coruña
+  | Dep. La Coruña
 RC Celta Vigo,  Vigo          ## use R. C. Celta de Vigo - why? why not?
   | Celta | Celta Vigo | R.C. Celta | Real Club Celta Vigo | Real Club Celta de Vigo
   | Celta de Vigo | RC Celta de Vigo
@@ -163,6 +164,7 @@ CF Extremadura (-2010),  Almendralejo
   | Extremadura
 Extremadura UD,   Almendralejo
   | Extremadura Unión Deportiva   ## add Extremadura  - why? why not?
+  | UD Extremadura
 
 CP Mérida,       Mérida
   | Mérida
@@ -200,7 +202,7 @@ SD Huesca, Huesca
 == Islas Canarias ==
 
 UD Las Palmas,          Las Palmas
-  | Las Palmas | Unión Deportiva Las Palmas
+  | Las Palmas | Unión Deportiva Las Palmas | Las Palmas UD
 Universidad Las Palmas, Las Palmas
   | U.Las Palmas
 
@@ -215,6 +217,7 @@ RCD Mallorca B, Palma de Mallorca
 == Canarias ==
 CD Tenerife,   Santa Cruz de Tenerife
   | Tenerife | Club Deportivo Tenerife
+  | Teneriffa CD [de]
 
 
 
@@ -242,6 +245,7 @@ CD Lugo
 
 CD Numancia
   | Numancia | Club Deportivo Numancia de Soria
+  | Numancia CD
 CD Ourense
   | Ourense | Orense
 Real Oviedo
@@ -249,7 +253,8 @@ Real Oviedo
 Polideportivo Ejido
   | Poli Ejido
 SD Ponferradina
-  | Ponferradina | Sociedad Deportiva Ponferradina
+  | Ponferradina | Sociedad Deportiva Ponferradina 
+  | Ponferradina SD
 Pontevedra CF
   | Pontevedra
 
@@ -262,7 +267,7 @@ CE Sabadell
 UD Salamanca
   | Salamanca
 Real Racing Santander
-  | Santander
+  | Santander | Racing Santander
 
 Terrassa FC
   | Terrassa
