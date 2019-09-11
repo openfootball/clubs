@@ -16,7 +16,7 @@ Columbus Crew SC, 1996,  Columbus      › Ohio   ## year 1994?
 D.C. United, 1996,  Washington    › D.C.    ## year 1995?
   | DC United | Washington D.C. United
 New England Revolution, 1996,  Foxborough    › Massachusetts   ## year 1995? use Boston?
-  | New England | N.E. Revolution
+  | New England | N.E. Revolution | New England Rev.
 
 New York City FC, 2015,  New York City › New York   ## year 2013?
   | New York City
