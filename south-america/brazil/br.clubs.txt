@@ -12,7 +12,7 @@ São Paulo FC,      São Paulo
   | São Paulo | FC São Paulo | São Paulo SP
   | São Paulo Futebol Clube
 Palmeiras SP,  São Paulo
-  | Palmeiras | SE Palmeiras | SE Palmeiras S
+  | Palmeiras | SE Palmeiras | SE Palmeiras S | SE Palmeiras SP
   | SE Palmeiras São Paulo
   | Sociedade Esportiva Palmeiras
 Santos SP,      Santos
@@ -49,8 +49,10 @@ Flamengo RJ,     Rio de Janeiro
 Fluminense RJ,    Rio de Janeiro
   | Fluminense | Fluminense FC | Fluminense Rio de Janeiro | Fluminense Football Club
 CR Vasco da Gama,   Rio de Janeiro
-  | Vasco | Vasco RJ | Vasco da Gama | Vasco da Gama Rio de Janeiro
+  | Vasco | Vasco RJ | Vasco da Gama | Vasco da Gama RJ
+  | Vasco da Gama Rio de Janeiro
   | Club de Regatas Vasco da Gama
+  
 
 
 == Minas Gerais ==
@@ -58,7 +60,8 @@ Atlético MG,    Belo Horizonte
   | Atlético Mineiro | C Atlético Mineiro | Clube Atlético Mineiro
   | Atletico-MG | Atlético/MG
 Cruzeiro MG,    Belo Horizonte
-  | Cruzeiro | Cruzeiro EC | Cruzeiro Esporte Clube | Cruzeiro Belo Horizonte
+  | Cruzeiro | Cruzeiro EC | Cruzeiro EC MG
+  | Cruzeiro Esporte Clube | Cruzeiro Belo Horizonte
 América MG,     Belo Horizonte
   | América Mineiro | América Mineiro MG
   | América FC | América Futebol Clube
@@ -122,12 +125,12 @@ Náutico PE,  Recife
 EC Vitória,      Salvador
   | Vitória | Vitória BA | Esporte Clube Vitória
 EC Bahia,            Salvador
-  | Bahia | Bahia BA | Esporte Clube Bahia
+  | Bahia | Bahia BA | EC Bahia BA | Esporte Clube Bahia 
 
 
 == Goiás ==
 Goiás EC,       Goiânia
-  | Goias | Goiás | Goiás Esporte Clube
+  | Goiás | Goiás EC GO | Goiás Esporte Clube
 Atlético GO,   Goiânia
   | Atletico GO | Atlético Goianiense | Atlético Clube Goianiense
 Vila Nova GO,  Goiânia
@@ -138,9 +141,9 @@ Vila Nova GO,  Goiânia
 
 == Ceará ==
 Ceára SC,      Fortaleza
-  | Ceara | Ceará | Ceará Sporting Club
+  | Ceará | Ceará CE | Ceará Sporting Club
 Fortaleza,     Fortaleza
-  | Fortaleza Esporte Clube
+  | Fortaleza EC CE | Fortaleza Esporte Clube 
 
 == Pará ==
 Paysandu SC,   Belém
