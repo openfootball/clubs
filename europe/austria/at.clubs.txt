@@ -191,13 +191,15 @@ FC Zirl
 == Vorarlberg ==
 
 SCR Altach,          Altach
-  | Altach | SC Rheindorf Altach#
+  | Altach | SC Rheindorf Altach
 SCR Altach Juniors,  Altach
+  | Altach Amateure
 
 Austria Lustenau,   Lustenau
   | SC Austria Lustenau
 Austria Lustenau Amateure,   Lustenau
   | SC Austria Lustenau Amateure
+  | Austria Lustenau A
 
 FC Dornbirn 1913,  Dornbirn
   | FC Dornbirn
@@ -205,9 +207,12 @@ Dornbirner SV,     Dornbirn
 
 
 VfB Hohenems
-Meusburger FC Wolfurt
+FC Wolfurt
+  | Meusburger FC Wolfurt    ## $$$ Meusburger is a sponsor 
 SW Bregenz
-SPG FC Langenegg
+FC Langenegg
+  | SPG FC Langenegg
 FC Lauterach
 RW Rankweil
-SC Röfix Röthis
+SC Röthis
+  | SC Röfix Röthis           ## $$$ Röfix is a sponsor
