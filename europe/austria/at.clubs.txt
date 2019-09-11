@@ -149,7 +149,7 @@ Austria Klagenfurt, Klagenfurt
 == Salzburg ==
 
 FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
-  | Salzburg | FC Salzburg | Red Bull Salzburg | FC Red Bull Salzburg
+  | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg | FC Red Bull Salzburg
 FC Liefering,        Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
 
 
