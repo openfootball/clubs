@@ -27,6 +27,7 @@ SC Tavriya Simferopol
   | Tavriya
 FC Zorya Luhansk
   | Zorya Luhansk
+  | Zorya Lugansk [de]
 
 FC Mariupol
   | Mariupol
