@@ -117,3 +117,7 @@ Volgar-Astrakhan,  Astrakhan
 Vladikavkaz,   Vladikavkaz
 Yenisey, Krasnoyarsk
   | FC Yenisey Krasnoyarsk
+  
+FC Avangard Kursk,  Kursk 
+FC Tekstilshchik Ivanovo, Ivanovo
+  | Tekstilshchik
