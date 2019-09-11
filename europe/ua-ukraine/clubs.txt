@@ -3,12 +3,17 @@
 
 
 FC Dynamo Kyiv,  Kyiv
-  | Dinamo Kiev | Dynamo Kiew |FC Dynamo Kiew |Dynamo Kiev | Dynamo Kyiv
+  | Dynamo Kyiv    
+  | Dynamo Kiev | Dinamo Kiev       ## add [en] ??
+  | Dynamo Kiew | FC Dynamo Kiew    ## add [de] ??
 FC Arsenal Kyiv,  Kyiv
   | Arsenal Kyiv
 
 FC Shakhtar Donetsk,  Donetsk
-  | Shakhtar Donetsk | Schachtjor Donezk | Shakhtar Don. | Schachtar Donezk
+  | Shakhtar | Shakhtar Donetsk | Shakhtar Don.
+  | Schachtjor Donezk 
+  | Schachtar Donezk
+  
 FC Metalurh Donetsk,  Donetsk
   | Metalurh Donetsk
 FC Olimpik Donetsk
