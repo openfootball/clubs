@@ -154,7 +154,7 @@ Coventry City FC,     @ Ricoh Arena,   Coventry › West Midlands
 Wolverhampton Wanderers FC,    @ Molineux,  Wolverhampton › West Midlands
   | Wolves | Wolverhampton | Wolverhampton Wanderers
 Walsall FC,       @ Bescot Stadium,     Walsall › West Midlands
-  | Walsall
+  | Walsall | FC Walsall
 Solihull Moors FC,   Solihull › West Midlands
   | Solihull | Solihull Moors
 Stafford Rangers FC,   Stafford › West Midlands
@@ -429,7 +429,7 @@ St. Albans City FC,  St. Albans  › Hertfordshire
 Boreham Wood FC,     Borehamwood › Hertfordshire
   | Boreham Wood
 Stevenage FC,        @ Broadhall Way,   Stevenage   › Hertfordshire
-  | Stevenage | Stevenage Borough
+  | Stevenage | Stevenage Borough | FC Stevenage
 
 Hartlepool United FC,  @ Victoria Park,   Hartlepool › Durham
   | Hartlepool | Hartlepool United
