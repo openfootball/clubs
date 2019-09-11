@@ -40,7 +40,7 @@ Vissel Kobe
 V-Varen Nagasaki
 
 Kashima Antlers       # Southwestern cities/towns of Ibaraki
-  | Kashima
+  | Kashima | Kashima A.
 
 Oita Trinita          # All cities/towns in Oita
   | Oita
