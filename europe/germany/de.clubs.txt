@@ -52,7 +52,7 @@ Borussia Dortmund II,       Dortmund
 FC Schalke 04, 1904,         Gelsenkirchen
   | Schalke | Schalke 04
 Bayer 04 Leverkusen, 1904,    Leverkusen
-  | Leverkusen | Bayer Leverkusen | Bay. Leverkusen
+  | Bayer | Leverkusen | Bayer Leverkusen | Bay. Leverkusen
 MSV Duisburg,         Duisburg       ## until 1965/66 Meidericher SV -- was Meidericher SV in 1963/64
   | Duisburg | Meidericher SV
 Bor. Mönchengladbach, 1900, Mönchengladbach
