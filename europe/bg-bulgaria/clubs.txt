@@ -38,3 +38,9 @@ FC Pirin Blagoevgrad, 1922,   Blagoevgrad   ## note: merged two clubs in 2009; P
 
 FC Dunav Ruse, 1949,   Ruse
   | FC Dunav | Dunav
+
+POFC Botev Vratsa,  Vratsa 
+  | Botev Vratsa
+
+SFC Etar Veliko Tarnovo,  Veliko Tarnovo
+  | Et. Veliko Tarnovo
