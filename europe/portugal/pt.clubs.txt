@@ -14,10 +14,10 @@ Os Belenenses,    Lisboa
 FC Porto,     Porto
   | Porto
 Boavista FC,  Porto
-  | Boavista
+  | Boavista | Boavista Porto
 
 CD Aves, Aves
-  | Aves
+  | Aves | Desportivo Aves
 GD Chaves, Chaves
   | Chaves
 Estoril Praia, Estoril
@@ -25,15 +25,15 @@ Estoril Praia, Estoril
 CD Feirense, Santa Maria da Feira
   | Feirense
 Vitória de Guimarães, Guimarães
-  | Guimarães | Vitória SC | Vit. Guimarães | Vitória Guimarães 
+  | Guimarães | Vitória SC | Vit. Guimarães | Vitória Guimarães
 Vitória de Setúbal, Setúbal          ## note:  Vitória SC <=> Vitória FC !!!
-  | Setúbal | Vitória FC
+  | Setúbal | Vitória FC | Vitória Setúbal
 CS Marítimo, Funchal
   | Marítimo
 Moreirense FC, Moreira de Cónegos
   | Moreirense
 FC Paços de Ferreira, Paços de Ferreira
-  | Paços Ferreira
+  | Paços Ferreira | Paços de Ferreira
 Portimonense SC, Portimão
   | Portimonense
 Rio Ave FC, Vila do Conde

@@ -76,7 +76,7 @@ Heracles Almelo, 1903,  Almelo
   | Heracles
 
 FC Twente, 1965,   Enschede
-  | Twente | Football Club Twente
+  | Twente | Football Club Twente | Twente Enschede
 
 PEC Zwolle, 1910,   Zwolle
   | Zwolle | Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle
@@ -104,6 +104,7 @@ FC Utrecht, 1970,   Utrecht   ## Utrecht
 
 Vitesse Arnhem, 1892,  Arnhem   ## Gelderland
   | Vitesse | SBV Vitesse | Stichting Betaald Voetbal Vitesse
+  | Vitesse Arnheim [de]
 
 FC Volendam, Volendam
   | Volendam

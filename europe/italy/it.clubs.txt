@@ -22,7 +22,7 @@ Juventus,    Torino
   | Juventus Turin [de]
 
 Hellas Verona FC, 1903,     Verona
-  | Verona | Hellas Verona| Hellas Verona F.C. | Hellas Verona Football Club
+  | Verona | Hellas Verona | Hellas Verona Football Club
 AC Chievo Verona, Verona
   | Chievo | Chievo Verona | Associazione Calcio Chievo Verona
 
@@ -39,7 +39,7 @@ Benevento, 1929,        Benevento
   | Benevento Calcio
 Bologna FC,      Bologna
   | Bologna | FC Bologna
-  | Bologna F.C. 1909 | Bologna Football Club 1909
+  | Bologna FC 1909 | Bologna Football Club 1909
 Cagliari Calcio, Cagliari
   | Cagliari
 FC Crotone,      Crotone
@@ -52,7 +52,7 @@ SSC Napoli,     Napoli
 US Sassuolo Calcio, 1922,   Sassuolo
   | Sassuolo | US Sassuolo | Unione Sportiva Sassuolo Calcio
 SPAL,           Ferrara
-  | Spal | SPAL 2013 Ferrara | S.P.A.L. 2013
+  | SPAL 2013 | SPAL Ferrara | SPAL 2013 Ferrara
 Udinese Calcio, Udine
   | Udinese
 

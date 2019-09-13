@@ -5,6 +5,7 @@
 Fenerbahçe İstanbul SK,  İstanbul
   | Fenerbahçe | Fenerbahçe SK
   | Fenerbahçe Spor Kulübü | Fenerbahçe Sports Club
+  | Fenerbahçe İstanbul
 Galatasaray İstanbul AŞ, İstanbul
   | Galatasaray | Galatasaray İstanbul | Galatasaray AŞ
   | Galatasaray SK
