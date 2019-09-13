@@ -49,7 +49,8 @@ PSV Eindhoven, 1913,   Eindhoven
   | Philips Sport Vereniging | PSV
 
 RKC Waalwijk, 1940, Waalwijk
-  | Waalwijk | Rooms Katholieke Combinatie Waalwijk
+  | RKC | Waalwijk | Rooms Katholieke Combinatie Waalwijk
+
 
 Willem II Tilburg, 1896,   Tilburg    ## use Willem II - why? why not?
   | Willem II
@@ -57,14 +58,14 @@ Willem II Tilburg, 1896,   Tilburg    ## use Willem II - why? why not?
 
 == Limburg ==
 Fortuna Sittard, Sittard › Limburg
-  | For Sittard
+  | For Sittard | SC Fortuna Sittard
 
 Roda JC Kerkrade, 1962,   Kerkrade
   | Roda | Roda JC | Roda Kerkrade
   | Sportvereniging Roda Juliana Combinatie Kerkrade
 
 VVV Venlo, 1903,    Venlo     ## use VVV-Venlo - why? why not?
-  | VVV-Venlo | Venlo | Venlose Voetbal Vereniging Venlo
+  | VVV | VVV-Venlo | Venlo | Venlose Voetbal Vereniging Venlo
 
 
 

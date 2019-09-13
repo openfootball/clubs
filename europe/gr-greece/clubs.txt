@@ -58,7 +58,7 @@ Apollon Pontou FC, Kalamaria › Central Macedonia    ## Kalamaria, Thessaloniki
   | Kalamaria
 
 Asteras Tripolis FC, Tripoli › Peloponnese
-  | Asteras Tripolis
+  | Asteras | Asteras Tripolis
 
 Xanthi FC,           Xanthi › Thrace
   | Xanthi
@@ -74,7 +74,7 @@ AE Larissa FC,       Larissa › Thessaly
   | Larissa | Larissa FC
   | Larisa
 PAS Lamia 1964,      Lamia › Central Greece
-  | Lamia
+  | Lamia | PAS Lamia
 Kerkyra FC,          Corfu › Ionian Islands
   | Kerkyra
 Platanias FC,        Chania › Crete
@@ -103,13 +103,14 @@ Kastoria FC, Kastoria › Macedonia
 Kavala FC, Kavala › Macedonia
   | Kavala
 
+Volos FC, 2017, Volos › Thessaly
+  | Volos
+  | Volos NFC | Volos Football Club
 Niki Volou FC, Volos › Thessaly
   | Niki Volos
 Olympiacos Volou 1937 FC, Volos › Thessaly
   | Olympiacos Volou | Olympiacos Volou FC
   | Olympiakos Volou
-Volos FC, 2017, Volos › Thessaly
-  | Volos NFC | Volos Football Club
 
 
 Panachaiki FC, Patras › Peloponnese

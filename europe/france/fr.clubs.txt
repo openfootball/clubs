@@ -5,8 +5,9 @@
 
 
 Paris Saint-Germain, 1970, Paris › Île-de-France
-  | Paris SG | Paris St. Germain | Paris S.Germain | Paris Saint Germain
-  | Paris Saint-Germain F.C.
+  | Paris
+  | Paris SG | Paris St. Germain | Paris S. Germain | Paris Saint Germain
+  | Paris Saint-Germain FC
   | Paris-Saint-Germain Football Club
 
 Paris FC,            Paris › Île-de-France
@@ -62,6 +63,7 @@ AS Saint-Étienne, 1919,  Saint-Étienne     ## Loire > Rhône-Alpes
   | Association Sportive de Saint-Étienne Loire
 RC Strasbourg, Strasbourg
   | Strasbourg | Racing Strasbourg | RC Strasbourg Alsace
+  | Racing Club de Strasbourg Alsace
 Toulouse FC, 1970, Toulouse     ## Haute-Garonne > Midi-Pyrénées
   | Toulouse | Toulouse Football Club | FC Toulouse
 ES Troyes AC, 1986, Troyes      ## Aube > Champagne-Ardenne
@@ -70,7 +72,7 @@ ES Troyes AC, 1986, Troyes      ## Aube > Champagne-Ardenne
 Stade de Reims, 1931, Reims    ## Marne > Champagne-Ardenne
   | Reims | Stade Reims
 Nîmes Olympique, Nîmes
-  | Nîmes | Olympique Nîmes
+  | Nîmes | Olympique Nîmes | Nîmes Olympique SC
 
 AC Ajaccio, 1910,  Ajaccio   ## Corse-du-Sud > Corsica
   | Ajaccio | Athletic Club Ajaccien
