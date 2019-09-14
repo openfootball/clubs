@@ -2,11 +2,26 @@
 =  Armenia (am)
 
 FC Pyunik
+  | Pyunik
 Ulisses FC
 FC Mika
 FC Gandzasar
-FC Banants
-  | Banants
+  | Gandzasar
+
+FC Urartu
+  | Urartu
+  | FC Banants | Banants  ## note: The club was known as FC Banants until 1 August 2019
 FC Shirak
+  | Shirak
 FC Ararat
+  | Ararat
 Alashkert FC
+  | Alashkert
+
+FSC Lori
+  | Lori
+Ararat-Armenia FC
+  | Ararat-Armenia
+Artsakh FC
+FC Yerevan
+  | Yerevan

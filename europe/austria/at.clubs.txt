@@ -114,7 +114,8 @@ SK Sturm Graz II,    Graz
 Grazer AK,   Graz
 
 TSV Hartberg,	       Hartberg
-  | Hartberg
+  | TSV | Hartberg
+  | TSV Sparkasse Hartberg
 
 Kapfenberger SV,   Kapfenberg
 SV Lafnitz,   Lafnitz
@@ -176,7 +177,7 @@ FC Wacker Innsbruck II, Innsbruck
 
 WSG Tirol, 1930,   Wattens
   | Tirol | WSG Swarovski Tirol | WSG Swarovs. Tirol | Wattener Sportgemeinschaft Tirol
-  | WSG Wattens
+  | Wattens | WSG Wattens
 
 SC Schwaz,    Schwaz
 FC Kitzbühel, Kitzbühel
@@ -209,7 +210,7 @@ Dornbirner SV,     Dornbirn
 
 VfB Hohenems
 FC Wolfurt
-  | Meusburger FC Wolfurt    ## $$$ Meusburger is a sponsor 
+  | Meusburger FC Wolfurt    ## $$$ Meusburger is a sponsor
 SW Bregenz
 FC Langenegg
   | SPG FC Langenegg

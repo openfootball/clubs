@@ -60,4 +60,7 @@ MFK Karviná
   | Karviná
 
 SFC Opava
- | Opava
+  | Opava
+
+SK Dynamo České Budějovice
+  | České Budějovice

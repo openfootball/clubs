@@ -15,7 +15,7 @@ Debreceni VSC
 Győri ETO FC
   | Győr
 Paksi SE
-  | Paks
+  | Paks | Paksi FC
 Kecskeméti TE
   | Kecskemét
 Újpest FC
@@ -31,3 +31,13 @@ Vasas FC
   | Vasas
 Diósgyőri VTK
   | Diósgyőr
+
+Mezőkövesd Zsóry SE
+  | Mezőkövesd
+Varda SE
+  | Varda
+
+Puskás Akadémia FC
+
+Kaposvári Rákóczi FC
+  | Rákóczi
