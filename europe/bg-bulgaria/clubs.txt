@@ -15,7 +15,9 @@ PFC Lokomotiv Sofia, 1929,  Sofia
 PFC Botev Plovdiv, 1912,       Plovdiv
   | Botev Plovdiv
 PFC Lokomotiv Plovdiv, 1926,   Plovdiv
-  | Lokomotiv Plovdiv | PFC Lokomotiv Plovdiv 1936
+  | Lokomotiv Plovdiv
+  | PFC Lokomotiv Plovdiv 1926
+  | PFC Lokomotiv Plovdiv 1936    ## todo/check: if 1936 is error (used by wikipedia?)
 
 PFC Litex Lovech, 1921,        Lovech
   | Litex | Professional Football Club Litex Lovech
@@ -39,8 +41,16 @@ FC Pirin Blagoevgrad, 1922,   Blagoevgrad   ## note: merged two clubs in 2009; P
 FC Dunav Ruse, 1949,   Ruse
   | FC Dunav | Dunav
 
-POFC Botev Vratsa,  Vratsa 
+POFC Botev Vratsa,  Vratsa
   | Botev Vratsa
+  | OFC Botev Vratsa
 
 SFC Etar Veliko Tarnovo,  Veliko Tarnovo
   | Et. Veliko Tarnovo
+
+Arda
+
+FC Etar Veliko Tarnovo
+  | Etar
+Tsarsko Selo
+Vitosha Bistritsa

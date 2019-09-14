@@ -8,6 +8,8 @@ Bohemian FC,                     Dublin (Phibsborough)
 St Patrick's Athletic FC,        Dublin (Inchicore)
   | St Patrick's | St Patrick's Athletic
   | St. Patricks
+  | Saint Patrick's Athletic FC
+  | Saint Patrick's
 University College Dublin AFC,  Dublin (Belfield)
   | UCD | UC Dublin
 Shelbourne FC,                   Dublin (Drumcondra)
@@ -41,10 +43,13 @@ Mervue
 Monaghan
 Sligo Rovers FC,       Sligo
   | Sligo | Sligo Rovers | FC Sligo Rovers
+
 Waterford FC,          Waterford
   | Waterford
-  | Waterford United (1982-2016)
-
+  | Waterford United (1982-2016) | Waterford United FC (1982-2016)
+## todo/fix: use/try new format e.g.
+##  1982-2016  | Waterford United | Waterford United FC
+ 
 Wexford FC,           Crossabeg
   | Wexford
 

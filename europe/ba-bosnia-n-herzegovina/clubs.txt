@@ -2,6 +2,7 @@
 =  Bosnia and Herzegovina (ba)
 
 FK Sarajevo
+  | Sarajevo
 FK Slavija Sarajevo
   | Slavija
 FK Olimpic Sarajevo     ## check if same as FK Sarajevo ??
@@ -21,3 +22,12 @@ FK Sloboda Tuzla
   | Sloboda
 FK Radnik Bijeljina
   | Radnik Bijeljina
+
+Sloga Simin Han
+NK Čelik Zenica
+  | Čelik
+FK Mladost Doboj Kakanj
+  | Mladost Doboj Kakanj
+FK Velež
+  | Velež
+Zvijezda 09

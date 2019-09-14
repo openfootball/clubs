@@ -35,7 +35,15 @@ Hapoel Hadera FC, Hadera
   | Hapoel Hadera
 
 Hapoel Ra'anana AFC, Ra'anana
-  | Hapoel Ra'anana
+  | H. Ra'anana | Hapoel Ra'anana
+  | Hapoel Ra'anana FC
+
 
 Maccabi Petah Tikva FC, Petah Tikva
   | Maccabi Petah Tikva
+
+Hapoel Kfar-Saba FC
+  | H. Kfar-Saba
+
+Sektzia Nes Tziona FC
+  | Nes Tziona

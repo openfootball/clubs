@@ -23,3 +23,8 @@ HNK Cibalia
   | Cibalia
 HNK Šibenik
   | Šibenik
+HNK Gorica
+NK Istra 1961
+  | Istra 1961
+NK Inter Zaprešić
+  | Inter Zaprešić

@@ -2,7 +2,7 @@
 =  Belarus (by)
 
 FC BATE Borisov, Barysaw
-  | BATE | BATE Borisov | BATE Borissow | Bate Borisov
+  | BATE | BATE Borisov | BATE Borissow
 FC Gomel
   | Gomel
 
@@ -26,3 +26,19 @@ FC Dinamo Brest
   | Dinamo Brest
 FC Neman Grodno
   | Neman
+
+FC Isloch
+  | Isloch
+FC Gorodeya
+  | Gorodeya
+SFC Slutsk
+  | Slutsk
+FC Slavia-Mozyr
+  | Slavia-Mozyr
+FC Vitebsk
+  | Vitebsk
+FC Zvezda-BGU Minsk
+  | Zvezda
+FC Dnyapro Mogilev
+FC Torpedo-SKA Minsk
+  | Torpedo-SKA

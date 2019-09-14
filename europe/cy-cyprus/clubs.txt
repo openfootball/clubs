@@ -17,3 +17,16 @@ APOP/Kinyras Peyias FC
   | APOP
 Ermis Aradippou FC
   | Ermis
+
+Ethnikos Achnas FC
+  | Ethnikos Achnas
+Pafos FC
+  | Pafos
+Doxa Katokopia FC
+  | Doxa
+Olympiakos Nicosia FC
+  | Olympiakos
+Enosis Neon Paralimni FC
+  | Paralimni
+Nea Salamis Famagusta FC
+  | Nea Salamis
