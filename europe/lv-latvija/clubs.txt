@@ -1,19 +1,42 @@
 ==============================
 =  Latvija (lv)
 
-FK Ventspils
+FK RFS,  Riga
+  | RFS | FK Rīgas Futbola Skola
+  | JFK Olimps/RFS           ## todo/check where this name is (still/was) used ?
+Riga FC,         Riga
+  | Riga
+FS METTA,        Riga
+  | METTA | FS METTA/LU | FS METTA/Latvijas Universitāte
+
+FC Daugava Rīga,  Riga          # note: historic soviet era club
+
+
+FK Ventspils,    Ventspils
   | Ventspils
-SK Liepājas Metalurgs
+
+FK Liepāja,      Liepāja       # check -same as SK Liepājas Metalurgs ??
+  | Liepāja
+# an indirect legatee of FK Liepājas Metalurgs,
+#  which was dissolved following the 2013 Latvian Higher League season
+#  due to the bankruptcy of its owner company and the sole sponsor metallurgical plant A/S Liepājas Metalurgs.
+
+SK Liepājas Metalurgs,      Liepāja
+
+
+FK Jelgava, Jelgava
+  | Jelgava
+FK Valmiera, Valmiera
+
+FK Spartaks Jūrmala, Jūrmala
+  | Spartaks Jūrmala
+
+
+FC Daugava Daugavpils, Daugavpils
+  | FC Daugava
+BFC Daugavpils,         Daugavpils
+  | Daugavpils
+
+FC Dinaburg
 Skonto FC
   | Skonto
-FC Daugava Daugavpils
-FK Jelgava
-FC Dinaburg
-JFK Olimps/RFS
-
-
-FK Spartaks Jūrmala
-  | Spartaks Jūrmala
-FK Liepāja      # check -same as SK Liepājas Metalurgs ??
-Riga FC
-FC Daugava Rīga

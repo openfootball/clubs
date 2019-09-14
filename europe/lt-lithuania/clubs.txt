@@ -1,6 +1,16 @@
 ===============================
 =  Lithuania (lt)
 
+FK Riteriai,  Vilnius
+  | Riteriai
+VMFD Žalgiris,  Vilnius
+  | Žalgiris | Žalgiris Vilnius | FK Žalgiris | FK Žalgiris Vilnius
+
+FK Kauno Žalgiris,  Kaunas
+  | Kauno Žalgiris
+FC Stumbras,        Kaunas
+  | Stumbras
+FBK Kaunas,        Kaunas
 
 FK Ekranas
   | Ekranas
@@ -9,12 +19,12 @@ FK Sūduva
 FK Tauras
 FK Vėtra
 FC Šiauliai
-VMFD Žalgiris
-  | Žalgiris | Žalgiris Vilnius | FK Žalgiris Vilnius
-FBK Kaunas
+
+
 FK Banga
-FK Riteriai
-  | Riteriai
-FC Stumbras
 FK Atlantas
+  | Atlantas
 FK Kruoja
+
+Panevezys
+FK Palanga

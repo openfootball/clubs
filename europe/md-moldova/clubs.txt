@@ -5,6 +5,10 @@ FC Sheriff Tiraspol, Tiraspol
   | Sheriff | FC Sheriff | Sheriff Tiraspol | FC Tiraspol
   | Tiraspol
 
+FC Dinamo-Auto Tiraspol
+  | Dinamo-Auto
+
+
 FC Dacia Chisinau
   | Dacia
 FC Zimbru Chisinau
@@ -22,8 +26,16 @@ FC Zaria Balti
 FC Nistru Otaci
 
 CS Petrocub
-  | Petrocub
+  | Petrocub | Petrocub-Hincesti
 FC Saxan
   | Saxan
 FC Veris
   | Veris
+
+FC Sfintul Gheorghe Suruceni
+  | Sfintul Gheorghe
+
+FC Speranța Nisporeni
+  | Speranța Nisporeni
+
+FC Codru

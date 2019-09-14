@@ -13,4 +13,24 @@ UN Käerjéng 97
 CS Fola Esch
   | Fola
 Racing FC Union Lëtzebuerg
+  | Racing Union
 FC Progrès Niederkorn
+  | Progrès
+
+US Mondorf-les-Bains
+  | Mondorf-les-Bains
+FC Union Titus Pétange
+  | Union Titus
+FC UNA Strassen
+  | UNA Strassen
+FC Victoria Rosport
+  | Rosport
+FC Muhlenbach Sandzak
+  | Muhlenbach
+
+FC Etzella Ettelbruck
+  | Etzella
+FC Rodange 91
+  | Rodange
+US Hostert
+  | Hostert

@@ -2,5 +2,25 @@
 =  Kosovo (xk)
 
 KF Drita
-FC Prishtina
-KF Trepça'89
+  | Drita
+
+FC Prishtina,     Prishtina
+  | Prishtina
+Flamurtari Prishtina,  Prishtina
+
+KF Trepça'89,   Mitrovica      ## note:  Not to be confused with FK Trepča or KF Trepça (in Serbia)!!!
+  | KF Trepça | Trepça
+
+Ballkani
+KF Feronikeli
+  | Feronikeli
+KF Gjilani
+  | Gjilani
+KF Drenica
+  | Drenica
+KF Llapi
+  | Llapi
+KF Ferizaj
+  | Ferizaj
+Dukagjini
+Vushtrria
