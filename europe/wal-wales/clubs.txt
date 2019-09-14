@@ -10,15 +10,31 @@ Bangor City FC
 Llanelli AFC
 Rhyl FC
 Cefn Druids AFC
+  | Cefn Druids
 Neath FC
 Port Talbot Town FC
 
 Connah's Quay Nomads FC
+  | Connah's Quay
 Bala Town FC
+  | Bala
 Llandudno FC
 Newtown AFC
+  | Newtown
 AUK Broughton FC
+  | Broughton
 Aberystwyth Town FC
+  | Aberystwyth
+
+Barry Town AFC
+  | Barry
+Cardiff Metropolitan University FC
+  | Cardiff Met
+Caernarfon Town FC
+  | Caernarfon
+Carmarthen Town AFC
+  | Carmarthen
+Penybont FC
 
 
 # note: welsh clubs playing in english premiere league or championship etc. listed here

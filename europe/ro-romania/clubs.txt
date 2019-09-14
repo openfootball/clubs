@@ -29,7 +29,9 @@ Concordia Chiajna,   Chiajna
 FC Vaslui,   Vaslui
   | Vaslui
 Gaz Metan Mediaș,   Mediaș
-  | Gaz Metan | Gaz Metan Medias | CS Gaz Metan Mediaș
+  | Gaz Metan | Gaz Metan Medias
+  | CS Gaz Metan Mediaș
+  | CS Gaz Metan Mediaş  ## todo/check: unaccent ro - auto-generate with cedilla from with ...
 Gloria Bistrița,    Bistrița
   | Bistrita | Gloria Bistrita
 
@@ -77,6 +79,8 @@ FC Politehnica Iași,   Iași
   | Poli Iasi | Poli Iași | Politehnica Iași
   | CSMS Iasi | CSM Politehnica Iași     ## check - older name?
   | CSMS laşi
+  | CSM Politehnica Iaşi   ## todo/check: unaccent ro - auto-generate with cedilla from with ...
+  | Politehnica Iaşi
 
 Poli Timișoara, Timișoara
   | Timişoara | ACS Poli Timișoara

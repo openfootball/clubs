@@ -5,9 +5,11 @@ FK Budućnost Podgorica
   | Budućnost Podgorica
 FK Mogren
 FK Zeta
+  | Zeta
 FK Rudar Pljevlja
   | Rudar Pljevlja
 OFK Petrovac
+  | Petrovac
 FK Čelik Nikšić
 FK Sutjeska
   | Sutjeska | Sutjeska Nikšić
@@ -16,3 +18,11 @@ OFK Titograd
   | Titograd
 FK Bokelj
 FK Lovćen
+FK Iskra
+  | Iskra
+
+Mladost Ljeskopolje
+FK Kom
+  | Kom
+OFK Grbalj
+  | Grbalj

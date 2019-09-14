@@ -11,6 +11,7 @@ NK Maribor, Maribor
 
 ND Mura 05
   | Mura
+  | NS Mura   ## check if same as ND Mura 05??
 FC Koper
   | Koper
 ND Gorica
@@ -21,3 +22,10 @@ NK Rudar Velenje
   | Rudar Velenje
 NK Celje
   | Celje
+NK Aluminij
+  | Aluminij
+ASK Bravo Publikum
+NK Tabor Sezana
+  | Tabor
+NK Triglav
+  | Triglav

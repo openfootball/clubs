@@ -8,7 +8,7 @@ IF Brommapojkarna,   Stockholm (Bromma)
 Djurgårdens IF,      Stockholm
   | Djurgården | Djurgarden
 Hammarby IF,         Stockholm
-  | Hammarby
+  | Hammarby | Hammarby Fotboll
 
 
 IFK Göteborg, Göteborg       ## Gothenburg [en]
@@ -37,6 +37,7 @@ Gefle IF,   Gävle
   | Gefle
 
 AFC Eskilstuna,   Eskilstuna
+  | Eskilstuna
 Mjällby AIF,      Mjällby
   | Mjallby
 

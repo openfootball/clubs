@@ -4,7 +4,7 @@
 
 Red Star Belgrade, Belgrade
   | Crvena Zvezda | Crvena zvezda | FK Crvena zvezda
-  | Red Star 
+  | Red Star
   | Roter Stern B. [de]
 FK Partizan Belgrade, Belgrade
   | Partizan | FK Partizan | Partizan Belgrade
@@ -30,3 +30,19 @@ FK Mladost Lučani
   | Mladost Lučani
 FK Čukarički
   | Čukarički
+
+Backa Topola
+FK Napredak
+  | Napredak
+FK Voždovac
+  | Voždovac
+FK Indjija
+  | Indjija
+
+FK Javor
+  | Javor
+FK Proleter
+  | Proleter
+FK Radnik Surdulica
+  | Radnik Surdulica
+Macva Sabac

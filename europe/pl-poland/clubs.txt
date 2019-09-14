@@ -28,8 +28,11 @@ Arka Gdynia,  Gdynia
   | Arka
 GKS Bełchatów,  Bełchatów
 Korona Kielce,  Kielce
+  | Korona
 
 Lechia Gdańsk,  Gdańsk
+  | Lechia | KS Lechia Gdańsk
+
 Górnik Łęczna,  Lublin
   | Łęczna
 Miedź Legnica,  Legnica
@@ -41,6 +44,7 @@ Wisła Płock,    Płock
 Podbeskidzie Bielsko-Biała,   Bielsko-Biała
   | Podbeskidzie
 Pogoń Szczecin,    Szczecin
+  | Pogoń | MKS Pogoń Szczecin
 Ruch Chorzów,  Chorzów
   | Ruch
 Sandecja Nowy Sącz, Nieciecza
@@ -50,6 +54,7 @@ Bruk-Bet Termalica Nieciecza, 1922, Nieciecza
 
 Widzew Łódź,  Łódź
 ŁKS Łódź,     Łódź
+  | ŁKS
 
 
 Zagłębie Lubin,  Lubin
@@ -60,3 +65,4 @@ Zawisza Bydgoszcz,  Bydgoszcz
 
 Raków Częstochowa, 1921,  Częstochowa
   | Raków | RKS Raków Częstochowa
+  | Raków Czestochowa   ## todo/fix: check unaccent for Czę

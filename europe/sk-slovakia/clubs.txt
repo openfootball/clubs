@@ -27,3 +27,13 @@ MFK Ružomberok
   | Ružomberok
 TJ Spartak Myjava
   | Spartak Myjava
+
+FC ViOn Zlaté Moravce
+  | Zlaté Moravce
+
+SK Sered
+  | Sered
+TJ Sokol Dolná Zdana
+  | Sokol Dolná Zdana
+MFK Zemplín Michalovce
+  | Michalovce

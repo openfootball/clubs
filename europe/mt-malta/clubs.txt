@@ -5,12 +5,28 @@
 Valletta FC,         Valletta
   | Valletta
 Sliema Wanderers FC, Sliema
-  | Sliema Wanderers
+  | Sliema | Sliema Wanderers
 Birkirkara FC
   | Birkirkara
 Floriana FC
+  | Floriana
 Hibernians FC
   | Hibernians
 Marsaxlokk FC
 Balzan FC
+  | Balzan
 Gżira United FC
+  | Gżira
+
+Gudja United
+Hamrun Spartans FC
+  | Hamrun
+FC Sirens
+  | Sirens
+Santa Lucia
+Senglea Athletic FC
+  | Senglea
+Mosta FC
+  | Mosta
+Tarxien Rainbows FC
+  | Tarxien

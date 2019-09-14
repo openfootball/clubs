@@ -3,12 +3,33 @@
 
 
 SP Tre Fiori
+  | Tre Fiori
 SP Tre Penne
 AC Juvenes-Dogana
-  | AC Juvenes/Dogana
+  | Juvenes/Dogana | AC Juvenes/Dogana
 SP La Fiorita
-  | La Fiorita
+  | La Fiorita | La Fiorita 1967
 AC Libertas
+  | Libertas
 SC Faetano
+  | Faetano
 SS Murata
+  | Murata
 SS Folgore
+  | Folgore
+
+SP Cailungo
+  | Cailungo
+SS Cosmos
+  | Cosmos
+FC Domagnano
+  | Domagnano
+FC Fiorentino
+  | Fiorentino
+SS Pennarossa
+  | Pennarossa
+SS San Giovanni
+  | San Giovanni
+Virtus FC
+  | Virtus
+  

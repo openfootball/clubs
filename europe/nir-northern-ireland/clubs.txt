@@ -1,14 +1,17 @@
 =====================================
 =  Northern Ireland (nir)
 
-Derry City F.C.,       Derry     ## note: plays in (Republic of) Ireland league
-  | Derry | Derry City | Derry City FC
+Derry City FC,       Derry     ## note: plays in (Republic of) Ireland league
+  | Derry | Derry City
+Institute FC,        Derry
+  | Institute | FC Institute
 
 
-Linfield FC, Belfast
+Linfield FC,    Belfast
   | Linfield
-Glentoran FC, Belfast
+Glentoran FC,   Belfast
   | Glentoran | Glentoran Belfast
+
 Cliftonville FC
   | Cliftonville
 Crusaders FC
@@ -17,8 +20,17 @@ Portadown FC
 Lisburn Distillery FC
 
 Glenavon FC
+  | Glenavon
 Coleraine FC
+  | Coleraine
 Ballymena United FC
+  | Ballymena
 
-Institute FC, Derry
-  | Institute | FC Institute
+Dungannon Swifts FC
+  | Dungannon
+Larne FC
+  | Larne
+Carrick Rangers FC
+  | Carrick
+Warrenpoint Town FC
+  | Warrenpoint

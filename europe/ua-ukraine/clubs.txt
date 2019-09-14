@@ -3,7 +3,7 @@
 
 
 FC Dynamo Kyiv,  Kyiv
-  | Dynamo Kyiv    
+  | Dynamo Kyiv
   | Dynamo Kiev | Dinamo Kiev       ## add [en] ??
   | Dynamo Kiew | FC Dynamo Kiew    ## add [de] ??
 FC Arsenal Kyiv,  Kyiv
@@ -11,9 +11,9 @@ FC Arsenal Kyiv,  Kyiv
 
 FC Shakhtar Donetsk,  Donetsk
   | Shakhtar | Shakhtar Donetsk | Shakhtar Don.
-  | Schachtjor Donezk 
+  | Schachtjor Donezk
   | Schachtar Donezk
-  
+
 FC Metalurh Donetsk,  Donetsk
   | Metalurh Donetsk
 FC Olimpik Donetsk
@@ -24,6 +24,9 @@ FC Metalist Kharkiv,    city:kharkov
 FC Dnipro,    city:dnipropetrovsk
   | Dnipro | FC Dnipro Dnipropetrovsk | Dnipro Dnipropetrovsk
   | SC Dnipro
+
+Dnipro-1    ## todo/check - differnt from FC Dnipro ???
+
 FC Vorskla Poltava
   | Vorskla
 FC Karpaty Lviv
@@ -40,3 +43,6 @@ FC Olexandriya
   | Olexandriya
 FC Chornomorets Odesa
   | Chornomorets Odesa
+
+Desna
+Kolos Kovalivka

@@ -26,7 +26,7 @@ Torpedo Moskva,    Moskva
 Zenit St. Petersburg, 1925,     St. Petersburg
   | Zenit | Zenit Petersb. | Zenit Petersburg | Zenit Saint Petersburg
   | FC Zenit | FC Zenit St Petersburg | FC Zenit Saint Petersburg
-
+Dinamo St. Petersburg,     St. Petersburg
 
 
 PFC Sochi, 2018, Sochi      #  formed in 2018 on the base of FC Dynamo Saint Petersburg
@@ -94,7 +94,7 @@ Sokol, Saratov
 Terek Grozny, Grozny
   | Terek | FC Terek Grozny
 Akhmat Grozny, Grozny
-  | FC Akhmat Grozny
+  | Akhmat | FC Akhmat Grozny
 Tom Tomsk, Tomsk
   | Tom | Tom' | Tomsk | FC Tom Tomsk
 Tosno,  Tosno
@@ -102,7 +102,7 @@ FC Ufa, Ufa
   | Ufa | Ufa Ufa
 Ural Yekaterinburg, Yekaterinburg
   | Ural | FC Ural Yekaterinburg
-  | Football Club Ural Sverdlovsk Oblast
+  | FC Ural Sverdlovsk Oblast | Football Club Ural Sverdlovsk Oblast
   | Ural Jekaterinburg [de]
 
 Uralan, Elista
@@ -117,7 +117,7 @@ Volgar-Astrakhan,  Astrakhan
 Vladikavkaz,   Vladikavkaz
 Yenisey, Krasnoyarsk
   | FC Yenisey Krasnoyarsk
-  
-FC Avangard Kursk,  Kursk 
+
+FC Avangard Kursk,  Kursk
 FC Tekstilshchik Ivanovo, Ivanovo
   | Tekstilshchik
