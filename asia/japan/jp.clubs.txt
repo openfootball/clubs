@@ -13,25 +13,27 @@ Cerezo Osaka,         Osaka › Osaka
 Gamba Osaka,           Suita › Osaka
   | G-Osaka
 Yokohama F. Marinos,   Yokohama & Yokosuka › Kanagawa
-  | Yokohama | Yokohama M.
+  | Yokohama | Yokohama M. | Marinos
 Kawasaki Frontale,     Kawasaki › Kanagawa
+  | Kawa Frontale
 Nagoya Grampus,        Nagoya › Aichi
-  | Nagoya
+  | Nagoya | Grampus
 Júbilo Iwata,          Iwata › Shizuoka
   | Iwata
 Urawa Red Diamonds,    Urawa › Saitama
-  | Urawa | Urawa RD
+  | Urawa | Urawa RD | Urawa Reds
 Kashiwa Reysol,        Kashiwa › Chiba
   | Kashiwa
 Shimizu S-Pulse,        Shizuoka › Shizuoka
-  | Shimizu
+  | Shimizu | S-Pulse
 Sagan Tosu,             Tosu › Saga
 Sanfrecce Hiroshima,    Hiroshima › Hiroshima
-  | Sanfr. Hiroshima | Hiroshima
+  | Hiroshima | Sanfrecce | Sanfr. Hiroshima
 
 Vegalta Sendai,       Sendai, Miyagi
 Hokkaido Consadole Sapporo,  Sapporo › Hokkaido
-  | Hokkaido Consadole | Sapporo | Consadole Sapporo
+  | Sapporo | Consa Sapporo | Consadole Sapporo
+  | Hokkaido Consadole 
 Avispa Fukuoka,       Hakata › Fukuoka
 Matsumoto Yamaga,     Matsumoto › Nagano
   | Yamaga
