@@ -55,6 +55,7 @@ FCV Dender EH,       Denderleeuw › Oost-Vlaanderen › Vlaanderen
   | Dender
 
 Waasland-Beveren, 1936,   Beveren › Oost-Vlaanderen › Vlaanderen   ## KVRS Waasland - SK Beveren
+  | Waasland-Bev
 KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
   | Beveren
 
@@ -85,7 +86,7 @@ Sporting Charleroi, 1904,    Charleroi › Hainaut › Wallonie  ##  [fr]
   | Sporting de Charleroi
 
 Royal Excel Mouscron, 2010,    Mouscron  › Hainaut › Wallonie     ## Moeskroen [nl]
-  | Mouscron | Mouscron-Péruwelz | RE Mouscron | R. Excel Mouscron
+  | Mouscron | Mouscron-Péruwelz | RE Mouscron | Excel Mouscron | R. Excel Mouscron
   | R. Mouscron-Péruwelz | Royal Mouscron-Péruwelz
 
 RAEC Mons,             Mons      › Hainaut › Wallonie     ##  Bergen [nl]
