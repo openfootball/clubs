@@ -7,7 +7,7 @@
 All Boys,           Buenos Aires
   | Club Atlético All Boys
 Argentinos Juniors,  Buenos Aires
-  | Argentinos | Argentinos Jrs | Asociación Atlética Argentinos Juniors
+  | Argentinos | Argentinos Jrs | Argentinos Jun | Asociación Atlética Argentinos Juniors
 Boca Juniors,       Buenos Aires
   | Boca | Boca Jrs | Club Atlético Boca Juniors
 River Plate,        Buenos Aires
@@ -16,10 +16,10 @@ San Lorenzo,        Buenos Aires
   | San Lorenzo de Almagro
   | CA San Lorenzo de Almagro | Club Atlético San Lorenzo de Almagro
 Vélez Sarsfield,    Buenos Aires
-  | Vélez | Velez Sarsfield | CA Vélez
+  | Vélez | Vélez Sarsf | Velez Sarsfield | CA Vélez
   | CA Vélez Sarsfield | Club Atlético Vélez Sarsfield
 Huracán,            Buenos Aires
-  | Huracan | Club Atlético Huracán
+  | CA Huracán | Club Atlético Huracán
 Nueva Chicago,   Buenos Aires
   | Club Atlético Nueva Chicago
 
@@ -35,17 +35,17 @@ Racing Club,                    Avellaneda › Buenos Aires  #  Avellaneda sits 
 Quilmes AC,    Quilmes › Buenos Aires       # Quilmes is a city in the province of Buenos Aires
   | Quilmes | Quilmes Atlético Club
 CA Lanús,   Lanús › Buenos Aires         #  Lanús is a city in  Greater Buenos Aires
-  | Lanús | Lanus | Club Atlético Lanús
+  | Lanús | Club Atlético Lanús
 
 Arsenal de Sarandí,  Sarandí › Buenos Aires    #  Sarandí es una ciudad de la Zona Sur del Gran Buenos Aires
-  | Arsenal | Arsenal Sarandi
+  | Arsenal | Arsenal Sarandí
   | Arsenal FC | Arsenal Fútbol Club
 
 Estudiantes LP, La Plata › Buenos Aires
-  | Estudiantes | Estudiantes L.P. | Club Estudiantes de La Plata
+  | Estudiantes | Club Estudiantes de La Plata
   | Estudiantes de La Plata
 Gimnasia y Esgrima,  La Plata › Buenos Aires
-  | Gimnasia L.P. | Gimnasia y Esgrima La Plata | GELP
+  | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata | GELP 
   | Club de Gimnasia y Esgrima La Plata
 
 
@@ -54,11 +54,11 @@ Club Atlético Aldosivi,   Mar del Plata › Buenos Aires
 Club Atlético Banfield,   Banfield › Buenos Aires
   | Banfield
 Defensa y Justicia,   Gobernador Julio A. Costa › Buenos Aires
-  | Club Social y Deportivo Defensa y Justicia
+  | Defensa y Just | Club Social y Deportivo Defensa y Justicia
 Olimpo Bahía Blanca,  Bahía Blanca  › Buenos Aires
-  | Olimpo | Club Olimpo | Olimpo Bahia Blanca | Olimpo de Bahía Blanca
+  | Olimpo | Club Olimpo | Olimpo de Bahía Blanca
 Sarmiento Junín,     Junín › Buenos Aires
-  | Sarmiento | Sarmiento Junin | Club Atlético Sarmiento | Club Atlético Sarmiento (Junín)
+  | Sarmiento | Club Atlético Sarmiento | Club Atlético Sarmiento (Junín)
 Temperley,           Turdera › Buenos Aires
   | Club Atlético Temperley
 Chacarita Juniors,    Villa Maipú › Buenos Aires
@@ -71,14 +71,14 @@ Colón Santa Fe,  Santa Fe
   | Colón | CA Colón | Club Atlético Colón | Club Atlético Colón (Santa Fe)
   | Colon Santa FE
 Unión Santa Fe,  Santa Fe
-  | Unión | Unión de Santa Fe | Club Atlético Unión
+  | Unión | Unión de Santa Fe  | CA Unión | Club Atlético Unión
 
 
 Newell's Old Boys, Rosario › Santa Fe
-  | Newell's | Newells Old Boys | N.O. Boys
+  | Newell's | N.O. Boys | Newell's OB  | Newells Old Boys
   | CA Newell's Old Boys | Club Atlético Newell's Old Boys
 Rosario Central,  Rosario  › Santa Fe
-  | Club Atlético Rosario Central
+  | Rosario Cent | Club Atlético Rosario Central
 
 Atlético Rafaela, Rafaela › Santa Fe
   | At. de Rafaela | Atl. Rafaela | Atlético de Rafaela
@@ -90,7 +90,7 @@ Atlético Rafaela, Rafaela › Santa Fe
 Club Atlético Belgrano,   Córdoba
   | Belgrano
 Talleres de Córdoba,      Córdoba
-  | Talleres Cordoba | Club Atlético Talleres
+  | Talleres | Talleres Cordoba | Club Atlético Talleres
 
 
 == Provincia Mendoza ==
@@ -102,15 +102,15 @@ Godoy Cruz, 	Mendoza       # Godoy Cruy is a city in Greater Mendoza
 == Provincia San Juan ==
 
 San Martín,    San Juan
-  | San Martin S.J. | San Martín San Juan | Club Atlético San Martín
+  | San Martín SJ | San Martín San Juan | Club Atlético San Martín
 
 
 == Provincia Tucumán ==
 
 Atlético Tucumán,       San Miguel de Tucumán  › Tucumán
-  | Atl. Tucuman
+  | Atl. Tucumán
 San Martín de Tucumán,  San Miguel de Tucumán  › Tucumán
-  | San Martin T.
+  | San Martín T.
   | Club Atlético San Martín | Club Atlético San Martín (Tucumán)
 
 
@@ -129,7 +129,8 @@ Crucero del Norte, Garupá › Misiones
 
 == Provincia Santiago del Estero ==
 
-Central Córdoba, Santiago del Estero › Santiago del Estero
-  | Club Atlético Central Córdoba
+Central Córdoba,     Santiago del Estero › Santiago del Estero
+  | CC Córdoba | Club Atlético Central Córdoba
   | Central Córdoba de Santiago del Estero
   | Central Córdoba (SdE)
+  
