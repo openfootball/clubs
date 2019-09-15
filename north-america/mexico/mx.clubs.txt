@@ -4,14 +4,15 @@
 
 == Ciudad de México ==
 Club América, Ciudad de México
+  | América
 Cruz Azul,    Ciudad de México
 Pumas UNAM,   Ciudad de México
-  | U.N.A.M. Pumas | Club Universidad Nacional
+  | UNAM | UNAM Pumas | Club Universidad Nacional
 
 
 == Jalisco ==
 CD Guadalajara Chivas,   Guadalajara (Zapopan) › Jalisco     ## use Zapopan › Jalisco
-  | Guadalajara Chivas | CD Guadalajara
+  | Guadalajara | Guadalajara Chivas | CD Guadalajara
 Club Atlas,              Guadalajara › Jalisco
   | Atlas
 Leones Negros U. de G.,  Guadalajara › Jalisco    ## UdeG = Universidad de Guadalajara
@@ -21,7 +22,7 @@ Leones Negros U. de G.,  Guadalajara › Jalisco    ## UdeG = Universidad de Gua
 CF Monterrey,      Monterrey › Nuevo León
   | Monterrey
 Tigres UANL,       Monterrey › Nuevo León   ## 	San Nicolás de los Garza
-  | U.A.N.L. Tigres
+  | UANL | UANL Tigres
 
 == Puebla ==
 Lobos BUAP,         Puebla › Puebla  ##  BUAP = Benemérita Universidad Autónoma de Puebla
@@ -32,18 +33,20 @@ Club Puebla,        Puebla › Puebla
 == ??? ==
 
 Atlético San Luis,   San Luis Potosí › San Luis Potosí
-  | Atl. San Luis
+  | Atlético | Atl. San Luis
 Atlante FC,          Cancún › Quintana Roo
   | Atlante
 Jaguares Chiapas,    Tuxtla Gutiérrez › Chiapas   ##  Chiapas FC or Jaguares de Chiapas
   | Chiapas
 Club León,           León     › Guanajuato
+  | León
 Club Tijuana,        Tijuana  › Baja California
+  | Tijuana
 Dorados Sinaloa,     Culiacán › Sinaloa
   | Dorados de Sinaloa
 
 Monarcas Morelia,  Morelia › Michoacán
-  | Monarcas
+  | Monarcas | Morelia
 
 Club Necaxa,       Aguascalientes › Aguascalientes
   | Necaxa
@@ -52,6 +55,7 @@ CF Pachuca,        Pachuca › Hidalgo
 Querétaro FC,      Querétaro › Querétaro
   | Querétaro
 Santos Laguna,     Torreón › Coahuila
+  | Santos
 Deportivo Toluca FC,  Toluca › México
   | Toluca | Club Toluca
 
