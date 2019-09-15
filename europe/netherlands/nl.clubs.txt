@@ -18,7 +18,7 @@ Feyenoord Rotterdam, 1908,     Rotterdam › Zuid-Holland
   | Feyenoord
 
 Sparta Rotterdam,        Rotterdam › Zuid-Holland
-  | Sparta
+  | Sparta | Sparta R'dam
 SBV Excelsior Rotterdam, 1902,   Rotterdam › Zuid-Holland    ## use SBV Excelsior - why? why not?
   | Excelsior | SBV Excelsior | Stichting Betaald Voetbal Excelsior
 
