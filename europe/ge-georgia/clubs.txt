@@ -4,17 +4,29 @@
 
 FC Dinamo Tbilisi, Tbilisi
   | Dinamo Tbilisi
+FC Locomotive Tbilisi
+  | Locomotive Tbilisi
+
 
 FC Zestafoni
 FC Metalurgi Rustavi
+  | Metalurgi Rustavi
 FC Dila Gori
+  | Dila
 FC WIT Georgia
+  | WIT Georgia
 FC Gagra
 FC Torpedo Kutaisi
+  | Torpedo Kutaisi
 
 
 FC Chikhura Sachkhere
+  | Chikhura
 FC Samtredia
 FC Dinamo Batumi
+  | Dinamo Batumi
 FC Tskhinvali
 FC Sioni Bolnisi
+  | Sioni
+FC Saburtalo
+  | Saburtalo

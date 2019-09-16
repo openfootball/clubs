@@ -9,9 +9,19 @@ FC Aktobe
 FC Shakhter Karagandy
   | Shakhter
 FC Tobol Kostanay
+  | Tobol
 FC Irtysh Pavlodar
+  | Irtysh
 FC Ordabasy Shymkent
+  | Ordabasy
 FC Atyrau
+  | Atyrau
 FC Zhetysu Taldykorgan
+  | Zhetysu
 FC Okzhetpes Kokshetau
+  | Okzhetpes
 FC Kairat Almaty
+  | Kairat
+FC Kaysar Kyzylorda
+  | Kaysar
+FC Taraz

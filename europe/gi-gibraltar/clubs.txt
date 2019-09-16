@@ -5,11 +5,29 @@
 Lincoln FC
   | Lincoln Red Imps FC | Lincoln Red Imps
 Manchester 62 FC
+  | Manchester 62
 Lynx FC
+  | Lynx
 College Europa FC
-  | Europa FC
+  | Europa | Europa FC
+Europa Point FC
+  | Europa Point
+College 1975 FC
+  | College
+
 Glacis United FC
+  | Glacis
 Lions Gibraltar FC
+  | Lions Gibraltar
 St Joseph's FRAC
-  | St Joseph's FC
+  | St Joseph's | St Joseph's FC
 Gibraltar Phoenix FC
+
+FC Magpies
+  | Magpies
+Mons Calpe SC
+  | Mons Calpe
+Boca Juniors Gibraltar FC
+  | Boca Juniors
+FC Olympique
+  | Olympique

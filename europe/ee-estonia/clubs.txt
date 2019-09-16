@@ -7,11 +7,24 @@ FC Flora Tallinn
   | Flora
 FC TVMK Tallinn
 FCI Tallinn
+JK Tallinna Kalev
+  | Tallinna Kalev
+
 
 JK Trans Narva
-  | JK Narva Trans
+  | Trans | JK Narva Trans
 JK Nõmme Kalju
   | Kalju | Nõmme Kalju FC
 JK Sillamäe Kalev
 
 FC Santos Tartu
+JK Tammeka Tartu
+  | Tammeka
+
+Paide Linnameeskond
+  | Paide
+Tulevik
+FC Kuressaare
+  | Kuressaare
+Maardu Esteve
+  | Maardu

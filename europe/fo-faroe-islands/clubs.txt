@@ -2,12 +2,22 @@
 =  Faroe Islands (fo)
 
 HB Tórshavn
-  | Havnar Bóltfelag | Havnar Bóltfelag Tórshavn | HB
+  | HB | Havnar Bóltfelag | Havnar Bóltfelag Tórshavn
 B36 Tórshavn
   | B36
 EB/Streymur
 NSÍ Runavík
+  | NSÍ
 Víkingur
   | Vikingur
 ÍF Fuglafjørdur
+  | ÍF
 KÍ Klaksvík
+  | KÍ
+
+Skála ÍF
+  | Skála
+TB Tvøroyri
+  | TB
+AB Argir
+  | AB
