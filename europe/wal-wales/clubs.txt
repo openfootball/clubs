@@ -10,7 +10,7 @@ Bangor City FC
 Llanelli AFC
 Rhyl FC
 Cefn Druids AFC
-  | Cefn Druids
+  | Cefn Druids | NEWI Cefn Druids    ## NEWI = North East Wales Institute of Higher Education 
 Neath FC
 Port Talbot Town FC
 
