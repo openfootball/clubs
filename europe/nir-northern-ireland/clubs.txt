@@ -8,7 +8,7 @@ Institute FC,        Derry
 
 
 Linfield FC,    Belfast
-  | Linfield
+  | Linfield | FC Linfield
 Glentoran FC,   Belfast
   | Glentoran | Glentoran Belfast
 
