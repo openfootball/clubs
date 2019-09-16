@@ -5,7 +5,7 @@ FK RFS,  Riga
   | RFS | FK Rīgas Futbola Skola
   | JFK Olimps/RFS           ## todo/check where this name is (still/was) used ?
 Riga FC,         Riga
-  | Riga
+  | Riga | FC Riga
 FS METTA,        Riga
   | METTA | FS METTA/LU | FS METTA/Latvijas Universitāte
 
