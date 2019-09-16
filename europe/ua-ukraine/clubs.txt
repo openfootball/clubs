@@ -41,6 +41,7 @@ FC Mariupol
   | Mariupol
 FC Olexandriya
   | Olexandriya
+  | FC Oleksandriya
 FC Chornomorets Odesa
   | Chornomorets Odesa
 

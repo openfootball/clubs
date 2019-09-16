@@ -6,7 +6,7 @@ Bakı FK
 Neftçi PFK
   | Neftçi
 Qarabağ FK
-  | Qarabağ
+  | Qarabağ | Qarabağ Ağdam
 Xäzär Länkäran FK
 Olimpik-Şüvälan PFK
 Simurq PFK
