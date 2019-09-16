@@ -31,8 +31,6 @@ Hapoel Katamon Jerusalem FC,  Jerusalem
 Hapoel Beer-Sheva FC
   | H. Beer-Sheva
 
-H. Ramat Gan
-
 FC Ashdod,     Ashdod
   | Ashdod | FC Ironi Ashdod
 
@@ -73,7 +71,7 @@ Hapoel Nof HaGalil FC, Nof HaGalil
 Hapoel Petah Tikva FC, Petah Tikva
   | H. Petach Tikva | Hapoel Petah Tikva
 Hapoel Ramat Gan Giv'atayim FC,  Ramat Gan
-  | Hapoel Ramat Gan
+  | Hapoel Ramat Gan | H. Ramat Gan
 Hapoel Ramat HaSharon FC,   Ramat HaSharon
   | Hapoel Ramat HaSharon | I. Ramat Hasharon
 Hapoel Rishon LeZion FC, Rishon LeZion 
@@ -82,6 +80,4 @@ Hapoel Umm al-Fahm FC,   Umm al-Fahm
   | Hapoel Umm al-Fahm
 Maccabi Ahi Nazareth FC,   Nazareth
   | M. Ahi Nazareth | Maccabi Ahi Nazareth
-Maccabi Petah Tikva FC,  Petah Tikva
-  | Maccabi Petah Tikva
 
