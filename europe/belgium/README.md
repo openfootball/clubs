@@ -1,31 +1,31 @@
 35 clubs
 
-- [**RSC Anderlecht**](https://en.wikipedia.org/wiki/R.S.C._Anderlecht) : (3) Anderlecht · R.S.C. Anderlecht · Royal Sporting Club Anderlecht
+- [**RSC Anderlecht**](https://en.wikipedia.org/wiki/R.S.C._Anderlecht) : (2) Anderlecht · Royal Sporting Club Anderlecht
 - **FC Brussels**
 - **RWD Molenbeek** : (1) Molenbeek
-- [**Royal Antwerp FC**](https://en.wikipedia.org/wiki/Royal_Antwerp_F.C.) : (1) Antwerp
+- [**Royal Antwerp FC**](https://en.wikipedia.org/wiki/Royal_Antwerp_F.C.) : (4) Antwerp · R. Antwerpen · Royal Antwerp · Royal Antwerpen
 - **Germinal Beerschot** : (1) Germinal
-- [**KV Mechelen**](https://en.wikipedia.org/wiki/KV_Mechelen) : (2) Mechelen · Yellow Red Koninklijke Voetbalclub Mechelen
-- [**KVC Westerlo**](https://en.wikipedia.org/wiki/K.V.C._Westerlo) : (3) Westerlo · K.V.C. Westerlo · Koninklijke Voetbal Club Westerlo
+- [**KV Mechelen**](https://en.wikipedia.org/wiki/KV_Mechelen) : (3) Mechelen · YR KV Mechelen · Yellow Red Koninklijke Voetbalclub Mechelen
+- [**KVC Westerlo**](https://en.wikipedia.org/wiki/K.V.C._Westerlo) : (2) Westerlo · Koninklijke Voetbal Club Westerlo
 - **K Lierse SK** : (1) Lierse
-- [**KRC Genk**](https://en.wikipedia.org/wiki/K.R.C._Genk) : (3) Genk · K.R.C. Genk · Koninklijke Racing Club Genk
+- [**KRC Genk**](https://en.wikipedia.org/wiki/K.R.C._Genk) : (2) Genk · Koninklijke Racing Club Genk
 - [**Sint-Truidense VV**](https://en.wikipedia.org/wiki/Sint-Truidense_V.V.) : (4) St Truiden · Sint-Truiden · K. Sint-Truidense VV · Koninklijke Sint-Truidense Voetbalvereniging
-- [**KAA Gent**](https://en.wikipedia.org/wiki/K.A.A._Gent) : (3) Gent · K.A.A. Gent · Koninklijke Atletiek Associatie Gent
-- [**KSC Lokeren OV**](https://en.wikipedia.org/wiki/K.S.C._Lokeren_Oost-Vlaanderen) : (4) Lokeren · Sporting Lokeren · K.S.C. Lokeren Oost-Vlaanderen · Koninklijke Sporting Club Lokeren Oost-Vlaanderen
+- [**KAA Gent**](https://en.wikipedia.org/wiki/K.A.A._Gent) : (2) Gent · Koninklijke Atletiek Associatie Gent
+- [**KSC Lokeren OV**](https://en.wikipedia.org/wiki/K.S.C._Lokeren_Oost-Vlaanderen) : (4) Lokeren · Sporting Lokeren · KSC Lokeren Oost-Vlaanderen · Koninklijke Sporting Club Lokeren Oost-Vlaanderen
 - **SC Eendracht Aalst** : (1) Aalst
 - **FCV Dender EH** : (1) Dender
-- [**Waasland-Beveren**](https://en.wikipedia.org/wiki/Waasland-Beveren)
+- [**Waasland-Beveren**](https://en.wikipedia.org/wiki/Waasland-Beveren) : (1) Waasland-Bev
 - **KSK Beveren** : (1) Beveren
-- [**Club Brugge**](https://en.wikipedia.org/wiki/Club_Brugge_KV) : (2) Club Brugge KV · Club Brugge Koninklijke Voetbalvereniging
-- [**Cercle Brugge**](https://en.wikipedia.org/wiki/Cercle_Brugge_K.S.V.) : (3) Cercle Brugge KSV · Cercle Brugge K.S.V. · Cercle Brugge Koninklijke Sportvereniging
-- [**KV Kortrijk**](https://en.wikipedia.org/wiki/K.V._Kortrijk) : (3) Kortrijk · K.V. Kortrijk · Koninklijke Voetbalclub Kortrijk
-- [**KV Oostende**](https://en.wikipedia.org/wiki/K.V._Oostende) : (3) Oostende · K.V. Oostende · Koninklijke Voetbalclub Oostende
-- [**SV Zulte Waregem**](https://en.wikipedia.org/wiki/S.V._Zulte_Waregem) : (4) Waregem · Zulte Waregem · S.V. Zulte Waregem · Sportvereniging Zulte Waregem
+- [**Club Brugge**](https://en.wikipedia.org/wiki/Club_Brugge_KV) : (3) Club Brugge KV · Club Brügge [de] · Club Brugge Koninklijke Voetbalvereniging ⇒ (2) ≈Club Brugge≈ · ≈Club Bruegge≈
+- [**Cercle Brugge**](https://en.wikipedia.org/wiki/Cercle_Brugge_K.S.V.) : (2) Cercle Brugge KSV · Cercle Brugge Koninklijke Sportvereniging
+- [**KV Kortrijk**](https://en.wikipedia.org/wiki/K.V._Kortrijk) : (2) Kortrijk · Koninklijke Voetbalclub Kortrijk
+- [**KV Oostende**](https://en.wikipedia.org/wiki/K.V._Oostende) : (2) Oostende · Koninklijke Voetbalclub Oostende
+- [**SV Zulte Waregem**](https://en.wikipedia.org/wiki/S.V._Zulte_Waregem) : (3) Waregem · Zulte Waregem · Sportvereniging Zulte Waregem
 - [**Sporting Charleroi**](https://en.wikipedia.org/wiki/R._Charleroi_S.C.) : (4) Charleroi · R. Charleroi SC · Sporting de Charleroi · Royal Charleroi Sporting Club
-- [**Royal Excel Mouscron**](https://en.wikipedia.org/wiki/Royal_Excel_Mouscron) : (5) Mouscron · Mouscron-Peruwelz · Mouscron-Péruwelz · R. Mouscron-Péruwelz · Royal Mouscron-Péruwelz ⇒ (3) ≈Mouscron-Peruwelz≈ · ≈R. Mouscron-Peruwelz≈ · ≈Royal Mouscron-Peruwelz≈
+- [**Royal Excel Mouscron**](https://en.wikipedia.org/wiki/Royal_Excel_Mouscron) : (7) Mouscron · RE Mouscron · Excel Mouscron · Mouscron-Péruwelz · R. Excel Mouscron · R. Mouscron-Péruwelz · Royal Mouscron-Péruwelz ⇒ (3) ≈Mouscron-Peruwelz≈ · ≈R. Mouscron-Peruwelz≈ · ≈Royal Mouscron-Peruwelz≈
 - **RAEC Mons** : (1) Bergen
 - [**KAS Eupen**](https://en.wikipedia.org/wiki/K.A.S._Eupen) : (1) Eupen
-- [**Standard Liège**](https://en.wikipedia.org/wiki/Standard_Liège) : (5) Standard · Standard Liege · Standard de Liège · R. Standard de Liège · Royal Standard de Liège ⇒ (4) ≈Standard Liege≈ · ≈Standard de Liege≈ · ≈R. Standard de Liege≈ · ≈Royal Standard de Liege≈
+- [**Standard Liège**](https://en.wikipedia.org/wiki/Standard_Liège) : (5) Standard · Standard de Liège · R. Standard de Liège · Standard Lüttich [de] · Royal Standard de Liège ⇒ (6) ≈Standard Liege≈ · ≈Standard Luttich≈ · ≈Standard de Liege≈ · ≈Standard Luettich≈ · ≈R. Standard de Liege≈ · ≈Royal Standard de Liege≈
 - **KFC Verbroedering Geel** : (1) Geel
 - **KRC Harelbeke** : (1) Harelbeke
 - **K Heusden-Zolder** : (1) Heusden Zolder
@@ -41,35 +41,18 @@
 
 Alphabet
 
-- **Alphabet Specials** (2):  **è**  **é** 
+- **Alphabet Specials** (3):  **è**  **é**  **ü** 
   - **è**×4 U+00E8 (232) - LATIN SMALL LETTER E WITH GRAVE ⇒ e
   - **é**×4 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
+  - **ü**×2 U+00FC (252) - LATIN SMALL LETTER U WITH DIAERESIS ⇒ u•ue
 
 
 
 
 Duplicates
 
-- **RSC Anderlecht**, Brussels (1):
-  - `rscanderlecht` (2): RSC Anderlecht · R.S.C. Anderlecht
-- **KVC Westerlo**, Westerlo (1):
-  - `kvcwesterlo` (2): KVC Westerlo · K.V.C. Westerlo
-- **KRC Genk**, Genk (1):
-  - `krcgenk` (2): KRC Genk · K.R.C. Genk
-- **KAA Gent**, Gent (1):
-  - `kaagent` (2): KAA Gent · K.A.A. Gent
-- **Cercle Brugge**, Brugge (1):
-  - `cerclebruggeksv` (2): Cercle Brugge KSV · Cercle Brugge K.S.V.
-- **KV Kortrijk**, Kortrijk (1):
-  - `kvkortrijk` (2): KV Kortrijk · K.V. Kortrijk
-- **KV Oostende**, Oostende (1):
-  - `kvoostende` (2): KV Oostende · K.V. Oostende
-- **SV Zulte Waregem**, Waregem (1):
-  - `svzultewaregem` (2): SV Zulte Waregem · S.V. Zulte Waregem
-- **Royal Excel Mouscron**, Mouscron (1):
-  - `mouscronperuwelz` (2): **Mouscron-Peruwelz** · **Mouscron-Peruwelz**
-- **Standard Liège**, Liège (1):
-  - `standardliege` (2): **Standard Liege** · **Standard Liege**
+- **Club Brugge**, Brugge (1):
+  - `clubbrugge` (2): **Club Brugge** · **Club Brugge**
 
 
 
@@ -77,44 +60,44 @@ Duplicates
 By City
 
 - **Brussels, Brussels** (3): 
-  - RSC Anderlecht  (3) Anderlecht · R.S.C. Anderlecht · Royal Sporting Club Anderlecht
+  - RSC Anderlecht  (2) Anderlecht · Royal Sporting Club Anderlecht
   - FC Brussels 
   - RWD Molenbeek  (1) Molenbeek
 - **Antwerpen, Antwerpen › Vlaanderen** (2): 
-  - Royal Antwerp FC  (1) Antwerp
+  - Royal Antwerp FC  (4) Antwerp · Royal Antwerp · R. Antwerpen · Royal Antwerpen
   - Germinal Beerschot  (1) Germinal
 - **Beveren, Oost-Vlaanderen › Vlaanderen** (2): 
-  - Waasland-Beveren 
+  - Waasland-Beveren  (1) Waasland-Bev
   - KSK Beveren  (1) Beveren
 - **Brugge, West-Vlaanderen › Vlaanderen** (2): 
-  - Club Brugge  (2) Club Brugge KV · Club Brugge Koninklijke Voetbalvereniging
-  - Cercle Brugge  (3) Cercle Brugge KSV · Cercle Brugge K.S.V. · Cercle Brugge Koninklijke Sportvereniging
+  - Club Brugge  (3) Club Brugge KV · Club Brugge Koninklijke Voetbalvereniging · Club Brügge [de]
+  - Cercle Brugge  (2) Cercle Brugge KSV · Cercle Brugge Koninklijke Sportvereniging
 - **Aalst, Oost-Vlaanderen › Vlaanderen** (1): SC Eendracht Aalst  (1) Aalst
 - **Charleroi, Hainaut › Wallonie** (1): Sporting Charleroi  (4) Charleroi · R. Charleroi SC · Royal Charleroi Sporting Club · Sporting de Charleroi
 - **Denderleeuw, Oost-Vlaanderen › Vlaanderen** (1): FCV Dender EH  (1) Dender
 - **Eupen, Liège › Wallonie** (1): KAS Eupen  (1) Eupen
 - **Geel** (1): KFC Verbroedering Geel  (1) Geel
-- **Genk, Limburg › Vlaanderen** (1): KRC Genk  (3) Genk · K.R.C. Genk · Koninklijke Racing Club Genk
-- **Gent, Oost-Vlaanderen › Vlaanderen** (1): KAA Gent  (3) Gent · K.A.A. Gent · Koninklijke Atletiek Associatie Gent
+- **Genk, Limburg › Vlaanderen** (1): KRC Genk  (2) Genk · Koninklijke Racing Club Genk
+- **Gent, Oost-Vlaanderen › Vlaanderen** (1): KAA Gent  (2) Gent · Koninklijke Atletiek Associatie Gent
 - **Harelbeke** (1): KRC Harelbeke  (1) Harelbeke
 - **Heusden-Zolder** (1): K Heusden-Zolder  (1) Heusden Zolder
-- **Kortrijk, West-Vlaanderen › Vlaanderen** (1): KV Kortrijk  (3) Kortrijk · K.V. Kortrijk · Koninklijke Voetbalclub Kortrijk
+- **Kortrijk, West-Vlaanderen › Vlaanderen** (1): KV Kortrijk  (2) Kortrijk · Koninklijke Voetbalclub Kortrijk
 - **La Louvière** (1): RAA Louviéroise  (1) Louvieroise
 - **Leuven** (1): Oud-Heverlee Leuven  (2) Leuven · OH Leuven
 - **Lier, Antwerpen › Vlaanderen** (1): K Lierse SK  (1) Lierse
-- **Liège, Liège › Wallonie** (1): Standard Liège  (5) Standard · Standard Liege · R. Standard de Liège · Royal Standard de Liège · Standard de Liège
-- **Lokeren, Oost-Vlaanderen › Vlaanderen** (1): KSC Lokeren OV  (4) Lokeren · Sporting Lokeren · K.S.C. Lokeren Oost-Vlaanderen · Koninklijke Sporting Club Lokeren Oost-Vlaanderen
+- **Liège, Liège › Wallonie** (1): Standard Liège  (5) Standard · R. Standard de Liège · Royal Standard de Liège · Standard de Liège · Standard Lüttich [de]
+- **Lokeren, Oost-Vlaanderen › Vlaanderen** (1): KSC Lokeren OV  (4) Lokeren · Sporting Lokeren · KSC Lokeren Oost-Vlaanderen · Koninklijke Sporting Club Lokeren Oost-Vlaanderen
 - **Lommel** (1): KFC Lommel SK  (1) Lommel
-- **Mechelen, Antwerpen › Vlaanderen** (1): KV Mechelen  (2) Mechelen · Yellow Red Koninklijke Voetbalclub Mechelen
+- **Mechelen, Antwerpen › Vlaanderen** (1): KV Mechelen  (3) Mechelen · YR KV Mechelen · Yellow Red Koninklijke Voetbalclub Mechelen
 - **Mons, Hainaut › Wallonie** (1): RAEC Mons  (1) Bergen
-- **Mouscron, Hainaut › Wallonie** (1): Royal Excel Mouscron  (5) Mouscron · Mouscron-Peruwelz · Mouscron-Péruwelz · R. Mouscron-Péruwelz · Royal Mouscron-Péruwelz
-- **Oostende, West-Vlaanderen › Vlaanderen** (1): KV Oostende  (3) Oostende · K.V. Oostende · Koninklijke Voetbalclub Oostende
+- **Mouscron, Hainaut › Wallonie** (1): Royal Excel Mouscron  (7) Mouscron · Mouscron-Péruwelz · RE Mouscron · Excel Mouscron · R. Excel Mouscron · R. Mouscron-Péruwelz · Royal Mouscron-Péruwelz
+- **Oostende, West-Vlaanderen › Vlaanderen** (1): KV Oostende  (2) Oostende · Koninklijke Voetbalclub Oostende
 - **Roeselare** (1): KSV Roeselare  (1) Roeselare
 - **Seraing** (1): RFC Seraing  (1) Seraing
 - **Sint-Truiden, Limburg › Vlaanderen** (1): Sint-Truidense VV  (4) St Truiden · Sint-Truiden · K. Sint-Truidense VV · Koninklijke Sint-Truidense Voetbalvereniging
 - **Tubize** (1): AFC Tubize  (1) Tubize
-- **Waregem, West-Vlaanderen › Vlaanderen** (1): SV Zulte Waregem  (4) Waregem · Zulte Waregem · S.V. Zulte Waregem · Sportvereniging Zulte Waregem
-- **Westerlo, Antwerpen › Vlaanderen** (1): KVC Westerlo  (3) Westerlo · K.V.C. Westerlo · Koninklijke Voetbal Club Westerlo
+- **Waregem, West-Vlaanderen › Vlaanderen** (1): SV Zulte Waregem  (3) Waregem · Zulte Waregem · Sportvereniging Zulte Waregem
+- **Westerlo, Antwerpen › Vlaanderen** (1): KVC Westerlo  (2) Westerlo · Koninklijke Voetbal Club Westerlo
 
 
 
@@ -170,21 +153,21 @@ By A to Z
 
 - **A** (4): Aalst · Antwerp · AFC Tubize · Anderlecht
 - **B** (2): Bergen · Beveren
-- **C** (8): Charleroi · Club Brugge · Cercle Brugge · Club Brugge KV · Cercle Brugge KSV · Cercle Brugge K.S.V. · Cercle Brugge Koninklijke Sportvereniging · Club Brugge Koninklijke Voetbalvereniging
+- **C** (8): Charleroi · Club Brugge · Cercle Brugge · Club Brugge KV · Club Brügge [de] · Cercle Brugge KSV · Cercle Brugge Koninklijke Sportvereniging · Club Brugge Koninklijke Voetbalvereniging
 - **D** (1): Dender
-- **E** (1): Eupen
+- **E** (2): Eupen · Excel Mouscron
 - **F** (2): FC Brussels · FCV Dender EH
 - **G** (5): Geel · Genk · Gent · Germinal · Germinal Beerschot
 - **H** (2): Harelbeke · Heusden Zolder
-- **K** (30): KAA Gent · KRC Genk · Kortrijk · KAS Eupen · K Lierse SK · K.A.A. Gent · K.R.C. Genk · KSK Beveren · KV Kortrijk · KV Mechelen · KV Oostende · KVC Westerlo · K.V. Kortrijk · K.V. Oostende · KFC Lommel SK · KRC Harelbeke · KSV Roeselare · KSC Lokeren OV · K.V.C. Westerlo · K Heusden-Zolder · K. Sint-Truidense VV · KFC Verbroedering Geel · Koninklijke Racing Club Genk · K.S.C. Lokeren Oost-Vlaanderen · Koninklijke Voetbalclub Kortrijk · Koninklijke Voetbalclub Oostende · Koninklijke Voetbal Club Westerlo · Koninklijke Atletiek Associatie Gent · Koninklijke Sint-Truidense Voetbalvereniging · Koninklijke Sporting Club Lokeren Oost-Vlaanderen
+- **K** (25): KAA Gent · KRC Genk · Kortrijk · KAS Eupen · K Lierse SK · KSK Beveren · KV Kortrijk · KV Mechelen · KV Oostende · KVC Westerlo · KFC Lommel SK · KRC Harelbeke · KSV Roeselare · KSC Lokeren OV · K Heusden-Zolder · K. Sint-Truidense VV · KFC Verbroedering Geel · KSC Lokeren Oost-Vlaanderen · Koninklijke Racing Club Genk · Koninklijke Voetbalclub Kortrijk · Koninklijke Voetbalclub Oostende · Koninklijke Voetbal Club Westerlo · Koninklijke Atletiek Associatie Gent · Koninklijke Sint-Truidense Voetbalvereniging · Koninklijke Sporting Club Lokeren Oost-Vlaanderen
 - **L** (5): Leuven · Lierse · Lommel · Lokeren · Louvieroise
-- **M** (5): Mechelen · Mouscron · Molenbeek · Mouscron-Peruwelz · Mouscron-Péruwelz
+- **M** (4): Mechelen · Mouscron · Molenbeek · Mouscron-Péruwelz
 - **O** (3): Oostende · OH Leuven · Oud-Heverlee Leuven
-- **R** (16): RAEC Mons · Roeselare · RFC Seraing · RWD Molenbeek · RSC Anderlecht · R. Charleroi SC · RAA Louviéroise · Royal Antwerp FC · R.S.C. Anderlecht · R. Mouscron-Péruwelz · R. Standard de Liège · Royal Excel Mouscron · Royal Mouscron-Péruwelz · Royal Standard de Liège · Royal Charleroi Sporting Club · Royal Sporting Club Anderlecht
-- **S** (15): Seraing · Standard · St Truiden · Sint-Truiden · Standard Liege · Standard Liège · SV Zulte Waregem · Sporting Lokeren · Sint-Truidense VV · Standard de Liège · S.V. Zulte Waregem · SC Eendracht Aalst · Sporting Charleroi · Sporting de Charleroi · Sportvereniging Zulte Waregem
+- **R** (20): RAEC Mons · Roeselare · RE Mouscron · RFC Seraing · R. Antwerpen · RWD Molenbeek · Royal Antwerp · RSC Anderlecht · R. Charleroi SC · RAA Louviéroise · Royal Antwerpen · Royal Antwerp FC · R. Excel Mouscron · R. Mouscron-Péruwelz · R. Standard de Liège · Royal Excel Mouscron · Royal Mouscron-Péruwelz · Royal Standard de Liège · Royal Charleroi Sporting Club · Royal Sporting Club Anderlecht
+- **S** (14): Seraing · Standard · St Truiden · Sint-Truiden · Standard Liège · SV Zulte Waregem · Sporting Lokeren · Sint-Truidense VV · Standard de Liège · SC Eendracht Aalst · Sporting Charleroi · Sporting de Charleroi · Standard Lüttich [de] · Sportvereniging Zulte Waregem
 - **T** (1): Tubize
-- **W** (3): Waregem · Westerlo · Waasland-Beveren
-- **Y** (1): Yellow Red Koninklijke Voetbalclub Mechelen
+- **W** (4): Waregem · Westerlo · Waasland-Bev · Waasland-Beveren
+- **Y** (2): YR KV Mechelen · Yellow Red Koninklijke Voetbalclub Mechelen
 - **Z** (1): Zulte Waregem
 
 

@@ -6,22 +6,22 @@
 - **Omiya Ardija**
 - [**Cerezo Osaka**](https://en.wikipedia.org/wiki/Cerezo_Osaka) : (1) C-Osaka
 - [**Gamba Osaka**](https://en.wikipedia.org/wiki/Gamba_Osaka) : (1) G-Osaka
-- [**Yokohama F. Marinos**](https://en.wikipedia.org/wiki/Yokohama_F._Marinos) : (2) Yokohama · Yokohama M.
-- [**Kawasaki Frontale**](https://en.wikipedia.org/wiki/Kawasaki_Frontale)
-- [**Nagoya Grampus**](https://en.wikipedia.org/wiki/Nagoya_Grampus) : (1) Nagoya
+- [**Yokohama F. Marinos**](https://en.wikipedia.org/wiki/Yokohama_F._Marinos) : (3) Marinos · Yokohama · Yokohama M.
+- [**Kawasaki Frontale**](https://en.wikipedia.org/wiki/Kawasaki_Frontale) : (1) Kawa Frontale
+- [**Nagoya Grampus**](https://en.wikipedia.org/wiki/Nagoya_Grampus) : (2) Nagoya · Grampus
 - [**Júbilo Iwata**](https://en.wikipedia.org/wiki/Júbilo_Iwata) : (1) Iwata ⇒ (1) ≈Jubilo Iwata≈
-- [**Urawa Red Diamonds**](https://en.wikipedia.org/wiki/Urawa_Red_Diamonds) : (1) Urawa
+- [**Urawa Red Diamonds**](https://en.wikipedia.org/wiki/Urawa_Red_Diamonds) : (3) Urawa · Urawa RD · Urawa Reds
 - **Kashiwa Reysol** : (1) Kashiwa
-- [**Shimizu S-Pulse**](https://en.wikipedia.org/wiki/Shimizu_S-Pulse) : (1) Shimizu
+- [**Shimizu S-Pulse**](https://en.wikipedia.org/wiki/Shimizu_S-Pulse) : (2) Shimizu · S-Pulse
 - [**Sagan Tosu**](https://en.wikipedia.org/wiki/Sagan_Tosu)
-- [**Sanfrecce Hiroshima**](https://en.wikipedia.org/wiki/Sanfrecce_Hiroshima) : (1) Hiroshima
+- [**Sanfrecce Hiroshima**](https://en.wikipedia.org/wiki/Sanfrecce_Hiroshima) : (3) Hiroshima · Sanfrecce · Sanfr. Hiroshima
 - [**Vegalta Sendai**](https://en.wikipedia.org/wiki/Vegalta_Sendai)
-- [**Hokkaido Consadole Sapporo**](https://en.wikipedia.org/wiki/Consadole_Sapporo) : (2) Sapporo · Consadole Sapporo
+- [**Hokkaido Consadole Sapporo**](https://en.wikipedia.org/wiki/Consadole_Sapporo) : (4) Sapporo · Consa Sapporo · Consadole Sapporo · Hokkaido Consadole
 - **Avispa Fukuoka**
 - [**Matsumoto Yamaga**](https://en.wikipedia.org/wiki/Matsumoto_Yamaga) : (1) Yamaga
 - [**Vissel Kobe**](https://en.wikipedia.org/wiki/Vissel_Kobe) : (1) Kobe
 - **V-Varen Nagasaki**
-- [**Kashima Antlers**](https://en.wikipedia.org/wiki/Kashima_Antlers) : (1) Kashima
+- [**Kashima Antlers**](https://en.wikipedia.org/wiki/Kashima_Antlers) : (2) Kashima · Kashima A.
 - [**Oita Trinita**](https://en.wikipedia.org/wiki/Oita_Trinita) : (1) Oita
 - [**Shonan Bellmare**](https://en.wikipedia.org/wiki/Shonan_Bellmare) : (1) Shonan
 - **Ventforet Kofu** : (1) Kofu
@@ -51,26 +51,26 @@ By City
   - FC Tokyo  (1) Tokyo
   - Tokyo Verdy  (1) Verdy
 - **Hakata, Fukuoka** (1): Avispa Fukuoka 
-- **Hiroshima, Hiroshima** (1): Sanfrecce Hiroshima  (1) Hiroshima
+- **Hiroshima, Hiroshima** (1): Sanfrecce Hiroshima  (3) Hiroshima · Sanfrecce · Sanfr. Hiroshima
 - **Iwata, Shizuoka** (1): Júbilo Iwata  (1) Iwata
 - **Kashiwa, Chiba** (1): Kashiwa Reysol  (1) Kashiwa
-- **Kawasaki, Kanagawa** (1): Kawasaki Frontale 
+- **Kawasaki, Kanagawa** (1): Kawasaki Frontale  (1) Kawa Frontale
 - **Matsumoto, Nagano** (1): Matsumoto Yamaga  (1) Yamaga
 - **Miyagi** (1): Vegalta Sendai 
-- **Nagoya, Aichi** (1): Nagoya Grampus  (1) Nagoya
+- **Nagoya, Aichi** (1): Nagoya Grampus  (2) Nagoya · Grampus
 - **Niigata & Seiro, Niigata** (1): Albirex Niigata 
 - **Omiya, Saitama** (1): Omiya Ardija 
 - **Osaka, Osaka** (1): Cerezo Osaka  (1) C-Osaka
-- **Sapporo, Hokkaido** (1): Hokkaido Consadole Sapporo  (2) Sapporo · Consadole Sapporo
-- **Shizuoka, Shizuoka** (1): Shimizu S-Pulse  (1) Shimizu
+- **Sapporo, Hokkaido** (1): Hokkaido Consadole Sapporo  (4) Sapporo · Consa Sapporo · Consadole Sapporo · Hokkaido Consadole
+- **Shizuoka, Shizuoka** (1): Shimizu S-Pulse  (2) Shimizu · S-Pulse
 - **Suita, Osaka** (1): Gamba Osaka  (1) G-Osaka
 - **Tosu, Saga** (1): Sagan Tosu 
-- **Urawa, Saitama** (1): Urawa Red Diamonds  (1) Urawa
-- **Yokohama & Yokosuka, Kanagawa** (1): Yokohama F. Marinos  (2) Yokohama · Yokohama M.
+- **Urawa, Saitama** (1): Urawa Red Diamonds  (3) Urawa · Urawa RD · Urawa Reds
+- **Yokohama & Yokosuka, Kanagawa** (1): Yokohama F. Marinos  (3) Yokohama · Yokohama M. · Marinos
 - ? (8): 
   - Vissel Kobe  (1) Kobe
   - V-Varen Nagasaki 
-  - Kashima Antlers  (1) Kashima
+  - Kashima Antlers  (2) Kashima · Kashima A.
   - Oita Trinita  (1) Oita
   - Shonan Bellmare  (1) Shonan
   - Ventforet Kofu  (1) Kofu
@@ -112,19 +112,19 @@ By Year
 By A to Z
 
 - **A** (2): Avispa Fukuoka · Albirex Niigata
-- **C** (3): C-Osaka · Cerezo Osaka · Consadole Sapporo
+- **C** (4): C-Osaka · Cerezo Osaka · Consa Sapporo · Consadole Sapporo
 - **F** (1): FC Tokyo
-- **G** (2): G-Osaka · Gamba Osaka
-- **H** (2): Hiroshima · Hokkaido Consadole Sapporo
+- **G** (3): G-Osaka · Grampus · Gamba Osaka
+- **H** (3): Hiroshima · Hokkaido Consadole · Hokkaido Consadole Sapporo
 - **I** (1): Iwata
 - **J** (1): Júbilo Iwata
-- **K** (7): Kobe · Kofu · Kashima · Kashiwa · Kashiwa Reysol · Kashima Antlers · Kawasaki Frontale
-- **M** (2): Matsumoto Yamaga · Montedio Yamagata
+- **K** (9): Kobe · Kofu · Kashima · Kashiwa · Kashima A. · Kawa Frontale · Kashiwa Reysol · Kashima Antlers · Kawasaki Frontale
+- **M** (3): Marinos · Matsumoto Yamaga · Montedio Yamagata
 - **N** (2): Nagoya · Nagoya Grampus
 - **O** (3): Oita · Oita Trinita · Omiya Ardija
-- **S** (7): Shonan · Sapporo · Shimizu · Sagan Tosu · Shimizu S-Pulse · Shonan Bellmare · Sanfrecce Hiroshima
+- **S** (10): Shonan · S-Pulse · Sapporo · Shimizu · Sanfrecce · Sagan Tosu · Shimizu S-Pulse · Shonan Bellmare · Sanfr. Hiroshima · Sanfrecce Hiroshima
 - **T** (4): Tokyo · Tokushima · Tokyo Verdy · Tokushima Vortis
-- **U** (2): Urawa · Urawa Red Diamonds
+- **U** (4): Urawa · Urawa RD · Urawa Reds · Urawa Red Diamonds
 - **V** (5): Verdy · Vissel Kobe · Vegalta Sendai · Ventforet Kofu · V-Varen Nagasaki
 - **Y** (4): Yamaga · Yokohama · Yokohama M. · Yokohama F. Marinos
 

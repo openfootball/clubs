@@ -3,7 +3,7 @@
 - **AIK** : (2) AIK Fotboll · Allmänna Idrottsklubben ⇒ (2) ≈Allmanna Idrottsklubben≈ · ≈Allmaenna Idrottsklubben≈
 - **IF Brommapojkarna** : (1) Brommapojkarna
 - **Djurgårdens IF** : (2) Djurgården · Djurgarden ⇒ (2) ≈Djurgarden≈ · ≈Djurgardens IF≈
-- **Hammarby IF** : (1) Hammarby
+- **Hammarby IF** : (2) Hammarby · Hammarby Fotboll
 - **IFK Göteborg** : (4) Göteborg · Goteborg · IFK Goteborg · Idrottsföreningen Kamraterna Göteborg ⇒ (6) ≈Goteborg≈ · ≈Goeteborg≈ · ≈IFK Goteborg≈ · ≈IFK Goeteborg≈ · ≈Idrottsforeningen Kamraterna Goteborg≈ · ≈Idrottsfoereningen Kamraterna Goeteborg≈
 - **GAIS** : (2) Gais · Göteborgs Atlet- och Idrottssällskap ⇒ (2) ≈Goteborgs Atlet- och Idrottssallskap≈ · ≈Goeteborgs Atlet- och Idrottssaellskap≈
 - **BK Häcken** : (3) Hacken · Häcken · Bollklubben Häcken ⇒ (6) ≈Hacken≈ · ≈Haecken≈ · ≈BK Hacken≈ · ≈BK Haecken≈ · ≈Bollklubben Hacken≈ · ≈Bollklubben Haecken≈
@@ -13,7 +13,7 @@
 - **Kalmar FF** : (1) Kalmar
 - **Örebro SK** : (3) Örebro · Orebro · Örebro Sportklubb ⇒ (6) ≈Orebro≈ · ≈OErebro≈ · ≈Orebro SK≈ · ≈OErebro SK≈ · ≈Orebro Sportklubb≈ · ≈OErebro Sportklubb≈
 - **Gefle IF** : (1) Gefle
-- **AFC Eskilstuna**
+- **AFC Eskilstuna** : (1) Eskilstuna
 - **Mjällby AIF** : (1) Mjallby ⇒ (2) ≈Mjallby AIF≈ · ≈Mjaellby AIF≈
 - **Åtvidabergs FF** : (5) ÅFF · Åtvid · Åtvidaberg · Atvidabergs · Åtvidabergs Fotbollförening ⇒ (6) ≈AFF≈ · ≈Atvid≈ · ≈Atvidaberg≈ · ≈Atvidabergs FF≈ · ≈Atvidabergs Fotbollforening≈ · ≈Åtvidabergs Fotbollfoerening≈
 - **Dalkurd FF** : (1) Dalkurd
@@ -71,7 +71,7 @@ By City
   - AIK  (2) AIK Fotboll · Allmänna Idrottsklubben
   - IF Brommapojkarna  (1) Brommapojkarna
   - Djurgårdens IF  (2) Djurgården · Djurgarden
-  - Hammarby IF  (1) Hammarby
+  - Hammarby IF  (2) Hammarby · Hammarby Fotboll
 - **Göteborg** (3): 
   - IFK Göteborg  (4) Göteborg · Goteborg · IFK Goteborg · Idrottsföreningen Kamraterna Göteborg
   - GAIS  (2) Gais · Göteborgs Atlet- och Idrottssällskap
@@ -80,7 +80,7 @@ By City
   - Dalkurd FF  (1) Dalkurd
   - IK Sirius  (1) Sirius
 - **Borås** (1): IF Elfsborg  (1) Elfsborg
-- **Eskilstuna** (1): AFC Eskilstuna 
+- **Eskilstuna** (1): AFC Eskilstuna  (1) Eskilstuna
 - **Falkenberg** (1): Falkenbergs FF  (1) Falkenbergs
 - **Gävle** (1): Gefle IF  (1) Gefle
 - **Halmstad** (1): Halmstads BK  (2) Halmstad · Halmstads Bollklubb
@@ -144,10 +144,10 @@ By A to Z
 - **A** (5): AIK · AIK Fotboll · Atvidabergs · AFC Eskilstuna · Allmänna Idrottsklubben
 - **B** (3): BK Häcken · Brommapojkarna · Bollklubben Häcken
 - **D** (5): Dalkurd · Dalkurd FF · Djurgarden · Djurgården · Djurgårdens IF
-- **E** (1): Elfsborg
+- **E** (2): Elfsborg · Eskilstuna
 - **F** (2): Falkenbergs · Falkenbergs FF
 - **G** (8): GAIS · Gais · Gefle · Gefle IF · Goteborg · Göteborg · GIF Sundsvall · Göteborgs Atlet- och Idrottssällskap
-- **H** (9): Hacken · Häcken · Halmstad · Hammarby · Hammarby IF · Helsingborg · Halmstads BK · Helsingborgs IF · Halmstads Bollklubb
+- **H** (10): Hacken · Häcken · Halmstad · Hammarby · Hammarby IF · Helsingborg · Halmstads BK · Helsingborgs IF · Hammarby Fotboll · Halmstads Bollklubb
 - **I** (8): IK Sirius · IF Elfsborg · IFK Goteborg · IFK Göteborg · IFK Norrköping · IF Brommapojkarna · IFK Norrköping FK · Idrottsföreningen Kamraterna Göteborg
 - **J** (2): Jonkopings · Jönköpings Södra IF
 - **K** (2): Kalmar · Kalmar FF

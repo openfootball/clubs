@@ -2,7 +2,7 @@
 
 - [**Montreal Impact**](https://en.wikipedia.org/wiki/Montreal_Impact) : (4) Montreal · Montreal I. · Impact Montréal · Impact de Montréal ⇒ (2) ≈Impact Montreal≈ · ≈Impact de Montreal≈
 - [**Toronto FC**](https://en.wikipedia.org/wiki/Toronto_FC) : (2) TFC · Toronto
-- [**Vancouver Whitecaps FC**](https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC) : (2) Vancouver · Vancouver Whitecaps
+- [**Vancouver Whitecaps FC**](https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC) : (3) Vancouver · Vancouver W'caps · Vancouver Whitecaps
 
 
 
@@ -25,7 +25,7 @@ By City
 
 - **Montréal, Quebec** (1): Montreal Impact  (4) Montreal · Montreal I. · Impact Montréal · Impact de Montréal
 - **Toronto, Ontario** (1): Toronto FC  (2) Toronto · TFC
-- **Vancouver, British Columbia** (1): Vancouver Whitecaps FC  (2) Vancouver · Vancouver Whitecaps
+- **Vancouver, British Columbia** (1): Vancouver Whitecaps FC  (3) Vancouver · Vancouver W'caps · Vancouver Whitecaps
 
 
 
@@ -55,7 +55,7 @@ By A to Z
 - **I** (2): Impact Montréal · Impact de Montréal
 - **M** (3): Montreal · Montreal I. · Montreal Impact
 - **T** (3): TFC · Toronto · Toronto FC
-- **V** (3): Vancouver · Vancouver Whitecaps · Vancouver Whitecaps FC
+- **V** (4): Vancouver · Vancouver W'caps · Vancouver Whitecaps · Vancouver Whitecaps FC
 
 
 

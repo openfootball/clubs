@@ -11,7 +11,7 @@
 - **FC Lahti** : (1) Lahti
 - **JJK Jyväskylä** : (2) JJK · JJK Jyvaskyla ⇒ (2) ≈JJK Jyvaskyla≈ · ≈JJK Jyvaeskylae≈
 - **Tampere United**
-- **FC Ilves** : (2) Ilves · Ilves Tampere
+- **FC Ilves** : (3) Ilves · Ilves Tampere · Tampereen Ilves [de]
 - **IFK Mariehamn** : (1) Mariehamn
 - **KPV Kokkola** : (2) KPV · Kokkolan Palloveikot
 - **Rovaniemen Palloseura** : (3) RoPS · Rovaniemi · RoPS Rovaniemi
@@ -53,7 +53,7 @@ By City
   - HIFK Helsinki  (3) HIFK Fotboll · IFK Helsingfors · HIFK
 - **Tampere** (2): 
   - Tampere United 
-  - FC Ilves  (2) Ilves · Ilves Tampere
+  - FC Ilves  (3) Ilves · Ilves Tampere · Tampereen Ilves [de]
 - **Turku** (2): 
   - FC Inter Turku  (2) FC Inter · Inter Turku
   - TPS Turku  (1) TPS
@@ -123,7 +123,7 @@ By A to Z
 - **P** (5): PK-35 · PS Kemi · PK-35 Vantaa · Pallokerho-35 · Palloseura Kemi Kings
 - **R** (4): RoPS · Rovaniemi · RoPS Rovaniemi · Rovaniemen Palloseura
 - **S** (3): SJK · SJK Seinäjoki · Seinäjoen Jalkapallokerho
-- **T** (3): TPS · TPS Turku · Tampere United
+- **T** (4): TPS · TPS Turku · Tampere United · Tampereen Ilves [de]
 - **V** (4): VPS · VPS Vaasa · Vaasan Palloseura · Valkeakosken Haka
 
 

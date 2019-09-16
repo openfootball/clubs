@@ -8,7 +8,7 @@
 - **YoungHeart Manawatu**
 - **Canterbury United**
 - **Otago United**
-- **Wellington Phoenix**
+- **Wellington Phoenix** : (1) Wellington
 
 
 
@@ -33,7 +33,7 @@ By City
   - Waitakere United 
 - **Wellington, Wellington › North Island** (2): 
   - Team Wellington 
-  - Wellington Phoenix 
+  - Wellington Phoenix  (1) Wellington
 - **Christchurch, Canterbury › South Island** (1): Canterbury United 
 - **Dunedin, Otago › South Island** (1): Otago United 
 - **Hamilton, Waikato › North Island** (1): Waikato FC 
@@ -72,7 +72,7 @@ By A to Z
 - **H** (1): Hawke's Bay United
 - **O** (1): Otago United
 - **T** (1): Team Wellington
-- **W** (3): Waikato FC · Waitakere United · Wellington Phoenix
+- **W** (4): Waikato FC · Wellington · Waitakere United · Wellington Phoenix
 - **Y** (1): YoungHeart Manawatu
 
 

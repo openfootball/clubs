@@ -1,10 +1,10 @@
 53 clubs
 
-- [**Fenerbahçe İstanbul SK**](https://en.wikipedia.org/wiki/Fenerbahçe_S.K._(football)) : (4) Fenerbahçe · Fenerbahçe SK · Fenerbahçe Spor Kulübü · Fenerbahçe Sports Club ⇒ (6) ≈Fenerbahce≈ · ≈Fenerbahce SK≈ · ≈Fenerbahce Spor Kulubu≈ · ≈Fenerbahce Istanbul SK≈ · ≈Fenerbahce Sports Club≈ · ≈Fenerbahçe Spor Kuluebue≈
+- [**Fenerbahçe İstanbul SK**](https://en.wikipedia.org/wiki/Fenerbahçe_S.K._(football)) : (5) Fenerbahçe · Fenerbahçe SK · Fenerbahçe İstanbul · Fenerbahçe Sports Club · Fenerbahçe Spor Kulübü ⇒ (7) ≈Fenerbahce≈ · ≈Fenerbahce SK≈ · ≈Fenerbahce Istanbul≈ · ≈Fenerbahce Spor Kulubu≈ · ≈Fenerbahce Istanbul SK≈ · ≈Fenerbahce Sports Club≈ · ≈Fenerbahçe Spor Kuluebue≈
 - [**Galatasaray İstanbul AŞ**](https://en.wikipedia.org/wiki/Galatasaray_S.K._(football)) : (4) Galatasaray · Galatasaray AŞ · Galatasaray SK · Galatasaray İstanbul ⇒ (3) ≈Galatasaray AS≈ · ≈Galatasaray Istanbul≈ · ≈Galatasaray Istanbul AS≈
-- [**Beşiktaş İstanbul JK**](https://en.wikipedia.org/wiki/Beşiktaş_J.K.) : (2) Beşiktaş · Beşiktaş JK ⇒ (3) ≈Besiktas≈ · ≈Besiktas JK≈ · ≈Besiktas Istanbul JK≈
+- [**Beşiktaş İstanbul JK**](https://en.wikipedia.org/wiki/Beşiktaş_J.K.) : (3) Beşiktaş · Beşiktaş JK · Beşiktaş İstanbul ⇒ (4) ≈Besiktas≈ · ≈Besiktas JK≈ · ≈Besiktas Istanbul≈ · ≈Besiktas Istanbul JK≈
 - [**Kasımpaşa İstanbul SK**](https://en.wikipedia.org/wiki/Kasımpaşa_S.K.) : (2) Kasımpaşa · Kasımpaşa SK ⇒ (3) ≈Kasimpasa≈ · ≈Kasimpasa SK≈ · ≈Kasimpasa Istanbul SK≈
-- [**İstanbul Başakşehir**](https://en.wikipedia.org/wiki/İstanbul_Başakşehir_F.K.) : (3) Büyükşehyr · İstanbul Başakşehir FK · İstanbul Büyükşehir Belediyespor ⇒ (6) ≈Buyuksehyr≈ · ≈Bueyuekşehyr≈ · ≈Istanbul Basaksehir≈ · ≈Istanbul Basaksehir FK≈ · ≈Istanbul Buyuksehir Belediyespor≈ · ≈İstanbul Bueyuekşehir Belediyespor≈
+- [**İstanbul Başakşehir**](https://en.wikipedia.org/wiki/İstanbul_Başakşehir_F.K.) : (5) Başakşehir · Büyükşehyr · İstanb. Başakşehir · İstanbul Başakşehir FK · İstanbul Büyükşehir Belediyespor ⇒ (8) ≈Buyuksehyr≈ · ≈Basaksehir≈ · ≈Bueyuekşehyr≈ · ≈Istanb. Basaksehir≈ · ≈Istanbul Basaksehir≈ · ≈Istanbul Basaksehir FK≈ · ≈Istanbul Buyuksehir Belediyespor≈ · ≈İstanbul Bueyuekşehir Belediyespor≈
 - **İstanbulspor** ⇒ (1) ≈Istanbulspor≈
 - **Sarıyer SK** : (2) Sarıyer · Sarıyer Spor Kulübü ⇒ (4) ≈Sariyer≈ · ≈Sariyer SK≈ · ≈Sariyer Spor Kulubu≈ · ≈Sarıyer Spor Kuluebue≈
 - **Zeytinburnuspor** : (2) Zeytinburnu · Zeytinburnu SK
@@ -21,7 +21,7 @@
 - [**Alanyaspor**](https://en.wikipedia.org/wiki/Alanyaspor)
 - [**Antalyaspor**](https://en.wikipedia.org/wiki/Antalyaspor) : (2) Antalya · Antalyaspor Kulübü ⇒ (2) ≈Antalyaspor Kulubu≈ · ≈Antalyaspor Kuluebue≈
 - [**Bursaspor**](https://en.wikipedia.org/wiki/Bursaspor)
-- [**Göztepe İzmir**](https://en.wikipedia.org/wiki/Göztepe_S.K.) : (3) Goztep · Göztepe · Göztepe SK ⇒ (6) ≈Goztepe≈ · ≈Goeztepe≈ · ≈Goztepe SK≈ · ≈Goeztepe SK≈ · ≈Goztepe Izmir≈ · ≈Goeztepe İzmir≈
+- [**Göztepe İzmir**](https://en.wikipedia.org/wiki/Göztepe_S.K.) : (4) Göztep · Göztepe · Göztepe SK · Göztepespor ⇒ (10) ≈Goztep≈ · ≈Goeztep≈ · ≈Goztepe≈ · ≈Goeztepe≈ · ≈Goztepe SK≈ · ≈Goztepespor≈ · ≈Goeztepe SK≈ · ≈Goeztepespor≈ · ≈Goztepe Izmir≈ · ≈Goeztepe İzmir≈
 - **Bucaspor** : (1) Bucaspor Kulübü ⇒ (2) ≈Bucaspor Kulubu≈ · ≈Bucaspor Kuluebue≈
 - **Altay SK** : (2) Altay · Altay Spor Kulübü ⇒ (2) ≈Altay Spor Kulubu≈ · ≈Altay Spor Kuluebue≈
 - **Karşıyaka SK** : (2) Karşıyaka · Karşıyaka Spor Kulübü ⇒ (4) ≈Karsiyaka≈ · ≈Karsiyaka SK≈ · ≈Karsiyaka Spor Kulubu≈ · ≈Karşıyaka Spor Kuluebue≈
@@ -30,12 +30,12 @@
 - [**Konyaspor**](https://en.wikipedia.org/wiki/Konyaspor)
 - [**Sivasspor**](https://en.wikipedia.org/wiki/Sivasspor)
 - [**Trabzonspor AŞ**](https://en.wikipedia.org/wiki/Trabzonspor) : (1) Trabzonspor ⇒ (1) ≈Trabzonspor AS≈
-- [**Yeni Malatyaspor**](https://en.wikipedia.org/wiki/Yeni_Malatyaspor) : (1) Yeni Malatya Spor Kulübü ⇒ (2) ≈Yeni Malatya Spor Kulubu≈ · ≈Yeni Malatya Spor Kuluebue≈
+- [**Yeni Malatyaspor**](https://en.wikipedia.org/wiki/Yeni_Malatyaspor) : (2) Y. Malatyaspor · Yeni Malatya Spor Kulübü ⇒ (2) ≈Yeni Malatya Spor Kulubu≈ · ≈Yeni Malatya Spor Kuluebue≈
 - **Malatyaspor** : (2) Malatya SK · Malatya Spor Kulübü ⇒ (2) ≈Malatya Spor Kulubu≈ · ≈Malatya Spor Kuluebue≈
 - **Adanaspor** : (1) Adanaspor AŞ ⇒ (1) ≈Adanaspor AS≈
 - **Adana Demirspor** : (2) Ad. Demirspor · Adana Demir Spor Kulübü ⇒ (2) ≈Adana Demir Spor Kulubu≈ · ≈Adana Demir Spor Kuluebue≈
 - **Gaziantepspor**
-- **Gazişehir Gaziantep FK** : (2) Gazişehir Gaziantep · Gazişehir Gaziantep Futbol Kulübü ⇒ (4) ≈Gazisehir Gaziantep≈ · ≈Gazisehir Gaziantep FK≈ · ≈Gazisehir Gaziantep Futbol Kulubu≈ · ≈Gazişehir Gaziantep Futbol Kuluebue≈
+- **Gazişehir Gaziantep FK** : (5) Gaziantep · Gaziantep FK · Gaziş. Gaziantep · Gazişehir Gaziantep · Gazişehir Gaziantep Futbol Kulübü ⇒ (5) ≈Gazis. Gaziantep≈ · ≈Gazisehir Gaziantep≈ · ≈Gazisehir Gaziantep FK≈ · ≈Gazisehir Gaziantep Futbol Kulubu≈ · ≈Gazişehir Gaziantep Futbol Kuluebue≈
 - [**Çaykur Rizespor**](https://en.wikipedia.org/wiki/Çaykur_Rizespor) : (1) Rizespor ⇒ (1) ≈Caykur Rizespor≈
 - **Balıkesirspor** ⇒ (1) ≈Balikesirspor≈
 - **Mersin İdmanyurdu** : (1) Mersin İdman Yurdu ⇒ (2) ≈Mersin Idmanyurdu≈ · ≈Mersin Idman Yurdu≈
@@ -61,14 +61,14 @@ Alphabet
 
 - **Alphabet Specials** (9):  **Ç**  **ç**  **ö**  **ü**  **ğ**  **İ**  **ı**  **Ş**  **ş** 
   - **Ç**×3 U+00C7 (199) - LATIN CAPITAL LETTER C WITH CEDILLA ⇒ C
-  - **ç**×10 U+00E7 (231) - LATIN SMALL LETTER C WITH CEDILLA ⇒ c
-  - **ö**×3 U+00F6 (246) - LATIN SMALL LETTER O WITH DIAERESIS ⇒ o•oe
+  - **ç**×11 U+00E7 (231) - LATIN SMALL LETTER C WITH CEDILLA ⇒ c
+  - **ö**×5 U+00F6 (246) - LATIN SMALL LETTER O WITH DIAERESIS ⇒ o•oe
   - **ü**×50 U+00FC (252) - LATIN SMALL LETTER U WITH DIAERESIS ⇒ u•ue
   - **ğ**×7 U+011F (287) - LATIN SMALL LETTER G WITH BREVE ⇒ g
-  - **İ**×12 U+0130 (304) - LATIN CAPITAL LETTER I WITH DOT ABOVE ⇒ I
+  - **İ**×15 U+0130 (304) - LATIN CAPITAL LETTER I WITH DOT ABOVE ⇒ I
   - **ı**×15 U+0131 (305) - LATIN SMALL LETTER DOTLESS I ⇒ i
   - **Ş**×9 U+015E (350) - LATIN CAPITAL LETTER S WITH CEDILLA ⇒ S
-  - **ş**×24 U+015F (351) - LATIN SMALL LETTER S WITH CEDILLA ⇒ s
+  - **ş**×31 U+015F (351) - LATIN SMALL LETTER S WITH CEDILLA ⇒ s
 
 
 
@@ -88,11 +88,11 @@ Duplicates
 By City
 
 - **İstanbul** (8): 
-  - Fenerbahçe İstanbul SK  (4) Fenerbahçe · Fenerbahçe SK · Fenerbahçe Spor Kulübü · Fenerbahçe Sports Club
+  - Fenerbahçe İstanbul SK  (5) Fenerbahçe · Fenerbahçe SK · Fenerbahçe Spor Kulübü · Fenerbahçe Sports Club · Fenerbahçe İstanbul
   - Galatasaray İstanbul AŞ  (4) Galatasaray · Galatasaray İstanbul · Galatasaray AŞ · Galatasaray SK
-  - Beşiktaş İstanbul JK  (2) Beşiktaş · Beşiktaş JK
+  - Beşiktaş İstanbul JK  (3) Beşiktaş · Beşiktaş JK · Beşiktaş İstanbul
   - Kasımpaşa İstanbul SK  (2) Kasımpaşa SK · Kasımpaşa
-  - İstanbul Başakşehir  (3) İstanbul Başakşehir FK · Büyükşehyr · İstanbul Büyükşehir Belediyespor
+  - İstanbul Başakşehir  (5) Başakşehir · İstanb. Başakşehir · İstanbul Başakşehir FK · Büyükşehyr · İstanbul Büyükşehir Belediyespor
   - İstanbulspor 
   - Sarıyer SK  (2) Sarıyer · Sarıyer Spor Kulübü
   - Zeytinburnuspor  (2) Zeytinburnu · Zeytinburnu SK
@@ -104,7 +104,7 @@ By City
   - Turanspor  (2) Şekerspor · Beypazarı Şekerspor
   - Petrol Ofisi SK (1954-2010)  (2) P. Ofisi · Petrol Ofisi
 - **İzmir** (4): 
-  - Göztepe İzmir  (3) Göztepe · Göztepe SK · Goztep
+  - Göztepe İzmir  (4) Göztepe · Göztepe SK · Göztep · Göztepespor
   - Bucaspor  (1) Bucaspor Kulübü
   - Altay SK  (2) Altay · Altay Spor Kulübü
   - Karşıyaka SK  (2) Karşıyaka · Karşıyaka Spor Kulübü
@@ -116,12 +116,12 @@ By City
   - Erzurumspor (1968-2015)  (1) Erzurum
 - **Gaziantep** (2): 
   - Gaziantepspor 
-  - Gazişehir Gaziantep FK  (2) Gazişehir Gaziantep · Gazişehir Gaziantep Futbol Kulübü
+  - Gazişehir Gaziantep FK  (5) Gaziantep · Gaziantep FK · Gazişehir Gaziantep · Gaziş. Gaziantep · Gazişehir Gaziantep Futbol Kulübü
 - **Kayseri** (2): 
   - Kayserispor  (2) Kayseri · Kayseri Spor Kulübü
   - Kayseri Erciyesspor  (1) Erciyesspor
 - **Malatya** (2): 
-  - Yeni Malatyaspor  (1) Yeni Malatya Spor Kulübü
+  - Yeni Malatyaspor  (2) Y. Malatyaspor · Yeni Malatya Spor Kulübü
   - Malatyaspor  (2) Malatya SK · Malatya Spor Kulübü
 - **Adapazarı** (1): Sakaryaspor  (1) Sakaryaspor Kulübü Derneği
 - **Akhisar** (1): Akhisar Belediyespor  (1) Akhisar
@@ -230,11 +230,11 @@ Historic
 By A to Z
 
 - **A** (19): Altay · Akhisar · Antalya · Altay SK · Adanaspor · Alanyaspor · Ankaragücü · Ankaraspor · Antalyaspor · A. Sebatspor · Adanaspor AŞ · Ad. Demirspor · Ankaraspor AŞ · Adana Demirspor · Altay Spor Kulübü · Akçaabat Sebatspor · Antalyaspor Kulübü · Akhisar Belediyespor · Adana Demir Spor Kulübü
-- **B** (11): Beşiktaş · Bucaspor · Bursaspor · Büyükşehyr · Beşiktaş JK · Balıkesirspor · BB Erzurumspor · Bucaspor Kulübü · Beypazarı Şekerspor · Beşiktaş İstanbul JK · Büyükşehir Belediye Erzurumspor
+- **B** (13): Beşiktaş · Bucaspor · Bursaspor · Başakşehir · Büyükşehyr · Beşiktaş JK · Balıkesirspor · BB Erzurumspor · Bucaspor Kulübü · Beşiktaş İstanbul · Beypazarı Şekerspor · Beşiktaş İstanbul JK · Büyükşehir Belediye Erzurumspor
 - **D** (5): Denizlispor · Dardanelspor · Diyarbakırspor · Diyarbekirspor AŞ · Denizlispor Kulübü
 - **E** (6): Erzurum · Elazığspor · Erzurum BB · Erciyesspor · Eskişehirspor · Erzurumspor (1968-2015)
-- **F** (5): Fenerbahçe · Fenerbahçe SK · Fenerbahçe Spor Kulübü · Fenerbahçe Sports Club · Fenerbahçe İstanbul SK
-- **G** (17): Goztep · Göztepe · Göztepe SK · Galatasaray · Gaziantepspor · Göztepe İzmir · Galatasaray AŞ · Galatasaray SK · Gençlerbirliği · Gençlerbirliği SK · Gazişehir Gaziantep · Galatasaray İstanbul · Gazişehir Gaziantep FK · Galatasaray İstanbul AŞ · Gençlerbirliği Ankara SK · Gençlerbirliği Spor Kulübü · Gazişehir Gaziantep Futbol Kulübü
+- **F** (6): Fenerbahçe · Fenerbahçe SK · Fenerbahçe İstanbul · Fenerbahçe Spor Kulübü · Fenerbahçe Sports Club · Fenerbahçe İstanbul SK
+- **G** (21): Göztep · Göztepe · Gaziantep · Göztepe SK · Galatasaray · Göztepespor · Gaziantep FK · Gaziantepspor · Göztepe İzmir · Galatasaray AŞ · Galatasaray SK · Gençlerbirliği · Gaziş. Gaziantep · Gençlerbirliği SK · Gazişehir Gaziantep · Galatasaray İstanbul · Gazişehir Gaziantep FK · Galatasaray İstanbul AŞ · Gençlerbirliği Ankara SK · Gençlerbirliği Spor Kulübü · Gazişehir Gaziantep Futbol Kulübü
 - **H** (4): Hacettepe · Hacettepe SK · Hacettepespor · Hacettepe Spor Kulübü
 - **K** (15): Kayseri · Karşıyaka · Kasımpaşa · Konyaspor · Karabükspor · Kayserispor · Kocaelispor · Karşıyaka SK · Kasımpaşa SK · Kocaelispor Kulübü · Kayseri Erciyesspor · Kayseri Spor Kulübü · Kardemir Karabükspor · Karşıyaka Spor Kulübü · Kasımpaşa İstanbul SK
 - **M** (7): Malatya SK · Manisaspor · Malatyaspor · MKE Ankaragücü · Mersin İdmanyurdu · Mersin İdman Yurdu · Malatya Spor Kulübü
@@ -244,10 +244,10 @@ By A to Z
 - **S** (11): Sarıyer · Siirt SK · Siirtspor · Sivasspor · Samsunspor · Sarıyer SK · Sakaryaspor · Siirt Jet-PA · Sarıyer Spor Kulübü · Samsunspor Kulübü Derneği · Sakaryaspor Kulübü Derneği
 - **T** (3): Turanspor · Trabzonspor · Trabzonspor AŞ
 - **V** (3): Vanspor · Vanspor FK · Van Büyükşehir Belediyespor
-- **Y** (4): Yozgatspor · Yeni Malatyaspor · Yozgatspor Kulübü · Yeni Malatya Spor Kulübü
+- **Y** (5): Yozgatspor · Y. Malatyaspor · Yeni Malatyaspor · Yozgatspor Kulübü · Yeni Malatya Spor Kulübü
 - **Z** (3): Zeytinburnu · Zeytinburnu SK · Zeytinburnuspor
 - **Ç** (3): Çaykur Rizespor · Çanakkale Dardanel SK · Çanakkale Dardanelspor
-- **İ** (4): İstanbulspor · İstanbul Başakşehir · İstanbul Başakşehir FK · İstanbul Büyükşehir Belediyespor
+- **İ** (5): İstanbulspor · İstanb. Başakşehir · İstanbul Başakşehir · İstanbul Başakşehir FK · İstanbul Büyükşehir Belediyespor
 - **Ş** (1): Şekerspor
 
 

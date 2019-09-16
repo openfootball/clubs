@@ -1,17 +1,17 @@
 45 clubs
 
-- [**Celtic FC**](https://en.wikipedia.org/wiki/Celtic_F.C.) : (1) Celtic
-- [**Rangers FC**](https://en.wikipedia.org/wiki/Rangers_F.C.) : (1) Rangers
+- [**Celtic FC**](https://en.wikipedia.org/wiki/Celtic_F.C.) : (2) Celtic · Celtic Glasgow
+- [**Rangers FC**](https://en.wikipedia.org/wiki/Rangers_F.C.) : (2) Rangers · Gl. Rangers
 - [**Partick Thistle**](https://en.wikipedia.org/wiki/Partick_Thistle_F.C.) : (3) Jags · Partick · Partick Thistle FC
 - **Queen's Park** : (1) Queens Park
-- [**Heart of Midlothian FC**](https://en.wikipedia.org/wiki/Heart_of_Midlothian_F.C.) : (1) Hearts
+- [**Heart of Midlothian FC**](https://en.wikipedia.org/wiki/Heart_of_Midlothian_F.C.) : (2) Hearts · Heart of Midlothian
 - [**Hibernian FC**](https://en.wikipedia.org/wiki/Hibernian_F.C.) : (2) Hibernian · Hibernians
 - **Edinburgh City**
 - [**Aberdeen FC**](https://en.wikipedia.org/wiki/Aberdeen_F.C.) : (1) Aberdeen
 - **Cove Rangers FC** : (2) Cove Rangers · Cove Rangers Football Club
 - [**Dundee FC**](https://en.wikipedia.org/wiki/Dundee_F.C.) : (1) Dundee
 - [**Dundee United**](https://en.wikipedia.org/wiki/Dundee_United_F.C.) : (3) Dundee Utd · Dundee United FC · Dundee Hibernian
-- [**Hamilton Academical FC**](https://en.wikipedia.org/wiki/Hamilton_Academical_F.C.) : (2) Hamilton · Hamilton Accies
+- [**Hamilton Academical FC**](https://en.wikipedia.org/wiki/Hamilton_Academical_F.C.) : (3) Hamilton · Hamilton Accies · Hamilton Academical
 - [**Kilmarnock FC**](https://en.wikipedia.org/wiki/Kilmarnock_F.C.) : (2) Killie · Kilmarnock
 - [**Motherwell FC**](https://en.wikipedia.org/wiki/Motherwell_F.C.) : (1) Motherwell
 - [**Ross County FC**](https://en.wikipedia.org/wiki/Ross_County_F.C.) : (1) Ross County
@@ -69,12 +69,12 @@ Duplicates
 By City
 
 - **Glasgow** (4): 
-  - Celtic FC  (1) Celtic
-  - Rangers FC  (1) Rangers
+  - Celtic FC  (2) Celtic · Celtic Glasgow
+  - Rangers FC  (2) Rangers · Gl. Rangers
   - Partick Thistle  (3) Partick · Partick Thistle FC · Jags
   - Queen's Park  (1) Queens Park
 - **Edinburgh** (3): 
-  - Heart of Midlothian FC  (1) Hearts
+  - Heart of Midlothian FC  (2) Hearts · Heart of Midlothian
   - Hibernian FC  (2) Hibernian · Hibernians
   - Edinburgh City 
 - **Aberdeen** (2): 
@@ -104,7 +104,7 @@ By City
 - **Forfar** (1): Forfar Athletic  (1) Forfar
 - **Greenock** (1): Greenock Morton  (1) Morton
 - **Gretna** (1): Gretna FC  (1) Gretna
-- **Hamilton** (1): Hamilton Academical FC  (2) Hamilton · Hamilton Accies
+- **Hamilton** (1): Hamilton Academical FC  (3) Hamilton · Hamilton Accies · Hamilton Academical
 - **Inverness** (1): Inverness Caledonian Thistle  (7) Inverness · Inverness C · Inverness CT · Inverness Caledonian Thistle FC · Caley Thistle · ICT · The Caley Jags
 - **Kilmarnock** (1): Kilmarnock FC  (2) Kilmarnock · Killie
 - **Kirkcaldy** (1): Raith Rovers  (2) Raith Rvs · Raith
@@ -191,12 +191,12 @@ By A to Z
 
 - **A** (13): Ayr · Alloa · Airdrie · Aberdeen · Arbroath · Albion Rvs · Ayr United · Aberdeen FC · Airdrie Utd · Airdrieonians · Albion Rovers · Alloa Athletic · Annan Athletic
 - **B** (2): Brechin · Brechin City
-- **C** (10): Clyde · Celtic · Celtic FC · Clydebank · Cowdenbeath · Clydebank FC · Cove Rangers · Caley Thistle · Cove Rangers FC · Cove Rangers Football Club
+- **C** (11): Clyde · Celtic · Celtic FC · Clydebank · Cowdenbeath · Clydebank FC · Cove Rangers · Caley Thistle · Celtic Glasgow · Cove Rangers FC · Cove Rangers Football Club
 - **D** (9): Dundee · Dumbarton · Dundee FC · Dundee Utd · Dunfermline · Dundee United · Dundee Hibernian · Dundee United FC · Dunfermline Athletic
 - **E** (6): Elgin · East Fife · Elgin City · East Stirling · Edinburgh City · East Stirlingshire FC
 - **F** (3): Forfar · Falkirk · Forfar Athletic
-- **G** (3): Gretna · Gretna FC · Greenock Morton
-- **H** (8): Hearts · Hamilton · Hibernian · Hibernians · Hibernian FC · Hamilton Accies · Hamilton Academical FC · Heart of Midlothian FC
+- **G** (4): Gretna · Gretna FC · Gl. Rangers · Greenock Morton
+- **H** (10): Hearts · Hamilton · Hibernian · Hibernians · Hibernian FC · Hamilton Accies · Hamilton Academical · Heart of Midlothian · Hamilton Academical FC · Heart of Midlothian FC
 - **I** (6): ICT · Inverness · Inverness C · Inverness CT · Inverness Caledonian Thistle · Inverness Caledonian Thistle FC
 - **J** (1): Jags
 - **K** (3): Killie · Kilmarnock · Kilmarnock FC

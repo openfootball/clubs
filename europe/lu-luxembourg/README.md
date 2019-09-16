@@ -1,4 +1,4 @@
-8 clubs
+16 clubs
 
 - **Jeunesse d'Esch** : (2) Jeunesse Esch · AS Jeunesse Esch
 - **F91 Dudelange** : (1) Dudelange
@@ -6,8 +6,16 @@
 - **CS Grevenmacher**
 - **UN Käerjéng 97** ⇒ (2) ≈UN Kaerjeng 97≈ · ≈UN Kaeerjéng 97≈
 - **CS Fola Esch** : (1) Fola
-- **Racing FC Union Lëtzebuerg** ⇒ (1) ≈Racing FC Union Letzebuerg≈
-- **FC Progrès Niederkorn** ⇒ (1) ≈FC Progres Niederkorn≈
+- **Racing FC Union Lëtzebuerg** : (1) Racing Union ⇒ (1) ≈Racing FC Union Letzebuerg≈
+- **FC Progrès Niederkorn** : (1) Progrès ⇒ (2) ≈Progres≈ · ≈FC Progres Niederkorn≈
+- **US Mondorf-les-Bains** : (1) Mondorf-les-Bains
+- **FC Union Titus Pétange** : (1) Union Titus ⇒ (1) ≈FC Union Titus Petange≈
+- **FC UNA Strassen** : (1) UNA Strassen
+- **FC Victoria Rosport** : (1) Rosport
+- **FC Muhlenbach Sandzak** : (1) Muhlenbach
+- **FC Etzella Ettelbruck** : (1) Etzella
+- **FC Rodange 91** : (1) Rodange
+- **US Hostert** : (1) Hostert
 
 
 
@@ -16,8 +24,8 @@ Alphabet
 
 - **Alphabet Specials** (4):  **ä**  **è**  **é**  **ë** 
   - **ä**×1 U+00E4 (228) - LATIN SMALL LETTER A WITH DIAERESIS ⇒ a•ae
-  - **è**×1 U+00E8 (232) - LATIN SMALL LETTER E WITH GRAVE ⇒ e
-  - **é**×1 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
+  - **è**×2 U+00E8 (232) - LATIN SMALL LETTER E WITH GRAVE ⇒ e
+  - **é**×2 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
   - **ë**×1 U+00EB (235) - LATIN SMALL LETTER E WITH DIAERESIS ⇒ e
 
 
@@ -33,13 +41,21 @@ By City
 
 - **Dudelange** (1): F91 Dudelange  (1) Dudelange
 - **Esch-sur-Alzette** (1): Jeunesse d'Esch  (2) Jeunesse Esch · AS Jeunesse Esch
-- ? (6): 
+- ? (14): 
   - FC Differdange 03  (1) Differdange
   - CS Grevenmacher 
   - UN Käerjéng 97 
   - CS Fola Esch  (1) Fola
-  - Racing FC Union Lëtzebuerg 
-  - FC Progrès Niederkorn 
+  - Racing FC Union Lëtzebuerg  (1) Racing Union
+  - FC Progrès Niederkorn  (1) Progrès
+  - US Mondorf-les-Bains  (1) Mondorf-les-Bains
+  - FC Union Titus Pétange  (1) Union Titus
+  - FC UNA Strassen  (1) UNA Strassen
+  - FC Victoria Rosport  (1) Rosport
+  - FC Muhlenbach Sandzak  (1) Muhlenbach
+  - FC Etzella Ettelbruck  (1) Etzella
+  - FC Rodange 91  (1) Rodange
+  - US Hostert  (1) Hostert
 
 
 
@@ -54,7 +70,7 @@ By Region
 
 By Year
 
-- ? (8):   Jeunesse d'Esch · F91 Dudelange · FC Differdange 03 · CS Grevenmacher · UN Käerjéng 97 · CS Fola Esch · Racing FC Union Lëtzebuerg · FC Progrès Niederkorn
+- ? (16):   Jeunesse d'Esch · F91 Dudelange · FC Differdange 03 · CS Grevenmacher · UN Käerjéng 97 · CS Fola Esch · Racing FC Union Lëtzebuerg · FC Progrès Niederkorn · US Mondorf-les-Bains · FC Union Titus Pétange · FC UNA Strassen · FC Victoria Rosport · FC Muhlenbach Sandzak · FC Etzella Ettelbruck · FC Rodange 91 · US Hostert
 
 
 
@@ -66,10 +82,14 @@ By A to Z
 - **A** (1): AS Jeunesse Esch
 - **C** (2): CS Fola Esch · CS Grevenmacher
 - **D** (2): Dudelange · Differdange
-- **F** (4): Fola · F91 Dudelange · FC Differdange 03 · FC Progrès Niederkorn
+- **E** (1): Etzella
+- **F** (10): Fola · F91 Dudelange · FC Rodange 91 · FC UNA Strassen · FC Differdange 03 · FC Victoria Rosport · FC Etzella Ettelbruck · FC Muhlenbach Sandzak · FC Progrès Niederkorn · FC Union Titus Pétange
+- **H** (1): Hostert
 - **J** (2): Jeunesse Esch · Jeunesse d'Esch
-- **R** (1): Racing FC Union Lëtzebuerg
-- **U** (1): UN Käerjéng 97
+- **M** (2): Muhlenbach · Mondorf-les-Bains
+- **P** (1): Progrès
+- **R** (4): Rodange · Rosport · Racing Union · Racing FC Union Lëtzebuerg
+- **U** (5): US Hostert · Union Titus · UNA Strassen · UN Käerjéng 97 · US Mondorf-les-Bains
 
 
 

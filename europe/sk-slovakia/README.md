@@ -1,6 +1,6 @@
-12 clubs
+16 clubs
 
-- **ŠK Slovan Bratislava** : (2) Slovan Bratislava · SK Slovan Bratislava ⇒ (1) ≈SK Slovan Bratislava≈
+- **ŠK Slovan Bratislava** : (4) Slov. Bratisl. · Sl. Bratislava · Slovan Bratislava · SK Slovan Bratislava ⇒ (1) ≈SK Slovan Bratislava≈
 - **MŠK Žilina** : (1) Žilina ⇒ (2) ≈Zilina≈ · ≈MSK Zilina≈
 - **FC Spartak Trnava** : (1) Spartak Trnava
 - **FK Senica** : (1) Senica
@@ -12,15 +12,20 @@
 - **FC DAC 1904 Dunajská Streda** : (1) Dunajská Streda ⇒ (2) ≈Dunajska Streda≈ · ≈FC DAC 1904 Dunajska Streda≈
 - **MFK Ružomberok** : (1) Ružomberok ⇒ (2) ≈Ruzomberok≈ · ≈MFK Ruzomberok≈
 - **TJ Spartak Myjava** : (1) Spartak Myjava
+- **FC ViOn Zlaté Moravce** : (1) Zlaté Moravce ⇒ (2) ≈Zlate Moravce≈ · ≈FC ViOn Zlate Moravce≈
+- **SK Sered** : (1) Sered
+- **TJ Sokol Dolná Zdana** : (1) Sokol Dolná Zdana ⇒ (2) ≈Sokol Dolna Zdana≈ · ≈TJ Sokol Dolna Zdana≈
+- **MFK Zemplín Michalovce** : (1) Michalovce ⇒ (1) ≈MFK Zemplin Michalovce≈
 
 
 
 
 Alphabet
 
-- **Alphabet Specials** (7):  **á**  **í**  **č**  **Š**  **š**  **Ž**  **ž** 
-  - **á**×4 U+00E1 (225) - LATIN SMALL LETTER A WITH ACUTE ⇒ a
-  - **í**×2 U+00ED (237) - LATIN SMALL LETTER I WITH ACUTE ⇒ i
+- **Alphabet Specials** (8):  **á**  **é**  **í**  **č**  **Š**  **š**  **Ž**  **ž** 
+  - **á**×6 U+00E1 (225) - LATIN SMALL LETTER A WITH ACUTE ⇒ a
+  - **é**×2 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
+  - **í**×3 U+00ED (237) - LATIN SMALL LETTER I WITH ACUTE ⇒ i
   - **č**×2 U+010D (269) - LATIN SMALL LETTER C WITH CARON ⇒ c
   - **Š**×2 U+0160 (352) - LATIN CAPITAL LETTER S WITH CARON ⇒ S
   - **š**×2 U+0161 (353) - LATIN SMALL LETTER S WITH CARON ⇒ s
@@ -40,8 +45,8 @@ Duplicates
 
 By City
 
-- **Bratislava** (1): ŠK Slovan Bratislava  (2) Slovan Bratislava · SK Slovan Bratislava
-- ? (11): 
+- **Bratislava** (1): ŠK Slovan Bratislava  (4) Slov. Bratisl. · Sl. Bratislava · Slovan Bratislava · SK Slovan Bratislava
+- ? (15): 
   - MŠK Žilina  (1) Žilina
   - FC Spartak Trnava  (1) Spartak Trnava
   - FK Senica  (1) Senica
@@ -53,6 +58,10 @@ By City
   - FC DAC 1904 Dunajská Streda  (1) Dunajská Streda
   - MFK Ružomberok  (1) Ružomberok
   - TJ Spartak Myjava  (1) Spartak Myjava
+  - FC ViOn Zlaté Moravce  (1) Zlaté Moravce
+  - SK Sered  (1) Sered
+  - TJ Sokol Dolná Zdana  (1) Sokol Dolná Zdana
+  - MFK Zemplín Michalovce  (1) Michalovce
 
 
 
@@ -66,7 +75,7 @@ By Region
 
 By Year
 
-- ? (12):   ŠK Slovan Bratislava · MŠK Žilina · FC Spartak Trnava · FK Senica · MFK Košice · Dukla Banská Bystrica · FC Nitra · MFK Petržalka · AS Trenčín · FC DAC 1904 Dunajská Streda · MFK Ružomberok · TJ Spartak Myjava
+- ? (16):   ŠK Slovan Bratislava · MŠK Žilina · FC Spartak Trnava · FK Senica · MFK Košice · Dukla Banská Bystrica · FC Nitra · MFK Petržalka · AS Trenčín · FC DAC 1904 Dunajská Streda · MFK Ružomberok · TJ Spartak Myjava · FC ViOn Zlaté Moravce · SK Sered · TJ Sokol Dolná Zdana · MFK Zemplín Michalovce
 
 
 
@@ -78,13 +87,14 @@ By A to Z
 - **A** (1): AS Trenčín
 - **B** (1): Banská Bystrica
 - **D** (2): Dunajská Streda · Dukla Banská Bystrica
-- **F** (4): FC Nitra · FK Senica · FC Spartak Trnava · FC DAC 1904 Dunajská Streda
+- **F** (5): FC Nitra · FK Senica · FC Spartak Trnava · FC ViOn Zlaté Moravce · FC DAC 1904 Dunajská Streda
 - **K** (1): Košice
-- **M** (4): MFK Košice · MŠK Žilina · MFK Petržalka · MFK Ružomberok
+- **M** (6): MFK Košice · Michalovce · MŠK Žilina · MFK Petržalka · MFK Ružomberok · MFK Zemplín Michalovce
 - **N** (1): Nitra
 - **R** (1): Ružomberok
-- **S** (5): Senica · Spartak Myjava · Spartak Trnava · Slovan Bratislava · SK Slovan Bratislava
-- **T** (2): Trenčín · TJ Spartak Myjava
+- **S** (10): Sered · Senica · SK Sered · Sl. Bratislava · Slov. Bratisl. · Spartak Myjava · Spartak Trnava · Slovan Bratislava · Sokol Dolná Zdana · SK Slovan Bratislava
+- **T** (3): Trenčín · TJ Spartak Myjava · TJ Sokol Dolná Zdana
+- **Z** (1): Zlaté Moravce
 - **Š** (1): ŠK Slovan Bratislava
 - **Ž** (1): Žilina
 

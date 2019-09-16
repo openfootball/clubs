@@ -1,16 +1,16 @@
 33 clubs
 
 - **Steaua București** : (5) FCSB · Steaua · Steaua Bucuresti · FC Steaua București · FC Steaua Bucuresti ⇒ (2) ≈Steaua Bucuresti≈ · ≈FC Steaua Bucuresti≈
-- **Dinamo București** : (5) Din. Bucuresti · Dinamo Bucuresti · Dinamo Bucureşti · FC Dinamo Bucureşti · FC Dinamo București ⇒ (4) ≈Dinamo Bucuresti≈ · ≈Dinamo Bucuresti≈ · ≈FC Dinamo Bucuresti≈ · ≈FC Dinamo Bucuresti≈
+- **Dinamo București** : (6) Din. Bucuresti · Dinamo Bucuresti · Dinamo Bucureşti · FC Dinamo București · FC Dinamo Bucureşti · Dinamo Bukarest [de] ⇒ (4) ≈Dinamo Bucuresti≈ · ≈Dinamo Bucuresti≈ · ≈FC Dinamo Bucuresti≈ · ≈FC Dinamo Bucuresti≈
 - **Rapid București** : (3) Rapid Bucureşti · FC Rapid București · FC Rapid Bucuresti ⇒ (3) ≈Rapid Bucuresti≈ · ≈Rapid Bucuresti≈ · ≈FC Rapid Bucuresti≈
 - **Daco-Getica București** : (2) Daco-Getica Bucuresti · Asociația Sport Club Daco-Getica București ⇒ (2) ≈Daco-Getica Bucuresti≈ · ≈Asociatia Sport Club Daco-Getica Bucuresti≈
-- **CFR Cluj** : (1) CFR 1907 Cluj
+- **CFR Cluj** : (2) FC CFR Cluj · CFR 1907 Cluj
 - **U Cluj** : (3) U. Cluj · Universitatea Cluj · FC Universitatea Cluj
 - **Astra Giurgiu** : (2) Astra · FC Astra Giurgiu
 - **Ceahlăul Piatra Neamț** : (3) Ceahlaul · Ceahlaul Piatra Neamt · CSM Ceahlăul Piatra Neamț ⇒ (2) ≈Ceahlaul Piatra Neamt≈ · ≈CSM Ceahlaul Piatra Neamt≈
 - **Concordia Chiajna** : (2) Concordia · CS Concordia Chiajna
 - **FC Vaslui** : (1) Vaslui
-- **Gaz Metan Mediaș** : (3) Gaz Metan · Gaz Metan Medias · CS Gaz Metan Mediaș ⇒ (2) ≈Gaz Metan Medias≈ · ≈CS Gaz Metan Medias≈
+- **Gaz Metan Mediaș** : (4) Gaz Metan · Gaz Metan Medias · CS Gaz Metan Mediaș · CS Gaz Metan Mediaş ⇒ (3) ≈Gaz Metan Medias≈ · ≈CS Gaz Metan Medias≈ · ≈CS Gaz Metan Medias≈
 - **Gloria Bistrița** : (2) Bistrita · Gloria Bistrita ⇒ (1) ≈Gloria Bistrita≈
 - **FC Petrolul Ploiești** : (4) Petrolul · Petrolul Ploiesti · Petrolul Ploiești · FC Petrolul Ploieşti ⇒ (3) ≈Petrolul Ploiesti≈ · ≈FC Petrolul Ploiesti≈ · ≈FC Petrolul Ploiesti≈
 - **FC Viitorul Constanța** : (3) Viitorul · FC Viitorul · Viitorul Constanța ⇒ (2) ≈Viitorul Constanta≈ · ≈FC Viitorul Constanta≈
@@ -21,11 +21,11 @@
 - **CS Turnu Severin** : (1) Clubul Sportiv Turnu Severin
 - **FC Severin** : (1) FC Drobeta-Turnu Severin
 - **FC Botoșani** : (3) Botoşani · FC Botoşani · Fotbal Club Botoșani ⇒ (4) ≈Botosani≈ · ≈FC Botosani≈ · ≈FC Botosani≈ · ≈Fotbal Club Botosani≈
-- **FC Hermannstadt** : (1) Hermannstadt
+- **FC Hermannstadt** : (2) Hermannstadt · AFC Hermannstadt
 - **Săgeata Năvodari** : (2) Năvodari · AFC Săgeata Năvodari ⇒ (3) ≈Navodari≈ · ≈Sageata Navodari≈ · ≈AFC Sageata Navodari≈
 - **Oțelul Galați** : (3) Oţelul · Oțelul · ASC Oțelul Galați ⇒ (4) ≈Otelul≈ · ≈Otelul≈ · ≈Otelul Galati≈ · ≈ASC Otelul Galati≈
 - **Pandurii Târgu Jiu** : (3) Pandurii · Pandurii Tg Jiu · CS Pandurii Târgu Jiu ⇒ (2) ≈Pandurii Targu Jiu≈ · ≈CS Pandurii Targu Jiu≈
-- **FC Politehnica Iași** : (6) Poli Iasi · Poli Iași · CSMS laşi · CSMS Iasi · Politehnica Iași · CSM Politehnica Iași ⇒ (5) ≈CSMS lasi≈ · ≈Poli Iasi≈ · ≈Politehnica Iasi≈ · ≈FC Politehnica Iasi≈ · ≈CSM Politehnica Iasi≈
+- **FC Politehnica Iași** : (8) Poli Iasi · Poli Iași · CSMS Iasi · CSMS laşi · Politehnica Iași · Politehnica Iaşi · CSM Politehnica Iaşi · CSM Politehnica Iași ⇒ (7) ≈CSMS lasi≈ · ≈Poli Iasi≈ · ≈Politehnica Iasi≈ · ≈Politehnica Iasi≈ · ≈FC Politehnica Iasi≈ · ≈CSM Politehnica Iasi≈ · ≈CSM Politehnica Iasi≈
 - **Poli Timișoara** : (2) Timişoara · ACS Poli Timișoara ⇒ (3) ≈Timisoara≈ · ≈Poli Timisoara≈ · ≈ACS Poli Timisoara≈
 - **Sepsi Sfântu Gheorghe** : (3) Sepsi · Sepsi OSK · Sepsi Sf. Gheorghe ⇒ (1) ≈Sepsi Sfantu Gheorghe≈
 - **Târgu Mureș** : (3) Târgu Mureş · ASA Târgu Mureş · ASA Târgu Mureș ⇒ (4) ≈Targu Mures≈ · ≈Targu Mures≈ · ≈ASA Targu Mures≈ · ≈ASA Targu Mures≈
@@ -42,7 +42,7 @@ Alphabet
 - **Alphabet Specials** (6):  **â**  **ă**  **ş**  **ţ**  **ș**  **ț** 
   - **â**×9 U+00E2 (226) - LATIN SMALL LETTER A WITH CIRCUMFLEX ⇒ a
   - **ă**×12 U+0103 (259) - LATIN SMALL LETTER A WITH BREVE ⇒ a
-  - **ş**×10 U+015F (351) - LATIN SMALL LETTER S WITH CEDILLA ⇒ s
+  - **ş**×13 U+015F (351) - LATIN SMALL LETTER S WITH CEDILLA ⇒ s
   - **ţ**×1 U+0163 (355) - LATIN SMALL LETTER T WITH CEDILLA ⇒ t
   - **ș**×30 U+0219 (537) - LATIN SMALL LETTER S WITH COMMA BELOW ⇒ s
   - **ț**×11 U+021B (539) - LATIN SMALL LETTER T WITH COMMA BELOW ⇒ t
@@ -67,8 +67,9 @@ Duplicates
   - `ucluj` (2): U Cluj · U. Cluj
 - **Ceahlăul Piatra Neamț**, Piatra Neamț (1):
   - `ceahlaulpiatraneamt` (2): **Ceahlaul Piatra Neamt** · **Ceahlaul Piatra Neamt**
-- **Gaz Metan Mediaș**, Mediaș (1):
+- **Gaz Metan Mediaș**, Mediaș (2):
   - `gazmetanmedias` (2): **Gaz Metan Medias** · **Gaz Metan Medias**
+  - `csgazmetanmedias` (2): **CS Gaz Metan Medias** · **CS Gaz Metan Medias**
 - **Gloria Bistrița**, Bistrița (1):
   - `gloriabistrita` (2): **Gloria Bistrita** · **Gloria Bistrita**
 - **FC Petrolul Ploiești**, Ploiești (2):
@@ -78,8 +79,10 @@ Duplicates
   - `fcbotosani` (2): **FC Botosani** · **FC Botosani**
 - **Oțelul Galați**, Galați (1):
   - `otelul` (2): **Otelul** · **Otelul**
-- **FC Politehnica Iași**, Iași (1):
+- **FC Politehnica Iași**, Iași (3):
   - `poliiasi` (2): **Poli Iasi** · **Poli Iasi**
+  - `politehnicaiasi` (2): **Politehnica Iasi** · **Politehnica Iasi**
+  - `csmpolitehnicaiasi` (2): **CSM Politehnica Iasi** · **CSM Politehnica Iasi**
 - **Târgu Mureș**, Târgu Mureș (2):
   - `targumures` (2): **Targu Mures** · **Targu Mures**
   - `asatargumures` (2): **ASA Targu Mures** · **ASA Targu Mures**
@@ -91,14 +94,14 @@ By City
 
 - **București** (4): 
   - Steaua București  (5) Steaua · Steaua Bucuresti · FC Steaua Bucuresti · FC Steaua București · FCSB
-  - Dinamo București  (5) Din. Bucuresti · Dinamo Bucuresti · FC Dinamo București · FC Dinamo Bucureşti · Dinamo Bucureşti
+  - Dinamo București  (6) Din. Bucuresti · Dinamo Bucuresti · FC Dinamo București · FC Dinamo Bucureşti · Dinamo Bucureşti · Dinamo Bukarest [de]
   - Rapid București  (3) FC Rapid Bucuresti · FC Rapid București · Rapid Bucureşti
   - Daco-Getica București  (2) Daco-Getica Bucuresti · Asociația Sport Club Daco-Getica București
 - **Brașov** (2): 
   - Corona Brașov  (1) ASC Corona 2010 Brașov
   - FC Brașov  (1) SR Brașov
 - **Cluj** (2): 
-  - CFR Cluj  (1) CFR 1907 Cluj
+  - CFR Cluj  (2) CFR 1907 Cluj · FC CFR Cluj
   - U Cluj  (3) U. Cluj · Universitatea Cluj · FC Universitatea Cluj
 - **Drobeta-Turnu Severin** (2): 
   - CS Turnu Severin  (1) Clubul Sportiv Turnu Severin
@@ -112,9 +115,9 @@ By City
 - **Călărași** (1): Dunărea Călărași  (1) Călărași
 - **Galați** (1): Oțelul Galați  (3) Oţelul · Oțelul · ASC Oțelul Galați
 - **Giurgiu** (1): Astra Giurgiu  (2) Astra · FC Astra Giurgiu
-- **Hermannstadt** (1): FC Hermannstadt  (1) Hermannstadt
-- **Iași** (1): FC Politehnica Iași  (6) Poli Iasi · Poli Iași · Politehnica Iași · CSMS Iasi · CSM Politehnica Iași · CSMS laşi
-- **Mediaș** (1): Gaz Metan Mediaș  (3) Gaz Metan · Gaz Metan Medias · CS Gaz Metan Mediaș
+- **Hermannstadt** (1): FC Hermannstadt  (2) Hermannstadt · AFC Hermannstadt
+- **Iași** (1): FC Politehnica Iași  (8) Poli Iasi · Poli Iași · Politehnica Iași · CSMS Iasi · CSM Politehnica Iași · CSMS laşi · CSM Politehnica Iaşi · Politehnica Iaşi
+- **Mediaș** (1): Gaz Metan Mediaș  (4) Gaz Metan · Gaz Metan Medias · CS Gaz Metan Mediaș · CS Gaz Metan Mediaş
 - **Năvodari** (1): Săgeata Năvodari  (2) Năvodari · AFC Săgeata Năvodari
 - **Ovidiu** (1): FC Viitorul Constanța  (3) Viitorul · FC Viitorul · Viitorul Constanța
 - **Piatra Neamț** (1): Ceahlăul Piatra Neamț  (3) Ceahlaul · Ceahlaul Piatra Neamt · CSM Ceahlăul Piatra Neamț
@@ -176,16 +179,16 @@ By Year
 
 By A to Z
 
-- **A** (11): Astra · Astra Giurgiu · ASA Târgu Mureş · ASA Târgu Mureș · ASC Oțelul Galați · ACS Poli Timișoara · Academica Clinceni · AFC Săgeata Năvodari · AFC Chindia Târgoviște · ASC Corona 2010 Brașov · Asociația Sport Club Daco-Getica București
+- **A** (12): Astra · Astra Giurgiu · ASA Târgu Mureş · ASA Târgu Mureș · AFC Hermannstadt · ASC Oțelul Galați · ACS Poli Timișoara · Academica Clinceni · AFC Săgeata Năvodari · AFC Chindia Târgoviște · ASC Corona 2010 Brașov · Asociația Sport Club Daco-Getica București
 - **B** (2): Bistrita · Botoşani
-- **C** (21): CFR Cluj · Ceahlaul · Călărași · CSMS Iasi · CSMS laşi · Concordia · CS U Craiova · CFR 1907 Cluj · Corona Brașov · CS Turnu Severin · Concordia Chiajna · Chindia Târgoviște · CS Gaz Metan Mediaș · CS Concordia Chiajna · CSM Politehnica Iași · CS Pandurii Târgu Jiu · Ceahlaul Piatra Neamt · Ceahlăul Piatra Neamț · CS Universitatea Craiova · CSM Ceahlăul Piatra Neamț · Clubul Sportiv Turnu Severin
-- **D** (7): Din. Bucuresti · Dinamo Bucuresti · Dinamo Bucureşti · Dinamo București · Dunărea Călărași · Daco-Getica Bucuresti · Daco-Getica București
-- **F** (27): FCSB · FC Brașov · FC Vaslui · FC Severin · FC Botoşani · FC Botoșani · FC UTA Arad · FC Viitorul · FC Voluntari · FC Hermannstadt · FC Astra Giurgiu · FC Rapid Bucuresti · FC Rapid București · FC Dinamo Bucureşti · FC Dinamo București · FC Politehnica Iași · FC Steaua Bucuresti · FC Steaua București · FC Petrolul Ploieşti · FC Petrolul Ploiești · Fotbal Club Botoșani · Fotbal Club UTA Arad · FC Academica Clinceni · FC Universitatea Cluj · FC Viitorul Constanța · FC Drobeta-Turnu Severin · Fotbal Club Academica Clinceni
+- **C** (23): CFR Cluj · Ceahlaul · Călărași · CSMS Iasi · CSMS laşi · Concordia · CS U Craiova · CFR 1907 Cluj · Corona Brașov · CS Turnu Severin · Concordia Chiajna · Chindia Târgoviște · CS Gaz Metan Mediaş · CS Gaz Metan Mediaș · CS Concordia Chiajna · CSM Politehnica Iaşi · CSM Politehnica Iași · CS Pandurii Târgu Jiu · Ceahlaul Piatra Neamt · Ceahlăul Piatra Neamț · CS Universitatea Craiova · CSM Ceahlăul Piatra Neamț · Clubul Sportiv Turnu Severin
+- **D** (8): Din. Bucuresti · Dinamo Bucuresti · Dinamo Bucureşti · Dinamo București · Dunărea Călărași · Dinamo Bukarest [de] · Daco-Getica Bucuresti · Daco-Getica București
+- **F** (28): FCSB · FC Brașov · FC Vaslui · FC Severin · FC Botoşani · FC Botoșani · FC CFR Cluj · FC UTA Arad · FC Viitorul · FC Voluntari · FC Hermannstadt · FC Astra Giurgiu · FC Rapid Bucuresti · FC Rapid București · FC Dinamo Bucureşti · FC Dinamo București · FC Politehnica Iași · FC Steaua Bucuresti · FC Steaua București · FC Petrolul Ploieşti · FC Petrolul Ploiești · Fotbal Club Botoșani · Fotbal Club UTA Arad · FC Academica Clinceni · FC Universitatea Cluj · FC Viitorul Constanța · FC Drobeta-Turnu Severin · Fotbal Club Academica Clinceni
 - **G** (5): Gaz Metan · Gloria Bistrita · Gloria Bistrița · Gaz Metan Medias · Gaz Metan Mediaș
 - **H** (1): Hermannstadt
 - **N** (1): Năvodari
 - **O** (3): Oţelul · Oțelul · Oțelul Galați
-- **P** (10): Pandurii · Petrolul · Poli Iasi · Poli Iași · Poli Timișoara · Pandurii Tg Jiu · Politehnica Iași · Petrolul Ploiesti · Petrolul Ploiești · Pandurii Târgu Jiu
+- **P** (11): Pandurii · Petrolul · Poli Iasi · Poli Iași · Poli Timișoara · Pandurii Tg Jiu · Politehnica Iaşi · Politehnica Iași · Petrolul Ploiesti · Petrolul Ploiești · Pandurii Târgu Jiu
 - **R** (2): Rapid Bucureşti · Rapid București
 - **S** (9): Sepsi · Steaua · SR Brașov · Sepsi OSK · Steaua Bucuresti · Steaua București · Săgeata Năvodari · Sepsi Sf. Gheorghe · Sepsi Sfântu Gheorghe
 - **T** (3): Timişoara · Târgu Mureş · Târgu Mureș
