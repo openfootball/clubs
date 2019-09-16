@@ -6,15 +6,40 @@ Millonarios Bogotá,       Bogotá
   | Millonarios | Millonarios FC | Millonarios Fútbol Club
 Independiente Santa Fe,   Bogotá
   | Santa Fe | Corporación Deportiva Santa Fe
+La Equidad,               Bogotá
 
 
 Atlético Nacional,        Medellín
   | At. Nacional | Club Atlético Nacional S.A.
+Independiente Medellín,   Medellín
+
 
 Junior de Barranquilla,   Barranquilla
   | Junior | Corporación Popular Deportiva Junior
+  | Atlético Junior
 
 Once Caldas,              Manizales
   | Corporación Deportiva Once Caldas
 
 Deportes Tolima,          Ibagué
+
+Alianza Petrolera FC,  Barrancabermeja
+  | Alianza Petrolera
+
+América de Cali,   Cali
+Deportivo Cali,    Cali
+
+Atlético Bucaramanga, Bucaramanga
+Atlético Huila, Neiva
+
+
+Cúcuta Deportivo, Cúcuta
+Deportivo Pasto, Pasto
+Envigado FC,      Envigado
+  | Envigado
+Jaguares de Córdoba,  Montería
+  | Jaguares
+Patriotas Boyacá,  Tunja
+  | Patriotas
+Rionegro Águilas, Rionegro
+Unión Magdalena,  Santa Marta
