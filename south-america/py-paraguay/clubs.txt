@@ -1,11 +1,34 @@
 ===========================
 =  Paraguay (py)
 
-Libertad Ascunción, Asunción
-  | Club Libertad Asunción | Libertad
+Libertad Ascunción,    Asunción 
+  | Libertad | Club Libertad | Club Libertad Asunción
 Club Olimpia,       Asunción
   | Olimpia
 Club Nacional,      Asunción
   | Nacional | Nacional de Asunción
 Cerro Porteño,      Asunción
   | Club Cerro Porteño
+Club Guaraní,        Asunción
+  | Guaraní
+Club River Plate,     Asunción
+  | River Plate | River Pl. Asuncion
+  | Club River Plate (Asunción)
+
+
+Deportivo Capiatá,  Capiatá
+Deportivo Santaní,   San Estanislao
+
+Club General Díaz,  Luque
+  | General Díaz
+  | Club General Díaz (Luque)
+Sportivo Luqueño,   Luque
+
+Club Sportivo San Lorenzo,  San Lorenzo
+  | San Lorenzo
+Club Sol de América,  Villa Elisa
+  | Sol de América
+
+
+
+
