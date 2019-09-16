@@ -3,6 +3,7 @@
 
 AIK,                 Stockholm
   | AIK Fotboll | Allmänna Idrottsklubben
+  | AIK Stockholm
 IF Brommapojkarna,   Stockholm (Bromma)
   | Brommapojkarna
 Djurgårdens IF,      Stockholm
