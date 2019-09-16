@@ -3,28 +3,34 @@
 
 
 KR Reykjavík, Reykjavík
-  | Knattspyrnufélag Reykjavíkur
-Fram Reykjavík
+  | KR | Knattspyrnufélag Reykjavíkur
+Fram Reykjavík,  Reykjavík
   | Fram
-Valur Reykjavík
+Fylkir Reykjavik,  Reykjavík
+  | Fylkir 
+Valur Reykjavík,   Reykjavík
   | Valur
-Víkingur Reykjavík
+Víkingur Reykjavík, Reykjavík
+  | Víkingur R.     
 
 
 ÍA Akranes,   Akranes
   | ÍA | Íþróttabandalag Akraness
-FH Hafnarfjördur
+FH Hafnarfjörður,  Hafnarfjörður
   | FH
-Breidablik
-Thór Akureyri
-ÍBV Vestmannaeyjar
+Breiðablik,          Kópavogur        # note: Breidablik - auto-change ð to d
+ÍBV Vestmannaeyjar,  Vestmannaeyjar
   | ÍBV
-Fylkir
-Keflavík
-Stjarnan
-Grindavík
+Stjarnan,     Garðabær
+  | Stjarnan Garðab.
+Grindavík,    Grindavík
 
-HK Kópavogs
+HK Kópavogs,   Kópavogur
   | HK
-KA Akureyri
+
+KA Akureyri,   Akureyri		
   | KA
+Thór Akureyri,    Akureyri        # note: Þór Akureyri - auto-change Þ to Th - why? why not
+  | Þór Akureyri
+  
+Keflavík,      Reykjanesbær
