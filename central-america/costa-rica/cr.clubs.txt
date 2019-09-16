@@ -1,9 +1,33 @@
 ===========================
 =  Costa Rica (cr)
 
-LD Alajuelense,    city:alajuela   #  23 kilómetros al oeste de San José
+LD Alajuelense,   Alajuela › Alajuela     #  23 kilómetros al oeste de San José    
   | Alajuelense
-CS Herediano,      city:heredia  #  10 km al noroeste de San José
-  | Herediano
-CS Cartaginés
+Carmelita,        Santa Bárbara › Heredia
+  | Asociación Deportiva Carmelita
+CS Cartaginés,     Cartago › Cartago
   | Cartaginés
+Municipal Grecia,    Grecia › Alajuela
+  | Grecia
+Guadalupe FC,       Guadalupe › San José
+  | Guadalupe
+CS Herediano,       Heredia › Heredia  #  10 km al noroeste de San José
+  | Herediano | Club Sport Herediano 
+  
+AD Municipal Liberia,   	Liberia › Guanacaste
+  | Liberia
+Limón FC,             Limón › Limón
+  | Limón
+Municipal Pérez Zeledón, 1962,   San Isidro de El General › San José
+  | Pérez Zeledón | AD Municipal Pérez Zeledón
+Santos de Guápiles,    Guápiles › Limón
+  | Santos
+Deportivo Saprissa,    San Juan de Tibás › San José
+  | Saprissa
+Universidad de Costa Rica, 1941  Montes de Oca › San José
+  | UCR | CF Universidad de Costa Rica | Club de Futbol Universidad de Costa Rica
+AD San Carlos, 1965,  Ciudad Quesada › San Carlos
+  | San Carlos | Asociación Deportiva San Carlos
+
+ADR Jicaral, 1981
+  | Asociación Deportiva y Recreativa Jicaral
