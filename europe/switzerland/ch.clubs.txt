@@ -4,9 +4,9 @@
 
 == Zürich ==
 Grasshoppers Zürich, 1886,       Zürich
-  | Grasshoppers | Grasshoppers Zurich | Grasshopper Club Zürich
+  | Grasshoppers | Grasshopper Club Zürich
 FC Zürich, 1896,                 Zürich
-  | Zürich | Zurich | FC Zurich
+  | Zürich
 FC Winterthur, 1896,      Winterthur
   | Winterthur
 
@@ -50,7 +50,7 @@ FC Sion, 1909,                 Sion
 == Neuchâtel ==
 Xamax Neuchâtel,              Neuchâtel
   | Xamax
-  | Neuchâtel Xamax FC | Neuchâtel Xamax FCS
+  | Neuchâtel Xam | Neuchâtel Xamax FC | Neuchâtel Xamax FCS
 
 == Lausanne ==
 FC Lausanne,  1896,           Lausanne

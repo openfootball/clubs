@@ -30,16 +30,17 @@ Viktoria Plzeň, 1911,  Plzeň      ## Plzeň
   | Plzeň | FC Viktoria Plzeň | Football Club Viktoria Plzeň
 
 FC Slovan Liberec, 1958,  Liberec    ## Liberec
-  | Liberec | Football Club Slovan Liberec
+  | Liberec | Slovan Liberec
+  | Football Club Slovan Liberec
 
 FK Jablonec, 1945, Jablonec nad Nisou     ## Liberec
   | Jablonec
 
 FC Baník Ostrava, 1922,  Ostrava      ## Moravian-Silesian
-  | Baník
+  | Baník | Baník Ostrava
 
 SK Sigma Olomouc, 1919, Olomouc     ## Olomouc
-  | Sigma
+  | Sigma | Sigma Olomouc
 
 FK Teplice, 1945, Teplice     ## Ústí nad Labem
   | Teplice
@@ -63,4 +64,4 @@ SFC Opava
   | Opava
 
 SK Dynamo České Budějovice
-  | České Budějovice
+  | České Budĕjov. | České Budějovice

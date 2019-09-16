@@ -10,7 +10,7 @@ PFC CSKA Moskva, 1911,   Moskva
   | CSKA Moscow [en] | PFC CSKA Moscow [en] | PFK CSKA Moscow [en]
 Dynamo Moskva, 1923,     Moskva
   | Dynamo | Dinamo | Dinamo Moskva | FC Dinamo Moskva
-  | Dynamo Moscow [en] | Dinamo Moscow [en] | FC Dynamo Moscow [en]
+  | Dynamo Mosc [en] | Dynamo Moscow [en] | Dinamo Moscow [en] | FC Dynamo Moscow [en]
 FC Spartak Moskva, 1922,    Moskva
   | Spartak | FC Spartak | Spartak Moskva
   | Spartak Moscow [en] | FC Spartak Moscow [en]
@@ -41,15 +41,17 @@ FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
   | Amkar | Amkar Perm
 
 FC Anzhi Makhachkala, 1991,  Makhachkala      ## Dagestan (Republic of) >  North Caucasian (Federal District)
-  | Anzhi | Anji | Anzhi Makhachkala | FK Anzi Makhackala
-
+  | Anzhi | Anzhi Makhachkala | FK Anzi Makhackala
+  | Anji
+  
 FC Sibir Novosibirsk,  Novosibirsk
-  | Sibir' | Sibir | FC Sibir
+  | Sibir | Sibir' | FC Sibir
 
 FC Alania Vladikavkaz,  Vladikovkaz
   | Alania | Alania Vladikavkaz
 
 PFC Krylya Sovetov Samara,    Samara
+  | Samara
   | Krylya Sovetov | FK Krylya Sovetov Samara
   | Krylia Sovetov | Kryl'ia Sovetov | Krylia Sovetov Samara | PFC Krylia Sovetov Samara
   | Kryliya Sovetov [de]
@@ -112,7 +114,7 @@ Volga Nizhnii Novgorod, Nizhny Novgorod
 FC Tambov,  2013, Tambov
   | Tambov
 FC Orenburg,  Orenburg
-  | Orenburg
+  | Orenburg | FK Orenburg
 Volgar-Astrakhan,  Astrakhan
 Vladikavkaz,   Vladikavkaz
 Yenisey, Krasnoyarsk

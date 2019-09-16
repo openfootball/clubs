@@ -81,7 +81,7 @@ KFC Uerdingen,        Krefeld          ## bis 1995 FC Bayer 05 Uerdingen
 Alemannia Aachen,     Aachen
   | Aachen | TSV Alemannia Aachen
 SC Paderborn 07,  1907,      Paderborn
-  | Paderborn | SC Paderborn
+  | Paderborn | Paderborn 07 | SC Paderborn
 Rot Weiss Ahlen,    Ahlen
   | Ahlen
 Rot-Weiß Oberhausen,   Oberhausen
@@ -262,7 +262,7 @@ KSV Hessen Kassel
 1. FC Kaiserslautern, 1900, Kaiserslautern › Rheinland-Pfalz
   | K'lautern | Kaiserslautern | 1. FC K'lautern | FC Kaiserslautern
 1. FSV Mainz 05, 1905,     Mainz          › Rheinland-Pfalz
-  | Mainz | FSV Mainz 05
+  | Mainz | Mainz 05 | FSV Mainz 05
 1. FSV Mainz 05 II,     Mainz          › Rheinland-Pfalz
 Eintracht Trier,      Trier          › Rheinland-Pfalz
   | Ein Trier

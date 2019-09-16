@@ -45,7 +45,7 @@ Estudiantes LP, La Plata › Buenos Aires
   | Estudiantes | Club Estudiantes de La Plata
   | Estudiantes de La Plata
 Gimnasia y Esgrima,  La Plata › Buenos Aires
-  | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata | GELP 
+  | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata | GELP
   | Club de Gimnasia y Esgrima La Plata
 
 
@@ -108,7 +108,7 @@ San Martín,    San Juan
 == Provincia Tucumán ==
 
 Atlético Tucumán,       San Miguel de Tucumán  › Tucumán
-  | Atl. Tucumán
+  | Tucumán | Atl. Tucumán
 San Martín de Tucumán,  San Miguel de Tucumán  › Tucumán
   | San Martín T.
   | Club Atlético San Martín | Club Atlético San Martín (Tucumán)
@@ -133,4 +133,3 @@ Central Córdoba,     Santiago del Estero › Santiago del Estero
   | CC Córdoba | Club Atlético Central Córdoba
   | Central Córdoba de Santiago del Estero
   | Central Córdoba (SdE)
-  

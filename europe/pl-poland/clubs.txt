@@ -54,7 +54,7 @@ Bruk-Bet Termalica Nieciecza, 1922, Nieciecza
 
 Widzew Łódź,  Łódź
 ŁKS Łódź,     Łódź
-  | ŁKS
+  | ŁKS | Łódzki KS
 
 
 Zagłębie Lubin,  Lubin
@@ -64,5 +64,5 @@ Zawisza Bydgoszcz,  Bydgoszcz
   | Zawisza
 
 Raków Częstochowa, 1921,  Częstochowa
-  | Raków | RKS Raków Częstochowa
+  | Raków | RKS Raków | RKS Raków Częstochowa
   | Raków Czestochowa   ## todo/fix: check unaccent for Czę

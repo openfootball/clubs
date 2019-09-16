@@ -8,21 +8,22 @@ Beijing Renhe,            Beijing
   | Beijing Renhe FC
 
 Shanghai SIPG,               Shanghai
-  | Shanghai SIPG FC | SIPG Shanghai 
+  | Shanghai SIPG FC | SIPG Shanghai
 Shanghai Greenland Shenhua,  Shanghai
   | Shanghai Shenhua
 Shanghai Shenxin,            Shanghai
-  | Shanghai Shenxin FC
+  | Shanghai Shen | Shanghai Shenxin FC
 
 
 Guangzhou Evergrande Taobao,   Guangzhou
-  | Guangzhou Ev. | Guangzhou Evergrande
+  | Guangzhou Ev. | Guangzhou Evg | Guangzhou Evergrande
   | Guangzhou Evergrande Taobao FC
 Guangzhou R&F,                 Guangzhou
 
 Chongqing Dangdai Lifan,   Chongqing
   | Chongqing Lifan
   | Chongqing Dangdai Lifan FC
+  | Chongqing SWM
 Changchun Yatai,           Changchun
 Dalian Yifang,             Dalian
   | Dalian Yifang FC
@@ -32,10 +33,10 @@ Guizhou Hengfeng,          Guiyang
 Hangzhou Greentown,        Hangzhou
 
 Shandong Luneng Taishan,   Jinan
-  | Shandong Luneng
+  | Shandong Lunen | Shandong Luneng
 Hebei China Fortune,       Langfang
   | Hebei
-  | Hebei China Fortune FC
+  | Hebei Fortune | Hebei China Fortune FC
 Jiangsu Suning,            Nanjing
   | Jiangsu Suning FC
 

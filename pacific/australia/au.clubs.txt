@@ -8,17 +8,21 @@
 
 
 Adelaide United,          Adelaide      › South Australia
+  | Adelaide
 Brisbane Roar,            Brisbane Roar › Queensland
+  | Brisbane
 
 Sydney FC,                 Sydney › New South Wales
 Western Sydney Wanderers,  Sydney › New South Wales
-  | WS Wanderers FC
+  | W Sydney | WS Wanderers FC
 Central Coast Mariners,   Gosford ›  Central Coast › New South Wales
   | Central Coast
 Newcastle United Jets,    Newcastle › New South Wales
-  | Newcastle Jets
+  | Newcastle | Newcastle Jets
 
 Melbourne Heart,          Melbourne › Victoria
+  | Melb City
 Melbourne Victory,        Melbourne › Victoria
+  | Melb Victory
 
 Perth Glory,           Perth › Western Australia

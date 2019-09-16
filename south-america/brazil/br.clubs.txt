@@ -42,7 +42,8 @@ São Bento,  Sorocaba
 
 == Rio de Janeiro ==
 Botafogo RJ,     Rio de Janeiro
-  | Botafogo | Botafogo FR | Botafogo de Futebol e Regatas
+  | Botafogo | Botafogo (RJ)
+  | Botafogo FR | Botafogo de Futebol e Regatas
 Flamengo RJ,     Rio de Janeiro
   | Flamengo | CR Flamengo| Flamengo Rio de Janeiro
   | Clube de Regatas do Flamengo
@@ -52,7 +53,7 @@ CR Vasco da Gama,   Rio de Janeiro
   | Vasco | Vasco RJ | Vasco da Gama | Vasco da Gama RJ
   | Vasco da Gama Rio de Janeiro
   | Club de Regatas Vasco da Gama
-  
+
 
 
 == Minas Gerais ==
@@ -82,7 +83,7 @@ Brasil RS,  Pelotas
 
 == Paraná ==
 Atlético PR,   Curitiba
-  | Atlético Paranaense | C Atlético Paranaense | Clube Atlético Paranaense
+  | Athl Paranaense | Atlético Paranaense | C Atlético Paranaense | Clube Atlético Paranaense
   | Atletico-PR | Atlético/PR
   | Athletico-PR [en] | Club Athletico Paranaense [en]
 Coritiba PR,   Curitiba
@@ -125,7 +126,7 @@ Náutico PE,  Recife
 EC Vitória,      Salvador
   | Vitória | Vitória BA | Esporte Clube Vitória
 EC Bahia,            Salvador
-  | Bahia | Bahia BA | EC Bahia BA | Esporte Clube Bahia 
+  | Bahia | Bahia BA | EC Bahia BA | Esporte Clube Bahia
 
 
 == Goiás ==
@@ -143,7 +144,7 @@ Vila Nova GO,  Goiânia
 Ceára SC,      Fortaleza
   | Ceará | Ceará CE | Ceará Sporting Club
 Fortaleza,     Fortaleza
-  | Fortaleza EC CE | Fortaleza Esporte Clube 
+  | Fortaleza EC CE | Fortaleza Esporte Clube
 
 == Pará ==
 Paysandu SC,   Belém

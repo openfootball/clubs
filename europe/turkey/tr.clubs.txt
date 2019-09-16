@@ -15,7 +15,7 @@ Kasımpaşa İstanbul SK,   İstanbul (Beyoğlu)
   | Kasımpaşa SK | Kasımpaşa
 
 İstanbul Başakşehir,  İstanbul (Başakşehir)
-  | İstanb. Başakşehir | İstanbul Başakşehir FK
+  | Başakşehir | İstanb. Başakşehir | İstanbul Başakşehir FK
   | Büyükşehyr | İstanbul Büyükşehir Belediyespor    ## (double) check if Buyuksehyr matching (or separate club) !?
 
 İstanbulspor, 1913, İstanbul
@@ -100,7 +100,7 @@ Trabzonspor AŞ, Trabzon
   | Trabzonspor
 
 Yeni Malatyaspor, 1986, Malatya
-  | Yeni Malatya Spor Kulübü
+  | Y. Malatyaspor | Yeni Malatya Spor Kulübü
 Malatyaspor, 1966, Malatya      # note: Not to be confused with Yeni Malatyaspor
   | Malatya SK | Malatya Spor Kulübü
 
@@ -112,9 +112,9 @@ Adana Demirspor, 1940, Adana
 
 Gaziantepspor, 1969,  Gaziantep
 Gazişehir Gaziantep FK,  1988, Gaziantep         # formerly known as Gaziantep Büyükşehir Belediyespor
+  | Gaziantep | Gaziantep FK
   | Gazişehir Gaziantep | Gaziş. Gaziantep
   | Gazişehir Gaziantep Futbol Kulübü
-  | Gaziantep
 
 Çaykur Rizespor, Rize
   | Rizespor

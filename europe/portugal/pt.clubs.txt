@@ -24,16 +24,21 @@ Estoril Praia, Estoril
   | Estoril
 CD Feirense, Santa Maria da Feira
   | Feirense
+
 Vitória de Guimarães, Guimarães
-  | Guimarães | Vitória SC | Vit. Guimarães | Vitória Guimarães
-Vitória de Setúbal, Setúbal          ## note:  Vitória SC <=> Vitória FC !!!
-  | Setúbal | Vitória FC | Vitória Setúbal
+  | Vitória
+  | Guimarães | Vit. Guimarães | Vitória Guimarães
+  | Vitória SC
+Vitória de Setúbal, Setúbal   ## note:  Vitória SC <=> Vitória FC !!!
+  | Setúbal | Vitória Setúbal
+  | Vitória FC
+
 CS Marítimo, Funchal
   | Marítimo
 Moreirense FC, Moreira de Cónegos
   | Moreirense
 FC Paços de Ferreira, Paços de Ferreira
-  | Paços Ferreira | Paços de Ferreira
+  | Paços | Paços Ferreira | Paços de Ferreira
 Portimonense SC, Portimão
   | Portimonense
 Rio Ave FC, Vila do Conde

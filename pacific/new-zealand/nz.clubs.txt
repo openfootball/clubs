@@ -20,3 +20,4 @@ Otago United,  Dunedin › Otago  › South Island
 # note: plays in australian a-league
 
 Wellington Phoenix,     Wellington › Wellington › North Island
+  | Wellington
