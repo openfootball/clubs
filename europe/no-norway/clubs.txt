@@ -3,6 +3,10 @@
 
 Vålerenga Fotball,   Oslo
   | Vålerenga | Vålerenga IF
+KFUM-Kameratene Oslo,  Oslo
+  | KFUM Oslo
+Skeid Fotball,  Oslo
+  | Skeid
 
 Rosenborg BK,  Trondheim
   | Rosenborg | Rosenborg Ballklub
@@ -35,7 +39,7 @@ Sandnes Ulf,  Sandnes
 Sarpsborg 08,  Sarpsborg
   | Sarpsborg | Sarpsborg 08 FF | Sarpsborg 08 Fotballforening
 Sogndal,  Sogndal
-  | Sogndal Fotball
+  | Sogndal Fotball | Sogndal IL
 Stabæk,  Bærum
  | Stabæk Fotball
 IK Start,  Kristiansand
@@ -54,8 +58,25 @@ Hønefoss BK,  Hønefoss
  | Hønefoss | Hønefoss Ballklubb
 FK Jerv,   Grimstad
   | Jerv
-Ullensaker/Kisa IL,   Ullensaker
-  | Ull/Kisa
+Ullensaker/Kisa IL,   Ullensaker    ## locaction use Jessheim ???
+  | Ull/Kisa | Ullensaker/Kisa
 
 IL Hødd,   Ulsteinvik
   | Hødd | Idrettslaget Hødd
+
+Hamarkameratene,  Hamar
+  | HamKam | Ham-Kam
+Kongsvinger IL Toppfotball, Kongsvinger
+  | Kongsvinger | Kongsvinger IL Fot
+Nest-Sotra Fotball,  Sotra
+  | Nest-Sotra
+Notodden FK,  Notodden
+  | Notodden
+Raufoss IL, Raufoss
+  | Raufoss
+Strømmen IF, Strømmen
+  | Strømmen
+  | Strömmen IF [de]
+Tromsdalen UIL,  Tromsdalen
+  | Tromsdalen
+
