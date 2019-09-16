@@ -16,6 +16,7 @@ Hapoel Haifa FC
 Hapoel Kiryat Shmona FC
   | H. Kiryat Shmona
   | Hapoel Ironi Kiryat Shmona FC
+  | Ironi K. Shmona
 Maccabi Netanya FC
   | M. Netanya | Maccabi Netanya
 Beitar Jerusalem FC
@@ -43,7 +44,7 @@ Maccabi Petah Tikva FC, Petah Tikva
   | Maccabi Petah Tikva
 
 Hapoel Kfar-Saba FC
-  | H. Kfar-Saba
+  | H. Kfar-Saba | Hapoel Kfar-Saba
 
 Sektzia Nes Tziona FC
   | Nes Tziona
