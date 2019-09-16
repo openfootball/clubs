@@ -5,7 +5,7 @@ Montreal Impact, 2010,    Montréal  › Quebec       ## founding year is 2012
   | Montreal | Montreal I. | Impact Montréal | Impact de Montréal
 
 Toronto FC,  2006,         Toronto   › Ontario      ## founding year is 2007? check again
-  | Toronto | TFC
+  | TFC | Toronto | FC Toronto 
 
 Vancouver Whitecaps FC, 1974,  Vancouver › British Columbia   ## founding year is 2011? check again
   | Vancouver | Vancouver W'caps | Vancouver Whitecaps
