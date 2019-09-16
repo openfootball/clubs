@@ -43,7 +43,7 @@ Zulia FC,              Maracaibo
 Aragua FC,             Maracay
   | Aragua
 Estudiantes de Mérida,  Mérida
-  | Estudiantes | Est. de Merida
+  | Estudiantes | Est. de Mérida
 Tucanes FC,            Puerto Ayacucho
   | Tucanes | Tucanes de Amazonas
 Yaracuyanos FC,        San Felipe
