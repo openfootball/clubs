@@ -5,13 +5,44 @@ Alianza Lima,     Lima
   | Club Alianza Lima
 Sporting Cristal,  Lima
   | Club Sporting Cristal
+Deportivo Municipal,  Lima
+Club Deportivo Universidad de San Martín de Porres, Lima
+  | Universidad San Martín
+Club Universitario de Deportes, Lima
+  | Universitario
+
 
 Juan Aurich,      Chiclayo
   | Club Juan Aurich S.A
+Molinos El Pirata, Chiclayo
+
 
 Sport Huancayo,   Huancayo
 
+Alianza Universidad,  Huánuco
+  | Ali. Univ. Huánuco
+
 Real Garcilaso,   Cusco
   | Asociación Civil Real Atlético Garcilaso
+
 Universidad César Vallejo, Trujillo
   | Club Deportivo Universidad César Vallejo
+Carlos A. Mannucci,    Trujillo
+
+Ayacucho FC,          Ayacucho
+  | Ayacucho
+
+Escuela Municipal Binacional,  Juliaca
+  | Binacional
+
+Academia Cantolao,       Callao
+  | Cantolao
+Sport Boys,             Callao
+
+FBC Melgar, Arequipa
+  | Melgar
+
+Unión Comercio, Nueva Cajamarca
+
+Universidad Técnica de Cajamarca, Cajamarca
+  | UTC
