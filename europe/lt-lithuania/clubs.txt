@@ -15,7 +15,7 @@ FBK Kaunas,        Kaunas
 FK Ekranas
   | Ekranas
 FK Sūduva
-  | Sūduva
+  | Sūduva | Sūduva Marija.
 FK Tauras
 FK Vėtra
 FC Šiauliai
