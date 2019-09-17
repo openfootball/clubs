@@ -8,7 +8,7 @@ Maccabi Tel-Aviv FC
 Bnei Yehuda Tel-Aviv FC
   | Bnei Yehuda
 Beitar Tel Aviv Bat Yam FC,  Tel Aviv       ## and Bat Yam
-  | Beitar Tel Aviv | Beitar Tel Aviv Bat Yam 
+  | Beitar Tel Aviv | Beitar Tel Aviv Bat Yam
 
 
 Maccabi Haifa FC
@@ -27,15 +27,12 @@ Beitar Jerusalem FC
   | Beitar Jerusalem
 Hapoel Katamon Jerusalem FC,  Jerusalem
   | Hap. Kat. Jerusalem | Hapoel Katamon Jerusalem
-  
+
 Hapoel Beer-Sheva FC
   | H. Beer-Sheva
 
 FC Ashdod,     Ashdod
   | Ashdod | FC Ironi Ashdod
-
-Bnei Sakhnin FC,  Sakhnin
-  | Bnei Sakhnin
 
 Hapoel Hadera FC, Hadera
   | Hapoel Hadera
@@ -54,7 +51,6 @@ Hapoel Kfar-Saba FC
 Sektzia Nes Tziona FC
   | Nes Tziona
 
-
 Bnei Sakhnin FC,  Sakhnin
   | Bnei Sakhnin
 FC Kafr Qasim, Kafr Qasim
@@ -63,7 +59,7 @@ Hapoel Acre FC, Acre
 Hapoel Afula FC, Afula
   | Hapoel Afula
 Hapoel Ashkelon FC, Ashkelon
-  | Hapoel Ashkelon 
+  | Hapoel Ashkelon
 Hapoel Bnei Lod FC,  Lod
   | Hapoel Bnei Lod
 Hapoel Nof HaGalil FC, Nof HaGalil
@@ -74,10 +70,9 @@ Hapoel Ramat Gan Giv'atayim FC,  Ramat Gan
   | Hapoel Ramat Gan | H. Ramat Gan
 Hapoel Ramat HaSharon FC,   Ramat HaSharon
   | Hapoel Ramat HaSharon | I. Ramat Hasharon
-Hapoel Rishon LeZion FC, Rishon LeZion 
+Hapoel Rishon LeZion FC, Rishon LeZion
   | Hapoel Rishon LeZion | Hapoel Rishon Lezi
 Hapoel Umm al-Fahm FC,   Umm al-Fahm
   | Hapoel Umm al-Fahm
 Maccabi Ahi Nazareth FC,   Nazareth
   | M. Ahi Nazareth | Maccabi Ahi Nazareth
-

@@ -7,11 +7,13 @@ Deportivo La Guaira,   Caracas
   | Dvo. La Guaira
 Deportivo Petare,      Caracas
   | Dvo. Petare
-Atlético Venezuela,     Caracas
 Estudiantes de Caracas, Caracas
   | Estud. de Caracas
 Metropolitanos FC,      Caracas
   | Metropolitanos | FC Metropolitanos
+
+Atlético Venezuela,     Caracas     ##  location use Maiquetía ???
+
 
 
 Deportivo Táchira,     San Cristóbal
@@ -28,16 +30,15 @@ Deportivo Anzoátegui,  Puerto La Cruz
   | Dvo. Anzoátegui | Deportivo Anzoátegui Sport Club
 
 AC Mineros,            Ciudad Guayana
-  | Mineros | Mineros Guayana | Mineros de Guayana 
+  | Mineros | Mineros Guayana | Mineros de Guayana
 LALA FC,               Ciudad Guayana
   | LALA
 
 
 Atlético El Vigía,     El Vigía
 Llaneros FC,           Guanare
-  | Llaneros | Llaneros de Guanare 
+  | Llaneros | Llaneros de Guanare
   | Llaneros Escuela de Fútbol
-Atlético Venezuela,    Maiquetía
 Zulia FC,              Maracaibo
   | Zulia
 Aragua FC,             Maracay
