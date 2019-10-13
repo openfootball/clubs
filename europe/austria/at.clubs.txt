@@ -45,13 +45,13 @@ ASV Draßburg, Draßburg
 == Niederösterreich ==
 
 FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
-  | Admira | Admira Wacker
-  | Admira Wien     ## historic Admira Wien name add (-???) or something
+  | Admira | Admira Wacker | Admira Wacker Mödling
+  | Admira Wien     ## historic Admira Wien name add (-????) or something
 FC Admira Wacker Mödling II,  Maria Enzersdorf (Südstadt)
   | Admira Amateure
 
 SC Wiener Neustadt,  Wr. Neustadt
-  | Neustadt
+  | Neustadt | Wiener Neustadt
 
 SKN St. Pölten,      St. Pölten
   | St. Pölten
@@ -152,7 +152,7 @@ Austria Klagenfurt, Klagenfurt
 FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
   | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg | FC Red Bull Salzburg
 FC Liefering,        Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
-
+  | Liefering
 
 Austria Salzburg,    Salzburg
   | SV Austria Salzburg
@@ -193,7 +193,8 @@ FC Zirl
 == Vorarlberg ==
 
 SCR Altach,          Altach
-  | Altach | SC Rheindorf Altach
+  | Altach
+  | Rheindorf Altach | SC Rheindorf Altach
 SCR Altach Juniors,  Altach
   | Altach Amateure
 

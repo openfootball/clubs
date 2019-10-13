@@ -46,6 +46,7 @@ Estudiantes LP, La Plata › Buenos Aires
   | Estudiantes de La Plata
 Gimnasia y Esgrima,  La Plata › Buenos Aires
   | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata | GELP
+  | Gimnasia y Esgrima LP
   | Club de Gimnasia y Esgrima La Plata
 
 
@@ -90,7 +91,7 @@ Atlético Rafaela, Rafaela › Santa Fe
 Club Atlético Belgrano,   Córdoba
   | Belgrano
 Talleres de Córdoba,      Córdoba
-  | Talleres | Talleres Cordoba | Club Atlético Talleres
+  | Talleres | Talleres C. | Talleres Cordoba | Club Atlético Talleres
 
 
 == Provincia Mendoza ==
