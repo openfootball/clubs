@@ -7,14 +7,15 @@
 SK Rapid Wien,     Wien (Hütteldorf)
   | Rapid Wien
   | Rapid Vienna [en]
-SK Rapid Wien II,  Wien (Hütteldorf)
+ii) SK Rapid Wien II
   | Rapid Wien Am.
 
 FK Austria Wien,   Wien (Favoriten)
   | Austria Wien
   | Austria Vienna [en]
-Young Violets Austria Wien,   Wien (Favoriten)
-  | Young Violets A.W.
+ii) Young Violets Austria Wien
+  | Young Violets A. W.
+  | FK Austria Wien II
 
 SC Team Wiener Linien,   Wien (Favoriten)
   | SC Team Wr. Linien
@@ -34,7 +35,7 @@ FC Mauerwerk,            Wien (Simmering)
 
 SV Mattersburg,      Mattersburg
   | Mattersburg
-SV Mattersburg II,   Mattersburg
+ii) SV Mattersburg II
   | SV Mattersburg Am.
 
 SC Neusiedl am See,  Neusiedl am See
@@ -47,7 +48,7 @@ ASV Draßburg, Draßburg
 FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
   | Admira | Admira Wacker | Admira Wacker Mödling
   | Admira Wien     ## historic Admira Wien name add (-????) or something
-FC Admira Wacker Mödling II,  Maria Enzersdorf (Südstadt)
+ii) FC Admira Wacker Mödling II
   | Admira Amateure
 
 SC Wiener Neustadt,  Wr. Neustadt
@@ -73,7 +74,7 @@ ASK-BSC Bruck/Leitha,  Bruck an der Leitha
 
 LASK Linz,           Linz (Pasching)          ## use Pasching ??
   | LASK | Linzer ASK
-FC Juniors OÖ,  Linz (Pasching)               ## use Pasching ??
+ii) FC Juniors OÖ     ## todo/(double) check: is a not a feeder / reserve team / club ?
 
 FC Blau-Weiß Linz, Linz
   | BW Linz
@@ -91,7 +92,7 @@ FC Stahl Linz,       Linz
 
 SV Ried,             Ried i. Innkreis
   | Ried
-SV Ried II,          Ried i. Innkreis
+ii) SV Ried II
 
 SK Vorwärts Steyr,   Steyr
 
@@ -108,7 +109,7 @@ Union Gurten,        Gurten
 
 SK Sturm Graz,       Graz
   | Sturm | Sturm Graz
-SK Sturm Graz II,    Graz
+ii) SK Sturm Graz II
   | Sturm Graz Amat.
 
 Grazer AK,   Graz
@@ -138,7 +139,7 @@ SC Weiz,               Weiz
 
 Wolfsberger AC, 	Wolfsberg
   | Wolfsberg | AC Wolfsberger
-Wolfsberger AC II, 	Wolfsberg
+ii) Wolfsberger AC II
   | WAC Amateure
 
 ATSV Wolfsberg, 	Wolfsberg
@@ -151,7 +152,7 @@ Austria Klagenfurt, Klagenfurt
 
 FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
   | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg | FC Red Bull Salzburg
-FC Liefering,        Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
+ii) FC Liefering
   | Liefering
 
 Austria Salzburg,    Salzburg
@@ -173,8 +174,9 @@ Bischofshofen Sportklub 1933
 
 FC Wacker Innsbruck, Innsbruck
   | Wacker Innsbruck | FC Tirol              ## note: FC Tirol old name - add year
-FC Wacker Innsbruck II, Innsbruck
-
+ii) FC Wacker Innsbruck II
+  | Wacker Innsbruck II
+  
 WSG Tirol, 1930,   Wattens
   | Tirol | WSG Swarovski Tirol | WSG Swarovs. Tirol | Wattener Sportgemeinschaft Tirol
   | Wattens | WSG Wattens
@@ -195,12 +197,12 @@ FC Zirl
 SCR Altach,          Altach
   | Altach
   | Rheindorf Altach | SC Rheindorf Altach
-SCR Altach Juniors,  Altach
+ii) SCR Altach Juniors
   | Altach Amateure
 
 Austria Lustenau,   Lustenau
   | SC Austria Lustenau
-Austria Lustenau Amateure,   Lustenau
+ii) Austria Lustenau Amateure
   | SC Austria Lustenau Amateure
   | Austria Lustenau A
 
