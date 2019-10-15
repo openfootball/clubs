@@ -7,8 +7,27 @@ Universidad Católica,   Santiago (Las Condes)
   | CDUC | CD Universidad Católica | Club Deportivo Universidad Católica
 Unión Española,         Santiago (Independencia)          # Independencia located in Santiago metro
   | Club Unión Española S.A.D.P
+Audax Italiano,   Santiago (La Florida)
+Colo-Colo,         Santiago (Macul)
+Club Deportivo Palestino,  Santiago (La Cisterna)
+  | Palestino
+
 
 CD Huachipato,          Talcahuano
   | Huachipato | Club Deportivo Huachipato
 Deportes Iquique,       Iquique
   | Iquique | Club Deportes Iquique
+
+CD Cobresal,      El Salvador
+  | Cobresal
+Coquimbo Unido,    Coquimbo
+Curicó Unido,      Curicó
+CD Antofagasta,          Antofagasta
+  | Deportes Antofagasta
+Everton de Viña del Mar,  Viña del Mar
+  | Everton
+O'Higgins FC,           Rancagua
+  | O'Higgins
+Unión La Calera,     La Calera
+CD Universidad de Concepción,      Concepción
+  | Universidad de Concepción
