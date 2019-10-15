@@ -486,7 +486,9 @@ Villarreal CF
 
 
 ===================================================
-=  Switzerland • Confoederatio Helvetica (ch)
+## todo/fix: add Confoederatio Helvetica to FIFA gem 
+## =  Switzerland • Confoederatio Helvetica (ch)
+=  Switzerland
 
 FC Basel
 Grasshopper Club Zürich
