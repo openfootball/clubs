@@ -5,10 +5,34 @@ Club Bolívar,                      La Paz
   | Bolívar
 The Strongest,                     La Paz
   | Strongest | Club The Strongest
+Club Always Ready,                 La Paz
+  | Always Ready
 
-Real Potosí,                       Potosí
-  | Club Bamin Real Potosí
-Club Deportivo San José,           Oruro         # check: conflict w/ sanjose en us?? exists??
-  | San José
 Club Deportivo Oriente Petrolero,  Santa Cruz de la Sierra
   | Oriente Petrolero
+Club Blooming,             Santa Cruz de la Sierra
+  | Blooming
+Club Destroyers,           Santa Cruz de la Sierra
+  | Destroyers
+Royal Pari FC,            Santa Cruz de la Sierra
+  | Royal Pari
+
+
+Real Potosí,                       Potosí
+  | Club Real Potosí | Club Bamin Real Potosí
+Nacional Potosí,                   Potosí
+
+Club Deportivo San José,           Oruro
+  | San José | Club San José
+
+Club Deportivo Guabirá,    Montero
+  | Guabirá
+
+CD Jorge Wilstermann,     Cochabamba
+  | Jorge Wilstermann
+Club Aurora,               Cochabamba
+  | Aurora
+
+Sport Boys Warnes,       Warnes
+  | Sport Boys
+
