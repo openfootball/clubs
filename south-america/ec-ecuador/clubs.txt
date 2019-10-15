@@ -4,14 +4,40 @@
 Deportivo Quito,              Quito
   | Sociedad Deportivo Quito
 El Nacional,                  Quito
-  | Club Deportivo El Nacional
+  | CD El Nacional | Club Deportivo El Nacional
 LDU Quito,                    Quito
   | LDU de Quito | Liga de Quito | Liga Deportiva Universitaria de Quito
+CD Universidad Católica del Ecuador,  Quito
+  | Universidad Católica
+América de Quito,   Quito
+SD Aucas,           Quito
+  | Aucas
+
 
 CS Emelec,                    Guayaquil
   | Emelec | Club Sport Emelec
 Barcelona Guayaquil,          Guayaquil
   | Barcelona | Barcelona SC Guayaquil | Barcelona SC | Barcelona Sporting Club
+Guayaquil City FC,            Guayaquil
+  | Guayaquil City
+
+CSD Macará,       Ambato
+  | Macará
+Mushuc Runa SC,   Ambato
+  | Mushuc Runa
+CD Técnico Universitario,   Ambato
+  | Técnico Universitario
 
 LDU Loja,                     Loja
   | LDU de Loja | Liga de Loja | Liga Deportiva Universitaria de Loja
+
+Delfín SC,         Manta
+  | Delfín
+CD Cuenca,         Cuenca
+  | Deportivo Cuenca
+Fuerza Amarilla SC,   Machala
+  | Fuerza Amarilla
+CSD Independiente del Valle,   Sangolquí
+  | Independiente del Valle
+CD Olmedo,        Riobamba
+  | Olmedo
