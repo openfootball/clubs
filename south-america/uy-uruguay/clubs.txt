@@ -2,7 +2,8 @@
 =  Uruguay (uy)
 
 Liverpool Montevideo,          Montevideo
-  | Liverpool | Liverpool FC | Liverpool Fútbol Club | Liverpool FC Montevideo
+  | Liverpool | Liverpool FC | Liverpool Fútbol Club
+  | Liverpool FC Montevideo
 Nacional de Montevideo, 1899,  Montevideo
   | Nacional | Club Nacional de Football | C. N. de F.
 Defensor Sporting,             Montevideo
@@ -26,7 +27,12 @@ Racing CM, 1919,               Montevideo
 CA Rentistas, 1933,            Montevideo
   | Rentistas | Club Atlético Rentistas
 CA River Plate, 1932,          Montevideo
-  | River Plate | Club Atlético River Plate   # note: riverplate used for club in argentina
+  | River Plate | Club Atlético River Plate
+  | Club Atlético River Plate (Uruguay)     ## wikipedia name
+Boston River,                  Montevideo
+CA Progreso,                   Montevideo
+  | Progreso
+Rampla Juniors,                Montevideo
 
 
 Juventud de Las Piedras, 1935,    Las Piedras
@@ -35,3 +41,5 @@ Cerro Largo, 2002,                Melo
   | Cerro Largo FC | Cerro Largo Fútbol Club
 Sud América, 1914,                San José
   | Institución Atlética Sud América | I.A.S.A
+Club Plaza Colonia de Deportes,   Colonia
+  | Plaza Colonia
