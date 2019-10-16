@@ -34,11 +34,12 @@ Vitória de Setúbal, Setúbal   ## note:  Vitória SC <=> Vitória FC !!!
   | Vitória FC
 
 CS Marítimo, Funchal
-  | Marítimo
+  | Marítimo | Marítimo Funchal
 Moreirense FC, Moreira de Cónegos
   | Moreirense
 FC Paços de Ferreira, Paços de Ferreira
   | Paços | Paços Ferreira | Paços de Ferreira
+  | FC Paços Ferreira
 Portimonense SC, Portimão
   | Portimonense
 Rio Ave FC, Vila do Conde
