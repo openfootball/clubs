@@ -10,7 +10,7 @@ Anorthosis Famagusta FC, Larnaca         ## note: originally based in Famagusta,
 AEL Limassol, Limassol
   | AEL | AEL Limassol FC | Athlitiki Enosi Lemesou
 Apollon Limassol FC
-  | Apollon | Apollon L.
+  | Apollon | Apollon L. | Apollon Limassol
 AEK Larnaca FC
   | AEK Larnaca
 APOP/Kinyras Peyias FC
@@ -26,7 +26,10 @@ Doxa Katokopia FC
   | Doxa
 Olympiakos Nicosia FC
   | Olympiakos
+  | Olympiakos Nicosia
 Enosis Neon Paralimni FC
   | Paralimni
+  | Enosis N. Paralimni
 Nea Salamis Famagusta FC
-  | Nea Salamis
+  | Nea Salamis 
+  | Nea Salamina Fama.
