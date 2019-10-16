@@ -5,13 +5,14 @@
 == Comunidad de Madrid ==
 
 Atlético Madrid,    Madrid    ## use Atlético de Madrid - why? why not?
-  | Atlético | Atlético de Madrid | Club Atlético de Madrid | Ath Madrid [en]
-Atlético Madrid B,  Madrid › Comunidad de Madrid
+  | Atlético | Atl. Madrid | Atlético de Madrid | Club Atlético de Madrid 
+  | Ath Madrid [en]
+ii) Atlético Madrid B
   | Ath Madrid B [en]
 
 Real Madrid,   Madrid
   | R. Madrid | Real Madrid CF | Real Madrid Club de Fútbol    ## add Madrid ?
-Real Madrid B, Madrid › Comunidad de Madrid
+ii) Real Madrid B
   | Real Madrid CF B
 
 Getafe CF,      Madrid    # Getafe - city in madrid metro area
@@ -34,12 +35,12 @@ CF Rayo Majadahonda, 1976,  Majadahonda
 
 Málaga CF,   Málaga
   | Málaga | CF Málaga | FC Málaga
-Málaga CF B, Málaga
+ii) Málaga CF B
   | Málaga B
 
 Sevilla FC,   Sevilla
   | Sevilla  | Sevilla Fútbol Club | FC Sevilla
-Sevilla FC B, Sevilla
+ii) Sevilla FC B
   | Sevilla B
 
 Real Betis, Sevilla
@@ -69,7 +70,7 @@ Granada 74, Granada
 
 FC Barcelona,   Barcelona
   | Barcelona  | Fútbol Club Barcelona
-FC Barcelona B, Barcelona
+ii) FC Barcelona B
   | Barcelona B | Fútbol Club Barcelona B
 
 RCD Espanyol, Barcelona
@@ -122,7 +123,7 @@ CD Castellón,   Castellón de la Plana
 
 Villarreal CF,    Villarreal    ## fix typo Villareal
   | Villarreal | Villareal
-Villarreal CF B,  Villarreal
+ii) Villarreal CF B
   | Villarreal B
 
 
@@ -137,7 +138,7 @@ SD Eibar,          Eibar
 
 Athletic Club Bilbao,   Bilbao    ## use Athletic Club - why? why not?
   | Athletic | Athletic Club | Ath Bilbao | Athletic Bilbao
-Athletic Club Bilbao B, Bilbao
+ii) Athletic Club Bilbao B
   | Ath Bilbao B
 
 
@@ -211,7 +212,7 @@ Universidad Las Palmas, Las Palmas
 
 RCD Mallorca,   Palma de Mallorca
   | Mallorca | Real CD Mallorca | Real Club Deportivo Mallorca
-RCD Mallorca B, Palma de Mallorca
+ii) RCD Mallorca B
   | Mallorca B
 
 == Canarias ==
