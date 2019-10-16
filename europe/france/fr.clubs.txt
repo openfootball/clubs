@@ -181,7 +181,7 @@ Wasquehal Foot, Wasquehal     ## use ES Wasquehal - why? why not?
   | Wasquehal
 
 Rodez AF, 1929,   Rodez › Occitanie
-  | Rodez | Rodez Aveyron Football
+  | Rodez | Rodez Aveyron | Rodez Aveyron Football
 
 AS Béziers, 2007,  Béziers › Occitanie
   | Béziers | Avenir Sportif Béziers      ## check wikipedia -> AS Béziers (2007)
