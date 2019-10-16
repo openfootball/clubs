@@ -71,8 +71,9 @@ Hapoel Ramat Gan Giv'atayim FC,  Ramat Gan
 Hapoel Ramat HaSharon FC,   Ramat HaSharon
   | Hapoel Ramat HaSharon | I. Ramat Hasharon
 Hapoel Rishon LeZion FC, Rishon LeZion
-  | Hapoel Rishon LeZion | Hapoel Rishon Lezi
-Hapoel Umm al-Fahm FC,   Umm al-Fahm
+  | Hap. Rishon LeZion | Hapoel Rishon LeZion | Hapoel Rishon Lezi
+Hapoel Umm al-Fahm FC,   Umm al-Fahm   # in hebrew: Um el-Faḥem
   | Hapoel Umm al-Fahm
+  | Hapoel Um el-Fahem
 Maccabi Ahi Nazareth FC,   Nazareth
   | M. Ahi Nazareth | Maccabi Ahi Nazareth
