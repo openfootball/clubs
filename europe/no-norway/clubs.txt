@@ -28,6 +28,7 @@ Fredrikstad FK,    Fredrikstad
   | Fredrikstad | Fredrikstad Fotballklubb
 Lillestrøm SK,    Lillestrøm
   | Lillestrøm
+  | Lilleström SK [de]     ## todo/fix: auto-generate variant (no) ø->ö
 Viking FK,    Stavanger
   | Viking | Viking Fotballklubb | Viking Stavanger
 Odds BK, Skien
@@ -41,7 +42,7 @@ Sarpsborg 08,  Sarpsborg
 Sogndal,  Sogndal
   | Sogndal Fotball | Sogndal IL
 Stabæk,  Bærum
- | Stabæk Fotball
+ | Stabæk Fotball | Stabæk IF
 IK Start,  Kristiansand
   | Start | Idrettsklubben Start
 
@@ -49,6 +50,7 @@ Kristiansund BK, Kristiansund
   | Kristiansund | Kristiansund Ballklubb
 Mjøndalen IF,   Mjøndalen
   | Mjøndalen
+  | Mjöndalen [de]      ## todo/fix: auto-generate variant (no) ø->ö
 Bodø/Glimt,   Bodø
   | FK Bodø/Glimt | Fotballklubben Bodø/Glimt
   | Bodö Glimt  [de]    ## check if ø=>ö transliteration is used in english too (or only german/de)?
