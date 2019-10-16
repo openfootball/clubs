@@ -57,6 +57,7 @@ Udinese Calcio, Udine
   | Udinese
 
 Ascoli, Ascoli Piceno
+  | Ascoli FC
 Avellino, Avellino
 Bari, Bari
 Brescia, Brescia
@@ -66,7 +67,9 @@ Carpi, Carpi
 Cesena, Cesena
   | AC Cesena | Associazione Calcio Cesena
 Cittadella, Cittadella
+  | AS Cittadella
 Cremonese, Cremona
+  | US Cremonese
 Empoli, Empoli
   | Empoli FC | Empoli Football Club | FC Empoli
 Foggia, Foggia
@@ -79,13 +82,17 @@ Parma, Parma
   | Parma FC | Parma Football Club | FC Parma
   | Parma Calcio 1913
 Perugia, Perugia
+  | Perugia Calcio
 Pescara, Pescara
   | Pescara Calcio
 Pro Vercelli, Vercelli
 Salernitana, Salerno
+  | Salernitana Calcio
 Spezia, La Spezia
+  | Spezia Calcio
 Ternana, Terni
 Venezia, Venezia
+  | SSC Venezia
 Virtus Entella, Chiavari
 
 
