@@ -38,6 +38,6 @@ CD Cuenca,         Cuenca
 Fuerza Amarilla SC,   Machala
   | Fuerza Amarilla
 CSD Independiente del Valle,   Sangolquí
-  | Independiente del Valle
+  | Ind. d. Valle | Indep. d. Valle | Independiente del Valle
 CD Olmedo,        Riobamba
   | Olmedo
