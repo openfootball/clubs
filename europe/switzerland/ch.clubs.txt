@@ -62,6 +62,7 @@ FC Le Mont, 1942,             Le Mont-sur-Lausanne
 == Genève ==
 Servette FC, 1890,            Genève
   | Servette | Servette Genève | Servette FC Genève
+  | FC Servette Genf [de]
 
 == Ticino ==
 FC Lugano, 1908,              Lugano
