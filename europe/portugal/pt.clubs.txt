@@ -7,7 +7,7 @@ SL Benfica,       Lisboa
 Sporting CP,      Lisboa
   | Sporting Lisboa | Sporting Clube de Portugal
   | Sp Lisbon [en]
-  | Sporting Lissabon [de]
+  | Sporting Liss. [de] | Sporting Lissabon [de]
 Os Belenenses,    Lisboa
   | Belenenses | Belenenses L. | Belenenses SAD
 
