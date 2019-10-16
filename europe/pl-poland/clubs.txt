@@ -19,6 +19,7 @@ Wisła Kraków,     Kraków
   | Wisła Krakau [de]
 KS Cracovia,     Kraków
   | Cracovia | MKS Cracovia Kraków
+  | Cracovia Krakau [de]
 WKS Śląsk Wrocław,    Wrocław
   | Śląsk | Śląsk Wrocław
 Jagiellonia Białystok,  Białystok
@@ -55,6 +56,7 @@ Bruk-Bet Termalica Nieciecza, 1922, Nieciecza
 Widzew Łódź,  Łódź
 ŁKS Łódź,     Łódź
   | ŁKS | Łódzki KS
+  | ŁKS Łódź PSS
 
 
 Zagłębie Lubin,  Lubin
