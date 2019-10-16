@@ -27,6 +27,7 @@ SSV Jahn Regensburg,   Regensburg
   | Schweinfurt
 Würzburger Kickers, 1907,     Würzburg
   | FC Würzburger Kickers
+  | Kickers Würzburg
 Wacker Burghausen,  Burghausen
   | Burghausen
 
@@ -48,7 +49,7 @@ Fortuna Düsseldorf,  1895, Düsseldorf
 
 Borussia Dortmund, 1909,    Dortmund
   | Dortmund | Bor. Dortmund | BV 09 Borussia Dortmund
-Borussia Dortmund II,       Dortmund
+ii) Borussia Dortmund II
   | Dortmund II | Bor. Dortmund II
 FC Schalke 04, 1904,         Gelsenkirchen
   | Schalke | Schalke 04
@@ -192,7 +193,8 @@ HSV Barmbek-Uhlenhorst
 
 Werder Bremen, 1899,      Bremen › Bremen
   | Bremen | SV Werder Bremen
-Werder Bremen II,      Bremen › Bremen
+ii) Werder Bremen II
+
 SG Aumund-Vegesack
 FC Oberneuland
 Bremer SV
@@ -202,7 +204,7 @@ Bremer SV
 
 VfB Stuttgart, 1893,        Stuttgart › Baden-Württemberg
   | Stuttgart
-VfB Stuttgart II,        Stuttgart › Baden-Württemberg
+ii) VfB Stuttgart II
   | Stuttgart II
 Stuttgarter Kickers,   Stuttgart › Baden-Württemberg
   | Stutt. Kick. | Stuttgarter K
@@ -226,7 +228,7 @@ VfR Mannheim,        Mannheim › Baden-Württemberg
   | Mannheim
   ##  - 2 (8): 2002-03....1999-00 (4) 1996-97....1993-94 (4)
 SV Waldhof Mannheim,   Mannheim › Baden-Württemberg
-  | Waldhof Mannheim | SV Waldhof Mannheim 07
+  | W. Mannheim | Waldhof Mannheim | SV Waldhof Mannheim 07
   ## note: SV Waldhof Mannheim (played in 1. liga and 2. liga too)
 
 SG Großaspach, 1994
@@ -261,9 +263,11 @@ KSV Hessen Kassel
 
 1. FC Kaiserslautern, 1900, Kaiserslautern › Rheinland-Pfalz
   | K'lautern | Kaiserslautern | 1. FC K'lautern | FC Kaiserslautern
+
 1. FSV Mainz 05, 1905,     Mainz          › Rheinland-Pfalz
   | Mainz | Mainz 05 | FSV Mainz 05
-1. FSV Mainz 05 II,     Mainz          › Rheinland-Pfalz
+ii) 1. FSV Mainz 05 II
+
 Eintracht Trier,      Trier          › Rheinland-Pfalz
   | Ein Trier
 TuS Koblenz,         Koblenz        › Rheinland-Pfalz
