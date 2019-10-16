@@ -32,5 +32,6 @@ Larne FC
   | Larne
 Carrick Rangers FC
   | Carrick
+  | FC Carrick Rangers
 Warrenpoint Town FC
   | Warrenpoint
