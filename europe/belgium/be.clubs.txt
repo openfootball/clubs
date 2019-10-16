@@ -82,7 +82,7 @@ SV Zulte Waregem, 1950,   Waregem  › West-Vlaanderen › Vlaanderen
 == Hainaut › Wallonie ==
 
 Sporting Charleroi, 1904,    Charleroi › Hainaut › Wallonie  ##  [fr]
-  | Charleroi  | R. Charleroi SC | Royal Charleroi Sporting Club
+  | Charleroi  | R. Charleroi SC | Royal Charleroi SC | Royal Charleroi Sporting Club
   | Sporting de Charleroi
 
 Royal Excel Mouscron, 2010,    Mouscron  › Hainaut › Wallonie     ## Moeskroen [nl]
@@ -100,7 +100,7 @@ KAS Eupen,             Eupen     › Liège   › Wallonie    ## [de]
 Standard Liège, 1898,   Liège     › Liège   › Wallonie    ## [fr]
   | Standard | R. Standard de Liège | Royal Standard de Liège
   | Standard de Liège
-  | Standard Lüttich [de]
+  | Stand. Lüttich [de] | Standard Lüttich [de]
 
 
 == ??? ==
