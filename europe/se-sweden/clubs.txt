@@ -48,7 +48,7 @@ Mjällby AIF,      Mjällby
 Dalkurd FF,   Uppsala
   | Dalkurd
 IK Sirius,  Uppsala
-  | Sirius
+  | Sirius | IK Sirius FK
 
 Falkenbergs FF,   Falkenberg
   | Falkenbergs
