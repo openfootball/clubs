@@ -40,7 +40,7 @@ EA Guingamp, 1912, Guingamp   ## Côtes-d'Armor > Brittany
 Lille OSC,  1944,   Lille      ## Nord > Nord-Pas-de-Calais
   | Lille  | LOSC | LOSC Lille | OSC Lille
 Olympique Lyonnais, 1899, Lyon      ## Lyon > Rhône-Alpes
-  | Lyon | Olympique Lyon
+  | Lyon | Ol. Lyon | Olympique Lyon
 Olympique de Marseille, 1899, Marseille   ## Bouches-du-Rhône > Provence-Alpes-Côte d'Azur
   | Marseille | Olymp. Marseille | Olympique Marseille
 FC Metz, 1932, Metz      ## Moselle > Lorraine
