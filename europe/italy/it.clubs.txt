@@ -92,11 +92,13 @@ Virtus Entella, Chiavari
 Piacenza Calcio, Piacenza
   | Piacenza | Piacenza Calcio 1919
 LR Vicenza Virtus, Vicenza
-  | Vicenza
+  | Vicenza | Vicenza Calcio
 Calcio Padova, Padova
   | Padova
+  | Padua Calcio [de]
 Modena FC, Modena
   | Modena
+  | FC Modena
 SS Robur Siena, Siena
   | Siena | AC Siena | Associazione Calcio Siena
 # note: Robur Siena was re-incorporated in 2014 after the bankruptcy of the previous legal person Associazione Calcio Siena S.p.A..
@@ -181,3 +183,9 @@ Virtus Lanciano, Lanciano
 
 Pordenone Calcio, 1920, Pordenone
   | Pordenone
+
+Vis Pesaro 1898,  Pesaro
+Giana Erminio,    Gorgonzola
+  | AS Giana Erminio
+Carrarese Calcio,  Carrara
+  | Carrarese | Carrarese Calcio 1908 
