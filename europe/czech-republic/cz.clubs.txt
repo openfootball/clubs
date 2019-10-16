@@ -18,6 +18,7 @@ SK Slavia Praha, 1892, Praha
 
 Bohemians Praha 1905, 1905, Praha
   | Bohemians 1905
+  | Bohem. Prag 1905 [de]
 
 
 FK Mladá Boleslav, 1902, Mladá Boleslav   ## Central Bohemia
@@ -28,6 +29,7 @@ FK Mladá Boleslav, 1902, Mladá Boleslav   ## Central Bohemia
 
 Viktoria Plzeň, 1911,  Plzeň      ## Plzeň
   | Plzeň | FC Viktoria Plzeň | Football Club Viktoria Plzeň
+  | Viktoria Pilsen [de]
 
 FC Slovan Liberec, 1958,  Liberec    ## Liberec
   | Liberec | Slovan Liberec
@@ -35,12 +37,14 @@ FC Slovan Liberec, 1958,  Liberec    ## Liberec
 
 FK Jablonec, 1945, Jablonec nad Nisou     ## Liberec
   | Jablonec
+  | FK Baumit Jablonec      ## check - $$$ Baumit is a sponsor?
 
 FC Baník Ostrava, 1922,  Ostrava      ## Moravian-Silesian
   | Baník | Baník Ostrava
 
 SK Sigma Olomouc, 1919, Olomouc     ## Olomouc
   | Sigma | Sigma Olomouc
+  | SK Sigma Olmütz [de]
 
 FK Teplice, 1945, Teplice     ## Ústí nad Labem
   | Teplice
@@ -65,3 +69,4 @@ SFC Opava
 
 SK Dynamo České Budějovice
   | České Budĕjov. | České Budějovice
+  | SK Dynamo Budweis [de]
