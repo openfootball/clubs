@@ -17,19 +17,21 @@ Danubio FC, 1932,              Montevideo
 El Tanque Sisley, 1941,        Montevideo
   | Deportivo El Tanque Sisley
 Centro Atlético Fénix, 1916,   Montevideo
-  | Fénix
+  | Fénix | CA Fénix
 CS Miramar Misiones, 1906,     Montevideo
   | Miramar Misiones | Club Sportivo Miramar Misiones
 Montevideo Wanderers, 1902,    Montevideo
   | Wanderers | Montevideo Wanderers FC | Montevideo Wanderers Fútbol Club
 Racing CM, 1919,               Montevideo
   | Racing | Racing Club de Montevideo
+  | RC Montevideo
 CA Rentistas, 1933,            Montevideo
   | Rentistas | Club Atlético Rentistas
 CA River Plate, 1932,          Montevideo
   | River Plate | Club Atlético River Plate
   | Club Atlético River Plate (Uruguay)     ## wikipedia name
 Boston River,                  Montevideo
+  | CA Boston River
 CA Progreso,                   Montevideo
   | Progreso
 Rampla Juniors,                Montevideo
