@@ -23,6 +23,7 @@ U Cluj,       Cluj
 
 Astra Giurgiu,   Giurgiu
   | Astra | FC Astra Giurgiu
+  | AFC Astra Giurgiu
 Ceahlăul Piatra Neamț,  Piatra Neamț
   | Ceahlaul | Ceahlaul Piatra Neamt | CSM Ceahlăul Piatra Neamț
 Concordia Chiajna,   Chiajna
@@ -102,6 +103,7 @@ UTA Arad,   Arad
 
 FC Voluntari,  Voluntari
   | Voluntari
-
+  | CS Voluntari
+  
 FC Academica Clinceni, 2005,  Clinceni
   | Academica Clinceni | Fotbal Club Academica Clinceni
