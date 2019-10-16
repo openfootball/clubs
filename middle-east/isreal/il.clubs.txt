@@ -14,7 +14,7 @@ Beitar Tel Aviv Bat Yam FC,  Tel Aviv       ## and Bat Yam
 Maccabi Haifa FC
   | M. Haifa
 Hapoel Haifa FC
-  | H. Haifa
+  | H. Haifa | Hapoel Haifa
 
 Hapoel Kiryat Shmona FC
   | H. Kiryat Shmona
@@ -29,7 +29,7 @@ Hapoel Katamon Jerusalem FC,  Jerusalem
   | Hap. Kat. Jerusalem | Hapoel Katamon Jerusalem
 
 Hapoel Beer-Sheva FC
-  | H. Beer-Sheva
+  | H. Beer-Sheva | Hap. Beer-Sheva
 
 FC Ashdod,     Ashdod
   | Ashdod | FC Ironi Ashdod
