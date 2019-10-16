@@ -153,7 +153,7 @@ Paysandu SC,   Belém
 CRB AL,    Maceió
   | CRB | Clube de Regatas Brasil
 CSA,       Maceió
-  | Centro Sportivo Alagoano
+  | CSA AL | Centro Sportivo Alagoano
 
 == Mato Grosso ==
 Luverdense EC, Lucas do Rio Verde
