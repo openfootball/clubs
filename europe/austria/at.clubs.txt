@@ -163,6 +163,7 @@ SV Grödig,           Grödig
 SAK 1914
 SV Seekirchen
 FC Pinzgau Saalfelden
+  | Pinzgau Saalfelden
 USK Anif
 TSV St. Johann
 SV Wals-Grünau
