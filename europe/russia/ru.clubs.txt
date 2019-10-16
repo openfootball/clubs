@@ -5,12 +5,15 @@
 Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
   | Lokomotiv | FC Lokomotiv | FC Lokomotiv Moskva
   | Loko Moscow [en] | Lokomotiv Moscow [en] | FC Lokomotiv Moscow [en]
+  | Lok Moskau [de]
 PFC CSKA Moskva, 1911,   Moskva
   | CSKA | PFK CSCA | CSKA Moskva
   | CSKA Moscow [en] | PFC CSKA Moscow [en] | PFK CSKA Moscow [en]
+  | ZSKA Moskau [de]
 Dynamo Moskva, 1923,     Moskva
   | Dynamo | Dinamo | Dinamo Moskva | FC Dinamo Moskva
   | Dynamo Mosc [en] | Dynamo Moscow [en] | Dinamo Moscow [en] | FC Dynamo Moscow [en]
+  | Dinamo Moskau [de]
 FC Spartak Moskva, 1922,    Moskva
   | Spartak | FC Spartak | Spartak Moskva
   | Spartak Moscow [en] | FC Spartak Moscow [en]
@@ -96,7 +99,8 @@ Sokol, Saratov
 Terek Grozny, Grozny
   | Terek | FC Terek Grozny
 Akhmat Grozny, Grozny
-  | Akhmat | FC Akhmat Grozny
+  | Akhmat | FC Akhmat Grozny 
+  | FK Achmat Grozny [de]
 Tom Tomsk, Tomsk
   | Tom | Tom' | Tomsk | FC Tom Tomsk
 Tosno,  Tosno
