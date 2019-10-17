@@ -15,10 +15,12 @@ Hammarby IF,         Stockholm
 IFK Göteborg, Göteborg       ## Gothenburg [en]
   | Göteborg | Goteborg | IFK Goteborg | Idrottsföreningen Kamraterna Göteborg
 GAIS,         Göteborg
-  | Gais | Göteborgs Atlet- och Idrottssällskap
+  | GAIS Göteborg | Göteborgs Atlet- och Idrottssällskap
 BK Häcken,    Göteborg
   | Hacken | Häcken | Bollklubben Häcken
-
+Qviding FIF,  Göteborg
+Örgryte Göteborg, Göteborg
+  | Örgryte IS
 
 Malmö FF, Malmö
   | Malmö | Malmo FF | Malmö Fotbollförening
@@ -26,6 +28,7 @@ Malmö FF, Malmö
 
 IF Elfsborg,   Borås
   | Elfsborg
+Norrby IF,    Borås
 
 Helsingborgs IF, Helsingborg
   | Helsingborg
@@ -57,7 +60,7 @@ Halmstads BK,   Halmstad
   | Halmstad | Halmstads Bollklubb
 
 Jönköpings Södra IF, Jönköping
-  | Jonkopings
+  | Jönköpings | Jönköpings Södra
 
 Ljungskile SK,  Ljungskile
   | Ljungskile
@@ -79,3 +82,18 @@ Syrianska FC,   Södertälje
 
 Trelleborgs FF, Trelleborg
   | Trelleborgs
+
+FC Trollhättan, Trollhättan
+Husqvarna FF,    Huskvarna
+Nyköping BIS,    Nyköping
+
+Västerås SK,  Västerås
+  | Vasteraas SK
+
+Degerfors IF, Degerfors
+    
+Varbergs BoIS,  Varberg  
+
+IK Brage,   Borlänge
+
+
