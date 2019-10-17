@@ -9,6 +9,13 @@ FC København, 1992,    København         ## Copenhagen [en]
   | FC Kopenhagen [de]
 
 BK Fremad Amager,    København
+Brønshøj BK,         København
+  | Brønshøj Boldklub
+  | Brönshöj BK [de]
+B 1908 Amager,       København
+  | B.1908 | Boldklubben 1908
+Vanløse IF,          København
+  | Vanlöse IF [de]
 
 
 Brøndby IF, 1964,    Brøndbyvester       ## use Brøndby ??
@@ -87,3 +94,13 @@ Hvidovre IF,    Hvidovre
 Nykøbing FC,    Nykøbing Falster
   | Nyköbing FC [de]
 Næstved BK,     Næstved
+
+Hillerød Fodbold,   Hillerød
+  | Hilleröd Fodbold [de]
+Middelfart BK,       Middelfart
+  | Middelfart G&BK
+Varde IF,       Varde
+Thisted FC,     Thisted
+Viby IF,       Viby
+Hellerup IK,   Hellerup
+  | HIK | HIK Hellerup
