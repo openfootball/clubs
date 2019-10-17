@@ -107,3 +107,8 @@ FC Voluntari,  Voluntari
   
 FC Academica Clinceni, 2005,  Clinceni
   | Academica Clinceni | Fotbal Club Academica Clinceni
+
+CS Mioveni, Mioveni
+  | Mioveni
+FC Argeș Pitești, Pitești
+  | Argeș | Argeș Pitești
