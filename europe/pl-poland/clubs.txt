@@ -14,6 +14,10 @@ Górnik Zabrze,   Zabrze
 
 KKS Lech Poznań,   Poznań
   | Lech | Lech Poznań
+Warta Poznań, Poznań
+  | KS Warta Posen [de]
+ 
+  
 Wisła Kraków,     Kraków
   | Wisła
   | Wisła Krakau [de]
@@ -43,7 +47,9 @@ Piast Gliwice,  Gliwice
 Wisła Płock,    Płock
   | Płock
 Podbeskidzie Bielsko-Biała,   Bielsko-Biała
-  | Podbeskidzie
+  | Podbeskidzie | Podbeskidzie Biała
+
+    
 Pogoń Szczecin,    Szczecin
   | Pogoń | MKS Pogoń Szczecin
 Ruch Chorzów,  Chorzów
@@ -68,3 +74,11 @@ Zawisza Bydgoszcz,  Bydgoszcz
 Raków Częstochowa, 1921,  Częstochowa
   | Raków | RKS Raków | RKS Raków Częstochowa
   | Raków Czestochowa   ## todo/fix: check unaccent for Czę
+
+Odra Opole, Opole
+  | OKS Odra Opole
+
+GKS Tychy,  Tychy
+  | GKS Tychy 71
+
+Chrobry Głogów, Głogów
