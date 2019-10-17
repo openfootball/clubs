@@ -45,11 +45,18 @@ Vaasan Palloseura,    Vaasa
 
 FC Haka, Valkeakoski
   | Haka
+
 FF Jaro,  Jakobstad
   | Jaro | Fotbollsföreningen Jaro Jalkapalloseura
 KTP Kotka,   Kotka
   | KTP | Kotkan Työväen Palloilijat
+  | FC KTP
 PK-35 Vantaa, Vantaa
   | PK-35 | Pallokerho-35
 Palloseura Kemi Kings,  Kemi
   | PS Kemi | Kemi City FC | Kemi City Football Club
+Ekenäs IF,  Raseborg
+PEPO Lappeenranta,  Lappeenranta
+  | PEPO 
+JIPPO Joensuu, Joensuu
+  | JIPPO
