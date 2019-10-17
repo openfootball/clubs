@@ -8,6 +8,9 @@ FC København, 1992,    København         ## Copenhagen [en]
   | FC Copenhagen [en]
   | FC Kopenhagen [de]
 
+BK Fremad Amager,    København
+
+
 Brøndby IF, 1964,    Brøndbyvester       ## use Brøndby ??
   | Brøndby | Brøndbyernes Idrætsforening
 
@@ -65,9 +68,22 @@ Esbjerg fB, 1924,    Esbjerg
   | Esbjerg | Esbjerg forenede Boldklubber
 
 Vejle, 1891, Vejle
-  | Vejle Boldklub
+  | Vejle BK | Vejle Boldklub 
 
 
 == Sjælland ==
 FC Vestsjælland,  Slagelse
   | Vestsjælland
+
+== ?? ==
+
+FC Fredericia,  Fredericia
+Skive IK,       Skive
+Kolding IF,     Kolding
+FC Roskilde,    Roskilde
+HB Køge,        Herfølge/Køge
+  | HB Köge [de]
+Hvidovre IF,    Hvidovre
+Nykøbing FC,    Nykøbing Falster
+  | Nyköbing FC [de]
+Næstved BK,     Næstved
