@@ -27,10 +27,13 @@ First Vienna FC,  1894,  Wien (Döbling)
   | First Vienna FC 1894
  
 Floridsdorfer AC,  1904,  Wien (Floridsdorf)
+  | FAC Team für Wien
 
 Wiener Viktoria,         Wien (Meidling)
   | SC Wiener Viktoria
 FC Mauerwerk,            Wien (Simmering)
+
+SC Ostbahn XI,           Wien (Simmering)
 
 
 
@@ -48,6 +51,10 @@ ASV Draßburg, Draßburg
 SC-ESV Parndorf,   Parndorf   
   | SC-ESV Parndorf 1919,
 SV Stegersbach,    Stegersbach    
+
+SV Oberwart,   Oberwart 
+
+SV Heiligenkreuz
 
 
 == Niederösterreich ==
@@ -76,6 +83,14 @@ FCM Traiskirchen,  Traiskirchen
 ASK-BSC Bruck/Leitha,  Bruck an der Leitha
   | Bruck/Leitha
 1. SC Sollenau,  Sollenau
+
+SV Schwechat, Schwechat
+
+ASK Bad Vöslau
+SC Retz
+SCU Ardagger
+SV Gaflenz
+FC Rohrendorf/Gedersdorf
 
 
 == Oberösterreich ==
@@ -115,6 +130,9 @@ ATSV Stadl-Paura, Stadl-Paura
 Union Gurten,        Gurten
 
 Union St. Florian,  St. Florian 
+
+SV Wallern
+SV Grün-Weiß Micheldorf
 
 
 == Steiermark ==
@@ -167,6 +185,8 @@ SAK Klagenfurt, Klagenfurt
   
 Villacher SV, Villach
 
+SV Spittal/Drau
+
 
 == Salzburg ==
 
@@ -180,6 +200,7 @@ Austria Salzburg,    Salzburg
   | SV Austria Salzburg
 SAK 1914,     1914, Salzburg
   | Salzburger AK 1914
+
 SV Grödig,           Grödig
   | Grödig
 
@@ -216,6 +237,8 @@ SC Imst
 SV Hall
 SVG Reichenau
 FC Zirl
+SV Reutte
+
 
 == Vorarlberg ==
 
@@ -243,6 +266,9 @@ VfB Hohenems
 FC Wolfurt
   | Meusburger FC Wolfurt    ## $$$ Meusburger is a sponsor
 SW Bregenz
+SC Bregenz
+
+FC Hard
 FC Langenegg
   | SPG FC Langenegg
 FC Lauterach
