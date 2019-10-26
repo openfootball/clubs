@@ -1,5 +1,5 @@
-=================================
-=  Österreich • Austria (at)
+========================
+= Österreich • Austria 
 
 
 == Wien ==
@@ -22,6 +22,8 @@ SC Team Wiener Linien,   Wien (Favoriten)
 
 Wiener Sport-Club,       Wien (Hernals)
   | Wiener Sportklub
+
+First Vienna FC 1894,   1894,  Wien (Döbling)
 
 Floridsdorfer AC,  1904,  Wien (Floridsdorf)
 
@@ -154,6 +156,7 @@ FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ?
   | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg | FC Red Bull Salzburg
 ii) FC Liefering
   | Liefering
+  | FC Red Bull Salzburg II      ## check for old name until season 2011/12 ??
 
 Austria Salzburg,    Salzburg
   | SV Austria Salzburg
@@ -206,6 +209,9 @@ Austria Lustenau,   Lustenau
 ii) Austria Lustenau Amateure
   | SC Austria Lustenau Amateure
   | Austria Lustenau A
+  
+FC Lustenau 07,   1907,  Lustenau
+
 
 FC Dornbirn 1913,  Dornbirn
   | FC Dornbirn
