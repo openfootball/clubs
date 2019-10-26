@@ -23,8 +23,9 @@ SC Team Wiener Linien,   Wien (Favoriten)
 Wiener Sport-Club,       Wien (Hernals)
   | Wiener Sportklub
 
-First Vienna FC 1894,   1894,  Wien (Döbling)
-
+First Vienna FC,  1894,  Wien (Döbling)
+  | First Vienna FC 1894
+ 
 Floridsdorfer AC,  1904,  Wien (Floridsdorf)
 
 Wiener Viktoria,         Wien (Meidling)
@@ -43,6 +44,10 @@ ii) SV Mattersburg II
 SC Neusiedl am See,  Neusiedl am See
   | SC Neusiedl
 ASV Draßburg, Draßburg
+
+SC-ESV Parndorf,   Parndorf   
+  | SC-ESV Parndorf 1919,
+SV Stegersbach,    Stegersbach    
 
 
 == Niederösterreich ==
@@ -70,6 +75,7 @@ SV Stripfing,      Stripfing    # Gemeinde Weikendorf
 FCM Traiskirchen,  Traiskirchen
 ASK-BSC Bruck/Leitha,  Bruck an der Leitha
   | Bruck/Leitha
+1. SC Sollenau,  Sollenau
 
 
 == Oberösterreich ==
@@ -77,6 +83,8 @@ ASK-BSC Bruck/Leitha,  Bruck an der Leitha
 LASK Linz,           Linz (Pasching)          ## use Pasching ??
   | LASK | Linzer ASK
 ii) FC Juniors OÖ     ## todo/(double) check: is a not a feeder / reserve team / club ?
+
+FC Pasching,         Linz (Pasching)
 
 FC Blau-Weiß Linz, Linz
   | BW Linz
@@ -105,6 +113,8 @@ Union Vöcklamarkt, Vöcklamarkt
 
 ATSV Stadl-Paura, Stadl-Paura
 Union Gurten,        Gurten
+
+Union St. Florian,  St. Florian 
 
 
 == Steiermark ==
@@ -136,6 +146,10 @@ USV St. Anna,          St. Anna am Aigen
   | St Anna am Aigen
 SC Weiz,               Weiz
 
+DSV Leoben,      Leoben
+FC Gratkorn,     Gratkorn     
+
+
 
 == Kärnten ==
 
@@ -148,6 +162,10 @@ ATSV Wolfsberg, 	Wolfsberg
 
 Austria Klagenfurt, Klagenfurt
   | SK Austria Klagenfurt
+SAK Klagenfurt, Klagenfurt
+  | Slovenski atletski klub | Slowenischer AK
+  
+Villacher SV, Villach
 
 
 == Salzburg ==
@@ -160,10 +178,12 @@ ii) FC Liefering
 
 Austria Salzburg,    Salzburg
   | SV Austria Salzburg
+SAK 1914,     1914, Salzburg
+  | Salzburger AK 1914
 SV Grödig,           Grödig
   | Grödig
 
-SAK 1914
+ 
 SV Seekirchen
 FC Pinzgau Saalfelden
   | Pinzgau Saalfelden
@@ -172,6 +192,7 @@ TSV St. Johann
 SV Wals-Grünau
 SV Kuchl
 Bischofshofen Sportklub 1933
+TSV St. Johann im Pongau,   St. Johann im Pongau 
 
 
 == Tirol ==
