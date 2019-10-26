@@ -209,11 +209,11 @@ SV Seekirchen
 FC Pinzgau Saalfelden
   | Pinzgau Saalfelden
 USK Anif
-TSV St. Johann
+TSV St. Johann,   St. Johann im Pongau 
+  | TSV St. Johann im Pongau
 SV Wals-Grünau
 SV Kuchl
 Bischofshofen Sportklub 1933
-TSV St. Johann im Pongau,   St. Johann im Pongau 
 
 
 == Tirol ==
