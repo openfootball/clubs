@@ -49,7 +49,7 @@ SC Neusiedl am See,  Neusiedl am See
 ASV Draßburg, Draßburg
 
 SC-ESV Parndorf,   Parndorf   
-  | SC-ESV Parndorf 1919,
+  | SC-ESV Parndorf 1919
 SV Stegersbach,    Stegersbach    
 
 SV Oberwart,   Oberwart 
