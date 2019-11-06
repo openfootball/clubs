@@ -18,7 +18,7 @@ ii) Young Violets Austria Wien
   | FK Austria Wien II
 
 SC Team Wiener Linien,   Wien (Favoriten)
-  | SC Team Wr. Linien
+  | Team Wiener Linien | SC Team Wr. Linien
 
 Wiener Sport-Club,       Wien (Hernals)
   | Wiener Sportklub
@@ -35,6 +35,11 @@ FC Mauerwerk,            Wien (Simmering)
 
 SC Ostbahn XI,           Wien (Simmering)
 
+Technopool Admira   
+  | Admira Technopool
+SR Donaufeld  
+  | SR Donaufeld Wien
+
 
 
 == Burgenland ==
@@ -45,7 +50,7 @@ ii) SV Mattersburg II
   | SV Mattersburg Am.
 
 SC Neusiedl am See,  Neusiedl am See
-  | SC Neusiedl
+  | SC Neusiedl | SC Neusiedl am See 1919
 ASV Draßburg, Draßburg
 
 SC-ESV Parndorf,   Parndorf   
@@ -55,6 +60,10 @@ SV Stegersbach,    Stegersbach
 SV Oberwart,   Oberwart 
 
 SV Heiligenkreuz
+
+SC Pinkafeld
+SV Wimpassing
+SC Ritzing
 
 
 == Niederösterreich ==
@@ -77,6 +86,7 @@ SKU Amstetten,   Amstetten
 ASK Ebreichsdorf,   Ebreichsdorf
 FC Marchfeld Donauauen,  Mannsdorf an der Donau
   | Mannsdorf-Großenz.
+  | SC Mannsdorf     # vormals (alter name)
 SV Leobendorf,     Leobendorf
 SV Stripfing,      Stripfing    # Gemeinde Weikendorf
 FCM Traiskirchen,  Traiskirchen
@@ -91,6 +101,10 @@ SC Retz
 SCU Ardagger
 SV Gaflenz
 FC Rohrendorf/Gedersdorf
+SC Leopoldsdorf
+ATSV Ober-Grafendorf
+ASK Kottingsbrunn
+ASV Spratzern
 
 
 == Oberösterreich ==
@@ -148,7 +162,9 @@ TSV Hartberg,	       Hartberg
   | TSV | Hartberg
   | TSV Sparkasse Hartberg
 
+
 Kapfenberger SV,   Kapfenberg
+  | KSV 1919
 SV Lafnitz,   Lafnitz
 
 USV Allerheiligen,     Allerheiligen bei Wildon
@@ -166,7 +182,8 @@ SC Weiz,               Weiz
 
 DSV Leoben,      Leoben
 FC Gratkorn,     Gratkorn     
-
+FC Lankowitz 
+  | FC Piberstein Lankowitz
 
 
 == Kärnten ==
@@ -186,6 +203,8 @@ SAK Klagenfurt, Klagenfurt
 Villacher SV, Villach
 
 SV Spittal/Drau
+FC St. Veit
+FC Lendorf
 
 
 == Salzburg ==
@@ -203,17 +222,20 @@ SAK 1914,     1914, Salzburg
 
 SV Grödig,           Grödig
   | Grödig
-
  
 SV Seekirchen
+  | SV Seekirchen 1945
 FC Pinzgau Saalfelden
   | Pinzgau Saalfelden
 USK Anif
 TSV St. Johann,   St. Johann im Pongau 
-  | TSV St. Johann im Pongau
+  | TSV St. Johann Pongau | TSV St. Johann im Pongau
 SV Wals-Grünau
 SV Kuchl
 Bischofshofen Sportklub 1933
+TSV Neumarkt 
+  | TSV Neumarkt am Wallersee
+USC Eugendorf
 
 
 == Tirol ==
@@ -260,8 +282,9 @@ FC Lustenau 07,   1907,  Lustenau
 FC Dornbirn 1913,  Dornbirn
   | FC Dornbirn
 Dornbirner SV,     Dornbirn
+  | Dornbirner Sportverein
 
-
+FC Höchst
 VfB Hohenems
 FC Wolfurt
   | Meusburger FC Wolfurt    ## $$$ Meusburger is a sponsor
