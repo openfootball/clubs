@@ -28,13 +28,13 @@ FC Chambly, 1989,   Chambly › Hauts-de-France
 Angers SCO, 1919,            Angers   › Pays de la Loire   ##  Maine-et-Loire > Pays de la Loire
   | Angers | Angers Sporting Club de l'Ouest | SCO Angers
 Girondins de Bordeaux, 1881, Bordeaux › Nouvelle-Aquitaine     ## Gironde > Aquitaine
-  | Bordeaux | FC Girondins de Bordeaux
+  | Bordeaux | Girondins Bordeaux | FC Girondins de Bordeaux 
   | Football Club des Girondins de Bordeaux
 
 Stade Malherbe Caen,  1913,   Caen     ## Calvados > Lower Normandy
   | Caen |  SM Caen | Stade Malherbe de Caen
 Dijon FCO, Dijon
-  | Dijon | Dijon Football | Dijon Football Côte-d'Or
+  | Dijon | FCO Dijon | Dijon Football | Dijon Football Côte-d'Or
 EA Guingamp, 1912, Guingamp   ## Côtes-d'Armor > Brittany
   | Guingamp | En Avant Guingamp | En Avant de Guingamp
 Lille OSC,  1944,   Lille      ## Nord > Nord-Pas-de-Calais
@@ -64,6 +64,7 @@ AS Saint-Étienne, 1919,  Saint-Étienne     ## Loire > Rhône-Alpes
 RC Strasbourg, Strasbourg
   | Strasbourg | Racing Strasbourg | RC Strasbourg Alsace
   | Racing Club de Strasbourg Alsace
+  | Racing Straßburg [de]
 Toulouse FC, 1970, Toulouse     ## Haute-Garonne > Midi-Pyrénées
   | Toulouse | Toulouse Football Club | FC Toulouse
 ES Troyes AC, 1986, Troyes      ## Aube > Champagne-Ardenne
