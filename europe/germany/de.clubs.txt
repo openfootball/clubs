@@ -7,6 +7,9 @@
 Bayern München, 1900,     München
   | Bayern | FC Bayern München
   | Bayern Munich [en] | FC Bayern Munich [en]
+ii) Bayern München II
+  | Bayern II
+
 TSV 1860 München, 1860, München
   | 1860 München | TSV München 1860
   | Munich 1860 [en] | TSV 1860 Munich [en]
@@ -43,6 +46,7 @@ FV Illertissen
 Fortuna Köln, 1948,  Köln
   | F Köln | SC Fortuna Köln | Sportclub Fortuna Köln
 FC Viktoria Köln,    Köln
+  | Viktoria Köln
 
 Fortuna Düsseldorf,  1895, Düsseldorf
   | Düsseldorf | F. Düsseldorf
