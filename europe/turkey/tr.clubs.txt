@@ -7,12 +7,12 @@ Fenerbahçe İstanbul SK,  İstanbul
   | Fenerbahçe Spor Kulübü | Fenerbahçe Sports Club
   | Fenerbahçe İstanbul
 Galatasaray İstanbul AŞ, İstanbul
-  | Galatasaray | Galatasaray İstanbul | Galatasaray AŞ
+  | Galatasaray | Galatasar. İstanbul | Galatasaray İstanbul | Galatasaray AŞ
   | Galatasaray SK
 Beşiktaş İstanbul JK,    İstanbul
   | Beşiktaş | Beşiktaş JK | Beşiktaş İst. | Beşiktaş İstanbul
 Kasımpaşa İstanbul SK,   İstanbul (Beyoğlu)
-  | Kasımpaşa SK | Kasımpaşa
+  | Kasımpaşa | Kasımpaşa SK | Kasımpaşa İstanbul
 
 İstanbul Başakşehir,  İstanbul (Başakşehir)
   | Başakşehir | İ. Başakşehir | İstanb. Başakşehir | İstanbul Başakşehir FK
@@ -27,7 +27,8 @@ Zeytinburnuspor, 1953,  İstanbul (Zeytinburnu)
 
 
 Gençlerbirliği Ankara SK, 1923,   Ankara
-  | Gençlerbirliği | Gençlerbirliği SK | Gençlerbirliği Spor Kulübü
+  | Gençlerbirliği | Gençlerbirliği Ankara
+  | Gençlerbirliği SK | Gençlerbirliği Spor Kulübü
 Osmanlıspor Ankara,       Ankara
   | Osmanlıspor
   | Ankaraspor | Ankaraspor AŞ |
@@ -95,6 +96,7 @@ Kayseri Erciyesspor, Kayseri
   | Erciyesspor
 
 Konyaspor,     Konya
+  | Atiker Konyaspor
 Sivasspor,     Sivas
 Trabzonspor AŞ, Trabzon
   | Trabzonspor
