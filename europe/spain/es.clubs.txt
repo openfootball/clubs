@@ -16,7 +16,8 @@ ii) Real Madrid B
   | Real Madrid CF B
 
 Getafe CF,      Madrid    # Getafe - city in madrid metro area
-  | Getafe  | Getafe Club de Fútbol
+  | Getafe | FC Getafe 
+  | Getafe Club de Fútbol
 Rayo Vallecano, Madrid › Comunidad de Madrid
   | Rayo | Vallecano | Rayo Vallecano de Madrid
 
@@ -63,6 +64,7 @@ Real Jaén CF,     Jaén
 ##   see https://es.wikipedia.org/wiki/Granada_74_Club_de_Fútbol
 Granada CF, Granada
   | Granada  | Granada Club de Fútbol
+  | FC Granada
 Granada 74, Granada
 
 
@@ -107,7 +109,7 @@ Racing Ferrol,  Ferrol
 Valencia CF,    Valencia
   | Valencia | Valencia Club de Fútbol | FC Valencia | CF Valencia
 Levante UD,     Valencia
-  | Levante | Levante Unión Deportiva
+  | Levante | UD Levante | Levante Unión Deportiva
 
 Alicante CF,    Alicante
   | Alicante
@@ -121,8 +123,9 @@ Elche CF,       Elche
 CD Castellón,   Castellón de la Plana
   | Castellón
 
-Villarreal CF,    Villarreal    ## fix typo Villareal
-  | Villarreal | Villareal
+Villarreal CF,    Villarreal    
+  | Villarreal | FC Villarreal
+  | Villareal      ## fix (allow) typo Villareal
 ii) Villarreal CF B
   | Villarreal B
 
@@ -130,7 +133,8 @@ ii) Villarreal CF B
 == País Vasco ==
 
 Real Sociedad,     San Sebastián
-  | Sociedad | R. Sociedad | Real Sociedad San Sebastián | Real Sociedad de Fútbol
+  | Sociedad | R. Sociedad | R. S. San Sebastian
+  | Real Sociedad San Sebastián | Real Sociedad de Fútbol
 Deportivo Alavés,  Vitoria
   | Alavés | CD Alavés
 SD Eibar,          Eibar
