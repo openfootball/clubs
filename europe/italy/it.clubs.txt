@@ -4,12 +4,14 @@
 
 AS Roma,  Roma
   | Roma | Associazione Sportiva Roma
+  | AS Rom [de]
 SS Lazio, Roma
   | Lazio | Lazio Roma | Società Sportiva Lazio
   | Lazio Rom [de]
 
 AC Milan,                 Milano
   | Milan | Associazione Calcio Milan
+  | AC Mailand [de]
 FC Internazionale Milano, Milano
   | Inter | Internazionale
   | Inter Milan
@@ -17,6 +19,7 @@ FC Internazionale Milano, Milano
 
 Torino FC,   Torino
   | Torino | Torino Football Club | FC Torino
+  | FC Turin [de]
 Juventus,    Torino
   | Juventus Torino | Juventus FC | Juventus Football Club
   | Juventus Turin [de]
@@ -28,7 +31,8 @@ AC Chievo Verona, Verona
 
 Genoa CFC,      Genova
   | Genoa | Genoa Cricket and Football Club
-  | FC Genua [de]
+  | FC Genua [de] 
+  | CFC Genua 1893 [de]
 UC Sampdoria,   Genova
   | Sampdoria | Sampdoria Genoa | Unione Calcio Sampdoria
   | Sampdoria Genua [de]
@@ -47,10 +51,12 @@ FC Crotone,      Crotone
 ACF Fiorentina, Firenze
   | Fiorentina | AC Firenze | Associazione Calcio Firenze Fiorentina
   | AC Fiorentina
+  | AC Florenz [de]
 SSC Napoli,     Napoli
   | Napoli | Società Sportiva Calcio Napoli
+  | SSC Neapel [de]
 US Sassuolo Calcio, 1922,   Sassuolo
-  | Sassuolo | US Sassuolo | Unione Sportiva Sassuolo Calcio
+  | Sassuolo | US Sassuolo | Sassuolo Calcio | Unione Sportiva Sassuolo Calcio 
 SPAL,           Ferrara
   | SPAL 2013 | SPAL Ferrara | SPAL 2013 Ferrara
 Udinese Calcio, Udine
@@ -79,8 +85,8 @@ Novara, Novara
 Palermo, Palermo
   | US Palermo | Unione Sportiva Città di Palermo
 Parma, Parma
-  | Parma FC | Parma Football Club | FC Parma
-  | Parma Calcio 1913
+  | Parma FC | FC Parma | Parma Football Club
+  | Parma Calcio | Parma Calcio 1913
 Perugia, Perugia
   | Perugia Calcio
 Pescara, Pescara
