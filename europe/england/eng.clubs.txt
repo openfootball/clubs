@@ -151,7 +151,7 @@ West Bromwich Albion FC, 1878, @ The Hawthorns, West Bromwich › West Midlands
 Coventry City FC,     @ Ricoh Arena,   Coventry › West Midlands
   | Coventry | Coventry City
 Wolverhampton Wanderers FC,    @ Molineux,  Wolverhampton › West Midlands
-  | Wolves | Wolverhampton | Wolverhampton Wanderers
+  | Wolves | Wolverhampton | Wolverhampton Wand. | Wolverhampton Wanderers
 Walsall FC,       @ Bescot Stadium,     Walsall › West Midlands
   | Walsall | FC Walsall
 Solihull Moors FC,   Solihull › West Midlands
