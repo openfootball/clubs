@@ -75,7 +75,7 @@ ii) FC Admira Wacker Mödling II
   | Admira Amateure
 
 SC Wiener Neustadt,  Wr. Neustadt
-  | Neustadt | Wiener Neustadt
+  | Neustadt | Wr. Neustadt | Wiener Neustadt
 
 SKN St. Pölten,      St. Pölten
   | St. Pölten
