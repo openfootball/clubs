@@ -334,7 +334,7 @@ Hallescher FC
 == Thüringen ==
 
 FC Carl Zeiss Jena,  Jena   › Thüringen
-  | CZ Jena
+  | CZ Jena | Carl Zeiss Jena
 SV Schott Jena
 
 FC Rot-Weiß Erfurt,  Erfurt › Thüringen
