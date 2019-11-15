@@ -1,5 +1,5 @@
 ===============================
-=  Lithuania (lt)
+=  Lithuania
 
 FK Riteriai,  Vilnius
   | Riteriai

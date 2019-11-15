@@ -1,5 +1,5 @@
 =================================
-=  Finland (fi)
+=  Finland
 
 
 HJK Helsinki,     Helsinki
@@ -57,6 +57,6 @@ Palloseura Kemi Kings,  Kemi
   | PS Kemi | Kemi City FC | Kemi City Football Club
 Ekenäs IF,  Raseborg
 PEPO Lappeenranta,  Lappeenranta
-  | PEPO 
+  | PEPO
 JIPPO Joensuu, Joensuu
   | JIPPO

@@ -1,5 +1,5 @@
 ====================================
-=  San Marino (sm)
+=  San Marino
 
 
 SP Tre Fiori
@@ -32,4 +32,3 @@ SS San Giovanni
   | San Giovanni
 Virtus FC
   | Virtus
-  

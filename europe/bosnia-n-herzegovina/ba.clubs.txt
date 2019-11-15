@@ -1,5 +1,5 @@
 ========================================
-=  Bosnia and Herzegovina (ba)
+=  Bosnia and Herzegovina
 
 FK Sarajevo
   | Sarajevo

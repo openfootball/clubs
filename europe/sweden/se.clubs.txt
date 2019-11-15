@@ -1,5 +1,5 @@
 =====================================
-=  Sweden (se)
+=  Sweden
 
 AIK,                 Stockholm
   | AIK Fotboll | Allmänna Idrottsklubben
@@ -91,9 +91,7 @@ Västerås SK,  Västerås
   | Vasteraas SK
 
 Degerfors IF, Degerfors
-    
-Varbergs BoIS,  Varberg  
+
+Varbergs BoIS,  Varberg
 
 IK Brage,   Borlänge
-
-

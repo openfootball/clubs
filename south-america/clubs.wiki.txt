@@ -1,5 +1,5 @@
 ===========================
-=  Argentina (ar)
+=  Argentina
 
 Aldosivi
 Argentinos Juniors
@@ -29,7 +29,7 @@ Club Atlético Vélez Sarsfield
 
 
 ======================
-=  Brazil (br)
+=  Brazil 
 
 Club Athletico Paranaense
 Clube Atlético Mineiro

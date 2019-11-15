@@ -1,5 +1,5 @@
 ==================================
-=   Japan (jp)
+=   Japan
 
 FC Tokyo,             Tokyo
   | Tokyo
@@ -33,7 +33,7 @@ Sanfrecce Hiroshima,    Hiroshima › Hiroshima
 Vegalta Sendai,       Sendai, Miyagi
 Hokkaido Consadole Sapporo,  Sapporo › Hokkaido
   | Sapporo | Consa Sapporo | Consadole Sapporo
-  | Hokkaido Consadole 
+  | Hokkaido Consadole
 Avispa Fukuoka,       Hakata › Fukuoka
 Matsumoto Yamaga,     Matsumoto › Nagano
   | Yamaga

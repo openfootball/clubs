@@ -1,5 +1,5 @@
 ============================
-=  Canada (ca)
+=  Canada
 
 Montreal Impact
 Toronto FC
@@ -7,7 +7,7 @@ Vancouver Whitecaps FC
 
 
 ===========================================
-=  Mexico (mx)
+=  Mexico
 
 Club América
 Club Atlas
@@ -32,7 +32,7 @@ Atlético San Luis
 
 
 ==============================================
-=  United States (us)
+=  United States 
 
 Atlanta United FC
 Chicago Fire Soccer Club

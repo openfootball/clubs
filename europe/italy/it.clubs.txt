@@ -1,5 +1,5 @@
 ==========================================
-=  Italy (it)
+=  Italy
 
 
 AS Roma,  Roma
@@ -31,7 +31,7 @@ AC Chievo Verona, Verona
 
 Genoa CFC,      Genova
   | Genoa | Genoa Cricket and Football Club
-  | FC Genua [de] 
+  | FC Genua [de]
   | CFC Genua 1893 [de]
 UC Sampdoria,   Genova
   | Sampdoria | Sampdoria Genoa | Unione Calcio Sampdoria
@@ -56,7 +56,7 @@ SSC Napoli,     Napoli
   | Napoli | Società Sportiva Calcio Napoli
   | SSC Neapel [de]
 US Sassuolo Calcio, 1922,   Sassuolo
-  | Sassuolo | US Sassuolo | Sassuolo Calcio | Unione Sportiva Sassuolo Calcio 
+  | Sassuolo | US Sassuolo | Sassuolo Calcio | Unione Sportiva Sassuolo Calcio
 SPAL,           Ferrara
   | SPAL 2013 | SPAL Ferrara | SPAL 2013 Ferrara
 Udinese Calcio, Udine
@@ -201,4 +201,4 @@ Vis Pesaro 1898,  Pesaro
 Giana Erminio,    Gorgonzola
   | AS Giana Erminio
 Carrarese Calcio,  Carrara
-  | Carrarese | Carrarese Calcio 1908 
+  | Carrarese | Carrarese Calcio 1908

@@ -1,5 +1,5 @@
 =========================
-=  Bolivia (bo)
+=  Bolivia 
 
 Club Bolívar,                      La Paz
   | Bolívar
@@ -35,4 +35,3 @@ Club Aurora,               Cochabamba
 
 Sport Boys Warnes,       Warnes
   | Sport Boys
-

@@ -1,7 +1,7 @@
 ===========================
-=  Costa Rica (cr)
+=  Costa Rica
 
-LD Alajuelense,   Alajuela › Alajuela     #  23 kilómetros al oeste de San José    
+LD Alajuelense,   Alajuela › Alajuela     #  23 kilómetros al oeste de San José
   | Alajuelense
 Carmelita,        Santa Bárbara › Heredia
   | Asociación Deportiva Carmelita
@@ -12,8 +12,8 @@ Municipal Grecia,    Grecia › Alajuela
 Guadalupe FC,       Guadalupe › San José
   | Guadalupe
 CS Herediano,       Heredia › Heredia  #  10 km al noroeste de San José
-  | Herediano | Club Sport Herediano 
-  
+  | Herediano | Club Sport Herediano
+
 AD Municipal Liberia,   	Liberia › Guanacaste
   | Liberia
 Limón FC,             Limón › Limón

@@ -1,5 +1,5 @@
 ====================================
-=  Romania (ro)
+=  Romania
 
 Steaua București,        București
   | Steaua | Steaua Bucuresti | FC Steaua Bucuresti | FC Steaua București
@@ -104,7 +104,7 @@ UTA Arad,   Arad
 FC Voluntari,  Voluntari
   | Voluntari
   | CS Voluntari
-  
+
 FC Academica Clinceni, 2005,  Clinceni
   | Academica Clinceni | Fotbal Club Academica Clinceni
 

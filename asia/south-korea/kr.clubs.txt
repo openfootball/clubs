@@ -1,5 +1,5 @@
 =============================================
-=  South Korea (kr)
+=  South Korea
 
 
 ## todo/fix:  use new format/style for cities!!!!!

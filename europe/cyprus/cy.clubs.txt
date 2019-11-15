@@ -1,5 +1,5 @@
 ================================
-=  Cyprus (cy)
+=  Cyprus
 
 AC Omonia Nicosia, Nicosia
   | Omonia | Omonia Nicosia | AC Omonia
@@ -31,5 +31,5 @@ Enosis Neon Paralimni FC
   | Paralimni
   | Enosis N. Paralimni
 Nea Salamis Famagusta FC
-  | Nea Salamis 
+  | Nea Salamis
   | Nea Salamina Fama.

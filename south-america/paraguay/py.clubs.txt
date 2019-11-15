@@ -1,7 +1,7 @@
 ===========================
-=  Paraguay (py)
+=  Paraguay
 
-Libertad Ascunción,    Asunción 
+Libertad Ascunción,    Asunción
   | Libertad | Club Libertad | Club Libertad Asunción
 Club Olimpia,       Asunción
   | Olimpia
@@ -28,7 +28,3 @@ Club Sportivo San Lorenzo,  San Lorenzo
   | San Lorenzo
 Club Sol de América,  Villa Elisa
   | Sol de América
-
-
-
-

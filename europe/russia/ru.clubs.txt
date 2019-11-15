@@ -1,5 +1,5 @@
 =====================================
-=  Russia (ru)
+=  Russia
 
 
 Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
@@ -46,7 +46,7 @@ FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
 FC Anzhi Makhachkala, 1991,  Makhachkala      ## Dagestan (Republic of) >  North Caucasian (Federal District)
   | Anzhi | Anzhi Makhachkala | FK Anzi Makhackala
   | Anji
-  
+
 FC Sibir Novosibirsk,  Novosibirsk
   | Sibir | Sibir' | FC Sibir
 
@@ -99,7 +99,7 @@ Sokol, Saratov
 Terek Grozny, Grozny
   | Terek | FC Terek Grozny
 Akhmat Grozny, Grozny
-  | Akhmat | FC Akhmat Grozny 
+  | Akhmat | FC Akhmat Grozny
   | FK Achmat Grozny [de]
 Tom Tomsk, Tomsk
   | Tom | Tom' | Tomsk | FC Tom Tomsk

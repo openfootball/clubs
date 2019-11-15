@@ -1,11 +1,11 @@
 ====================================
-=  Spain • España (es)
+=  Spain • España
 
 
 == Comunidad de Madrid ==
 
 Atlético Madrid,    Madrid    ## use Atlético de Madrid - why? why not?
-  | Atlético | Atl. Madrid | Atlético de Madrid | Club Atlético de Madrid 
+  | Atlético | Atl. Madrid | Atlético de Madrid | Club Atlético de Madrid
   | Ath Madrid [en]
 ii) Atlético Madrid B
   | Ath Madrid B [en]
@@ -16,7 +16,7 @@ ii) Real Madrid B
   | Real Madrid CF B
 
 Getafe CF,      Madrid    # Getafe - city in madrid metro area
-  | Getafe | FC Getafe 
+  | Getafe | FC Getafe
   | Getafe Club de Fútbol
 Rayo Vallecano, Madrid › Comunidad de Madrid
   | Rayo | Vallecano | Rayo Vallecano de Madrid
@@ -123,7 +123,7 @@ Elche CF,       Elche
 CD Castellón,   Castellón de la Plana
   | Castellón
 
-Villarreal CF,    Villarreal    
+Villarreal CF,    Villarreal
   | Villarreal | FC Villarreal
   | Villareal      ## fix (allow) typo Villareal
 ii) Villarreal CF B
@@ -258,7 +258,7 @@ Real Oviedo
 Polideportivo Ejido
   | Poli Ejido
 SD Ponferradina
-  | Ponferradina | Sociedad Deportiva Ponferradina 
+  | Ponferradina | Sociedad Deportiva Ponferradina
   | Ponferradina SD
 Pontevedra CF
   | Pontevedra

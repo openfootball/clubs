@@ -1,5 +1,5 @@
 ================================
-=  Wales (wal)
+=  Wales
 
 
 The New Saints FC,         Oswestry   ## in Shropshire    -- check - playing in english league?
@@ -10,7 +10,7 @@ Bangor City FC
 Llanelli AFC
 Rhyl FC
 Cefn Druids AFC
-  | Cefn Druids | NEWI Cefn Druids    ## NEWI = North East Wales Institute of Higher Education 
+  | Cefn Druids | NEWI Cefn Druids    ## NEWI = North East Wales Institute of Higher Education
 Neath FC
 Port Talbot Town FC
 

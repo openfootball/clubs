@@ -1,5 +1,5 @@
 ============================
-=  Panama (pa)
+=  Panama
 
 Chorrillo FC,     city:panama
   | Chorrillo

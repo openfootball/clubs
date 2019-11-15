@@ -1,5 +1,5 @@
 ====================================
-=  Czech Republic (cz)
+=  Czech Republic
 
 
 AC Sparta Praha, 1893, Praha       ## Prague [en]

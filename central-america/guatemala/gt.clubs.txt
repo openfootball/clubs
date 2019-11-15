@@ -1,5 +1,5 @@
 ========================
-=  Guatemala (gt)
+=  Guatemala
 
 CSD Municipal,     city:guatemala
   | Municipal

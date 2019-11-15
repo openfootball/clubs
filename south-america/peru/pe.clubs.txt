@@ -1,5 +1,5 @@
 ==========================
-=  Peru (pe)
+=  Peru
 
 Alianza Lima,     Lima
   | Club Alianza Lima
@@ -47,5 +47,5 @@ Unión Comercio, Nueva Cajamarca
 Universidad Técnica de Cajamarca, Cajamarca
   | UTC
 
-Club Atlético Grau, 1919,  Piura   
-  | Atlético Grau 
+Club Atlético Grau, 1919,  Piura
+  | Atlético Grau

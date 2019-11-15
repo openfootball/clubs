@@ -1,5 +1,5 @@
 ===========================
-=  China (cn)
+=  China
 
 Beijing Renhe F.C.
 Beijing Sinobo Guoan
@@ -20,13 +20,13 @@ Tianjin Teda F.C.
 
 
 ==================================
-=   Kazakhstan (kz)
+=   Kazakhstan
 
 FC Astana
 
 
 =========================
-=   Japan (jp)
+=   Japan
 
 Cerezo Osaka
 Consadole Sapporo

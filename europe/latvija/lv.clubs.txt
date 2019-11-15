@@ -1,5 +1,5 @@
 ==============================
-=  Latvija (lv)
+=  Latvija
 
 FK RFS,  Riga
   | RFS | FK Rīgas Futbola Skola

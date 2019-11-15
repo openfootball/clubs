@@ -1,5 +1,5 @@
 ================================
-=  Poland (pl)
+=  Poland
 
 
 Legia Warszawa,        Warszawa      ## Warsaw [en]
@@ -16,8 +16,8 @@ KKS Lech Poznań,   Poznań
   | Lech | Lech Poznań
 Warta Poznań, Poznań
   | KS Warta Posen [de]
- 
-  
+
+
 Wisła Kraków,     Kraków
   | Wisła
   | Wisła Krakau [de]
@@ -49,7 +49,7 @@ Wisła Płock,    Płock
 Podbeskidzie Bielsko-Biała,   Bielsko-Biała
   | Podbeskidzie | Podbeskidzie Biała
 
-    
+
 Pogoń Szczecin,    Szczecin
   | Pogoń | MKS Pogoń Szczecin
 Ruch Chorzów,  Chorzów

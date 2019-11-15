@@ -1,5 +1,5 @@
 =====================================
-=  Northern Ireland (nir)
+=  Northern Ireland
 
 Derry City FC,       Derry     ## note: plays in (Republic of) Ireland league
   | Derry | Derry City

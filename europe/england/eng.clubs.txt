@@ -1,5 +1,5 @@
 ====================================
-=  England (eng)
+=  England
 
 
 #  note: see wal.txt for teams from wales

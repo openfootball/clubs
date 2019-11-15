@@ -1,5 +1,5 @@
 ========================
-= Österreich • Austria 
+= Österreich • Austria
 
 
 == Wien ==
@@ -14,7 +14,7 @@ FK Austria Wien,   Wien (Favoriten)
   | Austria Wien
   | Austria Vienna [en]
 ii) Young Violets Austria Wien
-  | Young Violets A. W.
+  | Young Violets | Young Violets A. W.
   | FK Austria Wien II
 
 SC Team Wiener Linien,   Wien (Favoriten)
@@ -25,7 +25,7 @@ Wiener Sport-Club,       Wien (Hernals)
 
 First Vienna FC,  1894,  Wien (Döbling)
   | First Vienna FC 1894
- 
+
 Floridsdorfer AC,  1904,  Wien (Floridsdorf)
   | FAC Team für Wien
 
@@ -35,9 +35,9 @@ FC Mauerwerk,            Wien (Simmering)
 
 SC Ostbahn XI,           Wien (Simmering)
 
-Technopool Admira   
+Technopool Admira
   | Admira Technopool
-SR Donaufeld  
+SR Donaufeld
   | SR Donaufeld Wien
 
 
@@ -53,11 +53,11 @@ SC Neusiedl am See,  Neusiedl am See
   | SC Neusiedl | SC Neusiedl am See 1919
 ASV Draßburg, Draßburg
 
-SC-ESV Parndorf,   Parndorf   
+SC-ESV Parndorf,   Parndorf
   | SC-ESV Parndorf 1919
-SV Stegersbach,    Stegersbach    
+SV Stegersbach,    Stegersbach
 
-SV Oberwart,   Oberwart 
+SV Oberwart,   Oberwart
 
 SV Heiligenkreuz
 
@@ -69,7 +69,7 @@ SC Ritzing
 == Niederösterreich ==
 
 FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
-  | Admira | Admira Wacker | Admira Wacker Mödling
+  | Admira | Admira Wacker | FC Admira Wacker | Admira Wacker Mödling
   | Admira Wien     ## historic Admira Wien name add (-????) or something
 ii) FC Admira Wacker Mödling II
   | Admira Amateure
@@ -116,7 +116,7 @@ ii) FC Juniors OÖ     ## todo/(double) check: is a not a feeder / reserve team 
 FC Pasching,         Linz (Pasching)
 
 FC Blau-Weiß Linz, Linz
-  | BW Linz
+  | BW Linz | Blau-Weiß Linz
 
 FC Stahl Linz,       Linz
   | SK VOEST Linz
@@ -134,6 +134,7 @@ SV Ried,             Ried i. Innkreis
 ii) SV Ried II
 
 SK Vorwärts Steyr,   Steyr
+  | Vorwärts Steyr
 
 FC Wels,         Wels
 WSC Hertha Wels, Wels
@@ -143,7 +144,7 @@ Union Vöcklamarkt, Vöcklamarkt
 ATSV Stadl-Paura, Stadl-Paura
 Union Gurten,        Gurten
 
-Union St. Florian,  St. Florian 
+Union St. Florian,  St. Florian
 
 SV Wallern
 SV Grün-Weiß Micheldorf
@@ -181,8 +182,8 @@ USV St. Anna,          St. Anna am Aigen
 SC Weiz,               Weiz
 
 DSV Leoben,      Leoben
-FC Gratkorn,     Gratkorn     
-FC Lankowitz 
+FC Gratkorn,     Gratkorn
+FC Lankowitz
   | FC Piberstein Lankowitz
 
 
@@ -199,7 +200,7 @@ Austria Klagenfurt, Klagenfurt
   | SK Austria Klagenfurt
 SAK Klagenfurt, Klagenfurt
   | Slovenski atletski klub | Slowenischer AK
-  
+
 Villacher SV, Villach
 
 SV Spittal/Drau
@@ -222,18 +223,18 @@ SAK 1914,     1914, Salzburg
 
 SV Grödig,           Grödig
   | Grödig
- 
+
 SV Seekirchen
   | SV Seekirchen 1945
 FC Pinzgau Saalfelden
   | Pinzgau Saalfelden
 USK Anif
-TSV St. Johann,   St. Johann im Pongau 
+TSV St. Johann,   St. Johann im Pongau
   | TSV St. Johann Pongau | TSV St. Johann im Pongau
 SV Wals-Grünau
 SV Kuchl
 Bischofshofen Sportklub 1933
-TSV Neumarkt 
+TSV Neumarkt
   | TSV Neumarkt am Wallersee
 USC Eugendorf
 
@@ -244,7 +245,7 @@ FC Wacker Innsbruck, Innsbruck
   | Wacker Innsbruck | FC Tirol              ## note: FC Tirol old name - add year
 ii) FC Wacker Innsbruck II
   | Wacker Innsbruck II
-  
+
 WSG Tirol, 1930,   Wattens
   | Tirol | WSG Swarovski Tirol | WSG Swarovs. Tirol | Wattener Sportgemeinschaft Tirol
   | Wattens | WSG Wattens
@@ -275,7 +276,7 @@ Austria Lustenau,   Lustenau
 ii) Austria Lustenau Amateure
   | SC Austria Lustenau Amateure
   | Austria Lustenau A
-  
+
 FC Lustenau 07,   1907,  Lustenau
 
 

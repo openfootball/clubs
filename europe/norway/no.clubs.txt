@@ -1,5 +1,5 @@
 =============================
-=   Norway (no)
+=   Norway
 
 Vålerenga Fotball,   Oslo
   | Vålerenga | Vålerenga IF
@@ -81,4 +81,3 @@ Strømmen IF, Strømmen
   | Strömmen IF [de]
 Tromsdalen UIL,  Tromsdalen
   | Tromsdalen
-
