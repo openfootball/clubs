@@ -219,7 +219,7 @@ ii) FC Liefering
 Austria Salzburg,    Salzburg
   | SV Austria Salzburg
 SAK 1914,     1914, Salzburg
-  | Salzburger AK 1914
+  | Salzburger AK 1914 | SAK 1914 Salzburg
 
 SV Grödig,           Grödig
   | Grödig
