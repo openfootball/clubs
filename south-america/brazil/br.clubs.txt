@@ -45,7 +45,7 @@ Botafogo RJ,     Rio de Janeiro
   | Botafogo | Botafogo (RJ)
   | Botafogo FR | Botafogo de Futebol e Regatas
 Flamengo RJ,     Rio de Janeiro
-  | Flamengo | CR Flamengo| Flamengo Rio de Janeiro
+  | Flamengo | CR Flamengo | CR Flamengo RJ | Flamengo Rio de Janeiro
   | Clube de Regatas do Flamengo
 Fluminense RJ,    Rio de Janeiro
   | Fluminense | Fluminense FC | Fluminense Rio de Janeiro | Fluminense Football Club
@@ -141,7 +141,7 @@ Vila Nova GO,  Goiânia
 
 == Ceará ==
 Ceára SC,      Fortaleza
-  | Ceará | Ceará CE | Ceará Sporting Club
+  | Ceará | Ceará CE | Ceará SC CE | Ceará Sporting Club
 Fortaleza,     Fortaleza
   | Fortaleza EC CE | Fortaleza Esporte Clube
 
