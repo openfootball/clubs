@@ -27,8 +27,9 @@ Torpedo Moskva,    Moskva
 
 
 Zenit St. Petersburg, 1925,     St. Petersburg
-  | Zenit | Zenit Petersb. | Zenit Petersburg | Zenit St. Petersb. | Zenit Saint Petersburg
+  | Zenit | Zenit Petersb. | Zenit Petersburg | Zenit St. Peter | Zenit St. Petersb. | Zenit Saint Petersburg
   | FC Zenit | FC Zenit St Petersburg | FC Zenit Saint Petersburg
+
 Dinamo St. Petersburg,     St. Petersburg
 
 
