@@ -14,7 +14,7 @@ FK Dukla Praha, 1958,  Praha
 SK Slavia Praha, 1892, Praha
   | Slavia Praha | Sportovní klub Slavia Praha
   | SK Slavia Prague [en] | Slavia Prague [en]
-  | Slavia Prag [de]
+  | Slavia Prag [de] | SK Slavia Prag [de]
 
 Bohemians Praha 1905, 1905, Praha
   | Bohemians 1905
