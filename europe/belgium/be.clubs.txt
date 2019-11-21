@@ -4,13 +4,16 @@
 
 == Brussels ==
 
-RSC Anderlecht, 1908,   Brussels      ## use (just) Anderlecht or Brussel-Anderlecht ??
+RSC Anderlecht, 1908,   Brussels (Anderlecht)      ## use (just) Anderlecht or Brussel-Anderlecht ??
   | Anderlecht | Royal Sporting Club Anderlecht
 
 FC Brussels,    Brussels
-RWD Molenbeek,  Brussels
+RWD Molenbeek,  Brussels (Molenbeek)
   | Molenbeek
 
+Saint-Gilloise,  Brussels (Saint-Gilles)
+  | R. Union Saint-Gilloise
+ 
 
 == Antwerpen › Vlaanderen ==
 
@@ -38,6 +41,9 @@ KRC Genk, 1988,    Genk         › Limburg › Vlaanderen
 Sint-Truidense VV, 1924,  Sint-Truiden › Limburg › Vlaanderen
   | St Truiden | Sint-Truiden | K. Sint-Truidense VV
   | Koninklijke Sint-Truidense Voetbalvereniging
+
+Lommel United, Lommel
+  | Lommel SK
 
 
 == Oost-Vlaanderen › Vlaanderen ==
@@ -91,6 +97,11 @@ Royal Excel Mouscron, 2010,    Mouscron  › Hainaut › Wallonie     ## Moeskro
 
 RAEC Mons,             Mons      › Hainaut › Wallonie     ##  Bergen [nl]
   | Bergen
+
+== Luxembourg › Wallonie == 
+
+Excelsior Virton, Virton
+  | R.E. Virton
 
 
 == Liège › Wallonie ==
