@@ -20,6 +20,7 @@ Saint-Gilloise,  Brussels (Saint-Gilles)
 Royal Antwerp FC,    Antwerpen › Antwerpen › Vlaanderen
   | Antwerp | Royal Antwerp
   | R. Antwerpen | Royal Antwerpen
+  | FC Royal Antwerpen
 Germinal Beerschot,  Antwerpen › Antwerpen › Vlaanderen
   | Germinal
 
@@ -39,9 +40,10 @@ KRC Genk, 1988,    Genk         › Limburg › Vlaanderen
   | Genk | Koninklijke Racing Club Genk
 
 Sint-Truidense VV, 1924,  Sint-Truiden › Limburg › Vlaanderen
-  | St Truiden | Sint-Truiden | K. Sint-Truidense VV
+  | St Truiden | St. Truiden VV 
+  | Sint-Truiden | K. Sint-Truidense VV
   | Koninklijke Sint-Truidense Voetbalvereniging
-
+  
 Lommel United, Lommel
   | Lommel SK
 
@@ -61,7 +63,11 @@ FCV Dender EH,       Denderleeuw › Oost-Vlaanderen › Vlaanderen
   | Dender
 
 Waasland-Beveren, 1936,   Beveren › Oost-Vlaanderen › Vlaanderen   ## KVRS Waasland - SK Beveren
-  | Waasland-Bev
+  | Waasland-Bev 
+  | Red Star Waasland
+# In the summer of 2010 Red Star Waasland changed its name to Waasland-Beveren
+# and moved to the bigger stadium of Beveren  
+  
 KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
   | Beveren
 
@@ -70,10 +76,10 @@ KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
 
 Club Brugge, 1891,    Brugge › West-Vlaanderen › Vlaanderen
   | Club Brugge KV | Club Brugge Koninklijke Voetbalvereniging
-  | Club Brügge [de]
+  | Club Brügge [de] 
 Cercle Brugge, 1899,  Brugge › West-Vlaanderen › Vlaanderen
   | Cercle Brugge KSV | Cercle Brugge Koninklijke Sportvereniging
-
+  | Cercle Brügge KSV [de]
 
 KV Kortrijk, 1901,    Kortrijk › West-Vlaanderen › Vlaanderen
   | Kortrijk | Koninklijke Voetbalclub Kortrijk
@@ -107,7 +113,7 @@ Excelsior Virton, Virton
 == Liège › Wallonie ==
 
 KAS Eupen,             Eupen     › Liège   › Wallonie    ## [de]
-  | Eupen
+  | Eupen | AS Eupen
 Standard Liège, 1898,   Liège     › Liège   › Wallonie    ## [fr]
   | Standard | R. Standard de Liège | Royal Standard de Liège
   | Standard de Liège
