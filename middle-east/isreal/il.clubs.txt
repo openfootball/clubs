@@ -12,7 +12,7 @@ Beitar Tel Aviv Bat Yam FC,  Tel Aviv       ## and Bat Yam
 
 
 Maccabi Haifa FC
-  | M. Haifa
+  | M. Haifa | Maccabi Haifa
 Hapoel Haifa FC
   | H. Haifa | Hapoel Haifa
 
