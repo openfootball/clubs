@@ -15,7 +15,7 @@ Kasımpaşa İstanbul SK,   İstanbul (Beyoğlu)
   | Kasımpaşa | Kasımpaşa SK | Kasımpaşa İstanbul
 
 İstanbul Başakşehir,  İstanbul (Başakşehir)
-  | Başakşehir | İ. Başakşehir | İstanb. Başakşehir | İstanbul Başakşehir FK
+  | Başakşehir | İ. Başakşehir | İstanb. Başakşehir | İstanbul Başakşeh. | İstanbul Başakşehir FK
   | Büyükşehyr | İstanbul Büyükşehir Belediyespor    ## (double) check if Buyuksehyr matching (or separate club) !?
 
 İstanbulspor, 1913, İstanbul
@@ -30,8 +30,8 @@ Gençlerbirliği Ankara SK, 1923,   Ankara
   | Gençlerbirliği | Gençlerbirliği Ankara
   | Gençlerbirliği SK | Gençlerbirliği Spor Kulübü
 Osmanlıspor Ankara,       Ankara
-  | Osmanlıspor
-  | Ankaraspor | Ankaraspor AŞ |
+  | Osmanlıspor | Osmanlıspor FK
+  | Ankaraspor | Ankaraspor AŞ
 # in 2005, the football club changed its name to "Ankaraspor AŞ"
 # On June 29, 2014, the club adopted the current name,
 # which refers to Osman I, founder of the Ottoman Empire.
@@ -72,7 +72,7 @@ Eskişehirspor,         Eskişehir
 
 
 Akhisar Belediyespor, Akhisar
-  | Akhisar
+  | Akhisar | Akhisar Bld.spor
 Alanyaspor,  Alanya
 Antalyaspor, 1966, Antalya
   | Antalya | Antalyaspor Kulübü
