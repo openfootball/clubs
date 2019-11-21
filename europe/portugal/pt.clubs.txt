@@ -2,8 +2,8 @@
 =  Portugal
 
 SL Benfica,       Lisboa
-  | Benfica | Benfica Lisboa | Benfica Lis.
-  | Benfica Lissabon [de]
+  | Benfica | Benfica Lis. | Benfica Lisboa 
+  | Benfica Lissab [de] | Benfica Lissabon [de] 
 Sporting CP,      Lisboa
   | Sporting Lisboa | Sporting Clube de Portugal
   | Sp Lisbon [en]
