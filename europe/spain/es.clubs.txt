@@ -76,7 +76,7 @@ ii) FC Barcelona B
   | Barcelona B | Fútbol Club Barcelona B
 
 RCD Espanyol, Barcelona
-  | Espanyol | Esp. Barcelona | Espan. Barcelona | Espanyol Barcelona
+  | Espanyol | Esp. Barcelona | Espan. Barcelona | Espanyol Barc. | Espanyol Barcelona
   | Real CD Espanyol | Real Club Deportivo Espanyol
   | Español | Real Club Deportivo Español
 
