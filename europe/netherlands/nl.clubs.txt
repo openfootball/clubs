@@ -91,6 +91,7 @@ FC Twente, 1965,   Enschede
 
 PEC Zwolle, 1910,   Zwolle
   | Zwolle | Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle
+  | FC Zwolle
 
 
 == Flevoland ==
