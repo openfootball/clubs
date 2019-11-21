@@ -35,7 +35,7 @@ Racing Club,                    Avellaneda › Buenos Aires  #  Avellaneda sits 
 Quilmes AC,    Quilmes › Buenos Aires       # Quilmes is a city in the province of Buenos Aires
   | Quilmes | Quilmes Atlético Club
 CA Lanús,   Lanús › Buenos Aires         #  Lanús is a city in  Greater Buenos Aires
-  | Lanús | Club Atlético Lanús
+  | Lanús | Atlético Lanús | Club Atlético Lanús 
 
 Arsenal de Sarandí,  Sarandí › Buenos Aires    #  Sarandí es una ciudad de la Zona Sur del Gran Buenos Aires
   | Arsenal | Arsenal Sarandí
