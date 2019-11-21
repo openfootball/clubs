@@ -71,10 +71,10 @@ Levadiakos FC,       Livadeia › Central Greece
 
 
 AE Larissa FC,       Larissa › Thessaly
-  | Larissa | Larissa FC
+  | Larissa | Larissa FC | AE Larissa
   | Larisa
 PAS Lamia 1964,      Lamia › Central Greece
-  | Lamia | PAS Lamia
+  | Lamia | PAS Lamia | Lamia 1964
 Kerkyra FC,          Corfu › Ionian Islands
   | Kerkyra
 Platanias FC,        Chania › Crete
@@ -106,6 +106,7 @@ Kavala FC, Kavala › Macedonia
 Volos FC, 2017, Volos › Thessaly
   | Volos
   | Volos NFC | Volos Football Club
+  | Volos NPS
 Niki Volou FC, Volos › Thessaly
   | Niki Volos
 Olympiacos Volou 1937 FC, Volos › Thessaly
