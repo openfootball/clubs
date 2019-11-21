@@ -8,7 +8,7 @@ Bayern München, 1900,     München
   | Bayern | FC Bayern München
   | Bayern Munich [en] | FC Bayern Munich [en]
 ii) Bayern München II
-  | Bayern II
+  | Bayern II |  Bayern München Am.
 
 TSV 1860 München, 1860, München
   | 1860 München | TSV München 1860
@@ -75,6 +75,7 @@ Arminia Bielefeld,  1905,    Bielefeld
   | Bielefeld | DSC Arminia Bielefeld
 Preußen Münster,     Münster
   | Münster | SC Preußen 06 | SC Preußen Münster
+  | Preussen Münster  ## todo/check/fix - should get auto-generated with auto-variant too?
 
 Gütersloh,            Gütersloh
 KFC Uerdingen,        Krefeld          ## bis 1995 FC Bayer 05 Uerdingen
@@ -111,11 +112,13 @@ SC Wiedenbrück
 FC Hennef 05
 TuS Erndtebrück
 
+SC Verl, 1924, Verl  
+
 
 == Saarland ==
 
 1. FC Saarbrücken,   Saarbrücken › Saarland
-  | Saarbrücken
+  | Saarbrücken | FC Saarbrücken
 FC 08 Homburg,       Homburg     › Saarland
   | Homburg | FC Homburg | FC Homburg/Saar
 VfB Borussia Neunkirchen,  Neunkirchen › Saarland
@@ -135,7 +138,7 @@ VfL Wolfsburg,           Wolfsburg › Niedersachsen
 Hannover 96, 1896,       Hannover › Niedersachsen
   | Hannover | Hannover 1896
 Eintracht Braunschweig, 1895,  Braunschweig › Niedersachsen
-  | Braunschweig | Eintr. Braunschweig
+  | Braunschweig | E. Braunschweig | Eintr. Braunschweig 
 FT Braunschweig
   | Freie Turnerschaft Braunschweig
 
