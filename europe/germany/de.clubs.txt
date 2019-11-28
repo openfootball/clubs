@@ -75,7 +75,6 @@ Arminia Bielefeld,  1905,    Bielefeld
   | Bielefeld | DSC Arminia Bielefeld
 Preußen Münster,     Münster
   | Münster | SC Preußen 06 | SC Preußen Münster
-  | Preussen Münster  ## todo/check/fix - should get auto-generated with auto-variant too?
 
 Gütersloh,            Gütersloh
 KFC Uerdingen,        Krefeld          ## bis 1995 FC Bayer 05 Uerdingen
