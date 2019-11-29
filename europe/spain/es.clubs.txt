@@ -53,6 +53,7 @@ UD Almería,       Almería
   | Almería | Unión Deportiva Almería
 Cádiz CF,         Cádiz
   | Cádiz
+  | FC Cádiz [de]
 Córdoba CF,       Córdoba
   | Córdoba | Córdoba Club de Fútbol
 Écija Balompié,   Écija
