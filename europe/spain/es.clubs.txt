@@ -133,7 +133,8 @@ ii) Villarreal CF B
 == País Vasco ==
 
 Real Sociedad,     San Sebastián
-  | Sociedad | R. Sociedad | R. S. San Sebastian
+  | Sociedad | R. Sociedad | R. S. San Sebastián 
+  | RSociedad San Sebastián     ## todo/fix: change to R Sociedad San Sebastian - add auto-add (missing) variant in auto-config 
   | Real Sociedad San Sebastián | Real Sociedad de Fútbol
 Deportivo Alavés,  Vitoria
   | Alavés | CD Alavés
