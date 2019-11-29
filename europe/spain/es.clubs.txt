@@ -120,6 +120,7 @@ CD Alcoyano,    Alcoy
   | Alcoyano
 Elche CF,       Elche
   | Elche
+  | FC Elche [de]
 CD Castellón,   Castellón de la Plana
   | Castellón
 
