@@ -47,7 +47,7 @@ Cardiff City FC,  @ Cardiff City Stadium, Cardiff
   | Cardiff | Cardiff City
 
 Newport County AFC, 1912,  @ Rodney Parade, Newport
-  | Newport County
+  | Newport | Newport County
 
 Wrexham AFC,             Wrexham
   | Wrexham
