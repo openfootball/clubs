@@ -198,7 +198,7 @@ North Ferriby United AFC,  North Ferriby › East Yorkshire
   | North Ferriby
 
 Sheffield Wednesday FC,   @ Hillsborough,  Sheffield › South Yorkshire
-  | Sheffield Weds | Sheffield Wednes. | Sheffield Wednesday
+  | Sheffield Wed | Sheffield Weds | Sheffield Wednes. | Sheffield Wednesday
 Sheffield United FC,  @ Bramall Lane,  Sheffield › South Yorkshire
   | Sheffield United | Sheff. United | Sheffield Utd
 
@@ -238,10 +238,10 @@ Watford FC, 1881,   @ Vicarage Road,  Watford › Hertfordshire
   | Watford | FC Watford
 
 Oxford United FC,      @ Kassam Stadium,   Oxford › Oxfordshire
-  | Oxford | Oxford United
+  | Oxford | Oxford Utd | Oxford United
 
 Peterborough United FC, @ Abax Stadium,   Peterborough › Cambridgeshire
-  | Peterboro  | Peterborough Utd. | Peterborough United
+  | Peterboro  | Peterborough | Peterborough Utd. | Peterborough United
 Cambridge United FC,    @ Abbey Stadium,   Cambridge › Cambridgeshire
   | Cambridge | Cambridge United
 ## note: there's also <=> Cambridge City  (!!)
