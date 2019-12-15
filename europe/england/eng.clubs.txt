@@ -243,7 +243,7 @@ Oxford United FC,      @ Kassam Stadium,   Oxford › Oxfordshire
 Peterborough United FC, @ Abax Stadium,   Peterborough › Cambridgeshire
   | Peterboro  | Peterborough | Peterborough Utd. | Peterborough United
 Cambridge United FC,    @ Abbey Stadium,   Cambridge › Cambridgeshire
-  | Cambridge | Cambridge United
+  | Cambridge | Cambridge Utd | Cambridge United
 ## note: there's also <=> Cambridge City  (!!)
 
 Histon FC,          Histon and Impington › Cambridgeshire
