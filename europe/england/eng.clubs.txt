@@ -37,7 +37,8 @@ Leyton Orient FC,     @ Brisbane Road,  London  ##   London (Leyton) or London-L
 Barnet FC,           @ The Hive Stadium, London ##   London (Canons Park ??)  or London-Edgware ??
   | Barnet
 Dagenham & Redbridge FC,  @ Victoria Road,  London  ##  London (Dagenham)  or London-Dagenham
-  | Dag and Red | Dagenham and Redbridge | Dagenham & Redbridge
+  | Dagenham & Red. | Dagenham & Redbridge
+  | Dag and Red | Dagenham and Redbridge 
 
 Bromley FC,                London   ## London-Bromley
   | Bromley
