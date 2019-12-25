@@ -88,7 +88,7 @@ Bourg-en-Bresse 01, Bourg-en-Bresse     ## use - Football Bourg-en-Bresse Péron
 Stade Brestois 29, Brest
   | Brest | Stade Brest | Stade Brestois
 LB Châteauroux, Châteauroux
-  | Chateauroux | La Berrichonne de Châteauroux
+  | Châteauroux | La Berrichonne de Châteauroux
 Clermont Foot 63, Clermont
   | Clermont | Clermont Foot
 Le Havre AC, Le Havre
@@ -126,7 +126,7 @@ AS Beauvais Oise,  Beauvais Oise
   | Beauvais
 
 Racing Besançon, Besançon
-  | Besancon | Besançon RC
+  | Besançon | Besançon RC
 US Boulogne,  Boulogne-sur-Mer
   | Boulogne
 AS Cannes, Cannes
@@ -134,12 +134,14 @@ AS Cannes, Cannes
 FCO Charleville, Charleville-Mézières
   | Charleville
 US Créteil, Créteil
-  | Creteil  | US Créteil-Lusitanos | Union Sportive Créteil-Lusitanos
+  | Créteil  | US Créteil-Lusitanos | Union Sportive Créteil-Lusitanos
 SAS Épinal,  Épinal
-  | Epinal
+  | Épinal
 Évian TG FC, 2007, Thonon-les-Bains     ## Haute-Savoie > Rhône-Alpes
-  | Evian Thonon Gaillard | Évian Thonon Gaillard FC | Évian Thonon-Gaillard FC
-  | Evian Thonon Gaillard Football Club
+  | Évian TG
+  | Évian Thonon Gaillard
+  | Évian Thonon Gaillard FC | Évian Thonon-Gaillard FC
+  | Évian Thonon Gaillard Football Club
 
 Grenoble Foot 38, Grenoble
   | Grenoble | Grenoble Foot
