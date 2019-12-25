@@ -69,7 +69,7 @@ Bari, Bari
 Brescia, Brescia
   | Brescia Calcio
 Carpi, Carpi
-  | Carpi FC 1909 | Carpi Football Club 1909
+  | Carpi FC | Carpi FC 1909 | Carpi Football Club 1909
 Cesena, Cesena
   | AC Cesena | Associazione Calcio Cesena
 Cittadella, Cittadella
