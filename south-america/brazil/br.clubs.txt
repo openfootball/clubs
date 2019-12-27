@@ -79,6 +79,8 @@ Internacional Porto Alegre,  Porto Alegre
 Brasil RS,  Pelotas
   | Brasil de Pelotas
   | GE Brasil | Grêmio Esportivo Brasil | Grêmio Esportivo Brasil de Pelotas
+Esporte Clube Juventude, 1913, Caxias do Sul
+  | Juventude
 
 
 == Paraná ==
