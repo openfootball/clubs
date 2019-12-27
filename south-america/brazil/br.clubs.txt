@@ -39,6 +39,9 @@ Guarani FC, 1911,  Campinas
 São Bento,  Sorocaba
   | São Bento SP | Esporte Clube São Bento
 
+AD São Caetano, 1989, São Caetano
+  | São Caetano | Associação Desportiva São Caetano
+
 
 == Rio de Janeiro ==
 Botafogo RJ,     Rio de Janeiro
