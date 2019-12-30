@@ -24,7 +24,7 @@ Wiener Sport-Club,       Wien (Hernals)
   | Wiener Sportklub | Wiener SK
 
 First Vienna FC,  1894,  Wien (Döbling)
-  | First Vienna FC 1894
+  | Vienna | First Vienna FC 1894
 
 Floridsdorfer AC,  1904,  Wien (Floridsdorf)
   | FAC Team für Wien
@@ -63,6 +63,7 @@ SV Heiligenkreuz
 
 SC Pinkafeld
 SV Wimpassing
+  | Wimpassing
 SC Ritzing
   | Ritzing
 
@@ -95,9 +96,10 @@ FCM Traiskirchen,  Traiskirchen
 ASK-BSC Bruck/Leitha,  Bruck an der Leitha
   | Bruck/Leitha
 1. SC Sollenau,  Sollenau
-  | SC Sollenau
+  | Sollenau | SC Sollenau
 
 SV Schwechat, Schwechat
+  | Schwechat SV
 
 ASK Bad Vöslau
 SC Retz
@@ -154,6 +156,7 @@ Union Gurten,        Gurten
   | Gurten
 
 Union St. Florian,  St. Florian
+  | St. Florian
 
 SV Wallern
   | Wallern
