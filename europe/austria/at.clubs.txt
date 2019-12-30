@@ -21,7 +21,7 @@ SC Team Wiener Linien,   Wien (Favoriten)
   | Team Wiener Linien | SC Team Wr. Linien
 
 Wiener Sport-Club,       Wien (Hernals)
-  | Wiener Sportklub
+  | Wiener Sportklub | Wiener SK
 
 First Vienna FC,  1894,  Wien (Döbling)
   | First Vienna FC 1894
@@ -93,6 +93,7 @@ FCM Traiskirchen,  Traiskirchen
 ASK-BSC Bruck/Leitha,  Bruck an der Leitha
   | Bruck/Leitha
 1. SC Sollenau,  Sollenau
+  | SC Sollenau
 
 SV Schwechat, Schwechat
 
@@ -101,7 +102,9 @@ SC Retz
 SCU Ardagger
 SV Gaflenz
 FC Rohrendorf/Gedersdorf
+  | SC Rohrendorf
 SC Leopoldsdorf
+  | SC Leopoldsdorf i. Mfd.
 ATSV Ober-Grafendorf
 ASK Kottingsbrunn
 ASV Spratzern
@@ -165,7 +168,7 @@ TSV Hartberg,	       Hartberg
 
 
 Kapfenberger SV,   Kapfenberg
-  | KSV 1919
+  | KSV 1919 | Kapfenberger SV 1919
 SV Lafnitz,   Lafnitz
 
 USV Allerheiligen,     Allerheiligen bei Wildon
@@ -214,7 +217,7 @@ FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ?
   | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg | FC Red Bull Salzburg
 ii) FC Liefering
   | Liefering
-  | FC Red Bull Salzburg II      ## check for old name until season 2011/12 ??
+  | RB Salzburg II | FC Red Bull Salzburg II      ## check for old name until season 2011/12 ??
 
 Austria Salzburg,    Salzburg
   | SV Austria Salzburg
@@ -278,7 +281,7 @@ ii) Austria Lustenau Amateure
   | Austria Lustenau A
 
 FC Lustenau 07,   1907,  Lustenau
-
+  | FC Lustenau
 
 FC Dornbirn 1913,  Dornbirn
   | FC Dornbirn
