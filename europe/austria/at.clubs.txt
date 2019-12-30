@@ -50,7 +50,7 @@ ii) SV Mattersburg II
   | SV Mattersburg Am.
 
 SC Neusiedl am See,  Neusiedl am See
-  | SC Neusiedl | SC Neusiedl am See 1919
+  | SC Neusiedl | Neusiedl am See | SC Neusiedl am See 1919
 ASV Draßburg, Draßburg
 
 SC-ESV Parndorf,   Parndorf
@@ -64,6 +64,7 @@ SV Heiligenkreuz
 SC Pinkafeld
 SV Wimpassing
 SC Ritzing
+  | Ritzing
 
 
 == Niederösterreich ==
@@ -151,7 +152,9 @@ Union Gurten,        Gurten
 Union St. Florian,  St. Florian
 
 SV Wallern
+  | Wallern
 SV Grün-Weiß Micheldorf
+  | Micheldorf
 
 
 == Steiermark ==
@@ -171,6 +174,7 @@ TSV Hartberg,	       Hartberg
 Kapfenberger SV,   Kapfenberg
   | KSV 1919 | Kapfenberger SV 1919
 SV Lafnitz,   Lafnitz
+  | Lafnitz
 
 USV Allerheiligen,     Allerheiligen bei Wildon
   | SV Allerheiligen
@@ -256,7 +260,9 @@ WSG Tirol, 1930,   Wattens
 
 SC Schwaz,    Schwaz
 FC Kitzbühel, Kitzbühel
+  | Kitzbühel
 FC Kufstein,  Kufstein
+  | Kufstein
 
 SV Telfs
 SV Wörgl
@@ -291,6 +297,7 @@ Dornbirner SV,     Dornbirn
 
 FC Höchst
 VfB Hohenems
+  | Hohenems
 FC Wolfurt
   | Meusburger FC Wolfurt    ## $$$ Meusburger is a sponsor
 SW Bregenz
