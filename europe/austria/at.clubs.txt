@@ -115,6 +115,7 @@ ASV Spratzern
 LASK Linz,           Linz (Pasching)          ## use Pasching ??
   | LASK | Linzer ASK
 ii) FC Juniors OÖ     ## todo/(double) check: is a not a feeder / reserve team / club ?
+  | Juniors OÖ
 
 FC Pasching,         Linz (Pasching)
 
