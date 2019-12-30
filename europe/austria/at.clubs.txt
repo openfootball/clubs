@@ -38,7 +38,7 @@ SC Ostbahn XI,           Wien (Simmering)
 Technopool Admira
   | Admira Technopool
 SR Donaufeld
-  | SR Donaufeld Wien
+  | Donaufeld | SR Donaufeld Wien
 
 
 
@@ -54,7 +54,7 @@ SC Neusiedl am See,  Neusiedl am See
 ASV Draßburg, Draßburg
 
 SC-ESV Parndorf,   Parndorf
-  | SC-ESV Parndorf 1919
+  | Parndorf | SC-ESV Parndorf 1919
 SV Stegersbach,    Stegersbach
 
 SV Oberwart,   Oberwart
@@ -83,6 +83,7 @@ SKN St. Pölten,      St. Pölten
 
 SV Horn,   Horn
 SKU Amstetten,   Amstetten
+  | Amstetten SKU
 
 ASK Ebreichsdorf,   Ebreichsdorf
 FC Marchfeld Donauauen,  Mannsdorf an der Donau
@@ -107,7 +108,8 @@ FC Rohrendorf/Gedersdorf
 SC Leopoldsdorf
   | SC Leopoldsdorf i. Mfd.
 ATSV Ober-Grafendorf
-ASK Kottingsbrunn
+  | Ober-Grafendorf
+ASK Kottingbrunn
 ASV Spratzern
 
 
@@ -135,7 +137,8 @@ FC Stahl Linz,       Linz
 
 
 SV Ried,             Ried i. Innkreis
-  | Ried
+  | Ried  
+  | SV Josko Ried      ## todo/fix: mark Josko sponsor with $Josko$
 ii) SV Ried II
 
 SK Vorwärts Steyr,   Steyr
@@ -148,6 +151,7 @@ Union Vöcklamarkt, Vöcklamarkt
 
 ATSV Stadl-Paura, Stadl-Paura
 Union Gurten,        Gurten
+  | Gurten
 
 Union St. Florian,  St. Florian
 
@@ -177,7 +181,7 @@ SV Lafnitz,   Lafnitz
   | Lafnitz
 
 USV Allerheiligen,     Allerheiligen bei Wildon
-  | SV Allerheiligen
+  | SV Allerheiligen | Allerheiligen
 TuS Bad Gleichenberg,  Bad Gleichenberg
   | Bad Gleichenberg
 Deutschlandsberger SC, Deutschlandsberg
@@ -185,6 +189,7 @@ Deutschlandsberger SC, Deutschlandsberg
 FC Gleisdorf 09,       Gleisdorf
   | FC Gleisdorf
 SC Kalsdorf,           Kalsdorf
+  | Kalsdorf
 USV St. Anna,          St. Anna am Aigen
   | St Anna am Aigen
 SC Weiz,               Weiz
@@ -214,6 +219,7 @@ Villacher SV, Villach
 SV Spittal/Drau
 FC St. Veit
 FC Lendorf
+  | Lendorf
 
 
 == Salzburg ==
@@ -259,6 +265,7 @@ WSG Tirol, 1930,   Wattens
   | Wattens | WSG Wattens
 
 SC Schwaz,    Schwaz
+  | Schwaz
 FC Kitzbühel, Kitzbühel
   | Kitzbühel
 FC Kufstein,  Kufstein
@@ -291,11 +298,12 @@ FC Lustenau 07,   1907,  Lustenau
   | FC Lustenau
 
 FC Dornbirn 1913,  Dornbirn
-  | FC Dornbirn
+  | Dornbirn | FC Dornbirn
 Dornbirner SV,     Dornbirn
   | Dornbirner Sportverein
 
 FC Höchst
+  | Höchst
 VfB Hohenems
   | Hohenems
 FC Wolfurt
@@ -304,6 +312,7 @@ SW Bregenz
 SC Bregenz
 
 FC Hard
+  | Hard
 FC Langenegg
   | SPG FC Langenegg
 FC Lauterach
