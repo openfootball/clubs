@@ -4,27 +4,28 @@
 
 == Wien ==
 
-SK Rapid Wien,     Wien (Hütteldorf)
-  | Rapid Wien
+SK Rapid Wien, 1899,    Wien (Hütteldorf)
+  | Rapid | Rapid Wien
   | Rapid Vienna [en]
 ii) SK Rapid Wien II
-  | Rapid Wien Am.
+  | Rapid Wien Am. | SK Rapid Amateure
 
-FK Austria Wien,   Wien (Favoriten)
-  | Austria Wien
+FK Austria Wien, 1911,  Wien (Favoriten)
+  | Austria | Austria Wien
   | Austria Vienna [en]
 ii) Young Violets Austria Wien
   | Young Violets | Young Violets A. W.
   | FK Austria Wien II
+  | Austria Wien Amat.| Austria Wien A. | Ausstria Wien Amateure
 
 SC Team Wiener Linien,   Wien (Favoriten)
   | Team Wiener Linien | SC Team Wr. Linien
 
 Wiener Sport-Club,       Wien (Hernals)
-  | Wiener Sportklub | Wiener SK
+  | Wiener Sportklub | Wiener SK | Wr. Sportklub
 
 First Vienna FC,  1894,  Wien (Döbling)
-  | Vienna | First Vienna FC 1894
+  | Vienna | Vienna FC 1894 | First Vienna FC 1894
 
 Floridsdorfer AC,  1904,  Wien (Floridsdorf)
   | FAC Team für Wien
@@ -40,14 +41,15 @@ Technopool Admira
 SR Donaufeld
   | Donaufeld | SR Donaufeld Wien
 
-
+FC Stadlau
+SC Red Star Penzing
 
 == Burgenland ==
 
-SV Mattersburg,      Mattersburg
-  | Mattersburg
+SV Mattersburg,  1922,    Mattersburg
+  | Mattersburg | Sportvereinigung Mattersburg
 ii) SV Mattersburg II
-  | SV Mattersburg Am.
+  | SV Mattersburg Am. | SV Mattersburg Amateure
 
 SC Neusiedl am See,  Neusiedl am See
   | SC Neusiedl | Neusiedl am See | SC Neusiedl am See 1919
@@ -55,6 +57,7 @@ ASV Draßburg, Draßburg
 
 SC-ESV Parndorf,   Parndorf
   | Parndorf | SC-ESV Parndorf 1919
+  | SC/ESV Parndorf | SC/ESV Parndorf 1919
 SV Stegersbach,    Stegersbach
 
 SV Oberwart,   Oberwart
@@ -66,24 +69,27 @@ SV Wimpassing
   | Wimpassing
 SC Ritzing
   | Ritzing
-
+SC Trausdorf
 
 == Niederösterreich ==
 
-FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
+FC Admira Wacker Mödling, 1905, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
   | Admira | Admira Wacker | FC Admira Wacker | Admira Wacker Mödling
   | Admira Wien     ## historic Admira Wien name add (-????) or something
 ii) FC Admira Wacker Mödling II
-  | FC Admira Wacker II | Admira Amateure
+  | FC Admira Wacker II
+  | Admira Amateure | Admira Juniors
 
-SC Wiener Neustadt,  Wr. Neustadt
-  | Neustadt | Wr. Neustadt | Wiener Neustadt
+SC Wiener Neustadt, 1908,  Wr. Neustadt
+  | Neustadt | Wr. Neustadt | SC Wr. Neustadt | Wiener Neustadt
 
-SKN St. Pölten,      St. Pölten
-  | St. Pölten
+SKN St. Pölten, 2000,      St. Pölten
+  | St. Pölten | Sportklub Niederösterreich St. Pölten
 ii) SKN St. Pölten Juniors
 
-SV Horn,   Horn
+SV Horn,  1922,   Horn
+ii) Horn Amateure
+
 SKU Amstetten,   Amstetten
   | Amstetten SKU
 
@@ -105,6 +111,7 @@ SV Schwechat, Schwechat
 ASK Bad Vöslau
 SC Retz
 SCU Ardagger
+  | Ardagger SCU
 SV Gaflenz
 FC Rohrendorf/Gedersdorf
   | SC Rohrendorf
@@ -114,16 +121,47 @@ ATSV Ober-Grafendorf
   | Ober-Grafendorf
 ASK Kottingbrunn
 ASV Spratzern
+SC Krems
+
+
+#  add Gebietsliga NW/Wald.  --  6-noe-nordwest-waldviertel
+SC Guntersdorf
+  | Guntersdorf
+SC Echsenbach     ### SC Hartl Haus
+  | Echsenbach
+SC St. Martin
+  | St. Martin
+SC Weißenkirchen
+  | Weißenkirchen
+SV Rehberg
+  | Rehberg
+SV Sieghartskirchen
+  | Sieghartskirchen
+SV Zwentendorf, Zwentendorf
+  | Zwentendorf
+USC Altenwörth, Altenwörth
+  | Altenwörth
+USC Grafenwörth, Grafenwörth
+  | Grafenwörth
+USC Kirchberg/W., Kirchberg/W.
+  | Kirchberg/W.
+USC Schweiggers
+  | Schweiggers
+USV Groß Gerungs
+  | Groß Gerungs
+USV Langenlois, Langenlois
+  | Langenlois
 
 
 == Oberösterreich ==
 
-LASK Linz,           Linz (Pasching)          ## use Pasching ??
+LASK Linz, 1899,      Linz (Pasching)          ## use Pasching ??
   | LASK | Linzer ASK
 ii) FC Juniors OÖ     ## todo/(double) check: is a not a feeder / reserve team / club ?
   | Juniors OÖ
 
 FC Pasching,         Linz (Pasching)
+  | Pasching
 
 FC Blau-Weiß Linz, Linz
   | BW Linz | Blau-Weiß Linz
@@ -139,9 +177,9 @@ FC Stahl Linz,       Linz
 #  | FC VOEST Linz (1990-1991)
 
 
-SV Ried,             Ried i. Innkreis
-  | Ried  
-  | SV Josko Ried      ## todo/fix: mark Josko sponsor with $Josko$
+SV Ried,  1912,       Ried i. Innkreis
+  | Ried
+  | SV Josko Ried | SV Josko Fenster Ried     ## todo/fix: mark Josko sponsor with $Josko$
 ii) SV Ried II
 
 SK Vorwärts Steyr,   Steyr
@@ -151,6 +189,7 @@ FC Wels,         Wels
 WSC Hertha Wels, Wels
 
 Union Vöcklamarkt, Vöcklamarkt
+  | Vöcklamarkt
 
 ATSV Stadl-Paura, Stadl-Paura
 Union Gurten,        Gurten
@@ -162,21 +201,22 @@ Union St. Florian,  St. Florian
 SV Wallern
   | Wallern
 SV Grün-Weiß Micheldorf
-  | Micheldorf
+  | Micheldorf | SV Micheldorf
 
 
 == Steiermark ==
 
-SK Sturm Graz,       Graz
+SK Sturm Graz, 1909,       Graz
   | Sturm | Sturm Graz
 ii) SK Sturm Graz II
   | Sturm Graz Amat.
 
 Grazer AK,   Graz
 
-TSV Hartberg,	       Hartberg
+TSV Hartberg, 1946,    Hartberg
   | TSV | Hartberg
   | TSV Sparkasse Hartberg
+  | Turn- und Sportverein Hartberg
 
 
 Kapfenberger SV,   Kapfenberg
@@ -206,17 +246,20 @@ FC Lankowitz
 
 == Kärnten ==
 
-Wolfsberger AC, 	Wolfsberg
-  | Wolfsberg | AC Wolfsberger
+Wolfsberger AC, 1931, Wolfsberg
+  | Wolfsberg | AC Wolfsberger | Wolfsberger Athletik Club
+  | RZ Pellets WAC          ## todo/fix: mark $RZ Pellets$ sponsor name
 ii) Wolfsberger AC II
   | WAC Amateure
 
 ATSV Wolfsberg, 	Wolfsberg
 
 Austria Klagenfurt, Klagenfurt
-  | SK Austria Klagenfurt
+  | A. Klagenfurt
+  | SK Austria Klagenfurt | SG Austria Klagenfurt
 SAK Klagenfurt, Klagenfurt
   | Slovenski atletski klub | Slowenischer AK
+  | SAK Celovec/Klagenfurt
 
 Villacher SV, Villach
 
@@ -225,22 +268,27 @@ FC St. Veit
 FC Lendorf
   | Lendorf
 
+ASV Annabichler SV 1923
+ASKÖ Köttmannsdorf
+VST Völkermarkt
 
 == Salzburg ==
 
-FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
+FC RB Salzburg, 1933,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
   | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg | FC Red Bull Salzburg
-ii) FC Liefering
-  | Liefering
-  | RB Salzburg II | FC Red Bull Salzburg II      ## check for old name until season 2011/12 ??
+ii) FC RB Salzburg II        ## check for old name until season 2011/12 - now "independent" Liefering?
+  | RB Salzburg II | FC Red Bull Salzburg II
   | FC RB Juniors Salzburg
 
+FC Liefering,  1947      #  note: Liefering - Stadtteil von Salzburg -- add as RB Salzburg II - why? why not?
+  | Liefering
+
 Austria Salzburg,    Salzburg
-  | SV Austria Salzburg
+  | A. Salzburg | SV Austria Salzburg
 SAK 1914,     1914, Salzburg
   | Salzburger AK 1914 | SAK 1914 Salzburg
 
-SV Grödig,           Grödig
+SV Grödig,  1948,           Grödig
   | Grödig
 
 SV Seekirchen
@@ -256,14 +304,18 @@ Bischofshofen Sportklub 1933
 TSV Neumarkt
   | TSV Neumarkt am Wallersee
 USC Eugendorf
+SC Golling
 
 
 == Tirol ==
 
-FC Wacker Innsbruck, Innsbruck
-  | Wacker Innsbruck | FC Tirol              ## note: FC Tirol old name - add year
+FC Wacker Innsbruck, 1913, Innsbruck
+  | Innsbruck | FC Wacker | Wacker Innsbruck
+  | FC Tirol              ## note: FC Tirol old name - add year
 ii) FC Wacker Innsbruck II
   | Wacker Innsbruck II
+
+SV Innsbruck, Innsbruck   ## Tiroler Liga
 
 WSG Tirol, 1930,   Wattens
   | Tirol | WSG Swarovski Tirol | WSG Swarovs. Tirol | Wattener Sportgemeinschaft Tirol
@@ -287,20 +339,20 @@ SV Reutte
 
 == Vorarlberg ==
 
-SCR Altach,          Altach
+SCR Altach, 1929,          Altach
   | Altach
-  | Rheindorf Altach | SC Rheindorf Altach
+  | Rheindorf Altach | SC Rheindorf Altach | Sportclub Rheindorf Altach
 ii) SCR Altach Juniors
   | Altach Amateure
 
-Austria Lustenau,   Lustenau
-  | SC Austria Lustenau
+Austria Lustenau, 1914,   Lustenau
+  | A. Lustenau | SC Austria Lustenau
 ii) Austria Lustenau Amateure
   | SC Austria Lustenau Amateure
   | Austria Lustenau A
 
 FC Lustenau 07,   1907,  Lustenau
-  | FC Lustenau
+  | FC Lustenau | FC Lustenau 1907
 
 FC Dornbirn 1913,  Dornbirn
   | Dornbirn | FC Dornbirn
@@ -313,8 +365,9 @@ VfB Hohenems
   | Hohenems
 FC Wolfurt
   | Meusburger FC Wolfurt    ## $$$ Meusburger is a sponsor
-SW Bregenz
-SC Bregenz
+SW Bregenz,   Bregenz
+  | SC Schwarz-Weiß Bregenz
+  | SC Bregenz     ## todo/check if SC Bregenz exists as its own independent club??
 
 FC Hard
   | Hard
