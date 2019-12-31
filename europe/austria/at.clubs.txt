@@ -232,6 +232,7 @@ FC RB Salzburg,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ?
 ii) FC Liefering
   | Liefering
   | RB Salzburg II | FC Red Bull Salzburg II      ## check for old name until season 2011/12 ??
+  | FC RB Juniors Salzburg
 
 Austria Salzburg,    Salzburg
   | SV Austria Salzburg
