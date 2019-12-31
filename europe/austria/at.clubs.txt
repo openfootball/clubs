@@ -81,6 +81,7 @@ SC Wiener Neustadt,  Wr. Neustadt
 
 SKN St. Pölten,      St. Pölten
   | St. Pölten
+ii) SKN St. Pölten Juniors
 
 SV Horn,   Horn
 SKU Amstetten,   Amstetten
