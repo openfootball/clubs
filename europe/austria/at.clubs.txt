@@ -74,7 +74,7 @@ FC Admira Wacker Mödling, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein 
   | Admira | Admira Wacker | FC Admira Wacker | Admira Wacker Mödling
   | Admira Wien     ## historic Admira Wien name add (-????) or something
 ii) FC Admira Wacker Mödling II
-  | Admira Amateure
+  | FC Admira Wacker II | Admira Amateure
 
 SC Wiener Neustadt,  Wr. Neustadt
   | Neustadt | Wr. Neustadt | Wiener Neustadt
