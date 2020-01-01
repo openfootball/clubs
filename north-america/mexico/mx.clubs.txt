@@ -15,51 +15,72 @@ Pumas UNAM, 1954,   Ciudad de México
  
 
 == Jalisco ==
-CD Guadalajara Chivas,   Guadalajara (Zapopan) › Jalisco     ## use Zapopan › Jalisco
-  | Guadalajara | Guadalajara Chivas | CD Guadalajara
-Club Atlas,              Guadalajara › Jalisco
-  | Atlas
+CD Guadalajara Chivas, 1906,   Guadalajara (Zapopan) › Jalisco     ## use Zapopan › Jalisco
+  | Guadalajara | Chivas | Guadalajara Chivas | CD Guadalajara
+  | Deportivo Guadalajara | Club Deportivo Guadalajara
+
+Club Atlas,  1916,              Guadalajara › Jalisco
+  | Atlas | Club Atlas de Guadalajara
+
 Leones Negros U. de G.,  Guadalajara › Jalisco    ## UdeG = Universidad de Guadalajara
   | Leones Negros
 
+
 == Nuevo León ==
-CF Monterrey,      Monterrey › Nuevo León
-  | Monterrey
-Tigres UANL,       Monterrey › Nuevo León   ## 	San Nicolás de los Garza
-  | UANL | UANL Tigres
+CF Monterrey, 1945,      Monterrey › Nuevo León
+  | Monterrey | Rayados (de Monterrey)
+  | Club de Fútbol Monterrey
+   
+Tigres UANL, 1960,       Monterrey › Nuevo León     ## 	San Nicolás de los Garza
+  | UANL | Tigres| UANL Tigres | UA. Nuevo León
+  | Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León
+
 
 == Puebla ==
 Lobos BUAP,         Puebla › Puebla  ##  BUAP = Benemérita Universidad Autónoma de Puebla
-Club Puebla,        Puebla › Puebla
+Club Puebla,  1944,        Puebla › Puebla
   | Puebla | Puebla FC
+  | Puebla Fútbol Club
 
 
 == ??? ==
 
 Atlético San Luis,   San Luis Potosí › San Luis Potosí
   | Atlético | Atl. San Luis
-Atlante FC,          Cancún › Quintana Roo
-  | Atlante
-Jaguares Chiapas,    Tuxtla Gutiérrez › Chiapas   ##  Chiapas FC or Jaguares de Chiapas
-  | Chiapas
-Club León,           León     › Guanajuato
+Atlante FC, 1916,          Cancún › Quintana Roo
+  | Atlante | Potros (de Hierro)
+  | Club de Fútbol Atlante
+
+Jaguares Chiapas, 2002,    Tuxtla Gutiérrez › Chiapas     ##  Chiapas FC or Jaguares de Chiapas
+  | Chiapas | Jaguares | Jaguares de Chiapas
+  | Chiapas Fútbol Club
+
+Club León, 1944,           León     › Guanajuato
   | León
 Club Tijuana,        Tijuana  › Baja California
   | Tijuana
 Dorados Sinaloa,     Culiacán › Sinaloa
   | Dorados de Sinaloa
 
-Monarcas Morelia,  Morelia › Michoacán
+Monarcas Morelia, 1924,  Morelia › Michoacán
   | Monarcas | Morelia
+  | Atletico Monarcas Morelia
 
 Club Necaxa,       Aguascalientes › Aguascalientes
   | Necaxa
-CF Pachuca,        Pachuca › Hidalgo
+CF Pachuca, 1901,        Pachuca › Hidalgo
   | Pachuca
-Querétaro FC,      Querétaro › Querétaro
+  | Club de Fútbol Pachuca
+
+Querétaro FC, 1950,      Querétaro › Querétaro
   | Querétaro
-Santos Laguna,     Torreón › Coahuila
+  | Gallos Blancos (de Querétaro)
+  | Querétaro Fútbol Club
+
+Santos Laguna, 1983,     Torreón › Coahuila
   | Santos
+  | Club Santos Laguna
+
 Deportivo Toluca FC,  Toluca › México
   | Toluca | Club Toluca
 
