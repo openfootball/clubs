@@ -57,8 +57,10 @@ Jaguares Chiapas, 2002,    Tuxtla Gutiérrez › Chiapas     ##  Chiapas FC or J
 
 Club León, 1944,           León     › Guanajuato
   | León
-Club Tijuana,        Tijuana  › Baja California
-  | Tijuana
+Club Tijuana, 2007,        Tijuana  › Baja California
+  | Tijuana | Xolos | Club Tijuana Xoloitzcuintles de Caliente
+ 
+ 
 Dorados Sinaloa,     Culiacán › Sinaloa
   | Dorados de Sinaloa
 
@@ -81,12 +83,14 @@ Santos Laguna, 1983,     Torreón › Coahuila
   | Santos
   | Club Santos Laguna
 
-Deportivo Toluca FC,  Toluca › México
+Deportivo Toluca FC,  1917,  Toluca › México
   | Toluca | Club Toluca
+  | Deportivo Toluca
+
 
 == Veracruz ==
-Tiburones Rojos Veracruz,   Veracruz (Boca del Río) ›      ## Boca del Río
-  | Veracruz | Tiburones Rojos de Veracruz
+Tiburones Rojos Veracruz, 1943,   Veracruz (Boca del Río) ›      ## Boca del Río
+  | Veracruz | Tiburones Rojos (de Veracruz)
 
 
 ==  Chihuahua  ==
