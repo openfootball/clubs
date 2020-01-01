@@ -132,7 +132,7 @@ Cruz Azul Hidalgo, 1993    # en Cd. Cooperativa Cruz Azul, Hidalgo  - Tula
   | Cruz Azul Hgo.   
 
 Galeana, 1956             # en Xochitepec, Morelos  - Cuernavaca
-  |Ballenas Galeana
+  | Ballenas Galeana
 Zacatepec, 1948           # en Zacatepec, Morelos   - Cuernavaca
 
 
