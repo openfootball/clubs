@@ -3,12 +3,16 @@
 
 
 == Ciudad de México ==
-Club América, Ciudad de México
-  | América
-Cruz Azul,    Ciudad de México
-Pumas UNAM,   Ciudad de México
-  | UNAM | UNAM Pumas | Club Universidad Nacional
+Club América, 1916,   Ciudad de México
+  | América | América de Mexico | Águilas
+Cruz Azul, 1927,      Ciudad de México
+  | Cruz Azul FC | Cruz Azul Fútbol Club
+Pumas UNAM, 1954,   Ciudad de México
+  | UNAM | Pumas | UNAM Pumas 
+  | Universidad Nacional | Club Universidad Nacional
+ 
 
+ 
 
 == Jalisco ==
 CD Guadalajara Chivas,   Guadalajara (Zapopan) › Jalisco     ## use Zapopan › Jalisco
