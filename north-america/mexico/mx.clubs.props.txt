@@ -1,23 +1,19 @@
-##########
-#  note: replace open bracket (›) in address with comma (,)
-
-Name,                Web,                         Twitter,         Address
-Club América,        www.clubamerica.com.mx,      CF_America,      Calle del Toro No. 100 › Col. Ex Hacienda de Coapa Delegación Coyoacán // México D.F. C.P. 14390
-Cruz Azul,           www.cruzazulfc.com,          Cruz_Azul_FC,    San Pablo No. 100 › Col. La Noria › Antiguo Camino a Xochimilco // México D.F.
-Pumas UNAM,          www.clubpumasunam.com,       PumasMX,         Calle Totonacas No. 560 › Col. Ajusco // Delegación Coyoacán // México › D.F.  C.P. 04300
-CF Monterrey,        www.rayados.com,             Rayados,         Av Revolución 846-B › Col. Jardín Español // Monterrey › Nuevo León
-Tigres UANL,         www.tigres.com.mx,           TigresOficial,   Estadio Universitario › Puerta No. 13 Ciudad Universitaria San Nicolás De Los Garza // Monterrey › Nuevo León
-Guadalajara Chivas,  www.chivasdecorazon.com.mx,  Chivas,          Francisco I. Madero No. 5840 › Col. Jocotán // Zapopan
-Atlas,               futbol.atlas.com.mx,         atlasoficial,    Av. Patria 2300 › Col. Lomas del Bosque // Zapopan › Jalisco C.P. 45110
-Atlante,             www.atlantefc.mx,            FCAtlante,       Av. Mayapán esq. Av. Kabah s/n Supermanzana 43 Pedregal del Bosque // Quintana Roo
-Jaguares de Chiapas, www.chiapasfc.com,           SoyJaguar,       Calzada de las Etnias s/n › esq. Blvd Fidel Velázquez › Col. Infonavit el Grijalva // Tuxtla Gutierrez › Chiapas C.P. 29047
-Club León,           www.clubleon-fc.com,         clubleonfc,      Boulevard Adolfo López Mateos 1810 › Col. La Martinica // León
-Monarcas Morelia,    www.fuerzamonarca.com,       FuerzaMonarca,   Av. Camelinas No. 3537 › Col. 5 de Diciembre // Morelia › Michoacán C.P. 58260
-Pachuca,             www.tuzos.com.mx,            Tuzos,           Libramiento Circuito de la Concepción km 2 s/n › Col. La Concepción // San Agustín Tlaxlaca › Hidalgo C.P. 42160
-Puebla FC,           www.puebla-fc.com,           PueblaFC,        Calz. Ignacio Zaragoza No. 666 › Col. Maravillas Unidad Deportiva Estadio Cuauhtémoc // Puebla › Pue.  C.P. 72220
-Querétaro FC,        www.clubqueretaro.com,       Club_Queretaro,  Prol. Luis Vega y Monroy 409-4 › Col. Balaustrads // Santiago de Querétaro › C.P. 76079
-Santos Laguna,       www.clubsantoslaguna.com.mx, ClubSantos,      Calz. Territorio Santos Modelo No. 1 › Col. Conjunto de Todos los Santos // Torreón › Coahuila
-Club Tijuana,        www.xolos.com.mx,            XolosOficial,    Paseo del Centenario 9211 Local 3 Módulo 6 › Col. Zona Río // Tijuana › B.C. C.P. 22320
-Deportivo Toluca,    www.deportivotolucafc.com,   deptolucafc‎,     Felipe Villanueva No. 300 1er piso ›  Colonia San Bernardino //  Toluca › Estado de México. C.P. 50080
-Veracruz,            www.tiburones-rojos.com,     tiburonesrojos,  Av. Jacarandas s/n esq. Av. España Fraccionamiento Virginia Boca del Río // Veracruz
-
+Name,                Web,                         Twitter
+Club América,        www.clubamerica.com.mx,      CF_America
+Cruz Azul,           www.cruzazulfc.com,          Cruz_Azul_FC
+Pumas UNAM,          www.clubpumasunam.com,       PumasMX
+CF Monterrey,        www.rayados.com,             Rayados
+Tigres UANL,         www.tigres.com.mx,           TigresOficial
+Guadalajara Chivas,  www.chivasdecorazon.com.mx,  Chivas
+Atlas,               futbol.atlas.com.mx,         atlasoficial
+Atlante,             www.atlantefc.mx,            FCAtlante
+Jaguares de Chiapas, www.chiapasfc.com,           SoyJaguar
+Club León,           www.clubleon-fc.com,         clubleonfc
+Monarcas Morelia,    www.fuerzamonarca.com,       FuerzaMonarca
+Pachuca,             www.tuzos.com.mx,            Tuzos
+Puebla FC,           www.puebla-fc.com,           PueblaFC
+Querétaro FC,        www.clubqueretaro.com,       Club_Queretaro
+Santos Laguna,       www.clubsantoslaguna.com.mx, ClubSantos
+Club Tijuana,        www.xolos.com.mx,            XolosOficial
+Deportivo Toluca,    www.deportivotolucafc.com,   deptolucafc
+Veracruz,            www.tiburones-rojos.com,     tiburonesrojos
