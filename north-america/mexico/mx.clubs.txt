@@ -17,7 +17,13 @@ Pumas UNAM, 1954,   Ciudad de México
  Calle Totonacas No. 560, Col. Ajusco // Delegación Coyoacán // México, D.F.  C.P. 04300
 
 
- 
+== México ==     ## Estado de México
+
+Deportivo Toluca FC,  1917,  Toluca › México
+  | Toluca | Club Toluca
+  | Deportivo Toluca
+ Felipe Villanueva No. 300 1er piso,  Colonia San Bernardino //  Toluca, Estado de México. C.P. 50080
+
 
 == Jalisco ==
 CD Guadalajara Chivas, 1906,   Guadalajara (Zapopan) › Jalisco     ## use Zapopan › Jalisco
@@ -29,8 +35,14 @@ Club Atlas,  1916,              Guadalajara › Jalisco
   | Atlas | Club Atlas de Guadalajara
  Av. Patria 2300, Col. Lomas del Bosque // Zapopan, Jalisco C.P. 45110
  
-Leones Negros U. de G.,  Guadalajara › Jalisco    ## UdeG = Universidad de Guadalajara
+Leones Negros U. de G., 1970,  Guadalajara › Jalisco    
   | Leones Negros
+  | UDG | U. de G. | U. Guadalajara | U. de Guadalajara | Universidad de Guadalajara  
+
+Estudiantes UAG, 1971         # en Zapopan, Jalisco
+  | UAG | Estudiantes | Estudiantes Tecos 
+  | UA. Guadalajara | Universidad Autónoma de Guadalajara
+  
 
 
 == Nuevo León ==
@@ -54,7 +66,23 @@ Club Puebla,  1944,        Puebla › Puebla
  Calz. Ignacio Zaragoza No. 666, Col. Maravillas Unidad Deportiva Estadio Cuauhtémoc // Puebla, Pue.  C.P. 72220
 
 
+== Veracruz ==
+Tiburones Rojos Veracruz, 1943,   Veracruz (Boca del Río) ›      ## Boca del Río
+  | Veracruz | Tiburones Rojos (de Veracruz)
+ Av. Jacarandas s/n esq. Av. España Fraccionamiento Virginia Boca del Río // Veracruz
+
+
+==  Chihuahua  ==
+FC Juárez, 2015, Juárez
+  | Juárez | Fútbol Club Juárez
+
+
 == ??? ==
+
+Altamira, 2001            # en Altamira, Tamaulipas
+Correcaminos, 1980        # en Victoria, Tamaulipas
+  | UAT | Correcaminos UAT | UA. Tamaulipas
+
 
 Atlético San Luis,   San Luis Potosí › San Luis Potosí
   | Atlético | Atl. San Luis
@@ -77,8 +105,9 @@ Club Tijuana, 2007,        Tijuana  › Baja California
  Paseo del Centenario 9211 Local 3 Módulo 6, Col. Zona Río // Tijuana, B.C. C.P. 22320
 
  
-Dorados Sinaloa,     Culiacán › Sinaloa
+Dorados Sinaloa, 2003,     Culiacán › Sinaloa
   | Dorados de Sinaloa
+  | Dorados | Sinaloa
 
 Monarcas Morelia, 1924,  Morelia › Michoacán
   | Monarcas | Morelia
@@ -103,18 +132,4 @@ Santos Laguna, 1983,     Torreón › Coahuila
   | Club Santos Laguna
  Calz. Territorio Santos Modelo No. 1, Col. Conjunto de Todos los Santos // Torreón, Coahuila
 
-Deportivo Toluca FC,  1917,  Toluca › México
-  | Toluca | Club Toluca
-  | Deportivo Toluca
- Felipe Villanueva No. 300 1er piso,  Colonia San Bernardino //  Toluca, Estado de México. C.P. 50080
 
-
-== Veracruz ==
-Tiburones Rojos Veracruz, 1943,   Veracruz (Boca del Río) ›      ## Boca del Río
-  | Veracruz | Tiburones Rojos (de Veracruz)
- Av. Jacarandas s/n esq. Av. España Fraccionamiento Virginia Boca del Río // Veracruz
-
-
-==  Chihuahua  ==
-FC Juárez, 2015, Juárez
-  | Juárez | Fútbol Club Juárez
