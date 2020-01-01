@@ -5,12 +5,17 @@
 == Ciudad de México ==
 Club América, 1916,   Ciudad de México
   | América | América de Mexico | Águilas
+ Calle del Toro No. 100, Col. Ex Hacienda de Coapa Delegación Coyoacán // México D.F. C.P. 14390
+
 Cruz Azul, 1927,      Ciudad de México
   | Cruz Azul FC | Cruz Azul Fútbol Club
+ San Pablo No. 100, Col. La Noria, Antiguo Camino a Xochimilco // México D.F.
+ 
 Pumas UNAM, 1954,   Ciudad de México
   | UNAM | Pumas | UNAM Pumas 
   | Universidad Nacional | Club Universidad Nacional
- 
+ Calle Totonacas No. 560, Col. Ajusco // Delegación Coyoacán // México, D.F.  C.P. 04300
+
 
  
 
@@ -18,10 +23,12 @@ Pumas UNAM, 1954,   Ciudad de México
 CD Guadalajara Chivas, 1906,   Guadalajara (Zapopan) › Jalisco     ## use Zapopan › Jalisco
   | Guadalajara | Chivas | Guadalajara Chivas | CD Guadalajara
   | Deportivo Guadalajara | Club Deportivo Guadalajara
+ Francisco I. Madero No. 5840, Col. Jocotán // Zapopan
 
 Club Atlas,  1916,              Guadalajara › Jalisco
   | Atlas | Club Atlas de Guadalajara
-
+ Av. Patria 2300, Col. Lomas del Bosque // Zapopan, Jalisco C.P. 45110
+ 
 Leones Negros U. de G.,  Guadalajara › Jalisco    ## UdeG = Universidad de Guadalajara
   | Leones Negros
 
@@ -30,17 +37,21 @@ Leones Negros U. de G.,  Guadalajara › Jalisco    ## UdeG = Universidad de Gua
 CF Monterrey, 1945,      Monterrey › Nuevo León
   | Monterrey | Rayados (de Monterrey)
   | Club de Fútbol Monterrey
-   
+ Av Revolución 846-B, Col. Jardín Español // Monterrey, Nuevo León
+  
 Tigres UANL, 1960,       Monterrey › Nuevo León     ## 	San Nicolás de los Garza
   | UANL | Tigres| UANL Tigres | UA. Nuevo León
   | Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León
+ Estadio Universitario, Puerta No. 13 Ciudad Universitaria San Nicolás De Los Garza // Monterrey, Nuevo León
 
 
 == Puebla ==
 Lobos BUAP,         Puebla › Puebla  ##  BUAP = Benemérita Universidad Autónoma de Puebla
+
 Club Puebla,  1944,        Puebla › Puebla
   | Puebla | Puebla FC
   | Puebla Fútbol Club
+ Calz. Ignacio Zaragoza No. 666, Col. Maravillas Unidad Deportiva Estadio Cuauhtémoc // Puebla, Pue.  C.P. 72220
 
 
 == ??? ==
@@ -50,16 +61,21 @@ Atlético San Luis,   San Luis Potosí › San Luis Potosí
 Atlante FC, 1916,          Cancún › Quintana Roo
   | Atlante | Potros (de Hierro)
   | Club de Fútbol Atlante
-
+ Av. Mayapán esq. Av. Kabah s/n Supermanzana 43 Pedregal del Bosque // Quintana Roo
+ 
 Jaguares Chiapas, 2002,    Tuxtla Gutiérrez › Chiapas     ##  Chiapas FC or Jaguares de Chiapas
   | Chiapas | Jaguares | Jaguares de Chiapas
   | Chiapas Fútbol Club
+ Calzada de las Etnias s/n, esq. Blvd Fidel Velázquez, Col. Infonavit el Grijalva // Tuxtla Gutierrez, Chiapas C.P. 29047
 
 Club León, 1944,           León     › Guanajuato
   | León
+ Boulevard Adolfo López Mateos 1810, Col. La Martinica // León
+
 Club Tijuana, 2007,        Tijuana  › Baja California
   | Tijuana | Xolos | Club Tijuana Xoloitzcuintles de Caliente
- 
+ Paseo del Centenario 9211 Local 3 Módulo 6, Col. Zona Río // Tijuana, B.C. C.P. 22320
+
  
 Dorados Sinaloa,     Culiacán › Sinaloa
   | Dorados de Sinaloa
@@ -67,30 +83,36 @@ Dorados Sinaloa,     Culiacán › Sinaloa
 Monarcas Morelia, 1924,  Morelia › Michoacán
   | Monarcas | Morelia
   | Atletico Monarcas Morelia
+ Av. Camelinas No. 3537, Col. 5 de Diciembre // Morelia, Michoacán C.P. 58260
 
 Club Necaxa,       Aguascalientes › Aguascalientes
   | Necaxa
 CF Pachuca, 1901,        Pachuca › Hidalgo
   | Pachuca
   | Club de Fútbol Pachuca
+ Libramiento Circuito de la Concepción km 2 s/n, Col. La Concepción // San Agustín Tlaxlaca, Hidalgo C.P. 42160
 
 Querétaro FC, 1950,      Querétaro › Querétaro
   | Querétaro
   | Gallos Blancos (de Querétaro)
   | Querétaro Fútbol Club
+ Prol. Luis Vega y Monroy 409-4, Col. Balaustrads // Santiago de Querétaro, C.P. 76079
 
 Santos Laguna, 1983,     Torreón › Coahuila
   | Santos
   | Club Santos Laguna
+ Calz. Territorio Santos Modelo No. 1, Col. Conjunto de Todos los Santos // Torreón, Coahuila
 
 Deportivo Toluca FC,  1917,  Toluca › México
   | Toluca | Club Toluca
   | Deportivo Toluca
+ Felipe Villanueva No. 300 1er piso,  Colonia San Bernardino //  Toluca, Estado de México. C.P. 50080
 
 
 == Veracruz ==
 Tiburones Rojos Veracruz, 1943,   Veracruz (Boca del Río) ›      ## Boca del Río
   | Veracruz | Tiburones Rojos (de Veracruz)
+ Av. Jacarandas s/n esq. Av. España Fraccionamiento Virginia Boca del Río // Veracruz
 
 
 ==  Chihuahua  ==
