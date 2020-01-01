@@ -58,12 +58,13 @@ Tigres UANL, 1960,       Monterrey › Nuevo León     ## 	San Nicolás de los G
 
 
 == Puebla ==
-Lobos BUAP,         Puebla › Puebla  ##  BUAP = Benemérita Universidad Autónoma de Puebla
-
 Club Puebla,  1944,        Puebla › Puebla
   | Puebla | Puebla FC
   | Puebla Fútbol Club
  Calz. Ignacio Zaragoza No. 666, Col. Maravillas Unidad Deportiva Estadio Cuauhtémoc // Puebla, Pue.  C.P. 72220
+
+Lobos BUAP, 1967,         Puebla › Puebla 
+  | BUAP | Benemérita Universidad Autónoma de Puebla      
 
 
 == Veracruz ==
@@ -84,8 +85,10 @@ Correcaminos, 1980        # en Victoria, Tamaulipas
   | UAT | Correcaminos UAT | UA. Tamaulipas
 
 
-Atlético San Luis,   San Luis Potosí › San Luis Potosí
-  | Atlético | Atl. San Luis
+Atlético San Luis, 1998,   San Luis Potosí › San Luis Potosí
+  | San Luis | Atlético | Atl. San Luis
+  | Club San Luis
+
 Atlante FC, 1916,          Cancún › Quintana Roo
   | Atlante | Potros (de Hierro)
   | Club de Fútbol Atlante
@@ -99,6 +102,9 @@ Jaguares Chiapas, 2002,    Tuxtla Gutiérrez › Chiapas     ##  Chiapas FC or J
 Club León, 1944,           León     › Guanajuato
   | León
  Boulevard Adolfo López Mateos 1810, Col. La Martinica // León
+
+Celaya, 1954               # en Celaya, Guanajuato
+
 
 Club Tijuana, 2007,        Tijuana  › Baja California
   | Tijuana | Xolos | Club Tijuana Xoloitzcuintles de Caliente
@@ -114,12 +120,21 @@ Monarcas Morelia, 1924,  Morelia › Michoacán
   | Atletico Monarcas Morelia
  Av. Camelinas No. 3537, Col. 5 de Diciembre // Morelia, Michoacán C.P. 58260
 
-Club Necaxa,       Aguascalientes › Aguascalientes
+Club Necaxa,  1923,       Aguascalientes › Aguascalientes
   | Necaxa
+  
 CF Pachuca, 1901,        Pachuca › Hidalgo
   | Pachuca
   | Club de Fútbol Pachuca
  Libramiento Circuito de la Concepción km 2 s/n, Col. La Concepción // San Agustín Tlaxlaca, Hidalgo C.P. 42160
+
+Cruz Azul Hidalgo, 1993    # en Cd. Cooperativa Cruz Azul, Hidalgo  - Tula
+  | Cruz Azul Hgo.   
+
+Galeana, 1956             # en Xochitepec, Morelos  - Cuernavaca
+  |Ballenas Galeana
+Zacatepec, 1948           # en Zacatepec, Morelos   - Cuernavaca
+
 
 Querétaro FC, 1950,      Querétaro › Querétaro
   | Querétaro
@@ -132,4 +147,9 @@ Santos Laguna, 1983,     Torreón › Coahuila
   | Club Santos Laguna
  Calz. Territorio Santos Modelo No. 1, Col. Conjunto de Todos los Santos // Torreón, Coahuila
 
+Oaxaca,  2012             # en Oaxaca, Oaxaca
 
+Mérida,  2003             # en Mérida, Yucatán
+
+Delfines, 2012            # en Cd. del Carmen, Campeche
+  | Delfines del Carmen            
