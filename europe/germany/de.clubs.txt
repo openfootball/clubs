@@ -14,12 +14,22 @@ TSV 1860 München, 1860, München
   | 1860 München | TSV München 1860
   | Munich 1860 [en] | TSV 1860 Munich [en]
 
+Türkgücü München,  München 
+
+
 1. FC Nürnberg, 1900, Nürnberg       ### todo: always map Nurnberg to 1. FC Nürnberg ?!
   | Nürnberg
+ii) 1. FC Nürnberg II
+
 SpVgg Greuther Fürth, 1903, Fürth
   | Greuther Fürth
+ii) SpVgg Greuther Fürth II
+  | Greuther Fürth II
+
 FC Augsburg, 1907,    Augsburg
   | Augsburg
+ii) FC Augsburg II
+
 SpVgg Unterhaching,  Unterhaching
   | U'haching | Unterhaching
 FC Ingolstadt 04, 2004,    Ingolstadt               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
@@ -27,15 +37,28 @@ FC Ingolstadt 04, 2004,    Ingolstadt               ##  bis 2004 MTV Ingolstadt 
 SSV Jahn Regensburg,   Regensburg
   | Regensburg | Jahn Regensburg
 1. FC Schweinfurt 05,  Schweinfurt
-  | Schweinfurt
+  | Schweinfurt | Schweinfurt 05
 Würzburger Kickers, 1907,     Würzburg
   | FC Würzburger Kickers
   | Kickers Würzburg
 Wacker Burghausen,  Burghausen
   | Burghausen
-
+Viktoria Aschaffenburg,  Aschaffenburg 
+  | Aschaffenburg
 TSV 1860 Rosenheim,  Rosenheim
+  | 1860 Rosenheim
 FV Illertissen
+SpVgg Bayreuth,  Bayreuth 
+TSV Aubstadt
+TSV Buchbach
+VfB Eichstätt
+SV Heimstetten
+SV Schalding-Heining
+  | Schalding-Heining
+FC Memmingen
+VfR Garching
+TSV 1896 Rain
+  | TSV Rain/Lech | TSV Rain am Lech
 
 
 == Nordrhein-Westfalen ==
