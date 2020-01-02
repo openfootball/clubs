@@ -15,20 +15,22 @@ TSV 1860 München, 1860, München
   | Munich 1860 [en] | TSV 1860 Munich [en]
 
 Türkgücü München,  München 
-
+  | Türkgücü
 
 1. FC Nürnberg, 1900, Nürnberg       ### todo: always map Nurnberg to 1. FC Nürnberg ?!
   | Nürnberg
 ii) 1. FC Nürnberg II
-
+  | Nürnberg II
+  
 SpVgg Greuther Fürth, 1903, Fürth
   | Greuther Fürth
 ii) SpVgg Greuther Fürth II
-  | Greuther Fürth II
+  | Gr. Fürth II | Greuther Fürth II
 
 FC Augsburg, 1907,    Augsburg
   | Augsburg
 ii) FC Augsburg II
+  | Augsburg II
 
 SpVgg Unterhaching,  Unterhaching
   | U'haching | Unterhaching
@@ -48,17 +50,23 @@ Viktoria Aschaffenburg,  Aschaffenburg
 TSV 1860 Rosenheim,  Rosenheim
   | 1860 Rosenheim
 FV Illertissen
+  | Illertissen
 SpVgg Bayreuth,  Bayreuth 
+  | Bayreuth
 TSV Aubstadt
 TSV Buchbach
+  | Buchbach
 VfB Eichstätt
+  | Eichstätt
 SV Heimstetten
+  | Heimstetten
 SV Schalding-Heining
-  | Schalding-Heining
+  | Schald.-Hein. | Schalding-Heining
 FC Memmingen
+  | Memmingen
 VfR Garching
 TSV 1896 Rain
-  | TSV Rain/Lech | TSV Rain am Lech
+  | TSV Rain | TSV Rain/Lech | TSV Rain am Lech
 
 
 == Nordrhein-Westfalen ==
