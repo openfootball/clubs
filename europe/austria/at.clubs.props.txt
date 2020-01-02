@@ -1,20 +1,18 @@
-Name,                   Web,                               Address
-FK Austria Wien,        www.fk-austria.at,                 Fischhofgasse 12 // 1100 Wien
-SK Rapid Wien,          www.skrapid.at,                    Keisslergasse 3 // 1140 Wien
-FC Admira Wacker,       www.admirawacker.at,               Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf    ## Mödling > Niederösterreich (NÖ)
-SV Mattersburg,         www.svm.at,                        Michael Koch Straße 50 // 7210 Mattersburg
-FC RB Salzburg,         www.redbulls.com/soccer/salzburg,  Stadionstraße 2/3 // 5071 Wals-Siezenheim   ## Salzburg > Salzburg (S)
-SV Grödig,              www.sv-groedig.at,                 Prötschhofstrasse 26 // 5082 Grödig         ## Salzburg (S)
-SK Sturm Graz,          www.sksturm.at,                    Sternäckerweg 118 // 8042 Graz              ## Steiermark (ST)
-Wolfsberger AC,         www.rzpelletswac.at,               Don Bosco Weg 1 // 9400 Wolfsberg           ## Kärtnen (K)
-SV Ried,                www.svried.at,                     Volksfestplatz 2 // 4910 Ried im Innkreis   ## Oberösterreich (OÖ) 
-SCR Altach,             www.scra.at,                       Schnabelholz 1 // 6844 Altach               ## Vorarlberg (V)
-SC Wiener Neustadt,     www.scwn.at,                       Giltschwertgasse 81 // 2700 Wiener Neustadt ## Niederösterreich (NÖ)
-FC Wacker Innsbruck,    www.fc-wacker-innsbruck.at,        Stadionstraße 1b // 6020 Innsbruck
+Name,                   Web
+FK Austria Wien,        www.fk-austria.at
+SK Rapid Wien,          www.skrapid.at
+FC Admira Wacker,       www.admirawacker.at
+SV Mattersburg,         www.svm.at
+FC RB Salzburg,         www.redbulls.com/soccer/salzburg
+SV Grödig,              www.sv-groedig.at
+SK Sturm Graz,          www.sksturm.at
+Wolfsberger AC,         www.rzpelletswac.at
+SV Ried,                www.svried.at
+SCR Altach,             www.scra.at
+SC Wiener Neustadt,     www.scwn.at
+FC Wacker Innsbruck,    www.fc-wacker-innsbruck.at
 SC Austria Lustenau,    www.austria-lustenau.at
 SKN St. Pölten,         www.skn-stpoelten.at
 Kapfenberger SV,        www.ksv1919.at
 Floridsdorfer AC,       www.fac.at
 LASK Linz,              www.lask.at
-
-
