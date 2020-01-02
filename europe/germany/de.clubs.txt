@@ -7,28 +7,33 @@
 Bayern München, 1900,     München
   | Bayern | FC Bayern München
   | Bayern Munich [en] | FC Bayern Munich [en]
+ Säbener Straße 51-57 // 81547 München 
 ii) Bayern München II
   | Bayern II |  Bayern München Am.
 
 TSV 1860 München, 1860, München
   | 1860 München | TSV München 1860
   | Munich 1860 [en] | TSV 1860 Munich [en]
+ Grünwalder Straße 114 // 81547 München
 
 Türkgücü München,  München 
   | Türkgücü
 
 1. FC Nürnberg, 1900, Nürnberg       ### todo: always map Nurnberg to 1. FC Nürnberg ?!
   | Nürnberg
+ Valznerweiherstraße 200 // 90480 Nürnberg 
 ii) 1. FC Nürnberg II
   | Nürnberg II
   
 SpVgg Greuther Fürth, 1903, Fürth
   | Greuther Fürth
+ Laubenweg 60 // 90765 Fürth 
 ii) SpVgg Greuther Fürth II
   | Gr. Fürth II | Greuther Fürth II
 
 FC Augsburg, 1907,    Augsburg
   | Augsburg
+ Donauwörther Str. 170 // 86154 Augsburg 
 ii) FC Augsburg II
   | Augsburg II
 
@@ -36,6 +41,8 @@ SpVgg Unterhaching,  Unterhaching
   | U'haching | Unterhaching
 FC Ingolstadt 04, 2004,    Ingolstadt               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
   | Ingolstadt | FC Ingolstadt
+ Am Sportpark 1 // 85053 Ingolstadt
+ 
 SSV Jahn Regensburg,   Regensburg
   | Regensburg | Jahn Regensburg
 1. FC Schweinfurt 05,  Schweinfurt
@@ -74,6 +81,8 @@ TSV 1896 Rain
 1. FC Köln, 1948,   Köln
   | Köln            ## add Köln too - why? why not?
   | FC Köln
+ Franz-Kremer-Allee 1 // 50937 Köln
+ 
 Fortuna Köln, 1948,  Köln
   | F Köln | SC Fortuna Köln | Sportclub Fortuna Köln
 FC Viktoria Köln,    Köln
@@ -81,29 +90,41 @@ FC Viktoria Köln,    Köln
 
 Fortuna Düsseldorf,  1895, Düsseldorf
   | Düsseldorf | F. Düsseldorf
-
+ Arena Straße 1 // 40474 Düsseldorf
+ 
 Borussia Dortmund, 1909,    Dortmund
   | Dortmund | Bor. Dortmund | BV 09 Borussia Dortmund
+ Rheinlanddamm 207-209 // 44137 Dortmund
 ii) Borussia Dortmund II
   | Dortmund II | Bor. Dortmund II
+  
 FC Schalke 04, 1904,         Gelsenkirchen
   | Schalke | Schalke 04
+ Ernst-Kuzorra-Weg 1 // 45891 Gelsenkirchen
+ 
 Bayer 04 Leverkusen, 1904,    Leverkusen
   | Bayer | Leverkusen | Bayer Leverkusen | Bay. Leverkusen
+ Bismarckstr. 122 - 124 // 51373 Leverkusen
+ 
 MSV Duisburg,         Duisburg       ## until 1965/66 Meidericher SV -- was Meidericher SV in 1963/64
   | Duisburg | Meidericher SV
 Bor. Mönchengladbach, 1900, Mönchengladbach
   | Mönchengladbach | M'Gladbach
   | Borussia M'gladbach | Bor. M'gladbach  | Borussia Mönchengladbach
   | VfL Borussia Mönchengladbach
-
+ Hennes-Weisweiler-Allee 1 // 41179 Mönchengladbach
+ 
 VfL Bochum, 1938,            Bochum
   | Bochum | VfL Bochum 1848
+ Castroper Straße 145 // 44791 Bochum
+ 
 SG Wattenscheid 09,    Bochum (Wattenscheid)    ## Bochum-Wattenscheid - Bochumer Stadtbezirk
   | Wattenscheid | Wattenscheid 09
 
 Arminia Bielefeld,  1905,    Bielefeld
   | Bielefeld | DSC Arminia Bielefeld
+ Melanchthonstraße 31a // 33615 Bielefeld
+ 
 Preußen Münster,     Münster
   | Münster | SC Preußen 06 | SC Preußen Münster
 
@@ -118,6 +139,8 @@ Alemannia Aachen,     Aachen
   | Aachen | TSV Alemannia Aachen
 SC Paderborn 07,  1907,      Paderborn
   | Paderborn | Paderborn 07 | SC Paderborn
+ Paderborner Str. 89 // 33104 Paderborn
+ 
 Rot Weiss Ahlen,    Ahlen
   | Ahlen
 Rot-Weiß Oberhausen,   Oberhausen
@@ -165,10 +188,16 @@ VfL Osnabrück,               Osnabrück › Niedersachsen
   | Osnabrück
 VfL Wolfsburg,           Wolfsburg › Niedersachsen
   | Wolfsburg
+ In den Allerwiesen 1 // 38446 Wolfsburg
+
 Hannover 96, 1896,       Hannover › Niedersachsen
   | Hannover | Hannover 1896
+ Robert-Enke-Straße 1 // 30169 Hannover
+ 
 Eintracht Braunschweig, 1895,  Braunschweig › Niedersachsen
   | Braunschweig | E. Braunschweig | Eintr. Braunschweig 
+ Hamburger Straße 210 // 38112 Braunschweig
+ 
 FT Braunschweig
   | Freie Turnerschaft Braunschweig
 
@@ -186,6 +215,8 @@ TSV Havelse
 
 Energie Cottbus,  1966,      Cottbus › Brandenburg
   | Cottbus | FC Energie Cottbus
+ Am Eliaspark 1 // 03042 Cottbus
+ 
 SV Babelsberg 03,     Potsdam › Brandenburg     ## (Potsdam-Babelsberg)
   | Babelsberg
 
@@ -197,10 +228,14 @@ SV Falkensee-Finkenkrug
 
 Hertha BSC, 1892,            	Berlin › Berlin
   | Hertha | Hertha BSC Berlin | Hertha Berliner Sport-Club
-Tennis Borussia Berlin, Berlin › Berlin
-  | TB Berlin | TeBe Berlin
+ Hanns-Braun-Straße / Friesenhaus 2 // 14053 Berlin
+
 1. FC Union Berlin, 1966,     Berlin › Berlin
   | Union Berlin | FC Union Berlin
+ An der Wuhlheide 263 // 12555 Berlin
+
+Tennis Borussia Berlin, Berlin › Berlin
+  | TB Berlin | TeBe Berlin 
 Blau-Weiß 90 Berlin (-1992), Berlin › Berlin
   | Blau-Weiss 90 Berlin
 SC Tasmania 1900 Berlin (-1973), Berlin › Berlin
@@ -217,9 +252,12 @@ FC Viktoria 1889 Berlin
 
 Hamburger SV,  1887,     Hamburg › Hamburg
   | Hamburg
+ Sylvesterallee 7 // 22525 Hamburg 
+
 FC St. Pauli, 1910,      Hamburg (St. Pauli) › Hamburg     ## use stadtteil St. Pauli ??
   | St Pauli | St. Pauli | FC Sankt Pauli
-
+ Heiligengeistfeld 1 // 20359 Hamburg
+ 
 SC Victoria Hamburg
   | Victoria Hamburg
 USC Paloma Hamburg
@@ -230,6 +268,7 @@ HSV Barmbek-Uhlenhorst
 
 Werder Bremen, 1899,      Bremen › Bremen
   | Bremen | SV Werder Bremen
+ Franz-Böhmert-Straße 1c // 28205 Bremen
 ii) Werder Bremen II
 
 SG Aumund-Vegesack
@@ -241,26 +280,39 @@ Bremer SV
 
 VfB Stuttgart, 1893,        Stuttgart › Baden-Württemberg
   | Stuttgart
+ Mercedesstraße 109 // 70372 Stuttgart 
 ii) VfB Stuttgart II
   | Stuttgart II
+
 Stuttgarter Kickers,   Stuttgart › Baden-Württemberg
   | Stutt. Kick. | Stuttgarter K
+
 SC Freiburg, 1904,       	  Freiburg  › Baden-Württemberg
   | Freiburg
+ Schwarzwaldstr. 193 // 79117 Freiburg
+ 
 TSG 1899 Hoffenheim,  1899,  Sinsheim › Baden-Württemberg   ## Sinsheim-Hoffenheim
   | Hoffenheim | 1899 Hoffenheim | TSG Hoffenheim
+ Horrenberger Straße 58 // 74939 Zuzenhausen       ## check for Hoffenheim ??
+ 
 Karlsruher SC,  1894,        Karlsruhe › Baden-Württemberg
   | Karlsruhe
+ Adenauerring 17 // 76131 Karlsruhe 
+   
 SSV Ulm 1846,         Ulm › Baden-Württemberg
   | Ulm
 VfR Aalen, 1921,          Aalen › Baden-Württemberg
   | Aalen
+ Stadionweg 5/1 // 73430 Aalen
+ 
 1. FC Heidenheim, 2007,   Heidenheim an der Brenz › Baden-Württemberg
   | Heidenheim | FC Heidenheim | 1. FC Heidenheim 1846
 SSV Reutlingen 05,     Reutlingen › Baden-Württemberg
   | Reutlingen
 SV Sandhausen, 1916,         Sandhausen › Baden-Württemberg
   | Sandhausen | SV Sandhausen 1916
+ Jahnstraße 1 // 69207 Sandhausen
+ 
 VfR Mannheim,        Mannheim › Baden-Württemberg
   | Mannheim
   ##  - 2 (8): 2002-03....1999-00 (4) 1996-97....1993-94 (4)
@@ -284,8 +336,11 @@ Eintracht Frankfurt, 1899,   Frankfurt am Main › Hessen
   | Frankfurt
   | E. Frankfurt | Ein Frankfurt | Eint Frankfurt | Eintr. Frankfurt
   | SG Eintracht Frankfurt
+ Mörfelder Landstraße 362 // 60528 Frankfurt am Main
+ 
 FSV Frankfurt, 1899,       Frankfurt am Main › Hessen
    | Frankfurt FSV | FSV Frankfurt 1899
+ Richard-Herrmann-Platz 1 // 60386 Frankfurt am Main
 
 SV Darmstadt 98, 1898,       Darmstadt › Hessen
   | Darmstadt
@@ -300,9 +355,11 @@ KSV Hessen Kassel
 
 1. FC Kaiserslautern, 1900, Kaiserslautern › Rheinland-Pfalz
   | K'lautern | Kaiserslautern | 1. FC K'lautern | FC Kaiserslautern
+ Fritz-Walter-Str. 1 // 67663 Kaiserslautern
 
 1. FSV Mainz 05, 1905,     Mainz          › Rheinland-Pfalz
   | Mainz | Mainz 05 | FSV Mainz 05
+ Isaac-Fulda-Allee 5 // 55124 Mainz 
 ii) 1. FSV Mainz 05 II
 
 Eintracht Trier,      Trier          › Rheinland-Pfalz
@@ -343,7 +400,8 @@ FC Schönberg 95
 
 Dynamo Dresden, 1953,      Dresden › Sachsen
   | Dresden | SG Dynamo Dresden
-
+ Lennéstraße 12 // 01069 Dresden
+ 
 RB Leipzig, 2009,     Leipzig › Sachsen
 VfB Leipzig (-2004),  Leipzig › Sachsen     ## note: 2004 aufgelöst in bl 1993/94
   | Leipzig
@@ -352,6 +410,8 @@ Chemnitzer FC,       Chemnitz › Sachsen
   | Chemnitz
 FC Erzgebirge Aue, 1949,   Aue      › Sachsen
   | Aue  | Erzgebirge Aue
+ Lößnitzer Straße 95 // 08280 Aue
+ 
 FSV Zwickau,        Zwickau  › Sachsen
   | Zwickau
 
