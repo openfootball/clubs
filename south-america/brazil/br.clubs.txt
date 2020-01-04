@@ -33,7 +33,7 @@ Portuguesa,    São Paulo
   | Associação Portuguesa de Desportos
 Botafogo SP,    Ribeirão Preto
   | Botafogo FC | Botafogo Futebol Clube
-  | Botafogo Futebol Clube (SP)
+  | Botafogo FC SP | Botafogo Futebol Clube (SP)
 Guarani FC, 1911,  Campinas
   | Guarani | Guarani FC SP | Guarani Futebol Clube
 São Bento,  Sorocaba
@@ -46,7 +46,7 @@ AD São Caetano, 1989, São Caetano
 == Rio de Janeiro ==
 Botafogo RJ,     Rio de Janeiro
   | Botafogo | Botafogo (RJ)
-  | Botafogo FR | Botafogo de Futebol e Regatas
+  | Botafogo FR | Botafogo FR RJ | Botafogo de Futebol e Regatas
 Flamengo RJ,     Rio de Janeiro
   | Flamengo | CR Flamengo | CR Flamengo RJ | Flamengo Rio de Janeiro
   | Clube de Regatas do Flamengo
@@ -110,7 +110,7 @@ Chapecoense,    Chapecó
   | Chapecoense-SC | Associação Chapecoense de Futebol
 Criciúma EC,   Criciúma
   | Criciúma | Criciúma Esporte Clube
-  | Criciúma SC
+  | Criciúma SC | Criciúma EC SC
 Avaí FC,       Florianópolis
   | Avaí | Avaí FC SC | Avaí Futebol Clube
 Joinvile EC,     Joinville
@@ -128,7 +128,7 @@ Náutico PE,  Recife
 
 == Bahia ==
 EC Vitória,      Salvador
-  | Vitória | Vitória BA | Esporte Clube Vitória
+  | Vitória | Vitória BA | EC Vitória BA | Esporte Clube Vitória
 EC Bahia,            Salvador
   | Bahia | Bahia BA | EC Bahia BA | Esporte Clube Bahia
 
@@ -141,8 +141,9 @@ Atlético GO,   Goiânia
 Vila Nova GO,  Goiânia
   | Vila Nova | Vila Nova de Goias | Vila Nova FC | Vila Nova Futebol Clube
 
-
-
+== Paraná ==
+Operário,   Ponta Grossa
+  | Operário Ferroviár | Operário Ferroviário Esporte Clube
 
 == Ceará ==
 Ceára SC,      Fortaleza
@@ -158,7 +159,7 @@ Paysandu SC,   Belém
 CRB AL,    Maceió
   | CRB | Clube de Regatas Brasil
 CSA,       Maceió
-  | CSA AL | Centro Sportivo Alagoano
+  | CSA AL | CS Alagoano AL | Centro Sportivo Alagoano
 
 == Mato Grosso ==
 Luverdense EC, Lucas do Rio Verde
