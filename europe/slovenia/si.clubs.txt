@@ -30,3 +30,7 @@ NK Tabor Sezana
 NK Triglav
   | Triglav
 NK Radomlje
+
+NK Nafta 1903,      Lendava
+ | Nafta 1903 | NK Nafta Lendava 1903
+ | NK Nafta Lendava | Nafta Lendava    ## note: ND Lendava 1903 is legally not considered to be the successor of NK Nafta Lendava - keep them separate here too? why? why not?
