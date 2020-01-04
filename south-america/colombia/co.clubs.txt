@@ -13,7 +13,7 @@ La Equidad,               Bogotá
 Atlético Nacional,        Medellín
   | At. Nacional | Club Atlético Nacional S.A.
 Independiente Medellín,   Medellín
-
+  | Indep. Medellín
 
 Junior de Barranquilla,   Barranquilla
   | Junior | Corporación Popular Deportiva Junior
