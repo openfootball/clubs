@@ -94,7 +94,7 @@ Club Atlético Belgrano,   Córdoba
 Talleres de Córdoba,      Córdoba
   | Talleres | Talleres C. | Talleres Cordoba | Club Atlético Talleres
 
-
+  
 == Provincia Mendoza ==
 
 Godoy Cruz, 	Mendoza       # Godoy Cruy is a city in Greater Mendoza
@@ -132,6 +132,6 @@ Crucero del Norte, Garupá › Misiones
 == Provincia Santiago del Estero ==
 
 Central Córdoba,     Santiago del Estero › Santiago del Estero
-  | CC Córdoba | Club Atlético Central Córdoba
+  | CC Córdoba | CA Central Córdob | Club Atlético Central Córdoba
   | Central Córdoba de Santiago del Estero
   | Central Córdoba (SdE)
