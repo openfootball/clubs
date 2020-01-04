@@ -24,6 +24,10 @@ FC Moskva,    Moskva
 Torpedo Moskva,    Moskva
   | Torpedo
   | T. Moscow [en] | Torpedo Moscow [en] | FC Torpedo Moscow [en]
+  | FC Torpedo Moskau [de]
+FC Chertanovo Moskva,    Moskva
+  | Chertanovo Moscow [en] | FC Chertanovo Moscow [en]
+  | FC Chertanovo Mosk [de]
 
 
 Zenit St. Petersburg, 1925,     St. Petersburg
@@ -75,8 +79,13 @@ FC Krasnodar,  Krasnodar
 FC Kuban,    Krasnodar
   | Kuban | Kuban' | Kuban Krasnodar | FC Kuban Krasnodar
 
+FC Baltika, Kaliningrad
+  | Baltika Kaliningrad | FC Baltika Kaliningrad
+  | FK Baltika
+
 Luch Energia Vladivostok,   Vladivostok
-  | Luch
+  | Luch | Luch Vladivostok
+  | Luch Wladivostok [de]
 
 FC Mordovia,   Saransk
   | Mordovia | Mordovia Saransk | M. Saransk
@@ -85,17 +94,24 @@ Spartak Nalchik,   Nalchik
   | Nalchik
 
 Nizhnii Novgorod,  Nizhny Novgorod
-  | Nizhny Novgorod
+  | Nizhny Novgorod | FC Nizhny Novgorod
 
 FC Rostov,     Rostov-on-Don
   | Rostov | Rostov Rostov-on-Don | FK Rostov
 
 Rotor, Volgograd
+  | Rotor Volgograd | FC Rotor Volgograd
+  | FC Rotor Wolgograd [de]
 Saturn, Ramenskoe
 Shinnik, Yaroslavl
   | Shinnik Yaroslavl
-SKA-Energiia, Khabarovsk
-  | SKA Energia | SKA Khabarovsk
+SKA Khabarovsk, Khabarovsk
+  | SKA-Energiia | SKA Energia | Energ. Khabarovsk
+  | FC SKA-Khabarovsk    
+# note: The club has been known under different names: SKA (1960–99)
+#                                                      SKA-Energia (1999–2016)
+#                                                      SKA-Khabarovsk (2016–)
+
 Sokol, Saratov
 Terek Grozny, Grozny
   | Terek | FC Terek Grozny
@@ -124,8 +140,18 @@ FC Orenburg,  Orenburg
 Volgar-Astrakhan,  Astrakhan
 Vladikavkaz,   Vladikavkaz
 Yenisey, Krasnoyarsk
-  | FC Yenisey Krasnoyarsk
+  | FC Yenisey | Yenisey Krasnoyarsk | FC Yenisey Krasnoyarsk
 
 FC Avangard Kursk,  Kursk
 FC Tekstilshchik Ivanovo, Ivanovo
   | Tekstilshchik
+
+Neftekhimik Nizhnekamsk, Nizhnekamsk
+  | FC Neftekhimik | FC Neftekhimik Nizhnekamsk
+
+FC Chayka, Peschanokopskoye
+  | Chayka Peschanokopskoye | FC Chayka Peschanokopskoye
+  
+FC Fakel Voronezh, Voronezh  
+  | Fakel Voronezh
+  | Fakel Worenesch [de] 
