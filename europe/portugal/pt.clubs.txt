@@ -10,11 +10,23 @@ Sporting CP,      Lisboa
   | Sporting Liss. [de] | Sporting Lissabon [de]
 Os Belenenses,    Lisboa
   | Belenenses | Belenenses L. | Belenenses SAD
+Casa Pia,         Lisboa
+  | Casa Pia AC | Casa Pia Atlético
+  | Casa Pia Atlético Clube
+  
+UD Vilafranquense,    Vila Franca de Xira   # a municipality in the Lisbon District 
+  | Vilafranquense | União Desportiva Vilafranquense
+CD Mafra,  Mafra                            # a city and a municipality in the district of Lisbon
+  | Clube Desportivo Mafra
+
 
 FC Porto,     Porto
   | Porto
 Boavista FC,  Porto
   | Boavista | Boavista Porto
+
+UD Oliveirense,  Oliveira de Azeméis    # a city and a municipality located in Porto Metropolitan Area 
+  | Oliveirense | União Desportiva Oliveirense
 
 CD Aves, Aves
   | Aves | Desportivo Aves
@@ -22,6 +34,7 @@ GD Chaves, Chaves
   | Chaves
 Estoril Praia, Estoril
   | Estoril
+  | GD Estoril Praia | Grupo Desportivo Estoril Praia
 CD Feirense, Santa Maria da Feira
   | Feirense
 
@@ -45,13 +58,16 @@ Portimonense SC, Portimão
 Rio Ave FC, Vila do Conde
   | Rio Ave
 SC Braga, Braga
-  | Braga | Sp Braga |Sporting Braga
+  | Braga | Sp Braga | Sporting Braga
 CD Tondela, Tondela
   | Tondela
 
 Académica de Coimbra, Coimbra
-  | Académica | A. Académica de Coimbra
-  | Associação Académica de Coimbra   ## Organismo Autónomo de Futebol (AAC–OAF)
+  | Académica | Académ. Coimbra | A. Académica de Coimbra
+  | Associação Académica de Coimbra
+  | Associação Académica de Coimbra - Organismo Autónomo de Futebol  # (AAC–OAF)
+  | Associação Académica de Coimbra - O.A.F
+  . 
 FC Arouca, Arouca
   | Arouca
 CD Nacional Madeira, Funchal
@@ -86,9 +102,9 @@ Leça FC, Leça da Palmeira
   | Leça
 
 FC Alverca, Alverca do Ribatejo
-  | Alverca
+  | Alverca |  Alverca Futebol
 Sporting de Espinho,  Espinho
-  | Espinho | Sporting Clube de Espinho
+  | Espinho | SC Espinho | Sporting Clube de Espinho
 Leixões SC, Matosinhos
   | Leixões
 Naval 1º de Maio, Figueira da Foz
@@ -104,3 +120,13 @@ Varzim SC,       Póvoa de Varzim
 
 FC Famalicão,  1931,  Vila Nova de Famalicão
   | Famalicão | Futebol Clube de Famalicão
+ 
+SC Covilhã,   Covilhã
+  | Sporting da Covilhã | Sporting Clube da Covilhã
+
+Académico Viseu,  Viseu 
+  | Académico de Viseu FC
+  
+Anadia FC, Anadia
+  | Anadia Futebol Clube 
+AC Marinhense,  Marinha Grande
