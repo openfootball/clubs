@@ -46,9 +46,11 @@ St Johnstone FC, 1884, Perth
 Brechin City,  Brechin
   | Brechin
 Dumbarton,     Dumbarton
+  | FC Dumbarton
 Dunfermline Athletic, Dunfermline
   | Dunfermline
 Falkirk,  Falkirk
+  | FC Falkirk
 Greenock Morton,  Greenock
   | Morton
 Inverness Caledonian Thistle, 1994,  Inverness
@@ -78,23 +80,27 @@ Arbroath,         Arbroath
 Ayr United,       Ayr
   | Ayr
 East Fife,        Methil
+  | FC East Fife
 Forfar Athletic,  Forfar
   | Forfar
 Raith Rovers,     Kirkcaldy
-  | Raith Rvs | Raith
+   | Raith | Raith Rvs | FC Raith Rovers
 Stranraer,        Stranraer
-
+   | FC Stranraer
 
 
 
 
 Annan Athletic,   Annan
 Clyde,            Cumbernauld
+  | FC Clyde
 Cowdenbeath,      Cowdenbeath
 Elgin City,       Elgin
   | Elgin
 Montrose,         Montrose
+  | FC Montrose
 Peterhead,        Peterhead
+  | Peterhead FC
 Stenhousemuir,    Stenhousemuir
 Stirling Albion,  Stirling
   | Stirling
