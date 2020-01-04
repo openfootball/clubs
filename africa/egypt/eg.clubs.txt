@@ -6,6 +6,7 @@ Al Ahly,                Cairo › Cairo
   | Al-Ahly | Al Ahly Cairo | Al Ahly SC | Al Ahly Sporting Club
 Al Mokawloon Al Arab,   Cairo › Cairo  ## Nasr City
   | Arab Contractors (Sporting Club)
+  | Al Moqawloon
 El Dakhleya,            Cairo › Cairo   ##  Abbassia
 El Entag El Harby,      Cairo › Cairo
   | Military Production
@@ -17,9 +18,14 @@ Tala'ea El Gaish,       Cairo › Cairo
   | Army's Vanguards | Tala'ea El-Gaish SC
 Wadi Degla,             Cairo › Cairo
   | Wadi Degla SC | Wadi Degla FC
+FC Masr,                Cairo › Cairo
+  | Football Club Masr
+Pyramids FC,            Cairo › Cairo
+  | Pyramids Football Club
 
 
 Al Ittihad Al Sakandary,    Alexandria › Alexandria
+  | Al Ittihad
   | Alexandrian Union Club
 Haras El Hodood,            Alexandria › Alexandria   ##  El Max
   | Haras El-Hodood SC
@@ -29,6 +35,7 @@ Smouha SC,                  Alexandria › Alexandria   ## Smouha
 
 Zamalek,   Giza › Giza
   | Zamalek SC | Zamalek Sporting Club
+  | El Zamalek
 Ismaily,   Ismailia › Ismailia
   | Ismaily SC
 El Gouna,    Hurghada › Red Sea   ## El Gouna
@@ -36,7 +43,18 @@ El Gouna,    Hurghada › Red Sea   ## El Gouna
 Ghazl El Mahalla,  El Mahalla El Kubra › Gharbia
   | Ghazl El Mahalla SC | Ghazl El Mahalla Sporting Club
 Misr El Makasa,  Faiyum › Faiyum
+  | Misr LeL Makasa
+  | Misr Lel Makkasa SC | Misr Lel Makkasa Sporting Club
 Petrojet,   Suez › Suez
   | Petrojet FC | Petrojet Football Club
 Telephonat Bani Sweif,  Beni Suef › Beni Suef
   | TE Beni Suef
+  
+Tanta SC, Tanta  
+  | Tanta Sports Club 
+  | FC Tanta
+Aswan SC, Aswan
+  | Aswan Sporting Club
+  | Aswan FC
+Al Masry SC,  Port Said
+  | Al-Masry Club | Al Masry Sporting Club
