@@ -108,7 +108,7 @@ US Orléans, Orléans
 US Quevilly-Rouen Métropole,  Petit-Quevilly
   | Quevilly Rouen | Quevilly-Rouen
 FC Sochaux-Montbéliard, Montbéliard
-  | Sochaux | Football Club de Sochaux-Montbéliard
+  | Sochaux | FC Sochaux | Football Club de Sochaux-Montbéliard
 Tours FC, Tours
   | Tours | Tours Football Club
 Valenciennes FC, Valenciennes
