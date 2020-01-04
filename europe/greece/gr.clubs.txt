@@ -11,8 +11,10 @@ Apollon Smyrnis FC,  Athens
   | Apollon
 Atromitos FC,      Athens    ## use!? - Peristeri a suburban municipality in the northwestern part of the Athens agglomeration
   | Atromitos
+  | Atromitos Athen [de]
 Panionios GSS,     Athens    ## use!? - Nea Smyrni a municipality and a southern suburb of Athens
-  | Panionios
+  | Panionios 
+  | Panionios Athen [de]
 APO Akratitos,      Athens        ## Ano Liosia, Athens
   | Akratitos
 Athinaikos AS FC,   Athens
@@ -50,7 +52,7 @@ Ethnikos Piraeus FC,    Piraeus › Attica
 PAOK FC,              Thessaloniki › Central Macedonia
   | PAOK | PAOK Thessal. | PAOK Thessaloniki
 Aris Thessaloniki FC, Thessaloniki › Central Macedonia
-  | Aris
+  | Aris | Aris Thessaloniki
 Iraklis 1908 Thessaloniki FC, Thessaloniki › Central Macedonia
   | Iraklis
 
@@ -61,9 +63,11 @@ Asteras Tripolis FC, Tripoli › Peloponnese
   | Asteras | Asteras Tripolis
 
 Xanthi FC,           Xanthi › Thrace
-  | Xanthi
+  | Xanthi 
+  | Skoda Xanthi FC
 Panetolikos GFS,     Agrinio › West Greece
   | Panetolikos
+  | Panaitolikos
 PAS Giannina FC,     Ioannina › Epirus
   | Giannina | Yiannina
 Levadiakos FC,       Livadeia › Central Greece
@@ -77,22 +81,24 @@ PAS Lamia 1964,      Lamia › Central Greece
   | Lamia | PAS Lamia | Lamia 1964
 Kerkyra FC,          Corfu › Ionian Islands
   | Kerkyra
-Platanias FC,        Chania › Crete
-  | Platanias
-
-
+  | Kerkyra Kassiopi     # club founded in 2013 following a merger between AO Kerkyra and AO Kassiopi.
 
 Doxa Dramas FC, Drama › Macedonia
   | Doxa | Doxa Dramas
 Edessaikos FC,  Edessa › Macedonia
   | Edessaikos
 
+Platanias FC,        Chania › Crete     ## use Platanias › Chania  why? why not?
+  | Platanias
+PAE Chania,           Chania  › Crete   ## use Mournies › Chania   why? why not?
+  | Chania FC
 
 Ergotelis FC, Heraklion › Crete
   | Ergotelis
 OFI Crete FC, Heraklion › Crete
   | OFI | OFI Crete
-
+  | OFI Kreta FC [de]
+  
 Kalamata FC,       Kalamata › Peloponnese
   | Kalamata
 
