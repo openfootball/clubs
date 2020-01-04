@@ -28,7 +28,7 @@ Cove Rangers FC, 1922, Aberdeen (Cove Bay)
 
 
 Dundee FC, 1893,       Dundee     ## note: depends on level (1) for mapping
-  | Dundee
+  | Dundee | FC Dundee
 Dundee United, 1909,   Dundee
   | Dundee Utd | Dundee United FC | Dundee Hibernian
 
@@ -60,7 +60,7 @@ Inverness Caledonian Thistle, 1994,  Inverness
 Livingston FC, Livingston
   | Livingston | FC Livingston
 Queen of the South,  Dumfries
-  | Queen of Sth
+  | Queen of Sth | Queen of South
 Saint Mirren FC, 1877,  Paisley
   | St Mirren | St Mirren FC
   | FC St. Mirren
@@ -76,8 +76,9 @@ Airdrieonians,    Airdrie
 Albion Rovers,    Coatbridge
   | Albion Rvs
 Alloa Athletic,   Alloa
-  | Alloa
+  | Alloa | FC Alloa Athletic
 Arbroath,         Arbroath
+  | FC Arbroath
 Ayr United,       Ayr
   | Ayr
 East Fife,        Methil
