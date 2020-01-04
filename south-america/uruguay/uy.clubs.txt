@@ -3,9 +3,9 @@
 
 Liverpool Montevideo,          Montevideo
   | Liverpool | Liverpool FC | Liverpool Fútbol Club
-  | Liverpool FC Montevideo
+  | Liverpool Montevid | Liverpool FC Montevideo
 Nacional de Montevideo, 1899,  Montevideo
-  | Nacional | Club Nacional de Football | C. N. de F.
+  | Nacional | Nacional de Footb. | Club Nacional de Football | C. N. de F.
 Defensor Sporting,             Montevideo
   | Defensor | Defensor Sp. | Defensor Sporting Club
 CA Peñarol,                    Montevideo
@@ -21,7 +21,7 @@ Centro Atlético Fénix, 1916,   Montevideo
 CS Miramar Misiones, 1906,     Montevideo
   | Miramar Misiones | Club Sportivo Miramar Misiones
 Montevideo Wanderers, 1902,    Montevideo
-  | Wanderers | Montevideo Wanderers FC | Montevideo Wanderers Fútbol Club
+  | Wanderers | Montev. Wanderers | Montevideo Wanderers FC | Montevideo Wanderers Fútbol Club
 Racing CM, 1919,               Montevideo
   | Racing | Racing Club de Montevideo
   | RC Montevideo
@@ -35,13 +35,13 @@ Boston River,                  Montevideo
 CA Progreso,                   Montevideo
   | Progreso
 Rampla Juniors,                Montevideo
-
+  | Rampla Juniors FC
 
 Juventud de Las Piedras, 1935,    Las Piedras
-  | Juventud | Club Atlético Juventud de Las Piedras
+  | Juventud | Juventud Piedras | Club Atlético Juventud de Las Piedras
 Cerro Largo, 2002,                Melo
   | Cerro Largo FC | Cerro Largo Fútbol Club
 Sud América, 1914,                San José
   | Institución Atlética Sud América | I.A.S.A
 Club Plaza Colonia de Deportes,   Colonia
-  | Plaza Colonia
+  | Plaza Colonia | Plaza Colonia CD
