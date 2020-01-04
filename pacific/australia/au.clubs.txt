@@ -20,8 +20,9 @@ Central Coast Mariners,   Gosford ›  Central Coast › New South Wales
 Newcastle United Jets,    Newcastle › New South Wales
   | Newcastle | Newcastle Jets
 
-Melbourne Heart,          Melbourne › Victoria
+Melbourne City FC,          Melbourne › Victoria
   | Melb City
+  | Melbourne Heart   # founded in 2009 as Melbourne Heart
 Melbourne Victory,        Melbourne › Victoria
   | Melb Victory
 
