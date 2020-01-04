@@ -21,8 +21,14 @@ Royal Antwerp FC,    Antwerpen › Antwerpen › Vlaanderen
   | Antwerp | Royal Antwerp
   | R. Antwerpen | Royal Antwerpen
   | FC Royal Antwerpen
-Germinal Beerschot,  Antwerpen › Antwerpen › Vlaanderen
+
+Germinal Beerschot,  Antwerpen › Antwerpen › Vlaanderen       ## officially declared bankrupt on 21 May 2013
   | Germinal
+  | Beerschot A.C. 
+K Beerschot VA,  Antwerpen › Antwerpen › Vlaanderen               ## in 2019 renamed to K. Beerschot V.A.)
+  | KFCO Wilrijk   
+  ## In 2013, KFCO Wilrijk decided to integrate the identity of Beerschot AC
+  ## In June 2013 K.FC.O. Wilrijk unofficially integrated Beerschot AC's identity into theirs to become FCO Beerschot Wilrijk
 
 KV Mechelen, 1904,    Mechelen › Antwerpen › Vlaanderen
   | Mechelen | YR KV Mechelen | Yellow Red Koninklijke Voetbalclub Mechelen
