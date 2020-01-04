@@ -6,7 +6,7 @@ Millonarios Bogotá,       Bogotá
   | Millonarios | Millonarios FC | Millonarios Fútbol Club
   | Los Millonarios
 Independiente Santa Fe,   Bogotá
-  | Santa Fe | Corporación Deportiva Santa Fe
+  | Santa Fe | Indep. Santa Fe | Corporación Deportiva Santa Fe
 La Equidad,               Bogotá
 
 
@@ -29,6 +29,7 @@ Alianza Petrolera FC,  Barrancabermeja
 
 América de Cali,   Cali
 Deportivo Cali,    Cali
+  | AD Cali | Asociación Deportivo Cali
 
 Atlético Bucaramanga, Bucaramanga
 Atlético Huila, Neiva
