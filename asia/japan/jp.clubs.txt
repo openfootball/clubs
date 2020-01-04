@@ -18,14 +18,17 @@ Kawasaki Frontale,     Kawasaki › Kanagawa
   | Kawa Frontale
 Nagoya Grampus,        Nagoya › Aichi
   | Nagoya | Grampus
+
 Júbilo Iwata,          Iwata › Shizuoka
   | Iwata
+Shimizu S-Pulse,        Shizuoka › Shizuoka
+  | Shimizu | S-Pulse
+Honda FC,             Hamamatsu › Shizuoka
+
 Urawa Red Diamonds,    Urawa › Saitama
   | Urawa | Urawa RD | Urawa Reds
 Kashiwa Reysol,        Kashiwa › Chiba
   | Kashiwa
-Shimizu S-Pulse,        Shizuoka › Shizuoka
-  | Shimizu | S-Pulse
 Sagan Tosu,             Tosu › Saga
 Sanfrecce Hiroshima,    Hiroshima › Hiroshima
   | Hiroshima | Sanfrecce | Sanfr. Hiroshima
