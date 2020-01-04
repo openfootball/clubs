@@ -17,7 +17,7 @@ Daco-Getica București,   București
 
 
 CFR Cluj,     Cluj
-  | CFR 1907 Cluj | FC CFR Cluj
+  | CFR 1907 Cluj | FC CFR Cluj | FC CFR 1907 Cluj
 U Cluj,       Cluj
   | U. Cluj  | Universitatea Cluj | FC Universitatea Cluj
 
@@ -94,7 +94,7 @@ Târgu Mureș,    Târgu Mureș
   | ASA Târgu Mureș | ASA Târgu Mureş | Târgu Mureş
 
 Universitatea Craiova,    Craiova
-  | U Craiova | CS U Craiova | U Craiova 1948 CS | CS Universitatea Craiova
+  | U Craiova | CS U Craiova | CS Uni Craiova | U Craiova 1948 CS | CS Universitatea Craiova
   | U Craiova 1948 Club Sportiv
   | Univ. Craiova
 
@@ -107,6 +107,7 @@ FC Voluntari,  Voluntari
 
 FC Academica Clinceni, 2005,  Clinceni
   | Academica Clinceni | Fotbal Club Academica Clinceni
+  | FC Academica Clinc
 
 CS Mioveni, Mioveni
   | Mioveni
