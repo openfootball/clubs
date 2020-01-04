@@ -6,6 +6,7 @@ AC Sparta Praha, 1893, Praha       ## Prague [en]
   | Sparta Praha | Sparta Prague
   | Athletic Club Sparta Praha
   | AC Sparta Prague [en]
+  | Sparta Prag [de]
 
 FK Dukla Praha, 1958,  Praha
   | Dukla
@@ -19,6 +20,8 @@ SK Slavia Praha, 1892, Praha
 Bohemians Praha 1905, 1905, Praha
   | Bohemians 1905
   | Bohem. Prag 1905 [de]
+
+FK Viktoria Žižkov, 1903, Praha (Žižkov)
 
 
 FK Mladá Boleslav, 1902, Mladá Boleslav   ## Central Bohemia
