@@ -8,7 +8,7 @@ El Nacional,                  Quito
 LDU Quito,                    Quito
   | LDU de Quito | Liga de Quito | Liga Deportiva Universitaria de Quito
 CD Universidad Católica del Ecuador,  Quito
-  | Universidad Católica
+  | Universidad Católica | CD Católica
 América de Quito,   Quito
 SD Aucas,           Quito
   | Aucas
