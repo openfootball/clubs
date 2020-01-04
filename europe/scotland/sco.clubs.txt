@@ -33,15 +33,15 @@ Dundee United, 1909,   Dundee
   | Dundee Utd | Dundee United FC | Dundee Hibernian
 
 Hamilton Academical FC, 1874,   Hamilton
-  | Hamilton | Hamilton Accies | Hamilton Academical
+  | Hamilton | Hamilton FC | Hamilton Accies | Hamilton Academical
 Kilmarnock FC, 1869, Kilmarnock
-  | Kilmarnock | Killie
+  | Killie | Kilmarnock | FC Kilmarnock
 Motherwell FC, 1886,  Motherwell
-  | Motherwell
+  | Motherwell | FC Motherwell
 Ross County FC,  1929,  Dingwall
-  | Ross County
+  | Ross County | FC Ross County
 St Johnstone FC, 1884, Perth
-  | St Johnstone | St. Johnstone | Saint Johnstone FC
+  | St Johnstone | St. Johnstone | Saint Johnstone FC | FC St. Johnstone
 
 Brechin City,  Brechin
   | Brechin
@@ -58,11 +58,12 @@ Inverness Caledonian Thistle, 1994,  Inverness
   | Caley Thistle | ICT | The Caley Jags
 
 Livingston FC, Livingston
-  | Livingston
+  | Livingston | FC Livingston
 Queen of the South,  Dumfries
   | Queen of Sth
 Saint Mirren FC, 1877,  Paisley
   | St Mirren | St Mirren FC
+  | FC St. Mirren
 
 ## todo/check/fix: map Airdrie to Airdrieonians  - why? why not?
 ##
