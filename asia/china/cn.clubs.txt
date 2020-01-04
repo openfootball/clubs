@@ -3,7 +3,7 @@
 
 
 Beijing Sinobo Guoan,     Beijing
-  | Beijing Guoan
+  | Beijing Guoan | Beijing Guoan FC
 Beijing Renhe,            Beijing
   | Beijing Renhe FC
 
@@ -19,6 +19,7 @@ Guangzhou Evergrande Taobao,   Guangzhou
   | Guangzhou Ev. | Guangzhou Evg | Guangzhou Evergrande
   | Guangzhou Evergrande Taobao FC
 Guangzhou R&F,                 Guangzhou
+  | Guangzhou R&F FC
 
 Chongqing Dangdai Lifan,   Chongqing
   | Chongqing Lifan
