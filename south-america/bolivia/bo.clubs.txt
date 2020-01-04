@@ -2,11 +2,11 @@
 =  Bolivia 
 
 Club Bolívar,                      La Paz
-  | Bolívar
+  | Bolívar | Bolívar La Paz
 The Strongest,                     La Paz
   | Strongest | Club The Strongest
 Club Always Ready,                 La Paz
-  | Always Ready
+  | Always Ready | Alw. Ready La Paz
 
 Club Deportivo Oriente Petrolero,  Santa Cruz de la Sierra
   | Oriente Petrolero
@@ -15,23 +15,25 @@ Club Blooming,             Santa Cruz de la Sierra
 Club Destroyers,           Santa Cruz de la Sierra
   | Destroyers
 Royal Pari FC,            Santa Cruz de la Sierra
-  | Royal Pari
+  | Royal Pari | Royal Pari Sion
 
 
 Real Potosí,                       Potosí
   | Club Real Potosí | Club Bamin Real Potosí
 Nacional Potosí,                   Potosí
+  | CA Nacional Potosí
 
 Club Deportivo San José,           Oruro
   | San José | Club San José
+  | San José Oruro
 
 Club Deportivo Guabirá,    Montero
-  | Guabirá
+  | Guabirá | Guabirá Montero
 
 CD Jorge Wilstermann,     Cochabamba
   | Jorge Wilstermann
 Club Aurora,               Cochabamba
-  | Aurora
+  | Aurora | Club Dep. Aurora
 
 Sport Boys Warnes,       Warnes
   | Sport Boys
