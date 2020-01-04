@@ -51,10 +51,12 @@ Hapoel Kfar-Saba FC
 
 Sektzia Nes Tziona FC
   | Nes Tziona
+  | Sectzya Nes Ziona
 
 Bnei Sakhnin FC,  Sakhnin
   | Bnei Sakhnin
 FC Kafr Qasim, Kafr Qasim
+  | SC Kfar Qasem
 Hapoel Acre FC, Acre
   | Hapoel Acre  | Hapoel Akko
 Hapoel Afula FC, Afula
