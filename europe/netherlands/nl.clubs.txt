@@ -52,6 +52,8 @@ NAC Breda, 1912,  Breda
 PSV Eindhoven, 1913,   Eindhoven
   | Philips Sport Vereniging | PSV
 
+FC Eindhoven,  1909,   Eindhoven
+
 RKC Waalwijk, 1940, Waalwijk
   | RKC | Waalwijk | Rooms Katholieke Combinatie Waalwijk
 
