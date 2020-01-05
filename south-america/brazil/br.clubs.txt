@@ -1,5 +1,5 @@
 ======================
-=  Brazil 
+=  Brazil
 
 #  Campeonato Brasileiro Série A & B | Brasileirão
 
@@ -98,9 +98,8 @@ Londrina EC,      Londrina
 Paraná Clube,     Curitiba
   | Paraná | Paraná Clube PR
 Operário Ferroviário,   Ponta Grossa
-  | Operário | Operário Ferroviário Esporte Clube
+  | Operário | Operário Ferroviár | Operário Ferroviário Esporte Clube
   | Operário FEC PR
-
 
 
 == Santa Catarina ==
@@ -141,9 +140,6 @@ Atlético GO,   Goiânia
 Vila Nova GO,  Goiânia
   | Vila Nova | Vila Nova de Goias | Vila Nova FC | Vila Nova Futebol Clube
 
-== Paraná ==
-Operário,   Ponta Grossa
-  | Operário Ferroviár | Operário Ferroviário Esporte Clube
 
 == Ceará ==
 Ceára SC,      Fortaleza
