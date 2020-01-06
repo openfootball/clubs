@@ -306,4 +306,28 @@ CF Illueca,  Illueca
   | Club de Fútbol Illueca
 UD Socuéllamos,   Socuéllamos 
   | UD Socuéllamos CF | Unión Deportiva Socuéllamos
- 
+UM Escobedo,    Escobedo
+  | Unión Montañesa Escobedo
+Gimnástica Segoviana, Segoviana
+  | Segoviana | Gimnástica Segoviana CF | Gimnástica Segoviana Club de Fútbol
+Zamora CF, Zamora 
+  | Zamora Club de Fútbol
+Comillas CF, Comillas
+CD El Álamo,  El Álamo
+  | Club Deportivo El Álamo
+El Palmar CF, El Palmar
+  | El Palmar Club de Fútbol-Estrella Grana
+  | EG El Palmar CF
+Bergantiños FC,  Carballo
+  | Bergantiños Fútbol Club
+  | Bergantiños CF
+Tolosa CF,  Tolosa
+  | Tolosa Club de Fútbol
+CF Badalona, Badalona  
+  | Club de Fútbol Badalona
+CA Antoniano,   Lebrija
+  | Atlético Antoniano | Club Atlético Antoniano
+CD Peña Azagresa,  Azagra 
+  | Club Deportivo Peña Azagresa
+CD Becerril,   Becerril de Campos
+  | Club Deportivo Becerril
