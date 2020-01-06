@@ -242,8 +242,14 @@ UE Lleida
   | Lleida | Lerida
 UE Llagostera
   | Llagostera
-CD Logroñés
+
+CD Logroñés,  Logroño
   | Logroñés
+UD Logroñés,  Logroño           # note: note to be confused with SD Logroñés or CD Logroñés.
+  | Unión Deportiva Logroñés
+SD Logroñés,  Logroño
+  | Sociedad Deportiva Logroñés
+
 Lorca FC
   | Lorca
 CD Lugo
@@ -291,3 +297,13 @@ Xerez CD
 
 Real Madrid Castilla
   | Castilla | Real Madrid Castilla Club de Fútbol
+
+Club Marino Luanco, Luanco
+  | Marino Luanco
+Real Jaén,  Jaén
+  | Real Jaén Club de Fútbol
+CF Illueca,  Illueca
+  | Club de Fútbol Illueca
+UD Socuéllamos,   Socuéllamos 
+  | UD Socuéllamos CF | Unión Deportiva Socuéllamos
+ 
