@@ -17,6 +17,8 @@ B 1908 Amager,       København
 Vanløse IF,          København
   | Vanlöse IF [de]
 
+Akademisk Boldklub,  Gladsaxe   # north of Copenhagen 
+  | AB Gladsaxe |  Akademisk Boldklub Gladsaxe
 
 Brøndby IF, 1964,    Brøndbyvester       ## use Brøndby ??
   | Brøndby | Brøndbyernes Idrætsforening
