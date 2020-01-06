@@ -50,7 +50,7 @@ Newport County AFC, 1912,  @ Rodney Parade, Newport
   | Newport | Newport County
 
 Wrexham AFC,             Wrexham
-  | Wrexham
+  | Wrexham | Wrexham FC
 Merthyr Town FC,         Merthyr Tydfil
   | Merthyr Town
 Aberdare Athletic FC (1893-1928),  Aberdare
