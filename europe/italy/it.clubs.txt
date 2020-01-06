@@ -82,6 +82,7 @@ Foggia, Foggia
 Frosinone, Frosinone
   | Frosinone Calcio
 Novara, Novara
+  | Novara Calcio
 Palermo, Palermo
   | US Palermo | Unione Sportiva Città di Palermo
 Parma, Parma
@@ -141,19 +142,20 @@ ACD Treviso, Treviso
 ASD Castel di Sangro, Castel di Sangro
   | C. Sangro
 Unione Calcio Albinoleffe, Albino e Leffe
-  | Albinoleffe
+  | Albinoleffe | UC Albinoleffe
 Calcio Catania, Catania
   | Catania
 Como 1907, Como
-  | Como
+  | Como | Como Calcio
 AS Livorno Calcio, 1915,  Livorno
-  | Livorno | AS Livorno | A.S. Livorno Calcio | Associazione Sportiva Livorno Calcio
+  | Livorno | AS Livorno | AS Livorno Calcio | Associazione Sportiva Livorno Calcio
 ACR Messina SSD, Messina
   | Messina
 US Triestina Calcio, Trieste
   | Triestina | US Triestina Calcio 1918
 SS Arezzo, Arezzo
-  | Arezzo
+  | Arezzo | Società Sportiva Arezzo
+  | AC Arezzo | Associazione Calcio Arezzo
 US Catanzaro, Catanzaro
   | Catanzaro | US Catanzaro 1929
 
@@ -181,6 +183,7 @@ AC Pisa,        Pisa
   | SC Pisa [de]
 US Pistoiese,    Pistoia
   | Pistoiese | US Pistoiese 1921
+  | AC Pistoiese
 Portogruaro Calcio ASD, Portogruaro
   | Portogruaro
 Rimini FC SSD,   Rimini
@@ -202,3 +205,12 @@ Giana Erminio,    Gorgonzola
   | AS Giana Erminio
 Carrarese Calcio,  Carrara
   | Carrarese | Carrarese Calcio 1908
+
+Pontedera, Pontedera
+  | US Città di Pontedera
+Pro Patria, Busto Arsizio
+  | Aurora Pro Patria 1919
+AC Renate, Renate 
+  | Associazione Calcio Renate
+Calcio Lecco, Lecco
+  | Calcio Lecco 1912
