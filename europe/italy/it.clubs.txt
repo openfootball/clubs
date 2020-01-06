@@ -65,7 +65,12 @@ Udinese Calcio, Udine
 Ascoli, Ascoli Piceno
   | Ascoli FC
 Avellino, Avellino
+  | US Avellino 1912 | Unione Sportiva Avellino 1912
+  | AS Avellino | Associazione Sportiva Avellino 1912
 Bari, Bari
+  | AS Bari 
+  | SSC Bari | Società Sportiva Calcio Bari
+  | FC Bari 1908
 Brescia, Brescia
   | Brescia Calcio
 Carpi, Carpi
@@ -98,6 +103,7 @@ Salernitana, Salerno
 Spezia, La Spezia
   | Spezia Calcio
 Ternana, Terni
+  | Ternana Calcio
 Venezia, Venezia
   | SSC Venezia
 Virtus Entella, Chiavari
@@ -147,7 +153,7 @@ ASD Castel di Sangro, Castel di Sangro
 Unione Calcio Albinoleffe, Albino e Leffe
   | Albinoleffe | UC Albinoleffe
 Calcio Catania, Catania
-  | Catania
+  | Catania | Catania Calcio
 Como 1907, Como
   | Como | Como Calcio
 AS Livorno Calcio, 1915,  Livorno
@@ -226,4 +232,10 @@ Feralpisalò,  Salò
   | AC Feralpisalò
 Sambenedettese,  San Benedetto del Tronto
   | SS Sambenedettese Calcio
- 
+Potenza Calcio,  Potenza 
+  | Potenza | Potenza SC
+  | Potenza FC
+Paganese Calcio, Pagani
+  | Paganese | Paganese Calcio 1926
+Vibonese Calcio, Vibo Valentia
+  | Vibonese | US Vibonese Calcio | Unione Sportiva Vibonese Calcio
