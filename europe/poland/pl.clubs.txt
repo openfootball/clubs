@@ -14,6 +14,7 @@ Górnik Zabrze,   Zabrze
 
 KKS Lech Poznań,   Poznań
   | Lech | Lech Poznań
+  | Lech Posen [de]
 Warta Poznań, Poznań
   | KS Warta Posen [de]
 
@@ -30,7 +31,7 @@ Jagiellonia Białystok,  Białystok
   | Jagiellonia | Jagiellonia Biał.
 
 Arka Gdynia,  Gdynia
-  | Arka
+  | Arka | Arka Gdynia 1929
 GKS Bełchatów,  Bełchatów
 Korona Kielce,  Kielce
   | Korona
@@ -41,7 +42,7 @@ Lechia Gdańsk,  Gdańsk
 Górnik Łęczna,  Lublin
   | Łęczna
 Miedź Legnica,  Legnica
-  | Legnica
+  | Legnica | ASPN Miedź Legnica
 Piast Gliwice,  Gliwice
   | Piast | GKS Piast Gliwice
 Wisła Płock,    Płock
@@ -82,3 +83,10 @@ GKS Tychy,  Tychy
   | GKS Tychy 71
 
 Chrobry Głogów, Głogów
+
+Górnik Łęczna,   Łęczna
+  | GKS Górnik Łęczna
+
+OKS Stomil Olsztyn,  Olsztyn  
+  | Stomil Olsztyn 
+  | OKS 1945 Olsztyn    # Between 2004 and 2012 the team was known as OKS 1945 Olsztyn
