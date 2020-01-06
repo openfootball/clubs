@@ -5,7 +5,7 @@
 GNK Dinamo Zagreb, Zagreb
   | Dinamo Zagreb | NK Dinamo Zagreb
 NK Lokomotiva Zagreb, Zagreb
-  | Lokomotiva Zagreb
+  | Lok Zagreb | Lokomotiva Zagreb
 
 HNK Hajduk Split,  Split
   | Hajduk Split
@@ -28,3 +28,6 @@ NK Istra 1961
   | Istra 1961
 NK Inter Zaprešić
   | Inter Zaprešić
+  
+NK Slaven Belupo, 1907, Koprivnica 
+  | NK Slaven Koprivnica
