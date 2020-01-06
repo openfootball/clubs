@@ -11,6 +11,7 @@ Dinamo București,        București
   | Dinamo Bukarest [de]
 Rapid București,         București
   | FC Rapid Bucuresti | FC Rapid București | Rapid Bucureşti
+  | Rapid Bukarest [de]
 Daco-Getica București,   București
   | Daco-Getica Bucuresti | Asociația Sport Club Daco-Getica București
 ## From 1992 to the summer of 2018, the team was known as Juventus București
@@ -60,6 +61,9 @@ CS Turnu Severin,    Drobeta-Turnu Severin
 FC Severin,         Drobeta-Turnu Severin
   | FC Drobeta-Turnu Severin
 
+AFC Turris-Oltul,  1965,  Turnu Măgurele  
+  | AFC Turris-Oltul Turnu Măgurele
+  | Turris Turnu Măgurele | Turris-Oltul Turnu Măgurele
 
 FC Botoșani, Botoșani
   | Botoşani | FC Botoşani | Fotbal Club Botoșani
