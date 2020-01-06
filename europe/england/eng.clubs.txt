@@ -41,7 +41,7 @@ Dagenham & Redbridge FC,  @ Victoria Road,  London  ##  London (Dagenham)  or Lo
   | Dag and Red | Dagenham and Redbridge 
 
 Bromley FC,                London   ## London-Bromley
-  | Bromley
+  | Bromley | FC Bromley
 Hayes & Yeading United FC,  London  ## London-Hayes
   | Hayes & Yeading
 Welling United FC,          London
@@ -159,6 +159,9 @@ Solihull Moors FC,   Solihull › West Midlands
   | Solihull | Solihull Moors
 Stafford Rangers FC,   Stafford › West Midlands
   | Stafford Rangers
+Stourbridge FC,    Stourbridge › West Midlands
+  | Stourbridge Football Club  
+
 
 
 York City FC,       @ Bootham Crescent,   York › North Yorkshire
@@ -179,7 +182,7 @@ Leeds City FC (1904-1919),  Leeds › West Yorkshire
   | Leeds City
 
 Bradford City AFC,    @ Valley Parade,   Bradford › West Yorkshire
-  | Bradford | Bradford City
+  | Bradford | Bradford City | Bradford City FC
 Bradford Park Avenue AFC,  Bradford › West Yorkshire
   | Bradford Park Avenue
 
@@ -434,7 +437,7 @@ Stevenage FC,        @ Broadhall Way,   Stevenage   › Hertfordshire
 Hartlepool United FC,  @ Victoria Park,   Hartlepool › Durham
   | Hartlepool | Hartlepool United
 Darlington FC, Darlington › Durham
-  | Darlington
+  | Darlington | FC Darlington
 ## note: <=> there's also  Darlington Railway Athletic
 
 Durham City AFC, Durham › Durham
