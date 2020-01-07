@@ -5,7 +5,8 @@ AC Omonia Nicosia, Nicosia
   | Omonia | Omonia Nicosia | AC Omonia
   | Omonia Nikosia [de]
 APOEL Nicosia FC, Nicosia
-  | APOEL Nikosia | APOEL | APOEL FC
+  | APOEL Nicosia | APOEL | APOEL FC
+  | APOEL Nikosia [de]
 Anorthosis Famagusta FC, Larnaca         ## note: originally based in Famagusta, now based in Larnaca
   | Anorthosis | Anorthosis Famagusta
 AEL Limassol, Limassol

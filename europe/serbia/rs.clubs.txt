@@ -8,6 +8,7 @@ Red Star Belgrade, Belgrade
   | Roter Stern B. [de]
 FK Partizan Belgrade, Belgrade
   | Partizan | FK Partizan | Partizan Belgrade
+  | Partizan Beograd
   | Partizan Belgrad [de]
 OFK Beograd, Belgrade
 FK Rad Belgrade, Belgrade
