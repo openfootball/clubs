@@ -70,8 +70,8 @@ Petrol Ofisi SK (1954-2010),  Ankara
   | P. Ofisi | Petrol Ofisi
 
 Keçiörengücü,  Ankara
-  | Keçiörengücü SK 
-
+  | Keçiörengücü SK
+  | Keciöerengücü [de]
 
 Kardemir Karabükspor,  Karabük
   | Karabükspor
@@ -183,7 +183,7 @@ Vanspor FK, 1982, Van
 
 Boluspor,  Bolu
 Giresunspor, Giresun
-  
+
 Erzincanspor,  Erzincan
-  | An. Erzincanspor 
+  | An. Erzincanspor
   | 24 Erzincan | 24 Erzincan Spor Kulübü

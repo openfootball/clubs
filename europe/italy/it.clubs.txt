@@ -68,7 +68,7 @@ Avellino, Avellino
   | US Avellino 1912 | Unione Sportiva Avellino 1912
   | AS Avellino | Associazione Sportiva Avellino 1912
 Bari, Bari
-  | AS Bari 
+  | AS Bari
   | SSC Bari | Società Sportiva Calcio Bari
   | FC Bari 1908
 Brescia, Brescia
@@ -142,8 +142,8 @@ Ravenna FC, Ravenna
   | Ravenna Calcio
 AC Reggiana, Reggio Emilia
   | Reggiana | AC Reggiana 1919
-  | Reggio Audace | Reggio Audace FC  
-  | Reggio Audace Football Club 
+  | Reggio Audace | Reggio Audace FC
+  | Reggio Audace Football Club
 Urbs Reggina, Reggio Calabria
   | Reggina | Urbs Reggina 1914
 ACD Treviso, Treviso
@@ -157,7 +157,7 @@ Calcio Catania, Catania
 Como 1907, Como
   | Como | Como Calcio
 AS Livorno Calcio, 1915,  Livorno
-  | Livorno | AS Livorno | AS Livorno Calcio | Associazione Sportiva Livorno Calcio
+  | Livorno | AS Livorno | Associazione Sportiva Livorno Calcio
 ACR Messina SSD, Messina
   | Messina
 US Triestina Calcio, Trieste
@@ -173,7 +173,7 @@ ASD Virtus Bergamo, Alzano Lombardo
   | Alzano | ASD Virtus Bergamo 1909 | Virtus Bergamo | Alzano Virescit
 MC Fermana FC, Fermo         # based in Fermo, Marche
   | Fermana | Fermana FC | Fermana Football Club
-  | US Fermana     # club was founded in 1920 as S.S. La Fermo and was renamed in 1925 U.S. Fermana  (-2006) 
+  | US Fermana     # club was founded in 1920 as S.S. La Fermo and was renamed in 1925 U.S. Fermana  (-2006)
 Gallipoli Football SSD, Gallipoli
   | Gallipoli | Gallipoli Football 1909 SSD
 ASD US Grosseto, Grosseto
@@ -221,7 +221,7 @@ Pontedera, Pontedera
   | US Città di Pontedera
 Pro Patria, Busto Arsizio
   | Aurora Pro Patria 1919
-AC Renate, Renate 
+AC Renate, Renate
   | Associazione Calcio Renate
 Calcio Lecco, Lecco
   | Calcio Lecco 1912
@@ -232,7 +232,7 @@ Feralpisalò,  Salò
   | AC Feralpisalò
 Sambenedettese,  San Benedetto del Tronto
   | SS Sambenedettese Calcio
-Potenza Calcio,  Potenza 
+Potenza Calcio,  Potenza
   | Potenza | Potenza SC
   | Potenza FC
 Paganese Calcio, Pagani

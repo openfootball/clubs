@@ -39,8 +39,10 @@ Korona Kielce,  Kielce
 Lechia Gdańsk,  Gdańsk
   | Lechia | KS Lechia Gdańsk
 
-Górnik Łęczna,  Lublin
-  | Łęczna
+Górnik Łęczna,   Łęczna      # was in Lublin before 2006?
+  | Łęczna | GKS Górnik Łęczna
+
+
 Miedź Legnica,  Legnica
   | Legnica | ASPN Miedź Legnica
 Piast Gliwice,  Gliwice
@@ -84,9 +86,6 @@ GKS Tychy,  Tychy
 
 Chrobry Głogów, Głogów
 
-Górnik Łęczna,   Łęczna
-  | GKS Górnik Łęczna
-
-OKS Stomil Olsztyn,  Olsztyn  
-  | Stomil Olsztyn 
+OKS Stomil Olsztyn,  Olsztyn
+  | Stomil Olsztyn
   | OKS 1945 Olsztyn    # Between 2004 and 2012 the team was known as OKS 1945 Olsztyn

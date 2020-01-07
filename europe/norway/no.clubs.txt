@@ -82,3 +82,4 @@ Strømmen IF, Strømmen
 Tromsdalen UIL,  Tromsdalen
   | Tromsdalen
 Åsane Fotball, Åsane
+  | Aasane Fotball [de]
