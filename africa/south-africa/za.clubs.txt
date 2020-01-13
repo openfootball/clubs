@@ -1,7 +1,42 @@
 = South Africa
 
-Baroka FC
-Mamelodi FC
-Cape Town City FC
-Polokwane City
+Highlands Park,  Johannesburg
+  | Highlands Park FC
+Kaizer Chiefs,  Johannesburg (Soweto)
+  | Kaizer Chiefs FC
+Orlando Pirates,  Johannesburg (Soweto)
+  | Orlando Pirates FC
+Bidwest Wits,  Johannesburg (Braamfontein)
+  | Wits | Bidwest Wits FC
+
+Cape Town City,   Cape Town (Green Point)
+  | Cape Town City FC
+
+SuperSport United, Pretoria
+  | SuperSport United FC
+Mamelodi Sundowns, Pretoria (Marabastad)
+  | Mamelodi FC | Mamelodi Sundowns FC
+
+Baroka,           Polokwane
+  | Baroka FC
+Polokwane City, Polokwane
+  | Polokwane City FC
+
+Black Leopards,   Thohoyandou
+  | Black Leopards FC
+Bloemfontein Celtic,  Bloemfontein
+  | Bloemfontein | Bloemfontein Celtic FC
+Chippa United,  Port Elizabeth
+  | Chippa United FC
+Maritzburg United, Pietermaritzburg
+  | Maritzburg United FC
+Stellenbosch United, Stellenbosch
+  | Stellenbosch FC
+
+AmaZulu	Durban,   Durban North
+  | AmaZulu FC
+Golden Arrows,  Durban (Lamontville)
+  | Lamontville FC | Lamontville Golden Arrows FC
+
+
 
