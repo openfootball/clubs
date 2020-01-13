@@ -14,7 +14,7 @@ Brisbane Roar,            Brisbane Roar › Queensland
 
 Sydney FC,                 Sydney › New South Wales
 Western Sydney Wanderers,  Sydney › New South Wales
-  | W Sydney | WS Wanderers FC
+  | W Sydney | Western Sydney | WS Wanderers FC
 Central Coast Mariners,   Gosford ›  Central Coast › New South Wales
   | Central Coast
 Newcastle United Jets,    Newcastle › New South Wales
