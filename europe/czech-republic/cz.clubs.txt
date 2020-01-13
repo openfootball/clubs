@@ -11,6 +11,7 @@ AC Sparta Praha, 1893, Praha       ## Prague [en]
 FK Dukla Praha, 1958,  Praha
   | Dukla
   | FK Dukla Prague [en]
+  | FK Dukla Prag [de] 
 
 SK Slavia Praha, 1892, Praha
   | Slavia Praha | Sportovní klub Slavia Praha
@@ -59,7 +60,7 @@ FC Zlín, 1919,   Zlín     ## Zlín
   | Zlín | FC Fastav Zlín |Fastav Zlín
 
 FC Vysočina Jihlava, 1948,  Jihlava  ## Vysočina
-  | Jihlava
+  | Jihlava | FC Jihlava 
 
 FC Zbrojovka Brno, 1913,   Brno     ## South Moravia
   | Brno
@@ -73,3 +74,7 @@ SFC Opava
 SK Dynamo České Budějovice
   | České Budĕjov. | České Budějovice
   | SK Dynamo Budweis [de]
+
+FK Ústí nad Labem, Ústí nad Labem
+
+FC Hradec Králové, Hradec Králové 
