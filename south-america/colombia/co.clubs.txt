@@ -32,6 +32,7 @@ Deportivo Cali,    Cali
   | AD Cali | Asociación Deportivo Cali
 
 Atlético Bucaramanga, Bucaramanga
+  | CA Bucaramanga | Club Atlético Bucaramanga
 Atlético Huila, Neiva
 
 
