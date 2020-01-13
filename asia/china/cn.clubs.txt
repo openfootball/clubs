@@ -10,7 +10,7 @@ Beijing Renhe,            Beijing
 Shanghai SIPG,               Shanghai
   | Shanghai SIPG FC | SIPG Shanghai
 Shanghai Greenland Shenhua,  Shanghai
-  | Shanghai Shenhua
+  | Shanghai Shenhua | Shenhua Shanghai
 Shanghai Shenxin,            Shanghai
   | Shanghai Shen | Shanghai Shenxin FC
 
@@ -28,6 +28,7 @@ Chongqing Dangdai Lifan,   Chongqing
 Changchun Yatai,           Changchun
 Dalian Yifang,             Dalian
   | Dalian Yifang FC
+  | Dalian Aerbin FC          # note: Dalian Aerbin (2009–2015)
 Guizhou Hengfeng,          Guiyang
   | Guizhou Zhicheng
   | Guizhou Hengfeng Zhicheng FC
@@ -37,7 +38,7 @@ Shandong Luneng Taishan,   Jinan
   | Shandong Lunen | Shandong Luneng
 Hebei China Fortune,       Langfang
   | Hebei
-  | Hebei Fortune | Hebei China Fortune FC
+  | Hebei Fortune | Hebei China Fortun | Hebei China Fortune FC 
 Jiangsu Suning,            Nanjing
   | Jiangsu Suning FC
 
@@ -48,15 +49,16 @@ Shijiazhuang Ever Bright,   Shijiazhuang
   | Shijiazhuang
 
 Tianjin Tianhai,            Tianjin
+  | Tianjin Songjiang
 Tianjin TEDA,               Tianjin
   | Tianjin Teda FC
+  | FC Tianjin Taida
 Tianjin Quanjian,           Tianjin
-
-
 
 
 Wuhan Zall,                 Wuhan
 Henan Jianye,               Zhengzhou
+  | FC Henan Jianye
 
 Liaoning FC,              Shenyang
   | Liaoning
