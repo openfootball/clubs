@@ -24,6 +24,9 @@ Deportivo Toluca FC,  1917,  Toluca › México
   | Deportivo Toluca
  Felipe Villanueva No. 300 1er piso,  Colonia San Bernardino //  Toluca, Estado de México. C.P. 50080
 
+Potros UAEM,  1970,  Toluca › México
+  | UAEM | Club de Fútbol Potros de la Universidad Autónoma del Estado de México
+
 
 == Jalisco ==
 CD Guadalajara Chivas, 1906,   Guadalajara (Zapopan) › Jalisco     ## use Zapopan › Jalisco
@@ -32,7 +35,7 @@ CD Guadalajara Chivas, 1906,   Guadalajara (Zapopan) › Jalisco     ## use Zapo
  Francisco I. Madero No. 5840, Col. Jocotán // Zapopan
 
 Club Atlas,  1916,              Guadalajara › Jalisco
-  | Atlas | Club Atlas de Guadalajara
+  | Atlas | Club Atlas de Guadalajara | Atlas FC
  Av. Patria 2300, Col. Lomas del Bosque // Zapopan, Jalisco C.P. 45110
  
 Leones Negros U. de G., 1970,  Guadalajara › Jalisco    
@@ -99,6 +102,10 @@ Jaguares Chiapas, 2002,    Tuxtla Gutiérrez › Chiapas     ##  Chiapas FC or J
   | Chiapas Fútbol Club
  Calzada de las Etnias s/n, esq. Blvd Fidel Velázquez, Col. Infonavit el Grijalva // Tuxtla Gutierrez, Chiapas C.P. 29047
 
+Cafetaleros de Chiapas,   Tuxtla Gutiérrez › Chiapas
+  | Cafetaleros de Tapachula | Caf. de Tapachula    # note: On May 28, 2019 the team was moved to Tuxtla Gutiérrez and was renamed as Cafetaleros de Chiapas 
+
+
 Club León, 1944,           León     › Guanajuato
   | León
  Boulevard Adolfo López Mateos 1810, Col. La Martinica // León
@@ -134,7 +141,7 @@ Cruz Azul Hidalgo, 1993    # en Cd. Cooperativa Cruz Azul, Hidalgo  - Tula
 Galeana, 1956             # en Xochitepec, Morelos  - Cuernavaca
   | Ballenas Galeana
 Zacatepec, 1948           # en Zacatepec, Morelos   - Cuernavaca
-
+  | CA Zacatepec | Club Atlético Zacatepec
 
 Querétaro FC, 1950,      Querétaro › Querétaro
   | Querétaro
@@ -150,6 +157,12 @@ Santos Laguna, 1983,     Torreón › Coahuila
 Oaxaca,  2012             # en Oaxaca, Oaxaca
 
 Mérida,  2003             # en Mérida, Yucatán
+
+Venados FC,  1988,    Mérida › Yucatán
+  | Venados Fútbol Club
+
+Mineros Zacatecas,     Zacatecas › Zacatecas
+  | Mineros de Zacatecas | Club Deportivo Mineros de Zacatecas
 
 Delfines, 2012            # en Cd. del Carmen, Campeche
   | Delfines del Carmen            
