@@ -100,7 +100,8 @@ OFI Crete FC, Heraklion › Crete
   | OFI Kreta FC [de]
   
 Kalamata FC,       Kalamata › Peloponnese
-  | Kalamata
+  | Kalamata | Kalamata Football Club
+  | PAE PS Kalamata
 
 AEL Kalloni FC, Kalloni › Aegean Islands
   | Kallonis
@@ -132,8 +133,11 @@ Panthrakikos FC, Komotini › Thrace
   | Panthrakikos
 
 
-Trikala FC, Trikala › Thessaly
+Trikala FC,       Trikala › Thessaly
   | Trikala
+AO Trikala 1963,  Trikala › Thessaly
+  | Trikala 1963 FC | AO Trikala 1963 FC    # note:  NOT to be confused with Trikala FC
+
 
 Veria FC, Veria › Macedonia
   | Veria | Veroia
