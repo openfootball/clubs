@@ -110,7 +110,7 @@ US Quevilly-Rouen Métropole,  Petit-Quevilly
 FC Sochaux-Montbéliard, Montbéliard
   | Sochaux | FC Sochaux | Football Club de Sochaux-Montbéliard
 Tours FC, Tours
-  | Tours | Tours Football Club
+  | Tours | Tours Football Club | FC Tours
 Valenciennes FC, Valenciennes
   | Valenciennes | Valenciennes Football Club | FC Valenciennes
 
