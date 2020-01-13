@@ -14,7 +14,7 @@ River Plate,        Buenos Aires
   | River | CA River Plate | Club Atlético River Plate
 San Lorenzo,        Buenos Aires
   | San Lorenzo de Almagro
-  | CA San Lorenzo de Almagro | Club Atlético San Lorenzo de Almagro
+  | CA San Lorenzo | CA San Lorenzo de Almagro | Club Atlético San Lorenzo de Almagro
 Vélez Sarsfield,    Buenos Aires
   | Vélez | Vélez Sarsf | Velez Sarsfield | CA Vélez
   | CA Vélez Sarsfield | Club Atlético Vélez Sarsfield
