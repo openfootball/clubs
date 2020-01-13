@@ -4,7 +4,7 @@
 Libertad Ascunción,    Asunción
   | Libertad | Club Libertad | Club Libertad Asunción
 Club Olimpia,       Asunción
-  | Olimpia
+  | Olimpia | Ol. Asunción
 Club Nacional,      Asunción
   | Nacional | Nacional de Asunción
 Cerro Porteño,      Asunción
