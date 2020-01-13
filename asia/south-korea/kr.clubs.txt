@@ -2,33 +2,31 @@
 =  South Korea
 
 
-## todo/fix:  use new format/style for cities!!!!!
-
-Busan I'Park,          city:busan
+Busan I'Park,          Busan
   | Busan IPark | Busan IPark FC
-Chunnam Dragons,       city:gwangyang
+Chunnam Dragons,       Gwangyang
   | Chunnam Dragons FC
-Daegu FC,              city:daegu
+Daegu FC,              Daegu
   | Daegu
-Daejeon Citizen,        city:daejeon
+Daejeon Citizen,        Daejeon
   | Daejeon Citizen FC
-Gangwon FC,               city:gangneung
+Gangwon FC,             Gangwon
   | Gangwon
-Gyeongnam FC,             city:changwon
+Gyeongnam FC,           Gyeongnam      # stadium is in Changwon, the capital of South Gyeongsang Province
   | Gyeongnam
-Incheon United,           city:incheon
+Incheon United,            Incheon
   | Incheon United FC
-Jeju United,              city:seogwipo
+Jeju United,                Seogwipo   # in Jeju Province
   | Jeju United FC
-Jeonbuk Motors,          city:jeonju
+Jeonbuk Motors,            Jeonbuk
   | Jeonbuk Hyundai Motors | Jeonbuk Hyundai Motors FC
-Pohang Steelers,         city:pohang
+Pohang Steelers,            Pohang
   | FC Pohang Steelers
-Seongnam Ilhwa Chunma,    city:seongnam
-  | Seongnam Ilhwa Chunma FC
-FC Seoul,                 city:seoul
+Seongnam Ilhwa Chunma,     Seongnam
+  | Seongnam Ilhwa | Seongnam Ilhwa Chunma FC
+FC Seoul,                 Seoul
   | Seoul
-Suwon Bluewings,          city:suwon
+Suwon Bluewings,          Suwon
   | Suwon Samsung Bluewings | Suwon Samsung Bluewings FC
-Ulsan Hyundai,            city:ulsan
+Ulsan Hyundai,            Ulsan
   | Ulsan Hyundai FC
