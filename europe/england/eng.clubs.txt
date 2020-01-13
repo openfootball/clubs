@@ -86,6 +86,9 @@ Wigan Athletic FC,   @ DW Stadium,  Wigan › Greater Manchester
   | Wigan  | Wigan Athletic
 Wigan Borough FC (1920-1931),   Wigan › Greater Manchester    #  Lancashire
   | Wigan Borough
+Atherton Collieries,    Atherton › Greater Manchester    # in the Metropolitan Borough of Wigan
+    | Atherton Colli. | Atherton Collieries AFC
+ 
 Oldham Athletic AFC,    @ Boundary Park,  Oldham › Greater Manchester
   | Oldham  | Oldham Athletic
 Stockport County FC,    Stockport › Greater Manchester
@@ -156,7 +159,7 @@ Wolverhampton Wanderers FC,    @ Molineux,  Wolverhampton › West Midlands
 Walsall FC,       @ Bescot Stadium,     Walsall › West Midlands
   | Walsall | FC Walsall
 Solihull Moors FC,   Solihull › West Midlands
-  | Solihull | Solihull Moors
+  | Solihull | Solihull Moors | FC Solihull Moors
 Stafford Rangers FC,   Stafford › West Midlands
   | Stafford Rangers
 Stourbridge FC,    Stourbridge › West Midlands
@@ -379,7 +382,7 @@ Carlisle United FC,   @ Brunton Park, Carlisle › Cumbria
 ## note: there's also <=> Carlisle City FC (!!)
 
 Barrow AFC,    Barrow-in-Furness › Cumbria
-  | Barrow
+  | Barrow | FC Barrow
 ## note: <=> there's also  Barrow Town
 
 Workington AFC, Workington › Cumbria
@@ -444,7 +447,13 @@ Durham City AFC, Durham › Durham
   | Durham City
 
 Salisbury City FC (1947-2014),  Salisbury › Wiltshire
-  | Salisbury
+  | Salisbury | Salisbury City
+Salisbury FC (2015-),  Salisbury › Wiltshire
+# note: <=> see Salisbury City FC for the club that existed between 1947 and 2014; 
+#         for the original Salisbury City club, see Salisbury City FC (1905) 
+#  merge them all together here? or keep it separate like wikipedia? why? why not?
+  
+  
 Nuneaton Borough FC,    Nuneaton › Warwickshire
   | Nuneaton Town
 
