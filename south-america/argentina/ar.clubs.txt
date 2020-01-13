@@ -28,7 +28,7 @@ Nueva Chicago,   Buenos Aires
 CA Tigre,     Victoria › Buenos Aires     #  Victoria es una ciudad del partido de San Fernando, en la zona centro-este de la provincia de Buenos Aires y parte del Gran Buenos Aires
   | Tigre | Club Atlético Tigre
 CA Independiente de Avellaneda, Avellaneda › Buenos Aires  #  Avellaneda sits in the metropolitan area of the Greater Buenos Aires
-  | Independiente | Club Atlético Independiente
+  | Independiente | CA Independiente | Club Atlético Independiente
 Racing Club,                    Avellaneda › Buenos Aires  #  Avellaneda sits in the metropolitan area of the Greater Buenos Aires
   | Racing
   | Racing Club de Avellaneda
@@ -54,7 +54,7 @@ Gimnasia y Esgrima,  La Plata › Buenos Aires
 Club Atlético Aldosivi,   Mar del Plata › Buenos Aires
   | Aldosivi
 Club Atlético Banfield,   Banfield › Buenos Aires
-  | Banfield
+  | Banfield | CA Banfield
 Defensa y Justicia,   Gobernador Julio A. Costa › Buenos Aires
   | Defensa y Just | Club Social y Deportivo Defensa y Justicia
 Olimpo Bahía Blanca,  Bahía Blanca  › Buenos Aires
@@ -77,10 +77,10 @@ Unión Santa Fe,  Santa Fe
 
 
 Newell's Old Boys, Rosario › Santa Fe
-  | Newell's | N.O. Boys | Newell's OB  | Newells Old Boys
+  | Newell's | N.O. Boys | Newell's OB | Newell's Old B. | Newells Old Boys
   | CA Newell's Old Boys | Club Atlético Newell's Old Boys
 Rosario Central,  Rosario  › Santa Fe
-  | Rosario Cent | Club Atlético Rosario Central
+  | Rosario Cent | CA Rosario Central | Club Atlético Rosario Central
 
 Atlético Rafaela, Rafaela › Santa Fe
   | At. de Rafaela | Atl. Rafaela | Atlético de Rafaela
