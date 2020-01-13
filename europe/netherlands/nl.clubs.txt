@@ -10,6 +10,7 @@ Ajax Amsterdam, 1900,    Amsterdam › Noord-Holland
 
 AZ Alkmaar, 1967,    Alkmaar    › Noord-Holland
   | AZ | Alkmaar Zaanstreek
+ii) AZ Alkmaar II
 
 SC Telstar, Velsen
   | Telstar
@@ -51,6 +52,8 @@ NAC Breda, 1912,  Breda
 
 PSV Eindhoven, 1913,   Eindhoven
   | Philips Sport Vereniging | PSV
+ii) Jong PSV 
+  | Jong PSV Eindh.
 
 FC Eindhoven,  1909,   Eindhoven
 
