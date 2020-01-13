@@ -166,6 +166,7 @@ FC Hennef 05
 TuS Erndtebrück
 
 SC Verl, 1924, Verl  
+SV Rödinghausen, 1970, Rödinghausen
 
 
 == Saarland ==
@@ -244,8 +245,9 @@ SC Tasmania 1900 Berlin (-1973), Berlin › Berlin
 BFC Dynamo Berlin,     Berlin › Berlin
   | BFC Dynamo
 
-Berliner AK 07
-FC Viktoria 1889 Berlin
+Berliner AK 07,              Berlin › Berlin
+FC Viktoria 1889 Berlin,     Berlin › Berlin
+  | Viktoria Berlin
 
 
 == Hamburg ==
@@ -432,3 +434,6 @@ SV Schott Jena
 
 FC Rot-Weiß Erfurt,  Erfurt › Thüringen
   | Erfurt | RW Erfurt | Rot-Weiß Erfurt
+
+Wacker Nordhausen,  Nordhausen › Thüringen
+  | FSV Wacker 90 Nordhausen
