@@ -2,7 +2,7 @@
 =  Latvija
 
 FK RFS,  Riga
-  | RFS | FK Rīgas Futbola Skola
+  | RFS | Rīgas Futb. Skola | FK Rīgas Futbola Skola
   | JFK Olimps/RFS           ## todo/check where this name is (still/was) used ?
 Riga FC,         Riga
   | Riga | FC Riga
@@ -27,6 +27,7 @@ SK Liepājas Metalurgs,      Liepāja
 FK Jelgava, Jelgava
   | Jelgava
 FK Valmiera, Valmiera
+  | Valmiera FK
 
 FK Spartaks Jūrmala, Jūrmala
   | Spartaks Jūrmala
