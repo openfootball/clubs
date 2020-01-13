@@ -56,4 +56,6 @@ Arda
 FC Etar Veliko Tarnovo
   | Etar
 Tsarsko Selo
-Vitosha Bistritsa
+Vitosha Bistritsa,   Bistritsa    # in Sofia City Province
+  | FC Vitosha | FC Vitosha Bistritsa 
+  | Vitosha Bistrica
