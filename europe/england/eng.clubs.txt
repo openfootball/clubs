@@ -94,7 +94,7 @@ Oldham Athletic AFC,    @ Boundary Park,  Oldham › Greater Manchester
 Stockport County FC,    Stockport › Greater Manchester
   | Stockport | Stockport County
 Bury FC,             @ Gigg Lane, Bury › Greater Manchester
-  | Bury
+  | Bury | FC Bury
 Rochdale AFC,       @ Spotland Stadium,   Rochdale › Greater Manchester
   | Rochdale
   | FC Rochdale    ## todo/check if FC Fochdale is alias for Rochdale AFC
