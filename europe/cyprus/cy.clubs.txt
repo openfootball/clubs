@@ -1,20 +1,31 @@
 ================================
 =  Cyprus
 
-AC Omonia Nicosia, Nicosia
+AC Omonia Nicosia,      Nicosia
   | Omonia | Omonia Nicosia | AC Omonia
   | Omonia Nikosia [de]
-APOEL Nicosia FC, Nicosia
+APOEL Nicosia FC,       Nicosia
   | APOEL Nicosia | APOEL | APOEL FC
   | APOEL Nikosia [de]
+Olympiakos Nicosia FC,  Nicosia 
+  | Olympiakos
+  | Olympiakos Nicosia
+
+AEL Limassol,            Limassol
+  | AEL | AEL Limassol FC | Athlitiki Enosi Lemesou
+Apollon Limassol FC,     Limassol
+  | Apollon | Apollon L. | Apollon Limassol
+Karmiotissa Pano Polemidia,  Limassol (Pano Polemidia)
+  | Karmiotissa Pol. | Karmiotissa Polemidion
+  | Karmiotissa FC
+
+
 Anorthosis Famagusta FC, Larnaca         ## note: originally based in Famagusta, now based in Larnaca
   | Anorthosis | Anorthosis Famagusta
-AEL Limassol, Limassol
-  | AEL | AEL Limassol FC | Athlitiki Enosi Lemesou
-Apollon Limassol FC
-  | Apollon | Apollon L. | Apollon Limassol
+
 AEK Larnaca FC
   | AEK Larnaca
+
 APOP/Kinyras Peyias FC
   | APOP
 Ermis Aradippou FC
@@ -23,12 +34,10 @@ Ermis Aradippou FC
 Ethnikos Achnas FC
   | Ethnikos Achnas
 Pafos FC
-  | Pafos
-Doxa Katokopia FC
-  | Doxa
-Olympiakos Nicosia FC
-  | Olympiakos
-  | Olympiakos Nicosia
+  | Pafos | FC Pafos
+Doxa Katokopia FC,  Katokopia
+  | Doxa | Doxa Katokopias FC
+ 
 Enosis Neon Paralimni FC
   | Paralimni
   | Enosis N. Paralimni
@@ -36,3 +45,10 @@ Nea Salamis Famagusta FC
   | Nea Salamis
   | Nea Salamina Fama.
   | Salamis Famagusta
+
+Digenis Morphou, Morphou 
+  | Digenis Akritas Morphou FC
+
+Alki Oroklini,  Oroklini 
+  | Alki Oroklinis
+ 
