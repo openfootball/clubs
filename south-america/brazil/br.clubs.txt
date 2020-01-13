@@ -153,7 +153,7 @@ Paysandu SC,   Belém
 
 == Alagoas ==
 CRB AL,    Maceió
-  | CRB | Clube de Regatas Brasil
+  | CRB | CR Brasil AL | Clube de Regatas Brasil
 CSA,       Maceió
   | CSA AL | CS Alagoano AL | Centro Sportivo Alagoano
 
