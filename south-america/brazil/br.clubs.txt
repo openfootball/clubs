@@ -99,7 +99,7 @@ Paraná Clube,     Curitiba
   | Paraná | Paraná Clube PR
 Operário Ferroviário,   Ponta Grossa
   | Operário | Operário Ferroviár | Operário Ferroviário Esporte Clube
-  | Operário FEC PR
+  | Operário PR | Operário FEC PR
 
 
 == Santa Catarina ==
