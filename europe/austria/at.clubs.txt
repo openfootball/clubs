@@ -132,8 +132,8 @@ SC Krems
 #  add Gebietsliga NW/Wald.  --  6-noe-nordwest-waldviertel
 SC Guntersdorf
   | Guntersdorf
-SC Echsenbach     ### SC Hartl Haus
-  | Echsenbach
+SC Echsenbach  
+  | Echsenbach | SC $$Hartl Haus$$
 SC St. Martin
   | St. Martin
 SC Weißenkirchen
@@ -184,7 +184,7 @@ FC Stahl Linz,       Linz
 
 SV Ried,  1912,       Ried i. Innkreis
   | Ried
-  | SV Josko Ried | SV Josko Fenster Ried     ## todo/fix: mark Josko sponsor with $Josko$
+  | SV $$Josko$$ Ried | SV $$Josko Fenster$$ Ried     ## note: Josko is a sponsor
  Volksfestplatz 2 // 4910 Ried i. Innkreis 
 ii) SV Ried II
 
@@ -222,7 +222,7 @@ Grazer AK,   Graz
 
 TSV Hartberg, 1946,    Hartberg
   | TSV | Hartberg
-  | TSV Sparkasse Hartberg
+  | TSV $$Sparkasse$$ Hartberg
   | Turn- und Sportverein Hartberg
 
 
@@ -254,8 +254,8 @@ FC Lankowitz
 == Kärnten ==
 
 Wolfsberger AC, 1931, Wolfsberg
-  | Wolfsberg | AC Wolfsberger | Wolfsberger Athletik Club
-  | RZ Pellets WAC          ## todo/fix: mark $RZ Pellets$ sponsor name
+  | Wolfsberg | Wolfsberger | AC Wolfsberger | Wolfsberger Athletik Club
+  | $$RZ Pellets$$ WAC           ## $$$ note: RZ Pellets is a sponsor name
  Don Bosco Weg 1 // 9400 Wolfsberg 
 ii) Wolfsberger AC II
   | WAC Amateure
@@ -329,8 +329,9 @@ ii) FC Wacker Innsbruck II
 SV Innsbruck, Innsbruck   ## Tiroler Liga
 
 WSG Tirol, 1930,   Wattens
-  | Tirol | WSG Swarovski Tirol | WSG Swarovs. Tirol | Wattener Sportgemeinschaft Tirol
-  | Wattens | WSG Wattens
+  | Tirol 
+  | WSG $$Swarovski$$ Tirol | WSG $$Swarovs.$$ Tirol | Wattener Sportgemeinschaft Tirol
+  | Wattens | WSG Wattens | WSG $$Swarovski$$ Wattens        ## $$$ note: Swarovski is a sponsor
 
 SC Schwaz,    Schwaz
   | Schwaz
@@ -388,4 +389,4 @@ FC Langenegg
 FC Lauterach
 RW Rankweil
 SC Röthis
-  | SC Röfix Röthis           ## $$$ Röfix is a sponsor
+  | SC $$Röfix$$ Röthis           ## $$$ note: Röfix is a sponsor
