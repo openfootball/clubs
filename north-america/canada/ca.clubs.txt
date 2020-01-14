@@ -1,11 +1,34 @@
 ============================
 =  Canada 
 
-Montreal Impact, 2010,    Montréal  › Quebec       ## founding year is 2012
+
+== Quebec ==
+Montreal Impact, 2010,    Montréal       ## founding year is 2012
   | Montreal | Montreal I. | Impact Montréal | Impact de Montréal
 
-Toronto FC,  2006,         Toronto   › Ontario      ## founding year is 2007? check again
+== Ontario ==
+Toronto FC,  2006,         Toronto       ## founding year is 2007? check again
   | TFC | Toronto | FC Toronto
 
-Vancouver Whitecaps FC, 1974,  Vancouver › British Columbia   ## founding year is 2011? check again
+Forge FC,   2017,  Hamilton
+  | Forge Football Club
+  
+== Nova Scotia ==
+HFX Wanderers, 2018,  Halifax
+  | Halifax Wanderers | HFX Wanderers FC | HFX Wanderers Football Club 
+
+== Manitoba ==
+Valour FC, 2017, Winnipeg
+  | Valour Football Club
+
+== Alberta ==
+Cavalry FC,    2018,  Calgary        ## Foothills County ??
+  | Cavalry Football Club
+FC Edmonton,  2010,   Edmonton
+
+== British Columbia ==
+Vancouver Whitecaps FC, 1974,  Vancouver   ## founding year is 2011? check again
   | Vancouver | Vancouver W'caps | Vancouver Whitecaps
+  
+Pacific FC,  2018,  Victoria   ## Langford -  Greater Victoria ??
+  | Pacific Football Club
