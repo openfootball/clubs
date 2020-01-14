@@ -9,7 +9,7 @@
 == Georgia ==
 Atlanta United FC, 2017,  Atlanta        ## Kennesaw, Georgia ??
   | Atlanta | Atlanta United
-ii ) Atlanta United 2
+ii) Atlanta United 2
 
 
 == Illinois ==
@@ -51,6 +51,10 @@ Orlando City SC, 2015,  Orlando
 Inter Miami CF,  2018,  Miami
   | Inter Miami | Club Internacional de Fútbol Miami
 
+Miami FC,            Miami
+Tampa Bay Rowdies,   St. Petersburg
+
+
 == Pennsylvania ==
 Philadelphia Union, 2010,  Chester       # year 2008?
   | Philadelphia
@@ -71,6 +75,12 @@ FC Dallas, 1996,  Frisco      ##  use Dallas (and not Frisco) ? - note: FC Dalla
 Houston Dynamo, 2006,  Houston   ## year 2005?
   | Houston | H. Dynamo
 
+Austin Bold FC,              Austin
+El Paso Locomotive FC,       El Paso
+Rio Grande Valley FC Toros,  Edinburg
+San Antonio FC,              San Antonio
+
+
 == California ==
 LA Galaxy, 1996,  Carson           ## founding year 1995?  -- use Los Angeles (not Carson) ??
   | Los Angeles Galaxy
@@ -80,6 +90,11 @@ Los Angeles FC, 2018,  Los Angeles   ## use 2014?
   | LAFC
 San Jose Earthquakes, 1996,  San Jose   ## note: named >San Jose Clash< from 1996-1999
   | San Jose | SJ Earthquakes | Earthquakes      ## founding year 1994?
+
+Orange County SC,       Irvine
+Sacramento Republic FC, Sacramento
+San Diego Loyal SC,     San Diego
+
 
 == Washington ==
 Seattle Sounders FC, 2009,  Seattle       ## year 2007?
