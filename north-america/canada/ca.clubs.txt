@@ -9,6 +9,8 @@ Montreal Impact, 2010,    Montréal       ## founding year is 2012
 == Ontario ==
 Toronto FC,  2006,         Toronto       ## founding year is 2007? check again
   | TFC | Toronto | FC Toronto
+York9 FC,    2018,      	Toronto
+  | York9 | York 9 Football Club
 
 Forge FC,   2017,  Hamilton
   | Forge Football Club
