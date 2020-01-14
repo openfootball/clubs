@@ -25,7 +25,7 @@ Deportivo Toluca FC,  1917,  Toluca › México
  Felipe Villanueva No. 300 1er piso,  Colonia San Bernardino //  Toluca, Estado de México. C.P. 50080
 
 Potros UAEM,  1970,  Toluca › México
-  | UAEM | Club de Fútbol Potros de la Universidad Autónoma del Estado de México
+  | UAEM | UAEM Potros | Club de Fútbol Potros de la Universidad Autónoma del Estado de México
 
 
 == Jalisco ==
@@ -80,89 +80,117 @@ Tiburones Rojos Veracruz, 1943,   Veracruz (Boca del Río) ›      ## Boca del 
 FC Juárez, 2015, Juárez
   | Juárez | Fútbol Club Juárez
 
-
-== ??? ==
-
-Altamira, 2001            # en Altamira, Tamaulipas
-Correcaminos, 1980        # en Victoria, Tamaulipas
+== Tamaulipas ==
+Altamira, 2001,        Altamira 
+Correcaminos, 1980,    Victoria
   | UAT | Correcaminos UAT | UA. Tamaulipas
 
+Tampico Madero,   Tampico › Tamaulipas   ##  add Ciudad Madero too ??
+  | Tampico Madero FC
 
-Atlético San Luis, 1998,   San Luis Potosí › San Luis Potosí
+
+== San Luis Potosí ==
+Atlético San Luis, 1998,   San Luis Potosí 
   | San Luis | Atlético | Atl. San Luis
   | Club San Luis
 
-Atlante FC, 1916,          Cancún › Quintana Roo
-  | Atlante | Potros (de Hierro)
-  | Club de Fútbol Atlante
- Av. Mayapán esq. Av. Kabah s/n Supermanzana 43 Pedregal del Bosque // Quintana Roo
- 
-Jaguares Chiapas, 2002,    Tuxtla Gutiérrez › Chiapas     ##  Chiapas FC or Jaguares de Chiapas
-  | Chiapas | Jaguares | Jaguares de Chiapas
-  | Chiapas Fútbol Club
- Calzada de las Etnias s/n, esq. Blvd Fidel Velázquez, Col. Infonavit el Grijalva // Tuxtla Gutierrez, Chiapas C.P. 29047
-
-Cafetaleros de Chiapas,   Tuxtla Gutiérrez › Chiapas
-  | Cafetaleros de Tapachula | Caf. de Tapachula    # note: On May 28, 2019 the team was moved to Tuxtla Gutiérrez and was renamed as Cafetaleros de Chiapas 
-
-
-Club León, 1944,           León     › Guanajuato
+== Guanajuato ==
+Club León, 1944,           León
   | León
  Boulevard Adolfo López Mateos 1810, Col. La Martinica // León
 
 Celaya, 1954               # en Celaya, Guanajuato
 
 
-Club Tijuana, 2007,        Tijuana  › Baja California
+== Morelos ==
+Galeana, 1956,       Xochitepec  # Cuernavaca  ??
+  | Ballenas Galeana
+Zacatepec, 1948,     Zacatepec   # Cuernavaca  ??
+  | CA Zacatepec | Atlético Zacatepec | Club Atlético Zacatepec
+
+
+== Baja California ==
+Club Tijuana, 2007,        Tijuana
   | Tijuana | Xolos | Club Tijuana Xoloitzcuintles de Caliente
  Paseo del Centenario 9211 Local 3 Módulo 6, Col. Zona Río // Tijuana, B.C. C.P. 22320
 
- 
-Dorados Sinaloa, 2003,     Culiacán › Sinaloa
+
+== Sinaloa ==
+Dorados Sinaloa, 2003,     Culiacán
   | Dorados de Sinaloa
   | Dorados | Sinaloa
 
-Monarcas Morelia, 1924,  Morelia › Michoacán
+== Zacatecas ==
+Mineros Zacatecas,     Zacatecas
+  | Mineros de Zacatecas | Club Deportivo Mineros de Zacatecas
+
+== Michoacán ==
+Monarcas Morelia, 1924,  Morelia
   | Monarcas | Morelia
   | Atletico Monarcas Morelia
  Av. Camelinas No. 3537, Col. 5 de Diciembre // Morelia, Michoacán C.P. 58260
 
-Club Necaxa,  1923,       Aguascalientes › Aguascalientes
+== Aguascalientes ==
+Club Necaxa,  1923,       Aguascalientes
   | Necaxa
-  
-CF Pachuca, 1901,        Pachuca › Hidalgo
+
+== Hidalgo ==
+CF Pachuca, 1901,        Pachuca
   | Pachuca
   | Club de Fútbol Pachuca
  Libramiento Circuito de la Concepción km 2 s/n, Col. La Concepción // San Agustín Tlaxlaca, Hidalgo C.P. 42160
 
-Cruz Azul Hidalgo, 1993    # en Cd. Cooperativa Cruz Azul, Hidalgo  - Tula
+Cruz Azul Hidalgo, 1993,     Cd. Cooperativa Cruz Azul    ## Tula ??
   | Cruz Azul Hgo.   
 
-Galeana, 1956             # en Xochitepec, Morelos  - Cuernavaca
-  | Ballenas Galeana
-Zacatepec, 1948           # en Zacatepec, Morelos   - Cuernavaca
-  | CA Zacatepec | Club Atlético Zacatepec
-
-Querétaro FC, 1950,      Querétaro › Querétaro
+== Querétaro ==
+Querétaro FC, 1950,      Querétaro
   | Querétaro
   | Gallos Blancos (de Querétaro)
   | Querétaro Fútbol Club
  Prol. Luis Vega y Monroy 409-4, Col. Balaustrads // Santiago de Querétaro, C.P. 76079
 
-Santos Laguna, 1983,     Torreón › Coahuila
+== Coahuila ==
+Santos Laguna, 1983,     Torreón
   | Santos
   | Club Santos Laguna
  Calz. Territorio Santos Modelo No. 1, Col. Conjunto de Todos los Santos // Torreón, Coahuila
 
-Oaxaca,  2012             # en Oaxaca, Oaxaca
+== Colima ==
+U. de C.,               Colima City
+  | Loros Universidad
+  | Loros U. de C. | Club de Fútbol Loros de la Universidad de Colima
 
-Mérida,  2003             # en Mérida, Yucatán
+== Sonora ==
+Cimarrones de Sonora,   Hermosillo
+  | Sonora | Cimarrones de Sonora Fútbol Club
 
-Venados FC,  1988,    Mérida › Yucatán
+
+== Oaxaca ==
+Oaxaca,  2012, Oaxaca 
+
+== Chiapas ==
+Jaguares Chiapas, 2002,    Tuxtla Gutiérrez     ##  Chiapas FC or Jaguares de Chiapas
+  | Chiapas | Jaguares | Jaguares de Chiapas
+  | Chiapas Fútbol Club
+ Calzada de las Etnias s/n, esq. Blvd Fidel Velázquez, Col. Infonavit el Grijalva // Tuxtla Gutierrez, Chiapas C.P. 29047
+
+Cafetaleros de Chiapas,   Tuxtla Gutiérrez
+  | Cafetaleros de Tapachula | Caf. de Tapachula    # note: On May 28, 2019 the team was moved to Tuxtla Gutiérrez and was renamed as Cafetaleros de Chiapas 
+
+== Campeche ==
+Delfines, 2012          Cd. del Carmen
+  | Delfines del Carmen            
+
+== Yucatán ==
+Mérida,  2003,   Mérida 
+
+Venados FC,  1988,    Mérida
   | Venados Fútbol Club
 
-Mineros Zacatecas,     Zacatecas › Zacatecas
-  | Mineros de Zacatecas | Club Deportivo Mineros de Zacatecas
-
-Delfines, 2012            # en Cd. del Carmen, Campeche
-  | Delfines del Carmen            
+== Quintana Roo ==
+Atlante FC, 1916,          Cancún
+  | Atlante | Potros (de Hierro)
+  | Club de Fútbol Atlante
+ Av. Mayapán esq. Av. Kabah s/n Supermanzana 43 Pedregal del Bosque // Quintana Roo
+ 
