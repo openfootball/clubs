@@ -1,29 +1,35 @@
 ===========================================
 =  Australia
 
-
-# Australia A-League 2012-13 Teams
-#
-# Note:  Wellington Phoenix included in nz/clubs !!
+# note: Wellington Phoenix included in nz/clubs !!
 
 
-Adelaide United,          Adelaide      › South Australia
-  | Adelaide | Adelaide United FC
-Brisbane Roar,            Brisbane Roar › Queensland
-  | Brisbane
-
-Sydney FC,                 Sydney › New South Wales
-Western Sydney Wanderers,  Sydney › New South Wales
+== New South Wales ==
+Sydney FC,                 Sydney 
+Western Sydney Wanderers,  Sydney
   | W Sydney | Western Sydney | WS Wanderers FC
-Central Coast Mariners,   Gosford ›  Central Coast › New South Wales
+Central Coast Mariners,   Gosford    ##  › Central Coast
   | Central Coast
-Newcastle United Jets,    Newcastle › New South Wales
+Newcastle United Jets,    Newcastle
   | Newcastle | Newcastle Jets
 
-Melbourne City FC,          Melbourne › Victoria
+== Victoria ==
+Melbourne City FC,          Melbourne
   | Melb City
   | Melbourne Heart   # founded in 2009 as Melbourne Heart
-Melbourne Victory,        Melbourne › Victoria
+Melbourne Victory,        Melbourne
   | Melb Victory
 
-Perth Glory,           Perth › Western Australia
+Western United,      Geelong      # use Melbourne (Truganina) ?? - note: the club aims to represent western Victoria 
+  | Western United FC
+
+== Queensland ==
+Brisbane Roar,            Brisbane Roar
+  | Brisbane
+
+== South Australia ==
+Adelaide United,          Adelaide
+  | Adelaide | Adelaide United FC
+
+== Western Australia ==
+Perth Glory,           Perth
