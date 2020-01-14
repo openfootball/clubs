@@ -13,7 +13,7 @@ York9 FC,    2018,      	Toronto
   | York9 | York 9 Football Club
 
 Forge FC,   2017,  Hamilton
-  | Forge Football Club
+  | Forge | Forge Football Club
   
 == Nova Scotia ==
 HFX Wanderers, 2018,  Halifax
@@ -21,11 +21,11 @@ HFX Wanderers, 2018,  Halifax
 
 == Manitoba ==
 Valour FC, 2017, Winnipeg
-  | Valour Football Club
+  | Valour | Valour Football Club
 
 == Alberta ==
 Cavalry FC,    2018,  Calgary        ## Foothills County ??
-  | Cavalry Football Club
+  | Cavalry | Cavalry Football Club
 FC Edmonton,  2010,   Edmonton
 
 == British Columbia ==
@@ -33,4 +33,4 @@ Vancouver Whitecaps FC, 1974,  Vancouver   ## founding year is 2011? check again
   | Vancouver | Vancouver W'caps | Vancouver Whitecaps
   
 Pacific FC,  2018,  Victoria   ## Langford -  Greater Victoria ??
-  | Pacific Football Club
+  | Pacific | Pacific Football Club
