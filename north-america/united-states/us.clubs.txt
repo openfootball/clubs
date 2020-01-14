@@ -6,21 +6,34 @@
 #
 #  note: see ca.txt for Canadian teams
 
-
-Atlanta United FC, 2017,  Atlanta       › Georgia
+== Georgia ==
+Atlanta United FC, 2017,  Atlanta
   | Atlanta | Atlanta United
-Chicago Fire, 1998,  Bridgeview    › Illinois    ## year 1997? use Chicago (not Bridgeview?)
+
+== Illinois ==
+Chicago Fire, 1998,  Bridgeview     ## year 1997? use Chicago (not Bridgeview?)
   | Chicago | Chicago Fire Soccer Club
-Columbus Crew SC, 1996,  Columbus      › Ohio   ## year 1994?
+
+== Ohio ==
+Columbus Crew SC, 1996,  Columbus    ## year 1994?
   | Columbus | Columbus Crew
-D.C. United, 1996,  Washington    › D.C.    ## year 1995?
+FC Cincinnati, 2019,  Cincinnati
+  | Cincinnati
+  
+== D.C. ==    ## district of columbia
+D.C. United, 1996,  Washington    ## year 1995?
   | DC United | Washington D.C. United
-New England Revolution, 1996,  Foxborough    › Massachusetts   ## year 1995? use Boston?
+
+== Massachusetts ==
+New England Revolution, 1996,  Foxborough     ## year 1995? use Boston?
   | New England | N.E. Revolution | New England Rev.
 
-New York City FC, 2015,  New York City › New York   ## year 2013?
+== New York ==
+New York City FC, 2015,  New York City    ## year 2013?
   | NYC FC | New York City
-New York Red Bulls, 1996,  Harrison      › New Jersey   ## note: named >New York/New Jersey MetroStars; MetroStars< from 1996-2005    ## year 1995?
+
+== New Jersey ==
+New York Red Bulls, 1996,  Harrison        ## note: named >New York/New Jersey MetroStars; MetroStars< from 1996-2005    ## year 1995?
   | NY Red Bulls | New York Metrostars | Metrostars
 # use New Jersey (not Harrison)?
 ## note: was known as the New York/New Jersey MetroStars  through 1997.
@@ -29,46 +42,64 @@ New York Red Bulls, 1996,  Harrison      › New Jersey   ## note: named >New Yo
 ##  -- todo: add support for renaming/rebranding teams in db schema - why?? why not??
 
 
-Orlando City SC, 2015,  Orlando       › Florida
+== Florida ==
+Orlando City SC, 2015,  Orlando
   | Orlando | Orlando City
-Philadelphia Union, 2010,  Chester       › Pennsylvania   # year 2008?
+Inter Miami CF,  2018,  Miami
+  | Inter Miami | Club Internacional de Fútbol Miami
+
+== Pennsylvania ==
+Philadelphia Union, 2010,  Chester       # year 2008?
   | Philadelphia
 
+== Tennessee ==
+Nashville SC,  2017,   Nashville 
+  | Nashville Soccer Club  
 
-Colorado Rapids, 1996,  Commerce City › Colorado    ## use Denver (not Commerce City?)
+== Colorado ==
+Colorado Rapids, 1996,  Commerce City     ## use Denver (not Commerce City?)
   | Colorado
 
-FC Dallas, 1996,  Frisco        › Texas     ##  use Dallas (and not Frisco) ? - note: FC Dallas named >Dallas Burn< from 1996-2004
+== Texas ==
+FC Dallas, 1996,  Frisco      ##  use Dallas (and not Frisco) ? - note: FC Dallas named >Dallas Burn< from 1996-2004
   | Dallas
-
-Houston Dynamo, 2006,  Houston       › Texas   ## year 2005?
+  
+Houston Dynamo, 2006,  Houston   ## year 2005?
   | Houston | H. Dynamo
 
-LA Galaxy, 1996,  Carson        › California    ## founding year 1995?  -- use Los Angeles (not Carson) ??
+== California ==
+LA Galaxy, 1996,  Carson           ## founding year 1995?  -- use Los Angeles (not Carson) ??
   | Los Angeles Galaxy
-Los Angeles FC, 2018,  Los Angeles   › California   ## use 2014?
-San Jose Earthquakes, 1996,  San Jose      › California  ## note: named >San Jose Clash< from 1996-1999
+Los Angeles FC, 2018,  Los Angeles   ## use 2014?
+  | LAFC
+San Jose Earthquakes, 1996,  San Jose   ## note: named >San Jose Clash< from 1996-1999
   | San Jose | SJ Earthquakes | Earthquakes      ## founding year 1994?
 
-Seattle Sounders FC, 2009,  Seattle       › Washington   ## year 2007?
+== Washington ==
+Seattle Sounders FC, 2009,  Seattle       ## year 2007?
   | Seattle | Seattle Sounders
-Portland Timbers, 2011,  Portland      › Oregon   ## year  2009?
+== Oregon ==
+Portland Timbers, 2011,  Portland         ## year  2009?
   | Portland
 
-Minnesota United FC, 2017,  Minneapolis   › Minnesota   ## use 2015?
+== Minnesota ==
+Minnesota United FC, 2017,  Minneapolis    ## use 2015?
   | Minnesota | Minnesota United | FC Minnesota Utd.
 
-Real Salt Lake, 2005,  Sandy         › Utah      ## year 2004?  use Salt Lake City (not Sandy?)
+== Utah ==
+Real Salt Lake, 2005,  Sandy           ## year 2004?  use Salt Lake City (not Sandy?)
   | Real Salt Lake City
 
-Sporting Kansas City, 1996,  Kansas City   › Kansas    ## year 1995? note: Sporting KC named >Kansas City Wiz / Wizards< from 1996-2010
+== Kansas ==
+Sporting Kansas City, 1996,  Kansas City     ## year 1995? note: Sporting KC named >Kansas City Wiz / Wizards< from 1996-2010
   | Sp. Kansas City | Sporting KC | Kansas City Wizards
 ## note: was known as: Kansas City Wizards
 ##   rebranded in Nov 2010 to Sporting Kansas City
 
-FC Cincinnati, 2019,  Cincinnati › Ohio
-  | Cincinnati
 
+
+
+== ?? ==
 
 ##################################
 #  Defunct / Historic
@@ -77,9 +108,3 @@ Tampa Bay Mutiny (1996-2001),  Tampa           › Florida
 Miami Fusion     (1998-2001),  Fort Lauderdale › Florida
 CD Chivas USA    (2005-2014),  Carson          › California   ## use 2014? use Los Angeles (not Carson)?
   | Chivas USA | Club Deportivo Chivas US
-
-####################################
-#  Future / Upcoming
-
-Miami,         2020,  Miami      › Florida
-Nashville,     2020,  Nashville  › Tennessee
