@@ -11,6 +11,16 @@ Atlanta United FC, 2017,  Atlanta        ## Kennesaw, Georgia ??
   | Atlanta | Atlanta United
 ii) Atlanta United 2
 
+== Alabama ==
+Birmingham Legion FC,  Birmingham
+
+== South Carolina ==
+Charleston Battery,    Charleston
+
+== North Carolina ==
+Charlotte Independence,   Matthews
+North Carolina FC,        Cary
+
 
 == Illinois ==
 Chicago Fire, 1998,  Bridgeview     ## year 1997? use Chicago (not Bridgeview?)
@@ -25,6 +35,10 @@ FC Cincinnati, 2019,  Cincinnati
 == D.C. ==    ## district of columbia
 D.C. United, 1996,  Washington    ## year 1995?
   | DC United | Washington D.C. United
+
+== Virginia ==
+Loudoun United FC, Leesburg
+
 
 == Massachusetts ==
 New England Revolution, 1996,  Foxborough     ## year 1995? use Boston?
@@ -44,6 +58,12 @@ ii) New York Red Bulls II       ## Montclair, New Jersey ??
 ##  On March 2006 sold/rebranded to New York Red Bulls
 ##  -- todo: add support for renaming/rebranding teams in db schema - why?? why not??
 
+== Connecticut ==
+Hartford Athletic, Hartford
+
+==  Missouri ==
+Saint Louis FC, Fenton
+
 
 == Florida ==
 Orlando City SC, 2015,  Orlando
@@ -60,13 +80,24 @@ Philadelphia Union, 2010,  Chester       # year 2008?
   | Philadelphia
 ii) Philadelphia Union II
 
+Pittsburgh Riverhounds SC,  Pittsburgh
+  | Pittsburgh Riverhounds
+
 == Tennessee ==
 Nashville SC,  2017,   Nashville 
   | Nashville Soccer Club  
+Memphis 901 FC,        Memphis
+
+== Indiana ==
+Indy Eleven, Indianapolis
+
+
 
 == Colorado ==
 Colorado Rapids, 1996,  Commerce City     ## use Denver (not Commerce City?)
   | Colorado
+Colorado Springs Switchbacks FC,  Colorado Springs
+
 
 == Texas ==
 FC Dallas, 1996,  Frisco      ##  use Dallas (and not Frisco) ? - note: FC Dallas named >Dallas Burn< from 1996-2004
@@ -99,6 +130,10 @@ San Diego Loyal SC,     San Diego
 == Washington ==
 Seattle Sounders FC, 2009,  Seattle       ## year 2007?
   | Seattle | Seattle Sounders
+Tacoma Defiance,   Tacoma
+
+  
+  
 == Oregon ==
 Portland Timbers, 2011,  Portland         ## year  2009?  -- Hillsboro, Oregon ??
   | Portland
@@ -111,6 +146,9 @@ Minnesota United FC, 2017,  Minneapolis    ## use 2015?
 == Utah ==
 Real Salt Lake, 2005,  Sandy           ## year 2004?  use Salt Lake City (not Sandy?)
   | Real Salt Lake City
+Real Monarchs,  Herriman          ## todo: add/mark as reserve club for Real Salt Lake ??
+  | Real Monarchs SLC
+
 
 == Kansas ==
 Sporting Kansas City, 1996,  Kansas City     ## year 1995? note: Sporting KC named >Kansas City Wiz / Wizards< from 1996-2010
@@ -119,6 +157,23 @@ ii) Sporting Kansas City II
 ## note: was known as: Kansas City Wizards
 ##   rebranded in Nov 2010 to Sporting Kansas City
 
+== Oklahoma ==
+OKC Energy FC,  Oklahoma City
+  | Oklahoma City Energy FC
+FC Tulsa,      Tulsa
+
+== Kentucky ==
+Louisville City FC, Louisville
+
+== Nevada ==
+Las Vegas Lights FC, Las Vegas 
+Reno 1868 FC, Reno
+
+== New Mexico ==
+New Mexico United, Albuquerque
+
+== Arizona ==
+Phoenix Rising FC, Tempe
 
 
 
