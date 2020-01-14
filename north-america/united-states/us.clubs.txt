@@ -2,7 +2,7 @@
 =  United States
 
 
-# Major League Soccer (MLS) teams
+# Major League Soccer (MLS) &  United Soccer League (USL) Championship clubs
 #
 #  note: see ca.txt for Canadian teams
 
@@ -34,7 +34,7 @@ FC Cincinnati, 2019,  Cincinnati
   
 == D.C. ==    ## district of columbia
 D.C. United, 1996,  Washington    ## year 1995?
-  | DC United | Washington D.C. United
+  | Washington D.C. United
 
 == Virginia ==
 Loudoun United FC, Leesburg
@@ -89,7 +89,7 @@ Nashville SC,  2017,   Nashville
 Memphis 901 FC,        Memphis
 
 == Indiana ==
-Indy Eleven, Indianapolis
+Indy Eleven,           Indianapolis
 
 
 
