@@ -43,13 +43,13 @@ K Lierse SK,    Lier     › Antwerpen › Vlaanderen
 == Limburg › Vlaanderen ==
 
 KRC Genk, 1988,    Genk         › Limburg › Vlaanderen
-  | Genk | Koninklijke Racing Club Genk
+  | Genk | Racing Genk | Koninklijke Racing Club Genk
 
 Sint-Truidense VV, 1924,  Sint-Truiden › Limburg › Vlaanderen
   | St Truiden | St. Truiden VV 
-  | Sint-Truiden | K. Sint-Truidense VV
+  | Sint-Truiden | Sint-Truidense | K. Sint-Truidense VV
   | Koninklijke Sint-Truidense Voetbalvereniging
-  
+
 Lommel United, Lommel
   | Lommel SK
 
