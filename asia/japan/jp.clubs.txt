@@ -39,7 +39,7 @@ Hokkaido Consadole Sapporo,  Sapporo › Hokkaido
   | Hokkaido Consadole
 Avispa Fukuoka,       Hakata › Fukuoka
 Matsumoto Yamaga,     Matsumoto › Nagano
-  | Yamaga
+  | Yamaga | Matsumoto Yamaga FC
 Vissel Kobe
   | Kobe
 V-Varen Nagasaki
