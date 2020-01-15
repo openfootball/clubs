@@ -24,7 +24,18 @@ Nueva Chicago,   Buenos Aires
   | Club Atlético Nueva Chicago
 Atlanta,           Buenos Aires (Villa Crespo)
   Club Atlético Atlanta
-  
+Barracas Central, Buenos Aires (Barracas)
+  | Club Atlético Barracas Central
+Defensores de Belgranes, Buenos Aires (Nuñez)
+  | Club Atlético Defensores de Belgrano
+Deportivo Riestra,  Buenos Aires 
+  | Deportivo Riestra Asociación de Fomento Barrio Colón
+Estudiantes de Buenos Aires, Buenos Aires     # note: NOT to be confused with Estudiantes LP, La Plata
+  | Estudiantes (Buenos Aires)
+  | Club Atlético Estudiantes
+  | Estudiantes de Caseros
+
+
 # Greater Buenos Aires
 
 CA Tigre,     Victoria › Buenos Aires     #  Victoria es una ciudad del partido de San Fernando, en la zona centro-este de la provincia de Buenos Aires y parte del Gran Buenos Aires
@@ -47,6 +58,8 @@ Estudiantes LP, La Plata › Buenos Aires
   | Estudiantes | Club Estudiantes de La Plata
   | Estudiantes de La Plata
   | Estudiantes BA
+  
+  
 Gimnasia y Esgrima,  La Plata › Buenos Aires
   | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata | GELP
   | Gimnasia y Esgrima LP
@@ -76,6 +89,12 @@ Agropecuario Argentino,  Carlos Casares
   | Agropecuario | Club Agropecuario Argentino
 Almagro,    José Ingenieros
   | Club Almagro
+Brown,   Adrogué
+  | Brown de Adrogué | Brown (Adrogué)
+  | Club Atlético Brown
+Deportivo Morón,  Morón
+  | Club Deportivo Morón
+
 
 == Provincia Santa Fe ==
 
@@ -146,3 +165,12 @@ Central Córdoba,     Santiago del Estero › Santiago del Estero
   | Central Córdoba de Santiago del Estero
   | Central Córdoba (SdE)
   | Central Córdoba (Santiago del Estero)
+
+== Provincia Córdoba ==
+
+Belgrano,                    Córdoba     # note: NOT to be confused with Belgrano Athletic Club
+  | Belgrano de Córdoba | Belgrano (Córdoba)
+  | Club Atlético Belgrano
+
+Estudiantes de Río Cuarto,   Río Cuarto
+  | Asociación Atlética Estudiantes
