@@ -75,6 +75,8 @@ Black Rock FC,    Lakeville
 == New York ==
 New York City FC, 2015,  New York City    ## year 2013?
   | NYC FC | New York City
+New York Cosmos, 2010,   New York City
+    # see New York Cosmos (1970–85) for original club
 
 == New Jersey ==
 New York Red Bulls, 1996,  Harrison        ## note: named >New York/New Jersey MetroStars; MetroStars< from 1996-2005    ## year 1995?
@@ -85,6 +87,10 @@ ii) New York Red Bulls II       ## Montclair, New Jersey ??
 ##   From the 1998 season through the 2005 season, the team was known as the MetroStars.
 ##  On March 2006 sold/rebranded to New York Red Bulls
 ##  -- todo: add support for renaming/rebranding teams in db schema - why?? why not??
+
+New York Red Bulls U23,     Harrison     ## todo: how to deal with u23 or u21 clubs?
+ | New York Red Bulls U-23               ## note: is different from New York Red Bulls II
+
 
 FC Motown,      Morristown
   | FC Morristown
