@@ -11,7 +11,7 @@ FK Olimpic Sarajevo     ## check if same as FK Sarajevo ??
 FK Željezničar
   | Željezničar
 HŠK Zrinjski
-  | Zrinjski | Zrinjski Mostar
+  | Zrinjski | Zrinjs. Mostar | Zrinjski Mostar
 NK Široki Brijeg
   | Široki Brijeg
 FK Borac Banja Luka
@@ -21,7 +21,7 @@ FK Modriča
 FK Sloboda Tuzla
   | Sloboda
 FK Radnik Bijeljina
-  | Radnik Bijeljina
+  | Radnik Bijelji | Radnik Bijeljina
 
 Sloga Simin Han
 NK Čelik Zenica
