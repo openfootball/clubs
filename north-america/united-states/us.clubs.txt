@@ -14,12 +14,24 @@ ii) Atlanta United 2
 == Alabama ==
 Birmingham Legion FC,  Birmingham
 
+== Arkansas ==
+Little Rock Rangers,   Little Rock
+  | Little Rock Rangers Soccer Club
+
 == South Carolina ==
-Charleston Battery,    Charleston
+Charleston Battery,      Charleston
+Greenville Triumph,      Greenville
+ | Greenville Triumph SC
 
 == North Carolina ==
 Charlotte Independence,   Matthews
 North Carolina FC,        Cary
+
+
+
+== Wisconsin ==
+Forward Madison FC,       Madison
+Milwaukee Bavarian SC,    Milwaukee
 
 
 == Illinois ==
