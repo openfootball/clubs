@@ -96,6 +96,8 @@ Brown,   Adrogué
   | Club Atlético Brown
 Deportivo Morón,  Morón
   | Club Deportivo Morón
+Platense, Florida Este
+  | Club Atlético Platense 
 
 
 == Provincia Santa Fe ==
@@ -126,6 +128,10 @@ Talleres de Córdoba,      Córdoba
 Club Atlético Belgrano, Córdoba     # note: NOT to be confused with Belgrano Athletic Club
   | Belgrano | Belgrano (Córdoba) | Belgrano de Córdoba 
 
+Instituto, Córdoba
+  | Instituto de Córdoba | Instituto (Córdoba)
+  | Instituto ACC | Instituto Atlético Central Córdoba
+
 Estudiantes de Río Cuarto,   Río Cuarto
   | Asociación Atlética Estudiantes
 
@@ -139,6 +145,10 @@ Godoy Cruz, 	Mendoza       # Godoy Cruy is a city in Greater Mendoza
 Gimnasia y Esgrima de Mendoza,   Mendoza
   | Gimnasia (Mendoza) 
   | Gimnasia y Esgrima | Club Gimnasia y Esgrima
+
+Independiente Rivadavia,  Mendoza
+  | Club Sportivo Independiente Rivadavia
+
 
 == Provincia San Juan ==
 
@@ -183,3 +193,12 @@ Central Córdoba,     Santiago del Estero › Santiago del Estero
   | Central Córdoba (SdE)
   | Central Córdoba (Santiago del Estero)
 
+Mitre,            Santiago del Estero
+  | Mitre (SdE) | Mitre (Santiago del Estero)
+  | Club Atlético Mitre
+
+
+== Provincia Chubut ==
+Guillermo Brown,  Puerto Madryn
+   | Guillermo Brown de Puerto Madryn
+   | Brown de Puerto Madryn
