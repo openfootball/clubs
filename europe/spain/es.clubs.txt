@@ -221,6 +221,11 @@ RCD Mallorca,   Palma de Mallorca
 ii) RCD Mallorca B
   | Mallorca B
 
+CD Atlético Baleares,  Palma de Mallorca 
+  | Atlético Baleares
+  | Club Deportivo Atlético Baleares
+
+
 == Canarias ==
 CD Tenerife,   Santa Cruz de Tenerife
   | Tenerife | Club Deportivo Tenerife
@@ -332,3 +337,6 @@ CD Peña Azagresa,  Azagra
   | Club Deportivo Peña Azagresa
 CD Becerril,   Becerril de Campos
   | Club Deportivo Becerril
+UD Melilla,  Melilla
+  | Union Deportiva Melilla
+  | Melilla UD
