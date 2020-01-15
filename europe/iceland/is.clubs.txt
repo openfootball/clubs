@@ -9,7 +9,7 @@ Fram Reykjavík,  Reykjavík
 Fylkir Reykjavik,  Reykjavík
   | Fylkir
 Valur Reykjavík,   Reykjavík
-  | Valur
+  | Valur | Valur Reykj.
 Víkingur Reykjavík, Reykjavík
   | Víkingur R.
 
