@@ -57,16 +57,16 @@ Arsenal de Sarandí,  Sarandí › Buenos Aires    #  Sarandí es una ciudad de 
   | Arsenal FC | Arsenal Fútbol Club
 
 Estudiantes LP, La Plata › Buenos Aires
-  | Estudiantes | Club Estudiantes de La Plata
+  | Club Estudiantes de La Plata
   | Estudiantes de La Plata
-  | Estudiantes BA
+  | Estudiantes
+  | Estudiantes BA    ## todo/check: remove? - confusion/conflict with Estudiantes Buenos Aires (see above)??
   
-  
-Gimnasia y Esgrima,  La Plata › Buenos Aires
-  | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata | GELP
-  | Gimnasia y Esgrima LP
+Gimnasia y Esgrima LP,  La Plata › Buenos Aires
+  | GELP | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata 
   | Club de Gimnasia y Esgrima La Plata
   | Gimnasia La Plata
+  | Gimnasia y Esgrima
 
 Club Atlético Aldosivi,   Mar del Plata › Buenos Aires
   | Aldosivi
