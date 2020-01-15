@@ -4,7 +4,7 @@
 Shamrock Rovers FC,                Dublin (Tallaght)         #  Tallaght, South Dublin
   | Shamrock Rovers | FC Shamrock Rovers
 Bohemian FC,                     Dublin (Phibsborough)
-  | Bohemians
+  | Bohemians | Boh. Dublin
 St Patrick's Athletic FC,        Dublin (Inchicore)
   | St Patrick's | St Patrick's Athletic
   | St. Patricks
@@ -32,7 +32,7 @@ Drogheda United FC,  Drogheda
 Dundalk FC,         Dundalk
   | Dundalk | FC Dundalk
 Finn Harps FC,     Ballybofey
-  | Finn Harps
+  | Finn Harps | FC Finn Harps
 Galway United FC, Galway
   | Galway | Galway United
 Limerick FC, Limerick
