@@ -14,7 +14,7 @@ JK Tallinna Kalev
 JK Trans Narva
   | Trans | JK Narva Trans
 JK Nõmme Kalju
-  | Kalju | Nõmme Kalju FC
+  | Kalju | Nõmme Kalju | Nõmme Kalju FC
 JK Sillamäe Kalev
 
 FC Santos Tartu
