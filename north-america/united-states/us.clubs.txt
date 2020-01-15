@@ -46,6 +46,10 @@ Des Moines Menace,    Des Moines
 D.C. United, 1996,  Washington    ## year 1995?
   | Washington D.C. United
 
+== Maryland ==
+FC Baltimore,      Baltimore
+ | FC Baltimore Christos
+
 == Virginia ==
 Loudoun United FC, Leesburg
 
@@ -69,6 +73,10 @@ ii) New York Red Bulls II       ## Montclair, New Jersey ??
 ##   From the 1998 season through the 2005 season, the team was known as the MetroStars.
 ##  On March 2006 sold/rebranded to New York Red Bulls
 ##  -- todo: add support for renaming/rebranding teams in db schema - why?? why not??
+
+FC Motown,      Morristown
+  | FC Morristown
+
 
 == Connecticut ==
 Hartford Athletic, Hartford
@@ -119,6 +127,7 @@ Indy Eleven,           Indianapolis
 Colorado Rapids, 1996,  Commerce City     ## use Denver (not Commerce City?)
   | Colorado
 Colorado Springs Switchbacks FC,  Colorado Springs
+FC Denver,      Denver
 
 
 == Texas ==
