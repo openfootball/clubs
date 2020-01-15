@@ -26,6 +26,11 @@ North Carolina FC,        Cary
 Chicago Fire, 1998,  Bridgeview     ## year 1997? use Chicago (not Bridgeview?)
   | Chicago | Chicago Fire Soccer Club
 
+== Michigan ==
+AFC Ann Arbor,       Ann Arbor
+Lansing Ignite FC,   Lansing
+
+
 == Ohio ==
 Columbus Crew SC, 1996,  Columbus    ## year 1994?
   | Columbus | Columbus Crew
@@ -123,8 +128,17 @@ San Jose Earthquakes, 1996,  San Jose   ## note: named >San Jose Clash< from 199
   | San Jose | SJ Earthquakes | Earthquakes      ## founding year 1994?
 
 Orange County SC,       Irvine
+Orange County FC,       Lake Forest       # note: NOT to be confused with Orange County SC
+
 Sacramento Republic FC, Sacramento
 San Diego Loyal SC,     San Diego
+
+Academica SC,   Turlock
+Cal FC,         Thousand Oaks
+El Farolito,          San Francisco
+Golden State Force,   Whittier
+  | FC Golden State Force
+Fresno FC,       Fresno
 
 
 == Washington ==
