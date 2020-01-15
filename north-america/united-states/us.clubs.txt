@@ -48,6 +48,8 @@ Loudoun United FC, Leesburg
 == Massachusetts ==
 New England Revolution, 1996,  Foxborough     ## year 1995? use Boston?
   | New England | N.E. Revolution | New England Rev.
+Black Rock FC,    Lakeville
+
 
 == New York ==
 New York City FC, 2015,  New York City    ## year 2013?
@@ -107,7 +109,10 @@ Colorado Springs Switchbacks FC,  Colorado Springs
 == Texas ==
 FC Dallas, 1996,  Frisco      ##  use Dallas (and not Frisco) ? - note: FC Dallas named >Dallas Burn< from 1996-2004
   | Dallas
-  
+
+NTX Rayados,                 Dallas
+  | North Texas Rayados
+
 Houston Dynamo, 2006,  Houston   ## year 2005?
   | Houston | H. Dynamo
 
@@ -115,6 +120,10 @@ Austin Bold FC,              Austin
 El Paso Locomotive FC,       El Paso
 Rio Grande Valley FC Toros,  Edinburg
 San Antonio FC,              San Antonio
+
+Brazos Valley Cavalry FC,   Bryan
+Laredo Heat,                Laredo
+Midland-Odessa Sockers FC,   Midland
 
 
 == California ==
