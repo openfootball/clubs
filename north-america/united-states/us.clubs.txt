@@ -36,6 +36,11 @@ Columbus Crew SC, 1996,  Columbus    ## year 1994?
   | Columbus | Columbus Crew
 FC Cincinnati, 2019,  Cincinnati
   | Cincinnati
+Dayton Dutch Lions,   Dayton
+
+== Iowa ==
+Des Moines Menace,    Des Moines
+
   
 == D.C. ==    ## district of columbia
 D.C. United, 1996,  Washington    ## year 1995?
@@ -91,9 +96,12 @@ Pittsburgh Riverhounds SC,  Pittsburgh
   | Pittsburgh Riverhounds
 
 == Tennessee ==
-Nashville SC,  2017,   Nashville 
+Nashville SC,  2017,      Nashville 
   | Nashville Soccer Club  
-Memphis 901 FC,        Memphis
+Memphis 901 FC,           Memphis
+Chattanooga Red Wolves,   Chattanooga
+  | Chattanooga Red Wolves SC
+
 
 == Indiana ==
 Indy Eleven,           Indianapolis
