@@ -23,7 +23,7 @@ Huracán,            Buenos Aires
 Nueva Chicago,   Buenos Aires
   | Club Atlético Nueva Chicago
 Atlanta,           Buenos Aires (Villa Crespo)
-  Club Atlético Atlanta
+  | Club Atlético Atlanta
 Barracas Central, Buenos Aires (Barracas)
   | Club Atlético Barracas Central
 Defensores de Belgranes, Buenos Aires (Nuñez)
