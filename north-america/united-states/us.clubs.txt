@@ -92,8 +92,15 @@ Philadelphia Union, 2010,  Chester       # year 2008?
   | Philadelphia
 ii) Philadelphia Union II
 
+Philadelphia Lone Star FC,  Philadelphia 
+
 Pittsburgh Riverhounds SC,  Pittsburgh
   | Pittsburgh Riverhounds
+
+Erie Commodores FC,       Erie
+Reading United AC,        Reading
+West Chester Predators,    West Chester
+
 
 == Tennessee ==
 Nashville SC,  2017,      Nashville 
@@ -173,6 +180,8 @@ ii) Portland Timbers 2
 == Minnesota ==
 Minnesota United FC, 2017,  Minneapolis    ## use 2015?
   | Minnesota | Minnesota United | FC Minnesota Utd.
+Duluth FC,   Duluth
+
 
 == Utah ==
 Real Salt Lake, 2005,  Sandy           ## year 2004?  use Salt Lake City (not Sandy?)
