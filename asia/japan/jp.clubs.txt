@@ -31,8 +31,8 @@ Kashiwa Reysol,        Kashiwa › Chiba
   | Kashiwa
 Sagan Tosu,             Tosu › Saga
 Sanfrecce Hiroshima,    Hiroshima › Hiroshima
-  | Hiroshima | Sanfrecce | Sanfr. Hiroshima
-
+  | Hiroshima | Sanfrecce | S. Hiroshima | Sanfr. Hiroshima
+  
 Vegalta Sendai,       Sendai, Miyagi
 Hokkaido Consadole Sapporo,  Sapporo › Hokkaido
   | Sapporo | Consa Sapporo | Consadole Sapporo
