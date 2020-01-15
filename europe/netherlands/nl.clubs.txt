@@ -7,14 +7,17 @@
 Ajax Amsterdam, 1900,    Amsterdam › Noord-Holland
   | Ajax | AFC Ajax | Amsterdamsche Football Club Ajax
   | Ajax Amsterd.
+ii) Jong Ajax
 
 AZ Alkmaar, 1967,    Alkmaar    › Noord-Holland
   | AZ | Alkmaar Zaanstreek
 ii) AZ Alkmaar II
+  | Jong AZ
 
-SC Telstar, Velsen
-  | Telstar
-
+SC Telstar,     Velsen
+  | Telstar 
+  | SC Stormvogels Telstar     ## 2001–2008: Stormvogels Telstar
+  
 
 == Zuid-Holland ==
 
@@ -32,7 +35,7 @@ ADO Den Haag, 1905,    Den Haag › Zuid-Holland
   | Den Haag | Alles Door Oefening Den Haag
 
 FC Dordrecht,    Dordrecht › Zuid-Holland
-  | Dordrecht
+  | Dordrecht | Dordrecht '90
 
 
 == Friesland ==
@@ -89,7 +92,7 @@ MVV Maastricht, Maastricht
 Go Ahead Eagles, Deventer › Overijssel
 
 Heracles Almelo, 1903,  Almelo
-  | Heracles
+  | Heracles | SC Heracles Almelo
 
 FC Twente, 1965,   Enschede
   | Twente | Football Club Twente | Twente Enschede
@@ -122,6 +125,7 @@ RBC Roosendaal, Roosendaal
 
 FC Utrecht, 1970,   Utrecht   ## Utrecht
   | Utrecht | Football Club Utrecht
+ii) Jong FC Utrecht
 
 Vitesse Arnhem, 1892,  Arnhem   ## Gelderland
   | Vitesse | SBV Vitesse | Stichting Betaald Voetbal Vitesse
@@ -130,5 +134,5 @@ Vitesse Arnhem, 1892,  Arnhem   ## Gelderland
 FC Volendam, Volendam
   | Volendam
 
-FC Emmen
-  | Emmen
+FC Emmen,    Emmen   ## Drenthe
+  | Emmen | FC Emmen VV
