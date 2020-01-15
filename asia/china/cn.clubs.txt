@@ -35,7 +35,7 @@ Guizhou Hengfeng,          Guiyang
 Hangzhou Greentown,        Hangzhou
 
 Shandong Luneng Taishan,   Jinan
-  | Shandong Lunen | Shandong Luneng
+  | Shandong L. | Shandong Lunen | Shandong Luneng
 Hebei China Fortune,       Langfang
   | Hebei
   | Hebei Fortune | Hebei China Fortun | Hebei China Fortune FC 
