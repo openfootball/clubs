@@ -90,6 +90,7 @@ Edessaikos FC,  Edessa › Macedonia
 
 Platanias FC,        Chania › Crete     ## use Platanias › Chania  why? why not?
   | Platanias
+  | AO Platanias | Athlitikós Ómilos Plataniá Chaníon
 PAE Chania,           Chania  › Crete   ## use Mournies › Chania   why? why not?
   | Chania FC
 
