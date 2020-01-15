@@ -1,11 +1,41 @@
 ========================
 =  Guatemala
 
-CSD Municipal,     city:guatemala
+CSD Municipal,   1936,   Guatemala City
   | Municipal
-Club Xelajú MC,    city:quetzaltenango
-  | Xelajú
-Comunicaciones FC,  city:guatemala
+  | Club Social y Deportivo Municipal
+Comunicaciones FC,  1949,   Guatemala City
   | Comunicaciones | CSD Comuni.
+  | Comunicaciones Fútbol Club
+  
+Deportivo Mixco,   Mixco   ## Guatemala Department
+  | Mixco | Club Social y Deportivo Mixco
+
+Club Xelajú MC,  1928,   Quetzaltenango    ## Department of Quetzaltenango
+  | Xela | Xelajú | Xelajú MC 
+  | Club Social y Deportivo Xelajú Mario Camposeco
 Heredia Jaguares de Peten
   | Heredia
+
+Antigua GFC,    Antigua
+  | Antigua | Antigua Guatemala Fútbol Club
+Cobán Imperial,      Cobán    ## Alta Verapaz
+  | CSD Cobán Imperial | Club Social y Deportivo Cobán Imperial
+CD Guastatoya,    Guastatoya   ## El Progreso
+  | Guastatoya | Club Deportivo Guastatoya
+Deportivo Iztapa,  Iztapa   ## Escuintla Department
+  | Iztapa | Club Deportivo Iztapa
+ 
+CD Malacateco,   Malacatán   ## San Marcos
+  | Malacateco | Deportivo Malacateco
+  | Club Deportivo Malacateco-Coatepeque
+ 
+Deportivo Sanarate, Sanarate   ## El Progreso Department
+  | Sanarate | Sanarate FC | Deportivo Sanarate FC
+  | Club Social y Deportivo Sanarate Fútbol Club 
+
+Santa Lucía Cotzumalguapa
+  | FC Santa Lucía Cotzumalguapa
+
+Deportivo Siquinalá,   Siquinalá  ## Escuintla Department
+  | Siquinalá 
