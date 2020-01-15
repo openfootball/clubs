@@ -22,7 +22,9 @@ Huracán,            Buenos Aires
   | CA Huracán | Club Atlético Huracán
 Nueva Chicago,   Buenos Aires
   | Club Atlético Nueva Chicago
-
+Atlanta,           Buenos Aires (Villa Crespo)
+  Club Atlético Atlanta
+  
 # Greater Buenos Aires
 
 CA Tigre,     Victoria › Buenos Aires     #  Victoria es una ciudad del partido de San Fernando, en la zona centro-este de la provincia de Buenos Aires y parte del Gran Buenos Aires
@@ -53,6 +55,10 @@ Gimnasia y Esgrima,  La Plata › Buenos Aires
 
 Club Atlético Aldosivi,   Mar del Plata › Buenos Aires
   | Aldosivi
+Alvarado, Mar del Plata
+  | Alvarado (Mar del Plata)
+  | Club Atlético Alvarado
+  
 Club Atlético Banfield,   Banfield › Buenos Aires
   | Banfield | CA Banfield
 Defensa y Justicia,   Gobernador Julio A. Costa › Buenos Aires
@@ -66,6 +72,10 @@ Temperley,           Turdera › Buenos Aires
 Chacarita Juniors,    Villa Maipú › Buenos Aires
   | Club Atlético Chacarita Juniors
 
+Agropecuario Argentino,  Carlos Casares
+  | Agropecuario | Club Agropecuario Argentino
+Almagro,    José Ingenieros
+  | Club Almagro
 
 == Provincia Santa Fe ==
 
