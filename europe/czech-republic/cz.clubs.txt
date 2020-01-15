@@ -33,7 +33,7 @@ FK Mladá Boleslav, 1902, Mladá Boleslav   ## Central Bohemia
 
 Viktoria Plzeň, 1911,  Plzeň      ## Plzeň
   | Plzeň | FC Viktoria Plzeň | Football Club Viktoria Plzeň
-  | Viktoria Pilsen [de]
+  | Vikt. Pilsen [de] | Viktoria Pilsen [de]
 
 FC Slovan Liberec, 1958,  Liberec    ## Liberec
   | Liberec | Slovan Liberec
