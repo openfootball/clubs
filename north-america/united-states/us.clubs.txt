@@ -11,6 +11,12 @@ Atlanta United FC, 2017,  Atlanta        ## Kennesaw, Georgia ??
   | Atlanta | Atlanta United
 ii) Atlanta United 2
 
+South Georgia Tormenta FC,    Statesboro
+  | Tormenta FC
+ii) South Georgia Tormenta 2
+  | South Georgia Tormenta FC 2
+
+
 == Alabama ==
 Birmingham Legion FC,  Birmingham
 
@@ -64,6 +70,8 @@ FC Baltimore,      Baltimore
 
 == Virginia ==
 Loudoun United FC, Leesburg
+Richmond Kickers,    Richmond
+Virginia United FC,   Woodbridge
 
 
 == Massachusetts ==
