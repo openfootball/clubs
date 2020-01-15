@@ -25,7 +25,7 @@ Curicó Unido,      Curicó
 CD Antofagasta,          Antofagasta
   | Deportes Antofagasta
 Everton de Viña del Mar,  Viña del Mar
-  | Everton
+  | Everton | Everton Viña d. Mar
 O'Higgins FC,           Rancagua
   | O'Higgins
 Unión La Calera,     La Calera
