@@ -34,6 +34,8 @@ Estudiantes de Buenos Aires, Buenos Aires     # note: NOT to be confused with Es
   | Estudiantes (Buenos Aires)
   | Club Atlético Estudiantes
   | Estudiantes de Caseros
+Ferro Carril Oeste, Buenos Aires (Caballito)
+  | Ferro | Club Ferro Carril Oeste
 
 
 # Greater Buenos Aires
@@ -118,10 +120,14 @@ Atlético Rafaela, Rafaela › Santa Fe
 
 == Provincia Córdoba ==
 
-Club Atlético Belgrano,   Córdoba
-  | Belgrano
 Talleres de Córdoba,      Córdoba
   | Talleres | Talleres C. | Talleres Cordoba | Club Atlético Talleres
+
+Club Atlético Belgrano, Córdoba     # note: NOT to be confused with Belgrano Athletic Club
+  | Belgrano | Belgrano (Córdoba) | Belgrano de Córdoba 
+
+Estudiantes de Río Cuarto,   Río Cuarto
+  | Asociación Atlética Estudiantes
 
   
 == Provincia Mendoza ==
@@ -130,10 +136,21 @@ Godoy Cruz, 	Mendoza       # Godoy Cruy is a city in Greater Mendoza
   | Godoy Cruz Antonio Tomba
   | Club Deportivo Godoy Cruz Antonio Tomba
 
+Gimnasia y Esgrima de Mendoza,   Mendoza
+  | Gimnasia (Mendoza) 
+  | Gimnasia y Esgrima | Club Gimnasia y Esgrima
+
 == Provincia San Juan ==
 
 San Martín,    San Juan
   | San Martín SJ | San Martín San Juan | Club Atlético San Martín
+
+
+==  Provincia Jujuy == 
+
+Gimnasia y Esgrima de Jujuy,   San Salvador de Jujuy 
+  | GEJ | Gimnasia y Esgrima (Jujuy)
+  | Club Atlético Gimnasia y Esgrima de Jujuy
 
 
 == Provincia Tucumán ==
@@ -166,11 +183,3 @@ Central Córdoba,     Santiago del Estero › Santiago del Estero
   | Central Córdoba (SdE)
   | Central Córdoba (Santiago del Estero)
 
-== Provincia Córdoba ==
-
-Belgrano,                    Córdoba     # note: NOT to be confused with Belgrano Athletic Club
-  | Belgrano de Córdoba | Belgrano (Córdoba)
-  | Club Atlético Belgrano
-
-Estudiantes de Río Cuarto,   Río Cuarto
-  | Asociación Atlética Estudiantes
