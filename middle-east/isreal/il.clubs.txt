@@ -4,7 +4,7 @@
 Hapoel Tel-Aviv FC
   | H. Tel-Aviv | Hapoel Tel-Aviv
 Maccabi Tel-Aviv FC
-  | Maccabi Tel Aviv | M. Tel-Aviv
+  | Maccabi Tel Aviv | Macc. Tel Aviv | M. Tel-Aviv
 Bnei Yehuda Tel-Aviv FC
   | Bnei Yehuda
 Beitar Tel Aviv Bat Yam FC,  Tel Aviv       ## and Bat Yam
