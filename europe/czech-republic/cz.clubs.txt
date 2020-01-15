@@ -60,10 +60,10 @@ FC Zlín, 1919,   Zlín     ## Zlín
   | Zlín | FC Fastav Zlín |Fastav Zlín
 
 FC Vysočina Jihlava, 1948,  Jihlava  ## Vysočina
-  | Jihlava | FC Jihlava 
+  | Jihlava | FC Jihlava
 
 FC Zbrojovka Brno, 1913,   Brno     ## South Moravia
-  | Brno
+  | Brno | Zbrojovka Brno
 
 MFK Karviná
   | Karviná
