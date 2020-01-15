@@ -11,7 +11,7 @@ Skeid Fotball,  Oslo
 Rosenborg BK,  Trondheim
   | Rosenborg | Rosenborg Ballklub
 Ranheim,       Trondheim
-  | Ranheim Fotball
+  | Ranheim Fotball | Ranheim IL
 
 Molde FK,      Molde
   | Molde
