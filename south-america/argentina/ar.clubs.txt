@@ -98,6 +98,10 @@ Deportivo Morón,  Morón
   | Club Deportivo Morón
 Platense, Florida Este
   | Club Atlético Platense 
+Santamarina,  Tandil
+  | Club y Biblioteca Ramón Santamarina
+Villa Dálmine,  Campana
+  | Dálmine | Club Villa Dálmine
 
 
 == Provincia Santa Fe ==
@@ -107,7 +111,6 @@ Colón Santa Fe,  Santa Fe
   | Colon Santa FE
 Unión Santa Fe,  Santa Fe
   | Unión | Unión de Santa Fe  | CA Unión | Club Atlético Unión
-
 
 Newell's Old Boys, Rosario › Santa Fe
   | Newell's | N.O. Boys | Newell's OB | Newell's Old B. | Newells Old Boys
@@ -168,7 +171,7 @@ Gimnasia y Esgrima de Jujuy,   San Salvador de Jujuy
 Atlético Tucumán,       San Miguel de Tucumán  › Tucumán
   | Tucumán | Atl. Tucumán
 San Martín de Tucumán,  San Miguel de Tucumán  › Tucumán
-  | San Martín T.
+  | San Martín | San Martín T. | San Martín (Tucumán)
   | Club Atlético San Martín | Club Atlético San Martín (Tucumán)
 
 
