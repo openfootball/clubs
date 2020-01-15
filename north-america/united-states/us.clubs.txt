@@ -94,6 +94,11 @@ Inter Miami CF,  2018,  Miami
 Miami FC,            Miami
 Tampa Bay Rowdies,   St. Petersburg
 
+Florida Soccer Soldiers,     North Miami Beach
+Lakeland Tropics,           Lakeland
+The Villages SC,           The Villages
+  | The Villages Soccer Club
+
 
 == Pennsylvania ==
 Philadelphia Union, 2010,  Chester       # year 2008?
@@ -185,6 +190,9 @@ Tacoma Defiance,   Tacoma
 Portland Timbers, 2011,  Portland         ## year  2009?  -- Hillsboro, Oregon ??
   | Portland
 ii) Portland Timbers 2
+
+FC Mulhouse Portland,    Portland
+  | International Portland Select FC
 
 == Minnesota ==
 Minnesota United FC, 2017,  Minneapolis    ## use 2015?
