@@ -18,7 +18,7 @@ TPS Turku,       Turku
 FC Honka Espoo,   Espoo
   | FC Honka | Honka
 KuPS Kuopio,      Kuopio
-  | KuPS
+  | KuPS | Kuopio PS
 Myllykosken Pallo -47,   Myllykoski    ## part of the city of Kouvola
   | Myllykosken Pallo-47 | MYPA | MyPa
 FC Lahti,         Lahti
@@ -37,11 +37,12 @@ IFK Mariehamn,    Mariehamn
 KPV Kokkola,        Kokkola
   | KPV | Kokkolan Palloveikot
 Rovaniemen Palloseura,  Rovaniemi
-  | RoPS | Rovaniemi | RoPS Rovaniemi
+  | RoPS | Rovaniemi | RoPS Rovaniemi | Rovaniemi PS
 SJK Seinäjoki,      Seinäjoki
   | SJK | Seinäjoen Jalkapallokerho
+  | Seinäjoen JK
 Vaasan Palloseura,    Vaasa
-  | VPS | VPS Vaasa
+  | VPS | VPS Vaasa | Vaasa PS
 
 FC Haka, Valkeakoski
   | Haka
