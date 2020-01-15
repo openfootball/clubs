@@ -17,6 +17,7 @@ FC Dnepr Mogilev
   | Dnepr
 FC Shakhtyor Soligorsk
   | Shakhtyor
+  | Shakhter Soligorsk
 FC Naftan Novopolotsk
   | Naftan
 FC Torpedo Zhodino
@@ -33,12 +34,16 @@ FC Gorodeya
   | Gorodeya
 SFC Slutsk
   | Slutsk
+  | Slutsksak. Slutsk
 FC Slavia-Mozyr
   | Slavia-Mozyr
 FC Vitebsk
   | Vitebsk
 FC Zvezda-BGU Minsk
   | Zvezda
+  | FC BGU Minsk
 FC Dnyapro Mogilev
+  | FK Dnyapro Mogilev
 FC Torpedo-SKA Minsk
   | Torpedo-SKA
+  | FC Torpedo Minsk
