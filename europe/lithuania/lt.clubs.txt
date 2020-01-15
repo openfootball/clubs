@@ -8,14 +8,16 @@ VMFD Žalgiris,  Vilnius
 
 FK Kauno Žalgiris,  Kaunas
   | Kauno Žalgiris
+  | FK Žalgiris Kaunas
 FC Stumbras,        Kaunas
   | Stumbras
 FBK Kaunas,        Kaunas
 
 FK Ekranas
   | Ekranas
-FK Sūduva
+FK Sūduva,    Marijampolė
   | Sūduva | Sūduva Marija.
+  | Sūduva Marijampolė
 FK Tauras
 FK Vėtra
 FC Šiauliai
