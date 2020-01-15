@@ -49,7 +49,7 @@ Gimnasia y Esgrima,  La Plata › Buenos Aires
   | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata | GELP
   | Gimnasia y Esgrima LP
   | Club de Gimnasia y Esgrima La Plata
-
+  | Gimnasia La Plata
 
 Club Atlético Aldosivi,   Mar del Plata › Buenos Aires
   | Aldosivi
@@ -135,3 +135,4 @@ Central Córdoba,     Santiago del Estero › Santiago del Estero
   | CC Córdoba | CA Central Córdob | Club Atlético Central Córdoba
   | Central Córdoba de Santiago del Estero
   | Central Córdoba (SdE)
+  | Central Córdoba (Santiago del Estero)
