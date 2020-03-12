@@ -54,3 +54,6 @@ Wexford FC,           Crossabeg
   | Wexford
 
 Sporting Fingal FC
+
+Cabinteely FC,        Cabinteely
+  | Cabinteely

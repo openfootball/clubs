@@ -95,3 +95,4 @@ Degerfors IF, Degerfors
 Varbergs BoIS,  Varberg
 
 IK Brage,   Borlänge
+  | Brage
