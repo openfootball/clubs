@@ -35,6 +35,14 @@ Use the `sportdb` command line tool to build your own `football.db` copy
 from the plain text data sets. [More »](https://github.com/openfootball/datafile)
 
 
+
+## How-To-Update or How-To-Add More Clubs
+
+Add more clubs to the .txt datasets. For new clubs add a new line and for new club name variants add a variant using `|`. See the many examples in the .txt datesets :-).
+
+Note: You do NOT need to update / change all the READMEs - these "summaries" get auto-generated from the .txt datasets (from time-to-time with a build script).
+
+
 ## Questions? Comments?
 
 Send them along to the
