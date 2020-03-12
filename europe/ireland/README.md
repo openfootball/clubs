@@ -1,4 +1,4 @@
-21 clubs
+22 clubs
 
 - **Shamrock Rovers FC** : (2) Shamrock Rovers · FC Shamrock Rovers
 - **Bohemian FC** : (1) Bohemians
@@ -21,6 +21,7 @@
 - **Waterford FC** : (3) Waterford · Waterford United (1982-2016) · Waterford United FC (1982-2016)
 - **Wexford FC** : (1) Wexford
 - **Sporting Fingal FC**
+- **Cabinteely FC** : (1) Cabinteely
 
 
 
@@ -51,6 +52,7 @@ By City
 - **Athlone** (1): Athlone Town AFC  (2) Athlone · Athlone Town
 - **Ballybofey** (1): Finn Harps FC  (1) Finn Harps
 - **Bray** (1): Bray Wanderers FC  (2) Bray · Bray Wanderers
+- **Cabinteely** (1): Cabinteely FC
 - **Cobh** (1): Cobh Ramblers FC  (1) Cobh Ramblers
 - **Cork** (1): Cork City FC  (2) Cork · Cork City
 - **Crossabeg** (1): Wexford FC  (1) Wexford
@@ -71,7 +73,7 @@ By City
 
 By Region
 
-- **Dublin†** (5):   Shamrock Rovers FC · Bohemian FC · St Patrick's Athletic FC · University College Dublin AFC · Shelbourne FC
+- **Dublin†** (5):   Shamrock Rovers FC · Bohemian FC · St Patrick's Athletic FC · University College Dublin AFC · Shelbourne FC · Cabinteely FC
 - **Athlone†** (1):   Athlone Town AFC
 - **Bray†** (1):   Bray Wanderers FC
 - **Cobh†** (1):   Cobh Ramblers FC
@@ -91,7 +93,7 @@ By Region
 
 By Year
 
-- ? (21):   Shamrock Rovers FC · Bohemian FC · St Patrick's Athletic FC · University College Dublin AFC · Shelbourne FC · Athlone Town AFC · Bray Wanderers FC · Cobh Ramblers FC · Cork City FC · Drogheda United FC · Dundalk FC · Finn Harps FC · Galway United FC · Limerick FC · Longford Town FC · Mervue · Monaghan · Sligo Rovers FC · Waterford FC · Wexford FC · Sporting Fingal FC
+- ? (21):   Shamrock Rovers FC · Bohemian FC · St Patrick's Athletic FC · University College Dublin AFC · Shelbourne FC · Athlone Town AFC · Bray Wanderers FC · Cobh Ramblers FC · Cork City FC · Drogheda United FC · Dundalk FC · Finn Harps FC · Galway United FC · Limerick FC · Longford Town FC · Mervue · Monaghan · Sligo Rovers FC · Waterford FC · Wexford FC · Sporting Fingal FC · Cabinteely FC
 
 
 
@@ -102,7 +104,7 @@ By A to Z
 
 - **A** (3): Athlone · Athlone Town · Athlone Town AFC
 - **B** (5): Bray · Bohemians · Bohemian FC · Bray Wanderers · Bray Wanderers FC
-- **C** (5): Cork · Cork City · Cork City FC · Cobh Ramblers · Cobh Ramblers FC
+- **C** (5): Cork · Cork City · Cork City FC · Cobh Ramblers · Cobh Ramblers FC · Cabinteely FC
 - **D** (5): Dundalk · Drogheda · Dundalk FC · Drogheda United · Drogheda United FC
 - **F** (5): FC Dundalk · Finn Harps · Finn Harps FC · FC Sligo Rovers · FC Shamrock Rovers
 - **G** (3): Galway · Galway United · Galway United FC

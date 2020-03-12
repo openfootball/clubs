@@ -46,7 +46,7 @@
 
 **europe/hu-hungary/clubs.txt** _(18)_:  Ferencvárosi TC · Budapest Honvéd FC · MTK Budapest · Videoton FC · Debreceni VSC · Győri ETO FC · Paksi SE · Kecskeméti TE · Újpest FC · Szombathelyi Haladás · Zalaegerszegi TE · Fehérvár FC · Vasas FC · Diósgyőri VTK · Mezőkövesd Zsóry SE · Varda SE · Puskás Akadémia FC · Kaposvári Rákóczi FC
 
-**europe/ie-ireland/clubs.txt** _(21)_:  Shamrock Rovers FC · Bohemian FC · St Patrick's Athletic FC · University College Dublin AFC · Shelbourne FC · Athlone Town AFC · Bray Wanderers FC · Cobh Ramblers FC · Cork City FC · Drogheda United FC · Dundalk FC · Finn Harps FC · Galway United FC · Limerick FC · Longford Town FC · Mervue · Monaghan · Sligo Rovers FC · Waterford FC · Wexford FC · Sporting Fingal FC
+**europe/ie-ireland/clubs.txt** _(21)_:  Shamrock Rovers FC · Bohemian FC · St Patrick's Athletic FC · University College Dublin AFC · Shelbourne FC · Athlone Town AFC · Bray Wanderers FC · Cobh Ramblers FC · Cork City FC · Drogheda United FC · Dundalk FC · Finn Harps FC · Galway United FC · Limerick FC · Longford Town FC · Mervue · Monaghan · Sligo Rovers FC · Waterford FC · Wexford FC · Sporting Fingal FC · Cabinteely FC
 
 **europe/is-iceland/clubs.txt** _(15)_:  KR Reykjavík · Fram Reykjavík · Valur Reykjavík · Víkingur Reykjavík · ÍA Akranes · FH Hafnarfjördur · Breidablik · Thór Akureyri · ÍBV Vestmannaeyjar · Fylkir · Keflavík · Stjarnan · Grindavík · HK Kópavogs · KA Akureyri
 

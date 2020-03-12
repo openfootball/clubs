@@ -1,6 +1,6 @@
 26 clubs
 
-- [**Atlanta United FC**](https://en.wikipedia.org/wiki/Atlanta_United_FC) : (2) Atlanta · Atlanta United
+- [**Atlanta United FC**](https://en.wikipedia.org/wiki/Atlanta_United_FC) : (2) Atlanta · Atlanta United · Atlanta Utd
 - [**Chicago Fire**](https://en.wikipedia.org/wiki/Chicago_Fire_Soccer_Club) : (2) Chicago · Chicago Fire Soccer Club
 - [**Columbus Crew SC**](https://en.wikipedia.org/wiki/Columbus_Crew_SC) : (2) Columbus · Columbus Crew
 - [**D.C. United**](https://en.wikipedia.org/wiki/D.C._United) : (2) DC United · Washington D.C. United
