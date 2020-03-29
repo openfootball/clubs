@@ -111,7 +111,7 @@ UTA Arad,   Arad
 FC Voluntari,  Voluntari
   | Voluntari
   | CS Voluntari
-  | FC FC Voluntari       ## double-check - really misspelled in football data.uk csv source?
+  | FC FC Voluntari       ## typo: misspelled in football data.uk csv source
 
 FC Academica Clinceni, 2005,  Clinceni
   | Academica Clinceni | Fotbal Club Academica Clinceni
