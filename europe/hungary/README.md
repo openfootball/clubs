@@ -5,7 +5,7 @@
 - **MTK Budapest** : (1) MTK
 - **Videoton FC**
 - **Debreceni VSC** : (1) Debrecen
-- **Győri ETO FC** : (1) Győr ⇒ (2) ≈Gyor≈ · ≈Gyori ETO FC≈
+- **Győri ETO FC** : (1) Győr ⇒ (2) ≈Gyoer≈ · ≈Gyoeri ETO FC≈
 - **Paksi SE** : (2) Paks · Paksi FC
 - **Kecskeméti TE** : (1) Kecskemét ⇒ (2) ≈Kecskemet≈ · ≈Kecskemeti TE≈
 - **Újpest FC** : (1) Újpest ⇒ (2) ≈Ujpest≈ · ≈Ujpest FC≈
@@ -13,8 +13,8 @@
 - **Zalaegerszegi TE** : (1) Zalaegerszeg
 - **Fehérvár FC** : (1) Fehérvár ⇒ (2) ≈Fehervar≈ · ≈Fehervar FC≈
 - **Vasas FC** : (1) Vasas
-- **Diósgyőri VTK** : (1) Diósgyőr ⇒ (2) ≈Diosgyor≈ · ≈Diosgyori VTK≈
-- **Mezőkövesd Zsóry SE** : (1) Mezőkövesd ⇒ (4) ≈Mezokovesd≈ · ≈Mezőkoevesd≈ · ≈Mezokovesd Zsory SE≈ · ≈Mezőkoevesd Zsóry SE≈
+- **Diósgyőri VTK** : (1) Diósgyőr ⇒ (2) ≈Diosgyoer≈ · ≈Diosgyoeri VTK≈
+- **Mezőkövesd Zsóry SE** : (1) Mezőkövesd ⇒ (4) ≈Mezőkoevesd≈ · ≈Mezoekovesd≈ · ≈Mezőkoevesd Zsóry SE≈ · ≈Mezoekovesd Zsory SE≈
 - **Varda SE** : (1) Varda
 - **Puskás Akadémia FC** ⇒ (1) ≈Puskas Akademia FC≈
 - **Kaposvári Rákóczi FC** : (1) Rákóczi ⇒ (2) ≈Rakoczi≈ · ≈Kaposvari Rakoczi FC≈
@@ -30,7 +30,7 @@ Alphabet
   - **é**×7 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
   - **ó**×5 U+00F3 (243) - LATIN SMALL LETTER O WITH ACUTE ⇒ o
   - **ö**×2 U+00F6 (246) - LATIN SMALL LETTER O WITH DIAERESIS ⇒ o•oe
-  - **ő**×6 U+0151 (337) - LATIN SMALL LETTER O WITH DOUBLE ACUTE ⇒ o
+  - **ő**×6 U+0151 (337) - LATIN SMALL LETTER O WITH DOUBLE ACUTE ⇒ oe
 
 
 

@@ -1,4 +1,4 @@
-16 clubs
+17 clubs
 
 - **ŠK Slovan Bratislava** : (4) Slov. Bratisl. · Sl. Bratislava · Slovan Bratislava · SK Slovan Bratislava ⇒ (1) ≈SK Slovan Bratislava≈
 - **MŠK Žilina** : (1) Žilina ⇒ (2) ≈Zilina≈ · ≈MSK Zilina≈
@@ -16,6 +16,7 @@
 - **SK Sered** : (1) Sered
 - **TJ Sokol Dolná Zdana** : (1) Sokol Dolná Zdana ⇒ (2) ≈Sokol Dolna Zdana≈ · ≈TJ Sokol Dolna Zdana≈
 - **MFK Zemplín Michalovce** : (1) Michalovce ⇒ (1) ≈MFK Zemplin Michalovce≈
+- **FK Poprad**
 
 
 
@@ -46,6 +47,7 @@ Duplicates
 By City
 
 - **Bratislava** (1): ŠK Slovan Bratislava  (4) Slov. Bratisl. · Sl. Bratislava · Slovan Bratislava · SK Slovan Bratislava
+- **Poprad** (1): FK Poprad 
 - ? (15): 
   - MŠK Žilina  (1) Žilina
   - FC Spartak Trnava  (1) Spartak Trnava
@@ -69,12 +71,14 @@ By City
 By Region
 
 - **Bratislava†** (1):   ŠK Slovan Bratislava
+- **Poprad†** (1):   FK Poprad
 
 
 
 
 By Year
 
+- **1906** (1):   FK Poprad
 - ? (16):   ŠK Slovan Bratislava · MŠK Žilina · FC Spartak Trnava · FK Senica · MFK Košice · Dukla Banská Bystrica · FC Nitra · MFK Petržalka · AS Trenčín · FC DAC 1904 Dunajská Streda · MFK Ružomberok · TJ Spartak Myjava · FC ViOn Zlaté Moravce · SK Sered · TJ Sokol Dolná Zdana · MFK Zemplín Michalovce
 
 
@@ -87,7 +91,7 @@ By A to Z
 - **A** (1): AS Trenčín
 - **B** (1): Banská Bystrica
 - **D** (2): Dunajská Streda · Dukla Banská Bystrica
-- **F** (5): FC Nitra · FK Senica · FC Spartak Trnava · FC ViOn Zlaté Moravce · FC DAC 1904 Dunajská Streda
+- **F** (6): FC Nitra · FK Poprad · FK Senica · FC Spartak Trnava · FC ViOn Zlaté Moravce · FC DAC 1904 Dunajská Streda
 - **K** (1): Košice
 - **M** (6): MFK Košice · Michalovce · MŠK Žilina · MFK Petržalka · MFK Ružomberok · MFK Zemplín Michalovce
 - **N** (1): Nitra

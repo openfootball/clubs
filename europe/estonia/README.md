@@ -6,10 +6,10 @@
 - **FCI Tallinn**
 - **JK Tallinna Kalev** : (1) Tallinna Kalev
 - **JK Trans Narva** : (2) Trans · JK Narva Trans
-- **JK Nõmme Kalju** : (2) Kalju · Nõmme Kalju FC ⇒ (2) ≈JK Nomme Kalju≈ · ≈Nomme Kalju FC≈
+- **JK Nõmme Kalju** : (3) Kalju · Nõmme Kalju · Nõmme Kalju FC ⇒ (3) ≈Nomme Kalju≈ · ≈JK Nomme Kalju≈ · ≈Nomme Kalju FC≈
 - **JK Sillamäe Kalev** ⇒ (2) ≈JK Sillamae Kalev≈ · ≈JK Sillamaee Kalev≈
 - **FC Santos Tartu**
-- **JK Tammeka Tartu** : (1) Tammeka
+- **JK Tammeka Tartu** : (2) Tammeka · Tammeka Tartu
 - **Paide Linnameeskond** : (1) Paide
 - **Tulevik**
 - **FC Kuressaare** : (1) Kuressaare
@@ -22,7 +22,7 @@ Alphabet
 
 - **Alphabet Specials** (2):  **ä**  **õ** 
   - **ä**×1 U+00E4 (228) - LATIN SMALL LETTER A WITH DIAERESIS ⇒ a•ae
-  - **õ**×2 U+00F5 (245) - LATIN SMALL LETTER O WITH TILDE ⇒ o
+  - **õ**×3 U+00F5 (245) - LATIN SMALL LETTER O WITH TILDE ⇒ o
 
 
 
@@ -42,10 +42,10 @@ By City
   - FCI Tallinn 
   - JK Tallinna Kalev  (1) Tallinna Kalev
   - JK Trans Narva  (2) Trans · JK Narva Trans
-  - JK Nõmme Kalju  (2) Kalju · Nõmme Kalju FC
+  - JK Nõmme Kalju  (3) Kalju · Nõmme Kalju · Nõmme Kalju FC
   - JK Sillamäe Kalev 
   - FC Santos Tartu 
-  - JK Tammeka Tartu  (1) Tammeka
+  - JK Tammeka Tartu  (2) Tammeka · Tammeka Tartu
   - Paide Linnameeskond  (1) Paide
   - Tulevik 
   - FC Kuressaare  (1) Kuressaare
@@ -76,9 +76,9 @@ By A to Z
 - **K** (2): Kalju · Kuressaare
 - **L** (2): Levadia · Levadia Tallinn
 - **M** (2): Maardu · Maardu Esteve
-- **N** (1): Nõmme Kalju FC
+- **N** (2): Nõmme Kalju · Nõmme Kalju FC
 - **P** (2): Paide · Paide Linnameeskond
-- **T** (4): Trans · Tammeka · Tulevik · Tallinna Kalev
+- **T** (5): Trans · Tammeka · Tulevik · Tammeka Tartu · Tallinna Kalev
 
 
 

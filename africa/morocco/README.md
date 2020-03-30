@@ -1,6 +1,7 @@
-1 clubs
+2 clubs
 
 - **Raja Casablanca** : (1) Raja Club Athletic
+- **Wydad Casabl.**
 
 
 
@@ -20,21 +21,23 @@ Duplicates
 
 By City
 
-- **Casablanca** (1): Raja Casablanca  (1) Raja Club Athletic
+- **Casablanca** (2): 
+  - Raja Casablanca  (1) Raja Club Athletic
+  - Wydad Casabl. 
 
 
 
 
 By Region
 
-- **Casablanca†** (1):   Raja Casablanca
+- **Casablanca†** (2):   Raja Casablanca · Wydad Casabl.
 
 
 
 
 By Year
 
-- ? (1):   Raja Casablanca
+- ? (2):   Raja Casablanca · Wydad Casabl.
 
 
 
@@ -44,6 +47,7 @@ By Year
 By A to Z
 
 - **R** (2): Raja Casablanca · Raja Club Athletic
+- **W** (1): Wydad Casabl.
 
 
 

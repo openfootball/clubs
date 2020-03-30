@@ -6,19 +6,19 @@
 - **FC Partizan Minsk** : (1) Partizan Minsk
 - **FC Minsk** : (1) Minsk
 - **FC Dnepr Mogilev** : (1) Dnepr
-- **FC Shakhtyor Soligorsk** : (1) Shakhtyor
+- **FC Shakhtyor Soligorsk** : (2) Shakhtyor · Shakhter Soligorsk
 - **FC Naftan Novopolotsk** : (1) Naftan
 - **FC Torpedo Zhodino** : (1) Torpedo Zhodino
 - **FC Dinamo Brest** : (1) Dinamo Brest
 - **FC Neman Grodno** : (1) Neman
 - **FC Isloch** : (1) Isloch
 - **FC Gorodeya** : (1) Gorodeya
-- **SFC Slutsk** : (1) Slutsk
+- **SFC Slutsk** : (2) Slutsk · Slutsksak. Slutsk
 - **FC Slavia-Mozyr** : (1) Slavia-Mozyr
 - **FC Vitebsk** : (1) Vitebsk
-- **FC Zvezda-BGU Minsk** : (1) Zvezda
-- **FC Dnyapro Mogilev**
-- **FC Torpedo-SKA Minsk** : (1) Torpedo-SKA
+- **FC Zvezda-BGU Minsk** : (2) Zvezda · FC BGU Minsk
+- **FC Dnyapro Mogilev** : (1) FK Dnyapro Mogilev
+- **FC Torpedo-SKA Minsk** : (2) Torpedo-SKA · FC Torpedo Minsk
 
 
 
@@ -45,19 +45,19 @@ By City
   - FC Partizan Minsk  (1) Partizan Minsk
   - FC Minsk  (1) Minsk
   - FC Dnepr Mogilev  (1) Dnepr
-  - FC Shakhtyor Soligorsk  (1) Shakhtyor
+  - FC Shakhtyor Soligorsk  (2) Shakhtyor · Shakhter Soligorsk
   - FC Naftan Novopolotsk  (1) Naftan
   - FC Torpedo Zhodino  (1) Torpedo Zhodino
   - FC Dinamo Brest  (1) Dinamo Brest
   - FC Neman Grodno  (1) Neman
   - FC Isloch  (1) Isloch
   - FC Gorodeya  (1) Gorodeya
-  - SFC Slutsk  (1) Slutsk
+  - SFC Slutsk  (2) Slutsk · Slutsksak. Slutsk
   - FC Slavia-Mozyr  (1) Slavia-Mozyr
   - FC Vitebsk  (1) Vitebsk
-  - FC Zvezda-BGU Minsk  (1) Zvezda
-  - FC Dnyapro Mogilev 
-  - FC Torpedo-SKA Minsk  (1) Torpedo-SKA
+  - FC Zvezda-BGU Minsk  (2) Zvezda · FC BGU Minsk
+  - FC Dnyapro Mogilev  (1) FK Dnyapro Mogilev
+  - FC Torpedo-SKA Minsk  (2) Torpedo-SKA · FC Torpedo Minsk
 
 
 
@@ -82,13 +82,13 @@ By A to Z
 
 - **B** (3): BATE · BATE Borisov · BATE Borissow
 - **D** (3): Dnepr · Dinamo Brest · Dinamo Minsk
-- **F** (18): FC Gomel · FC Minsk · FC Isloch · FC Vitebsk · FC Gorodeya · FC BATE Borisov · FC Dinamo Brest · FC Dinamo Minsk · FC Neman Grodno · FC Slavia-Mozyr · FC Dnepr Mogilev · FC Partizan Minsk · FC Dnyapro Mogilev · FC Torpedo Zhodino · FC Zvezda-BGU Minsk · FC Torpedo-SKA Minsk · FC Naftan Novopolotsk · FC Shakhtyor Soligorsk
+- **F** (21): FC Gomel · FC Minsk · FC Isloch · FC Vitebsk · FC Gorodeya · FC BGU Minsk · FC BATE Borisov · FC Dinamo Brest · FC Dinamo Minsk · FC Neman Grodno · FC Slavia-Mozyr · FC Dnepr Mogilev · FC Torpedo Minsk · FC Partizan Minsk · FC Dnyapro Mogilev · FC Torpedo Zhodino · FK Dnyapro Mogilev · FC Zvezda-BGU Minsk · FC Torpedo-SKA Minsk · FC Naftan Novopolotsk · FC Shakhtyor Soligorsk
 - **G** (2): Gomel · Gorodeya
 - **I** (1): Isloch
 - **M** (1): Minsk
 - **N** (2): Neman · Naftan
 - **P** (1): Partizan Minsk
-- **S** (4): Slutsk · Shakhtyor · SFC Slutsk · Slavia-Mozyr
+- **S** (6): Slutsk · Shakhtyor · SFC Slutsk · Slavia-Mozyr · Slutsksak. Slutsk · Shakhter Soligorsk
 - **T** (2): Torpedo-SKA · Torpedo Zhodino
 - **V** (1): Vitebsk
 - **Z** (1): Zvezda

@@ -1,12 +1,14 @@
-45 clubs
+53 clubs
 
-- [**Lokomotiv Moskva**](https://en.wikipedia.org/wiki/FC_Lokomotiv_Moscow) : (6) Lokomotiv · FC Lokomotiv · Loko Moscow [en] · FC Lokomotiv Moskva · Lokomotiv Moscow [en] · FC Lokomotiv Moscow [en]
-- [**PFC CSKA Moskva**](https://en.wikipedia.org/wiki/PFC_CSKA_Moscow) : (6) CSKA · PFK CSCA · CSKA Moskva · CSKA Moscow [en] · PFC CSKA Moscow [en] · PFK CSKA Moscow [en]
-- [**Dynamo Moskva**](https://en.wikipedia.org/wiki/FC_Dynamo_Moscow) : (8) Dynamo · Dinamo · Dinamo Moskva · FC Dinamo Moskva · Dynamo Mosc [en] · Dynamo Moscow [en] · Dinamo Moscow [en] · FC Dynamo Moscow [en]
+- [**Lokomotiv Moskva**](https://en.wikipedia.org/wiki/FC_Lokomotiv_Moscow) : (7) Lokomotiv · FC Lokomotiv · Lok Moskau [de] · Loko Moscow [en] · FC Lokomotiv Moskva · Lokomotiv Moscow [en] · FC Lokomotiv Moscow [en]
+- [**PFC CSKA Moskva**](https://en.wikipedia.org/wiki/PFC_CSKA_Moscow) : (7) CSKA · PFK CSCA · CSKA Moskva · CSKA Moscow [en] · ZSKA Moskau [de] · PFK CSKA Moscow [en] · PFC CSKA Moscow [en]
+- [**Dynamo Moskva**](https://en.wikipedia.org/wiki/FC_Dynamo_Moscow) : (9) Dynamo · Dinamo · Dinamo Moskva · FC Dinamo Moskva · Dynamo Mosc [en] · Dynamo Moscow [en] · Dinamo Moscow [en] · Dinamo Moskau [de] · FC Dynamo Moscow [en]
 - [**FC Spartak Moskva**](https://en.wikipedia.org/wiki/FC_Spartak_Moscow) : (7) Spartak · FC Spartak · Spartak Moskva · Spartak Moskau [de] · Spartak Moscow [en] · FC Spartak Moscow [en] · FC Spartak Moskau [de]
+- **Spartak Moskva II** : (1) Spartak Moskau II [de]
 - [**FC Moskva**](https://en.wikipedia.org/wiki/FC_Moscow) : (2) Moskva · FC Moscow [en]
-- [**Torpedo Moskva**](https://en.wikipedia.org/wiki/FC_Torpedo_Moscow) : (4) Torpedo · T. Moscow [en] · Torpedo Moscow [en] · FC Torpedo Moscow [en]
-- [**Zenit St. Petersburg**](https://en.wikipedia.org/wiki/FC_Zenit_Saint_Petersburg) : (7) Zenit · FC Zenit · Zenit Petersb. · Zenit Petersburg · FC Zenit St Petersburg · Zenit Saint Petersburg · FC Zenit Saint Petersburg
+- [**Torpedo Moskva**](https://en.wikipedia.org/wiki/FC_Torpedo_Moscow) : (5) Torpedo · T. Moscow [en] · Torpedo Moscow [en] · FC Torpedo Moscow [en] · FC Torpedo Moskau [de]
+- **FC Chertanovo Moskva** : (3) Chertanovo Moscow [en] · FC Chertanovo Mosk [de] · FC Chertanovo Moscow [en]
+- [**Zenit St. Petersburg**](https://en.wikipedia.org/wiki/FC_Zenit_Saint_Petersburg) : (9) Zenit · FC Zenit · Zenit Petersb. · Zenit St. Peter · Zenit Petersburg · Zenit St. Petersb. · Zenit Saint Petersburg · FC Zenit St Petersburg · FC Zenit Saint Petersburg
 - **Dinamo St. Petersburg**
 - **PFC Sochi** : (3) Sochi · FK Sochi [de] · Professional Football Club Sochi
 - [**FC Rubin Kazan**](https://en.wikipedia.org/wiki/FC_Rubin_Kazan) : (3) Rubin · FC Rubin · Rubin Kazan
@@ -19,19 +21,21 @@
 - [**Chernomorets Novorosisk**](https://en.wikipedia.org/wiki/FC_Chernomorets_Novorossiysk) : (2) Chernomorets · FC Chernomorets Novorossiysk
 - **FC Khimki** : (2) Khimki · FK Khimki [de]
 - [**FC Krasnodar**](https://en.wikipedia.org/wiki/FC_Krasnodar) : (2) Krasnodar · Krasnodar Krasnodar
+- **FC Krasnodar 2**
 - [**FC Kuban**](https://en.wikipedia.org/wiki/FC_Kuban_Krasnodar) : (4) Kuban · Kuban' · Kuban Krasnodar · FC Kuban Krasnodar
-- **Luch Energia Vladivostok** : (1) Luch
+- **FC Baltika** : (3) FK Baltika · Baltika Kaliningrad · FC Baltika Kaliningrad
+- **Luch Energia Vladivostok** : (3) Luch · Luch Vladivostok · Luch Wladivostok [de]
 - **FC Mordovia** : (3) Mordovia · M. Saransk · Mordovia Saransk
 - **Spartak Nalchik** : (1) Nalchik
-- **Nizhnii Novgorod** : (1) Nizhny Novgorod
+- **Nizhnii Novgorod** : (2) Nizhny Novgorod · FC Nizhny Novgorod
 - [**FC Rostov**](https://en.wikipedia.org/wiki/FC_Rostov) : (3) Rostov · FK Rostov · Rostov Rostov-on-Don
-- **Rotor**
+- **Rotor** : (3) Rotor Volgograd · FC Rotor Volgograd · FC Rotor Wolgograd [de]
 - **Saturn**
 - **Shinnik** : (1) Shinnik Yaroslavl
-- **SKA-Energiia** : (2) SKA Energia · SKA Khabarovsk
+- **SKA Khabarovsk** : (4) SKA Energia · SKA-Energiia · Energ. Khabarovsk · FC SKA-Khabarovsk
 - **Sokol**
 - [**Terek Grozny**](https://en.wikipedia.org/wiki/FC_Terek_Grozny) : (2) Terek · FC Terek Grozny
-- [**Akhmat Grozny**](https://en.wikipedia.org/wiki/FC_Akhmat_Grozny) : (2) Akhmat · FC Akhmat Grozny
+- [**Akhmat Grozny**](https://en.wikipedia.org/wiki/FC_Akhmat_Grozny) : (3) Akhmat · FC Akhmat Grozny · FK Achmat Grozny [de]
 - [**Tom Tomsk**](https://en.wikipedia.org/wiki/FC_Tom_Tomsk) : (4) Tom · Tom' · Tomsk · FC Tom Tomsk
 - **Tosno**
 - [**FC Ufa**](https://en.wikipedia.org/wiki/FC_Ufa) : (2) Ufa · Ufa Ufa
@@ -39,12 +43,16 @@
 - **Uralan**
 - **Volga Nizhnii Novgorod** : (2) Volga · Volga N. Novgorod
 - **FC Tambov** : (1) Tambov
-- [**FC Orenburg**](https://en.wikipedia.org/wiki/FC_Orenburg) : (2) Orenburg · FK Orenburg
+- [**FC Orenburg**](https://en.wikipedia.org/wiki/FC_Orenburg) : (3) Orenburg · FK Orenburg · Gazovik Orenburg
 - **Volgar-Astrakhan**
 - **Vladikavkaz**
-- [**Yenisey**](https://en.wikipedia.org/wiki/FC_Yenisey_Krasnoyarsk) : (1) FC Yenisey Krasnoyarsk
+- [**Yenisey**](https://en.wikipedia.org/wiki/FC_Yenisey_Krasnoyarsk) : (3) FC Yenisey · Yenisey Krasnoyarsk · FC Yenisey Krasnoyarsk
 - **FC Avangard Kursk**
 - **FC Tekstilshchik Ivanovo** : (1) Tekstilshchik
+- **Neftekhimik Nizhnekamsk** : (2) FC Neftekhimik · FC Neftekhimik Nizhnekamsk
+- **FC Chayka** : (2) Chayka Peschanokopskoye · FC Chayka Peschanokopskoye
+- **FC Fakel Voronezh** : (2) Fakel Voronezh · Fakel Worenesch [de]
+- **FC Armavir** : (1) Torpedo Armavir
 
 
 
@@ -72,39 +80,46 @@ Duplicates
 
 By City
 
-- **Moskva** (6): 
-  - Lokomotiv Moskva  (6) Lokomotiv · FC Lokomotiv · FC Lokomotiv Moskva · Loko Moscow [en] · Lokomotiv Moscow [en] · FC Lokomotiv Moscow [en]
-  - PFC CSKA Moskva  (6) CSKA · PFK CSCA · CSKA Moskva · CSKA Moscow [en] · PFC CSKA Moscow [en] · PFK CSKA Moscow [en]
-  - Dynamo Moskva  (8) Dynamo · Dinamo · Dinamo Moskva · FC Dinamo Moskva · Dynamo Mosc [en] · Dynamo Moscow [en] · Dinamo Moscow [en] · FC Dynamo Moscow [en]
+- **Moskva** (8): 
+  - Lokomotiv Moskva  (7) Lokomotiv · FC Lokomotiv · FC Lokomotiv Moskva · Loko Moscow [en] · Lokomotiv Moscow [en] · FC Lokomotiv Moscow [en] · Lok Moskau [de]
+  - PFC CSKA Moskva  (7) CSKA · PFK CSCA · CSKA Moskva · CSKA Moscow [en] · PFC CSKA Moscow [en] · PFK CSKA Moscow [en] · ZSKA Moskau [de]
+  - Dynamo Moskva  (9) Dynamo · Dinamo · Dinamo Moskva · FC Dinamo Moskva · Dynamo Mosc [en] · Dynamo Moscow [en] · Dinamo Moscow [en] · FC Dynamo Moscow [en] · Dinamo Moskau [de]
   - FC Spartak Moskva  (7) Spartak · FC Spartak · Spartak Moskva · Spartak Moscow [en] · FC Spartak Moscow [en] · Spartak Moskau [de] · FC Spartak Moskau [de]
+  - Spartak Moskva II  (1) Spartak Moskau II [de]
   - FC Moskva  (2) Moskva · FC Moscow [en]
-  - Torpedo Moskva  (4) Torpedo · T. Moscow [en] · Torpedo Moscow [en] · FC Torpedo Moscow [en]
+  - Torpedo Moskva  (5) Torpedo · T. Moscow [en] · Torpedo Moscow [en] · FC Torpedo Moscow [en] · FC Torpedo Moskau [de]
+  - FC Chertanovo Moskva  (3) Chertanovo Moscow [en] · FC Chertanovo Moscow [en] · FC Chertanovo Mosk [de]
+- **Krasnodar** (3): 
+  - FC Krasnodar  (2) Krasnodar · Krasnodar Krasnodar
+  - FC Krasnodar 2 
+  - FC Kuban  (4) Kuban · Kuban' · Kuban Krasnodar · FC Kuban Krasnodar
 - **Grozny** (2): 
   - Terek Grozny  (2) Terek · FC Terek Grozny
-  - Akhmat Grozny  (2) Akhmat · FC Akhmat Grozny
-- **Krasnodar** (2): 
-  - FC Krasnodar  (2) Krasnodar · Krasnodar Krasnodar
-  - FC Kuban  (4) Kuban · Kuban' · Kuban Krasnodar · FC Kuban Krasnodar
+  - Akhmat Grozny  (3) Akhmat · FC Akhmat Grozny · FK Achmat Grozny [de]
 - **Nizhny Novgorod** (2): 
-  - Nizhnii Novgorod  (1) Nizhny Novgorod
+  - Nizhnii Novgorod  (2) Nizhny Novgorod · FC Nizhny Novgorod
   - Volga Nizhnii Novgorod  (2) Volga · Volga N. Novgorod
 - **St. Petersburg** (2): 
-  - Zenit St. Petersburg  (7) Zenit · Zenit Petersb. · Zenit Petersburg · Zenit Saint Petersburg · FC Zenit · FC Zenit St Petersburg · FC Zenit Saint Petersburg
+  - Zenit St. Petersburg  (9) Zenit · Zenit Petersb. · Zenit Petersburg · Zenit St. Peter · Zenit St. Petersb. · Zenit Saint Petersburg · FC Zenit · FC Zenit St Petersburg · FC Zenit Saint Petersburg
   - Dinamo St. Petersburg 
+- **Armavir** (1): FC Armavir  (1) Torpedo Armavir
 - **Astrakhan** (1): Volgar-Astrakhan 
 - **Elista** (1): Uralan 
 - **Ivanovo** (1): FC Tekstilshchik Ivanovo  (1) Tekstilshchik
+- **Kaliningrad** (1): FC Baltika  (3) Baltika Kaliningrad · FC Baltika Kaliningrad · FK Baltika
 - **Kazan** (1): FC Rubin Kazan  (3) Rubin · FC Rubin · Rubin Kazan
-- **Khabarovsk** (1): SKA-Energiia  (2) SKA Energia · SKA Khabarovsk
+- **Khabarovsk** (1): SKA Khabarovsk  (4) SKA-Energiia · SKA Energia · Energ. Khabarovsk · FC SKA-Khabarovsk
 - **Khimki** (1): FC Khimki  (2) Khimki · FK Khimki [de]
-- **Krasnoyarsk** (1): Yenisey  (1) FC Yenisey Krasnoyarsk
+- **Krasnoyarsk** (1): Yenisey  (3) FC Yenisey · Yenisey Krasnoyarsk · FC Yenisey Krasnoyarsk
 - **Kursk** (1): FC Avangard Kursk 
 - **Makhachkala** (1): FC Anzhi Makhachkala  (4) Anzhi · Anzhi Makhachkala · FK Anzi Makhackala · Anji
 - **Nalchik** (1): Spartak Nalchik  (1) Nalchik
+- **Nizhnekamsk** (1): Neftekhimik Nizhnekamsk  (2) FC Neftekhimik · FC Neftekhimik Nizhnekamsk
 - **Novorosisk** (1): Chernomorets Novorosisk  (2) Chernomorets · FC Chernomorets Novorossiysk
 - **Novosibirsk** (1): FC Sibir Novosibirsk  (3) Sibir · Sibir' · FC Sibir
-- **Orenburg** (1): FC Orenburg  (2) Orenburg · FK Orenburg
+- **Orenburg** (1): FC Orenburg  (3) Orenburg · FK Orenburg · Gazovik Orenburg
 - **Perm** (1): FC Amkar Perm  (2) Amkar · Amkar Perm
+- **Peschanokopskoye** (1): FC Chayka  (2) Chayka Peschanokopskoye · FC Chayka Peschanokopskoye
 - **Ramenskoe** (1): Saturn 
 - **Rostov-on-Don** (1): FC Rostov  (3) Rostov · Rostov Rostov-on-Don · FK Rostov
 - **Samara** (1): PFC Krylya Sovetov Samara  (8) Samara · Krylya Sovetov · FK Krylya Sovetov Samara · Krylia Sovetov · Kryl'ia Sovetov · Krylia Sovetov Samara · PFC Krylia Sovetov Samara · Kryliya Sovetov [de]
@@ -118,8 +133,9 @@ By City
 - **Ufa** (1): FC Ufa  (2) Ufa · Ufa Ufa
 - **Vladikavkaz** (1): Vladikavkaz 
 - **Vladikovkaz** (1): FC Alania Vladikavkaz  (2) Alania · Alania Vladikavkaz
-- **Vladivostok** (1): Luch Energia Vladivostok  (1) Luch
-- **Volgograd** (1): Rotor 
+- **Vladivostok** (1): Luch Energia Vladivostok  (3) Luch · Luch Vladivostok · Luch Wladivostok [de]
+- **Volgograd** (1): Rotor  (3) Rotor Volgograd · FC Rotor Volgograd · FC Rotor Wolgograd [de]
+- **Voronezh** (1): FC Fakel Voronezh  (2) Fakel Voronezh · Fakel Worenesch [de]
 - **Yaroslavl** (1): Shinnik  (1) Shinnik Yaroslavl
 - **Yekaterinburg** (1): Ural Yekaterinburg  (5) Ural · FC Ural Yekaterinburg · FC Ural Sverdlovsk Oblast · Football Club Ural Sverdlovsk Oblast · Ural Jekaterinburg [de]
 
@@ -128,7 +144,7 @@ By City
 
 By Region
 
-- **Moskva†** (6):   Lokomotiv Moskva · PFC CSKA Moskva · Dynamo Moskva · FC Spartak Moskva · FC Moskva · Torpedo Moskva
+- **Moskva†** (8):   Lokomotiv Moskva · PFC CSKA Moskva · Dynamo Moskva · FC Spartak Moskva · Spartak Moskva II · FC Moskva · Torpedo Moskva · FC Chertanovo Moskva
 - **St. Petersburg†** (2):   Zenit St. Petersburg · Dinamo St. Petersburg
 - **Sochi†** (1):   PFC Sochi
 - **Kazan†** (1):   FC Rubin Kazan
@@ -140,7 +156,8 @@ By Region
 - **Tula†** (1):   Arsenal Tula
 - **Novorosisk†** (1):   Chernomorets Novorosisk
 - **Khimki†** (1):   FC Khimki
-- **Krasnodar†** (2):   FC Krasnodar · FC Kuban
+- **Krasnodar†** (3):   FC Krasnodar · FC Krasnodar 2 · FC Kuban
+- **Kaliningrad†** (1):   FC Baltika
 - **Vladivostok†** (1):   Luch Energia Vladivostok
 - **Saransk†** (1):   FC Mordovia
 - **Nalchik†** (1):   Spartak Nalchik
@@ -149,7 +166,7 @@ By Region
 - **Volgograd†** (1):   Rotor
 - **Ramenskoe†** (1):   Saturn
 - **Yaroslavl†** (1):   Shinnik
-- **Khabarovsk†** (1):   SKA-Energiia
+- **Khabarovsk†** (1):   SKA Khabarovsk
 - **Saratov†** (1):   Sokol
 - **Grozny†** (2):   Terek Grozny · Akhmat Grozny
 - **Tomsk†** (1):   Tom Tomsk
@@ -164,6 +181,10 @@ By Region
 - **Krasnoyarsk†** (1):   Yenisey
 - **Kursk†** (1):   FC Avangard Kursk
 - **Ivanovo†** (1):   FC Tekstilshchik Ivanovo
+- **Nizhnekamsk†** (1):   Neftekhimik Nizhnekamsk
+- **Peschanokopskoye†** (1):   FC Chayka
+- **Voronezh†** (1):   FC Fakel Voronezh
+- **Armavir†** (1):   FC Armavir
 
 
 
@@ -179,7 +200,7 @@ By Year
 - **1994** (1):   FC Amkar Perm
 - **2013** (1):   FC Tambov
 - **2018** (1):   PFC Sochi
-- ? (35):   FC Moskva · Torpedo Moskva · Dinamo St. Petersburg · FC Sibir Novosibirsk · FC Alania Vladikavkaz · PFC Krylya Sovetov Samara · Arsenal Tula · Chernomorets Novorosisk · FC Khimki · FC Krasnodar · FC Kuban · Luch Energia Vladivostok · FC Mordovia · Spartak Nalchik · Nizhnii Novgorod · FC Rostov · Rotor · Saturn · Shinnik · SKA-Energiia · Sokol · Terek Grozny · Akhmat Grozny · Tom Tomsk · Tosno · FC Ufa · Ural Yekaterinburg · Uralan · Volga Nizhnii Novgorod · FC Orenburg · Volgar-Astrakhan · Vladikavkaz · Yenisey · FC Avangard Kursk · FC Tekstilshchik Ivanovo
+- ? (43):   Spartak Moskva II · FC Moskva · Torpedo Moskva · FC Chertanovo Moskva · Dinamo St. Petersburg · FC Sibir Novosibirsk · FC Alania Vladikavkaz · PFC Krylya Sovetov Samara · Arsenal Tula · Chernomorets Novorosisk · FC Khimki · FC Krasnodar · FC Krasnodar 2 · FC Kuban · FC Baltika · Luch Energia Vladivostok · FC Mordovia · Spartak Nalchik · Nizhnii Novgorod · FC Rostov · Rotor · Saturn · Shinnik · SKA Khabarovsk · Sokol · Terek Grozny · Akhmat Grozny · Tom Tomsk · Tosno · FC Ufa · Ural Yekaterinburg · Uralan · Volga Nizhnii Novgorod · FC Orenburg · Volgar-Astrakhan · Vladikavkaz · Yenisey · FC Avangard Kursk · FC Tekstilshchik Ivanovo · Neftekhimik Nizhnekamsk · FC Chayka · FC Fakel Voronezh · FC Armavir
 
 
 
@@ -189,22 +210,25 @@ By Year
 By A to Z
 
 - **A** (11): Anji · Amkar · Anzhi · Akhmat · Alania · Arsenal · Amkar Perm · Arsenal Tula · Akhmat Grozny · Anzhi Makhachkala · Alania Vladikavkaz
-- **C** (5): CSKA · CSKA Moskva · Chernomorets · CSKA Moscow [en] · Chernomorets Novorosisk
-- **D** (8): Dinamo · Dynamo · Dinamo Moskva · Dynamo Moskva · Dynamo Mosc [en] · Dinamo Moscow [en] · Dynamo Moscow [en] · Dinamo St. Petersburg
-- **F** (48): FC Ufa · FC Kuban · FC Rubin · FC Sibir · FC Zenit · FC Khimki · FC Moskva · FC Rostov · FC Tambov · FK Rostov · FC Spartak · FC Mordovia · FC Orenburg · FK Orenburg · FC Krasnodar · FC Lokomotiv · FC Tom Tomsk · FC Amkar Perm · FK Sochi [de] · FC Moscow [en] · FC Rubin Kazan · FK Khimki [de] · FC Arsenal Tula · FC Terek Grozny · FC Akhmat Grozny · FC Dinamo Moskva · FC Avangard Kursk · FC Spartak Moskva · FC Kuban Krasnodar · FK Anzi Makhackala · FC Lokomotiv Moskva · FC Anzhi Makhachkala · FC Sibir Novosibirsk · FC Alania Vladikavkaz · FC Dynamo Moscow [en] · FC Ural Yekaterinburg · FC Spartak Moscow [en] · FC Spartak Moskau [de] · FC Torpedo Moscow [en] · FC Yenisey Krasnoyarsk · FC Zenit St Petersburg · FC Lokomotiv Moscow [en] · FC Tekstilshchik Ivanovo · FK Krylya Sovetov Samara · FC Ural Sverdlovsk Oblast · FC Zenit Saint Petersburg · FC Chernomorets Novorossiysk · Football Club Ural Sverdlovsk Oblast
+- **B** (1): Baltika Kaliningrad
+- **C** (7): CSKA · CSKA Moskva · Chernomorets · CSKA Moscow [en] · Chertanovo Moscow [en] · Chayka Peschanokopskoye · Chernomorets Novorosisk
+- **D** (9): Dinamo · Dynamo · Dinamo Moskva · Dynamo Moskva · Dynamo Mosc [en] · Dinamo Moscow [en] · Dinamo Moskau [de] · Dynamo Moscow [en] · Dinamo St. Petersburg
+- **E** (1): Energ. Khabarovsk
+- **F** (70): FC Ufa · FC Kuban · FC Rubin · FC Sibir · FC Zenit · FC Chayka · FC Khimki · FC Moskva · FC Rostov · FC Tambov · FK Rostov · FC Armavir · FC Baltika · FC Spartak · FC Yenisey · FK Baltika · FC Mordovia · FC Orenburg · FK Orenburg · FC Krasnodar · FC Lokomotiv · FC Tom Tomsk · FC Amkar Perm · FK Sochi [de] · FC Krasnodar 2 · FC Moscow [en] · FC Neftekhimik · FC Rubin Kazan · FK Khimki [de] · Fakel Voronezh · FC Arsenal Tula · FC Terek Grozny · FC Akhmat Grozny · FC Dinamo Moskva · FC Avangard Kursk · FC Fakel Voronezh · FC SKA-Khabarovsk · FC Spartak Moskva · FC Kuban Krasnodar · FC Nizhny Novgorod · FC Rotor Volgograd · FK Anzi Makhackala · FC Lokomotiv Moskva · FC Anzhi Makhachkala · FC Chertanovo Moskva · FC Sibir Novosibirsk · Fakel Worenesch [de] · FC Alania Vladikavkaz · FC Dynamo Moscow [en] · FC Ural Yekaterinburg · FK Achmat Grozny [de] · FC Baltika Kaliningrad · FC Spartak Moscow [en] · FC Spartak Moskau [de] · FC Torpedo Moscow [en] · FC Torpedo Moskau [de] · FC Yenisey Krasnoyarsk · FC Zenit St Petersburg · FC Chertanovo Mosk [de] · FC Rotor Wolgograd [de] · FC Lokomotiv Moscow [en] · FC Tekstilshchik Ivanovo · FK Krylya Sovetov Samara · FC Chertanovo Moscow [en] · FC Ural Sverdlovsk Oblast · FC Zenit Saint Petersburg · FC Chayka Peschanokopskoye · FC Neftekhimik Nizhnekamsk · FC Chernomorets Novorossiysk · Football Club Ural Sverdlovsk Oblast
+- **G** (1): Gazovik Orenburg
 - **K** (11): Kuban · Khimki · Kuban' · Krasnodar · Krylia Sovetov · Krylya Sovetov · Kryl'ia Sovetov · Kuban Krasnodar · Krasnodar Krasnodar · Kryliya Sovetov [de] · Krylia Sovetov Samara
-- **L** (6): Luch · Lokomotiv · Loko Moscow [en] · Lokomotiv Moskva · Lokomotiv Moscow [en] · Luch Energia Vladivostok
+- **L** (9): Luch · Lokomotiv · Lok Moskau [de] · Loko Moscow [en] · Lokomotiv Moskva · Luch Vladivostok · Lokomotiv Moscow [en] · Luch Wladivostok [de] · Luch Energia Vladivostok
 - **M** (4): Moskva · Mordovia · M. Saransk · Mordovia Saransk
-- **N** (3): Nalchik · Nizhny Novgorod · Nizhnii Novgorod
+- **N** (4): Nalchik · Nizhny Novgorod · Nizhnii Novgorod · Neftekhimik Nizhnekamsk
 - **O** (1): Orenburg
 - **P** (8): PFK CSCA · PFC Sochi · PFC CSKA Moskva · PFC CSKA Moscow [en] · PFK CSKA Moscow [en] · PFC Krylia Sovetov Samara · PFC Krylya Sovetov Samara · Professional Football Club Sochi
-- **R** (5): Rotor · Rubin · Rostov · Rubin Kazan · Rostov Rostov-on-Don
-- **S** (16): Sibir · Sochi · Sokol · Samara · Saturn · Sibir' · Shinnik · Spartak · SKA Energia · SKA-Energiia · SKA Khabarovsk · Spartak Moskva · Spartak Nalchik · Shinnik Yaroslavl · Spartak Moscow [en] · Spartak Moskau [de]
-- **T** (13): Tom · Tom' · Terek · Tomsk · Tosno · Tambov · Torpedo · Tom Tomsk · Terek Grozny · Tekstilshchik · T. Moscow [en] · Torpedo Moskva · Torpedo Moscow [en]
+- **R** (6): Rotor · Rubin · Rostov · Rubin Kazan · Rotor Volgograd · Rostov Rostov-on-Don
+- **S** (18): Sibir · Sochi · Sokol · Samara · Saturn · Sibir' · Shinnik · Spartak · SKA Energia · SKA-Energiia · SKA Khabarovsk · Spartak Moskva · Spartak Nalchik · Shinnik Yaroslavl · Spartak Moskva II · Spartak Moscow [en] · Spartak Moskau [de] · Spartak Moskau II [de]
+- **T** (14): Tom · Tom' · Terek · Tomsk · Tosno · Tambov · Torpedo · Tom Tomsk · Terek Grozny · Tekstilshchik · T. Moscow [en] · Torpedo Moskva · Torpedo Armavir · Torpedo Moscow [en]
 - **U** (6): Ufa · Ural · Uralan · Ufa Ufa · Ural Yekaterinburg · Ural Jekaterinburg [de]
 - **V** (5): Volga · Vladikavkaz · Volgar-Astrakhan · Volga N. Novgorod · Volga Nizhnii Novgorod
-- **Y** (1): Yenisey
-- **Z** (5): Zenit · Zenit Petersb. · Zenit Petersburg · Zenit St. Petersburg · Zenit Saint Petersburg
+- **Y** (2): Yenisey · Yenisey Krasnoyarsk
+- **Z** (8): Zenit · Zenit Petersb. · Zenit St. Peter · ZSKA Moskau [de] · Zenit Petersburg · Zenit St. Petersb. · Zenit St. Petersburg · Zenit Saint Petersburg
 
 
 

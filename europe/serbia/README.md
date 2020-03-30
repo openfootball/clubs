@@ -1,7 +1,7 @@
 21 clubs
 
 - **Red Star Belgrade** : (5) Red Star · Crvena zvezda · Crvena Zvezda · FK Crvena zvezda · Roter Stern B. [de]
-- **FK Partizan Belgrade** : (3) Partizan · FK Partizan · Partizan Belgrade
+- **FK Partizan Belgrade** : (5) Partizan · FK Partizan · Partizan Beograd · Partizan Belgrade · Partizan Belgrad [de]
 - **OFK Beograd**
 - **FK Rad Belgrade** : (2) Rad · FK Rad
 - **FK Vojvodina** : (1) Vojvodina
@@ -48,7 +48,7 @@ By City
 
 - **Belgrade** (4): 
   - Red Star Belgrade  (5) Crvena Zvezda · Crvena zvezda · FK Crvena zvezda · Red Star · Roter Stern B. [de]
-  - FK Partizan Belgrade  (3) Partizan · FK Partizan · Partizan Belgrade
+  - FK Partizan Belgrade  (5) Partizan · FK Partizan · Partizan Belgrade · Partizan Beograd · Partizan Belgrad [de]
   - OFK Beograd 
   - FK Rad Belgrade  (2) FK Rad · Rad
 - ? (17): 
@@ -99,7 +99,7 @@ By A to Z
 - **M** (2): Macva Sabac · Mladost Lučani
 - **N** (1): Napredak
 - **O** (1): OFK Beograd
-- **P** (3): Partizan · Proleter · Partizan Belgrade
+- **P** (5): Partizan · Proleter · Partizan Beograd · Partizan Belgrade · Partizan Belgrad [de]
 - **R** (6): Rad · Red Star · Radnicki Niš · Radnik Surdulica · Red Star Belgrade · Roter Stern B. [de]
 - **S** (2): Sloboda Užice · Spartak Subotica
 - **V** (2): Voždovac · Vojvodina

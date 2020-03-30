@@ -7,7 +7,7 @@
 - **UN Käerjéng 97** ⇒ (2) ≈UN Kaerjeng 97≈ · ≈UN Kaeerjéng 97≈
 - **CS Fola Esch** : (1) Fola
 - **Racing FC Union Lëtzebuerg** : (1) Racing Union ⇒ (1) ≈Racing FC Union Letzebuerg≈
-- **FC Progrès Niederkorn** : (1) Progrès ⇒ (2) ≈Progres≈ · ≈FC Progres Niederkorn≈
+- **FC Progrès Niederkorn** : (2) Progrès · P. Niederkorn ⇒ (2) ≈Progres≈ · ≈FC Progres Niederkorn≈
 - **US Mondorf-les-Bains** : (1) Mondorf-les-Bains
 - **FC Union Titus Pétange** : (1) Union Titus ⇒ (1) ≈FC Union Titus Petange≈
 - **FC UNA Strassen** : (1) UNA Strassen
@@ -47,7 +47,7 @@ By City
   - UN Käerjéng 97 
   - CS Fola Esch  (1) Fola
   - Racing FC Union Lëtzebuerg  (1) Racing Union
-  - FC Progrès Niederkorn  (1) Progrès
+  - FC Progrès Niederkorn  (2) Progrès · P. Niederkorn
   - US Mondorf-les-Bains  (1) Mondorf-les-Bains
   - FC Union Titus Pétange  (1) Union Titus
   - FC UNA Strassen  (1) UNA Strassen
@@ -87,7 +87,7 @@ By A to Z
 - **H** (1): Hostert
 - **J** (2): Jeunesse Esch · Jeunesse d'Esch
 - **M** (2): Muhlenbach · Mondorf-les-Bains
-- **P** (1): Progrès
+- **P** (2): Progrès · P. Niederkorn
 - **R** (4): Rodange · Rosport · Racing Union · Racing FC Union Lëtzebuerg
 - **U** (5): US Hostert · Union Titus · UNA Strassen · UN Käerjéng 97 · US Mondorf-les-Bains
 

@@ -1,14 +1,14 @@
 14 clubs
 
-- **FK RFS** : (3) RFS · JFK Olimps/RFS · FK Rīgas Futbola Skola ⇒ (1) ≈FK Rigas Futbola Skola≈
-- **Riga FC** : (1) Riga
+- **FK RFS** : (4) RFS · JFK Olimps/RFS · Rīgas Futb. Skola · FK Rīgas Futbola Skola ⇒ (2) ≈Rigas Futb. Skola≈ · ≈FK Rigas Futbola Skola≈
+- **Riga FC** : (2) Riga · FC Riga
 - **FS METTA** : (3) METTA · FS METTA/LU · FS METTA/Latvijas Universitāte ⇒ (1) ≈FS METTA/Latvijas Universitate≈
 - **FC Daugava Rīga** ⇒ (1) ≈FC Daugava Riga≈
 - **FK Ventspils** : (1) Ventspils
 - **FK Liepāja** : (1) Liepāja ⇒ (2) ≈Liepaja≈ · ≈FK Liepaja≈
 - **SK Liepājas Metalurgs** ⇒ (1) ≈SK Liepajas Metalurgs≈
 - **FK Jelgava** : (1) Jelgava
-- **FK Valmiera**
+- **FK Valmiera** : (1) Valmiera FK
 - **FK Spartaks Jūrmala** : (1) Spartaks Jūrmala ⇒ (2) ≈Spartaks Jurmala≈ · ≈FK Spartaks Jurmala≈
 - **FC Daugava Daugavpils** : (1) FC Daugava
 - **BFC Daugavpils** : (1) Daugavpils
@@ -22,7 +22,7 @@ Alphabet
 
 - **Alphabet Specials** (3):  **ā**  **ī**  **ū** 
   - **ā**×4 U+0101 (257) - LATIN SMALL LETTER A WITH MACRON ⇒ a
-  - **ī**×2 U+012B (299) - LATIN SMALL LETTER I WITH MACRON ⇒ i
+  - **ī**×3 U+012B (299) - LATIN SMALL LETTER I WITH MACRON ⇒ i
   - **ū**×2 U+016B (363) - LATIN SMALL LETTER U WITH MACRON ⇒ u
 
 
@@ -37,8 +37,8 @@ Duplicates
 By City
 
 - **Riga** (4): 
-  - FK RFS  (3) RFS · FK Rīgas Futbola Skola · JFK Olimps/RFS
-  - Riga FC  (1) Riga
+  - FK RFS  (4) RFS · Rīgas Futb. Skola · FK Rīgas Futbola Skola · JFK Olimps/RFS
+  - Riga FC  (2) Riga · FC Riga
   - FS METTA  (3) METTA · FS METTA/LU · FS METTA/Latvijas Universitāte
   - FC Daugava Rīga 
 - **Daugavpils** (2): 
@@ -49,7 +49,7 @@ By City
   - SK Liepājas Metalurgs 
 - **Jelgava** (1): FK Jelgava  (1) Jelgava
 - **Jūrmala** (1): FK Spartaks Jūrmala  (1) Spartaks Jūrmala
-- **Valmiera** (1): FK Valmiera 
+- **Valmiera** (1): FK Valmiera  (1) Valmiera FK
 - **Ventspils** (1): FK Ventspils  (1) Ventspils
 - ? (2): 
   - FC Dinaburg 
@@ -84,13 +84,13 @@ By A to Z
 
 - **B** (1): BFC Daugavpils
 - **D** (1): Daugavpils
-- **F** (14): FK RFS · FS METTA · FC Daugava · FK Jelgava · FK Liepāja · FC Dinaburg · FK Valmiera · FS METTA/LU · FK Ventspils · FC Daugava Rīga · FK Spartaks Jūrmala · FC Daugava Daugavpils · FK Rīgas Futbola Skola · FS METTA/Latvijas Universitāte
+- **F** (15): FK RFS · FC Riga · FS METTA · FC Daugava · FK Jelgava · FK Liepāja · FC Dinaburg · FK Valmiera · FS METTA/LU · FK Ventspils · FC Daugava Rīga · FK Spartaks Jūrmala · FC Daugava Daugavpils · FK Rīgas Futbola Skola · FS METTA/Latvijas Universitāte
 - **J** (2): Jelgava · JFK Olimps/RFS
 - **L** (1): Liepāja
 - **M** (1): METTA
-- **R** (3): RFS · Riga · Riga FC
+- **R** (4): RFS · Riga · Riga FC · Rīgas Futb. Skola
 - **S** (4): Skonto · Skonto FC · Spartaks Jūrmala · SK Liepājas Metalurgs
-- **V** (1): Ventspils
+- **V** (2): Ventspils · Valmiera FK
 
 
 

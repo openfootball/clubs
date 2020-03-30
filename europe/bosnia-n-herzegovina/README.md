@@ -4,12 +4,12 @@
 - **FK Slavija Sarajevo** : (1) Slavija
 - **FK Olimpic Sarajevo** : (1) Olimpic Sarajevo
 - **FK Željezničar** : (1) Željezničar ⇒ (2) ≈Zeljeznicar≈ · ≈FK Zeljeznicar≈
-- **HŠK Zrinjski** : (2) Zrinjski · Zrinjski Mostar ⇒ (1) ≈HSK Zrinjski≈
+- **HŠK Zrinjski** : (3) Zrinjski · Zrinjs. Mostar · Zrinjski Mostar ⇒ (1) ≈HSK Zrinjski≈
 - **NK Široki Brijeg** : (1) Široki Brijeg ⇒ (2) ≈Siroki Brijeg≈ · ≈NK Siroki Brijeg≈
 - **FK Borac Banja Luka** : (1) Borac
 - **FK Modriča** ⇒ (1) ≈FK Modrica≈
 - **FK Sloboda Tuzla** : (1) Sloboda
-- **FK Radnik Bijeljina** : (1) Radnik Bijeljina
+- **FK Radnik Bijeljina** : (2) Radnik Bijelji · Radnik Bijeljina
 - **Sloga Simin Han**
 - **NK Čelik Zenica** : (1) Čelik ⇒ (2) ≈Celik≈ · ≈NK Celik Zenica≈
 - **FK Mladost Doboj Kakanj** : (1) Mladost Doboj Kakanj
@@ -44,12 +44,12 @@ By City
   - FK Slavija Sarajevo  (1) Slavija
   - FK Olimpic Sarajevo  (1) Olimpic Sarajevo
   - FK Željezničar  (1) Željezničar
-  - HŠK Zrinjski  (2) Zrinjski · Zrinjski Mostar
+  - HŠK Zrinjski  (3) Zrinjski · Zrinjs. Mostar · Zrinjski Mostar
   - NK Široki Brijeg  (1) Široki Brijeg
   - FK Borac Banja Luka  (1) Borac
   - FK Modriča 
   - FK Sloboda Tuzla  (1) Sloboda
-  - FK Radnik Bijeljina  (1) Radnik Bijeljina
+  - FK Radnik Bijeljina  (2) Radnik Bijelji · Radnik Bijeljina
   - Sloga Simin Han 
   - NK Čelik Zenica  (1) Čelik
   - FK Mladost Doboj Kakanj  (1) Mladost Doboj Kakanj
@@ -82,10 +82,10 @@ By A to Z
 - **M** (1): Mladost Doboj Kakanj
 - **N** (2): NK Čelik Zenica · NK Široki Brijeg
 - **O** (1): Olimpic Sarajevo
-- **R** (1): Radnik Bijeljina
+- **R** (2): Radnik Bijelji · Radnik Bijeljina
 - **S** (4): Slavija · Sloboda · Sarajevo · Sloga Simin Han
 - **V** (1): Velež
-- **Z** (3): Zrinjski · Zvijezda 09 · Zrinjski Mostar
+- **Z** (4): Zrinjski · Zvijezda 09 · Zrinjs. Mostar · Zrinjski Mostar
 - **Č** (1): Čelik
 - **Š** (1): Široki Brijeg
 - **Ž** (1): Željezničar

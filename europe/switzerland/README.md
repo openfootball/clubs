@@ -17,7 +17,7 @@
 - [**Xamax Neuchâtel**](https://en.wikipedia.org/wiki/Neuchâtel_Xamax_FCS) : (4) Xamax · Neuchâtel Xam · Neuchâtel Xamax FC · Neuchâtel Xamax FCS ⇒ (4) ≈Neuchatel Xam≈ · ≈Xamax Neuchatel≈ · ≈Neuchatel Xamax FC≈ · ≈Neuchatel Xamax FCS≈
 - [**FC Lausanne**](https://en.wikipedia.org/wiki/FC_Lausanne-Sport) : (2) Lausanne · FC Lausanne-Sport
 - **FC Le Mont** : (1) FC Le Mont-sur-Lausanne,
-- **Servette FC** : (3) Servette · Servette Genève · Servette FC Genève ⇒ (2) ≈Servette Geneve≈ · ≈Servette FC Geneve≈
+- **Servette FC** : (4) Servette · Servette Genève · Servette FC Genève · FC Servette Genf [de] ⇒ (2) ≈Servette Geneve≈ · ≈Servette FC Geneve≈
 - [**FC Lugano**](https://en.wikipedia.org/wiki/FC_Lugano) : (1) Lugano
 - **FC Chiasso** : (1) Chiasso
 - **FC Locarno** : (1) Locarno
@@ -53,7 +53,7 @@ By City
 - **Bern, Bern** (1): BSC Young Boys  (5) Young Boys · Young Boys Bern · Berner Sport Club Young Boys · BSC YB · YB Bern
 - **Biel/Bienne, Bern** (1): FC Biel-Bienne  (1) Biel-Bienne
 - **Chiasso, Ticino** (1): FC Chiasso  (1) Chiasso
-- **Genève, Genève** (1): Servette FC  (3) Servette · Servette Genève · Servette FC Genève
+- **Genève, Genève** (1): Servette FC  (4) Servette · Servette Genève · Servette FC Genève · FC Servette Genf [de]
 - **Lausanne, Lausanne** (1): FC Lausanne  (2) Lausanne · FC Lausanne-Sport
 - **Le Mont-sur-Lausanne, Lausanne** (1): FC Le Mont  (1) FC Le Mont-sur-Lausanne,
 - **Locarno, Ticino** (1): FC Locarno  (1) Locarno
@@ -118,7 +118,7 @@ By A to Z
 - **A** (2): Aarau · AC Bellinzona
 - **B** (6): Basel · BSC YB · Bellinzona · Biel-Bienne · BSC Young Boys · Berner Sport Club Young Boys
 - **C** (1): Chiasso
-- **F** (22): FC Wil · FC Sion · FC Thun · FC Aarau · FC Basel · FC Lugano · FC Luzern · FC Wohlen · FC Zürich · FC Chiasso · FC Le Mont · FC Locarno · FC Lausanne · FC Wil 1900 · FC Thun 1898 · FC Basel 1893 · FC St. Gallen · FC Winterthur · FC Biel-Bienne · FC Schaffhausen · FC Lausanne-Sport · FC Le Mont-sur-Lausanne,
+- **F** (23): FC Wil · FC Sion · FC Thun · FC Aarau · FC Basel · FC Lugano · FC Luzern · FC Wohlen · FC Zürich · FC Chiasso · FC Le Mont · FC Locarno · FC Lausanne · FC Wil 1900 · FC Thun 1898 · FC Basel 1893 · FC St. Gallen · FC Winterthur · FC Biel-Bienne · FC Schaffhausen · FC Lausanne-Sport · FC Servette Genf [de] · FC Le Mont-sur-Lausanne,
 - **G** (3): Grasshoppers · Grasshoppers Zürich · Grasshopper Club Zürich
 - **L** (4): Lugano · Luzern · Locarno · Lausanne
 - **N** (3): Neuchâtel Xam · Neuchâtel Xamax FC · Neuchâtel Xamax FCS

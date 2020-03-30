@@ -1,13 +1,14 @@
-9 clubs
+10 clubs
 
-- **Adelaide United** : (1) Adelaide
-- **Brisbane Roar** : (1) Brisbane
 - **Sydney FC**
-- **Western Sydney Wanderers** : (2) W Sydney · WS Wanderers FC
+- **Western Sydney Wanderers** : (3) W Sydney · Western Sydney · WS Wanderers FC
 - **Central Coast Mariners** : (1) Central Coast
 - **Newcastle United Jets** : (2) Newcastle · Newcastle Jets
-- **Melbourne Heart** : (1) Melb City
+- **Melbourne City FC** : (2) Melb City · Melbourne Heart
 - **Melbourne Victory** : (1) Melb Victory
+- **Western United** : (1) Western United FC
+- **Brisbane Roar** : (1) Brisbane
+- **Adelaide United** : (2) Adelaide · Adelaide United FC
 - **Perth Glory**
 
 
@@ -29,14 +30,15 @@ Duplicates
 By City
 
 - **Melbourne, Victoria** (2): 
-  - Melbourne Heart  (1) Melb City
+  - Melbourne City FC  (2) Melb City · Melbourne Heart
   - Melbourne Victory  (1) Melb Victory
 - **Sydney, New South Wales** (2): 
   - Sydney FC 
-  - Western Sydney Wanderers  (2) W Sydney · WS Wanderers FC
-- **Adelaide, South Australia** (1): Adelaide United  (1) Adelaide
+  - Western Sydney Wanderers  (3) W Sydney · Western Sydney · WS Wanderers FC
+- **Adelaide, South Australia** (1): Adelaide United  (2) Adelaide · Adelaide United FC
 - **Brisbane Roar, Queensland** (1): Brisbane Roar  (1) Brisbane
-- **Gosford, Central Coast › New South Wales** (1): Central Coast Mariners  (1) Central Coast
+- **Geelong, Victoria** (1): Western United  (1) Western United FC
+- **Gosford, New South Wales** (1): Central Coast Mariners  (1) Central Coast
 - **Newcastle, New South Wales** (1): Newcastle United Jets  (2) Newcastle · Newcastle Jets
 - **Perth, Western Australia** (1): Perth Glory 
 
@@ -45,11 +47,10 @@ By City
 
 By Region
 
-- **South Australia** (1):   Adelaide United
+- **New South Wales** (4):   Sydney FC · Western Sydney Wanderers · Central Coast Mariners · Newcastle United Jets
+- **Victoria** (3):   Melbourne City FC · Melbourne Victory · Western United
 - **Queensland** (1):   Brisbane Roar
-- **New South Wales** (3):   Sydney FC · Western Sydney Wanderers · Newcastle United Jets
-- **Central Coast › New South Wales** (1):   Central Coast Mariners
-- **Victoria** (2):   Melbourne Heart · Melbourne Victory
+- **South Australia** (1):   Adelaide United
 - **Western Australia** (1):   Perth Glory
 
 
@@ -57,7 +58,7 @@ By Region
 
 By Year
 
-- ? (9):   Adelaide United · Brisbane Roar · Sydney FC · Western Sydney Wanderers · Central Coast Mariners · Newcastle United Jets · Melbourne Heart · Melbourne Victory · Perth Glory
+- ? (10):   Sydney FC · Western Sydney Wanderers · Central Coast Mariners · Newcastle United Jets · Melbourne City FC · Melbourne Victory · Western United · Brisbane Roar · Adelaide United · Perth Glory
 
 
 
@@ -66,14 +67,14 @@ By Year
 
 By A to Z
 
-- **A** (2): Adelaide · Adelaide United
+- **A** (3): Adelaide · Adelaide United · Adelaide United FC
 - **B** (2): Brisbane · Brisbane Roar
 - **C** (2): Central Coast · Central Coast Mariners
-- **M** (4): Melb City · Melb Victory · Melbourne Heart · Melbourne Victory
+- **M** (5): Melb City · Melb Victory · Melbourne Heart · Melbourne City FC · Melbourne Victory
 - **N** (3): Newcastle · Newcastle Jets · Newcastle United Jets
 - **P** (1): Perth Glory
 - **S** (1): Sydney FC
-- **W** (3): W Sydney · WS Wanderers FC · Western Sydney Wanderers
+- **W** (6): W Sydney · Western Sydney · Western United · WS Wanderers FC · Western United FC · Western Sydney Wanderers
 
 
 

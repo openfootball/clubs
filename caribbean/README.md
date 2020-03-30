@@ -1,4 +1,6 @@
-3 datafiles, 5 clubs
+4 datafiles, 13 clubs
+
+**caribbean/anguilla/ai.clubs.txt** _(8)_:  ALHCS Spartan FC · Diamond FC · Docks United FC · Enforcers FC · Kicks United FC · Roaring Lions FC · Salsa Ballers FC · Up Rising FC
 
 **caribbean/haiti/ht.clubs.txt** _(2)_:  Tempête FC · Valencia FC
 
