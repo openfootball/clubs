@@ -31,6 +31,9 @@ Fatih Karagümrük,  İstanbul (Fatih)
 
 Tuzlaspor,  İstanbul (Tuzla)
 
+Ümraniyespor,  İstanbul (Ümraniye)
+  | CG Ümraniyespor | Ümraniyespor Kulubu
+
 
 Gençlerbirliği Ankara SK, 1923,   Ankara
   | Gençlerbirliği | Gençlerbirliği Ankara
@@ -104,6 +107,8 @@ Altınordu, İzmir
 Menemenspor,  Menemen    # İzmir
   | Menemen Spor Kulübü
   | Menemen Belediye
+  | Menemen Belediyespor
+  | EG Menemenspor
 
 Kayserispor,   1966,     Kayseri
   | Kayseri | Kayseri Spor Kulübü
@@ -187,3 +192,8 @@ Giresunspor, Giresun
 Erzincanspor,  Erzincan
   | An. Erzincanspor
   | 24 Erzincan | 24 Erzincan Spor Kulübü
+
+Akhisarspor,    Akhisar
+  | Akhisar Belediyespor | Akhisar Belediye Gençlik ve Spor Kulübü
+  
+Hatayspor,  1967,  Antakya       # Hatay Province
