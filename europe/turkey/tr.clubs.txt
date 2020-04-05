@@ -83,8 +83,10 @@ Elazığspor,            Elazığ
 Eskişehirspor,         Eskişehir
 
 
-Akhisar Belediyespor, Akhisar
-  | Akhisar | Akhisar Bld.spor
+Akhisarspor,   Akhisar
+  | Akhisar | Akhisar Bld.spor | Akhisar Belediyespor | Akhisar Belediye Gençlik ve Spor Kulübü
+  
+
 Alanyaspor,  Alanya
 Antalyaspor, 1966, Antalya
   | Antalya | Antalyaspor Kulübü
@@ -193,7 +195,4 @@ Erzincanspor,  Erzincan
   | An. Erzincanspor
   | 24 Erzincan | 24 Erzincan Spor Kulübü
 
-Akhisarspor,    Akhisar
-  | Akhisar Belediyespor | Akhisar Belediye Gençlik ve Spor Kulübü
-  
 Hatayspor,  1967,  Antakya       # Hatay Province
