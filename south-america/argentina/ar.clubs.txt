@@ -155,8 +155,8 @@ Independiente Rivadavia,  Mendoza
 
 == Provincia San Juan ==
 
-San Martín,    San Juan
-  | San Martín SJ | San Martín San Juan | Club Atlético San Martín
+San Martín San Juan,    San Juan
+  | San Martín | San Martín SJ | Club Atlético San Martín
 
 
 ==  Provincia Jujuy == 
