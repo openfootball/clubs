@@ -35,3 +35,7 @@ Carrick Rangers FC
   | FC Carrick Rangers
 Warrenpoint Town FC
   | Warrenpoint
+
+Ards FC,  1900     #  champs (1): 1958/59
+  | Ards
+  

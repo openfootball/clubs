@@ -77,7 +77,9 @@ Levadiakos FC,       Livadeia › Central Greece
 
 AE Larissa FC,       Larissa › Thessaly
   | Larissa | Larissa FC | AE Larissa
-  | Larisa
+  | Larisa | AE Larisa
+
+
 PAS Lamia 1964,      Lamia › Central Greece
   | Lamia | PAS Lamia | Lamia 1964
 Kerkyra FC,          Corfu › Ionian Islands

@@ -8,6 +8,11 @@ FC København, 1992,    København         ## Copenhagen [en]
   | FC Copenhagen [en]
   | FC Kopenhagen [de]
 
+B 1903 København,     København      # champs (3): 1977/78 1972..1970 (2)
+  | B 1903 | Boldklubben 1903    
+## In 1992 merged with Kjøbenhavns Boldklub (KB) 
+##    to form the current club FC Copenhagen
+
 BK Fremad Amager,    København
 Brønshøj BK,         København
   | Brønshøj Boldklub
@@ -19,6 +24,7 @@ Vanløse IF,          København
 
 Akademisk Boldklub,  Gladsaxe   # north of Copenhagen 
   | AB Gladsaxe |  Akademisk Boldklub Gladsaxe
+  | Akademisk BK
 
 Brøndby IF, 1964,    Brøndbyvester       ## use Brøndby ??
   | Brøndby | Brøndbyernes Idrætsforening
@@ -49,7 +55,8 @@ FC Midtjylland, 1999,   Herning
   | Midtjylland | Football Club Midtjylland
 
 AGF Aarhus, 1880,   Aarhus
-  | AGF | Aarhus | Aarhus Gymnastikforening
+  | AGF | Aarhus 
+  | Aarhus GF | Aarhus Gymnastikforening
 
 Viborg FF, 1896,    Viborg
   | Viborg | Viborg Fodsports Forening
@@ -72,6 +79,11 @@ Sønderjysk Elitesport, 2004,   Haderslev
 
 Odense BK, 1887,      Odense
   | OB | Odense | Odense Boldklub
+
+B 1909 Odense, Odense    # champs (3): 1966..1964 (2) 1959/60
+  | B 1909 | Boldklubben 1909 
+B 1913 Odense, Odense    # champs (1): 1961/62
+  | B 1913 | Boldklubben 1913
 
 Esbjerg fB, 1924,    Esbjerg
   | Esbjerg | Esbjerg forenede Boldklubber

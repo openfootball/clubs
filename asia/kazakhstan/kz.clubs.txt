@@ -5,6 +5,11 @@ FC Astana, 2009
   | Astana | Football Club Astana
   | Astana FK
 
+FC Astana-1964     #  champs (2): 2007/08 2002/03
+  | Astana-64 | Astana-1964
+# note: Not to be confused with FC Astana !!!
+
+
 FC Aktobe
   | Aktobe
 FC Shakhter Karagandy

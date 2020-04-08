@@ -21,3 +21,6 @@ TB Tvøroyri
   | TB
 AB Argir
   | AB
+
+B68 Toftir       # champs (1): 1993/94
+  | B68 | Tofta Ítróttarfelag 

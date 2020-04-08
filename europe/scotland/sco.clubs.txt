@@ -22,6 +22,8 @@ Edinburgh City,          Edinburgh
 Aberdeen FC, 1903, Aberdeen
   | Aberdeen
   | FC Aberdeen
+  | Abderden    ## typo - fix in champs csv datafile!!!!
+
 Cove Rangers FC, 1922, Aberdeen (Cove Bay)
   | Cove Rangers | Cove Rangers Football Club
 

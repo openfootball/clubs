@@ -15,6 +15,9 @@ FC Shirak
   | Shirak
 FC Ararat
   | Ararat
+
+Araks Ararat (-2005)       # champs (2): 2001/02 1999/00
+
 Alashkert FC
   | Alashkert
 
