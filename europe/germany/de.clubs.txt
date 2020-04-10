@@ -341,6 +341,7 @@ Eintracht Frankfurt, 1899,   Frankfurt am Main › Hessen
   | Frankfurt
   | E. Frankfurt | Ein Frankfurt | Eint Frankfurt | Eintr. Frankfurt
   | SG Eintracht Frankfurt
+  | Frankfurter SG Eintracht | Frankfurter Sportgemeinde Eintracht     # champs (1): 1959/60
  Mörfelder Landstraße 362 // 60528 Frankfurt am Main
  
 FSV Frankfurt, 1899,       Frankfurt am Main › Hessen
@@ -411,11 +412,24 @@ RB Leipzig, 2009,     Leipzig › Sachsen
 VfB Leipzig (-2004),  Leipzig › Sachsen     ## note: 2004 aufgelöst in bl 1993/94
   | Leipzig
 
-Chemnitzer FC,       Chemnitz › Sachsen
+BSG Chemie Leipzig,  Leipzig     # champs (1): 1964/65
+  | Betriebssportgemeinschaft Chemie Leipzig
+
+Chemnitzer FC, 1966       Chemnitz › Sachsen
   | Chemnitz
+  | FC Karl-Marx-Stadt     # champs (1): 1967/68
+# wurde 1966 als Fußballclub Karl-Marx-Stadt gegründet.
+
+
 FC Erzgebirge Aue, 1949,   Aue      › Sachsen
   | Aue  | Erzgebirge Aue
+  | SC Wismut Karl-Marx-Stadt    # champs (3): 1960/61 1959..1957 (2)
  Lößnitzer Straße 95 // 08280 Aue
+# In 1954 the East German government decided that the nearby city of Chemnitz
+# —recently renamed Karl-Marx-Stadt—deserved a quality team and so, 
+# there were plans for the club to move to Karl-Marx-Stadt 
+# and to be renamed SC Wismut Karl-Marx-Stadt.
+
  
 FSV Zwickau,        Zwickau  › Sachsen
   | Zwickau
@@ -433,7 +447,11 @@ Hallescher FC
 
 FC Carl Zeiss Jena,  Jena   › Thüringen
   | CZ Jena | Carl Zeiss Jena
+  | SC Motor Jena    # champs (1): 1963/64  
+#  Renamed SC Motor Jena in 1954
+
 SV Schott Jena
+
 
 FC Rot-Weiß Erfurt,  Erfurt › Thüringen
   | Erfurt | RW Erfurt | Rot-Weiß Erfurt

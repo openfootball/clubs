@@ -7,6 +7,9 @@ PFC CSKA Sofia, 1948,       Sofia      ## CDNA Sofia old name - add year?
   | ZSKA Sofia [de]
 PFC Levski Sofia, 1914,     Sofia
   | Levski Sofia | Levski | Professional Football Club Levski Sofia
+  | Vitosha Sofia   # champs (1): 1988/89
+# Vitosha Sofia 1985-1989  
+
 PFC Slavia Sofia, 1913,     Sofia
   | Slavia Sofia | Professional Football Club Slavia Sofia
 PFC Lokomotiv Sofia, 1929,  Sofia
@@ -14,12 +17,20 @@ PFC Lokomotiv Sofia, 1929,  Sofia
 Tsarsko Selo Sofia, 2015,   Sofia
   | FC Tsarsko Selo Sofia
 
+
+
 PFC Botev Plovdiv, 1912,       Plovdiv
   | Botev Plovdiv
+  | Trakia Plovdiv    # champs (2): 1985/86 1967/68
+
 PFC Lokomotiv Plovdiv, 1926,   Plovdiv
   | Lokomotiv Plovdiv
   | PFC Lokomotiv Plovdiv 1926
   | PFC Lokomotiv Plovdiv 1936    ## todo/check: if 1936 is error (used by wikipedia?)
+
+Spartak Plovdiv, 1947,  Plovdiv      # champs (1): 1963/64
+  | FC Spartak Plovdiv
+
 
 PFC Litex Lovech, 1921,        Lovech
   | Litex | Professional Football Club Litex Lovech
@@ -34,6 +45,8 @@ PFC Ludogorets Razgrad, 1945,  Razgrad
 PFC Beroe Stara Zagora, 1916,   Stara Zagora
   | Beroe | Professional Football Club Beroe
   | Beroe Stara Zag.
+  | PFC Beroe     # champs (1): 1986/87
+
 PFC Montana, 1921,    Montana
   | Montana | PFC Montana 1921 | Professional Football Club Montana
 
@@ -50,6 +63,8 @@ POFC Botev Vratsa,  Vratsa
 
 SFC Etar Veliko Tarnovo,  Veliko Tarnovo
   | Et. Veliko Tarnovo
+  | Etar Tarnovo   # champs (1): 1991/92
+
 
 Arda
 

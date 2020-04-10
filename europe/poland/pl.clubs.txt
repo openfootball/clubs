@@ -9,6 +9,9 @@ Legia Warszawa,        Warszawa      ## Warsaw [en]
 KSP Polonia Warszawa,  Warszawa
   | Polonia Warszawa
 
+Gwardia Warszawa,  1948,  Warszawa   # champs (2): 1957/58 1955/56
+
+
 Górnik Zabrze,   Zabrze
   | Górnik Z.
 
@@ -89,3 +92,11 @@ Chrobry Głogów, Głogów
 OKS Stomil Olsztyn,  Olsztyn
   | Stomil Olsztyn
   | OKS 1945 Olsztyn    # Between 2004 and 2012 the team was known as OKS 1945 Olsztyn
+
+
+Polonia Bytom, 1920,  Bytom                 # champs (2): 1962/63 1958/59
+Szombierki Bytom, 1919, Bytom (Szombierki)  # champs (1): 1980/81
+
+Stal Mielec, 1939, Mielec   # champs (2): 1976/77 1973/74
+  | FKS Stal Mielec
+

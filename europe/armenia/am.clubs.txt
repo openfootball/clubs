@@ -4,6 +4,8 @@
 FC Pyunik
   | Pyunik
 Ulisses FC
+  | Ulisses     # champs (1): 2012/13
+
 FC Mika
 FC Gandzasar
   | Gandzasar

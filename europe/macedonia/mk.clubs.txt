@@ -5,14 +5,22 @@ FK Metalurg Skopje
 FK Makedonija Skopje
   | Makedonija | FK Makedonija GP Skopje
 
+FK Vardar
+  | Vardar
+  | Vardar Skopje    # champs (6): 2015/16 2014..2012 (2) 2004..2002 (2) 1987/88
+
+Sloga Jugomagnat Skopje (1927-2009), Skopje    # champs (3): 2002...1999 (3)
+  | FK Sloga Jugomagnat
+
 FK Rabotnički
   | Rabotnički | Rabotnicki | Rabotnički Skopje | FK Rabotnicki
 FK Renova
   | Renova | KF Renova
 FK Shkëndija 79
   | KF Shkëndija | Shkëndija
-FK Vardar
-  | Vardar
+
+
+
 FK Teteks
 FK Milano
 FK Pelister

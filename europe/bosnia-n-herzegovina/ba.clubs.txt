@@ -10,12 +10,19 @@ FK Olimpic Sarajevo     ## check if same as FK Sarajevo ??
 
 FK Željezničar
   | Željezničar
+  | Željezničar Sarajevo     # champs (6): 2014..2012 (2) 2010/11 2003..2001 (2) 1972/73
+
+
 HŠK Zrinjski
   | Zrinjski | Zrinjs. Mostar | Zrinjski Mostar
+  | HŠK Zrinjski Mostar    # champs (3): 2014/15 2009/10 2005/06
+
 NK Široki Brijeg
   | Široki Brijeg
 FK Borac Banja Luka
   | Borac
+  | Borac Banja Luka     # champs (1): 2011/12
+
 FK Modriča
 
 FK Sloboda Tuzla
@@ -31,3 +38,7 @@ FK Mladost Doboj Kakanj
 FK Velež
   | Velež
 Zvijezda 09
+
+NK Brotnjo, Čitluk   # champs (1): 2000/01
+  | Nogometni Klub Brotnjo
+  

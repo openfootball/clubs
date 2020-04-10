@@ -23,8 +23,16 @@ Karmiotissa Pano Polemidia,  Limassol (Pano Polemidia)
 Anorthosis Famagusta FC, Larnaca         ## note: originally based in Famagusta, now based in Larnaca
   | Anorthosis | Anorthosis Famagusta
 
-AEK Larnaca FC
+AEK Larnaca FC,  Larnaca
   | AEK Larnaca
+
+Pezoporikos Larnaca (1927-1994), Larnaca   # champs (1): 1988/89
+  | Pezoporikos Larnaca FC
+
+EPA Larnaca (1930-1994), Larnaca    # champs (1): 1970/71
+  | EPA Larnaca FC
+# merged with Pezoporikos Larnaca and formed AEK Larnaca FC.
+
 
 APOP/Kinyras Peyias FC
   | APOP

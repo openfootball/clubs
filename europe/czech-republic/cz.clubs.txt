@@ -12,6 +12,7 @@ FK Dukla Praha, 1958,  Praha
   | Dukla
   | FK Dukla Prague [en]
   | FK Dukla Prag [de] 
+  | Dukla Praha     # champs (10): 1982/83 1979/80 1977/78 1966/67 1965....1961 (4) 1959..1957 (2)
 
 SK Slavia Praha, 1892, Praha
   | Slavia Praha | Sportovní klub Slavia Praha
@@ -21,6 +22,7 @@ SK Slavia Praha, 1892, Praha
 Bohemians Praha 1905, 1905, Praha
   | Bohemians 1905
   | Bohem. Prag 1905 [de]
+  | Bohemians EKD Praha      # champs (1): 1983/84
 
 FK Viktoria Žižkov, 1903, Praha (Žižkov)
 
@@ -78,3 +80,10 @@ SK Dynamo České Budějovice
 FK Ústí nad Labem, Ústí nad Labem
 
 FC Hradec Králové, Hradec Králové 
+  | DSO Spartak Hradec Králové    # champs (1): 1960/61
+
+MFK Vítkovice,  1919,  Ostrava (Vítkovice)
+  | Městský fotbalový klub Vítkovice
+  | TJ Vítkovice    # champs (1): 1986/87
+# founded in 1919 as FC Vítkovice,
+# announced bankruptcy in 2011 and transformed to MFK Vítkovice

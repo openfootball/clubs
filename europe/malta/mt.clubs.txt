@@ -30,3 +30,7 @@ Mosta FC
   | Mosta
 Tarxien Rainbows FC
   | Tarxien
+
+Rabat Ajax, Rabat      # champs (2): 1987..1985 (2)
+  | Rabat Ajax FC
+  

@@ -6,6 +6,8 @@ UE Sant Julià
 FC Santa Coloma
 UE Santa Coloma
 FC Lusitans
+  | Lusitanos    # champs (2): 2014..2012 (2)
+
 UE Engordany
   | Engordany
 
@@ -16,3 +18,6 @@ FC Ordino
   | Ordino
 Inter Club d'Escaldes
   | Inter Escaldes
+
+FC Rànger's, Andorra la Vella
+  | Ranger's     # champs (1): 2007/08

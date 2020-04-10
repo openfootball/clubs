@@ -322,6 +322,7 @@ SC Golling
 FC Wacker Innsbruck, 1913, Innsbruck
   | Innsbruck | FC Wacker | Wacker Innsbruck
   | FC Tirol              ## note: FC Tirol old name - add year
+  | SSW Innsbruck | Spielgemeinschaft $$Swarovski$$ Wacker Innsbruck   # champs (7): 2002..2000 (2) 1977/78 1975/76 1974...1971 (3)
  Stadionstraße 1b // 6020 Innsbruck
 ii) FC Wacker Innsbruck II
   | Wacker Innsbruck II

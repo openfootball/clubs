@@ -7,12 +7,16 @@ KF Tirana,           Tirana
 FK Partizani Tirana, Tirana
   | Partizani | FK Partizani
 FK Dinamo Tirana,    Tirana
+  | Dinamo Tirana    # champs (6): 2010/11 2008/09 2002/03 1990/91 1986/87 1980/81
+
 
 KS Skënderbeu
   | Skënderbeu | Skënderbeu Korçë
   | KF Skënderbeu | KF Skënderbeu Korçë
 KS Flamurtari
   | Flamurtari | Flamurtari Vlorë
+  | KS Flamurtari Vlorë   # champs (1): 1991/92
+
 
 KF Vllaznia
   | Vllaznia

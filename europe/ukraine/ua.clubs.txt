@@ -29,6 +29,8 @@ FC Metalist Kharkiv,    Kharkiv    ## also known as Kharkov
 FC Dnipro,    Dnipropetrovsk
   | Dnipro | FC Dnipro Dnipropetrovsk | Dnipro Dnipropetrovsk
   | SC Dnipro
+  | Dnepr Dnepropetrovsk    # champs (3): 2014/15 1989/90 1984/85
+
 
 SC Dnipro-1,  2017,  Dnipropetrovsk      ## todo/check - differnt from FC Dnipro ???
   | Dnipro-1 | Sport Club Dnipro-1
@@ -41,9 +43,12 @@ FC Karpaty Lviv
   | Karpaty Lemberg [de]
 SC Tavriya Simferopol
   | Tavriya
+  | Tavriya Simferopol   # champs (1): 1992/93
+
 FC Zorya Luhansk
   | Zorya Luhansk
   | Zorya Lugansk [de] | FC Zorya Lugansk [de]
+  | Zorya Voroshilovgrad   # champs (1): 1973/74
 
 FC Mariupol
   | Mariupol

@@ -20,6 +20,8 @@ Hapoel Kiryat Shmona FC
   | H. Kiryat Shmona | Hapoel Kiryat Shmona
   | Hapoel Ironi Kiryat Shmona FC
   | Ironi K. Shmona
+  | Hapoel Ironi Kiryat Shmona     # champs (1): 2012/13
+
 Maccabi Netanya FC
   | M. Netanya | Maccabi Netanya
 

@@ -2,12 +2,24 @@
 =  Azerbaijan
 
 Bakı FK
+  | Baku    # champs (2): 2009/10 2006/07
+
 İnter Bakı PİK
+  | Inter Baku PIK    # champs (2): 2010/11 2008/09
+
 Neftçi PFK
   | Neftçi
+  | Neftchi PFC Baku   # champs (6): 2014...2011 (3) 2006..2004 (2) 1997/98
+
+Shamkir FC (1954-2017), Şəmkir
+  | Shamkir     # champs (2): 2002..2000 (2)
+
+
 Qarabağ FK
   | Qarabağ | Qarabağ Ağdam
 Xäzär Länkäran FK
+  | Khazar Lankaran   # champs (1): 2007/08
+
 Olimpik-Şüvälan PFK
 Simurq PFK
 Gabala SC
@@ -16,6 +28,8 @@ Keşla FK
   | Keşla
 Zirä FK
 Käpäz PFK
+  | Käpäz   # champs (2): 2000..1998 (2)
+
 Sabail
 Sumqayıt FK
   | Sumqayıt

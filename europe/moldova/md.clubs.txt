@@ -11,8 +11,12 @@ FC Dinamo-Auto Tiraspol
 
 FC Dacia Chisinau
   | Dacia
+  | Dacia Chisinau    # champs (1): 2011/12
+
 FC Zimbru Chisinau
   | Zimbru
+  | Zimbru Chisinau   # champs (4): 2001...1998 (3) 1993/94
+
 
 FC Iskra-Stal
   | Iskra-Stal

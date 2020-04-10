@@ -4,14 +4,31 @@
 
 Jeunesse d'Esch, Esch-sur-Alzette
   | Jeunesse Esch | AS Jeunesse Esch
+
 F91 Dudelange,   Dudelange
   | Dudelange
-FC Differdange 03
+
+Stade Dudelange (1913-1991),  Dudelange    # champs (2): 1965/66 1957/58
+#   now a part of F91 Dudelange, which was formed by the merger of
+#      Stade, Alliance Dudelange, and US Dudelange in 1991.
+
+
+FC Differdange 03,  2003,  Differdange
   | Differdange
+## Differdange 03 was formed in 2003 as an amalgam of two clubs
+#  from the city of Differdange: FA Red Boys Differdange and AS Differdange.
+
+Red Boys Differdange (1907-2003),  Differdange
+  | FA Red Boys Differdange     # champs (1): 1979/80
+# now a part of FC Differdange 03
+
 CS Grevenmacher
+  | Grevenmacher     # champs (1): 2003/04
+
 UN Käerjéng 97
 CS Fola Esch
-  | Fola
+  | Fola | Fola Esch     # champs (2): 2015/16 2013/14
+
 Racing FC Union Lëtzebuerg, Lëtzebuerg
   | Racing Union
   | Racing FC Union Luxembourg 
@@ -23,9 +40,21 @@ FC Aris Bonnevoie (-2001),  Lëtzebuerg    # champs (3): 1972/73 1966/67 1964/65
 FC Avenir Beggen, Lëtzebuerg     # champs (6): 1995..1993 (2) 1986/87 1984/85 1982/83 1969/70
   | Avenir Beggen
 
+Spora Luxemburg (1923-2005), Lëtzebuerg
+  | CA Spora Luxembourg   # champs (3): 1989/90 1961/62 1956/57
+# In 2005, Spora merged with two other clubs from Luxembourg City,
+#   CS Alliance 01 and Union Luxembourg, 
+#   to form Spora's modern incarnation, Racing FC Union Luxembourg. 
+
+Union Luxembourg (1925-2005), Lëtzebuerg        # champs (5): 1993...1990 (3) 1971/72 1962/63
+  | Union Sportive Luxembourg
+# now a part of Racing FC Union Luxembourg
+  
+
 
 FC Progrès Niederkorn
   | Progrès | P. Niederkorn
+  | Progrès Niedercorn       # champs (2): 1981/82 1978/79
 
 US Mondorf-les-Bains
   | Mondorf-les-Bains

@@ -8,10 +8,16 @@ FC København, 1992,    København         ## Copenhagen [en]
   | FC Copenhagen [en]
   | FC Kopenhagen [de]
 
-B 1903 København,     København      # champs (3): 1977/78 1972..1970 (2)
+B 1903 København (1903-1992),     København      # champs (3): 1977/78 1972..1970 (2)
   | B 1903 | Boldklubben 1903    
 ## In 1992 merged with Kjøbenhavns Boldklub (KB) 
 ##    to form the current club FC Copenhagen
+
+KB København (1876-1992),     København    # champs (4): 1981/82 1975/76 1969/70 1958/59
+  | KB | Kjøbenhavns Boldklub
+# In 1991, KB and B 1903 merged their professional football teams
+#  and formed FC Copenhagen
+
 
 BK Fremad Amager,    København
 Brønshøj BK,         København
@@ -96,7 +102,12 @@ Vejle, 1891, Vejle
 FC Vestsjælland,  Slagelse
   | Vestsjælland
 
+
 == ?? ==
+
+Køge BK,   Køge   # in Zealand
+  | Køge Boldklub    # champs (1): 1976/77
+
 
 FC Fredericia,  Fredericia
 Skive IK,       Skive

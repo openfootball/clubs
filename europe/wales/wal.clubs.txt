@@ -7,8 +7,10 @@ The New Saints FC,         Oswestry   ## in Shropshire    -- check - playing in 
 
 Bangor City FC
   | Bangor | Bangor City
+
 Llanelli AFC
-Rhyl FC
+  | Llanelli   # champs (1): 2008/09
+
 Cefn Druids AFC
   | Cefn Druids | NEWI Cefn Druids    ## NEWI = North East Wales Institute of Higher Education
 Neath FC
@@ -29,6 +31,8 @@ Aberystwyth Town FC
 Barry Town AFC
   | Barry 
   | FC Barry Town
+  | Barry Town    # champs (6): 2004...2001 (3) 2000...1997 (3)
+
 Cardiff Metropolitan University FC
   | Cardiff Met | Cardiff M.U. | Cardiff Met Uni.
 Caernarfon Town FC
@@ -56,3 +60,10 @@ Merthyr Town FC,         Merthyr Tydfil
   | Merthyr Town
 Aberdare Athletic FC (1893-1928),  Aberdare
   | Aberdare Athletic
+
+Rhyl FC,  Rhyl    # in Denbighshire
+ | Rhyl | Rhyl Football Club      # champs (2): 2009/10 2004/05
+
+Cwmbrân Town AFC,    Cwmbrân 
+  | Cwmbrân Town    # champs (1): 1993/94
+

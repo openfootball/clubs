@@ -5,10 +5,16 @@ FC Levadia Tallinn
   | Levadia | Levadia Tallinn
 FC Flora Tallinn
   | Flora
+  | Flora Tallinn     # champs (7): 2013..2011 (2) 2005...2002 (3) 2000..1998 (2)
+
 FC TVMK Tallinn
+  | TVMK     # champs (1): 2006/07
+
 FCI Tallinn
 JK Tallinna Kalev
   | Tallinna Kalev
+
+FC Norma Tallinn (1959-1997), Tallinn    # champs (2): 1994..1992 (2)
 
 
 JK Trans Narva

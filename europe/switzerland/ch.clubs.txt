@@ -51,9 +51,15 @@ Xamax Neuchâtel,              Neuchâtel
   | Xamax
   | Neuchâtel Xam | Neuchâtel Xamax FC | Neuchâtel Xamax FCS
 
+
+FC La Chaux-de-Fonds, 1894,  La Chaux-de-Fonds    # champs (1): 1964/65
+
+
 == Lausanne ==
 FC Lausanne,  1896,           Lausanne
   | Lausanne | FC Lausanne-Sport
+  | Lausanne Sports    #  champs (1): 1965/66
+
 FC Le Mont, 1942,             Le Mont-sur-Lausanne
   | FC Le Mont-sur-Lausanne,
 
@@ -71,3 +77,4 @@ FC Locarno, 1906,    Locarno
   | Locarno
 AC Bellinzona, 1904,    Bellinzona
   | Bellinzona
+

@@ -22,6 +22,8 @@ Breiðablik,          Kópavogur        # note/fix: Breidablik - auto-change ð 
   | Breidablik
 ÍBV Vestmannaeyjar,  Vestmannaeyjar
   | ÍBV
+  | ÍB Vestmannaeyja  # champs (3): 2000..1998 (2) 1980/81
+
 Stjarnan,     Garðabær
   | Stjarnan Garð. | Stjarnan Garðab.  | Stjarnan Gardab.   # note/fix: auto-change ð to d
 Grindavík,    Grindavík
@@ -34,4 +36,7 @@ KA Akureyri,   Akureyri
 Thór Akureyri,    Akureyri        # note: Þór Akureyri - auto-change Þ to Th - why? why not
   | Þór Akureyri
 
-Keflavík,      Reykjanesbær
+Keflavík ÍF,      Reykjanesbær
+  | Keflavík
+  | ÍB Keflavík      # champs (4): 1974/75 1972/73 1970/71 1965/66
+  # En 1994 adopta su actual nombre Keflavík ÍF

@@ -9,6 +9,10 @@ Ajax Amsterdam, 1900,    Amsterdam › Noord-Holland
   | Ajax Amsterd.
 ii) Jong Ajax
 
+DWS Amsterdam, Amsterdam    # champs (1): 1964/65
+  | AFC DWS | Amsterdamsche Football Club Door Wilskracht Sterk
+
+
 AZ Alkmaar, 1967,    Alkmaar    › Noord-Holland
   | AZ | Alkmaar Zaanstreek
 ii) AZ Alkmaar II
@@ -88,6 +92,12 @@ VVV Venlo, 1903,    Venlo     ## use VVV-Venlo - why? why not?
 MVV Maastricht, Maastricht
 
 
+Rapid JC Heerlen (1954-1962),  Heerlen 
+  | Rapid JC    # champs (1): 1956/57
+  | Rapid Juliana Combinatie
+
+
+
 == Overijssel ==
 Go Ahead Eagles, Deventer › Overijssel
 
@@ -126,6 +136,12 @@ RBC Roosendaal, Roosendaal
 FC Utrecht, 1970,   Utrecht   ## Utrecht
   | Utrecht | Football Club Utrecht
 ii) Jong FC Utrecht
+
+DOS Utrecht, (1901-1970),   Utrecht
+  | VV DOS         #  champs (1): 1958/59
+  | Voetbalvereniging Door Oefening Sterk
+# In 1970 it merged with USV Elinkwijk and Velox to form FC Utrecht.
+
 
 Vitesse Arnhem, 1892,  Arnhem   ## Gelderland
   | Vitesse | SBV Vitesse | Stichting Betaald Voetbal Vitesse

@@ -5,6 +5,8 @@ Steaua București,        București
   | Steaua | Steaua Bucuresti | FC Steaua Bucuresti | FC Steaua București
   | FCSB
   | FCS Bukarest [de]
+  | CCA București     # champs (2): 1961/62 1957/58
+
 Dinamo București,        București
   | Din. Bucuresti | Dinamo Bucuresti | FC Dinamo București
   | FC Dinamo Bucureşti | Dinamo Bucureşti
@@ -15,6 +17,7 @@ Rapid București,         București
 Daco-Getica București,   București
   | Daco-Getica Bucuresti | Asociația Sport Club Daco-Getica București
 ## From 1992 to the summer of 2018, the team was known as Juventus București
+
 
 
 CFR Cluj,     Cluj
@@ -93,6 +96,7 @@ FC Politehnica Iași,   Iași
 
 Poli Timișoara, Timișoara
   | Timişoara | ACS Poli Timișoara
+  | FC Politehnica Timișoara     # champs (1): 2009/10
 
 Sepsi Sfântu Gheorghe,   Sfântu Gheorghe
   | Sepsi | Sepsi Sf. Gheorghe | Sepsi OSK
@@ -104,9 +108,13 @@ Universitatea Craiova,    Craiova
   | U Craiova | CS U Craiova | CS Uni Craiova | U Craiova 1948 CS | CS Universitatea Craiova
   | U Craiova 1948 Club Sportiv
   | Univ. Craiova
+  | FC Universitatea Craiova   # champs (4): 1991/92 1982..1980 (2) 1974/75
+
 
 UTA Arad,   Arad
   | FC UTA Arad | Fotbal Club UTA Arad
+  | UT Arad    # champs (2): 1971..1969 (2)
+
 
 FC Voluntari,  Voluntari
   | Voluntari
@@ -121,3 +129,6 @@ CS Mioveni, Mioveni
   | Mioveni
 FC Argeș Pitești, Pitești
   | Argeș | Argeș Pitești
+
+Unirea Urziceni (1954-2017), Urziceni   # champs (2): 2011..2009 (2)
+  | FC Unirea Urziceni  

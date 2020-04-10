@@ -6,6 +6,12 @@ HJK Helsinki,     Helsinki
   | Helsingin Jalkapalloklubi | HJK
 HIFK Helsinki,    Helsinki
   | HIFK Fotboll | IFK Helsingfors | HIFK
+  | Helsingfors IFK   # champs (2): 1962/63 1960/61
+
+HPS Helsinki,   Helsinki    # champs (1): 1958/59
+  | Helsingin Palloseura | HPS
+
+
 
 FC Haka Valkeakoski,    Valkeakoski
   | Haka Valkeakoski | Valkeakosken Haka
@@ -19,10 +25,21 @@ FC Honka Espoo,   Espoo
   | FC Honka | Honka
 KuPS Kuopio,      Kuopio
   | KuPS | Kuopio PS
+  | Kuopion PS     # champs (3): 1977/78 1975/76 1967/68
+
 Myllykosken Pallo -47,   Myllykoski    ## part of the city of Kouvola
   | Myllykosken Pallo-47 | MYPA | MyPa
+
 FC Lahti,         Lahti
   | Lahti
+# FC Lahti was founded in 1996 when two rival clubs from Lahti 
+#  FC Kuusysi and Reipas Lahti - decided to merge. 
+
+FC Kuusysi,       Lahti   # champs (5): 1992/93 1990/91 1987/88 1985/86 1983/84
+FC Reipas Lahti,  Lahti   # champs (3): 1971/72 1968/69 1964/65
+
+
+
 JJK Jyväskylä,     Jyväskylä
   | JJK Jyvaskyla | JJK
 
@@ -61,3 +78,11 @@ PEPO Lappeenranta,  Lappeenranta
   | PEPO
 JIPPO Joensuu, Joensuu
   | JIPPO
+
+
+FC Jazz, Pori      # champs (1): 1997/98
+  | FC Jazz Pori
+
+OPS Oulu,   Oulu    #  champs (2): 1982..1980 (2)
+  | Oulun Palloseura | OPS
+

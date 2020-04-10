@@ -14,10 +14,16 @@ Glentoran FC,   Belfast
 Crusaders FC,  Belfast
   | Crusaders | Crusaders Belfast
 
+
 Cliftonville FC
   | Cliftonville
+
 Portadown FC
-Lisburn Distillery FC
+  | Portadown   # champs (3): 2002/03 1992..1990 (2)
+
+Lisburn Distillery FC, 1880,  Ballyskeagh   
+  | Lisburn Distillery    # champs (1): 1963/64
+
 
 Glenavon FC
   | Glenavon | FC Glenavon
@@ -39,3 +45,7 @@ Warrenpoint Town FC
 Ards FC,  1900     #  champs (1): 1958/59
   | Ards
   
+Bangor FC,   Bangor 
+  ## note: not to confuse with Bangor City in Wales!! - fix error in champs.txt!!
+
+

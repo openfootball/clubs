@@ -35,6 +35,9 @@ FK Spartaks Jūrmala, Jūrmala
 
 FC Daugava Daugavpils, Daugavpils
   | FC Daugava
+  | Daugava Daugavpils    # champs (1): 2013/14
+
+
 BFC Daugavpils,         Daugavpils
   | Daugavpils
 

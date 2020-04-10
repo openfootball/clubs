@@ -9,10 +9,15 @@ FC Locomotive Tbilisi
 
 
 FC Zestafoni
+  | Zestafoni     # champs (2): 2013..2011 (2)
+
+
 FC Metalurgi Rustavi
   | Metalurgi Rustavi
 FC Dila Gori
   | Dila
+  | Dila Gori       # champs (1): 2015/16
+
 FC WIT Georgia
   | WIT Georgia
 FC Gagra
@@ -28,5 +33,7 @@ FC Dinamo Batumi
 FC Tskhinvali
 FC Sioni Bolnisi
   | Sioni
+  | Sioni Bolnisi    # champs (1): 2006/07
+
 FC Saburtalo
   | Saburtalo

@@ -25,7 +25,9 @@ Qviding FIF,  Göteborg
 
 Malmö FF, Malmö
   | Malmö | Malmo FF | Malmö Fotbollförening
-
+IFK Malmö, Malmö
+  | IFK Malmö Fotboll  # champs (1): 1960/61
+  | Idrottsföreningen Kamraterna Malmö
 
 IF Elfsborg,   Borås
   | Elfsborg

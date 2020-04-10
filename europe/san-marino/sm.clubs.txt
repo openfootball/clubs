@@ -5,6 +5,9 @@
 SP Tre Fiori
   | Tre Fiori
 SP Tre Penne
+  | Tre Penne     # champs (2): 2014..2012 (2)
+
+
 AC Juvenes-Dogana
   | Juvenes/Dogana | AC Juvenes/Dogana
 SP La Fiorita
@@ -17,6 +20,8 @@ SS Murata
   | Murata
 SS Folgore
   | Folgore
+  | SS Folgore Falciano Calcio    # champs (1): 2015/16
+
 
 SP Cailungo
   | Cailungo

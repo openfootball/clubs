@@ -16,6 +16,10 @@ Shelbourne FC,                   Dublin (Drumcondra)
   | Shelbourne
 
 
+Drumcondra FC,          Dublin (Drumcondra)
+  | Drumcondra Dublin     # champs (3): 1965/66 1961/62 1958/59
+
+
 
 Athlone Town AFC,    Athlone
   | Athlone | Athlone Town
@@ -23,8 +27,14 @@ Bray Wanderers FC,   Bray
   | Bray | Bray Wanderers
 Cobh Ramblers FC,  Cobh
   | Cobh Ramblers
+
 Cork City FC,        Cork
   | Cork | Cork City
+
+Cork Celtic FC (1951-1979),  Cork
+  | Cork Celtic      # champs (1): 1974/75
+Cork Hibernians FC (1957-1976), Cork
+  | Cork Hibernians   # champs (1): 1971/72
 
 
 Drogheda United FC,  Drogheda
@@ -47,6 +57,8 @@ Sligo Rovers FC,       Sligo
 Waterford FC,          Waterford
   | Waterford
   | Waterford United (1982-2016) | Waterford United FC (1982-2016)
+  | Waterford AFC    # champs (6): 1974..1972 (2) 1971...1968 (3) 1966/67
+
 ## todo/fix: use/try new format e.g.
 ##  1982-2016  | Waterford United | Waterford United FC
 
