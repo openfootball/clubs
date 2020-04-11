@@ -93,6 +93,7 @@ Antalyaspor, 1966, Antalya
 
 
 Bursaspor,   Bursa
+  | Bursaspor SK
 Göztepe İzmir,    İzmir (Güzelyalı)
   | Göztepe | Göztepe SK
   | Göztep | Göztepespor

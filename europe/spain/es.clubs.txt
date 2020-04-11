@@ -93,7 +93,8 @@ CF Reus,  1909,      Reus
 == Galicia ==
 
 RCD La Coruña,  La Coruña
-  | La Coruña | RC Deportivo de La Coruña | Real Club Deportivo La Coruña
+  | La Coruña 
+  | RC Deportivo La Coruña | RC Deportivo de La Coruña | Real Club Deportivo La Coruña
   | Deportivo | Deportivo La Coruña | Deportivo de La Coruña | Deportivo da Coruña
   | Dep. La Coruña
 RC Celta Vigo,  Vigo          ## use R. C. Celta de Vigo - why? why not?

@@ -150,7 +150,7 @@ SF Siegen,            Siegen
 Wuppertaler SV,         Wuppertal
   | Wuppertaler
 Rot-Weiss Essen,     Essen
-  | Essen | RW Essen
+  | Essen | RW Essen | SC Rot-Weiss Essen
 ##  - 2 (1): 1993-94
 ##  - 2 (3): 2006-07 2004-05 1996-97
 ## note:  Schwarz-Weiß Essen  (played in 2. liga too)
@@ -197,6 +197,7 @@ Hannover 96, 1896,       Hannover › Niedersachsen
  
 Eintracht Braunschweig, 1895,  Braunschweig › Niedersachsen
   | Braunschweig | E. Braunschweig | Eintr. Braunschweig 
+  | TSV Eintracht Braunschweig
  Hamburger Straße 210 // 38112 Braunschweig
  
 FT Braunschweig
@@ -224,6 +225,10 @@ SV Babelsberg 03,     Potsdam › Brandenburg     ## (Potsdam-Babelsberg)
 FSV Optik Rathenow
 SV Falkensee-Finkenkrug
 
+FFC Victoria 91,   Frankfurt an der Oder
+  | FC Frankfurt Viktoria/Oder
+  | 1. FC Frankfurt | 1. FC Frankfurt (Oder)
+
 
 == Berlin ==
 
@@ -244,6 +249,7 @@ SC Tasmania 1900 Berlin (-1973), Berlin › Berlin
 
 BFC Dynamo Berlin,     Berlin › Berlin
   | BFC Dynamo
+  | Berliner FC Dynamo
 
 Berliner AK 07,              Berlin › Berlin
 FC Viktoria 1889 Berlin,     Berlin › Berlin
@@ -406,14 +412,22 @@ FC Schönberg 95
 
 Dynamo Dresden, 1953,      Dresden › Sachsen
   | Dresden | SG Dynamo Dresden
+  | 1. FC Dynamo Dresden
  Lennéstraße 12 // 01069 Dresden
  
 RB Leipzig, 2009,     Leipzig › Sachsen
 VfB Leipzig (-2004),  Leipzig › Sachsen     ## note: 2004 aufgelöst in bl 1993/94
   | Leipzig
 
-BSG Chemie Leipzig,  Leipzig     # champs (1): 1964/65
-  | Betriebssportgemeinschaft Chemie Leipzig
+
+BSG Chemie Leipzig, Leipzig     # champs (1): 1964/65
+  | Betriebssportgemeinschaft Chemie Leipzig   
+
+FC Sachsen Leipzig,  Leipzig        # keep a separate club - why? why not?
+# FC Sachsen Leipzig entstand 1990 aus der Fusion der Vereine 
+# BSG Chemie Leipzig und BSG Chemie Böhlen
+
+
 
 Chemnitzer FC, 1966       Chemnitz › Sachsen
   | Chemnitz
@@ -424,6 +438,7 @@ Chemnitzer FC, 1966       Chemnitz › Sachsen
 FC Erzgebirge Aue, 1949,   Aue      › Sachsen
   | Aue  | Erzgebirge Aue
   | SC Wismut Karl-Marx-Stadt    # champs (3): 1960/61 1959..1957 (2)
+  | FC Wismut Aue
  Lößnitzer Straße 95 // 08280 Aue
 # In 1954 the East German government decided that the nearby city of Chemnitz
 # —recently renamed Karl-Marx-Stadt—deserved a quality team and so, 

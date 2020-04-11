@@ -12,6 +12,10 @@ ii) Jong Ajax
 DWS Amsterdam, Amsterdam    # champs (1): 1964/65
   | AFC DWS | Amsterdamsche Football Club Door Wilskracht Sterk
 
+FC Amsterdam,  Amsterdam 
+# FC Amsterdam was a Dutch football club which was founded on 20 June 1972, 
+# from the merger of the Amsterdam football clubs Blauw Wit and DWS
+
 
 AZ Alkmaar, 1967,    Alkmaar    › Noord-Holland
   | AZ | Alkmaar Zaanstreek

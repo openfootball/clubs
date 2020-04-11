@@ -6,13 +6,14 @@ Vålerenga Fotball,   Oslo
 KFUM-Kameratene Oslo,  Oslo
   | KFUM Oslo
 Skeid Fotball,  Oslo
-  | Skeid
+  | Skeid | Skeid FK
   | Skeid Oslo    # champs (1): 1967/68
 
 Lyn Oslo,  Oslo
-  | Lyn 1896 FK     # champs (4): 1969/70 1966...1963 (3)
+  | Lyn 1896 FK | FK Lyn     # champs (4): 1969/70 1966...1963 (3)
   | Lyn Fotball | Lyn 1896 Fotballklubb
   | FC Lyn Oslo
+
 
 
 Rosenborg BK,  Trondheim

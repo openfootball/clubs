@@ -181,6 +181,7 @@ Harrogate Town AFC,  Harrogate › North Yorkshire
 
 Leeds United FC,  @ Elland Road,    Leeds › West Yorkshire
   | Leeds | Leeds United
+  | Leeds United AFC
 Leeds City FC (1904-1919),  Leeds › West Yorkshire
   | Leeds City
 

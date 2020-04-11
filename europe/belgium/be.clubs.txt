@@ -7,9 +7,16 @@
 RSC Anderlecht, 1908,   Brussels (Anderlecht)      ## use (just) Anderlecht or Brussel-Anderlecht ??
   | Anderlecht | Royal Sporting Club Anderlecht
 
-FC Brussels,    Brussels
+
 RWD Molenbeek,  Brussels (Molenbeek)
-  | Molenbeek
+  | Molenbeek | Racing White Daring Molenbeek
+  | FC Molenbeek Brussels Strombeek
+  | FC Brussels
+##  keep Molenbeek clubs separte? from wikipedia:
+## This R.W.D.M. Brussels F.C. article is about the club dissolved in 2014. 
+# For the predecessor club dissolved in 2002, see R.W.D. Molenbeek. 
+# For the club continuing its traditions founded in 2015, see RWDM47.
+
 
 Saint-Gilloise,  Brussels (Saint-Gilles)
   | R. Union Saint-Gilloise
