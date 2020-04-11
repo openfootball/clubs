@@ -24,3 +24,10 @@ AB Argir
 
 B68 Toftir       # champs (1): 1993/94
   | B68 | Tofta Ítróttarfelag 
+
+FC Suðuroy, 2005,    Vágur
+  | FC Suduroy
+  | VB/Sumba
+# consists currently of the former clubs
+#   VB (founded in 1905) and Sumba (founded in 1949), 
+#   which merged in 2005 to form VB/Sumba.

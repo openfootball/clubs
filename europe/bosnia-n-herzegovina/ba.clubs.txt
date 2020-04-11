@@ -42,3 +42,6 @@ Zvijezda 09
 NK Brotnjo, Čitluk   # champs (1): 2000/01
   | Nogometni Klub Brotnjo
   
+FK Leotar,  1925,  Trebinje
+  | Leotar | Leotar Trebinje
+  

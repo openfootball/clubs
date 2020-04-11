@@ -15,14 +15,16 @@ University College Dublin AFC,  Dublin (Belfield)
 Shelbourne FC,                   Dublin (Drumcondra)
   | Shelbourne
 
-
 Drumcondra FC,          Dublin (Drumcondra)
   | Drumcondra Dublin     # champs (3): 1965/66 1961/62 1958/59
 
+Dublin City FC (1999-2006),    Dublin (Northside)
+  | Dublin City
 
 
 Athlone Town AFC,    Athlone
   | Athlone | Athlone Town
+  | Athlone Town FC
 Bray Wanderers FC,   Bray
   | Bray | Bray Wanderers
 Cobh Ramblers FC,  Cobh

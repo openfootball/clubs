@@ -9,7 +9,7 @@ FC Prishtina,     Prishtina
 Flamurtari Prishtina,  Prishtina
 
 KF Trepça'89,   Mitrovica      ## note:  Not to be confused with FK Trepča or KF Trepça (in Serbia)!!!
-  | KF Trepça | Trepça
+  | KF Trepça | Trepça | Trepça 89
 
 Ballkani
 KF Feronikeli

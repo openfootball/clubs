@@ -33,3 +33,6 @@ FK Turnovo
 Akademija Pandev
 FC Struga
 FK Borec Veles
+
+FK Pobeda,   Prilep
+  | FK Pobeda Prilep

@@ -32,9 +32,11 @@ Csepel SC, Budapest     # champs (1): 1959/60
 Vác FC,   Vác 
   | Dunakanyar-Vác   # champs (1): 1994/95
   | Dunakanyar-Vác FC
+  | Váci FC
 
 Dunaújváros FC (1952-2009),  Dunaújváros
   | Dunaújváros  # champs (1): 2000/01
+  | Dunaferr SE
 
 
 

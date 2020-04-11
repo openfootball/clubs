@@ -1,34 +1,6 @@
 ================================
 =  Luxembourg
 
-
-Jeunesse d'Esch, Esch-sur-Alzette
-  | Jeunesse Esch | AS Jeunesse Esch
-
-F91 Dudelange,   Dudelange
-  | Dudelange
-
-Stade Dudelange (1913-1991),  Dudelange    # champs (2): 1965/66 1957/58
-#   now a part of F91 Dudelange, which was formed by the merger of
-#      Stade, Alliance Dudelange, and US Dudelange in 1991.
-
-
-FC Differdange 03,  2003,  Differdange
-  | Differdange
-## Differdange 03 was formed in 2003 as an amalgam of two clubs
-#  from the city of Differdange: FA Red Boys Differdange and AS Differdange.
-
-Red Boys Differdange (1907-2003),  Differdange
-  | FA Red Boys Differdange     # champs (1): 1979/80
-# now a part of FC Differdange 03
-
-CS Grevenmacher
-  | Grevenmacher     # champs (1): 2003/04
-
-UN Käerjéng 97
-CS Fola Esch
-  | Fola | Fola Esch     # champs (2): 2015/16 2013/14
-
 Racing FC Union Lëtzebuerg, Lëtzebuerg
   | Racing Union
   | Racing FC Union Luxembourg 
@@ -47,9 +19,39 @@ Spora Luxemburg (1923-2005), Lëtzebuerg
 #   to form Spora's modern incarnation, Racing FC Union Luxembourg. 
 
 Union Luxembourg (1925-2005), Lëtzebuerg        # champs (5): 1993...1990 (3) 1971/72 1962/63
-  | Union Sportive Luxembourg
+  | US Luxembourg | Union Sportive Luxembourg
 # now a part of Racing FC Union Luxembourg
   
+
+
+F91 Dudelange,   Dudelange
+  | Dudelange
+
+Stade Dudelange (1913-1991),  Dudelange    # champs (2): 1965/66 1957/58
+  |  CS Stade Dudelange
+#   now a part of F91 Dudelange, which was formed by the merger of
+#      Stade, Alliance Dudelange, and US Dudelange in 1991.
+
+
+FC Differdange 03,  2003,  Differdange
+  | Differdange
+## Differdange 03 was formed in 2003 as an amalgam of two clubs
+#  from the city of Differdange: FA Red Boys Differdange and AS Differdange.
+
+Red Boys Differdange (1907-2003),  Differdange
+  | FA Red Boys Differdange     # champs (1): 1979/80
+# now a part of FC Differdange 03
+
+Jeunesse d'Esch, Esch-sur-Alzette
+  | Jeunesse Esch | AS Jeunesse Esch
+
+CS Grevenmacher
+  | Grevenmacher     # champs (1): 2003/04
+
+UN Käerjéng 97
+CS Fola Esch
+  | Fola | Fola Esch     # champs (2): 2015/16 2013/14
+
 
 
 FC Progrès Niederkorn

@@ -13,6 +13,10 @@ FC Stumbras,        Kaunas
   | Stumbras
 FBK Kaunas,        Kaunas
 
+FK Kareda Kaunas (1935-2003),  Kaunas
+  | FK Kareda
+
+
 FK Ekranas
   | Ekranas
 FK Sūduva,    Marijampolė

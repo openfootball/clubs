@@ -37,3 +37,7 @@ KS Kastrioti
   | Kastrioti
 FK Bylis
   | Bylis
+
+
+KF Elbasani, 1923,   Elbasan
+  | Klubi i Futbollit Elbasani 

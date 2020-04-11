@@ -32,6 +32,7 @@ Barry Town AFC
   | Barry 
   | FC Barry Town
   | Barry Town    # champs (6): 2004...2001 (3) 2000...1997 (3)
+  | Barry Town United FC
 
 Cardiff Metropolitan University FC
   | Cardiff Met | Cardiff M.U. | Cardiff Met Uni.
@@ -66,4 +67,4 @@ Rhyl FC,  Rhyl    # in Denbighshire
 
 Cwmbrân Town AFC,    Cwmbrân 
   | Cwmbrân Town    # champs (1): 1993/94
-
+  | Cwmbrân Town FC
