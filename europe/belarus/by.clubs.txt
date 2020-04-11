@@ -51,3 +51,7 @@ FC Dnyapro Mogilev
 FC Torpedo-SKA Minsk
   | Torpedo-SKA
   | FC Torpedo Minsk
+
+
+FC Belshina Bobruisk, 1976,   Bobruisk
+  | FK Belshyna Babruisk

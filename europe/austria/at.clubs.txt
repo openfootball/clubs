@@ -25,6 +25,7 @@ SC Team Wiener Linien,   Wien (Favoriten)
 
 Wiener Sport-Club,       Wien (Hernals)
   | Wiener Sportklub | Wiener SK | Wr. Sportklub
+  | Wiener SC
 
 First Vienna FC,  1894,  Wien (Döbling)
   | Vienna | Vienna FC 1894 | First Vienna FC 1894
@@ -79,6 +80,7 @@ SC Trausdorf
 FC Admira Wacker Mödling, 1905, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
   | Admira | Admira Wacker | FC Admira Wacker | Admira Wacker Mödling
   | Admira Wien     ## historic Admira Wien name add (-????) or something
+  | SK Admira Wacker Wien
  Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf      ## Mödling 
 ii) FC Admira Wacker Mödling II
   | FC Admira Wacker II
@@ -173,6 +175,7 @@ FC Blau-Weiß Linz, Linz
 
 FC Stahl Linz,       Linz
   | SK VOEST Linz
+  | FC Linz
 ##
 ## add support for historic names - how?
 #

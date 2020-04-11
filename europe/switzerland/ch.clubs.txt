@@ -29,7 +29,7 @@ FC Luzern, 1901,                Luzern    ## use Lucerne [fr] - why??
 
 == St. Gallen ==
 FC St. Gallen, 1879,            St. Gallen
-  | St. Gallen
+  | St. Gallen | FC St. Gallen 1879
 FC Wil, 1900,                   Wil
   | Wil | FC Wil 1900
 

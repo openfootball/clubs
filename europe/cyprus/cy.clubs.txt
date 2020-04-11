@@ -28,9 +28,11 @@ AEK Larnaca FC,  Larnaca
 
 Pezoporikos Larnaca (1927-1994), Larnaca   # champs (1): 1988/89
   | Pezoporikos Larnaca FC
+  | Pezoporikos FC
 
 EPA Larnaca (1930-1994), Larnaca    # champs (1): 1970/71
   | EPA Larnaca FC
+  | Enosis Pezoporikou Amol FC
 # merged with Pezoporikos Larnaca and formed AEK Larnaca FC.
 
 

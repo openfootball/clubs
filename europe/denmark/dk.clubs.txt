@@ -14,7 +14,7 @@ B 1903 København (1903-1992),     København      # champs (3): 1977/78 1972..1
 ##    to form the current club FC Copenhagen
 
 KB København (1876-1992),     København    # champs (4): 1981/82 1975/76 1969/70 1958/59
-  | KB | Kjøbenhavns Boldklub
+  | KB | Kjøbenhavns BK | Kjøbenhavns Boldklub
 # In 1991, KB and B 1903 merged their professional football teams
 #  and formed FC Copenhagen
 
@@ -105,16 +105,24 @@ FC Vestsjælland,  Slagelse
 
 == ?? ==
 
-Køge BK,   Køge   # in Zealand
+HB Køge, 2009,             Køge (Herfølge)
+  | HB Köge [de]
+
+Herfølge BK (1921-2009),   Køge (Herfølge)
+  | Herfølge Boldklub
+# In 2009 merged its professional football 
+#    with Køge BK to form HB Køge
+
+Køge BK (1927-2009),     Køge     # in Zealand
   | Køge Boldklub    # champs (1): 1976/77
+# In March 2009 the first team merged
+#    with Herfølge Boldklub to form HB Køge.
 
 
 FC Fredericia,  Fredericia
 Skive IK,       Skive
 Kolding IF,     Kolding
 FC Roskilde,    Roskilde
-HB Køge,        Herfølge/Køge
-  | HB Köge [de]
 Hvidovre IF,    Hvidovre
 Nykøbing FC,    Nykøbing Falster
   | Nyköbing FC [de]

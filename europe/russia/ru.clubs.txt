@@ -25,7 +25,7 @@ FC Moskva,    Moskva
   | Moskva
   | FC Moscow [en]
 Torpedo Moskva,    Moskva
-  | Torpedo
+  | Torpedo | FC Torpedo Moskva
   | T. Moscow [en] | Torpedo Moscow [en] | FC Torpedo Moscow [en]
   | FC Torpedo Moskau [de]
 FC Chertanovo Moskva,    Moskva

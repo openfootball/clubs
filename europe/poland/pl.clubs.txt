@@ -66,6 +66,7 @@ Bruk-Bet Termalica Nieciecza, 1922, Nieciecza
   | Termalica B-B.
 
 Widzew Łódź,  Łódź
+  | RTS Widzew Łódź
 ŁKS Łódź,     Łódź
   | ŁKS | Łódzki KS
   | ŁKS Łódź PSS
@@ -95,8 +96,9 @@ OKS Stomil Olsztyn,  Olsztyn
 
 
 Polonia Bytom, 1920,  Bytom                 # champs (2): 1962/63 1958/59
+  | KS Polonia Bytom
 Szombierki Bytom, 1919, Bytom (Szombierki)  # champs (1): 1980/81
 
 Stal Mielec, 1939, Mielec   # champs (2): 1976/77 1973/74
-  | FKS Stal Mielec
+  | KS Stal Mielec | FKS Stal Mielec
 
