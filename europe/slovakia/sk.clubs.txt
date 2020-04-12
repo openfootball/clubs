@@ -27,10 +27,16 @@ MŠK Žilina
 FK Senica
   | Senica
 
-MFK Košice,   Košice
-  | Košice
 
-1. FC Košice (1951-2004),  Košice  
+MFK Košice (1952-2017),   Košice
+  | Košice
+  | 1. FC Košice
+  | FC VSS Košice
+# note: Not to be confused with FK Košice.
+# name history:
+#   1. FC	Košice 1992–04
+#   MFK	Košice 2005–15
+#   FC VSS Košice	2015–17
 
 
 Dukla Banská Bystrica

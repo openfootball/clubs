@@ -4,6 +4,7 @@
 
 KF Tirana,           Tirana
   | Tirana | Klubi i Futbollit Tirana
+  | KF Tiranë
 FK Partizani Tirana, Tirana
   | Partizani | FK Partizani
 FK Dinamo Tirana,    Tirana

@@ -10,6 +10,7 @@ APOEL Nicosia FC,       Nicosia
 Olympiakos Nicosia FC,  Nicosia 
   | Olympiakos
   | Olympiakos Nicosia
+  | Olympiakos Nikosia
 
 AEL Limassol,            Limassol
   | AEL | AEL Limassol FC | Athlitiki Enosi Lemesou

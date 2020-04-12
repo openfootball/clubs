@@ -10,6 +10,7 @@ RSC Anderlecht, 1908,   Brussels (Anderlecht)      ## use (just) Anderlecht or B
 
 RWD Molenbeek,  Brussels (Molenbeek)
   | Molenbeek | Racing White Daring Molenbeek
+  | RWDM Brussels FC
   | FC Molenbeek Brussels Strombeek
   | FC Brussels
 ##  keep Molenbeek clubs separte? from wikipedia:

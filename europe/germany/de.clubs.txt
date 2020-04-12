@@ -424,11 +424,12 @@ VfB Leipzig (-2004),  Leipzig › Sachsen     ## note: 2004 aufgelöst in bl 199
 BSG Chemie Leipzig, Leipzig     # champs (1): 1964/65
   | Betriebssportgemeinschaft Chemie Leipzig   
 
-FC Sachsen Leipzig,  Leipzig        # keep a separate club - why? why not?
+FC Sachsen Leipzig (1990-2011),  Leipzig      # keep a separate club - why? why not?
 # FC Sachsen Leipzig entstand 1990 aus der Fusion der Vereine 
 # BSG Chemie Leipzig und BSG Chemie Böhlen
 
-
+SG Sachsen Leipzig (2011-2014),  Leipzig     # keep a separate club - why? why not?
+  
 
 Chemnitzer FC, 1966       Chemnitz › Sachsen
   | Chemnitz

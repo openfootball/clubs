@@ -6,7 +6,7 @@ Ferencvárosi TC, Budapest
   | Ferencváros | Ferencvaros
 
 Budapest Honvéd FC, Budapest
-  | Honvéd
+  | Honvéd | Budapest Honvéd
   | Budapest Honvéd SE   # champs (7): 1990..1988 (2) 1987...1984 (3) 1980/81 1956/57
   | Kispesti Honvéd      # champs (2): 1993/94 1991/92
 # In 1991 renamed Kispest Honvéd FC 
