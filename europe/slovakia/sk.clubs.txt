@@ -47,6 +47,8 @@ MFK Petržalka
 
 AS Trenčín
   | Trenčín
+  | FK AS Trenčín
+
 FC DAC 1904 Dunajská Streda
   | Dunajská Streda
 MFK Ružomberok

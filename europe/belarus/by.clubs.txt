@@ -3,8 +3,10 @@
 
 FC BATE Borisov, Barysaw
   | BATE | BATE Borisov | BATE Borissow
+
 FC Gomel
   | Gomel
+  | FK Gomel
 
 FC Dinamo Minsk
   | Dinamo Minsk
@@ -39,8 +41,11 @@ FC Gorodeya
 SFC Slutsk
   | Slutsk
   | Slutsksak. Slutsk
+
 FC Slavia-Mozyr
   | Slavia-Mozyr
+  | FK Slaviya Mozyr
+
 FC Vitebsk
   | Vitebsk
 FC Zvezda-BGU Minsk

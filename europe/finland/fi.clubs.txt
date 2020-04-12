@@ -30,7 +30,9 @@ KuPS Kuopio,      Kuopio
   | Kuopion Palloseura
   
 Myllykosken Pallo -47,   Myllykoski    ## part of the city of Kouvola
-  | Myllykosken Pallo-47 | MYPA | MyPa
+  | MYPA | MyPa 
+  | Myllykosken Pallo-47 
+  | Myllykosken Pallo −47   ### todo/fix: norm dash (− => -) !!!
 
 FC Lahti,         Lahti
   | Lahti

@@ -4,21 +4,25 @@
 FC Levadia Tallinn
   | Levadia | Levadia Tallinn
   | FC Levadia Maardu
+  | FCI Levadia
 # Founded as Levadia in Maardu in 1998, 
 # the club moved to Tallinn in 2004
 
 FC Flora Tallinn
-  | Flora
+  | Flora | FC Flora
   | Flora Tallinn     # champs (7): 2013..2011 (2) 2005...2002 (3) 2000..1998 (2)
+  
 
 FC TVMK Tallinn
-  | TVMK     # champs (1): 2006/07
+  | TVMK | FC TVMK     # champs (1): 2006/07
+  
 
 FCI Tallinn
 JK Tallinna Kalev
   | Tallinna Kalev
 
 FC Norma Tallinn (1959-1997), Tallinn    # champs (2): 1994..1992 (2)
+  | Norma Tallinn
 
 FC Lantana Tallinn (1994-1999),  Tallinn
   | FC Lantana | Lantana Tallinn

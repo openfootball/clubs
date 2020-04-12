@@ -79,6 +79,7 @@ FC Khimki,  Khimki
 
 FC Krasnodar,  Krasnodar
   | Krasnodar | Krasnodar Krasnodar
+  | FK Krasnodar
 ii) FC Krasnodar 2
 
 FC Kuban,    Krasnodar
@@ -143,7 +144,11 @@ FC Orenburg,  Orenburg
   | Orenburg | FK Orenburg 
   | Gazovik Orenburg
 Volgar-Astrakhan,  Astrakhan
+
 Vladikavkaz,   Vladikavkaz
+  | Spartak Vladikavkaz
+  | FC Spartak Vladikavkaz
+  
 Yenisey, Krasnoyarsk
   | FC Yenisey | Yenisey Krasnoyarsk | FC Yenisey Krasnoyarsk
 

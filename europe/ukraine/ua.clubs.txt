@@ -25,6 +25,7 @@ FC Olimpik Donetsk
 
 FC Metalist Kharkiv,    Kharkiv    ## also known as Kharkov
   | Metalist | Metalist Kharkiv
+  | Metalist Kharkov
   
 FC Dnipro,    Dnipropetrovsk
   | Dnipro | FC Dnipro Dnipropetrovsk | Dnipro Dnipropetrovsk

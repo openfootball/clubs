@@ -3,6 +3,7 @@
 
 KF Drita
   | Drita
+  | Drita Gjilan
 
 FC Prishtina,     Prishtina
   | Prishtina

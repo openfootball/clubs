@@ -24,8 +24,11 @@ Breiðablik,          Kópavogur        # note/fix: Breidablik - auto-change ð 
   | ÍBV
   | ÍB Vestmannaeyja  # champs (3): 2000..1998 (2) 1980/81
 
-Stjarnan,     Garðabær
+Stjarnan,  1960,      Garðabær
   | Stjarnan Garð. | Stjarnan Garðab.  | Stjarnan Gardab.   # note/fix: auto-change ð to d
+  | UMF Stjarnan
+  | Stjarnan Garðabær
+
 Grindavík,    Grindavík
   | UMF Grindavík
 HK Kópavogs,   Kópavogur

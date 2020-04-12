@@ -26,6 +26,7 @@ FK Liepāja,      Liepāja       # check -same as SK Liepājas Metalurgs ??
 
 SK Liepājas Metalurgs,      Liepāja
   | Liepājas Metalurgs
+  | FK Liepājas Metalurgs
 
 FK Jelgava, Jelgava
   | Jelgava
@@ -34,7 +35,7 @@ FK Valmiera, Valmiera
 
 FK Spartaks Jūrmala, Jūrmala
   | Spartaks Jūrmala
-
+  | FK Spartaks
 
 FC Daugava Daugavpils, Daugavpils
   | FC Daugava

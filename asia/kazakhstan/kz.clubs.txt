@@ -8,17 +8,23 @@ FC Astana, 2009
 
 FC Astana-1964     #  champs (2): 2007/08 2002/03
   | Astana-64 | Astana-1964 | FC Astana 64
+  | FK Astana-64
 # note: Not to be confused with FC Astana !!!
 
 
 FC Aktobe
-  | Aktobe
+  | Aktobe 
+  | FK Aktobe
+
 FC Shakhter Karagandy
   | Shakhter
   | Shakhter Karagandy    # champs (2): 2014..2012 (2)
+  | Shakter Karaganda
 
 FC Tobol Kostanay
   | Tobol
+  | Tobyl Kostanay
+  
 FC Irtysh Pavlodar
   | Irtysh
   | Irtysh Pavlodar   # champs (1): 2003/04
@@ -31,8 +37,11 @@ FC Zhetysu Taldykorgan
   | Zhetysu
 FC Okzhetpes Kokshetau
   | Okzhetpes
-FC Kairat Almaty
+
+FC Kairat Almaty,  1954,  Almaty
   | Kairat
+  | FK Kairat
+
 FC Kaysar Kyzylorda
   | Kaysar
 FC Taraz

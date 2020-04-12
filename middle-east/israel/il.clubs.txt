@@ -19,7 +19,7 @@ Hapoel Haifa FC
 Hapoel Kiryat Shmona FC
   | H. Kiryat Shmona | Hapoel Kiryat Shmona
   | Hapoel Ironi Kiryat Shmona FC
-  | Ironi K. Shmona
+  | Ironi K. Shmona | Ironi Kiryat Shmona
   | Hapoel Ironi Kiryat Shmona     # champs (1): 2012/13
 
 Maccabi Netanya FC
@@ -33,6 +33,7 @@ Hapoel Katamon Jerusalem FC,  Jerusalem
 Hapoel Beer-Sheva FC,  1949,   Be'er Sheva
   | H. Beer-Sheva | Hap. Beer-Sheva
   | Hapoel Be'er
+  | Hapoel Be'er Sheva
 
 FC Ashdod,   1999,   Ashdod
   | Ashdod | FC Ironi Ashdod

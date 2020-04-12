@@ -8,8 +8,10 @@ The New Saints FC,         Oswestry   ## in Shropshire    -- check - playing in 
 Bangor City FC
   | Bangor | Bangor City
 
-Llanelli AFC
+Llanelli AFC, 1896,  Llanelli
   | Llanelli   # champs (1): 2008/09
+  | Llanelli Town
+  | Llanelli Town AFC
 
 Cefn Druids AFC
   | Cefn Druids | NEWI Cefn Druids    ## NEWI = North East Wales Institute of Higher Education
@@ -32,7 +34,7 @@ Barry Town AFC
   | Barry 
   | FC Barry Town
   | Barry Town    # champs (6): 2004...2001 (3) 2000...1997 (3)
-  | Barry Town United FC
+  | Barry Town United | Barry Town United FC
 
 Cardiff Metropolitan University FC
   | Cardiff Met | Cardiff M.U. | Cardiff Met Uni.

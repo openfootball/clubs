@@ -14,7 +14,7 @@ FC Dacia Chisinau
   | Dacia Chisinau    # champs (1): 2011/12
 
 FC Zimbru Chisinau
-  | Zimbru
+  | Zimbru | FC Zimbru
   | Zimbru Chisinau   # champs (4): 2001...1998 (3) 1993/94
 
 
@@ -22,6 +22,7 @@ FC Iskra-Stal
   | Iskra-Stal
 FC Milsami Orhei
   | Milsami | Milsami Orhei
+  | FC Milsami
 
 FC Olimpia Balti
 FC Zaria Balti

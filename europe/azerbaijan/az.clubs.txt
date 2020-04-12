@@ -3,6 +3,7 @@
 
 Bakı FK
   | Baku    # champs (2): 2009/10 2006/07
+  | FK Baku
 
 İnter Bakı PİK
   | Inter Baku PIK    # champs (2): 2010/11 2008/09
@@ -13,6 +14,7 @@ Neftçi PFK
 
 FK Şämkir (1954-2017), Şəmkir
   | Shamkir | Shamkir FC     # champs (2): 2002..2000 (2)
+  | Shamkir FK
 
 Qarabağ FK
   | Qarabağ | Qarabağ Ağdam
@@ -23,11 +25,16 @@ Olimpik-Şüvälan PFK
 Simurq PFK
 Gabala SC
   | Gabala
+
 Keşla FK
   | Keşla
+  | Keşlə FK   ## todo/fix: auto-create variants ş=>ş (with cedilla? and comma?) 
+
 Zirä FK
-Käpäz PFK
+Käpäz PFK, 1959,    Ganja
   | Käpäz   # champs (2): 2000..1998 (2)
+  | FK Käpäz
+  | Kapaz Professional Football Club
 
 Sabail
 Sumqayıt FK

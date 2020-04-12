@@ -2,8 +2,11 @@
 =  Macedonia
 
 FK Metalurg Skopje
-FK Makedonija Skopje
+
+FK Makedonija Skopje, 1932,  Skopje (Gjorče Petrov)
   | Makedonija | FK Makedonija GP Skopje
+  | Makedonija GP
+  | FK Makedonija Gjorče Petrov
 
 FK Vardar
   | Vardar
@@ -17,17 +20,23 @@ FK Rabotnički
 FK Renova
   | Renova | KF Renova
 FK Shkëndija 79
-  | KF Shkëndija | Shkëndija
-
+  | Shkëndija
+  | KF Shkëndija | KF Shkëndija 79
 
 
 FK Teteks
 FK Milano
 FK Pelister
-FC Shkupi 1927
+
+KF Shkupi, 1927,  Čair
   | Shkupi
-FK Sileks
+  | FC Shkupi 1927
+
+
+FK Sileks, 1965,   Kratovo 
   | Sileks
+  | Sileks Kratovo
+
 FK Turnovo
 
 Akademija Pandev

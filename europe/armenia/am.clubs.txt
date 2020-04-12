@@ -4,6 +4,7 @@
 
 FC Yerevan, 1995,  Yerevan 
   | Yerevan
+  | FK Yerevan
 
 FC Ararat Yerevan, 1935,  Yerevan
   | Ararat | FC Ararat
@@ -19,7 +20,8 @@ Kilikia FC (1992-2011),  Yerevan
 
 
 FC Pyunik
-  | Pyunik
+  | Pyunik | Pyunik FC
+
 Ulisses FC
   | Ulisses     # champs (1): 2012/13
 
@@ -32,13 +34,14 @@ FC Urartu
   | FC Banants | Banants  ## note: The club was known as FC Banants until 1 August 2019
 FC Shirak
   | Shirak
-
+  | Shirak FC
 
 Araks Ararat (-2005),  Ararat         # champs (2): 2001/02 1999/00
   | FC Araks Ararat
 
 Alashkert FC
   | Alashkert
+  | FC Alashkert
 
 FSC Lori
   | Lori
