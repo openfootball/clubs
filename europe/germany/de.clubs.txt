@@ -21,6 +21,7 @@ Türkgücü München,  München
 
 1. FC Nürnberg, 1900, Nürnberg       ### todo: always map Nurnberg to 1. FC Nürnberg ?!
   | Nürnberg
+  | 1. FC Nuremberg [en]
  Valznerweiherstraße 200 // 90480 Nürnberg 
 ii) 1. FC Nürnberg II
   | Nürnberg II

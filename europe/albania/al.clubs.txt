@@ -13,10 +13,10 @@ FK Dinamo Tirana,    Tirana
 KS Skënderbeu
   | Skënderbeu | Skënderbeu Korçë
   | KF Skënderbeu | KF Skënderbeu Korçë
-KS Flamurtari
+KS Flamurtari, 1923,   Vlorë
   | Flamurtari | Flamurtari Vlorë
   | KS Flamurtari Vlorë   # champs (1): 1991/92
-
+  | Flamurtari FC
 
 KF Vllaznia,  1919,   Shkodër
   | Vllaznia | KF Vllaznia Shkodër

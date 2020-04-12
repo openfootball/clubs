@@ -40,7 +40,7 @@ PFC Ludogorets Razgrad, 1945,  Razgrad
   | Ludogorets | Ludog. Razgrad | Ludogorets Razgrad
   | Professional Football Club Ludogorets Razgrad
   | PFC Ludogorets 1945
-
+  | PFK Ludogorets Razgrad 
 
 PFC Beroe Stara Zagora, 1916,   Stara Zagora
   | Beroe | Professional Football Club Beroe
@@ -66,9 +66,8 @@ POFC Botev Vratsa,  Vratsa
   | OFC Botev Vratsa
 
 SFC Etar Veliko Tarnovo,  Veliko Tarnovo
-  | Et. Veliko Tarnovo
+  | Et. Veliko Tarnovo | Etar Veliko Tarnovo
   | Etar Tarnovo   # champs (1): 1991/92
-
 
 Arda
 

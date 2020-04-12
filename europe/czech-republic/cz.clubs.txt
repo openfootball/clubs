@@ -22,6 +22,7 @@ SK Slavia Praha, 1892, Praha
 Bohemians Praha 1905, 1905, Praha
   | Bohemians 1905
   | Bohem. Prag 1905 [de]
+  | FC Bohemians Prag 1905
   | Bohemians EKD Praha      # champs (1): 1983/84
 
 FK Viktoria Žižkov, 1903, Praha (Žižkov)

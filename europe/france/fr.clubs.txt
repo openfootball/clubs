@@ -28,7 +28,8 @@ FC Chambly, 1989,   Chambly › Hauts-de-France
 Angers SCO, 1919,            Angers   › Pays de la Loire   ##  Maine-et-Loire > Pays de la Loire
   | Angers | Angers Sporting Club de l'Ouest | SCO Angers
 Girondins de Bordeaux, 1881, Bordeaux › Nouvelle-Aquitaine     ## Gironde > Aquitaine
-  | Bordeaux | Girondins Bordeaux | FC Girondins de Bordeaux
+  | Bordeaux | Girondins Bordeaux
+  | FC Girondins Bordeaux | FC Girondins de Bordeaux
   | Football Club des Girondins de Bordeaux
 
 Stade Malherbe Caen,  1913,   Caen     ## Calvados > Lower Normandy

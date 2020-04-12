@@ -27,7 +27,7 @@ MTK Budapest, Budapest
 
 
 Csepel SC, Budapest     # champs (1): 1959/60
-
+  | Csepel FC
 
 Vác FC,   Vác 
   | Dunakanyar-Vác   # champs (1): 1994/95
@@ -50,6 +50,7 @@ Debreceni VSC
 Győri ETO FC, 1904,     Győr
   | Győr | Győri ETO     # champs (2): 2013/14 1964/65
   | Rába ETO Győr        # champs (2): 1984..1982 (2)
+  | ETO FC Győr
   | Egyetértés Torna Osztály Futball Club Győr
   | Gyori ETO       ## FIX: auto-add variant!!!
   | Raba ETO Gyor   ## FIX: auto-add variant!!!

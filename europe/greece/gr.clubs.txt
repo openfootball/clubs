@@ -7,6 +7,7 @@ AEK Athens FC,     Athens    ## use!? - Marousi or Maroussi a suburban city in t
   | AEK Athen [de]
 Panathinaikos FC,  Athens
   | Panathinaikos
+  | Panathinaikos Athens
 Apollon Smyrnis FC,  Athens
   | Apollon
 Atromitos FC,      Athens    ## use!? - Peristeri a suburban municipality in the northwestern part of the Athens agglomeration

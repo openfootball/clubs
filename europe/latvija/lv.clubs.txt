@@ -11,6 +11,9 @@ FS METTA,        Riga
 
 FC Daugava Rīga,  Riga          # note: historic soviet era club
 
+Skonto FC (1991-2006), Riga
+  | Skonto | FC Skonto Riga
+
 
 FK Ventspils,    Ventspils
   | Ventspils
@@ -42,5 +45,4 @@ BFC Daugavpils,         Daugavpils
   | Daugavpils
 
 FC Dinaburg
-Skonto FC
-  | Skonto
+

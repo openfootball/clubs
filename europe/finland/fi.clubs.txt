@@ -7,6 +7,7 @@ HJK Helsinki,     Helsinki
 HIFK Helsinki,    Helsinki
   | HIFK Fotboll | IFK Helsingfors | HIFK
   | Helsingfors IFK   # champs (2): 1962/63 1960/61
+  | Helsinki IFK
 
 HPS Helsinki,   Helsinki    # champs (1): 1958/59
   | Helsingin Palloseura | HPS
@@ -18,15 +19,16 @@ FC Haka Valkeakoski,    Valkeakoski
 
 FC Inter Turku,  Turku
   | FC Inter | Inter Turku
-TPS Turku,       Turku
-  | TPS
+TPS Turku, 1922,      Turku
+  | TPS | Turun Palloseura
 
 FC Honka Espoo,   Espoo
   | FC Honka | Honka
 KuPS Kuopio,      Kuopio
   | KuPS | Kuopio PS
   | Kuopion PS     # champs (3): 1977/78 1975/76 1967/68
-
+  | Kuopion Palloseura
+  
 Myllykosken Pallo -47,   Myllykoski    ## part of the city of Kouvola
   | Myllykosken Pallo-47 | MYPA | MyPa
 

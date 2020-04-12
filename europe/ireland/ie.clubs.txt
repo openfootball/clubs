@@ -5,6 +5,8 @@ Shamrock Rovers FC,                Dublin (Tallaght)         #  Tallaght, South 
   | Shamrock | Shamrock Rovers | FC Shamrock Rovers
 Bohemian FC,                     Dublin (Phibsborough)
   | Bohemians | Boh. Dublin
+  | Bohemian Football Club Dublin
+  
 St Patrick's Athletic FC,        Dublin (Inchicore)
   | St Patrick's | St Patrick's Athletic
   | St. Patricks
@@ -32,6 +34,13 @@ Cobh Ramblers FC,  Cobh
 
 Cork City FC,        Cork
   | Cork | Cork City
+  | Cork City FC (diss. 2009)
+# In 2008, financial issues resulted in a period of examinership,
+#   and the club's then holding company was wound up in 2010
+# A team was entered into the 2010 League of Ireland First Division,
+# before the club re-acquired rights to the name
+# "Cork City Football Club"
+
 
 Cork Celtic FC (1951-1979),  Cork
   | Cork Celtic      # champs (1): 1974/75

@@ -81,6 +81,7 @@ FC Admira Wacker Mödling, 1905, Maria Enzersdorf (Südstadt)    ## Südstadt is
   | Admira | Admira Wacker | FC Admira Wacker | Admira Wacker Mödling
   | Admira Wien     ## historic Admira Wien name add (-????) or something
   | SK Admira Wacker Wien
+  | SK Admira Vienna [en]
  Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf      ## Mödling 
 ii) FC Admira Wacker Mödling II
   | FC Admira Wacker II

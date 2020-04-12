@@ -44,6 +44,7 @@ FC Karpaty Lviv
 SC Tavriya Simferopol
   | Tavriya
   | Tavriya Simferopol   # champs (1): 1992/93
+  | SK Tavriya Simferopol
 
 FC Zorya Luhansk
   | Zorya Luhansk

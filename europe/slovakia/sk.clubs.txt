@@ -6,6 +6,7 @@
    | Slov. Bratisl. | Sl. Bratislava | Slovan Bratislava | SK Slovan Bratislava
 
 FK Inter Bratislava, 1940,  Bratislava
+   | Inter Bratislava
 
 FC Petržalka,  1898,  Bratislava
   | FC Petržalka 1898
@@ -25,8 +26,13 @@ MŠK Žilina
 
 FK Senica
   | Senica
-MFK Košice
+
+MFK Košice,   Košice
   | Košice
+
+1. FC Košice (1951-2004),  Košice  
+
+
 Dukla Banská Bystrica
   | Banská Bystrica
 FC Nitra

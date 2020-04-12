@@ -49,7 +49,9 @@ FC Sion, 1909,                 Sion
 == Neuchâtel ==
 Xamax Neuchâtel,              Neuchâtel
   | Xamax
-  | Neuchâtel Xam | Neuchâtel Xamax FC | Neuchâtel Xamax FCS
+  | Neuchâtel Xam | Neuchâtel Xamax
+  | Neuchâtel Xamax FC | Neuchâtel Xamax FCS
+
 
 
 FC La Chaux-de-Fonds, 1894,  La Chaux-de-Fonds    # champs (1): 1964/65

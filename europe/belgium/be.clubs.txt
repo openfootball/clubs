@@ -44,7 +44,7 @@ KVC Westerlo, 1933,    Westerlo › Antwerpen › Vlaanderen
   | Westerlo | Koninklijke Voetbal Club Westerlo
 
 K Lierse SK,    Lier     › Antwerpen › Vlaanderen
-  | Lierse
+  | Lierse | Lierse SK
 
 
 == Limburg › Vlaanderen ==

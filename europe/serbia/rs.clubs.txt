@@ -17,8 +17,11 @@ FK Rad Belgrade, Belgrade
 FK Obilić (1924-2015),  Belgrade 
   | Obilić | Obilić Belgrade
 
-FK Vojvodina
+FK Vojvodina,  Novi Sad
   | Vojvodina
+  | FK Vojvodina Novi Sad
+
+  
 FK Spartak Zlatibor voda
 FK Sloboda Užice
   | Sloboda Užice

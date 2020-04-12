@@ -23,7 +23,7 @@ CD Mafra,  Mafra                            # a city and a municipality in the d
 FC Porto,     Porto
   | Porto
 Boavista FC,  Porto
-  | Boavista | Boavista Porto
+  | Boavista | Boavista Porto | Boavista Porto FC
 
 UD Oliveirense,  Oliveira de Azeméis    # a city and a municipality located in Porto Metropolitan Area 
   | Oliveirense | União Desportiva Oliveirense
