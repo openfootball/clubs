@@ -47,10 +47,12 @@ Videoton FC
 Debreceni VSC
   | Debrecen
 
-Győri ETO FC
+Győri ETO FC, 1904,     Győr
   | Győr | Győri ETO     # champs (2): 2013/14 1964/65
   | Rába ETO Győr        # champs (2): 1984..1982 (2)
-
+  | Egyetértés Torna Osztály Futball Club Győr
+  | Gyori ETO       ## FIX: auto-add variant!!!
+  | Raba ETO Gyor   ## FIX: auto-add variant!!!
 
 Paksi SE
   | Paks | Paksi FC

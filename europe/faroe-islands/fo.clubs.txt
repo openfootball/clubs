@@ -10,6 +10,12 @@ NSÍ Runavík
   | NSÍ
 Víkingur
   | Vikingur
+
+GÍ Gøta (1926-2008),   Gøta  
+  | GÍ | Gøtu Ítróttarfelag
+# In January 2008 merged with Leirvík ÍF, forming the new club Víkingur.
+
+
 ÍF Fuglafjørdur
   | ÍF
 KÍ Klaksvík
@@ -31,3 +37,10 @@ FC Suðuroy, 2005,    Vágur
 # consists currently of the former clubs
 #   VB (founded in 1905) and Sumba (founded in 1949), 
 #   which merged in 2005 to form VB/Sumba.
+# 2005; as VB/Sumba
+# 2010; as FC Suðuroy
+
+VB Vágur (1905-2005),  Vágur
+  | Vágur
+# En el año 2005 el equipo se fusionó otra vez con 
+# el Sumba para crear el VB/Sumba

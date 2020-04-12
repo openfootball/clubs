@@ -5,10 +5,24 @@
 ŠK Slovan Bratislava, Bratislava
    | Slov. Bratisl. | Sl. Bratislava | Slovan Bratislava | SK Slovan Bratislava
 
+FK Inter Bratislava, 1940,  Bratislava
+
+FC Petržalka,  1898,  Bratislava
+  | FC Petržalka 1898
+  | Petrzalka Akademia
+# 2010 – Renamed FC Petržalka 1898
+# 2014 – Bankruptcy - renamed FC Petržalka akadémia
+# 2017 – Renamed FC Petržalka
+
+FC Spartak Trnava, 1923, Trnava
+  | Spartak Trnava
+  | Spartak TAZ Trnava
+## Spartak TAZ Trnava (1967–88)
+
+
 MŠK Žilina
   | Žilina
-FC Spartak Trnava
-  | Spartak Trnava
+
 FK Senica
   | Senica
 MFK Košice

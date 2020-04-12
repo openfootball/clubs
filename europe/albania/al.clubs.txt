@@ -18,8 +18,10 @@ KS Flamurtari
   | KS Flamurtari Vlorë   # champs (1): 1991/92
 
 
-KF Vllaznia
-  | Vllaznia
+KF Vllaznia,  1919,   Shkodër
+  | Vllaznia | KF Vllaznia Shkodër
+  | FK Vllaznia
+
 KS Besa
 KS Teuta
   | Teuta
@@ -41,3 +43,4 @@ FK Bylis
 
 KF Elbasani, 1923,   Elbasan
   | Klubi i Futbollit Elbasani 
+  | KS Elbasani | Klubi Sportiv Elbasani

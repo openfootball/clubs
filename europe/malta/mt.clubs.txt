@@ -12,7 +12,10 @@ Floriana FC
   | Floriana
 Hibernians FC
   | Hibernians
-Marsaxlokk FC
+
+Marsaxlokk FC, 1949,   Marsaxlokk
+  | Marsaxlokk
+
 Balzan FC
   | Balzan
 Gżira United FC
@@ -20,7 +23,7 @@ Gżira United FC
 
 Gudja United
 Hamrun Spartans FC
-  | Hamrun
+  | Hamrun | Hamrun Spartans
 FC Sirens
   | Sirens
 Santa Lucia
@@ -33,4 +36,5 @@ Tarxien Rainbows FC
 
 Rabat Ajax, Rabat      # champs (2): 1987..1985 (2)
   | Rabat Ajax FC
+
   

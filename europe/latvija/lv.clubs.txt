@@ -22,7 +22,7 @@ FK Liepāja,      Liepāja       # check -same as SK Liepājas Metalurgs ??
 #  due to the bankruptcy of its owner company and the sole sponsor metallurgical plant A/S Liepājas Metalurgs.
 
 SK Liepājas Metalurgs,      Liepāja
-
+  | Liepājas Metalurgs
 
 FK Jelgava, Jelgava
   | Jelgava

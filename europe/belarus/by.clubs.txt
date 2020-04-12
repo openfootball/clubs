@@ -54,4 +54,5 @@ FC Torpedo-SKA Minsk
 
 
 FC Belshina Bobruisk, 1976,   Bobruisk
+  | Belshina Bobruisk
   | FK Belshyna Babruisk

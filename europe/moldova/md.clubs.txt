@@ -21,7 +21,7 @@ FC Zimbru Chisinau
 FC Iskra-Stal
   | Iskra-Stal
 FC Milsami Orhei
-  | Milsami
+  | Milsami | Milsami Orhei
 
 FC Olimpia Balti
 FC Zaria Balti
