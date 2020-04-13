@@ -18,6 +18,9 @@ Ararat-Armenia FC, 2017,  Yerevan
 Kilikia FC (1992-2011),  Yerevan 
   | FC Kilikia
 
+Zvartnots-AAL FC (1997-2003),  Yerevan
+  | FC Zvartnots AAL
+
 
 FC Pyunik
   | Pyunik | Pyunik FC
@@ -47,3 +50,7 @@ FSC Lori
   | Lori
 
 Artsakh FC
+
+FC Gandzasar Kapan,  2004,   Kapan
+  | FC Gandzasar-Kapan
+  

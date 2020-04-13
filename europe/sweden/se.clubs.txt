@@ -99,3 +99,7 @@ Varbergs BoIS,  Varberg
 
 IK Brage,   Borlänge
   | Brage
+
+Landskrona BoIS, 1915,  Landskrona
+  | Landskrona Boll och Idrottsällskap
+  

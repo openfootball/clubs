@@ -88,3 +88,8 @@ MFK Vítkovice,  1919,  Ostrava (Vítkovice)
   | TJ Vítkovice    # champs (1): 1986/87
 # founded in 1919 as FC Vítkovice,
 # announced bankruptcy in 2011 and transformed to MFK Vítkovice
+
+
+FK Drnovice (1932-2006), Drnovice
+  | 1. FK Drnovice
+

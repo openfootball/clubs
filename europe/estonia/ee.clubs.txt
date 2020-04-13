@@ -40,7 +40,11 @@ JK Tammeka Tartu
 
 Paide Linnameeskond
   | Paide
-Tulevik
+
+JK Tulevik Viljandi,   Viljandi   
+  | Tulevik | Viljandi Tulevik | Viljandi JK Tulevik
+
+
 FC Kuressaare
   | Kuressaare
 Maardu Esteve

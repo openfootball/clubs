@@ -3,15 +3,20 @@
 
 
 HJK Helsinki,     Helsinki
-  | Helsingin Jalkapalloklubi | HJK
+  | HJK | Helsingin Jalkapalloklubi 
 HIFK Helsinki,    Helsinki
-  | HIFK Fotboll | IFK Helsingfors | HIFK
+  | HIFK | HIFK Fotboll | IFK Helsingfors 
   | Helsingfors IFK   # champs (2): 1962/63 1960/61
   | Helsinki IFK
 
 HPS Helsinki,   Helsinki    # champs (1): 1958/59
-  | Helsingin Palloseura | HPS
+  | HPS | Helsingin Palloseura 
 
+Finnairin Palloilijat Helsinki (1965-1998), Helsinki 
+  | FinnPa | FinnPa Helsinki
+  | Finnairin Palloilijat
+
+FC Jokerit (1999-2004),   Helsinki
 
 
 FC Haka Valkeakoski,    Valkeakoski
@@ -45,12 +50,16 @@ FC Reipas Lahti,  Lahti   # champs (3): 1971/72 1968/69 1964/65
 
 
 JJK Jyväskylä,     Jyväskylä
-  | JJK Jyvaskyla | JJK
+  | JJK | JJK Jyvaskyla 
 
 Tampere United,      Tampere
 FC Ilves,            Tampere
   | Ilves | Ilves Tampere
+  | FC Ilves Tampere
   | Tampereen Ilves [de]
+
+Tampereen Pallo-Veikot, 1930, Tampere
+  | TPV | TPV Tampere
 
 
 IFK Mariehamn,    Mariehamn
@@ -92,5 +101,12 @@ AC Oulu, 2002, Oulu
 #  OLS, OPS, OTP and Tervarit clubs.
 
 OPS Oulu,   Oulu    #  champs (2): 1982..1980 (2)
-  | Oulun Palloseura | OPS
+   | OPS | Oulun Palloseura
 
+
+Mikkelin Palloilijat, 1929, Mikkeli
+  | MP | MP Mikkeli
+
+
+AC Vantaan Allianssi (2002-2006),  Vantaa
+  | AC Allianssi

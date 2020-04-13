@@ -73,3 +73,6 @@ FC Volyn Lutsk, Lutsk
 FC Metalurh Zaporizhya,    1935,   Zaporizhya
   | MFC Metalurh Zaporizhya | Municipal Football Club Metalurh Zaporizhya
 
+
+FC Kryvbas Kryvyi Rih, 1959,  Kryvyi Rih
+

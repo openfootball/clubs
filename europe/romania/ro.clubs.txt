@@ -55,8 +55,10 @@ Gaz Metan Mediaș,   Mediaș
   | Gaz Metan | Gaz Metan Medias
   | CS Gaz Metan Mediaș
   | CS Gaz Metan Mediaş  ## todo/check: unaccent ro - auto-generate with cedilla from with ...
+
 Gloria Bistrița,    Bistrița
   | Bistrita | Gloria Bistrita
+  | ACF Gloria 1922 Bistriţa
 
 
 FC Petrolul Ploiești, Ploiești
@@ -120,8 +122,14 @@ Poli Timișoara, Timișoara
 Sepsi Sfântu Gheorghe,   Sfântu Gheorghe
   | Sepsi | Sepsi Sf. Gheorghe | Sepsi OSK
 
-Târgu Mureș,    Târgu Mureș
-  | ASA Târgu Mureș | ASA Târgu Mureş | Târgu Mureş
+ASA Târgu Mureș (2008-2018),    Târgu Mureș
+  | Târgu Mureș | ASA Târgu Mureş | Târgu Mureş
+  | ASA Tîrgu Mureş   
+  | FCM Târgu Mureş
+# in 2008 founded as FCM Târgu Mureș
+# In 2013, the club changed its name from 
+# Fotbal Club Municipal (FCM) to Asociația Sportivă Ardealul (ASA).
+
 
 Universitatea Craiova,    Craiova
   | U Craiova | CS U Craiova | CS Uni Craiova | U Craiova 1948 CS | CS Universitatea Craiova
@@ -145,10 +153,24 @@ FC Academica Clinceni, 2005,  Clinceni
   | Academica Clinceni | Fotbal Club Academica Clinceni
   | FC Academica Clinc
 
-CS Mioveni, Mioveni
+CS Mioveni, 2000, Mioveni
   | Mioveni
+
+CSM Flacăra Moreni,  1922,   Moreni
+  | Flacăra | Flacăra Moreni 
+  | CS Flacăra Moreni
+  | Club Sportiv Municipal Flacăra Moreni
+
 FC Argeș Pitești, Pitești
   | Argeș | Argeș Pitești
 
 Unirea Urziceni (1954-2017), Urziceni   # champs (2): 2011..2009 (2)
   | FC Unirea | FC Unirea Urziceni  
+
+FC Corvinul Hunedoara (1921-2004),  Hunedoara
+  | Corvinul Hunedoara
+
+FC Extensiv Craiova (1949-2013),    Caracal 
+  | Fotbal Club Extensiv Craiova
+  | FC Caracal 
+  

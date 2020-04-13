@@ -38,6 +38,9 @@ MFK Košice (1952-2017),   Košice
 #   MFK	Košice 2005–15
 #   FC VSS Košice	2015–17
 
+FC Lokomotíva Košice, 1946,  Košice
+  | FK Lokomotiva Košice
+
 
 Dukla Banská Bystrica
   | Banská Bystrica
@@ -78,3 +81,12 @@ MŠK Púchov, 1920,  Púchov
 #   2003 – FK Matador Púchov
 #   2007 – FK Púchov
 #   2015 – MŠK Púchov
+
+
+1. FC Tatran Prešov,  1898, Prešov
+
+
+FC Senec (1994-2008), Senec
+# in 2007/2008 season merged with FK DAC 1904 Dunajská Streda.
+
+

@@ -44,3 +44,9 @@ VB Vágur (1905-2005),  Vágur
   | Vágur
 # En el año 2005 el equipo se fusionó otra vez con 
 # el Sumba para crear el VB/Sumba
+
+
+B71 Sandoy,     Sandur
+  | B71 | Bóltfelagið 1971
+  | Sandoyar Ítróttarfelag B71
+  

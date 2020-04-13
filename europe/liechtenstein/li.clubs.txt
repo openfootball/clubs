@@ -7,3 +7,5 @@ FC Vaduz                    ## note: plays in swiss leagues
 
 FC USV Eschen/Mauren        ### check if plays in swiss leagues (3rd league promotion - if yes, move)???
   | Eschen/Mauren
+  | USV Eschen-Mauren
+

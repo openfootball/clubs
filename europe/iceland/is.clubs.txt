@@ -43,3 +43,10 @@ Keflavík ÍF,      Reykjanesbær
   | Keflavík
   | ÍB Keflavík      # champs (4): 1974/75 1972/73 1970/71 1965/66
   # En 1994 adopta su actual nombre Keflavík ÍF
+
+
+Knattspyrnufélag Fjallabyggðar,  Fjallabyggð  # from the towns Ólafsfjörður and Siglufjörður
+  | KF
+  | Leiftur
+# 2010: formerly two clubs
+#   Leiftur and Knattspyrnufélag Siglufjarðar (KS) 

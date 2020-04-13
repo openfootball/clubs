@@ -8,14 +8,19 @@ FC Sheriff Tiraspol, Tiraspol
 FC Dinamo-Auto Tiraspol
   | Dinamo-Auto
 
+CS Tiligul-Tiras Tiraspol (1938-2009)
+  | FC Tiligul Tiraspol
 
-FC Dacia Chisinau
+
+FC Dacia Chișinău
   | Dacia
-  | Dacia Chisinau    # champs (1): 2011/12
+  | Dacia Chișinău    # champs (1): 2011/12
 
-FC Zimbru Chisinau
+FC Zimbru Chișinău
   | Zimbru | FC Zimbru
   | Zimbru Chisinau   # champs (4): 2001...1998 (3) 1993/94
+
+FC Veris Chișinău (2011-2014)
 
 
 FC Iskra-Stal
@@ -44,3 +49,9 @@ FC Speranța Nisporeni
   | Speranța Nisporeni
 
 FC Codru
+
+
+CS Petrocub Hîncești, 1990, Sărata-Galbenă
+  | FC Petrocub-Hincesti
+
+

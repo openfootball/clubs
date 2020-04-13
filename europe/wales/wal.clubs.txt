@@ -22,7 +22,10 @@ Connah's Quay Nomads FC
   | Connah's Quay
 Bala Town FC
   | Bala | Bala Town
-Llandudno FC
+
+Llandudno FC, 1988,    Llandudno
+  | Llandudno Town FC
+
 Newtown AFC
   | Newtown
 AUK Broughton FC
@@ -70,3 +73,10 @@ Rhyl FC,  Rhyl    # in Denbighshire
 Cwmbrân Town AFC,    Cwmbrân 
   | Cwmbrân Town    # champs (1): 1993/94
   | Cwmbrân Town FC
+
+Prestatyn Town FC,  1910,  Prestatyn
+
+Afan Lido FC, 1967,   Port Talbot
+
+Haverfordwest County AFC, 1899,  Haverfordwest
+

@@ -49,20 +49,29 @@ Brechin City,  Brechin
   | Brechin
 Dumbarton,     Dumbarton
   | FC Dumbarton
+
 Dunfermline Athletic, Dunfermline
   | Dunfermline
+  | Dunfermline Athletic FC
+
 Falkirk,  Falkirk
   | FC Falkirk
+  | Falkirk FC
+
 Greenock Morton,  Greenock
   | Morton
+
 Inverness Caledonian Thistle, 1994,  Inverness
   | Inverness | Inverness C | Inverness CT | Inverness Caledonian Thistle FC
   | Caley Thistle | ICT | The Caley Jags
 
 Livingston FC, Livingston
   | Livingston | FC Livingston
+
 Queen of the South,  Dumfries
   | Queen of Sth | Queen of South
+  | Queen of the South FC
+
 Saint Mirren FC, 1877,  Paisley
   | St Mirren | St Mirren FC
   | FC St. Mirren
@@ -87,8 +96,11 @@ East Fife,        Methil
   | FC East Fife
 Forfar Athletic,  Forfar
   | Forfar
+
 Raith Rovers,     Kirkcaldy
    | Raith | Raith Rvs | FC Raith Rovers
+   | Raith Rovers FC
+
 Stranraer,        Stranraer
    | FC Stranraer
 

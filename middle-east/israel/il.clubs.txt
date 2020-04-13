@@ -78,8 +78,11 @@ Hapoel Bnei Lod FC,  Lod
   | Hapoel Bnei Lod
 Hapoel Nof HaGalil FC, Nof HaGalil
   | Hapoel Nof HaGalil
+
 Hapoel Ramat Gan Giv'atayim FC,  Ramat Gan
   | Hapoel Ramat Gan | H. Ramat Gan
+  | Hapoel Ramat Gan FC
+
 Hapoel Ramat HaSharon FC,   Ramat HaSharon
   | Hapoel Ramat HaSharon | I. Ramat Hasharon
 Hapoel Rishon LeZion FC, Rishon LeZion

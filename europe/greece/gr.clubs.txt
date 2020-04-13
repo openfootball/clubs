@@ -8,8 +8,10 @@ AEK Athens FC,     Athens    ## use!? - Marousi or Maroussi a suburban city in t
 Panathinaikos FC,  Athens
   | Panathinaikos
   | Panathinaikos Athens
+
 Apollon Smyrnis FC,  Athens
   | Apollon
+  | Apollon Athens FC
 Atromitos FC,      Athens    ## use!? - Peristeri a suburban municipality in the northwestern part of the Athens agglomeration
   | Atromitos
   | Atromitos Athen [de]
@@ -127,9 +129,8 @@ Olympiacos Volou 1937 FC, Volos › Thessaly
   | Olympiakos Volou
 
 
-Panachaiki FC, Patras › Peloponnese
-  | Panahaiki
-
+Panachaiki FC,   Patras › Peloponnese
+  | Panahaiki | Panahaiki FC
 
 Paniliakos FC, Pyrgos › Peloponnese
   | Paniliakos

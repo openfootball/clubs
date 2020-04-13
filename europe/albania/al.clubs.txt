@@ -38,10 +38,18 @@ FC Kamza
   | Kamza
 KS Kastrioti
   | Kastrioti
-FK Bylis
-  | Bylis
 
+FK Bylis,  1972,  Ballsh
+  | Bylis
+  | KF Bylis
+  | KS Bylis
 
 KF Elbasani, 1923,   Elbasan
   | Klubi i Futbollit Elbasani 
   | KS Elbasani | Klubi Sportiv Elbasani
+
+KF Tomori, 1923,  Berat
+  | FK Tomori
+
+KF Apolonia, 1925,  Fier
+

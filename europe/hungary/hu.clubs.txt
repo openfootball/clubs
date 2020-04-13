@@ -29,6 +29,11 @@ MTK Budapest, Budapest
 Csepel SC, Budapest     # champs (1): 1959/60
   | Csepel FC
 
+Budapesti VSC, 1911,    Budapest (Zugló)
+  | Budapesti Vasutas Sport Club
+
+
+
 Vác FC,   Vác 
   | Dunakanyar-Vác   # champs (1): 1994/95
   | Dunakanyar-Vác FC
@@ -79,3 +84,21 @@ Puskás Akadémia FC
 
 Kaposvári Rákóczi FC
   | Rákóczi
+
+Salgótarjáni BTC,  1920,  Salgótarján
+ | Salgótarjáni Barátok Torna Club
+
+Pécsi MFC, 1950,   Pécs  
+  | PMFC | Pécsi Mecsek Football Club
+
+FC Sopron
+
+Békéscsaba 1912 Előre, 1912,  Békéscsaba
+  | Békéscsaba | Békéscsaba Előre
+  | Békéscsabai Előre FC | Békéscsabai EFC
+  
+
+Pápai FC (1995-2015),  Pápa
+  |  Lombard Pápa TFC
+
+

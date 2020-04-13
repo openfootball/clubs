@@ -150,8 +150,11 @@ FC Gueugnon, Gueugnon
   | Gueugnon
 FC Istres, Istres
   | Istres
+
 Stade Lavallois, Laval
   | Laval | Stade Lavallois Mayenne Football Club
+  | Stade Lavallois-Mayenne FC
+
 Le Mans FC,   Le Mans ›  Pays de la Loire
   | Le Mans | Le Mans Football Club | Le Mans UC 72
 FC Libourne-Saint-Seurin, Libourne

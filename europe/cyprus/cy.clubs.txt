@@ -36,6 +36,8 @@ EPA Larnaca (1930-1994), Larnaca    # champs (1): 1970/71
   | Enosis Pezoporikou Amol FC
 # merged with Pezoporikos Larnaca and formed AEK Larnaca FC.
 
+Alki Larnaca FC (1948-2014), Larnaca
+
 
 APOP/Kinyras Peyias FC
   | APOP
@@ -59,6 +61,8 @@ Nea Salamis Famagusta FC
 
 Digenis Morphou, Morphou 
   | Digenis Akritas Morphou FC
+  | Dighenis Akritas Morphou FC
+
 
 Alki Oroklini,  Oroklini 
   | Alki Oroklinis

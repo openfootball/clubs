@@ -26,6 +26,10 @@ SC Telstar,     Velsen
   | Telstar 
   | SC Stormvogels Telstar     ## 2001–2008: Stormvogels Telstar
   
+HFC Haarlem (1889-2010),  Haarlem
+  | Haarlemsche Football Club Haarlem 
+  | Haarlem FC
+
 
 == Zuid-Holland ==
 

@@ -42,6 +42,12 @@ FC Aarau, 1902,                Aarau
 FC Wohlen, 1904,          Wohlen
   | Wohlen
 
+FC Wettingen, 1931,   Wettingen 
+  | FC Wettingen 93
+# 1931 (as FC Wettingen)
+# 1993 (as FC Wettingen 1993)
+
+
 == Valais ==
 FC Sion, 1909,                 Sion
   | Sion

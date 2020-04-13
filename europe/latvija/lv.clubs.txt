@@ -4,12 +4,22 @@
 FK RFS,  Riga
   | RFS | Rīgas Futb. Skola | FK Rīgas Futbola Skola
   | JFK Olimps/RFS           ## todo/check where this name is (still/was) used ?
+
 Riga FC,         Riga
   | Riga | FC Riga
+  | FK Rīga
+
 FS METTA,        Riga
   | METTA | FS METTA/LU | FS METTA/Latvijas Universitāte
+  | FK Universitate
+ 
+FK LU/Daugava (1979-2000), Riga    
+  | FK Latvijas Universitāte/Daugava 
+  | Torpedo Rīga
 
-FC Daugava Rīga,  Riga          # note: historic soviet era club
+FC Daugava Rīga (2003-2015),  Riga          # note: historic soviet era club
+  | FK Daugava Rīga
+
 
 Skonto FC (1991-2006), Riga
   | Skonto | FC Skonto Riga

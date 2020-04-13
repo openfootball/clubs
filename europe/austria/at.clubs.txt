@@ -272,7 +272,9 @@ Austria Klagenfurt, Klagenfurt
   | SK Austria Klagenfurt | SG Austria Klagenfurt
   | FC Kärnten     ## todo: keep as separate club - why? why not?
 
-
+SK Austria Kärnten (2007-2010), Klagenfurt
+ 
+ 
 SAK Klagenfurt, Klagenfurt
   | Slovenski atletski klub | Slowenischer AK
   | SAK Celovec/Klagenfurt

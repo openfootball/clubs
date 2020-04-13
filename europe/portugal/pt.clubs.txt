@@ -134,3 +134,9 @@ Académico Viseu,  Viseu
 Anadia FC, Anadia
   | Anadia Futebol Clube 
 AC Marinhense,  Marinha Grande
+
+
+CU Fabril Barreiro, 1937, Barreiro 
+  | Fabril Barreiro 
+  | GD Fabril | Grupo Desportivo Fabril
+  | CUF Barreiro | CUF do Barreiro    # Companhia União Fabril

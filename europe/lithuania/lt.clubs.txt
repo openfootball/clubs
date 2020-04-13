@@ -17,6 +17,10 @@ FK Kareda Kaunas (1935-2003),  Kaunas
   | FK Kareda
   | Kareda Kaunas
 
+FK Inkaras Kaunas (1937-2003), Kaunas
+  | FK Inkaras
+
+
 
 FK Ekranas
   | Ekranas
@@ -35,3 +39,6 @@ FK Kruoja
 
 Panevezys
 FK Palanga
+
+FK Mažeikiai,   Mažeikiai
+

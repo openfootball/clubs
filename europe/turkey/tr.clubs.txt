@@ -102,6 +102,8 @@ Bucaspor, 1928,       İzmir (Buca)
 Altay SK,  1914,     İzmir
   | Altay | Altay Spor Kulübü
   | Altay İzmir
+  | Altay GK
+
 Karşıyaka SK,  1912,  İzmir (Karşıyaka)
   | Karşıyaka | Karşıyaka Spor Kulübü
 Altınordu, İzmir

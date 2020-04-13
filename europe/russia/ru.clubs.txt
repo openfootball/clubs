@@ -70,8 +70,10 @@ PFC Krylya Sovetov Samara,    Samara
 Arsenal Tula,  Tula
   | Arsenal | FC Arsenal Tula
 
-Chernomorets Novorosisk,  Novorosisk
+Chernomorets Novorosisk, 1907, Novorosisk    
   | Chernomorets | FC Chernomorets Novorossiysk
+  | FC Chernomorets Krasnodarskiy Kray    # Novorossiysk is a city in Krasnodar Krai
+
 
 FC Khimki,  Khimki
   | Khimki
@@ -170,3 +172,13 @@ FC Fakel Voronezh, Voronezh
 
 FC Armavir, Armavir 
   | Torpedo Armavir    # note: on 9 June 2016, the club was renamed from FC Torpedo Armavir to FC Armavir
+
+FC Tekstilshchik Kamyshin,    1958,    Kamyshin
+  | Tekstilshchik
+  | FC Rotor Kamyshin
+# name history:
+#  1979–1995: FC Tekstilshchik Kamyshin
+#  1996: FC Energiya-Tekstilshchik Kamyshin
+#  1997: FC Energiya Kamyshin
+#  1998: FC Rotor-Kamyshin Kamyshin
+#  1999–present: FC Tekstilshchik Kamyshin

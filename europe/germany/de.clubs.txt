@@ -230,6 +230,10 @@ FFC Victoria 91,   Frankfurt an der Oder
   | FC Frankfurt Viktoria/Oder
   | 1. FC Frankfurt | 1. FC Frankfurt (Oder)
 
+FC Stahl Brandenburg,    Brandenburg an der Havel
+  | BSV Brandenburg | BSV Stahl Brandenburg
+
+
 
 == Berlin ==
 

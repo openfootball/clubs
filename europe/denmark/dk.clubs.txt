@@ -29,6 +29,11 @@ B 1908 Amager,       København
 Vanløse IF,          København
   | Vanlöse IF [de]
 
+BK Frem, 1886  København (Valby-Sydhavnen)
+  | Boldklubben Frem 
+  | BK Frem Copenhagen
+
+
 Akademisk Boldklub,  Gladsaxe   # north of Copenhagen 
   | AB Gladsaxe |  Akademisk Boldklub Gladsaxe
   | Akademisk BK
@@ -60,6 +65,11 @@ Vendsyssel FF, Hjørring
 == Midtjylland ==
 FC Midtjylland, 1999,   Herning
   | Midtjylland | Football Club Midtjylland
+
+Ikast FS (1935-1999),  Ikast 
+  | IFS | Ikast Forenede Sportsklubber
+# In 1999 merged with Herning Fremad to found FC Midtjylland.
+
 
 AGF Aarhus, 1880,   Aarhus
   | AGF | Aarhus 
@@ -118,6 +128,9 @@ Køge BK (1927-2009),     Køge     # in Zealand
   | Køge Boldklub    # champs (1): 1976/77
 # In March 2009 the first team merged
 #    with Herfølge Boldklub to form HB Køge.
+
+Holbæk B&I, 1931,     Holbæk   # on Zealand 
+  | Holbæk Bold- & Idrætsforening
 
 
 FC Fredericia,  Fredericia

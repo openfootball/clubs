@@ -75,8 +75,14 @@ Brescia, Brescia
   | Brescia Calcio
 Carpi, Carpi
   | Carpi FC | Carpi FC 1909 | Carpi Football Club 1909
-Cesena, Cesena
-  | AC Cesena | Associazione Calcio Cesena
+
+AC Cesena (1940-2018), Cesena
+  | Cesena | Associazione Calcio Cesena
+  | Cesena FC
+# bankrupted and folded in 2018. 
+# Another club from Cesena, A.S.D. Romagna Centro Cesena, claimed as a successor.
+
+
 Cittadella, Cittadella
   | AS Cittadella
 Cremonese, Cremona

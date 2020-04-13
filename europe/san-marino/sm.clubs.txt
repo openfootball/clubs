@@ -29,7 +29,7 @@ SP Cailungo
 SS Cosmos
   | Cosmos
 FC Domagnano
-  | Domagnano
+  | Domagnano | Domagnano FC
 FC Fiorentino
   | Fiorentino
 SS Pennarossa

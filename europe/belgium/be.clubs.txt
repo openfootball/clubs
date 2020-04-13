@@ -13,6 +13,7 @@ RWD Molenbeek,  Brussels (Molenbeek)
   | RWDM Brussels FC
   | FC Molenbeek Brussels Strombeek
   | FC Brussels
+  | R. Racing White Bruxelles
 ##  keep Molenbeek clubs separte? from wikipedia:
 ## This R.W.D.M. Brussels F.C. article is about the club dissolved in 2014. 
 # For the predecessor club dissolved in 2002, see R.W.D. Molenbeek. 
@@ -49,6 +50,10 @@ Germinal Beerschot (1920-2013),  Antwerpen › Antwerpen › Vlaanderen       ##
 # 1920 (Germinal Ekeren)
 # 1999 (merger; as Germinal Beerschot)
 
+Beerschot VAC (1899-1999), Antwerpen 
+  | Koninklijke Beerschot Voetbal en Atletiek Club
+# Note: Not to be confused with K. Beerschot AC
+
 
 KV Mechelen, 1904,    Mechelen › Antwerpen › Vlaanderen
   | Mechelen | YR KV Mechelen | Yellow Red Koninklijke Voetbalclub Mechelen
@@ -64,6 +69,10 @@ K Lierse SK,    Lier     › Antwerpen › Vlaanderen
 
 KRC Genk, 1988,    Genk         › Limburg › Vlaanderen
   | Genk | Racing Genk | Koninklijke Racing Club Genk
+  | KFC Winterslag    ## todo: keep as separate club - why? why not?
+# in 1988 formed by the merger of 
+#  Waterschei Thor with KFC Winterslag
+
 
 Sint-Truidense VV, 1924,  Sint-Truiden › Limburg › Vlaanderen
   | St Truiden | St. Truiden VV 
@@ -83,8 +92,10 @@ KSC Lokeren OV, 1923,   Lokeren     › Oost-Vlaanderen › Vlaanderen
   | Lokeren | Sporting Lokeren | KSC Lokeren Oost-Vlaanderen
   | Koninklijke Sporting Club Lokeren Oost-Vlaanderen
 
-SC Eendracht Aalst,  Aalst       › Oost-Vlaanderen › Vlaanderen
-  | Aalst
+SC Eendracht Aalst,  1919,  Aalst       › Oost-Vlaanderen › Vlaanderen
+  | Aalst | Eendracht Aalst
+  | KSC Eendracht Aalst
+
 FCV Dender EH,       Denderleeuw › Oost-Vlaanderen › Vlaanderen
   | Dender
 

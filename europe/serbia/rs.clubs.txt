@@ -14,6 +14,9 @@ OFK Beograd, Belgrade
 FK Rad Belgrade, Belgrade
   | FK Rad | Rad
 
+FK Bežanija,  1921,   Belgrade (New Belgrade)
+  | Fudbalski Klub Bežanija
+
 FK Obilić (1924-2015),  Belgrade 
   | Obilić | Obilić Belgrade
 
@@ -23,8 +26,15 @@ FK Vojvodina,  Novi Sad
 
   
 FK Spartak Zlatibor voda
-FK Sloboda Užice
+
+FK Sloboda Užice,     Užice
   | Sloboda Užice
+
+FK Sevojno (1950-2010),   Užice (Sevojno)
+  | FK Sloboda Sevojno
+# July 2010 merged into FK Sloboda Užice
+
+
 FK Jagodina
   | Jagodina
 FK Borac Čačak
@@ -54,3 +64,17 @@ FK Proleter
 FK Radnik Surdulica
   | Radnik Surdulica
 Macva Sabac
+
+FK Smederevo, 1924,  Smederevo
+  | Smederevo 
+  | FK Smederevo 1924 | Fudbalski Klub Smederevo 1924
+
+FK Banat Zrenjanin (2006-2016),   Zrenjanin
+  | Banat Zrenjanin
+
+FK Hajduk Kula (1925-2013),   Kula
+  | Hajduk Kula
+
+
+OFK Bečej 1918,  1918,  Bečej
+  | FK Bečej

@@ -77,3 +77,13 @@ FC Rodange 91
   | Rodange
 US Hostert
   | Hostert
+
+FC Mondercange, 1933,  Mondercange  
+
+US Rumelange,  1908, Rumelange
+  | Union Sportive Rumelange
+
+CS Pétange (1910-2015),    Pétange
+  | Club Sportif Pétange
+# In 2015 folded and merged with FC Titus Lamadelaine
+#  to form Union Titus Pétange.
