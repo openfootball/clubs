@@ -72,8 +72,12 @@ Zalaegerszegi TE
 
 Fehérvár FC
   | Fehérvár
-Diósgyőri VTK
+
+Diósgyőri VTK,  1910, Miskolc (Diósgyőr)
   | Diósgyőr
+  | Diósgyöri VTK
+  | Diósgyőr-Vasgyári Testgyakorlók Köre
+
 
 Mezőkövesd Zsóry SE
   | Mezőkövesd
@@ -96,9 +100,12 @@ FC Sopron
 Békéscsaba 1912 Előre, 1912,  Békéscsaba
   | Békéscsaba | Békéscsaba Előre
   | Békéscsabai Előre FC | Békéscsabai EFC
-  
+  | Békéscsaba 1912 Előre SE
 
 Pápai FC (1995-2015),  Pápa
-  |  Lombard Pápa TFC
+  | Lombard Pápa TFC
 
+
+FC Tatabánya, 1910,   Tatabánya
+  | Tatabánya FC
 

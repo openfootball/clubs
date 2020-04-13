@@ -22,6 +22,7 @@ RWD Molenbeek,  Brussels (Molenbeek)
 
 Saint-Gilloise,  Brussels (Saint-Gilles)
   | R. Union Saint-Gilloise
+  | Union St. Gilloise
  
 
 == Antwerpen › Vlaanderen ==
@@ -52,6 +53,7 @@ Germinal Beerschot (1920-2013),  Antwerpen › Antwerpen › Vlaanderen       ##
 
 Beerschot VAC (1899-1999), Antwerpen 
   | Koninklijke Beerschot Voetbal en Atletiek Club
+  | K. Beerschot VAC
 # Note: Not to be confused with K. Beerschot AC
 
 
@@ -141,6 +143,7 @@ Royal Excel Mouscron, 2010,    Mouscron  › Hainaut › Wallonie     ## Moeskro
   | Mouscron | Mouscron-Péruwelz | RE Mouscron | Excel Mouscron | R. Excel Mouscron
   | R. Mouscron-Péruwelz | Royal Mouscron-Péruwelz
   | R. Excelsior Mouscron
+  | Excelsior Mouscron
 
 RAEC Mons,             Mons      › Hainaut › Wallonie     ##  Bergen [nl]
   | Bergen
@@ -163,7 +166,7 @@ Standard Liège, 1898,   Liège     › Liège   › Wallonie    ## [fr]
 
 RFC Liège,  1892,  Liège
   | RC Liégeois
-  | Royal Football Club de Liège
+  | RFC de Liège | Royal Football Club de Liège
 
 
 == ??? ==

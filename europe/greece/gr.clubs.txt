@@ -57,10 +57,12 @@ PAOK FC,              Thessaloniki › Central Macedonia
   | PAOK Saloniki
 Aris Thessaloniki FC, Thessaloniki › Central Macedonia
   | Aris | Aris Thessaloniki
+  | Aris Saloniki
 Iraklis 1908 Thessaloniki FC, Thessaloniki › Central Macedonia
   | Iraklis | Iraklis FC
+  | AEP Iraklis FC
   | Heracles [en]   ## Iraklis = Haracles (engl.)
-
+ 
 Apollon Pontou FC, Kalamaria › Central Macedonia    ## Kalamaria, Thessaloniki
   | Kalamaria
 
@@ -106,7 +108,9 @@ Ergotelis FC, Heraklion › Crete
 OFI Crete FC, Heraklion › Crete
   | OFI | OFI Crete
   | OFI Kreta FC [de]
-  
+  | OFI Heraklion
+
+
 Kalamata FC,       Kalamata › Peloponnese
   | Kalamata | Kalamata Football Club
   | PAE PS Kalamata

@@ -231,8 +231,8 @@ FFC Victoria 91,   Frankfurt an der Oder
   | 1. FC Frankfurt | 1. FC Frankfurt (Oder)
 
 FC Stahl Brandenburg,    Brandenburg an der Havel
+  | Stahl Brandenburg
   | BSV Brandenburg | BSV Stahl Brandenburg
-
 
 
 == Berlin ==
@@ -251,6 +251,7 @@ Blau-Weiß 90 Berlin (-1992), Berlin › Berlin
   | Blau-Weiss 90 Berlin
 SC Tasmania 1900 Berlin (-1973), Berlin › Berlin
   | Tasmania Berlin | Tasmania 1900 Berlin
+  | SV Tasmania Berlin
 
 BFC Dynamo Berlin,     Berlin › Berlin
   | BFC Dynamo
@@ -421,8 +422,14 @@ Dynamo Dresden, 1953,      Dresden › Sachsen
  Lennéstraße 12 // 01069 Dresden
  
 RB Leipzig, 2009,     Leipzig › Sachsen
+
 VfB Leipzig (-2004),  Leipzig › Sachsen     ## note: 2004 aufgelöst in bl 1993/94
   | Leipzig
+
+1. FC Lokomotive Leipzig (1966-1991), Leipzig 
+  | 1. FC Lok | 1. FC Lok Leipzig
+  | Lok Leipzig 
+# 1991 in VfB Leipzig umbenannt
 
 
 BSG Chemie Leipzig, Leipzig     # champs (1): 1964/65

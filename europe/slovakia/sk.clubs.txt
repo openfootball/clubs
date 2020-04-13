@@ -39,6 +39,7 @@ MFK Košice (1952-2017),   Košice
 #   FC VSS Košice	2015–17
 
 FC Lokomotíva Košice, 1946,  Košice
+  | Lokomotiva Košice
   | FK Lokomotiva Košice
 
 
@@ -84,6 +85,7 @@ MŠK Púchov, 1920,  Púchov
 
 
 1. FC Tatran Prešov,  1898, Prešov
+  | Tatran Prešov
 
 
 FC Senec (1994-2008), Senec

@@ -38,6 +38,8 @@ GD Chaves, Chaves
 Estoril Praia, Estoril
   | Estoril
   | GD Estoril Praia | Grupo Desportivo Estoril Praia
+  | GD Estoril
+  
 CD Feirense, Santa Maria da Feira
   | Feirense
 
@@ -91,6 +93,7 @@ Gil Vicente FC, Barcelos
   | Gil Vicente
 União de Leiria,   Leiria
   | Leiria | UD Leiria | União Desportiva de Leiria
+  | União Leiria
   
 União da Madeira,  Funchal
   | Madeira | União Madeira
@@ -137,6 +140,7 @@ AC Marinhense,  Marinha Grande
 
 
 CU Fabril Barreiro, 1937, Barreiro 
-  | Fabril Barreiro 
+  | Fabril Barreiro | Fabril do Barreiro
   | GD Fabril | Grupo Desportivo Fabril
   | CUF Barreiro | CUF do Barreiro    # Companhia União Fabril
+ 

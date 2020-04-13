@@ -51,10 +51,12 @@ Maccabi Petah Tikva FC, Petah Tikva
   | Maccabi Petah Tikva
   | Macc. Petach Tikva
   | Maccabi Petach-Tikva FC    ## fix/todo: check dash(-) if fancy?!
-
+  | Maccabi Petach-Tikva
+ 
 Hapoel Petah Tikva FC,   Petah Tikva
   | H. Petach Tikva | Hapoel Petah Tikva
   | Hapoel Petach-Tikva FC     ## fix/todo: check dash(-) if fancy?!
+  | Hapoel Petach-Tikva
 
 Hapoel Kfar-Saba FC
   | H. Kfar-Saba | Hapoel Kfar-Saba

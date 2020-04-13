@@ -26,7 +26,8 @@ FK Borac Banja Luka
 FK Modriča
 
 FK Sloboda Tuzla
-  | Sloboda
+  | Sloboda | Sloboda Tuzla
+  
 FK Radnik Bijeljina
   | Radnik Bijelji | Radnik Bijeljina
 

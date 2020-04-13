@@ -26,6 +26,7 @@ Bohemians Praha 1905, 1905, Praha
   | Bohemians EKD Praha      # champs (1): 1983/84
 
 FK Viktoria Žižkov, 1903, Praha (Žižkov)
+  | Viktoria Žižkov
 
 
 FK Mladá Boleslav, 1902, Mladá Boleslav   ## Central Bohemia

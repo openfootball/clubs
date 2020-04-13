@@ -121,8 +121,11 @@ Virtus Entella, Chiavari
 
 Piacenza Calcio, Piacenza
   | Piacenza | Piacenza Calcio 1919
+
 LR Vicenza Virtus, Vicenza
   | Vicenza | Vicenza Calcio
+  | Vicenza Virtus
+
 Calcio Padova, Padova
   | Padova
   | Padua Calcio [de]

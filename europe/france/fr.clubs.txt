@@ -171,8 +171,10 @@ Perpignan FC,  Canet-en-Roussillon
 
 FC Rouen,  Rouen
   | Rouen
-CS Sedan-Ardennes,  Sedan
-  | Sedan
+CS Sedan-Ardennes,  1919, Sedan
+  | Sedan | CS Sedan
+  | Club Sportif Sedan Ardennes
+
 FC Sète,  Sète
   | Sete
 Stade Briochin, Saint-Brieuc

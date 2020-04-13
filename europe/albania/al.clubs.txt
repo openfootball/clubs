@@ -52,4 +52,6 @@ KF Tomori, 1923,  Berat
   | FK Tomori
 
 KF Apolonia, 1925,  Fier
+  | KF Apolonia Fier
+  
 

@@ -37,7 +37,7 @@ EPA Larnaca (1930-1994), Larnaca    # champs (1): 1970/71
 # merged with Pezoporikos Larnaca and formed AEK Larnaca FC.
 
 Alki Larnaca FC (1948-2014), Larnaca
-
+  | Alki Larnaca
 
 APOP/Kinyras Peyias FC
   | APOP
@@ -53,7 +53,7 @@ Doxa Katokopia FC,  Katokopia
  
 Enosis Neon Paralimni FC
   | Paralimni
-  | Enosis N. Paralimni
+  | Enosis N. Paralimni | Enosis Neon Paralimni
 Nea Salamis Famagusta FC
   | Nea Salamis
   | Nea Salamina Fama.
