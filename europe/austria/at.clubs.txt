@@ -78,8 +78,9 @@ SC Trausdorf
 == Niederösterreich ==
 
 FC Admira Wacker Mödling, 1905, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
-  | Admira | Admira Wacker | FC Admira Wacker | Admira Wacker Mödling
-  | Admira Wien     ## historic Admira Wien name add (-????) or something
+  | Admira | Admira Wacker 
+  | FC Admira | FC Admira Wacker | Admira Wacker Mödling
+  | Admira Wien        ## historic Admira Wien name add (-????) or something
   | SK Admira Wacker Wien
   | SK Admira Vienna [en]
  Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf      ## Mödling 
@@ -269,9 +270,15 @@ ATSV Wolfsberg, 	Wolfsberg
 Austria Klagenfurt, Klagenfurt
   | A. Klagenfurt
   | SK Austria Klagenfurt | SG Austria Klagenfurt
+  | FC Kärnten     ## todo: keep as separate club - why? why not?
+
+
 SAK Klagenfurt, Klagenfurt
   | Slovenski atletski klub | Slowenischer AK
   | SAK Celovec/Klagenfurt
+
+
+
 
 Villacher SV, Villach
 

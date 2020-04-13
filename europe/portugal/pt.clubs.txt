@@ -8,8 +8,11 @@ Sporting CP,      Lisboa
   | Sporting Lisboa | Sporting Clube de Portugal
   | Sp Lisbon [en]
   | Sporting Liss. [de] | Sporting Lissabon [de]
+
 Os Belenenses,    Lisboa
   | Belenenses | Belenenses L. | Belenenses SAD
+  | CF Os Belenenses
+
 Casa Pia,         Lisboa
   | Casa Pia AC | Casa Pia Atlético
   | Casa Pia Atlético Clube
@@ -87,7 +90,8 @@ SC Farense, Faro
 Gil Vicente FC, Barcelos
   | Gil Vicente
 União de Leiria,   Leiria
-  | Leiria | União Desportiva de Leiria
+  | Leiria | UD Leiria | União Desportiva de Leiria
+  
 União da Madeira,  Funchal
   | Madeira | União Madeira
 SC Salgueiros,  Paranhos

@@ -285,8 +285,10 @@ CE Sabadell
   | Sabadell | CE Sabadell FC | Centre d'Esports Sabadell Futbol Club
 UD Salamanca
   | Salamanca
-Real Racing Santander
-  | Santander | Racing Santander
+
+Real Racing Santander,  1913,   Santander  
+  | Santander | Racing Santander | Real Racing Club de Santander
+  | Real Racing Club
 
 Terrassa FC
   | Terrassa

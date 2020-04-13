@@ -26,11 +26,15 @@ FC Shakhtyor Soligorsk
 
 FC Naftan Novopolotsk
   | Naftan
+
 FC Torpedo Zhodino
-  | Torpedo Zhodino
+  | Torpedo Zhodino | FC Torpedo-Belaz Zhodino
+
 
 FC Dinamo Brest
   | Dinamo Brest
+  | FC Dynamo Brest
+  
 FC Neman Grodno
   | Neman
 

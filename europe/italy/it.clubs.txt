@@ -89,12 +89,16 @@ Frosinone, Frosinone
 Novara, Novara
   | Novara Calcio
 Palermo, Palermo
-  | US Palermo | Unione Sportiva Città di Palermo
+  | US Palermo
+  | US Città di Palermo | Unione Sportiva Città di Palermo
 Parma, Parma
   | Parma FC | FC Parma | Parma Football Club
   | Parma Calcio | Parma Calcio 1913
-Perugia, Perugia
-  | Perugia Calcio
+
+AC Perugia, 1905,  Perugia
+  | Perugia | Perugia Calcio
+  | AC Perugia Calcio | Associazione Calcistica Perugia Calcio
+
 Pescara, Pescara
   | Pescara Calcio
 Pro Vercelli, Vercelli

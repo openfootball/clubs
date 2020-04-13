@@ -22,6 +22,19 @@ Daco-Getica București,   București
   | Daco-Getica Bucuresti | Asociația Sport Club Daco-Getica București
 ## From 1992 to the summer of 2018, the team was known as Juventus București
 
+Sportul Studenţesc Bucureşti, 1916,  București
+  | Sportul 
+  | FC Sportul Studenţesc | FC Sportul Studenţesc Bucureşti
+
+AS Progresul București,   1944,  București
+  | Progresul | Progresul București 
+  | FC Progresul București | Fotbal Club Progresul București
+  | FC Naţional Bucureşti    
+# The team was founded in 1944 as B.N.R. București, 
+#   being the team of the National Bank of Romania (B.N.R.)
+
+
+Victoria București (1949-1990),  București
 
 
 CFR Cluj,     Cluj

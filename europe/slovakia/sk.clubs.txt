@@ -67,3 +67,14 @@ MFK Zemplín Michalovce
   | Michalovce
 
 FK Poprad, 1906, Poprad
+
+
+MŠK Púchov, 1920,  Púchov 
+  | Mestský Športový Klub Púchov
+  | FK Matador Púchov 
+# In July 2006, lost its main sponsor, Matador a.s., 
+#  and was renamed FK Púchov
+#  name history:
+#   2003 – FK Matador Púchov
+#   2007 – FK Púchov
+#   2015 – MŠK Púchov

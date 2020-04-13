@@ -102,3 +102,14 @@ Szombierki Bytom, 1919, Bytom (Szombierki)  # champs (1): 1980/81
 Stal Mielec, 1939, Mielec   # champs (2): 1976/77 1973/74
   | KS Stal Mielec | FKS Stal Mielec
 
+Dyskobolia Grodzisk Wielkopolski, 1922, Grodzisk Wielkopolski 
+  | KS Dyskobolia Grodzisk Wielkopolski | Klub Sportowy Dyskobolia Grodzisk Wielkopolski
+  | Groclin Grodzisk Wielkopolski
+
+
+Amica Wrońki (1992-2007),  Wrońki 
+# was formed when two clubs were joined together, Błękitni Wronki and LZS Czarni Wromet Wróblewo
+
+
+GKS Katowice, 1964,  Katowice
+ | Górniczy Klub Sportowy Katowice   # "Miners Sporting Club"

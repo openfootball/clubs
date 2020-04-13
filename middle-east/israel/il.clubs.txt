@@ -50,6 +50,11 @@ Hapoel Ra'anana AFC, Ra'anana
 Maccabi Petah Tikva FC, Petah Tikva
   | Maccabi Petah Tikva
   | Macc. Petach Tikva
+  | Maccabi Petach-Tikva FC    ## fix/todo: check dash(-) if fancy?!
+
+Hapoel Petah Tikva FC,   Petah Tikva
+  | H. Petach Tikva | Hapoel Petah Tikva
+  | Hapoel Petach-Tikva FC     ## fix/todo: check dash(-) if fancy?!
 
 Hapoel Kfar-Saba FC
   | H. Kfar-Saba | Hapoel Kfar-Saba
@@ -73,8 +78,6 @@ Hapoel Bnei Lod FC,  Lod
   | Hapoel Bnei Lod
 Hapoel Nof HaGalil FC, Nof HaGalil
   | Hapoel Nof HaGalil
-Hapoel Petah Tikva FC, Petah Tikva
-  | H. Petach Tikva | Hapoel Petah Tikva
 Hapoel Ramat Gan Giv'atayim FC,  Ramat Gan
   | Hapoel Ramat Gan | H. Ramat Gan
 Hapoel Ramat HaSharon FC,   Ramat HaSharon

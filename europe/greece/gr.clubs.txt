@@ -56,7 +56,7 @@ PAOK FC,              Thessaloniki › Central Macedonia
 Aris Thessaloniki FC, Thessaloniki › Central Macedonia
   | Aris | Aris Thessaloniki
 Iraklis 1908 Thessaloniki FC, Thessaloniki › Central Macedonia
-  | Iraklis
+  | Iraklis | Iraklis FC
   | Heracles [en]   ## Iraklis = Haracles (engl.)
 
 Apollon Pontou FC, Kalamaria › Central Macedonia    ## Kalamaria, Thessaloniki

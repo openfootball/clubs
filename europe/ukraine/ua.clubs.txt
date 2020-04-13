@@ -69,3 +69,7 @@ Kolos Kovalivka
 
 FC Volyn Lutsk, Lutsk 
   | Volyn Lutsk
+
+FC Metalurh Zaporizhya,    1935,   Zaporizhya
+  | MFC Metalurh Zaporizhya | Municipal Football Club Metalurh Zaporizhya
+

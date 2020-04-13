@@ -37,3 +37,8 @@ NK Nafta 1903,      Lendava
 
 NK Krško, 1922,   Krško
   | Krško | Nogometni Klub Krško
+
+
+NK Primorje (1924-2011),  Ajdovščina
+ | Primorje | Nogometni Klub Primorje 
+

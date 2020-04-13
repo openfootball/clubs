@@ -53,7 +53,7 @@ FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
 
 FC Anzhi Makhachkala, 1991,  Makhachkala      ## Dagestan (Republic of) >  North Caucasian (Federal District)
   | Anzhi | Anzhi Makhachkala | FK Anzi Makhackala
-  | Anji
+  | Anji | FC Anji Makhachkala
 
 FC Sibir Novosibirsk,  Novosibirsk
   | Sibir | Sibir' | FC Sibir
@@ -107,7 +107,9 @@ FC Rostov,     Rostov-on-Don
 
 Rotor, Volgograd
   | Rotor Volgograd | FC Rotor Volgograd
+  | SC Rotor Volgograd
   | FC Rotor Wolgograd [de]
+
 Saturn, Ramenskoe
 Shinnik, Yaroslavl
   | Shinnik Yaroslavl
