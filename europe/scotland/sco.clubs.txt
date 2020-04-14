@@ -59,7 +59,7 @@ Falkirk,  Falkirk
   | Falkirk FC
 
 Greenock Morton,  Greenock
-  | Morton
+  | Morton |  Greenock Morton FC
 
 Inverness Caledonian Thistle, 1994,  Inverness
   | Inverness | Inverness C | Inverness CT | Inverness Caledonian Thistle FC

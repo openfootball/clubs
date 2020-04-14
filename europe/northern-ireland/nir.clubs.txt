@@ -30,7 +30,7 @@ Glenavon FC
 Coleraine FC
   | Coleraine
 Ballymena United FC
-  | Ballymena
+  | Ballymena | Ballymena United
 
 Dungannon Swifts FC
   | Dungannon

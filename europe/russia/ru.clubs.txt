@@ -23,6 +23,7 @@ ii) Spartak Moskva II
   
 FC Moskva,    Moskva
   | Moskva
+  | FK Moskva
   | FC Moscow [en]
 Torpedo Moskva,    Moskva
   | Torpedo | FC Torpedo Moskva
@@ -175,6 +176,7 @@ FC Armavir, Armavir
 
 FC Tekstilshchik Kamyshin,    1958,    Kamyshin
   | Tekstilshchik
+  | Tekstilshchik Kamyshin
   | FC Rotor Kamyshin
 # name history:
 #  1979–1995: FC Tekstilshchik Kamyshin

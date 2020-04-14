@@ -2,14 +2,23 @@
 =  Georgia
 
 
-FC Dinamo Tbilisi, Tbilisi
+FC Dinamo Tbilisi, Tbilisi,  Tbilisi
   | Dinamo Tbilisi
-FC Locomotive Tbilisi
+FC Locomotive Tbilisi,   Tbilisi
   | Locomotive Tbilisi
+  | FC Lokomotive Tbilisi
+  | Lokomotiv Tbilisi
+
+FC Ameri Tbilisi (2002-2009), Tbilisi
+  | Ameri 
 
 
-FC Zestafoni
+FC Zestafoni, 2014,  Zestafoni
   | Zestafoni     # champs (2): 2013..2011 (2)
+
+FC Margveti Zestafoni (1990-2000),  Zestafoni 
+  | Margveti Zestafoni
+# Margveti was declared bankrupt in 2000.
 
 
 FC Metalurgi Rustavi
@@ -37,3 +46,8 @@ FC Sioni Bolnisi
 
 FC Saburtalo
   | Saburtalo
+
+FC Kolkheti Poti, 1913,  Poti
+  | FC Kolkheti-1913 Poti
+
+

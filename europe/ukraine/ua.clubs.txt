@@ -11,6 +11,7 @@ FC Dynamo Kyiv,  Kyiv
 FC Arsenal Kyiv,  Kyiv
   | Arsenal Kyiv
   | Arsenal Kiew [de]
+  | Arsenal Kiev
   
 
 FC Shakhtar Donetsk,  Donetsk
@@ -72,7 +73,8 @@ FC Volyn Lutsk, Lutsk
 
 FC Metalurh Zaporizhya,    1935,   Zaporizhya
   | MFC Metalurh Zaporizhya | Municipal Football Club Metalurh Zaporizhya
-
+  | Metalurg Zaporizhya
 
 FC Kryvbas Kryvyi Rih, 1959,  Kryvyi Rih
-
+  | FK Krivbas
+  | Futbolniy Klub Krivbas Kriviy Rig

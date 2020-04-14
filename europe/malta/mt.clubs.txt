@@ -41,3 +41,5 @@ Rabat Ajax, Rabat      # champs (2): 1987..1985 (2)
 Marsa FC, 1920,  Marsa
 
 Żurrieq FC, 1949,  Żurrieq
+  | FC Zurrieq
+

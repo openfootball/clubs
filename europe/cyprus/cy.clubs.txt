@@ -46,6 +46,8 @@ Ermis Aradippou FC
 
 Ethnikos Achnas FC
   | Ethnikos Achnas
+  | Ethnikos Achna
+  
 Pafos FC
   | Pafos | FC Pafos
 Doxa Katokopia FC,  Katokopia
@@ -62,7 +64,7 @@ Nea Salamis Famagusta FC
 Digenis Morphou, Morphou 
   | Digenis Akritas Morphou FC
   | Dighenis Akritas Morphou FC
-
+  | Dighenis Morphou
 
 Alki Oroklini,  Oroklini 
   | Alki Oroklinis

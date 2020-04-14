@@ -49,8 +49,11 @@ Sandefjord, Sandefjord
   | Sandefjord Fotball
 Sandnes Ulf,  Sandnes
   | Sandnes
+
 Sarpsborg 08,  Sarpsborg
   | Sarpsborg | Sarpsborg 08 FF | Sarpsborg 08 Fotballforening
+  | Sarpsborg FK
+
 Sogndal,  Sogndal
   | Sogndal Fotball | Sogndal IL
 Stabæk,  Bærum
@@ -75,8 +78,10 @@ FK Jerv,   Grimstad
 Ullensaker/Kisa IL,   Ullensaker    ## locaction use Jessheim ???
   | Ull/Kisa | Ullensaker/Kisa
 
-IL Hødd,   Ulsteinvik
+IL Hødd, 1919,  Ulsteinvik
   | Hødd | Idrettslaget Hødd
+  | IL Hødd Fotball
+
 
 Hamarkameratene,  Hamar
   | HamKam | Ham-Kam
@@ -95,3 +100,11 @@ Tromsdalen UIL,  Tromsdalen
   | Tromsdalen
 Åsane Fotball, Åsane
   | Aasane Fotball [de]
+
+
+Kongsvinger IL,  1892,    Kongsvinger
+  | Kongsvinger | Kongsvinger IL Toppfotball
+
+Bryne FK,  1926,   Bryne
+   | Bryne Fotballklubb
+  

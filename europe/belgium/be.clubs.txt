@@ -14,6 +14,7 @@ RWD Molenbeek,  Brussels (Molenbeek)
   | FC Molenbeek Brussels Strombeek
   | FC Brussels
   | R. Racing White Bruxelles
+  | Racing White Brussels
 ##  keep Molenbeek clubs separte? from wikipedia:
 ## This R.W.D.M. Brussels F.C. article is about the club dissolved in 2014. 
 # For the predecessor club dissolved in 2002, see R.W.D. Molenbeek. 
@@ -181,6 +182,7 @@ KFC Lommel SK,  Lommel
   | Lommel
 RAA Louviéroise, La Louvière
   | Louvieroise
+  | RAA La Louviéroise
 KSV Roeselare, Roeselare
   | Roeselare
 RFC Seraing, Seraing

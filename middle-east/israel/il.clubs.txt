@@ -68,6 +68,8 @@ Sektzia Nes Tziona FC,   Ness Ziona
 
 Bnei Sakhnin FC,  Sakhnin
   | Bnei Sakhnin
+  | Bnei Sachnin FC
+  
 FC Kafr Qasim, Kafr Qasim
   | SC Kfar Qasem
 Hapoel Acre FC, Acre

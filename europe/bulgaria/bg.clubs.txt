@@ -17,6 +17,9 @@ PFC Lokomotiv Sofia, 1929,  Sofia
 Tsarsko Selo Sofia, 2015,   Sofia
   | FC Tsarsko Selo Sofia
 
+PFC Akademik Sofia, 1947,  Sofia
+  | Akademik | Akademik Sofia 
+
 
 
 PFC Botev Plovdiv, 1912,       Plovdiv
@@ -36,6 +39,7 @@ PFC Litex Lovech, 1921,        Lovech
   | Litex | Professional Football Club Litex Lovech
 PFC Cherno More Varna, 1913,   Varna
   | Cherno More
+  | Cherno More Varna
 PFC Ludogorets Razgrad, 1945,  Razgrad
   | Ludogorets | Ludog. Razgrad | Ludogorets Razgrad
   | Professional Football Club Ludogorets Razgrad
@@ -57,13 +61,17 @@ PFC Montana, 1921,    Montana
 
 FC Pirin Blagoevgrad, 1922,   Blagoevgrad   ## note: merged two clubs in 2009; PFC Pirin Blagoevgrad only "historic" name
   | Blagoevgrad | PFC Pirin Blagoevgrad
+  | Pirin Blagoevgrad
 
 FC Dunav Ruse, 1949,   Ruse
   | Dunav | FC Dunav | FC Dunav 2010
+  | PFC Dunav Ruse
 
-POFC Botev Vratsa,  Vratsa
+POFC Botev Vratsa,  1921, Vratsa
   | Botev Vratsa
   | OFC Botev Vratsa
+  | PFC Botev Vratsa
+  | FK Botev Vratsa
 
 SFC Etar Veliko Tarnovo,  Veliko Tarnovo
   | Et. Veliko Tarnovo | Etar Veliko Tarnovo
@@ -77,3 +85,21 @@ Tsarsko Selo
 Vitosha Bistritsa,   Bistritsa    # in Sofia City Province
   | FC Vitosha | FC Vitosha Bistritsa 
   | Vitosha Bistrica
+
+
+OFC Sliven 2000, 2000, Sliven
+  | Sliven 
+  | OFC Sliven
+
+PFC Marek Dupnitsa,   1919, Dupnitsa 
+  | FC Marek | FC Marek Dupnitsa 
+  | Marek Dupnitza
+
+PFC Naftex Burgas (1986-2009),  Burgas
+# Note: For the new club claimed as the successor, see PFC Neftochimic Burgas. 
+
+FC Shumen 1929 (-2016),  Shumen 
+  | FC Shumen
+# in the summer of 2013 founded as an alternative to the other local club PFC Shumen 2010, which had been struggling financially for a number of years.
+# Note: Not to be confused with PFC Shumen 2010
+

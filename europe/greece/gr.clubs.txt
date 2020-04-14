@@ -27,6 +27,7 @@ Chalkidona FC, Athens   ## Nikaia - a suburb in the western part of the Athens a
   | Chalkidona
 Egaleo FC, Athens   ## Egaleo - a suburb of Athens
   | Egaleo
+  | AO Aigaleo
 
 Ethnikos Asteras FC, Athens   ## Kaisariani - a suburban town and a municipality in the eastern part of the Athens agglomeration
   | Ethnikos Asteras | Eth Asteras
@@ -43,7 +44,7 @@ Proodeftiki FC, Nikaia › Attica
   | Proodeftiki | Proodeytiki
 Ionikos FC, Nikaia › Attica   ## Athens Nikaia - a suburb in the western part of the Athens agglomeration
   | Ionikos
-
+  | Ionikos Nikea
 
 Olympiacos Piraeus FC,  Piraeus › Attica
   | Olympiacos | Olympiacos Piraeus | Olympiacos FC

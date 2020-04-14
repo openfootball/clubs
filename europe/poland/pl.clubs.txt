@@ -28,6 +28,11 @@ Wisła Kraków,     Kraków
 KS Cracovia,     Kraków
   | Cracovia | MKS Cracovia Kraków
   | Cracovia Krakau [de]
+Hutnik Kraków, 1950,    Kraków (Nowa Huta) 
+  | KS Hutnik Nowa Huta
+  | KS Hutnik Kraków
+
+
 WKS Śląsk Wrocław,    Wrocław
   | Śląsk | Śląsk Wrocław
 Jagiellonia Białystok,  Białystok
@@ -74,7 +79,11 @@ Widzew Łódź,  Łódź
 
 Zagłębie Lubin,  Lubin
   | Zagłębie
-Zagłębie Sosnowiec,  Sosnowiec
+
+Zagłębie Sosnowiec,  1906,  Sosnowiec
+  | KS Zagłębie Sosnowiec
+  | Zagłębie Sosnowiec Spółka Akcyjna
+
 Zawisza Bydgoszcz,  Bydgoszcz
   | Zawisza
 
@@ -113,3 +122,15 @@ Amica Wrońki (1992-2007),  Wrońki
 
 GKS Katowice, 1964,  Katowice
  | Górniczy Klub Sportowy Katowice   # "Miners Sporting Club"
+
+
+Zagłębie Wałbrzych, 1945, Walbrzych
+  | GKS Zaglebie Wałbrzych
+
+Odra Wodzisław,  1922,    Wodzisław Śląski
+  | Odra Wodzisław Śląski
+  | MKS Odra Wodzisław Śląski
+  | APN Odra Wodzisław Śląski
+
+
+  

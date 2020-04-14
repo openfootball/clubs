@@ -152,3 +152,6 @@ Thisted FC,     Thisted
 Viby IF,       Viby
 Hellerup IK,   Hellerup
   | HIK | HIK Hellerup
+
+B 1901 Nykøbing (1901-1994),  Nykøbing Falster   
+  | B1901 Nyköbing
