@@ -74,8 +74,16 @@ Mjøndalen IF,   Mjøndalen
 Bodø/Glimt,   Bodø
   | FK Bodø/Glimt | Fotballklubben Bodø/Glimt
   | Bodö Glimt  [de]    ## check if ø=>ö transliteration is used in english too (or only german/de)?
-FK Haugesund,   Haugesund
+
+FK Haugesund, 1993,  Haugesund
   | Haugesund | Fotballklubben Haugesund
+
+SK Haugar,  1939,  Haugesund
+  | Haugur Haugesund
+  | Sportsklubben Haugar
+# In 1993 merged its elite teams with
+#    Djerv 1919 to create FK Haugesund
+
 Hønefoss BK,  Hønefoss
  | Hønefoss | Hønefoss Ballklubb
 FK Jerv,   Grimstad

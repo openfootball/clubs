@@ -34,7 +34,7 @@ Aberystwyth Town FC
   | Aberystwyth | Aberystwyth Town
 
 Barry Town AFC
-  | Barry 
+  | Barry
   | FC Barry Town
   | Barry Town    # champs (6): 2004...2001 (3) 2000...1997 (3)
   | Barry Town United | Barry Town United FC
@@ -64,13 +64,18 @@ Wrexham AFC,             Wrexham
   | Wrexham | Wrexham FC
 Merthyr Town FC,         Merthyr Tydfil
   | Merthyr Town
+  | Merthyr Tydfil FC   ## todo/check: keep separate - why? why not?
+# In 2010 the club Merthyr Tydfil FC was liquidated
+#  and reformed under the name Merthyr Town.
+
+
 Aberdare Athletic FC (1893-1928),  Aberdare
   | Aberdare Athletic
 
 Rhyl FC,  Rhyl    # in Denbighshire
  | Rhyl | Rhyl Football Club      # champs (2): 2009/10 2004/05
 
-Cwmbrân Town AFC,    Cwmbrân 
+Cwmbrân Town AFC,    Cwmbrân
   | Cwmbrân Town    # champs (1): 1993/94
   | Cwmbrân Town FC
 

@@ -117,6 +117,7 @@ FC Politehnica Iași,   Iași
 Poli Timișoara, Timișoara
   | Timişoara | ACS Poli Timișoara
   | FC Politehnica Timișoara     # champs (1): 2009/10
+  | Politehnica Timișoara
   | FC Timișoara
 
 Sepsi Sfântu Gheorghe,   Sfântu Gheorghe
@@ -163,6 +164,12 @@ CSM Flacăra Moreni,  1922,   Moreni
 
 FC Argeș Pitești, Pitești
   | Argeș | Argeș Pitești
+
+
+CS Minaur Baia Mare, 1948,  Baia Mare
+  | Baia Mare | Minaur Baia Mare
+  | FC Baia Mare
+
 
 Unirea Urziceni (1954-2017), Urziceni   # champs (2): 2011..2009 (2)
   | FC Unirea | FC Unirea Urziceni

@@ -76,6 +76,10 @@ KRC Genk, 1988,    Genk         › Limburg › Vlaanderen
 # in 1988 formed by the merger of
 #  Waterschei Thor with KFC Winterslag
 
+Waterschei Thor (1919-1988),  Genk
+  | K. Waterschei S.V. Thor Genk
+  | Thor Waterschei
+
 
 Sint-Truidense VV, 1924,  Sint-Truiden › Limburg › Vlaanderen
   | St Truiden | St. Truiden VV
@@ -113,6 +117,7 @@ Waasland-Beveren, 1936,   Beveren › Oost-Vlaanderen › Vlaanderen   ## KVRS W
 
 KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
   | Beveren
+  | SK Beveren
 
 
 == West-Vlaanderen › Vlaanderen ==
@@ -171,6 +176,7 @@ Standard Liège, 1898,   Liège     › Liège   › Wallonie    ## [fr]
 RFC Liège,  1892,  Liège
   | RC Liégeois
   | RFC de Liège | Royal Football Club de Liège
+  | FC Liège
 
 
 == ??? ==

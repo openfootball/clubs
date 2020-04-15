@@ -7,8 +7,10 @@ PFC CSKA Sofia, 1948,       Sofia      ## CDNA Sofia old name - add year?
   | ZSKA Sofia [de]
 PFC Levski Sofia, 1914,     Sofia
   | Levski Sofia | Levski | Professional Football Club Levski Sofia
+  | Levski-Spartak Sofia
   | Vitosha Sofia   # champs (1): 1988/89
 # Vitosha Sofia 1985-1989
+# Levski Spartak 1969-1985
 
 PFC Slavia Sofia, 1913,     Sofia
   | Slavia Sofia | Professional Football Club Slavia Sofia
@@ -39,9 +41,15 @@ PFC Litex Lovech, 1921,        Lovech
   | Litex | Litex Lovech
   | Professional Football Club Litex Lovech
 
+
 PFC Cherno More Varna, 1913,   Varna
   | Cherno More
   | Cherno More Varna
+
+FC Spartak Varna,  1918,  Varna
+  | Spartak Varna
+
+
 PFC Ludogorets Razgrad, 1945,  Razgrad
   | Ludogorets | Ludog. Razgrad | Ludogorets Razgrad
   | Professional Football Club Ludogorets Razgrad
@@ -94,6 +102,12 @@ Vitosha Bistritsa,   Bistritsa    # in Sofia City Province
 OFC Sliven 2000, 2000, Sliven
   | Sliven
   | OFC Sliven
+#  founded on February 29, 2000
+#   after the bankruptcy of FC Sliven
+
+FC Sliven (-2000), Sliven
+
+
 
 PFC Marek Dupnitsa,   1919, Dupnitsa
   | FC Marek | FC Marek Dupnitsa

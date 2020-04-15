@@ -2,8 +2,8 @@
 =  Portugal
 
 SL Benfica,       Lisboa
-  | Benfica | Benfica Lis. | Benfica Lisboa 
-  | Benfica Lissab [de] | Benfica Lissabon [de] 
+  | Benfica | Benfica Lis. | Benfica Lisboa
+  | Benfica Lissab [de] | Benfica Lissabon [de]
 Sporting CP,      Lisboa
   | Sporting Lisboa | Sporting Clube de Portugal
   | Sp Lisbon [en]
@@ -17,8 +17,8 @@ Os Belenenses,    Lisboa
 Casa Pia,         Lisboa
   | Casa Pia AC | Casa Pia Atlético
   | Casa Pia Atlético Clube
-  
-UD Vilafranquense,    Vila Franca de Xira   # a municipality in the Lisbon District 
+
+UD Vilafranquense,    Vila Franca de Xira   # a municipality in the Lisbon District
   | Vilafranquense | União Desportiva Vilafranquense
 CD Mafra,  Mafra                            # a city and a municipality in the district of Lisbon
   | Clube Desportivo Mafra
@@ -29,7 +29,7 @@ FC Porto,     Porto
 Boavista FC,  Porto
   | Boavista | Boavista Porto | Boavista Porto FC
 
-UD Oliveirense,  Oliveira de Azeméis    # a city and a municipality located in Porto Metropolitan Area 
+UD Oliveirense,  Oliveira de Azeméis    # a city and a municipality located in Porto Metropolitan Area
   | Oliveirense | União Desportiva Oliveirense
 
 CD Aves, Aves
@@ -40,7 +40,7 @@ Estoril Praia, Estoril
   | Estoril
   | GD Estoril Praia | Grupo Desportivo Estoril Praia
   | GD Estoril
-  
+
 CD Feirense, Santa Maria da Feira
   | Feirense
 
@@ -79,7 +79,7 @@ Académica de Coimbra, Coimbra
   | Associação Académica de Coimbra
   | Associação Académica de Coimbra - Organismo Autónomo de Futebol  # (AAC–OAF)
   | Associação Académica de Coimbra - O.A.F
-  . 
+  .
 FC Arouca, Arouca
   | Arouca
 
@@ -91,7 +91,7 @@ SC Beira-Mar, Aveiro
 Desportivo de Chaves, Chaves
   | Desp. Chaves
 CF Estrela da Amadora, Amadora
-  | Est Amadora
+  | Est Amadora | Estrela Amadora
 SC Farense, Faro
   | Farense
 Gil Vicente FC, Barcelos
@@ -99,7 +99,7 @@ Gil Vicente FC, Barcelos
 União de Leiria,   Leiria
   | Leiria | UD Leiria | União Desportiva de Leiria
   | União Leiria
-  
+
 União da Madeira,  Funchal
   | Madeira | União Madeira
 SC Salgueiros,  Paranhos
@@ -132,20 +132,19 @@ Varzim SC,       Póvoa de Varzim
 
 FC Famalicão,  1931,  Vila Nova de Famalicão
   | Famalicão | Futebol Clube de Famalicão
- 
+
 SC Covilhã,   Covilhã
   | Sporting da Covilhã | Sporting Clube da Covilhã
 
-Académico Viseu,  Viseu 
+Académico Viseu,  Viseu
   | Académico de Viseu FC
-  
+
 Anadia FC, Anadia
-  | Anadia Futebol Clube 
+  | Anadia Futebol Clube
 AC Marinhense,  Marinha Grande
 
 
-CU Fabril Barreiro, 1937, Barreiro 
+CU Fabril Barreiro, 1937, Barreiro
   | Fabril Barreiro | Fabril do Barreiro
   | GD Fabril | Grupo Desportivo Fabril
   | CUF Barreiro | CUF do Barreiro    # Companhia União Fabril
- 

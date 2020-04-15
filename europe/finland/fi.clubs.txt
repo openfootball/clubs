@@ -47,6 +47,7 @@ FC Lahti,         Lahti
 #  FC Kuusysi and Reipas Lahti - decided to merge.
 
 FC Kuusysi,       Lahti   # champs (5): 1992/93 1990/91 1987/88 1985/86 1983/84
+  | Kuusysi Lahti
 FC Reipas Lahti,  Lahti   # champs (3): 1971/72 1968/69 1964/65
   | FC Reipas
 

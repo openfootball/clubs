@@ -6,6 +6,7 @@ KF Tirana,           Tirana
   | Tirana | Klubi i Futbollit Tirana
   | KF Tiranë
   | SK Tirana
+  | 17 Nëntori Tirana
 
 FK Partizani Tirana, Tirana
   | Partizani | FK Partizani
@@ -23,8 +24,9 @@ KS Flamurtari, 1923,   Vlorë
   | Flamurtari FC
 
 KF Vllaznia,  1919,   Shkodër
-  | Vllaznia | KF Vllaznia Shkodër
+  | Vllaznia | Vllaznia Shkodër | KF Vllaznia Shkodër
   | FK Vllaznia
+
 
 KS Besa
 KS Teuta

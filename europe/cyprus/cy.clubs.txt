@@ -7,7 +7,7 @@ AC Omonia Nicosia,      Nicosia
 APOEL Nicosia FC,       Nicosia
   | APOEL Nicosia | APOEL | APOEL FC
   | APOEL Nikosia [de]
-Olympiakos Nicosia FC,  Nicosia 
+Olympiakos Nicosia FC,  Nicosia
   | Olympiakos
   | Olympiakos Nicosia
   | Olympiakos Nikosia
@@ -47,25 +47,27 @@ Ermis Aradippou FC
 Ethnikos Achnas FC
   | Ethnikos Achnas
   | Ethnikos Achna
-  
+
 Pafos FC
   | Pafos | FC Pafos
 Doxa Katokopia FC,  Katokopia
   | Doxa | Doxa Katokopias FC
- 
+
 Enosis Neon Paralimni FC
   | Paralimni
   | Enosis N. Paralimni | Enosis Neon Paralimni
+  | Enosis Paralimni
+
 Nea Salamis Famagusta FC
   | Nea Salamis
   | Nea Salamina Fama.
   | Salamis Famagusta
 
-Digenis Morphou, Morphou 
+Digenis Morphou, Morphou
   | Digenis Akritas Morphou FC
   | Dighenis Akritas Morphou FC
   | Dighenis Morphou
 
-Alki Oroklini,  Oroklini 
+Alki Oroklini,  Oroklini
   | Alki Oroklinis
- 
+

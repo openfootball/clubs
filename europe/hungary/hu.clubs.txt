@@ -24,6 +24,7 @@ MTK Budapest, Budapest
 
 Újpest FC, Budapest
   | Újpest
+  | Újpest Dózsa
   | Ú. Dózsa SC | Újpesti Dózsa SC | Újpesti Dózsa Sport Club  # champs (11): 1998/99 1990/91 1980..1978 (2) 1976......1970 (6) 1960/61
   | Újpest TE
 
@@ -98,18 +99,28 @@ Salgótarjáni BTC,  1920,  Salgótarján
 
 Pécsi MFC, 1950,   Pécs
   | PMFC | Pécsi Mecsek Football Club
+  | MSC Pécs
 
 FC Sopron
 
 Békéscsaba 1912 Előre, 1912,  Békéscsaba
   | Békéscsaba | Békéscsaba Előre
-  | Békéscsabai Előre FC | Békéscsabai EFC
   | Békéscsaba 1912 Előre SE
+  | Békéscsabai Előre
+  | Bekescsabai Elore   ## todo/fix: auto-add variant!!!
+  | Békéscsabai Előre FC | Békéscsabai EFC
 
 Pápai FC (1995-2015),  Pápa
   | Lombard Pápa TFC
 
 
 FC Tatabánya, 1910,   Tatabánya
-  | Tatabánya FC
+  | Tatabánya | Tatabánya FC
+
+
+BFC Siófok, 1921,    Siófok
+  | Bodajk FC Siófok
+  | Siófoki Bányász
+# The word Bodajk in the club's name stems from a merger
+#   with Bodajk FC in 2005.
 
