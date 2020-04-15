@@ -8,6 +8,7 @@ Legia Warszawa,        Warszawa      ## Warsaw [en]
   | Legia Warschau [de]
 KSP Polonia Warszawa,  Warszawa
   | Polonia Warszawa
+  | Polonia Warsaw
 
 Gwardia Warszawa,  1948,  Warszawa   # champs (2): 1957/58 1955/56
 
@@ -27,8 +28,9 @@ Wisła Kraków,     Kraków
   | Wisła Krakau [de]
 KS Cracovia,     Kraków
   | Cracovia | MKS Cracovia Kraków
+  | Cracovia Kraków
   | Cracovia Krakau [de]
-Hutnik Kraków, 1950,    Kraków (Nowa Huta) 
+Hutnik Kraków, 1950,    Kraków (Nowa Huta)
   | KS Hutnik Nowa Huta
   | KS Hutnik Kraków
 
@@ -111,12 +113,12 @@ Szombierki Bytom, 1919, Bytom (Szombierki)  # champs (1): 1980/81
 Stal Mielec, 1939, Mielec   # champs (2): 1976/77 1973/74
   | KS Stal Mielec | FKS Stal Mielec
 
-Dyskobolia Grodzisk Wielkopolski, 1922, Grodzisk Wielkopolski 
+Dyskobolia Grodzisk Wielkopolski, 1922, Grodzisk Wielkopolski
   | KS Dyskobolia Grodzisk Wielkopolski | Klub Sportowy Dyskobolia Grodzisk Wielkopolski
   | Groclin Grodzisk Wielkopolski
 
 
-Amica Wrońki (1992-2007),  Wrońki 
+Amica Wrońki (1992-2007),  Wrońki
 # was formed when two clubs were joined together, Błękitni Wronki and LZS Czarni Wromet Wróblewo
 
 
@@ -133,4 +135,3 @@ Odra Wodzisław,  1922,    Wodzisław Śląski
   | APN Odra Wodzisław Śląski
 
 
-  

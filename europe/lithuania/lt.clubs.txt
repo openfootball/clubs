@@ -1,8 +1,11 @@
 ===============================
 =  Lithuania
 
-FK Riteriai,  Vilnius
+FK Riteriai, 2005, Vilnius
   | Riteriai
+  | FK Trakai
+# Note: Until 21 February 2019, the club was based in Trakai and was known as FK Trakai.
+
 VMFD Žalgiris,  Vilnius
   | Žalgiris | Žalgiris Vilnius | FK Žalgiris | FK Žalgiris Vilnius
 
@@ -10,7 +13,7 @@ FK Kauno Žalgiris,  Kaunas
   | Kauno Žalgiris
   | FK Žalgiris Kaunas
 FC Stumbras,        Kaunas
-  | Stumbras
+  | Stumbras | Stumbras Kaunas
 FBK Kaunas,        Kaunas
 
 FK Kareda Kaunas (1935-2003),  Kaunas
@@ -23,7 +26,7 @@ FK Inkaras Kaunas (1937-2003), Kaunas
 
 
 FK Ekranas
-  | Ekranas
+  | Ekranas | Ekranas Panevezys
 FK Sūduva,    Marijampolė
   | Sūduva | Sūduva Marija.
   | Sūduva Marijampolė
@@ -33,9 +36,12 @@ FC Šiauliai
 
 
 FK Banga
+  | Banga Gargzdai
 FK Atlantas
-  | Atlantas
+  | Atlantas | Atlantas Klaipeda
+
 FK Kruoja
+  | Kruoja Pakruojis
 
 Panevezys
 FK Palanga

@@ -7,14 +7,14 @@
 SK Rapid Wien, 1899,    Wien (Hütteldorf)
   | Rapid | Rapid Wien
   | Rapid Vienna [en]
- Keisslergasse 3 // 1140 Wien 
+ Keisslergasse 3 // 1140 Wien
 ii) SK Rapid Wien II
   | Rapid Wien Am. | SK Rapid Amateure
 
 FK Austria Wien, 1911,  Wien (Favoriten)
   | Austria | Austria Wien
   | Austria Vienna [en]
- Fischhofgasse 12 // 1100 Wien 
+ Fischhofgasse 12 // 1100 Wien
 ii) Young Violets Austria Wien
   | Young Violets | Young Violets A. W.
   | FK Austria Wien II
@@ -51,7 +51,7 @@ SC Red Star Penzing
 
 SV Mattersburg,  1922,    Mattersburg
   | Mattersburg | Sportvereinigung Mattersburg
- Michael Koch Straße 50 // 7210 Mattersburg 
+ Michael Koch Straße 50 // 7210 Mattersburg
 ii) SV Mattersburg II
   | SV Mattersburg Am. | SV Mattersburg Amateure
 
@@ -78,19 +78,19 @@ SC Trausdorf
 == Niederösterreich ==
 
 FC Admira Wacker Mödling, 1905, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
-  | Admira | Admira Wacker 
+  | Admira | Admira Wacker
   | FC Admira | FC Admira Wacker | Admira Wacker Mödling
   | Admira Wien        ## historic Admira Wien name add (-????) or something
   | SK Admira Wacker Wien
   | SK Admira Vienna [en]
- Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf      ## Mödling 
+ Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf      ## Mödling
 ii) FC Admira Wacker Mödling II
   | FC Admira Wacker II
   | Admira Amateure | Admira Juniors
 
 SC Wiener Neustadt, 1908,  Wr. Neustadt
   | Neustadt | Wr. Neustadt | SC Wr. Neustadt | Wiener Neustadt
- Giltschwertgasse 81 // 2700 Wr. Neustadt 
+ Giltschwertgasse 81 // 2700 Wr. Neustadt
 
 SKN St. Pölten, 2000,      St. Pölten
   | St. Pölten | Sportklub Niederösterreich St. Pölten
@@ -136,7 +136,7 @@ SC Krems
 #  add Gebietsliga NW/Wald.  --  6-noe-nordwest-waldviertel
 SC Guntersdorf
   | Guntersdorf
-SC Echsenbach  
+SC Echsenbach
   | Echsenbach | SC $$Hartl Haus$$
 SC St. Martin
   | St. Martin
@@ -190,7 +190,7 @@ FC Stahl Linz,       Linz
 SV Ried,  1912,       Ried i. Innkreis
   | Ried
   | SV $$Josko$$ Ried | SV $$Josko Fenster$$ Ried     ## note: Josko is a sponsor
- Volksfestplatz 2 // 4910 Ried i. Innkreis 
+ Volksfestplatz 2 // 4910 Ried i. Innkreis
 ii) SV Ried II
 
 SK Vorwärts Steyr,   Steyr
@@ -219,7 +219,7 @@ SV Grün-Weiß Micheldorf
 
 SK Sturm Graz, 1909,       Graz
   | Sturm | Sturm Graz
- Sternäckerweg 118 // 8042 Graz 
+ Sternäckerweg 118 // 8042 Graz
 ii) SK Sturm Graz II
   | Sturm Graz Amat.
 
@@ -261,7 +261,7 @@ FC Lankowitz
 Wolfsberger AC, 1931, Wolfsberg
   | Wolfsberg | Wolfsberger | AC Wolfsberger | Wolfsberger Athletik Club
   | $$RZ Pellets$$ WAC           ## $$$ note: RZ Pellets is a sponsor name
- Don Bosco Weg 1 // 9400 Wolfsberg 
+ Don Bosco Weg 1 // 9400 Wolfsberg
 ii) Wolfsberger AC II
   | WAC Amateure
 
@@ -273,8 +273,8 @@ Austria Klagenfurt, Klagenfurt
   | FC Kärnten     ## todo: keep as separate club - why? why not?
 
 SK Austria Kärnten (2007-2010), Klagenfurt
- 
- 
+
+
 SAK Klagenfurt, Klagenfurt
   | Slovenski atletski klub | Slowenischer AK
   | SAK Celovec/Klagenfurt
@@ -297,7 +297,7 @@ VST Völkermarkt
 
 FC RB Salzburg, 1933,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
   | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg | FC Red Bull Salzburg
- Stadionstraße 2/3 // 5071 Wals-Siezenheim   ## Salzburg 
+ Stadionstraße 2/3 // 5071 Wals-Siezenheim   ## Salzburg
 ii) FC RB Salzburg II        ## check for old name until season 2011/12 - now "independent" Liefering?
   | RB Salzburg II | FC Red Bull Salzburg II
   | FC RB Juniors Salzburg
@@ -313,7 +313,7 @@ SAK 1914,     1914, Salzburg
 SV Grödig,  1948,           Grödig
   | Grödig
  Prötschhofstrasse 26 // 5082 Grödig
- 
+
 SV Seekirchen
   | SV Seekirchen 1945
 FC Pinzgau Saalfelden
@@ -334,7 +334,7 @@ SC Golling
 
 FC Wacker Innsbruck, 1913, Innsbruck
   | Innsbruck | FC Wacker | Wacker Innsbruck
-  | FC Tirol              ## note: FC Tirol old name - add year
+  | FC Tirol | FC Tirol Innsbruck              ## note: FC Tirol old name - add year
   | SSW Innsbruck | Spielgemeinschaft $$Swarovski$$ Wacker Innsbruck   # champs (7): 2002..2000 (2) 1977/78 1975/76 1974...1971 (3)
  Stadionstraße 1b // 6020 Innsbruck
 ii) FC Wacker Innsbruck II
@@ -343,7 +343,7 @@ ii) FC Wacker Innsbruck II
 SV Innsbruck, Innsbruck   ## Tiroler Liga
 
 WSG Tirol, 1930,   Wattens
-  | Tirol 
+  | Tirol
   | WSG $$Swarovski$$ Tirol | WSG $$Swarovs.$$ Tirol | Wattener Sportgemeinschaft Tirol
   | Wattens | WSG Wattens | WSG $$Swarovski$$ Wattens        ## $$$ note: Swarovski is a sponsor
 
@@ -368,7 +368,7 @@ SV Reutte
 SCR Altach, 1929,          Altach
   | Altach
   | Rheindorf Altach | SC Rheindorf Altach | Sportclub Rheindorf Altach
- Schnabelholz 1 // 6844 Altach 
+ Schnabelholz 1 // 6844 Altach
 ii) SCR Altach Juniors
   | Altach Amateure
 

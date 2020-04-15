@@ -11,7 +11,7 @@ AC Sparta Praha, 1893, Praha       ## Prague [en]
 FK Dukla Praha, 1958,  Praha
   | Dukla
   | FK Dukla Prague [en]
-  | FK Dukla Prag [de] 
+  | FK Dukla Prag [de]
   | Dukla Praha     # champs (10): 1982/83 1979/80 1977/78 1966/67 1965....1961 (4) 1959..1957 (2)
 
 SK Slavia Praha, 1892, Praha
@@ -33,7 +33,7 @@ FK Mladá Boleslav, 1902, Mladá Boleslav   ## Central Bohemia
   | Mladá Boleslav | Fotbalový klub Mladá Boleslav
 
 1. FK Příbram, 1928, Příbram     ## Central Bohemia
-  | Příbram
+  | Příbram | FK Příbram
 
 Viktoria Plzeň, 1911,  Plzeň      ## Plzeň
   | Plzeň | FC Viktoria Plzeň | Football Club Viktoria Plzeň
@@ -81,7 +81,8 @@ SK Dynamo České Budějovice
 
 FK Ústí nad Labem, Ústí nad Labem
 
-FC Hradec Králové, Hradec Králové 
+FC Hradec Králové, Hradec Králové
+  | Hradec Králové
   | DSO Spartak Hradec Králové    # champs (1): 1960/61
 
 MFK Vítkovice,  1919,  Ostrava (Vítkovice)
@@ -93,4 +94,4 @@ MFK Vítkovice,  1919,  Ostrava (Vítkovice)
 
 FK Drnovice (1932-2006), Drnovice
   | 1. FK Drnovice
-
+  | Petra Drnovice

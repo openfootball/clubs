@@ -42,7 +42,7 @@ Alki Larnaca FC (1948-2014), Larnaca
 APOP/Kinyras Peyias FC
   | APOP
 Ermis Aradippou FC
-  | Ermis
+  | Ermis | Ermis Aradippou
 
 Ethnikos Achnas FC
   | Ethnikos Achnas

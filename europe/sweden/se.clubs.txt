@@ -35,6 +35,7 @@ Norrby IF,    Borås
 
 Helsingborgs IF, Helsingborg
   | Helsingborg
+  | Helsingborg IF
 
 Kalmar FF, Kalmar
   | Kalmar
@@ -102,4 +103,4 @@ IK Brage,   Borlänge
 
 Landskrona BoIS, 1915,  Landskrona
   | Landskrona Boll och Idrottsällskap
-  
+

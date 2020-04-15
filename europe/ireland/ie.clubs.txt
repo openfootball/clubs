@@ -4,16 +4,16 @@
 Shamrock Rovers FC,                Dublin (Tallaght)         #  Tallaght, South Dublin
   | Shamrock | Shamrock Rovers | FC Shamrock Rovers
 Bohemian FC,                     Dublin (Phibsborough)
-  | Bohemians | Boh. Dublin
+  | Bohemians | Boh. Dublin | Bohemians Dublin
   | Bohemian Football Club Dublin
-  
+
 St Patrick's Athletic FC,        Dublin (Inchicore)
   | St Patrick's | St Patrick's Athletic
   | St. Patricks
   | Saint Patrick's Athletic FC
   | Saint Patrick's
 University College Dublin AFC,  Dublin (Belfield)
-  | UCD | UC Dublin
+  | UCD | UC Dublin | Uni College Dublin
 Shelbourne FC,                   Dublin (Drumcondra)
   | Shelbourne
 

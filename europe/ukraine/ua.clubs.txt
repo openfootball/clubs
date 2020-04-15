@@ -4,15 +4,15 @@
 
 FC Dynamo Kyiv,  Kyiv
   | Dynamo Kyiv
-  | Dynamo Kiev | FC Dynamo Kiev    ## add [en] ?? 
-  | Dinamo Kiev       
+  | Dynamo Kiev | FC Dynamo Kiev    ## add [en] ??
+  | Dinamo Kiev
   | Dynamo Kiew [de] | FC Dynamo Kiew [de]
-  
+
 FC Arsenal Kyiv,  Kyiv
   | Arsenal Kyiv
   | Arsenal Kiew [de]
   | Arsenal Kiev
-  
+
 
 FC Shakhtar Donetsk,  Donetsk
   | Shakhtar | Shakhtar Donetsk | Shakhtar Don.
@@ -21,13 +21,16 @@ FC Shakhtar Donetsk,  Donetsk
 
 FC Metalurh Donetsk,  Donetsk
   | Metalurh Donetsk
-FC Olimpik Donetsk
+  | Metalurg Donetsk
+
+FC Olimpik Donetsk,  Donetsk
   | Olimpik Donetsk
+
 
 FC Metalist Kharkiv,    Kharkiv    ## also known as Kharkov
   | Metalist | Metalist Kharkiv
   | Metalist Kharkov
-  
+
 FC Dnipro,    Dnipropetrovsk
   | Dnipro | FC Dnipro Dnipropetrovsk | Dnipro Dnipropetrovsk
   | SC Dnipro
@@ -38,11 +41,15 @@ SC Dnipro-1,  2017,  Dnipropetrovsk      ## todo/check - differnt from FC Dnipro
   | Dnipro-1 | Sport Club Dnipro-1
 
 FC Vorskla Poltava
-  | Vorskla 
+  | Vorskla
+  | Vorskla Poltava
   | Vorskla Poltawa [de]
+
 FC Karpaty Lviv
   | Karpaty | FC Lviv
+  | Karpaty Lviv
   | Karpaty Lemberg [de]
+
 SC Tavriya Simferopol
   | Tavriya
   | Tavriya Simferopol   # champs (1): 1992/93
@@ -60,20 +67,23 @@ FC Olexandriya
   | Olexandriya
   | FC Oleksandriya
   | Oleksandria [de] | FC Oleksandria [de]
+
 FC Chornomorets Odesa
   | Chornomorets Odesa
+  | Chernomorets Odesa
   | Chernom. Odessa [de]
 
 Desna
   | SFC Desna Tscherni
 Kolos Kovalivka
 
-FC Volyn Lutsk, Lutsk 
+FC Volyn Lutsk, Lutsk
   | Volyn Lutsk
 
 FC Metalurh Zaporizhya,    1935,   Zaporizhya
   | MFC Metalurh Zaporizhya | Municipal Football Club Metalurh Zaporizhya
   | Metalurg Zaporizhya
+  | Metalurg Zaporizhia
 
 FC Kryvbas Kryvyi Rih, 1959,  Kryvyi Rih
   | FK Krivbas

@@ -27,10 +27,10 @@ Sportul Studenţesc Bucureşti, 1916,  București
   | FC Sportul Studenţesc | FC Sportul Studenţesc Bucureşti
 
 AS Progresul București,   1944,  București
-  | Progresul | Progresul București 
+  | Progresul | Progresul București
   | FC Progresul București | Fotbal Club Progresul București
-  | FC Naţional Bucureşti    
-# The team was founded in 1944 as B.N.R. București, 
+  | Naţional Bucureşti | FC Naţional Bucureşti
+# The team was founded in 1944 as B.N.R. București,
 #   being the team of the National Bank of Romania (B.N.R.)
 
 
@@ -76,7 +76,7 @@ Dunărea Călărași,   Călărași
   | Călărași
   | AFC Dunărea 2005 | Asociația Fotbal Club Dunărea 2005 Călărași
   | FC Dunărea Călărași
-  
+
 Chindia Târgoviște, 2010,  Târgoviște
   | AFC Chindia Târgoviște
 
@@ -86,7 +86,7 @@ CS Turnu Severin,    Drobeta-Turnu Severin
 FC Severin,         Drobeta-Turnu Severin
   | FC Drobeta-Turnu Severin
 
-AFC Turris-Oltul,  1965,  Turnu Măgurele  
+AFC Turris-Oltul,  1965,  Turnu Măgurele
   | AFC Turris-Oltul Turnu Măgurele
   | Turris Turnu Măgurele | Turris-Oltul Turnu Măgurele
 
@@ -124,10 +124,10 @@ Sepsi Sfântu Gheorghe,   Sfântu Gheorghe
 
 ASA Târgu Mureș (2008-2018),    Târgu Mureș
   | Târgu Mureș | ASA Târgu Mureş | Târgu Mureş
-  | ASA Tîrgu Mureş   
+  | ASA Tîrgu Mureş
   | FCM Târgu Mureş
 # in 2008 founded as FCM Târgu Mureș
-# In 2013, the club changed its name from 
+# In 2013, the club changed its name from
 # Fotbal Club Municipal (FCM) to Asociația Sportivă Ardealul (ASA).
 
 
@@ -157,7 +157,7 @@ CS Mioveni, 2000, Mioveni
   | Mioveni
 
 CSM Flacăra Moreni,  1922,   Moreni
-  | Flacăra | Flacăra Moreni 
+  | Flacăra | Flacăra Moreni
   | CS Flacăra Moreni
   | Club Sportiv Municipal Flacăra Moreni
 
@@ -165,12 +165,11 @@ FC Argeș Pitești, Pitești
   | Argeș | Argeș Pitești
 
 Unirea Urziceni (1954-2017), Urziceni   # champs (2): 2011..2009 (2)
-  | FC Unirea | FC Unirea Urziceni  
+  | FC Unirea | FC Unirea Urziceni
 
 FC Corvinul Hunedoara (1921-2004),  Hunedoara
   | Corvinul Hunedoara
 
-FC Extensiv Craiova (1949-2013),    Caracal 
+FC Extensiv Craiova (1949-2013),    Caracal
   | Fotbal Club Extensiv Craiova
-  | FC Caracal 
-  
+  | FC Caracal

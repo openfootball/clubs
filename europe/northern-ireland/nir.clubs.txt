@@ -8,7 +8,8 @@ Institute FC,        Derry
 
 
 Linfield FC,    Belfast
-  | Linfield | FC Linfield
+  | Linfield | Linfield Belfast
+  | FC Linfield
 Glentoran FC,   Belfast
   | Glentoran | Glentoran Belfast
 Crusaders FC,  Belfast
@@ -21,7 +22,7 @@ Cliftonville FC
 Portadown FC
   | Portadown   # champs (3): 2002/03 1992..1990 (2)
 
-Lisburn Distillery FC, 1880,  Ballyskeagh   
+Lisburn Distillery FC, 1880,  Ballyskeagh
   | Lisburn Distillery    # champs (1): 1963/64
 
 
@@ -44,8 +45,8 @@ Warrenpoint Town FC
 
 Ards FC,  1900     #  champs (1): 1958/59
   | Ards
-  
-Bangor FC,   Bangor 
+
+Bangor FC,   Bangor
   ## note: not to confuse with Bangor City in Wales!! - fix error in champs.txt!!
 
 

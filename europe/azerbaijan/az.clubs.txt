@@ -8,15 +8,16 @@ Bakı FK,   Baku
 İnter Bakı PİK,  Baku
   | Inter Baku PIK    # champs (2): 2010/11 2008/09
 
-FK Shafa Baku (1997-2005),  Baku  
+FK Shafa Baku (1997-2005),  Baku
   | Shafa Baku | Safa Baku
   | FK Şäfa
- 
-Neftçi PFK,   Baku  
+
+Neftçi PFK,   Baku
   | Neftçi
   | Neftchi PFC Baku   # champs (6): 2014...2011 (3) 2006..2004 (2) 1997/98
+  | Neftchi Baku
 
-Zirä FK,    Baku  
+Zirä FK,    Baku
   | Zira FK
   | PFC Zire
 
@@ -30,27 +31,30 @@ FK Şämkir (1954-2017), Şəmkir
 
 Qarabağ FK
   | Qarabağ | Qarabağ Ağdam
+  | Garabag Agdam
+
 Xäzär Länkäran FK
   | Khazar Lankaran   # champs (1): 2007/08
 
 Olimpik-Şüvälan PFK
 
 Simurq PFK (2005-2015),  Zaqatala
-  | Simurq PFC 
+  | Simurq PFC
   | Simurq PIK
   | Simurq Zaqatala PFK
-  
+
 Gabala SC
-  | Gabala 
+  | Gabala
   | Gabala FK
 
 Keşla FK
   | Keşla
-  | Keşlə FK   ## todo/fix: auto-create variants ş=>ş (with cedilla? and comma?) 
+  | Keşlə FK   ## todo/fix: auto-create variants ş=>ş (with cedilla? and comma?)
 
 Käpäz PFK, 1959,    Ganja
   | Käpäz   # champs (2): 2000..1998 (2)
   | FK Käpäz
+  | Kapaz Ganja
   | Kapaz Professional Football Club
 
 Sabail
@@ -59,7 +63,7 @@ Sumqayıt FK
 Sabah
 
 PFK Turan Tovuz, 1954,  Tovuz
-  | Turan PFK  
+  | Turan PFK
   | Turan-T İK
   | Turan-Tovuz İK
   | Turan İK | Turan İdman Klubu

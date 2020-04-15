@@ -5,8 +5,11 @@
 KF Tirana,           Tirana
   | Tirana | Klubi i Futbollit Tirana
   | KF Tiranë
+  | SK Tirana
+
 FK Partizani Tirana, Tirana
   | Partizani | FK Partizani
+  | Partizani Tirana
 FK Dinamo Tirana,    Tirana
   | Dinamo Tirana    # champs (6): 2010/11 2008/09 2002/03 1990/91 1986/87 1980/81
 
@@ -25,15 +28,18 @@ KF Vllaznia,  1919,   Shkodër
 
 KS Besa
 KS Teuta
-  | Teuta
+  | Teuta | Teuta Durrës
   | KF Teuta | KF Teuta Durrës
+
 KF Laçi
   | Laç | Laçi
 FK Kukësi
   | Kukës | Kukësi
+
 KS Luftëtari
   | Luftëtari
-  | Luftëtari Gjirokastër FC
+  | Luftëtari Gjirokastër | Luftëtari Gjirokastër FC
+
 FC Kamza
   | Kamza
 KS Kastrioti
@@ -45,7 +51,7 @@ FK Bylis,  1972,  Ballsh
   | KS Bylis
 
 KF Elbasani, 1923,   Elbasan
-  | Klubi i Futbollit Elbasani 
+  | Klubi i Futbollit Elbasani
   | KS Elbasani | Klubi Sportiv Elbasani
 
 KF Tomori, 1923,  Berat
@@ -53,5 +59,5 @@ KF Tomori, 1923,  Berat
 
 KF Apolonia, 1925,  Fier
   | KF Apolonia Fier
-  
+
 

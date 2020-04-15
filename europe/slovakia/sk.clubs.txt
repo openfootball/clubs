@@ -56,7 +56,7 @@ AS Trenčín
 FC DAC 1904 Dunajská Streda
   | Dunajská Streda
   | DAC Dunajská Streda
-  
+
 MFK Ružomberok
   | Ružomberok
 TJ Spartak Myjava
@@ -75,10 +75,10 @@ MFK Zemplín Michalovce
 FK Poprad, 1906, Poprad
 
 
-MŠK Púchov, 1920,  Púchov 
+MŠK Púchov, 1920,  Púchov
   | Mestský Športový Klub Púchov
-  | FK Matador Púchov 
-# In July 2006, lost its main sponsor, Matador a.s., 
+  | Matador Púchov | FK Matador Púchov
+# In July 2006, lost its main sponsor, Matador a.s.,
 #  and was renamed FK Púchov
 #  name history:
 #   2003 – FK Matador Púchov

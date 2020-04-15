@@ -9,8 +9,8 @@ FC København, 1992,    København         ## Copenhagen [en]
   | FC Kopenhagen [de]
 
 B 1903 København (1903-1992),     København      # champs (3): 1977/78 1972..1970 (2)
-  | B 1903 | Boldklubben 1903    
-## In 1992 merged with Kjøbenhavns Boldklub (KB) 
+  | B 1903 | Boldklubben 1903
+## In 1992 merged with Kjøbenhavns Boldklub (KB)
 ##    to form the current club FC Copenhagen
 
 KB København (1876-1992),     København    # champs (4): 1981/82 1975/76 1969/70 1958/59
@@ -30,14 +30,15 @@ Vanløse IF,          København
   | Vanlöse IF [de]
 
 BK Frem, 1886  København (Valby-Sydhavnen)
-  | Boldklubben Frem 
+  | Boldklubben Frem
   | BK Frem København
   | BK Frem Copenhagen
-  
 
-Akademisk Boldklub,  Gladsaxe   # north of Copenhagen 
+
+Akademisk Boldklub,  Gladsaxe   # north of Copenhagen
   | AB Gladsaxe |  Akademisk Boldklub Gladsaxe
   | Akademisk BK
+  | AB København
 
 Brøndby IF, 1964,    Brøndbyvester       ## use Brøndby ??
   | Brøndby | Brøndbyernes Idrætsforening
@@ -54,7 +55,8 @@ Lyngby BK, 1921, Lyngby
 
 == Nordjylland ==
 Aalborg BK, 1885,    Aalborg
-  | AaB | Aalborg | Aalborg Boldspilklub
+  | AaB | Aalborg | AaB Aalborg
+  | Aalborg Boldspilklub
 
 Hobro IK, 1913,     Hobro
   | Hobro | Hobro Idræts Klub
@@ -67,13 +69,13 @@ Vendsyssel FF, Hjørring
 FC Midtjylland, 1999,   Herning
   | Midtjylland | Football Club Midtjylland
 
-Ikast FS (1935-1999),  Ikast 
+Ikast FS (1935-1999),  Ikast
   | IFS | Ikast Forenede Sportsklubber
 # In 1999 merged with Herning Fremad to found FC Midtjylland.
 
 
 AGF Aarhus, 1880,   Aarhus
-  | AGF | Aarhus 
+  | AGF | Aarhus
   | Aarhus GF | Aarhus Gymnastikforening
 
 Viborg FF, 1896,    Viborg
@@ -97,9 +99,10 @@ Sønderjysk Elitesport, 2004,   Haderslev
 
 Odense BK, 1887,      Odense
   | OB | Odense | Odense Boldklub
+  | OB Odense
 
 B 1909 Odense, Odense    # champs (3): 1966..1964 (2) 1959/60
-  | B 1909 | Boldklubben 1909 
+  | B 1909 | Boldklubben 1909
 B 1913 Odense, Odense    # champs (1): 1961/62
   | B 1913 | Boldklubben 1913
 
@@ -122,7 +125,7 @@ HB Køge, 2009,             Køge (Herfølge)
 
 Herfølge BK (1921-2009),   Køge (Herfølge)
   | Herfølge Boldklub
-# In 2009 merged its professional football 
+# In 2009 merged its professional football
 #    with Køge BK to form HB Køge
 
 Køge BK (1927-2009),     Køge     # in Zealand
@@ -130,7 +133,7 @@ Køge BK (1927-2009),     Køge     # in Zealand
 # In March 2009 the first team merged
 #    with Herfølge Boldklub to form HB Køge.
 
-Holbæk B&I, 1931,     Holbæk   # on Zealand 
+Holbæk B&I, 1931,     Holbæk   # on Zealand
   | Holbæk Bold- & Idrætsforening
 
 
@@ -153,5 +156,5 @@ Viby IF,       Viby
 Hellerup IK,   Hellerup
   | HIK | HIK Hellerup
 
-B 1901 Nykøbing (1901-1994),  Nykøbing Falster   
+B 1901 Nykøbing (1901-1994),  Nykøbing Falster
   | B1901 Nyköbing

@@ -15,17 +15,18 @@ HNK Hajduk Split,  Split
 RNK Split, Split
 
 
-NK Slaven Belupo, 1907,     Koprivnica 
-  | Slaven | Slaven Belupo 
+NK Slaven Belupo, 1907,     Koprivnica
+  | Slaven | Slaven Belupo
   | Slaven Koprivnica | NK Slaven Koprivnica
   | Nogometni Klub Slaven
 
 NK Varaždin
   | Varaždin
+  | Varteks Varaždin
 
 
 HNK Rijeka
-  | Rijeka
+  | Rijeka | NK Rijeka
 NK Osijek
   | Osijek
 HNK Cibalia
@@ -37,6 +38,6 @@ NK Istra 1961
   | Istra 1961
 NK Inter Zaprešić
   | Inter Zaprešić
-  
+
 NK Kamen Ingrad (1929-2008),  Velika
   | Kamen Ingrad

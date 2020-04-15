@@ -1,14 +1,15 @@
 ====================================
 =  Macedonia
 
-FK Metalurg Skopje
+FK Metalurg Skopje,  Skopje
+  | Metalurg Skopje
 
 FK Makedonija Skopje, 1932,  Skopje (Gjorče Petrov)
   | Makedonija | FK Makedonija GP Skopje
   | Makedonija GP
   | FK Makedonija Gjorče Petrov
 
-FK Vardar
+FK Vardar,  Skopje
   | Vardar
   | Vardar Skopje    # champs (6): 2015/16 2014..2012 (2) 2004..2002 (2) 1987/88
 
@@ -19,25 +20,32 @@ FK Cementarnica 55, 1995, Skopje
 Sloga Jugomagnat Skopje (1927-2009), Skopje    # champs (3): 2002...1999 (3)
   | FK Sloga Jugomagnat
 
-FK Rabotnički
-  | Rabotnički | Rabotnicki | Rabotnički Skopje | FK Rabotnicki
+FK Rabotnički,  Skopje
+  | Rabotnički
+  | Rabotnički Skopje
+
+
+
 FK Renova
   | Renova | KF Renova
+  | Renova Dzepciste
+
 FK Shkëndija 79
   | Shkëndija
   | KF Shkëndija | KF Shkëndija 79
-
+  | Shkëndija Tetovo
 
 FK Teteks
 FK Milano
 FK Pelister
+  | Pelister Bitola
 
 KF Shkupi, 1927,  Čair
   | Shkupi
   | FC Shkupi 1927
+  | FK Shkupi
 
-
-FK Sileks, 1965,   Kratovo 
+FK Sileks, 1965,   Kratovo
   | Sileks
   | Sileks Kratovo
 
@@ -51,7 +59,7 @@ FK Pobeda,   Prilep
   | FK Pobeda Prilep
 
 FK Bashkimi Kumanovo (1947-2008),   Kumanovo
-  |  FK Baskimi
+  | FK Baskimi
 
 FK Belasica, 1922,   Strumica
   | FK Belasica GC

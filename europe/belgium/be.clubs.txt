@@ -16,15 +16,15 @@ RWD Molenbeek,  Brussels (Molenbeek)
   | R. Racing White Bruxelles
   | Racing White Brussels
 ##  keep Molenbeek clubs separte? from wikipedia:
-## This R.W.D.M. Brussels F.C. article is about the club dissolved in 2014. 
-# For the predecessor club dissolved in 2002, see R.W.D. Molenbeek. 
+## This R.W.D.M. Brussels F.C. article is about the club dissolved in 2014.
+# For the predecessor club dissolved in 2002, see R.W.D. Molenbeek.
 # For the club continuing its traditions founded in 2015, see RWDM47.
 
 
 Saint-Gilloise,  Brussels (Saint-Gilles)
   | R. Union Saint-Gilloise
   | Union St. Gilloise
- 
+
 
 == Antwerpen › Vlaanderen ==
 
@@ -35,24 +35,24 @@ Royal Antwerp FC,    Antwerpen › Antwerpen › Vlaanderen
 
 
 K Beerschot VA, 1899,  Antwerpen › Antwerpen › Vlaanderen               ## in 2019 renamed to K. Beerschot V.A.)
-  | Koninklijke Beerschot Voetbalclub Antwerpen 
-  | KFCO Wilrijk 
+  | Koninklijke Beerschot Voetbalclub Antwerpen
+  | KFCO Wilrijk
 # In 2013, KFCO Wilrijk decided to integrate the identity of
 #   Beerschot AC
-# In June 2013 K.FC.O. Wilrijk unofficially integrated 
+# In June 2013 K.FC.O. Wilrijk unofficially integrated
 # Beerschot AC's identity into theirs to become
 # FCO Beerschot Wilrijk
 
 Germinal Beerschot (1920-2013),  Antwerpen › Antwerpen › Vlaanderen       ## officially declared bankrupt on 21 May 2013
-  | Germinal
+  | Germinal | Germinal Ekeren
   | Beerschot AC
-  | KFC Germinal Beerschot Antwerpen 
+  | KFC Germinal Beerschot Antwerpen
   | Koninklijke Beerschot Antwerpen Club
 # Note: Not to be confused with  Beerschot V.A.C., or K Beerschot VA.
 # 1920 (Germinal Ekeren)
 # 1999 (merger; as Germinal Beerschot)
 
-Beerschot VAC (1899-1999), Antwerpen 
+Beerschot VAC (1899-1999), Antwerpen
   | Koninklijke Beerschot Voetbal en Atletiek Club
   | K. Beerschot VAC
 # Note: Not to be confused with K. Beerschot AC
@@ -73,12 +73,12 @@ K Lierse SK,    Lier     › Antwerpen › Vlaanderen
 KRC Genk, 1988,    Genk         › Limburg › Vlaanderen
   | Genk | Racing Genk | Koninklijke Racing Club Genk
   | KFC Winterslag    ## todo: keep as separate club - why? why not?
-# in 1988 formed by the merger of 
+# in 1988 formed by the merger of
 #  Waterschei Thor with KFC Winterslag
 
 
 Sint-Truidense VV, 1924,  Sint-Truiden › Limburg › Vlaanderen
-  | St Truiden | St. Truiden VV 
+  | St Truiden | St. Truiden VV
   | Sint-Truiden | Sint-Truidense | K. Sint-Truidense VV
   | Koninklijke Sint-Truidense Voetbalvereniging
 
@@ -90,10 +90,13 @@ Lommel United, Lommel
 
 KAA Gent, 1864,     Gent        › Oost-Vlaanderen › Vlaanderen
   | Gent | Koninklijke Atletiek Associatie Gent
+  | AA Gent
 
 KSC Lokeren OV, 1923,   Lokeren     › Oost-Vlaanderen › Vlaanderen
-  | Lokeren | Sporting Lokeren | KSC Lokeren Oost-Vlaanderen
+  | Lokeren | KSC Lokeren | KSC Lokeren Oost-Vlaanderen
+  | Sporting Lokeren
   | Koninklijke Sporting Club Lokeren Oost-Vlaanderen
+
 
 SC Eendracht Aalst,  1919,  Aalst       › Oost-Vlaanderen › Vlaanderen
   | Aalst | Eendracht Aalst
@@ -103,11 +106,11 @@ FCV Dender EH,       Denderleeuw › Oost-Vlaanderen › Vlaanderen
   | Dender
 
 Waasland-Beveren, 1936,   Beveren › Oost-Vlaanderen › Vlaanderen   ## KVRS Waasland - SK Beveren
-  | Waasland-Bev 
+  | Waasland-Bev
   | Red Star Waasland
 # In the summer of 2010 Red Star Waasland changed its name to Waasland-Beveren
-# and moved to the bigger stadium of Beveren  
-  
+# and moved to the bigger stadium of Beveren
+
 KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
   | Beveren
 
@@ -116,7 +119,7 @@ KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
 
 Club Brugge, 1891,    Brugge › West-Vlaanderen › Vlaanderen
   | Club Brugge KV | Club Brugge Koninklijke Voetbalvereniging
-  | Club Brügge [de] 
+  | Club Brügge [de]
 Cercle Brugge, 1899,  Brugge › West-Vlaanderen › Vlaanderen
   | Cercle Brugge KSV | Cercle Brugge Koninklijke Sportvereniging
   | Cercle Brügge KSV [de]
@@ -131,7 +134,7 @@ SV Zulte Waregem, 1950,   Waregem  › West-Vlaanderen › Vlaanderen
   | Waregem | Zulte Waregem | Sportvereniging Zulte Waregem
 
 KSV Waregem (1925-2001),   Waregem
-  | Koninklijke Sportvereniging Waregem 
+  | Koninklijke Sportvereniging Waregem
 
 
 == Hainaut › Wallonie ==
@@ -149,7 +152,7 @@ Royal Excel Mouscron, 2010,    Mouscron  › Hainaut › Wallonie     ## Moeskro
 RAEC Mons,             Mons      › Hainaut › Wallonie     ##  Bergen [nl]
   | Bergen
 
-== Luxembourg › Wallonie == 
+== Luxembourg › Wallonie ==
 
 Excelsior Virton, Virton
   | R.E. Virton

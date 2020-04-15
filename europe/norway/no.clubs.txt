@@ -3,6 +3,7 @@
 
 Vålerenga Fotball,   Oslo
   | Vålerenga | Vålerenga IF
+  | Vålerengen IF
 KFUM-Kameratene Oslo,  Oslo
   | KFUM Oslo
 Skeid Fotball,  Oslo
@@ -33,7 +34,8 @@ Aalesunds FK,   Ålesund
   | Aalesund | Aalesunds Fotballklubb
 
 SK Brann,    Bergen
-  | Brann
+  | Brann | SK Brann Bergen
+
 Strømsgodset IF,  Drammen
   | Strømsgodset | Strømsgodset Toppfotball
 Fredrikstad FK,    Fredrikstad
@@ -43,8 +45,11 @@ Lillestrøm SK,    Lillestrøm
   | Lilleström SK [de]     ## todo/fix: auto-generate variant (no) ø->ö
 Viking FK,    Stavanger
   | Viking | Viking Fotballklubb | Viking Stavanger
-Odds BK, Skien
+Odds BK,  1894,  Skien
   | Odd | Odds Ballklubb
+  | Odd Grenland
+# known as Odd Grenland between 1994 and 2012
+
 Sandefjord, Sandefjord
   | Sandefjord Fotball
 Sandnes Ulf,  Sandnes
@@ -107,4 +112,3 @@ Kongsvinger IL,  1892,    Kongsvinger
 
 Bryne FK,  1926,   Bryne
    | Bryne Fotballklubb
-  

@@ -10,13 +10,13 @@ FC Locomotive Tbilisi,   Tbilisi
   | Lokomotiv Tbilisi
 
 FC Ameri Tbilisi (2002-2009), Tbilisi
-  | Ameri 
+  | Ameri
 
 
 FC Zestafoni, 2014,  Zestafoni
   | Zestafoni     # champs (2): 2013..2011 (2)
 
-FC Margveti Zestafoni (1990-2000),  Zestafoni 
+FC Margveti Zestafoni (1990-2000),  Zestafoni
   | Margveti Zestafoni
 # Margveti was declared bankrupt in 2000.
 
@@ -35,11 +35,13 @@ FC Torpedo Kutaisi
 
 
 FC Chikhura Sachkhere
-  | Chikhura
+  | Chikhura | Chikhura Sachkhere
 FC Samtredia
+  | Samtredia
 FC Dinamo Batumi
   | Dinamo Batumi
 FC Tskhinvali
+  | Spartak Tskhinvali
 FC Sioni Bolnisi
   | Sioni
   | Sioni Bolnisi    # champs (1): 2006/07

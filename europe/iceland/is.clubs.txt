@@ -18,6 +18,8 @@ Víkingur Reykjavík, Reykjavík
   | ÍA | Íþróttabandalag Akraness
 FH Hafnarfjörður,  Hafnarfjörður    # note/fix: auto-change Hafnarfjörður => Hafnarfjördur
   | FH | FH Hafnarfjördur
+  | FH Hafnarfjardar
+
 Breiðablik,          Kópavogur        # note/fix: Breidablik - auto-change ð to d
   | Breidablik
 ÍBV Vestmannaeyjar,  Vestmannaeyjar
@@ -28,6 +30,7 @@ Stjarnan,  1960,      Garðabær
   | Stjarnan Garð. | Stjarnan Garðab.  | Stjarnan Gardab.   # note/fix: auto-change ð to d
   | UMF Stjarnan
   | Stjarnan Garðabær
+  | Stjarnan FC
 
 Grindavík,    Grindavík
   | UMF Grindavík
@@ -49,4 +52,4 @@ Knattspyrnufélag Fjallabyggðar,  Fjallabyggð  # from the towns Ólafsfjörðu
   | KF
   | Leiftur
 # 2010: formerly two clubs
-#   Leiftur and Knattspyrnufélag Siglufjarðar (KS) 
+#   Leiftur and Knattspyrnufélag Siglufjarðar (KS)

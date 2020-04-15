@@ -93,7 +93,7 @@ CF Reus,  1909,      Reus
 == Galicia ==
 
 RCD La Coruña,  La Coruña
-  | La Coruña 
+  | La Coruña
   | RC Deportivo La Coruña | RC Deportivo de La Coruña | Real Club Deportivo La Coruña
   | Deportivo | Deportivo La Coruña | Deportivo de La Coruña | Deportivo da Coruña
   | Dep. La Coruña
@@ -219,10 +219,11 @@ Universidad Las Palmas, Las Palmas
 
 RCD Mallorca,   Palma de Mallorca
   | Mallorca | Real CD Mallorca | Real Club Deportivo Mallorca
+  | Real Mallorca
 ii) RCD Mallorca B
   | Mallorca B
 
-CD Atlético Baleares,  Palma de Mallorca 
+CD Atlético Baleares,  Palma de Mallorca
   | Atlético Baleares
   | Club Deportivo Atlético Baleares
 
@@ -286,7 +287,7 @@ CE Sabadell
 UD Salamanca
   | Salamanca
 
-Real Racing Santander,  1913,   Santander  
+Real Racing Santander,  1913,   Santander
   | Santander | Racing Santander | Real Racing Club de Santander
   | Real Racing Club
 

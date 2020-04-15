@@ -3,29 +3,36 @@
 
 
 Red Star Belgrade, Belgrade
-  | Crvena Zvezda | Crvena zvezda | FK Crvena zvezda
+  | Crvena Zvezda | FK Crvena Zvezda
   | Red Star
   | Roter Stern B. [de]
 FK Partizan Belgrade, Belgrade
   | Partizan | FK Partizan | Partizan Belgrade
   | Partizan Beograd
   | Partizan Belgrad [de]
-OFK Beograd, Belgrade
+
+OFK Beograd, 1911, Belgrade
+  | Omladinski Fudbalski Klub Beograd
+
 FK Rad Belgrade, Belgrade
   | FK Rad | Rad
   | FK Rad Beograd
 
+FK Čukarički, 1926,   Belgrade (Čukarica)
+  | Čukarički | Čukarički Belgrade
+
+
 FK Bežanija,  1921,   Belgrade (New Belgrade)
   | Fudbalski Klub Bežanija
 
-FK Obilić (1924-2015),  Belgrade 
+FK Obilić (1924-2015),  Belgrade
   | Obilić | Obilić Belgrade
 
 FK Vojvodina,  Novi Sad
   | Vojvodina
-  | FK Vojvodina Novi Sad
+  | Vojvodina Novi Sad | FK Vojvodina Novi Sad
 
-  
+
 FK Spartak Zlatibor voda
 
 FK Sloboda Užice,     Užice
@@ -47,12 +54,10 @@ FK Radnicki Niš
   | Radnicki Niš
 FK Mladost Lučani
   | Mladost Lučani
-FK Čukarički
-  | Čukarički
 
 Backa Topola
 FK Napredak
-  | Napredak
+  | Napredak | Napredak Krusevac
 FK Voždovac
   | Voždovac
 FK Indjija
@@ -67,8 +72,9 @@ FK Radnik Surdulica
 Macva Sabac
 
 FK Smederevo, 1924,  Smederevo
-  | Smederevo 
+  | Smederevo
   | FK Smederevo 1924 | Fudbalski Klub Smederevo 1924
+  | Sartid Smederevo
 
 FK Banat Zrenjanin (2006-2016),   Zrenjanin
   | Banat Zrenjanin

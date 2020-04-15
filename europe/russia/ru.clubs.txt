@@ -20,7 +20,7 @@ FC Spartak Moskva, 1922,    Moskva
   | Spartak Moskau [de] | FC Spartak Moskau [de]
 ii) Spartak Moskva II
   | Spartak Moskau II [de]
-  
+
 FC Moskva,    Moskva
   | Moskva
   | FK Moskva
@@ -71,7 +71,7 @@ PFC Krylya Sovetov Samara,    Samara
 Arsenal Tula,  Tula
   | Arsenal | FC Arsenal Tula
 
-Chernomorets Novorosisk, 1907, Novorosisk    
+Chernomorets Novorosisk, 1907, Novorosisk
   | Chernomorets | FC Chernomorets Novorossiysk
   | FC Chernomorets Krasnodarskiy Kray    # Novorossiysk is a city in Krasnodar Krai
 
@@ -118,7 +118,7 @@ Shinnik, Yaroslavl
   | Shinnik Yaroslavl
 SKA Khabarovsk, Khabarovsk
   | SKA-Energiia | SKA Energia | Energ. Khabarovsk
-  | FC SKA-Khabarovsk    
+  | FC SKA-Khabarovsk
 # note: The club has been known under different names: SKA (1960–99)
 #                                                      SKA-Energia (1999–2016)
 #                                                      SKA-Khabarovsk (2016–)
@@ -146,14 +146,14 @@ Volga Nizhnii Novgorod, Nizhny Novgorod
 FC Tambov,  2013, Tambov
   | Tambov
 FC Orenburg,  Orenburg
-  | Orenburg | FK Orenburg 
+  | Orenburg | FK Orenburg
   | Gazovik Orenburg
 Volgar-Astrakhan,  Astrakhan
 
 Vladikavkaz,   Vladikavkaz
   | Spartak Vladikavkaz
   | FC Spartak Vladikavkaz
-  
+
 Yenisey, Krasnoyarsk
   | FC Yenisey | Yenisey Krasnoyarsk | FC Yenisey Krasnoyarsk
 
@@ -166,17 +166,18 @@ Neftekhimik Nizhnekamsk, Nizhnekamsk
 
 FC Chayka, Peschanokopskoye
   | Chayka Peschanokopskoye | FC Chayka Peschanokopskoye
-  
-FC Fakel Voronezh, Voronezh  
-  | Fakel Voronezh
-  | Fakel Worenesch [de] 
 
-FC Armavir, Armavir 
+FC Fakel Voronezh, Voronezh
+  | Fakel Voronezh
+  | Fakel Worenesch [de]
+
+FC Armavir, Armavir
   | Torpedo Armavir    # note: on 9 June 2016, the club was renamed from FC Torpedo Armavir to FC Armavir
 
 FC Tekstilshchik Kamyshin,    1958,    Kamyshin
   | Tekstilshchik
   | Tekstilshchik Kamyshin
+  | Tekstilschik Kamyshin
   | FC Rotor Kamyshin
 # name history:
 #  1979–1995: FC Tekstilshchik Kamyshin

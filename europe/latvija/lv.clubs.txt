@@ -12,18 +12,18 @@ Riga FC,         Riga
 FS METTA,        Riga
   | METTA | FS METTA/LU | FS METTA/Latvijas Universitāte
   | FK Universitate
- 
-FK LU/Daugava (1979-2000), Riga    
-  | FK Latvijas Universitāte/Daugava 
+
+FK LU/Daugava (1979-2000), Riga
+  | FK Latvijas Universitāte/Daugava
   | Torpedo Rīga
 
 FC Daugava Rīga (2003-2015),  Riga          # note: historic soviet era club
+  | Daugava Rīga
   | FK Daugava Rīga
 
-
 Skonto FC (1991-2006), Riga
-  | Skonto | FC Skonto Riga
-
+  | Skonto | Skonto Riga
+  | FC Skonto Riga
 
 FK Ventspils,    Ventspils
   | Ventspils
@@ -37,6 +37,7 @@ FK Liepāja,      Liepāja       # check -same as SK Liepājas Metalurgs ??
 SK Liepājas Metalurgs,      Liepāja
   | Liepājas Metalurgs
   | FK Liepājas Metalurgs
+  | Metalurgs Liepāja
 
 FK Jelgava, Jelgava
   | Jelgava

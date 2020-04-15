@@ -7,6 +7,7 @@ SL Benfica,       Lisboa
 Sporting CP,      Lisboa
   | Sporting Lisboa | Sporting Clube de Portugal
   | Sp Lisbon [en]
+  | Sporting CP Lisbon
   | Sporting Liss. [de] | Sporting Lissabon [de]
 
 Os Belenenses,    Lisboa
@@ -53,6 +54,12 @@ Vitória de Setúbal, Setúbal   ## note:  Vitória SC <=> Vitória FC !!!
 
 CS Marítimo, Funchal
   | Marítimo | Marítimo Funchal
+
+CD Nacional Madeira, Funchal
+  | Nacional  | CD Nacional | Nacional da Madeira
+  | Clube Desportivo Nacional
+  | Nacional Funchal
+
 Moreirense FC, Moreira de Cónegos
   | Moreirense
 FC Paços de Ferreira, Paços de Ferreira
@@ -75,9 +82,7 @@ Académica de Coimbra, Coimbra
   . 
 FC Arouca, Arouca
   | Arouca
-CD Nacional Madeira, Funchal
-  | Nacional  | CD Nacional | Nacional da Madeira
-  | Clube Desportivo Nacional
+
 FC Penafiel, Penafiel
   | Penafiel
 

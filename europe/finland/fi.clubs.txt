@@ -3,16 +3,16 @@
 
 
 HJK Helsinki,     Helsinki
-  | HJK | Helsingin Jalkapalloklubi 
+  | HJK | Helsingin Jalkapalloklubi
 HIFK Helsinki,    Helsinki
-  | HIFK | HIFK Fotboll | IFK Helsingfors 
+  | HIFK | HIFK Fotboll | IFK Helsingfors
   | Helsingfors IFK   # champs (2): 1962/63 1960/61
   | Helsinki IFK
 
 HPS Helsinki,   Helsinki    # champs (1): 1958/59
-  | HPS | Helsingin Palloseura 
+  | HPS | Helsingin Palloseura
 
-Finnairin Palloilijat Helsinki (1965-1998), Helsinki 
+Finnairin Palloilijat Helsinki (1965-1998), Helsinki
   | FinnPa | FinnPa Helsinki
   | Finnairin Palloilijat
 
@@ -28,21 +28,23 @@ TPS Turku, 1922,      Turku
   | TPS | Turun Palloseura
 
 FC Honka Espoo,   Espoo
-  | FC Honka | Honka
+  | Honka | Honka Espoo
+  | FC Honka
+
 KuPS Kuopio,      Kuopio
   | KuPS | Kuopio PS
   | Kuopion PS     # champs (3): 1977/78 1975/76 1967/68
   | Kuopion Palloseura
-  
+
 Myllykosken Pallo -47,   Myllykoski    ## part of the city of Kouvola
-  | MYPA | MyPa 
-  | Myllykosken Pallo-47 
+  | MYPA | MyPa | MyPa-47
+  | Myllykosken Pallo-47
   | Myllykosken Pallo −47   ### todo/fix: norm dash (− => -) !!!
 
 FC Lahti,         Lahti
   | Lahti
-# FC Lahti was founded in 1996 when two rival clubs from Lahti 
-#  FC Kuusysi and Reipas Lahti - decided to merge. 
+# FC Lahti was founded in 1996 when two rival clubs from Lahti
+#  FC Kuusysi and Reipas Lahti - decided to merge.
 
 FC Kuusysi,       Lahti   # champs (5): 1992/93 1990/91 1987/88 1985/86 1983/84
 FC Reipas Lahti,  Lahti   # champs (3): 1971/72 1968/69 1964/65
@@ -50,7 +52,7 @@ FC Reipas Lahti,  Lahti   # champs (3): 1971/72 1968/69 1964/65
 
 
 JJK Jyväskylä,     Jyväskylä
-  | JJK | JJK Jyvaskyla 
+  | JJK | JJK Jyvaskyla
 
 Tampere United,      Tampere
 FC Ilves,            Tampere
@@ -97,7 +99,7 @@ FC Jazz, Pori      # champs (1): 1997/98
   | FC Jazz Pori
 
 AC Oulu, 2002, Oulu
-# AC Oulu was founded in 2002 as a joint initiative of the 
+# AC Oulu was founded in 2002 as a joint initiative of the
 #  OLS, OPS, OTP and Tervarit clubs.
 
 OPS Oulu,   Oulu    #  champs (2): 1982..1980 (2)

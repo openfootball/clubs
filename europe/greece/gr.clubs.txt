@@ -16,7 +16,7 @@ Atromitos FC,      Athens    ## use!? - Peristeri a suburban municipality in the
   | Atromitos
   | Atromitos Athen [de]
 Panionios GSS,     Athens    ## use!? - Nea Smyrni a municipality and a southern suburb of Athens
-  | Panionios 
+  | Panionios
   | Panionios Athen [de]
 APO Akratitos,      Athens        ## Ano Liosia, Athens
   | Akratitos
@@ -61,9 +61,10 @@ Aris Thessaloniki FC, Thessaloniki › Central Macedonia
   | Aris Saloniki
 Iraklis 1908 Thessaloniki FC, Thessaloniki › Central Macedonia
   | Iraklis | Iraklis FC
+  | Iraklis Thessaloniki
   | AEP Iraklis FC
   | Heracles [en]   ## Iraklis = Haracles (engl.)
- 
+
 Apollon Pontou FC, Kalamaria › Central Macedonia    ## Kalamaria, Thessaloniki
   | Kalamaria
 
@@ -71,13 +72,14 @@ Asteras Tripolis FC, Tripoli › Peloponnese
   | Asteras | Asteras Tripolis
 
 Xanthi FC,           Xanthi › Thrace
-  | Xanthi 
+  | Xanthi
   | Skoda Xanthi FC
 Panetolikos GFS,     Agrinio › West Greece
   | Panetolikos
   | Panaitolikos
 PAS Giannina FC,     Ioannina › Epirus
-  | Giannina | Yiannina
+  | Giannina | PAS Giannina
+  | Yiannina
 Levadiakos FC,       Livadeia › Central Greece
   | Levadeiakos | Levadiakos
 

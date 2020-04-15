@@ -28,6 +28,7 @@ FC Shakhtyor Soligorsk
   | Shakhtyor
   | Shakhter Soligorsk
   | Shakhtyor Soligorsk   # champs (1): 2006/07
+  | Shakhtior Saligorsk
 
 FC Naftan Novopolotsk
   | Naftan
@@ -38,10 +39,10 @@ FC Torpedo Zhodino
 
 FC Dinamo Brest
   | Dinamo Brest
-  | FC Dynamo Brest
+  | Dynamo Brest | FC Dynamo Brest
   
 FC Neman Grodno
-  | Neman
+  | Neman | Neman Grodno
 
 FC Isloch
   | Isloch

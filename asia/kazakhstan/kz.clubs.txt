@@ -20,9 +20,11 @@ FC Shakhter Karagandy
   | Shakhter
   | Shakhter Karagandy    # champs (2): 2014..2012 (2)
   | Shakter Karaganda
+  | Shakhtyor Karaganda
 
 FC Tobol Kostanay
-  | Tobol
+  | Tobol 
+  | Tobol Kustanai
   | Tobyl Kostanay
   
 FC Irtysh Pavlodar
@@ -30,7 +32,8 @@ FC Irtysh Pavlodar
   | Irtysh Pavlodar   # champs (1): 2003/04
 
 FC Ordabasy Shymkent
-  | Ordabasy
+  | Ordabasy | Ordabasy Shymkent
+
 FC Atyrau
   | Atyrau
 FC Zhetysu Taldykorgan
@@ -39,7 +42,7 @@ FC Okzhetpes Kokshetau
   | Okzhetpes
 
 FC Kairat Almaty,  1954,  Almaty
-  | Kairat
+  | Kairat | Kairat Almaty
   | FK Kairat
 
 FC Alma-Ata (2000-2008),  Almaty
