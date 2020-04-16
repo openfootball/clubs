@@ -58,14 +58,17 @@ FC Anzhi Makhachkala, 1991,  Makhachkala      ## Dagestan (Republic of) >  North
 
 FC Sibir Novosibirsk,  Novosibirsk
   | Sibir | Sibir' | FC Sibir
+  | Sibir Novosibirsk
 
 FC Alania Vladikavkaz,  Vladikovkaz
   | Alania | Alania Vladikavkaz
+  | Alaniya
 
 PFC Krylya Sovetov Samara,    Samara
   | Samara
   | Krylya Sovetov | FK Krylya Sovetov Samara
   | Krylia Sovetov | Kryl'ia Sovetov | Krylia Sovetov Samara | PFC Krylia Sovetov Samara
+  | Krylya Sovetov Samara
   | Kryliya Sovetov [de]
 
 Arsenal Tula,  Tula
@@ -129,23 +132,27 @@ Terek Grozny, Grozny
   | Terek | FC Terek Grozny
 Akhmat Grozny, Grozny
   | Akhmat | FC Akhmat Grozny
+  | FK Akhmat Grozny
   | FK Achmat Grozny [de]
 Tom Tomsk, Tomsk
   | Tom | Tom' | Tomsk | FC Tom Tomsk
 Tosno,  Tosno
+  | FK Tosno
 FC Ufa, Ufa
   | Ufa | Ufa Ufa
 Ural Yekaterinburg, Yekaterinburg
-  | Ural | FC Ural Yekaterinburg
+  | Ural | FC Ural | FC Ural Yekaterinburg
   | FC Ural Sverdlovsk Oblast | Football Club Ural Sverdlovsk Oblast
   | Ural Jekaterinburg [de]
 
 Uralan, Elista
 Volga Nizhnii Novgorod, Nizhny Novgorod
   | Volga | Volga N. Novgorod
+  | Volga Nyzhnyi
 
 FC Tambov,  2013, Tambov
   | Tambov
+  | FK Tambov
 FC Orenburg,  Orenburg
   | Orenburg | FK Orenburg
   | Gazovik Orenburg

@@ -154,9 +154,10 @@ Royal Excel Mouscron, 2010,    Mouscron  › Hainaut › Wallonie     ## Moeskro
   | R. Mouscron-Péruwelz | Royal Mouscron-Péruwelz
   | R. Excelsior Mouscron
   | Excelsior Mouscron
+  | Royal Excel Mouscron Péruwelz
 
 RAEC Mons,             Mons      › Hainaut › Wallonie     ##  Bergen [nl]
-  | Bergen
+  | Mons | Bergen
 
 == Luxembourg › Wallonie ==
 
@@ -194,10 +195,10 @@ RAA Louviéroise, La Louvière
   | Louvieroise
   | RAA La Louviéroise
 KSV Roeselare, Roeselare
-  | Roeselare
+  | Roeselare | SV Roeselare
 RFC Seraing, Seraing
   | Seraing
 AFC Tubize, Tubize
   | Tubize
 Oud-Heverlee Leuven, 2002,   Leuven   ## Flemish Brabant > Flanders
-  | Leuven | OH Leuven
+  | Leuven | OH Leuven | Oud-Heverlee

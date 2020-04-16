@@ -42,7 +42,10 @@ Jagiellonia Białystok,  Białystok
 
 Arka Gdynia,  Gdynia
   | Arka | Arka Gdynia 1929
+  | MZKS Arka Gdynia
+
 GKS Bełchatów,  Bełchatów
+  | Bełchatów
 Korona Kielce,  Kielce
   | Korona
 
@@ -71,6 +74,7 @@ Sandecja Nowy Sącz, Nieciecza
   | Sandecja Nowy S.
 Bruk-Bet Termalica Nieciecza, 1922, Nieciecza
   | Termalica B-B.
+  | Termalica Nieciecza
 
 Widzew Łódź,  Łódź
   | RTS Widzew Łódź
@@ -92,6 +96,7 @@ Zawisza Bydgoszcz,  Bydgoszcz
 Raków Częstochowa, 1921,  Częstochowa
   | Raków | RKS Raków | RKS Raków Częstochowa
   | Raków Czestochowa   ## todo/fix: check unaccent for Czę
+  | KS Raków Częstochowa
 
 Odra Opole, Opole
   | OKS Odra Opole

@@ -5,6 +5,7 @@ SL Benfica,       Lisboa
   | Benfica | Benfica Lis. | Benfica Lisboa
   | Benfica Lissab [de] | Benfica Lissabon [de]
 Sporting CP,      Lisboa
+  | Sporting
   | Sporting Lisboa | Sporting Clube de Portugal
   | Sp Lisbon [en]
   | Sporting CP Lisbon
@@ -32,8 +33,10 @@ Boavista FC,  Porto
 UD Oliveirense,  Oliveira de Azeméis    # a city and a municipality located in Porto Metropolitan Area
   | Oliveirense | União Desportiva Oliveirense
 
-CD Aves, Aves
+CD Aves, 1930,  Aves
   | Aves | Desportivo Aves
+  | CD das Aves | Desportivo das Aves
+
 GD Chaves, Chaves
   | Chaves
 Estoril Praia, Estoril
@@ -54,6 +57,7 @@ Vitória de Setúbal, Setúbal   ## note:  Vitória SC <=> Vitória FC !!!
 
 CS Marítimo, Funchal
   | Marítimo | Marítimo Funchal
+  | CS Marítimo Madeira
 
 CD Nacional Madeira, Funchal
   | Nacional  | CD Nacional | Nacional da Madeira

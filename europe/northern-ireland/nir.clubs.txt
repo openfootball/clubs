@@ -30,23 +30,33 @@ Glenavon FC
   | Glenavon | FC Glenavon
 Coleraine FC
   | Coleraine
-Ballymena United FC
+Ballymena United FC,  1928, Ballymena
   | Ballymena | Ballymena United
 
+Ballinamallard United FC,  Ballinamallard
+  | Ballinamallard United
+
 Dungannon Swifts FC
-  | Dungannon
+  | Dungannon | Dungannon Swifts
+
 Larne FC
   | Larne
 Carrick Rangers FC
   | Carrick
   | FC Carrick Rangers
+  |  Carrick Rangers
+
 Warrenpoint Town FC
-  | Warrenpoint
+  | Warrenpoint | Warrenpoint Town
 
 Ards FC,  1900     #  champs (1): 1958/59
   | Ards
 
 Bangor FC,   Bangor
   ## note: not to confuse with Bangor City in Wales!! - fix error in champs.txt!!
+
+
+Newry City AFC,  Newry
+
 
 

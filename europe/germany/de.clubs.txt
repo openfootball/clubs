@@ -441,6 +441,7 @@ Dynamo Dresden, 1953,      Dresden › Sachsen
  Lennéstraße 12 // 01069 Dresden
 
 RB Leipzig, 2009,     Leipzig › Sachsen
+  | Rasenballsport Leipzig
 
 VfB Leipzig (-2004),  Leipzig › Sachsen     ## note: 2004 aufgelöst in bl 1993/94
   | Leipzig

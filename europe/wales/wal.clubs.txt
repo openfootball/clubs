@@ -16,7 +16,10 @@ Llanelli AFC, 1896,  Llanelli
 Cefn Druids AFC
   | Cefn Druids | NEWI Cefn Druids    ## NEWI = North East Wales Institute of Higher Education
 Neath FC
+  |  Neath Athletic
+
 Port Talbot Town FC
+  | Port Talbot
 
 Connah's Quay Nomads FC
   | Connah's Quay
@@ -47,6 +50,7 @@ Barry Town AFC
 Cardiff Metropolitan University FC
   | Cardiff Met | Cardiff M.U. | Cardiff Met Uni.
   | Cardiff Metropolitan
+  | Cardiff Met University
 Caernarfon Town FC
   | Caernarfon | Caernarfon Town
 Carmarthen Town AFC
@@ -88,6 +92,18 @@ Cwmbrân Town AFC,    Cwmbrân
 Prestatyn Town FC,  1910,  Prestatyn
 
 Afan Lido FC, 1967,   Port Talbot
+  | Afan Lido
 
 Haverfordwest County AFC, 1899,  Haverfordwest
+  | Haverfordwest County
 
+Porthmadog FC,   Porthmadog
+  | Porthmadog
+
+Welshpool Town FC,  Welshpool
+  | Welshpool Football Club
+  | Welshpool Town
+
+
+Caersws FC,  Caersws
+  |  Caersws

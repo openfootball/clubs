@@ -85,18 +85,20 @@ Eskişehirspor,         Eskişehir
 
 Akhisarspor,   Akhisar
   | Akhisar | Akhisar Bld.spor | Akhisar Belediyespor | Akhisar Belediye Gençlik ve Spor Kulübü
-
+  | Akhisar Belediye
 
 Alanyaspor,  Alanya
 Antalyaspor, 1966, Antalya
   | Antalya | Antalyaspor Kulübü
   | Antalyaspor AS
+  | MP Antalyaspor
 
 Bursaspor,   Bursa
   | Bursaspor SK
 Göztepe İzmir,    İzmir (Güzelyalı)
   | Göztepe | Göztepe SK
   | Göztep | Göztepespor
+  | Göztepe AŞ
 Bucaspor, 1928,       İzmir (Buca)
   | Bucaspor Kulübü
 Altay SK,  1914,     İzmir

@@ -9,7 +9,7 @@ FK Inter Bratislava, 1940,  Bratislava
    | Inter Bratislava
 
 FC Petržalka,  1898,  Bratislava
-  | FC Petržalka 1898
+  | Petržalka | FC Petržalka 1898
   | Petrzalka Akademia
 # 2010 – Renamed FC Petržalka 1898
 # 2014 – Bankruptcy - renamed FC Petržalka akadémia
@@ -66,11 +66,13 @@ FC ViOn Zlaté Moravce
   | Zlaté Moravce
 
 SK Sered
-  | Sered
+  | Sered | ŠKF Sereď
+
 TJ Sokol Dolná Zdana
   | Sokol Dolná Zdana
 MFK Zemplín Michalovce
   | Michalovce
+  | Zemplin Michalovce
 
 FK Poprad, 1906, Poprad
 

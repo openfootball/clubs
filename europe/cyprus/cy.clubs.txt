@@ -19,6 +19,8 @@ Apollon Limassol FC,     Limassol
 Karmiotissa Pano Polemidia,  Limassol (Pano Polemidia)
   | Karmiotissa Pol. | Karmiotissa Polemidion
   | Karmiotissa FC
+  | Karmiotissa Pano Polemidion
+
 
 
 Anorthosis Famagusta FC, Larnaca         ## note: originally based in Famagusta, now based in Larnaca
@@ -40,7 +42,7 @@ Alki Larnaca FC (1948-2014), Larnaca
   | Alki Larnaca
 
 APOP/Kinyras Peyias FC
-  | APOP
+  | APOP | APOP / Kinyras
 Ermis Aradippou FC
   | Ermis | Ermis Aradippou
 
@@ -52,6 +54,7 @@ Pafos FC
   | Pafos | FC Pafos
 Doxa Katokopia FC,  Katokopia
   | Doxa | Doxa Katokopias FC
+  | Doxa Katokopia
 
 Enosis Neon Paralimni FC
   | Paralimni

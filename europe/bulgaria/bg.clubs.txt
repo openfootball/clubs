@@ -22,6 +22,8 @@ Tsarsko Selo Sofia, 2015,   Sofia
 PFC Akademik Sofia, 1947,  Sofia
   | Akademik | Akademik Sofia
 
+Tsarsko Selo
+  | FC Tsarsko Selo Sofia 2015
 
 
 PFC Botev Plovdiv, 1912,       Plovdiv
@@ -55,6 +57,7 @@ PFC Ludogorets Razgrad, 1945,  Razgrad
   | Professional Football Club Ludogorets Razgrad
   | PFC Ludogorets 1945
   | PFK Ludogorets Razgrad
+  | PFC Ludogorets 1945 Razgrad
 
 PFC Beroe Stara Zagora, 1916,   Stara Zagora
   | Beroe | Professional Football Club Beroe
@@ -90,10 +93,11 @@ SFC Etar Veliko Tarnovo,  Veliko Tarnovo
   | Etar Tarnovo   # champs (1): 1991/92
 
 Arda
+  |  FC Arda Kardzhali
+
 
 FC Etar Veliko Tarnovo
   | Etar
-Tsarsko Selo
 Vitosha Bistritsa,   Bistritsa    # in Sofia City Province
   | FC Vitosha | FC Vitosha Bistritsa
   | Vitosha Bistrica
@@ -112,9 +116,11 @@ FC Sliven (-2000), Sliven
 PFC Marek Dupnitsa,   1919, Dupnitsa
   | FC Marek | FC Marek Dupnitsa
   | Marek Dupnitza
+  | Marek Dupnitsa
 
 
 Neftochimik Burgas, 1962,  Burgas
+  | Neftochimic Burgas 1962
   | PFC Neftochimic Burgas | Profesionalen Futbolen Klub Neftochimik 1962 Burgas
   | FK Neftochimik
   | PFC Naftex Burgas

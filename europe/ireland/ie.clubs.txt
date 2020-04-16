@@ -14,6 +14,8 @@ St Patrick's Athletic FC,        Dublin (Inchicore)
   | Saint Patrick's
 University College Dublin AFC,  Dublin (Belfield)
   | UCD | UC Dublin | Uni College Dublin
+  | University College Dublin
+
 Shelbourne FC,                   Dublin (Drumcondra)
   | Shelbourne
 
@@ -61,6 +63,7 @@ Longford Town FC,  Longford
   | Longford | Longford Town
 Mervue
 Monaghan
+  | Monaghan United
 Sligo Rovers FC,       Sligo
   | Sligo | Sligo Rovers | FC Sligo Rovers
 
@@ -74,8 +77,10 @@ Waterford FC,          Waterford
 
 Wexford FC,           Crossabeg
   | Wexford
+  | Wexford Youths
 
 Sporting Fingal FC
+  | Sporting Fingal
 
 Cabinteely FC,        Cabinteely
   | Cabinteely

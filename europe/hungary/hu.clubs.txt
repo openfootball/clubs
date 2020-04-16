@@ -83,16 +83,19 @@ Diósgyőri VTK,  1910, Miskolc (Diósgyőr)
   | Diósgyöri VTK
   | Diósgyőr-Vasgyári Testgyakorlók Köre
   | Diósgyöri Miskolc
+  | Diósgyör
 
 Mezőkövesd Zsóry SE
-  | Mezőkövesd
+  | Mezőkövesd | Mezőkövesd-Zsóry
+
 Varda SE
   | Varda
 
 Puskás Akadémia FC
+  | Puskás FC
 
 Kaposvári Rákóczi FC
-  | Rákóczi
+  | Rákóczi | Kaposvári Rákóczi
 
 Salgótarjáni BTC,  1920,  Salgótarján
  | Salgótarjáni Barátok Torna Club
@@ -121,7 +124,7 @@ Békéscsaba 1912 Előre, 1912,  Békéscsaba
   | Békéscsabai Előre FC | Békéscsabai EFC
 
 Pápai FC (1995-2015),  Pápa
-  | Lombard Pápa TFC
+  | Pápa | Lombard Pápa TFC
 
 
 FC Tatabánya, 1910,   Tatabánya
@@ -129,7 +132,7 @@ FC Tatabánya, 1910,   Tatabánya
 
 
 BFC Siófok, 1921,    Siófok
-  | Bodajk FC Siófok
+  | Siófok | Bodajk FC Siófok
   | Siófoki Bányász
 # The word Bodajk in the club's name stems from a merger
 #   with Bodajk FC in 2005.

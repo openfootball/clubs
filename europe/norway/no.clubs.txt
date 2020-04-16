@@ -11,7 +11,7 @@ Skeid Fotball,  Oslo
   | Skeid Oslo    # champs (1): 1967/68
 
 Lyn Oslo,  Oslo
-  | Lyn 1896 FK | FK Lyn     # champs (4): 1969/70 1966...1963 (3)
+  | Lyn | Lyn 1896 FK | FK Lyn     # champs (4): 1969/70 1966...1963 (3)
   | Lyn Fotball | Lyn 1896 Fotballklubb
   | FC Lyn Oslo
 
@@ -100,8 +100,12 @@ IL Hødd, 1919,  Ulsteinvik
 
 Hamarkameratene,  Hamar
   | HamKam | Ham-Kam
-Kongsvinger IL Toppfotball, Kongsvinger
-  | Kongsvinger | Kongsvinger IL Fot
+
+
+Kongsvinger IL,  1892,    Kongsvinger
+  | Kongsvinger
+  | Kongsvinger IL Fot | Kongsvinger IL Toppfotball
+
 Nest-Sotra Fotball,  Sotra
   | Nest-Sotra
 Notodden FK,  Notodden
@@ -117,8 +121,6 @@ Tromsdalen UIL,  Tromsdalen
   | Aasane Fotball [de]
 
 
-Kongsvinger IL,  1892,    Kongsvinger
-  | Kongsvinger | Kongsvinger IL Toppfotball
 
 Bryne FK,  1926,   Bryne
    | Bryne Fotballklubb

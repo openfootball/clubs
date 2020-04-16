@@ -94,6 +94,7 @@ SC Wiener Neustadt, 1908,  Wr. Neustadt
 
 SKN St. Pölten, 2000,      St. Pölten
   | St. Pölten | Sportklub Niederösterreich St. Pölten
+  | SKN Sankt Pölten
 ii) SKN St. Pölten Juniors
 
 SV Horn,  1922,   Horn
@@ -272,8 +273,8 @@ Austria Klagenfurt, Klagenfurt
   | SK Austria Klagenfurt | SG Austria Klagenfurt
   | FC Kärnten     ## todo: keep as separate club - why? why not?
 
-SK Austria Kärnten (2007-2010), Klagenfurt
-
+Austria Kärnten (2007-2010), Klagenfurt
+  | SK Austria Kärnten
 
 SAK Klagenfurt, Klagenfurt
   | Slovenski atletski klub | Slowenischer AK

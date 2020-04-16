@@ -10,8 +10,9 @@ Panathinaikos FC,  Athens
   | Panathinaikos Athens
 
 Apollon Smyrnis FC,  Athens
-  | Apollon
+  | Apollon | Apollon Smyrnis
   | Apollon Athens FC
+
 Atromitos FC,      Athens    ## use!? - Peristeri a suburban municipality in the northwestern part of the Athens agglomeration
   | Atromitos
   | Atromitos Athen [de]
@@ -56,6 +57,7 @@ Ethnikos Piraeus FC,    Piraeus › Attica
 PAOK FC,              Thessaloniki › Central Macedonia
   | PAOK | PAOK Thessal. | PAOK Thessaloniki
   | PAOK Saloniki
+  | PAOK Thessaloniki FC
 Aris Thessaloniki FC, Thessaloniki › Central Macedonia
   | Aris | Aris Thessaloniki
   | Aris Saloniki
@@ -84,16 +86,27 @@ Levadiakos FC,       Livadeia › Central Greece
   | Levadeiakos | Levadiakos
 
 
-AE Larissa FC,       Larissa › Thessaly
+AE Larissa FC,  1964,     Larissa › Thessaly
   | Larissa | Larissa FC | AE Larissa
   | Larisa | AE Larisa
-
+  | Larisa AEL
+  | AEL | Athlitiki Enosi Larissa
+  | Athlitiki Enosi Larissa FC
+  | AEL Football Club
 
 PAS Lamia 1964,      Lamia › Central Greece
   | Lamia | PAS Lamia | Lamia 1964
+
 Kerkyra FC,          Corfu › Ionian Islands
   | Kerkyra
   | Kerkyra Kassiopi     # club founded in 2013 following a merger between AO Kerkyra and AO Kassiopi.
+  | AOK Kerkyra
+  | PAE Kerkyra
+# name history.
+#   1969–2013 (AO Kerkyra)
+#   1984–2013 (AO Kassiopi)
+#   2013–present (AOK PAE Kerkyra
+
 
 Doxa Dramas FC, Drama › Macedonia
   | Doxa | Doxa Dramas
@@ -129,12 +142,14 @@ Volos FC, 2017, Volos › Thessaly
   | Volos
   | Volos NFC | Volos Football Club
   | Volos NPS
+  | Volos New Football Club
 Niki Volou FC, Volos › Thessaly
+  | Niki Volou
   | Niki Volos
 Olympiacos Volou 1937 FC, Volos › Thessaly
   | Olympiacos Volou | Olympiacos Volou FC
   | Olympiakos Volou
-
+  | Olympiakos Volos
 
 Panachaiki FC, 1891,  Patras › Peloponnese
   | Panahaiki | Panahaiki FC
@@ -148,7 +163,7 @@ Panserraikos FC, Serres › Macedonia
   | Panserraikos
 Panthrakikos FC, Komotini › Thrace
   | Panthrakikos
-
+  | Panthrakikos Komotini
 
 Trikala FC,       Trikala › Thessaly
   | Trikala

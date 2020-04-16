@@ -11,7 +11,11 @@ FC Dynamo Kyiv,  Kyiv
 FC Arsenal Kyiv,  Kyiv
   | Arsenal Kyiv
   | Arsenal Kiew [de]
-  | Arsenal Kiev
+  | Arsenal Kiev | FC Arsenal Kiev
+
+
+FC Obolon Kyiv
+  | Obolon'
 
 
 FC Shakhtar Donetsk,  Donetsk
@@ -54,6 +58,7 @@ SC Tavriya Simferopol
   | Tavriya
   | Tavriya Simferopol   # champs (1): 1992/93
   | SK Tavriya Simferopol
+  | Tavriia
 
 FC Zorya Luhansk
   | Zorya | Zorya Luhansk
@@ -63,8 +68,11 @@ FC Zorya Luhansk
 FC Mariupol
   | Mariupol
   | FK Mariupol
+  | FK Mariupol Illichivets'
+
 FC Olexandriya
   | Olexandriya
+  | Oleksandriya
   | FC Oleksandriya
   | Oleksandria [de] | FC Oleksandria [de]
 
@@ -76,21 +84,46 @@ FC Chornomorets Odesa
 
 Desna
   | SFC Desna Tscherni
+  | FC Desna Chernihiv
+  | FK Desna Chernihiv
+
 Kolos Kovalivka
+  | FC Kolos Kovalivka
+
 
 FC Volyn Lutsk, Lutsk
-  | Volyn Lutsk
+  | Volyn | Volyn Lutsk
 
 FC Metalurh Zaporizhya,    1935,   Zaporizhya
-  | MFC Metalurh Zaporizhya | Municipal Football Club Metalurh Zaporizhya
+  | Metalurh Zaporizhya | MFC Metalurh Zaporizhya | Municipal Football Club Metalurh Zaporizhya
   | Metalurg Zaporizhya
   | Metalurg Zaporizhia
 
 FC Kryvbas Kryvyi Rih, 1959,  Kryvyi Rih
+  | Kryvbas
   | FK Krivbas
   | Futbolniy Klub Krivbas Kriviy Rig
 
+
+NK Veres Rivne,  1957, Rivne
+  | Veres Rivne
+  | Narodnyy Klub Veres Rivne
+
+
+FC Zirka Kropyvnytskyi,  1911,   Kropyvnytskyi   # in Kirovohrad Oblast
+  | Zirka Kropyvnytskyi
+  | FK Zirka Kirovohrad
+
  FC Stal Kamianske (1926-2018),    Kamianske
-   | FC Metalist Kamianske
-   | FK Stal Kamjanske
+  | Stal Kamianske
+  | FC Metalist Kamianske
+  | FK Stal Kamjanske
+
+FC Hoverla Uzhhorod (1946-2016),  Uzhhorod
+  | Hoverla Uzhhorod
+
+FC Sevastopol (2002-2014),   Sevastopol
+   | Sevastopol
+# due to the 2014 Crimean Conflict, the club ceased its existence
+#  and applied for a Russian license with the new name FC SKChF Sevastopol.
 

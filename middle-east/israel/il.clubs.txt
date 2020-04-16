@@ -20,8 +20,9 @@ Hapoel Haifa FC
 Hapoel Kiryat Shmona FC
   | H. Kiryat Shmona | Hapoel Kiryat Shmona
   | Hapoel Ironi Kiryat Shmona FC
-  | Ironi K. Shmona | Ironi Kiryat Shmona
   | Hapoel Ironi Kiryat Shmona     # champs (1): 2012/13
+  | Ironi K. Shmona | Ironi Kiryat Shmona
+  | Ironi Kiryat Schmona
 
 Maccabi Netanya FC
   | M. Netanya | Maccabi Netanya
@@ -65,6 +66,7 @@ Hapoel Kfar-Saba FC
 Sektzia Nes Tziona FC,   Ness Ziona
   | Nes Tziona | Sektzia Nes Tziona
   | Sectzya Nes Ziona
+  | Sektzia Ness Ziona FC
 
 
 Bnei Sakhnin FC,  Sakhnin
@@ -75,6 +77,8 @@ FC Kafr Qasim, Kafr Qasim
   | SC Kfar Qasem
 Hapoel Acre FC, Acre
   | Hapoel Acre  | Hapoel Akko
+  | Hapoel Ironi Akko
+
 Hapoel Afula FC, Afula
   | Hapoel Afula
 Hapoel Ashkelon FC, Ashkelon
@@ -89,7 +93,8 @@ Hapoel Ramat Gan Giv'atayim FC,  Ramat Gan
   | Hapoel Ramat Gan FC
 
 Hapoel Ramat HaSharon FC,   Ramat HaSharon
-  | Hapoel Ramat HaSharon | I. Ramat Hasharon
+  | Hapoel Ramat HaSharon
+  | Ironi Ramat HaSharon | I. Ramat Hasharon
 Hapoel Rishon LeZion FC, Rishon LeZion
   | Hap. Rishon LeZion | Hapoel Rishon LeZion | Hapoel Rishon Lezi
 Hapoel Umm al-Fahm FC,   Umm al-Fahm   # in hebrew: Um el-Faḥem

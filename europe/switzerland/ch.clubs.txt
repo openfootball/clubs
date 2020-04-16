@@ -43,7 +43,7 @@ FC Aarau, 1902,                Aarau
 FC Wohlen, 1904,          Wohlen
   | Wohlen
 
-FC Wettingen, 1931,   Wettingen 
+FC Wettingen, 1931,   Wettingen
   | FC Wettingen 93
 # 1931 (as FC Wettingen)
 # 1993 (as FC Wettingen 1993)
@@ -68,6 +68,7 @@ FC La Chaux-de-Fonds, 1894,  La Chaux-de-Fonds    # champs (1): 1964/65
 FC Lausanne,  1896,           Lausanne
   | Lausanne | FC Lausanne-Sport
   | Lausanne Sports    #  champs (1): 1965/66
+  | Lausanne Sport
 
 FC Le Mont, 1942,             Le Mont-sur-Lausanne
   | FC Le Mont-sur-Lausanne,

@@ -5,7 +5,9 @@
 Red Star Belgrade, Belgrade
   | Crvena Zvezda | FK Crvena Zvezda
   | Red Star
+  | FK Red Star Belgrade
   | Roter Stern B. [de]
+
 FK Partizan Belgrade, Belgrade
   | Partizan | FK Partizan | Partizan Belgrade
   | Partizan Beograd
@@ -16,7 +18,7 @@ OFK Beograd, 1911, Belgrade
 
 FK Rad Belgrade, Belgrade
   | FK Rad | Rad
-  | FK Rad Beograd
+  | FK Rad Beograd | Rad Beograd
 
 FK Čukarički, 1926,   Belgrade (Čukarica)
   | Čukarički | Čukarički Belgrade
@@ -32,8 +34,11 @@ FK Vojvodina,  Novi Sad
   | Vojvodina
   | Vojvodina Novi Sad | FK Vojvodina Novi Sad
 
+FK Proleter Novi Sad,  1951, Novi Sad
+  | Proleter Novi Sad
 
-FK Spartak Zlatibor voda
+
+FK Spartak Zlatibor Voda
 
 FK Sloboda Užice,     Užice
   | Sloboda Užice
@@ -51,18 +56,22 @@ FK Borac Čačak, 1926,   Čačak
 
 FK Spartak Subotica
   | FC Spartak Subotica | Spartak Subotica
-FK Radnicki Niš
+FK Radnicki Niš,   Niš
   | Radnicki Niš
 FK Mladost Lučani
   | Mladost Lučani
 
-Backa Topola
+Bačka Topola,  1913,   Bačka Topola
+  | TSC Bačka Topola  | FK TSC Bačka Topola
+  | Topolski Sportski Club
+
 FK Napredak
   | Napredak | Napredak Krusevac
+  | FK Napredak Krusevac
 FK Voždovac
   | Voždovac
 FK Indjija
-  | Indjija
+  | Indjija | FK Inđija
 
 FK Javor
   | Javor

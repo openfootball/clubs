@@ -5,12 +5,23 @@
 GNK Dinamo Zagreb, Zagreb
   | Dinamo Zagreb | NK Dinamo Zagreb
 NK Lokomotiva Zagreb, Zagreb
-  | Lok Zagreb | Lokomotiva Zagreb
+  | Lokomotiva | Lok Zagreb | Lokomotiva Zagreb
 
 NK Zagreb, Zagreb     # champs (1): 2002/03
 
 NK Trešnjevka Zagreb, 1926,  Zagreb
   | NK Trešnjevka
+
+NK Lučko Zagreb,  1931, Zagreb
+  | Lučko | NK Lučko
+
+NK Hrvatski Dragovoljac, 1975, Zagreb (Novi Zagreb)
+  | Hrvatski Dragovoljac
+
+NK Rudeš,  Zagreb (Rudeš)
+
+NK Croatia Sesvete (1957-2012), Zagreb (Sesvete)
+  | Croatia Sesvete
 
 
 HNK Hajduk Split,  Split
@@ -41,7 +52,16 @@ HNK Gorica
 NK Istra 1961
   | Istra 1961
 NK Inter Zaprešić
-  | Inter Zaprešić
+  | Zaprešić | Inter Zaprešić
+
+
+NK Karlovac,  Karlovac
+  | Karlovac
+NK Zadar, Zadar
+
+NK Međimurje Čakovec,   Čakovec
+  | Međimurje | NK Međimurje
+  | Medimurje   ## todo/fix: auto-add variant!!!
 
 NK Kamen Ingrad (1929-2008),  Velika
   | Kamen Ingrad

@@ -65,6 +65,7 @@ FC Zlín, 1919,   Zlín     ## Zlín
 
 FC Vysočina Jihlava, 1948,  Jihlava  ## Vysočina
   | Jihlava | FC Jihlava
+  | Vysočina Jihlava
 
 FC Zbrojovka Brno, 1913,   Brno     ## South Moravia
   | Brno | Zbrojovka Brno
@@ -84,6 +85,7 @@ SK Dynamo České Budějovice
   | SK Dynamo Budweis [de]
 
 FK Ústí nad Labem, Ústí nad Labem
+  | Ústí nad Labem
 
 FC Hradec Králové, Hradec Králové
   | Hradec Králové
@@ -96,6 +98,14 @@ MFK Vítkovice,  1919,  Ostrava (Vítkovice)
 # announced bankruptcy in 2011 and transformed to MFK Vítkovice
 
 
+1. SC Znojmo FK,   Znojmo
+  | Znojmo
+
+SK Kladno,  Kladno
+  | Kladno | Sportovní Klub Kladno
+
+
 FK Drnovice (1932-2006), Drnovice
   | 1. FK Drnovice
   | Petra Drnovice
+

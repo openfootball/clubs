@@ -303,6 +303,7 @@ UD Vecindario
 
 Xerez CD
   | Xerez
+  | Deportivo Xerez
 
 Real Madrid Castilla
   | Castilla | Real Madrid Castilla Club de Fútbol
