@@ -136,8 +136,11 @@ Olympiacos Volou 1937 FC, Volos › Thessaly
   | Olympiakos Volou
 
 
-Panachaiki FC,   Patras › Peloponnese
+Panachaiki FC, 1891,  Patras › Peloponnese
   | Panahaiki | Panahaiki FC
+  | Panachaiki Patras
+  | Panachaiki 1891 Football Club
+  | Panachaiki GE
 
 Paniliakos FC, Pyrgos › Peloponnese
   | Paniliakos

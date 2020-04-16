@@ -11,7 +11,7 @@ KSP Polonia Warszawa,  Warszawa
   | Polonia Warsaw
 
 Gwardia Warszawa,  1948,  Warszawa   # champs (2): 1957/58 1955/56
-
+  | Gwardia Warsaw
 
 Górnik Zabrze,   Zabrze
   | Górnik Z.
@@ -116,6 +116,7 @@ Stal Mielec, 1939, Mielec   # champs (2): 1976/77 1973/74
 Dyskobolia Grodzisk Wielkopolski, 1922, Grodzisk Wielkopolski
   | KS Dyskobolia Grodzisk Wielkopolski | Klub Sportowy Dyskobolia Grodzisk Wielkopolski
   | Groclin Grodzisk Wielkopolski
+  | Groclin Dyskobolia
 
 
 Amica Wrońki (1992-2007),  Wrońki

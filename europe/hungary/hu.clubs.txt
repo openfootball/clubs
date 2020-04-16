@@ -98,10 +98,19 @@ Salgótarjáni BTC,  1920,  Salgótarján
  | Salgótarján BTC
 
 Pécsi MFC, 1950,   Pécs
-  | PMFC | Pécsi Mecsek Football Club
+  | PMFC | Pécsi Mecsek FC | Pécsi Mecsek Football Club
   | MSC Pécs
+  | Pécsi Dózsa | Pécsi Dózsa Sport Club
+# name history:
+#  1950: Pécs (Pécsi Dózsa Sport Club)
+#  1956: Pécs (Pécs Baranya)
+#  1957: Pécs (Pécsi Dózsa Sport Club)
+#  1973: Pécs (Pécsi Munkás Sport Club) amalgamation with Pécsi Bányász SC, Pécsi Ércbányász SC, Pécsi Helyiipar SK and Pécsi Építők --> PMSC
+#  1995: Pécs (Pécsi Mecsek Futball Club)
 
-FC Sopron
+
+FC Sopron (1921-2008),  Sopron
+
 
 Békéscsaba 1912 Előre, 1912,  Békéscsaba
   | Békéscsaba | Békéscsaba Előre
@@ -123,4 +132,8 @@ BFC Siófok, 1921,    Siófok
   | Siófoki Bányász
 # The word Bodajk in the club's name stems from a merger
 #   with Bodajk FC in 2005.
+
+
+Komlói Bányász SK,   1922,   Komló
+  | Komlói Bányász | Komlói Bányász Sport Klub
 

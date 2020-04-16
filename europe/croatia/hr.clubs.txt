@@ -9,6 +9,9 @@ NK Lokomotiva Zagreb, Zagreb
 
 NK Zagreb, Zagreb     # champs (1): 2002/03
 
+NK Trešnjevka Zagreb, 1926,  Zagreb
+  | NK Trešnjevka
+
 
 HNK Hajduk Split,  Split
   | Hajduk Split
@@ -23,6 +26,7 @@ NK Slaven Belupo, 1907,     Koprivnica
 NK Varaždin
   | Varaždin
   | Varteks Varaždin
+  | NK Varaždin ŠN
 
 
 HNK Rijeka

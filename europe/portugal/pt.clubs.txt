@@ -147,4 +147,8 @@ AC Marinhense,  Marinha Grande
 CU Fabril Barreiro, 1937, Barreiro
   | Fabril Barreiro | Fabril do Barreiro
   | GD Fabril | Grupo Desportivo Fabril
+  | GD CUF Barreiro
   | CUF Barreiro | CUF do Barreiro    # Companhia União Fabril
+
+FC Barreirense,  1911,  Barreiro
+  | Futebol Clube Barreirense

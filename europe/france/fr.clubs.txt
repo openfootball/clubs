@@ -58,7 +58,7 @@ OGC Nice, 1904, Nice    ## Alpes-Maritimes > Provence-Alpes-Côte d'Azur
   | OGC Nizza [de]
 
 Stade Rennais FC, 1901,   Rennes    ## Ille-et-Vilaine > Brittany
-  | Rennes | Stade Rennes 
+  | Rennes | Stade Rennes
   | Stade Rennais | Stade Rennais Football Club
 
 AS Saint-Étienne, 1919,  Saint-Étienne     ## Loire > Rhône-Alpes
@@ -157,7 +157,7 @@ Stade Lavallois, Laval
   | Laval | Stade Lavallois Mayenne Football Club
   | Stade Lavallois-Mayenne FC
   | Stade Laval
-  
+
 Le Mans FC,   Le Mans ›  Pays de la Loire
   | Le Mans | Le Mans Football Club | Le Mans UC 72
 FC Libourne-Saint-Seurin, Libourne
@@ -197,3 +197,16 @@ Rodez AF, 1929,   Rodez › Occitanie
 
 AS Béziers, 2007,  Béziers › Occitanie
   | Béziers | Avenir Sportif Béziers      ## check wikipedia -> AS Béziers (2007)
+
+
+Angoulême-Soyaux Charente, 1920, Angoulême
+  | Angoulême | AS Angoulême
+  | Angoulême CFC | Angoulême Charente FC
+# In 2019 following a merger with ASJ Soyaux-Charente
+#   they adopted the current name - Angoulême-Soyaux Charente
+#  name history:
+# AS Angoulême (ASA) (1948-92)
+# AS Angoulême-Charente 92 (ASAC92) (1992-2005)
+# Angoulême Charente Football Club (ACFC) (2005-2019)
+# Angoulême-Soyaux Charente (ASC) (2005-2019)
+

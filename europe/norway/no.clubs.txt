@@ -15,6 +15,8 @@ Lyn Oslo,  Oslo
   | Lyn Fotball | Lyn 1896 Fotballklubb
   | FC Lyn Oslo
 
+Frigg Oslo FK,  1904, Oslo (Majorstua)
+  | Frigg Oslo Fotballklubb
 
 
 Rosenborg BK,  Trondheim

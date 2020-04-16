@@ -71,6 +71,7 @@ FC Olexandriya
 FC Chornomorets Odesa
   | Chornomorets Odesa
   | Chernomorets Odesa
+  | Chernomorets Odessa
   | Chernom. Odessa [de]
 
 Desna
@@ -88,3 +89,6 @@ FC Metalurh Zaporizhya,    1935,   Zaporizhya
 FC Kryvbas Kryvyi Rih, 1959,  Kryvyi Rih
   | FK Krivbas
   | Futbolniy Klub Krivbas Kriviy Rig
+
+ FC Stal Kamianske (1926-2018),    Kamianske
+   | FC Metalist Kamianske

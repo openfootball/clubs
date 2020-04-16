@@ -67,10 +67,14 @@ FC Petrolul Ploiești, Ploiești
 FC Viitorul Constanța,   Ovidiu
   | Viitorul | FC Viitorul | Viitorul Constanța
 
-Corona Brașov,   Brașov
+Corona Brașov (2010-2014),   Brașov
  | ASC Corona 2010 Brașov
-FC Brașov,  Brașov
- |  SR Brașov
+ | Asociatia Sport Club Corona Brașov
+
+FC Brașov,  1936, Brașov
+ | SR Brașov | Steagul Rosu Brașov
+ | AS SR Brașov | Asociația Sportivă SR Brașov
+
 
 Dunărea Călărași,   Călărași
   | Călărași
@@ -171,6 +175,19 @@ CS Minaur Baia Mare, 1948,  Baia Mare
   | FC Baia Mare
 
 
+CSM Jiul Petroșani, 1919,   Petroșani
+  | Jiul Petroșani | CS Jiul Petroșani
+  | Clubul Sportiv Municipal Jiul Petroșani
+
+FCM Bacău,  1950,   Bacău
+  | FCM 1950 Bacău | ASS FCM 1950 Bacău
+
+
+Chimia Râmnicu Vâlcea (1946-2004),  Râmnicu Vâlcea
+  | Chimia Rimnicu Vilcea
+  | CS Chimia Râmnicu Vâlcea
+  | FC Râmnicu Vâlcea
+
 Unirea Urziceni (1954-2017), Urziceni   # champs (2): 2011..2009 (2)
   | FC Unirea | FC Unirea Urziceni
 
@@ -180,3 +197,4 @@ FC Corvinul Hunedoara (1921-2004),  Hunedoara
 FC Extensiv Craiova (1949-2013),    Caracal
   | Fotbal Club Extensiv Craiova
   | FC Caracal
+

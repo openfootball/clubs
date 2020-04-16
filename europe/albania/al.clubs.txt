@@ -29,6 +29,7 @@ KF Vllaznia,  1919,   Shkodër
 
 
 KS Besa
+  | Besa Kavajë
 KS Teuta
   | Teuta | Teuta Durrës
   | KF Teuta | KF Teuta Durrës

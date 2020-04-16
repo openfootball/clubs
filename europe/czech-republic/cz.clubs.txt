@@ -69,6 +69,10 @@ FC Vysočina Jihlava, 1948,  Jihlava  ## Vysočina
 FC Zbrojovka Brno, 1913,   Brno     ## South Moravia
   | Brno | Zbrojovka Brno
 
+FC LeRK Brno  (1910-1995),  Brno
+  | Spartak Brno KPS
+
+
 MFK Karviná
   | Karviná
 

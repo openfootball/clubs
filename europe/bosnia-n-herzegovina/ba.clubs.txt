@@ -13,9 +13,13 @@ FK Željezničar
   | Željezničar Sarajevo     # champs (6): 2014..2012 (2) 2010/11 2003..2001 (2) 1972/73
   | FK Željezničar Sarajevo
 
-HŠK Zrinjski
+HŠK Zrinjski,  Mostar
   | Zrinjski | Zrinjs. Mostar | Zrinjski Mostar
   | HŠK Zrinjski Mostar    # champs (3): 2014/15 2009/10 2005/06
+
+Velež Mostar, 1922, Mostar
+  | FK Velež Mostar | Fudbalski Klub Velež Mostar
+
 
 NK Široki Brijeg
   | Široki Brijeg
@@ -27,7 +31,7 @@ FK Modriča
 
 FK Sloboda Tuzla
   | Sloboda | Sloboda Tuzla
-  
+
 FK Radnik Bijeljina
   | Radnik Bijelji | Radnik Bijeljina
 
@@ -42,13 +46,13 @@ Zvijezda 09
 
 NK Brotnjo, Čitluk   # champs (1): 2000/01
   | Nogometni Klub Brotnjo
-  
+
 FK Leotar,  1925,  Trebinje
   | Leotar | Leotar Trebinje
 
 FK Budućnost Banovići, 1947, Banovići
 
-HNK Orašje, 1996,   Orašje 
+HNK Orašje, 1996,   Orašje
   | NK Orašje
 
 NK Žepče (1919-2010),  Žepče

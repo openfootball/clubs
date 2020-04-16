@@ -24,6 +24,7 @@ B93 København, 1893,  København (Østerbro)
 
 
 BK Fremad Amager,    København
+  | Fremad Amager
 Brønshøj BK,         København
   | Brønshøj Boldklub
   | Brönshöj BK [de]
@@ -34,7 +35,7 @@ Vanløse IF,          København
 
 BK Frem, 1886  København (Valby-Sydhavnen)
   | Boldklubben Frem
-  | BK Frem København
+  | Frem København | BK Frem København
   | BK Frem Copenhagen
 
 
@@ -94,6 +95,10 @@ Silkeborg IF, 1917,  Silkeborg
 == Østjylland ==
 Randers FC, 2003,   Randers
   | Randers | Randers Football Club
+
+Randers Freja,   Randers
+  | Randers Sportsklub Freja
+# In 2003 merged with five other local football clubs to form Randers FC.
 
 
 == Syddanmark ==

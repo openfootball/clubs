@@ -45,8 +45,9 @@ FK Sevojno (1950-2010),   Užice (Sevojno)
 
 FK Jagodina
   | Jagodina
-FK Borac Čačak
 
+FK Borac Čačak, 1926,   Čačak
+  | Borac Čačak | Fudbalski Klub Borac Čačak
 
 FK Spartak Subotica
   | FC Spartak Subotica | Spartak Subotica

@@ -74,6 +74,7 @@ Arsenal Tula,  Tula
 Chernomorets Novorosisk, 1907, Novorosisk
   | Chernomorets | FC Chernomorets Novorossiysk
   | FC Chernomorets Krasnodarskiy Kray    # Novorossiysk is a city in Krasnodar Krai
+  | Chernomorets Novorossisk
 
 
 FC Khimki,  Khimki
