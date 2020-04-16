@@ -33,7 +33,7 @@ FK Sloboda Tuzla
   | Sloboda | Sloboda Tuzla
 
 FK Radnik Bijeljina
-  | Radnik Bijelji | Radnik Bijeljina
+  | Radnik | Radnik Bijelji | Radnik Bijeljina
 
 Sloga Simin Han
 NK Čelik Zenica

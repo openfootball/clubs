@@ -42,6 +42,7 @@ FC Dinamo Batumi
   | Dinamo Batumi
 FC Tskhinvali
   | Spartak Tskhinvali
+  | Spartaki Tskhinvali
 FC Sioni Bolnisi
   | Sioni
   | Sioni Bolnisi    # champs (1): 2006/07

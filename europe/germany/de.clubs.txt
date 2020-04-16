@@ -246,7 +246,8 @@ FC Stahl Brandenburg,    Brandenburg an der Havel
 == Berlin ==
 
 Hertha BSC, 1892,            	Berlin › Berlin
-  | Hertha | Hertha BSC Berlin | Hertha Berliner Sport-Club
+  | Hertha | Hertha Berlin
+  | Hertha BSC Berlin | Hertha Berliner Sport-Club
  Hanns-Braun-Straße / Friesenhaus 2 // 14053 Berlin
 
 1. FC Union Berlin, 1966,     Berlin › Berlin

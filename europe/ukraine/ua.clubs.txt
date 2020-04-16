@@ -56,7 +56,7 @@ SC Tavriya Simferopol
   | SK Tavriya Simferopol
 
 FC Zorya Luhansk
-  | Zorya Luhansk
+  | Zorya | Zorya Luhansk
   | Zorya Lugansk [de] | FC Zorya Lugansk [de]
   | Zorya Voroshilovgrad   # champs (1): 1973/74
 
@@ -92,3 +92,5 @@ FC Kryvbas Kryvyi Rih, 1959,  Kryvyi Rih
 
  FC Stal Kamianske (1926-2018),    Kamianske
    | FC Metalist Kamianske
+   | FK Stal Kamjanske
+

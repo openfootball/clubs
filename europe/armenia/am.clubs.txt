@@ -33,7 +33,7 @@ Ulisses FC
 FC Mika
   | Mika Ashtarak
 FC Gandzasar
-  | Gandzasar
+  | Gandzasar | Gandzasar FC
   | Gandzasar Kapan
 
 FC Urartu

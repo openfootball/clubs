@@ -51,6 +51,7 @@ Videoton FC
   | Videoton      # champs (2): 2015/16 2011/12
   | Videoton Fehérvár
   | Fehérvár | Fehérvár FC
+  | MOL Fehérvár FC | MOL Vidi
 
 
 Debreceni VSC

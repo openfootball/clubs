@@ -7,6 +7,7 @@ Bakı FK,   Baku
 
 İnter Bakı PİK,  Baku
   | Inter Baku PIK    # champs (2): 2010/11 2008/09
+  | Inter Baku
 
 FK Shafa Baku (1997-2005),  Baku
   | Shafa Baku | Safa Baku
@@ -46,6 +47,7 @@ Simurq PFK (2005-2015),  Zaqatala
 Gabala SC
   | Gabala
   | Gabala FK
+  | Qäbälä
 
 Keşla FK
   | Keşla
@@ -58,6 +60,8 @@ Käpäz PFK, 1959,    Ganja
   | Kapaz Professional Football Club
 
 Sabail
+  | Səbail FK
+
 Sumqayıt FK
   | Sumqayıt
 Sabah

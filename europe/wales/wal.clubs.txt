@@ -20,16 +20,21 @@ Port Talbot Town FC
 
 Connah's Quay Nomads FC
   | Connah's Quay
+  | Connah's Quay Nomads
+
 Bala Town FC
   | Bala | Bala Town
 
 Llandudno FC, 1988,    Llandudno
   | Llandudno Town FC
+  | Llandudno Town
 
 Newtown AFC
   | Newtown
 AUK Broughton FC
-  | Airbus | Broughton | Airbus UK Broughton | Airbus UK Broughton FC
+  | Airbus | Airbus UK
+  | Broughton | Airbus UK Broughton | Airbus UK Broughton FC
+
 Aberystwyth Town FC
   | Aberystwyth | Aberystwyth Town
 
@@ -41,6 +46,7 @@ Barry Town AFC
 
 Cardiff Metropolitan University FC
   | Cardiff Met | Cardiff M.U. | Cardiff Met Uni.
+  | Cardiff Metropolitan
 Caernarfon Town FC
   | Caernarfon | Caernarfon Town
 Carmarthen Town AFC

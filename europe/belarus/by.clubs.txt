@@ -40,7 +40,7 @@ FC Torpedo Zhodino
 FC Dinamo Brest
   | Dinamo Brest
   | Dynamo Brest | FC Dynamo Brest
-  
+
 FC Neman Grodno
   | Neman | Neman Grodno
 
@@ -57,7 +57,8 @@ FC Slavia-Mozyr
   | FK Slaviya Mozyr
 
 FC Vitebsk
-  | Vitebsk
+  | Vitebsk | FK Vitebsk
+
 FC Zvezda-BGU Minsk
   | Zvezda
   | FC BGU Minsk

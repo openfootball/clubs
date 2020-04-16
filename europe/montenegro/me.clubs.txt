@@ -22,7 +22,7 @@ FK Sutjeska
 OFK Titograd
   | Titograd
 FK Bokelj
-  | Bokelj Kotor
+  | Bokelj | Bokelj Kotor
 FK Lovćen
   | Lovćen Cetinje
 FK Iskra

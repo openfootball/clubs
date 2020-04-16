@@ -1,5 +1,5 @@
 =================================
-=  Israel 
+=  Israel
 
 Hapoel Tel-Aviv FC
   | H. Tel-Aviv | Hapoel Tel-Aviv
@@ -7,6 +7,7 @@ Maccabi Tel-Aviv FC
   | Maccabi Tel Aviv | Macc. Tel Aviv | M. Tel-Aviv
 Bnei Yehuda Tel-Aviv FC
   | Bnei Yehuda
+  | Bnei Yehuda Tel Aviv
 Beitar Tel Aviv Bat Yam FC,  Tel Aviv       ## and Bat Yam
   | Beitar Tel Aviv | Beitar Tel Aviv Bat Yam
 
@@ -52,7 +53,7 @@ Maccabi Petah Tikva FC, Petah Tikva
   | Macc. Petach Tikva
   | Maccabi Petach-Tikva FC    ## fix/todo: check dash(-) if fancy?!
   | Maccabi Petach-Tikva
- 
+
 Hapoel Petah Tikva FC,   Petah Tikva
   | H. Petach Tikva | Hapoel Petah Tikva
   | Hapoel Petach-Tikva FC     ## fix/todo: check dash(-) if fancy?!
@@ -64,12 +65,12 @@ Hapoel Kfar-Saba FC
 Sektzia Nes Tziona FC,   Ness Ziona
   | Nes Tziona | Sektzia Nes Tziona
   | Sectzya Nes Ziona
-  
+
 
 Bnei Sakhnin FC,  Sakhnin
   | Bnei Sakhnin
   | Bnei Sachnin FC
-  
+
 FC Kafr Qasim, Kafr Qasim
   | SC Kfar Qasem
 Hapoel Acre FC, Acre

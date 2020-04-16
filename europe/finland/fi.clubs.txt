@@ -85,10 +85,11 @@ KPV Kokkola,        Kokkola
 Rovaniemen Palloseura,  Rovaniemi
   | RoPS | Rovaniemi | RoPS Rovaniemi | Rovaniemi PS
 SJK Seinäjoki,      Seinäjoki
+  | Seinäjoki
   | SJK | Seinäjoen Jalkapallokerho
   | Seinäjoen JK
 Vaasan Palloseura,    Vaasa
-  | VPS | VPS Vaasa | Vaasa PS
+  | VPS | VPS Vaasa | Vaasa PS | Vaasan PS
 
 FC Haka, Valkeakoski
   | Haka

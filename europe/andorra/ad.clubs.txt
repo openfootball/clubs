@@ -6,8 +6,8 @@ UE Sant Julià
 FC Santa Coloma
 UE Santa Coloma
 FC Lusitans
-  | Lusitanos    # champs (2): 2014..2012 (2)
-  | FC Lusitanos
+  | Lusitans
+  | Lusitanos | FC Lusitanos   # champs (2): 2014..2012 (2)
 
 
 UE Engordany

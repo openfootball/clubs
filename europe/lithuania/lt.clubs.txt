@@ -41,7 +41,7 @@ FK Atlantas
   | Atlantas | Atlantas Klaipeda
 
 FK Kruoja
-  | Kruoja Pakruojis
+  | Kruoja Pakruojis | FK Kruoja Pakruojis
 
 Panevezys
 FK Palanga
