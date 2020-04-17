@@ -1,6 +1,6 @@
 14 clubs
 
-- **Lincoln FC** : (2) Lincoln Red Imps · Lincoln Red Imps FC
+- **Lincoln FC** : (3) Lincoln · Lincoln Red Imps · Lincoln Red Imps FC
 - **Manchester 62 FC** : (1) Manchester 62
 - **Lynx FC** : (1) Lynx
 - **College Europa FC** : (2) Europa · Europa FC
@@ -34,7 +34,7 @@ Duplicates
 By City
 
 - ? (14): 
-  - Lincoln FC  (2) Lincoln Red Imps FC · Lincoln Red Imps
+  - Lincoln FC  (3) Lincoln · Lincoln Red Imps FC · Lincoln Red Imps
   - Manchester 62 FC  (1) Manchester 62
   - Lynx FC  (1) Lynx
   - College Europa FC  (2) Europa · Europa FC
@@ -74,7 +74,7 @@ By A to Z
 - **E** (4): Europa · Europa FC · Europa Point · Europa Point FC
 - **F** (2): FC Magpies · FC Olympique
 - **G** (3): Glacis · Glacis United FC · Gibraltar Phoenix FC
-- **L** (7): Lynx · Lynx FC · Lincoln FC · Lions Gibraltar · Lincoln Red Imps · Lions Gibraltar FC · Lincoln Red Imps FC
+- **L** (8): Lynx · Lincoln · Lynx FC · Lincoln FC · Lions Gibraltar · Lincoln Red Imps · Lions Gibraltar FC · Lincoln Red Imps FC
 - **M** (5): Magpies · Mons Calpe · Manchester 62 · Mons Calpe SC · Manchester 62 FC
 - **O** (1): Olympique
 - **S** (3): St Joseph's · St Joseph's FC · St Joseph's FRAC

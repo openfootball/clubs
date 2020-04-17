@@ -71,7 +71,7 @@
 - **Middlesbrough Ironopolis FC (1889-1894)** : (1) Middlesbrough Ironopolis
 - **Scarborough Athletic FC** : (1) Scarborough
 - **Harrogate Town AFC** : (3) Harrogate · Harrogate Town · Harrogate Town Association Football Club
-- [**Leeds United FC**](https://en.wikipedia.org/wiki/Leeds_United_F.C.) : (2) Leeds · Leeds United
+- [**Leeds United FC**](https://en.wikipedia.org/wiki/Leeds_United_F.C.) : (3) Leeds · Leeds United · Leeds United AFC
 - **Leeds City FC (1904-1919)** : (1) Leeds City
 - [**Bradford City AFC**](https://en.wikipedia.org/wiki/Bradford_City_A.F.C.) : (3) Bradford · Bradford City · Bradford City FC
 - **Bradford Park Avenue AFC** : (1) Bradford Park Avenue
@@ -251,7 +251,7 @@ By City
   - Hereford FC (2014-)  (1) Hereford
   - Hereford United FC (1924-2014)  (1) Hereford United
 - **Leeds, West Yorkshire** (2): 
-  - Leeds United FC  (2) Leeds · Leeds United
+  - Leeds United FC  (3) Leeds · Leeds United · Leeds United AFC
   - Leeds City FC (1904-1919)  (1) Leeds City
 - **Liverpool, Lancashire** (2): 
   - Everton FC  (2) Everton · FC Everton
@@ -532,7 +532,7 @@ By A to Z
 - **H** (29): Hull · Histon · Halifax · Hereford · Harrogate · Histon FC · Hull City · Hartlepool · Hyde United · Halifax Town · Huddersfield · Hull City FC · Hull City AFC · Harrogate Town · Hyde United FC · Hayes & Yeading · Hereford United · Hartlepool United · Huddersfield Town · Harrogate Town AFC · Hereford FC (2014-) · Hartlepool United FC · Huddersfield Town AFC · Havant & Waterlooville · Havant & Waterlooville FC · Hayes & Yeading United FC · Hereford United FC (1924-2014) · Havant & Waterlooville Football Club · Harrogate Town Association Football Club
 - **I** (3): Ipswich · Ipswich Town · Ipswich Town FC
 - **K** (5): Kidderminster · Kettering Town · Kettering Town FC · Kidderminster Harriers · Kidderminster Harriers FC
-- **L** (22): Leeds · Lewes · Luton · Lincoln · Lewes FC · Leicester · Liverpool · Leeds City · Luton Town · Leeds United · Lincoln City · Liverpool FC · Loughborough · Leyton Orient · Luton Town FC · Leicester City · Leeds United FC · Lincoln City FC · Leyton Orient FC · Leicester City FC · Leeds City FC (1904-1919) · Loughborough FC (1886-1900)
+- **L** (23): Leeds · Lewes · Luton · Lincoln · Lewes FC · Leicester · Liverpool · Leeds City · Luton Town · Leeds United · Lincoln City · Liverpool FC · Loughborough · Leyton Orient · Luton Town FC · Leicester City · Leeds United FC · Lincoln City FC · Leeds United AFC · Leyton Orient FC · Leicester City FC · Leeds City FC (1904-1919) · Loughborough FC (1886-1900)
 - **M** (35): MK Dons · Man Utd · Man City · Millwall · Maidstone · Man. City · Mansfield · Morecambe · Maidenhead · Man. United · Middlesboro · Millwall FC · Macclesfield · Manchester C · Morecambe FC · Manchester U. · Middlesbrough · Manchester Utd · Mansfield Town · Manchester City · Maidstone United · Middlesbrough FC · Macclesfield Town · Maidenhead United · Manchester United · Mansfield Town FC · Manchester City FC · Milton Keynes Dons · Maidstone United FC · Macclesfield Town FC · Maidenhead United FC · Manchester United FC · Milton Keynes Dons FC · Middlesbrough Ironopolis · Middlesbrough Ironopolis FC (1889-1894)
 - **N** (27): Nelson · Norwich · Nelson FC · Newcastle · Northwich · Northampton · New Brighton · Norwich City · Notts County · Newcastle Utd · North Ferriby · Nott'm Forest · Nuneaton Town · Norwich City FC · Notts County FC · Newcastle United · Northampton Town · Nottingham Forest · New Brighton Tower · Northwich Victoria · Newcastle United FC · Northampton Town FC · Nuneaton Borough FC · Nottingham Forest FC · Northwich Victoria FC · North Ferriby United AFC · New Brighton Tower FC (1898-1901)
 - **O** (7): Oldham · Oxford · Oxford Utd · Oxford United · Oldham Athletic · Oxford United FC · Oldham Athletic AFC

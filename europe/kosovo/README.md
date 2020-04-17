@@ -1,9 +1,9 @@
 12 clubs
 
-- **KF Drita** : (1) Drita
-- **FC Prishtina** : (1) Prishtina
+- **KF Drita** : (3) Drita · FC Drita · Drita Gjilan
+- **FC Prishtina** : (2) Prishtina · Prishtina KF
 - **Flamurtari Prishtina**
-- **KF Trepça'89** : (2) Trepça · KF Trepça ⇒ (3) ≈Trepca≈ · ≈KF Trepca≈ · ≈KF Trepca'89≈
+- **KF Trepça'89** : (3) Trepça · KF Trepça · Trepça 89 ⇒ (4) ≈Trepca≈ · ≈KF Trepca≈ · ≈Trepca 89≈ · ≈KF Trepca'89≈
 - **Ballkani**
 - **KF Feronikeli** : (1) Feronikeli
 - **KF Gjilani** : (1) Gjilani
@@ -19,7 +19,7 @@
 Alphabet
 
 - **Alphabet Specials** (1):  **ç** 
-  - **ç**×3 U+00E7 (231) - LATIN SMALL LETTER C WITH CEDILLA ⇒ c
+  - **ç**×4 U+00E7 (231) - LATIN SMALL LETTER C WITH CEDILLA ⇒ c
 
 
 
@@ -33,11 +33,11 @@ Duplicates
 By City
 
 - **Prishtina** (2): 
-  - FC Prishtina  (1) Prishtina
+  - FC Prishtina  (2) Prishtina · Prishtina KF
   - Flamurtari Prishtina 
-- **Mitrovica** (1): KF Trepça'89  (2) KF Trepça · Trepça
+- **Mitrovica** (1): KF Trepça'89  (3) KF Trepça · Trepça · Trepça 89
 - ? (9): 
-  - KF Drita  (1) Drita
+  - KF Drita  (3) Drita · Drita Gjilan · FC Drita
   - Ballkani 
   - KF Feronikeli  (1) Feronikeli
   - KF Gjilani  (1) Gjilani
@@ -70,13 +70,13 @@ By Year
 By A to Z
 
 - **B** (1): Ballkani
-- **D** (3): Drita · Drenica · Dukagjini
-- **F** (4): Ferizaj · Feronikeli · FC Prishtina · Flamurtari Prishtina
+- **D** (4): Drita · Drenica · Dukagjini · Drita Gjilan
+- **F** (5): Ferizaj · FC Drita · Feronikeli · FC Prishtina · Flamurtari Prishtina
 - **G** (1): Gjilani
 - **K** (8): KF Drita · KF Llapi · KF Trepça · KF Drenica · KF Ferizaj · KF Gjilani · KF Trepça'89 · KF Feronikeli
 - **L** (1): Llapi
-- **P** (1): Prishtina
-- **T** (1): Trepça
+- **P** (2): Prishtina · Prishtina KF
+- **T** (2): Trepça · Trepça 89
 - **V** (1): Vushtrria
 
 

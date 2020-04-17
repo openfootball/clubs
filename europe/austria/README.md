@@ -1,11 +1,11 @@
-156 clubs
+157 clubs
 
 - [**SK Rapid Wien**](https://en.wikipedia.org/wiki/SK_Rapid_Wien) : (3) Rapid · Rapid Wien · Rapid Vienna [en]
 - **SK Rapid Wien II** : (2) Rapid Wien Am. · SK Rapid Amateure
 - [**FK Austria Wien**](https://en.wikipedia.org/wiki/FK_Austria_Wien) : (3) Austria · Austria Wien · Austria Vienna [en]
 - **Young Violets Austria Wien** : (6) Young Violets · Austria Wien A. · FK Austria Wien II · Austria Wien Amat. · Young Violets A. W. · Ausstria Wien Amateure
 - **SC Team Wiener Linien** : (2) Team Wiener Linien · SC Team Wr. Linien
-- **Wiener Sport-Club** : (3) Wiener SK · Wr. Sportklub · Wiener Sportklub
+- **Wiener Sport-Club** : (4) Wiener SC · Wiener SK · Wr. Sportklub · Wiener Sportklub
 - **First Vienna FC** : (3) Vienna · Vienna FC 1894 · First Vienna FC 1894
 - **Floridsdorfer AC** : (1) FAC Team für Wien ⇒ (2) ≈FAC Team fur Wien≈ · ≈FAC Team fuer Wien≈
 - **Wiener Viktoria** : (1) SC Wiener Viktoria
@@ -27,10 +27,10 @@
 - **SV Wimpassing** : (1) Wimpassing
 - **SC Ritzing** : (1) Ritzing
 - **SC Trausdorf**
-- [**FC Admira Wacker Mödling**](https://en.wikipedia.org/wiki/FC_Admira_Wacker_Mödling) : (5) Admira · Admira Wien · Admira Wacker · FC Admira Wacker · Admira Wacker Mödling ⇒ (4) ≈Admira Wacker Modling≈ · ≈Admira Wacker Moedling≈ · ≈FC Admira Wacker Modling≈ · ≈FC Admira Wacker Moedling≈
+- [**FC Admira Wacker Mödling**](https://en.wikipedia.org/wiki/FC_Admira_Wacker_Mödling) : (8) Admira · FC Admira · Admira Wien · Admira Wacker · FC Admira Wacker · Admira Wacker Mödling · SK Admira Wacker Wien · SK Admira Vienna [en] ⇒ (4) ≈Admira Wacker Modling≈ · ≈Admira Wacker Moedling≈ · ≈FC Admira Wacker Modling≈ · ≈FC Admira Wacker Moedling≈
 - **FC Admira Wacker Mödling II** : (3) Admira Juniors · Admira Amateure · FC Admira Wacker II ⇒ (2) ≈FC Admira Wacker Modling II≈ · ≈FC Admira Wacker Moedling II≈
 - **SC Wiener Neustadt** : (4) Neustadt · Wr. Neustadt · SC Wr. Neustadt · Wiener Neustadt
-- [**SKN St. Pölten**](https://en.wikipedia.org/wiki/SKN_St._Pölten) : (2) St. Pölten · Sportklub Niederösterreich St. Pölten ⇒ (6) ≈St. Polten≈ · ≈St. Poelten≈ · ≈SKN St. Polten≈ · ≈SKN St. Poelten≈ · ≈Sportklub Niederosterreich St. Polten≈ · ≈Sportklub Niederoesterreich St. Poelten≈
+- [**SKN St. Pölten**](https://en.wikipedia.org/wiki/SKN_St._Pölten) : (3) St. Pölten · SKN Sankt Pölten · Sportklub Niederösterreich St. Pölten ⇒ (8) ≈St. Polten≈ · ≈St. Poelten≈ · ≈SKN St. Polten≈ · ≈SKN St. Poelten≈ · ≈SKN Sankt Polten≈ · ≈SKN Sankt Poelten≈ · ≈Sportklub Niederosterreich St. Polten≈ · ≈Sportklub Niederoesterreich St. Poelten≈
 - **SKN St. Pölten Juniors** ⇒ (2) ≈SKN St. Polten Juniors≈ · ≈SKN St. Poelten Juniors≈
 - **SV Horn**
 - **Horn Amateure**
@@ -70,7 +70,7 @@
 - **FC Juniors OÖ** : (1) Juniors OÖ ⇒ (4) ≈Juniors OO≈ · ≈Juniors OOE≈ · ≈FC Juniors OO≈ · ≈FC Juniors OOE≈
 - **FC Pasching** : (1) Pasching
 - **FC Blau-Weiß Linz** : (2) BW Linz · Blau-Weiß Linz ⇒ (2) ≈Blau-Weiss Linz≈ · ≈FC Blau-Weiss Linz≈
-- **FC Stahl Linz** : (1) SK VOEST Linz
+- **FC Stahl Linz** : (2) FC Linz · SK VOEST Linz
 - **SV Ried** : (3) Ried · SV Josko Ried · SV Josko Fenster Ried
 - **SV Ried II**
 - **SK Vorwärts Steyr** : (1) Vorwärts Steyr ⇒ (4) ≈Vorwarts Steyr≈ · ≈Vorwaerts Steyr≈ · ≈SK Vorwarts Steyr≈ · ≈SK Vorwaerts Steyr≈
@@ -101,7 +101,8 @@
 - [**Wolfsberger AC**](https://en.wikipedia.org/wiki/Wolfsberger_AC) : (5) Wolfsberg · Wolfsberger · AC Wolfsberger · RZ Pellets WAC · Wolfsberger Athletik Club
 - **Wolfsberger AC II** : (1) WAC Amateure
 - **ATSV Wolfsberg**
-- **Austria Klagenfurt** : (3) A. Klagenfurt · SK Austria Klagenfurt · SG Austria Klagenfurt
+- **Austria Klagenfurt** : (4) FC Kärnten · A. Klagenfurt · SK Austria Klagenfurt · SG Austria Klagenfurt ⇒ (2) ≈FC Karnten≈ · ≈FC Kaernten≈
+- **Austria Kärnten (2007-2010)** : (1) SK Austria Kärnten ⇒ (4) ≈Austria Karnten≈ · ≈Austria Kaernten≈ · ≈SK Austria Karnten≈ · ≈SK Austria Kaernten≈
 - **SAK Klagenfurt** : (3) Slowenischer AK · SAK Celovec/Klagenfurt · Slovenski atletski klub
 - **Villacher SV**
 - **SV Spittal/Drau**
@@ -126,7 +127,7 @@
 - **TSV Neumarkt** : (1) TSV Neumarkt am Wallersee
 - **USC Eugendorf**
 - **SC Golling**
-- [**FC Wacker Innsbruck**](https://en.wikipedia.org/wiki/FC_Wacker_Innsbruck_(2002)) : (4) FC Tirol · FC Wacker · Innsbruck · Wacker Innsbruck
+- [**FC Wacker Innsbruck**](https://en.wikipedia.org/wiki/FC_Wacker_Innsbruck_(2002)) : (7) FC Tirol · Innsbruck · FC Wacker · SSW Innsbruck · Wacker Innsbruck · FC Tirol Innsbruck · Spielgemeinschaft Swarovski Wacker Innsbruck
 - **FC Wacker Innsbruck II** : (1) Wacker Innsbruck II
 - **SV Innsbruck**
 - [**WSG Tirol**](https://en.wikipedia.org/wiki/WSG_Wattens) : (7) Tirol · Wattens · WSG Wattens · WSG Swarovs. Tirol · WSG Swarovski Tirol · WSG Swarovski Wattens · Wattener Sportgemeinschaft Tirol
@@ -165,8 +166,8 @@ Alphabet
 - **Alphabet Specials** (5):  **Ö**  **ß**  **ä**  **ö**  **ü** 
   - **Ö**×3 U+00D6 (214) - LATIN CAPITAL LETTER O WITH DIAERESIS ⇒ O•OE
   - **ß**×10 U+00DF (223) - LATIN SMALL LETTER SHARP S ⇒ ss
-  - **ä**×2 U+00E4 (228) - LATIN SMALL LETTER A WITH DIAERESIS ⇒ a•ae
-  - **ö**×25 U+00F6 (246) - LATIN SMALL LETTER O WITH DIAERESIS ⇒ o•oe
+  - **ä**×5 U+00E4 (228) - LATIN SMALL LETTER A WITH DIAERESIS ⇒ a•ae
+  - **ö**×26 U+00F6 (246) - LATIN SMALL LETTER O WITH DIAERESIS ⇒ o•oe
   - **ü**×5 U+00FC (252) - LATIN SMALL LETTER U WITH DIAERESIS ⇒ u•ue
 
 
@@ -189,7 +190,7 @@ By City
   - FK Austria Wien  (3) Austria · Austria Wien · Austria Vienna [en]
   - Young Violets Austria Wien  (6) Young Violets · Young Violets A. W. · FK Austria Wien II · Austria Wien Amat. · Austria Wien A. · Ausstria Wien Amateure
   - SC Team Wiener Linien  (2) Team Wiener Linien · SC Team Wr. Linien
-  - Wiener Sport-Club  (3) Wiener Sportklub · Wiener SK · Wr. Sportklub
+  - Wiener Sport-Club  (4) Wiener Sportklub · Wiener SK · Wr. Sportklub · Wiener SC
   - First Vienna FC  (3) Vienna · Vienna FC 1894 · First Vienna FC 1894
   - Floridsdorfer AC  (1) FAC Team für Wien
   - Wiener Viktoria  (1) SC Wiener Viktoria
@@ -200,7 +201,7 @@ By City
   - FC Juniors OÖ  (1) Juniors OÖ
   - FC Pasching  (1) Pasching
   - FC Blau-Weiß Linz  (2) BW Linz · Blau-Weiß Linz
-  - FC Stahl Linz  (1) SK VOEST Linz
+  - FC Stahl Linz  (2) SK VOEST Linz · FC Linz
 - **Salzburg, Salzburg** (4): 
   - FC RB Salzburg  (5) Salzburg · FC Salzburg · RB Salzburg · Red Bull Salzburg · FC Red Bull Salzburg
   - FC RB Salzburg II  (3) RB Salzburg II · FC Red Bull Salzburg II · FC RB Juniors Salzburg
@@ -211,9 +212,13 @@ By City
   - SK Sturm Graz II  (1) Sturm Graz Amat.
   - Grazer AK 
 - **Innsbruck, Tirol** (3): 
-  - FC Wacker Innsbruck  (4) Innsbruck · FC Wacker · Wacker Innsbruck · FC Tirol
+  - FC Wacker Innsbruck  (7) Innsbruck · FC Wacker · Wacker Innsbruck · FC Tirol · FC Tirol Innsbruck · SSW Innsbruck · Spielgemeinschaft Swarovski Wacker Innsbruck
   - FC Wacker Innsbruck II  (1) Wacker Innsbruck II
   - SV Innsbruck 
+- **Klagenfurt, Kärnten** (3): 
+  - Austria Klagenfurt  (4) A. Klagenfurt · SK Austria Klagenfurt · SG Austria Klagenfurt · FC Kärnten
+  - Austria Kärnten (2007-2010)  (1) SK Austria Kärnten
+  - SAK Klagenfurt  (3) Slovenski atletski klub · Slowenischer AK · SAK Celovec/Klagenfurt
 - **Lustenau, Vorarlberg** (3): 
   - Austria Lustenau  (2) A. Lustenau · SC Austria Lustenau
   - Austria Lustenau Amateure  (2) SC Austria Lustenau Amateure · Austria Lustenau A
@@ -231,11 +236,8 @@ By City
 - **Horn, Niederösterreich** (2): 
   - SV Horn 
   - Horn Amateure 
-- **Klagenfurt, Kärnten** (2): 
-  - Austria Klagenfurt  (3) A. Klagenfurt · SK Austria Klagenfurt · SG Austria Klagenfurt
-  - SAK Klagenfurt  (3) Slovenski atletski klub · Slowenischer AK · SAK Celovec/Klagenfurt
 - **Maria Enzersdorf, Niederösterreich** (2): 
-  - FC Admira Wacker Mödling  (5) Admira · Admira Wacker · FC Admira Wacker · Admira Wacker Mödling · Admira Wien
+  - FC Admira Wacker Mödling  (8) Admira · Admira Wacker · FC Admira · FC Admira Wacker · Admira Wacker Mödling · Admira Wien · SK Admira Wacker Wien · SK Admira Vienna [en]
   - FC Admira Wacker Mödling II  (3) FC Admira Wacker II · Admira Amateure · Admira Juniors
 - **Mattersburg, Burgenland** (2): 
   - SV Mattersburg  (2) Mattersburg · Sportvereinigung Mattersburg
@@ -244,7 +246,7 @@ By City
   - SV Ried  (3) Ried · SV Josko Ried · SV Josko Fenster Ried
   - SV Ried II 
 - **St. Pölten, Niederösterreich** (2): 
-  - SKN St. Pölten  (2) St. Pölten · Sportklub Niederösterreich St. Pölten
+  - SKN St. Pölten  (3) St. Pölten · Sportklub Niederösterreich St. Pölten · SKN Sankt Pölten
   - SKN St. Pölten Juniors 
 - **Wels, Oberösterreich** (2): 
   - FC Wels 
@@ -367,7 +369,7 @@ By Region
 - **Niederösterreich** (21):   FC Admira Wacker Mödling · FC Admira Wacker Mödling II · SC Wiener Neustadt · SKN St. Pölten · SKN St. Pölten Juniors · SV Horn · Horn Amateure · SKU Amstetten · ASK Ebreichsdorf · FC Marchfeld Donauauen · SV Leobendorf · SV Stripfing · FCM Traiskirchen · ASK-BSC Bruck/Leitha · 1. SC Sollenau · SV Schwechat · SV Zwentendorf · USC Altenwörth · USC Grafenwörth · USC Kirchberg/W. · USV Langenlois
 - **Oberösterreich** (14):   LASK Linz · FC Juniors OÖ · FC Pasching · FC Blau-Weiß Linz · FC Stahl Linz · SV Ried · SV Ried II · SK Vorwärts Steyr · FC Wels · WSC Hertha Wels · Union Vöcklamarkt · ATSV Stadl-Paura · Union Gurten · Union St. Florian
 - **Steiermark** (15):   SK Sturm Graz · SK Sturm Graz II · Grazer AK · TSV Hartberg · Kapfenberger SV · SV Lafnitz · USV Allerheiligen · TuS Bad Gleichenberg · Deutschlandsberger SC · FC Gleisdorf 09 · SC Kalsdorf · USV St. Anna · SC Weiz · DSV Leoben · FC Gratkorn
-- **Kärnten** (6):   Wolfsberger AC · Wolfsberger AC II · ATSV Wolfsberg · Austria Klagenfurt · SAK Klagenfurt · Villacher SV
+- **Kärnten** (7):   Wolfsberger AC · Wolfsberger AC II · ATSV Wolfsberg · Austria Klagenfurt · Austria Kärnten (2007-2010) · SAK Klagenfurt · Villacher SV
 - **Salzburg** (6):   FC RB Salzburg · FC RB Salzburg II · Austria Salzburg · SAK 1914 · SV Grödig · TSV St. Johann
 - **Tirol** (7):   FC Wacker Innsbruck · FC Wacker Innsbruck II · SV Innsbruck · WSG Tirol · SC Schwaz · FC Kitzbühel · FC Kufstein
 - **Vorarlberg** (8):   SCR Altach · SCR Altach Juniors · Austria Lustenau · Austria Lustenau Amateure · FC Lustenau 07 · FC Dornbirn 1913 · Dornbirner SV · SW Bregenz
@@ -397,7 +399,15 @@ By Year
 - **1947** (1):   FC Liefering
 - **1948** (1):   SV Grödig
 - **2000** (1):   SKN St. Pölten
+- **2007** (1):   Austria Kärnten (2007-2010)
 - ? (133):   SK Rapid Wien II · Young Violets Austria Wien · SC Team Wiener Linien · Wiener Sport-Club · Wiener Viktoria · FC Mauerwerk · SC Ostbahn XI · Technopool Admira · SR Donaufeld · FC Stadlau · SC Red Star Penzing · SV Mattersburg II · SC Neusiedl am See · ASV Draßburg · SC-ESV Parndorf · SV Stegersbach · SV Oberwart · SV Heiligenkreuz · SC Pinkafeld · SV Wimpassing · SC Ritzing · SC Trausdorf · FC Admira Wacker Mödling II · SKN St. Pölten Juniors · Horn Amateure · SKU Amstetten · ASK Ebreichsdorf · FC Marchfeld Donauauen · SV Leobendorf · SV Stripfing · FCM Traiskirchen · ASK-BSC Bruck/Leitha · 1. SC Sollenau · SV Schwechat · ASK Bad Vöslau · SC Retz · SCU Ardagger · SV Gaflenz · FC Rohrendorf/Gedersdorf · SC Leopoldsdorf · ATSV Ober-Grafendorf · ASK Kottingbrunn · ASV Spratzern · SC Krems · SC Guntersdorf · SC Echsenbach · SC St. Martin · SC Weißenkirchen · SV Rehberg · SV Sieghartskirchen · SV Zwentendorf · USC Altenwörth · USC Grafenwörth · USC Kirchberg/W. · USC Schweiggers · USV Groß Gerungs · USV Langenlois · FC Juniors OÖ · FC Pasching · FC Blau-Weiß Linz · FC Stahl Linz · SV Ried II · SK Vorwärts Steyr · FC Wels · WSC Hertha Wels · Union Vöcklamarkt · ATSV Stadl-Paura · Union Gurten · Union St. Florian · SV Wallern · SV Grün-Weiß Micheldorf · SK Sturm Graz II · Grazer AK · Kapfenberger SV · SV Lafnitz · USV Allerheiligen · TuS Bad Gleichenberg · Deutschlandsberger SC · FC Gleisdorf 09 · SC Kalsdorf · USV St. Anna · SC Weiz · DSV Leoben · FC Gratkorn · FC Lankowitz · Wolfsberger AC II · ATSV Wolfsberg · Austria Klagenfurt · SAK Klagenfurt · Villacher SV · SV Spittal/Drau · FC St. Veit · FC Lendorf · ASV Annabichler SV 1923 · ASKÖ Köttmannsdorf · VST Völkermarkt · FC RB Salzburg II · Austria Salzburg · SV Seekirchen · FC Pinzgau Saalfelden · USK Anif · TSV St. Johann · SV Wals-Grünau · SV Kuchl · Bischofshofen Sportklub 1933 · TSV Neumarkt · USC Eugendorf · SC Golling · FC Wacker Innsbruck II · SV Innsbruck · SC Schwaz · FC Kitzbühel · FC Kufstein · SV Telfs · SV Wörgl · SC Imst · SV Hall · SVG Reichenau · FC Zirl · SV Reutte · SCR Altach Juniors · Austria Lustenau Amateure · FC Dornbirn 1913 · Dornbirner SV · FC Höchst · VfB Hohenems · FC Wolfurt · SW Bregenz · FC Hard · FC Langenegg · FC Lauterach · RW Rankweil · SC Röthis
+
+
+
+
+Historic
+
+- **2010** (1):   Austria Kärnten (2007-2010)
 
 
 
@@ -407,11 +417,11 @@ By Year
 By A to Z
 
 - **1** (1): 1. SC Sollenau
-- **A** (39): Admira · Altach · Austria · Altenwörth · A. Lustenau · A. Salzburg · Admira Wien · ASV Draßburg · Ardagger SCU · Austria Wien · A. Klagenfurt · ASV Spratzern · Admira Wacker · Allerheiligen · Amstetten SKU · AC Wolfsberger · ASK Bad Vöslau · ATSV Wolfsberg · Admira Juniors · Admira Amateure · Altach Amateure · Austria Wien A. · ASK Ebreichsdorf · ASK Kottingbrunn · ATSV Stadl-Paura · Austria Lustenau · Austria Salzburg · Admira Technopool · ASKÖ Köttmannsdorf · Austria Klagenfurt · Austria Lustenau A · Austria Wien Amat. · Austria Vienna [en] · ASK-BSC Bruck/Leitha · ATSV Ober-Grafendorf · Admira Wacker Mödling · Ausstria Wien Amateure · ASV Annabichler SV 1923 · Austria Lustenau Amateure
+- **A** (40): Admira · Altach · Austria · Altenwörth · A. Lustenau · A. Salzburg · Admira Wien · ASV Draßburg · Ardagger SCU · Austria Wien · A. Klagenfurt · ASV Spratzern · Admira Wacker · Allerheiligen · Amstetten SKU · AC Wolfsberger · ASK Bad Vöslau · ATSV Wolfsberg · Admira Juniors · Admira Amateure · Altach Amateure · Austria Wien A. · ASK Ebreichsdorf · ASK Kottingbrunn · ATSV Stadl-Paura · Austria Lustenau · Austria Salzburg · Admira Technopool · ASKÖ Köttmannsdorf · Austria Klagenfurt · Austria Lustenau A · Austria Wien Amat. · Austria Vienna [en] · ASK-BSC Bruck/Leitha · ATSV Ober-Grafendorf · Admira Wacker Mödling · Ausstria Wien Amateure · ASV Annabichler SV 1923 · Austria Lustenau Amateure · Austria Kärnten (2007-2010)
 - **B** (5): BW Linz · Bruck/Leitha · Blau-Weiß Linz · Bad Gleichenberg · Bischofshofen Sportklub 1933
 - **D** (7): Dornbirn · Donaufeld · DSV Leoben · Dornbirner SV · Deutschlandsberg · Deutschlandsberger SC · Dornbirner Sportverein
 - **E** (1): Echsenbach
-- **F** (52): FC Hard · FC Wels · FC Zirl · FC Tirol · FC Höchst · FC Wacker · FC Lendorf · FC Stadlau · FC Wolfurt · FC Dornbirn · FC Gratkorn · FC Kufstein · FC Lustenau · FC Pasching · FC Salzburg · FC St. Veit · FC Gleisdorf · FC Kitzbühel · FC Langenegg · FC Lankowitz · FC Lauterach · FC Liefering · FC Mauerwerk · FC Juniors OÖ · FC Stahl Linz · FC Lustenau 07 · FC RB Salzburg · FC Gleisdorf 09 · FK Austria Wien · First Vienna FC · FC Admira Wacker · FC Dornbirn 1913 · FC Lustenau 1907 · FCM Traiskirchen · Floridsdorfer AC · FAC Team für Wien · FC Blau-Weiß Linz · FC RB Salzburg II · FK Austria Wien II · FC Admira Wacker II · FC Wacker Innsbruck · FC Red Bull Salzburg · First Vienna FC 1894 · FC Pinzgau Saalfelden · FC Marchfeld Donauauen · FC RB Juniors Salzburg · FC Wacker Innsbruck II · FC Piberstein Lankowitz · FC Red Bull Salzburg II · FC Admira Wacker Mödling · FC Rohrendorf/Gedersdorf · FC Admira Wacker Mödling II
+- **F** (56): FC Hard · FC Linz · FC Wels · FC Zirl · FC Tirol · FC Admira · FC Höchst · FC Wacker · FC Kärnten · FC Lendorf · FC Stadlau · FC Wolfurt · FC Dornbirn · FC Gratkorn · FC Kufstein · FC Lustenau · FC Pasching · FC Salzburg · FC St. Veit · FC Gleisdorf · FC Kitzbühel · FC Langenegg · FC Lankowitz · FC Lauterach · FC Liefering · FC Mauerwerk · FC Juniors OÖ · FC Stahl Linz · FC Lustenau 07 · FC RB Salzburg · FC Gleisdorf 09 · FK Austria Wien · First Vienna FC · FC Admira Wacker · FC Dornbirn 1913 · FC Lustenau 1907 · FCM Traiskirchen · Floridsdorfer AC · FAC Team für Wien · FC Blau-Weiß Linz · FC RB Salzburg II · FC Tirol Innsbruck · FK Austria Wien II · FC Admira Wacker II · FC Wacker Innsbruck · FC Red Bull Salzburg · First Vienna FC 1894 · FC Pinzgau Saalfelden · FC Marchfeld Donauauen · FC RB Juniors Salzburg · FC Wacker Innsbruck II · FC Piberstein Lankowitz · FC Red Bull Salzburg II · FC Admira Wacker Mödling · FC Rohrendorf/Gedersdorf · FC Admira Wacker Mödling II
 - **G** (6): Grödig · Gurten · Grazer AK · Grafenwörth · Guntersdorf · Groß Gerungs
 - **H** (5): Hard · Höchst · Hartberg · Hohenems · Horn Amateure
 - **I** (1): Innsbruck
@@ -423,11 +433,11 @@ By A to Z
 - **O** (1): Ober-Grafendorf
 - **P** (3): Parndorf · Pasching · Pinzgau Saalfelden
 - **R** (13): Ried · Rapid · Rehberg · Ritzing · Rapid Wien · RB Salzburg · RW Rankweil · RB Salzburg II · RZ Pellets WAC · Rapid Wien Am. · Rheindorf Altach · Rapid Vienna [en] · Red Bull Salzburg
-- **S** (121): Sturm · Schwaz · SC Imst · SC Retz · SC Weiz · SV Hall · SV Horn · SV Ried · SAK 1914 · SC Krems · SV Kuchl · SV Telfs · SV Wörgl · Salzburg · Sollenau · SC Röthis · SC Schwaz · SV Grödig · SV Reutte · SC Bregenz · SC Golling · SC Ritzing · SCR Altach · SV Gaflenz · SV Lafnitz · SV Rehberg · SV Ried II · SV Wallern · SW Bregenz · St. Martin · St. Pölten · Sturm Graz · SC Kalsdorf · SC Neusiedl · SC Sollenau · SV Oberwart · Schweiggers · St. Florian · SC Mannsdorf · SC Pinkafeld · SC Trausdorf · SCU Ardagger · SR Donaufeld · SV Innsbruck · SV Schwechat · SV Stripfing · Schwechat SV · SC Echsenbach · SC Hartl Haus · SC Ostbahn XI · SC Rohrendorf · SC St. Martin · SK Rapid Wien · SK Sturm Graz · SK VOEST Linz · SKU Amstetten · SV Josko Ried · SV Leobendorf · SV Micheldorf · SV Seekirchen · SV Wimpassing · SVG Reichenau · SAK Klagenfurt · SC Guntersdorf · SKN St. Pölten · SV Mattersburg · SV Stegersbach · SV Wals-Grünau · SV Zwentendorf · SC Leopoldsdorf · SC Röfix Röthis · SC Wr. Neustadt · SC-ESV Parndorf · SC/ESV Parndorf · SV Spittal/Drau · Slowenischer AK · SC Weißenkirchen · SK Rapid Wien II · SK Sturm Graz II · SPG FC Langenegg · SV Allerheiligen · SV Heiligenkreuz · Sieghartskirchen · St Anna am Aigen · Sturm Graz Amat. · SAK 1914 Salzburg · SK Rapid Amateure · SK Vorwärts Steyr · SR Donaufeld Wien · SV Mattersburg II · SC Neusiedl am See · SC Team Wr. Linien · SC Wiener Neustadt · SC Wiener Viktoria · SCR Altach Juniors · SV Mattersburg Am. · SV Seekirchen 1945 · Salzburger AK 1914 · SC Austria Lustenau · SC Red Star Penzing · SC Rheindorf Altach · SV Austria Salzburg · SV Sieghartskirchen · SC-ESV Parndorf 1919 · SC/ESV Parndorf 1919 · SC Team Wiener Linien · SG Austria Klagenfurt · SK Austria Klagenfurt · SV Josko Fenster Ried · SAK Celovec/Klagenfurt · SKN St. Pölten Juniors · SC Leopoldsdorf i. Mfd. · SC Neusiedl am See 1919 · SC Schwarz-Weiß Bregenz · SV Grün-Weiß Micheldorf · SV Mattersburg Amateure · Slovenski atletski klub · Sportclub Rheindorf Altach · SC Austria Lustenau Amateure · Sportvereinigung Mattersburg · Sportklub Niederösterreich St. Pölten
+- **S** (127): Sturm · Schwaz · SC Imst · SC Retz · SC Weiz · SV Hall · SV Horn · SV Ried · SAK 1914 · SC Krems · SV Kuchl · SV Telfs · SV Wörgl · Salzburg · Sollenau · SC Röthis · SC Schwaz · SV Grödig · SV Reutte · SC Bregenz · SC Golling · SC Ritzing · SCR Altach · SV Gaflenz · SV Lafnitz · SV Rehberg · SV Ried II · SV Wallern · SW Bregenz · St. Martin · St. Pölten · Sturm Graz · SC Kalsdorf · SC Neusiedl · SC Sollenau · SV Oberwart · Schweiggers · St. Florian · SC Mannsdorf · SC Pinkafeld · SC Trausdorf · SCU Ardagger · SR Donaufeld · SV Innsbruck · SV Schwechat · SV Stripfing · Schwechat SV · SC Echsenbach · SC Hartl Haus · SC Ostbahn XI · SC Rohrendorf · SC St. Martin · SK Rapid Wien · SK Sturm Graz · SK VOEST Linz · SKU Amstetten · SSW Innsbruck · SV Josko Ried · SV Leobendorf · SV Micheldorf · SV Seekirchen · SV Wimpassing · SVG Reichenau · SAK Klagenfurt · SC Guntersdorf · SKN St. Pölten · SV Mattersburg · SV Stegersbach · SV Wals-Grünau · SV Zwentendorf · SC Leopoldsdorf · SC Röfix Röthis · SC Wr. Neustadt · SC-ESV Parndorf · SC/ESV Parndorf · SV Spittal/Drau · Slowenischer AK · SC Weißenkirchen · SK Rapid Wien II · SK Sturm Graz II · SKN Sankt Pölten · SPG FC Langenegg · SV Allerheiligen · SV Heiligenkreuz · Sieghartskirchen · St Anna am Aigen · Sturm Graz Amat. · SAK 1914 Salzburg · SK Rapid Amateure · SK Vorwärts Steyr · SR Donaufeld Wien · SV Mattersburg II · SC Neusiedl am See · SC Team Wr. Linien · SC Wiener Neustadt · SC Wiener Viktoria · SCR Altach Juniors · SK Austria Kärnten · SV Mattersburg Am. · SV Seekirchen 1945 · Salzburger AK 1914 · SC Austria Lustenau · SC Red Star Penzing · SC Rheindorf Altach · SV Austria Salzburg · SV Sieghartskirchen · SC-ESV Parndorf 1919 · SC/ESV Parndorf 1919 · SC Team Wiener Linien · SG Austria Klagenfurt · SK Admira Vienna [en] · SK Admira Wacker Wien · SK Austria Klagenfurt · SV Josko Fenster Ried · SAK Celovec/Klagenfurt · SKN St. Pölten Juniors · SC Leopoldsdorf i. Mfd. · SC Neusiedl am See 1919 · SC Schwarz-Weiß Bregenz · SV Grün-Weiß Micheldorf · SV Mattersburg Amateure · Slovenski atletski klub · Sportclub Rheindorf Altach · SC Austria Lustenau Amateure · Sportvereinigung Mattersburg · Sportklub Niederösterreich St. Pölten · Spielgemeinschaft Swarovski Wacker Innsbruck
 - **T** (13): TSV · Tirol · TSV Hartberg · TSV Neumarkt · TSV St. Johann · Technopool Admira · Team Wiener Linien · TuS Bad Gleichenberg · TSV St. Johann Pongau · TSV Sparkasse Hartberg · TSV St. Johann im Pongau · TSV Neumarkt am Wallersee · Turn- und Sportverein Hartberg
 - **U** (13): USK Anif · USV St. Anna · Union Gurten · USC Eugendorf · USC Altenwörth · USV Langenlois · USC Grafenwörth · USC Schweiggers · USC Kirchberg/W. · USV Groß Gerungs · USV Allerheiligen · Union St. Florian · Union Vöcklamarkt
 - **V** (7): Vienna · Vöcklamarkt · VfB Hohenems · Villacher SV · Vienna FC 1894 · Vorwärts Steyr · VST Völkermarkt
-- **W** (26): Wallern · Wattens · WSG Tirol · Wiener SK · Wolfsberg · Wimpassing · WSG Wattens · Wolfsberger · WAC Amateure · Wr. Neustadt · Weißenkirchen · Wr. Sportklub · Wolfsberger AC · WSC Hertha Wels · Wiener Neustadt · Wiener Viktoria · Wacker Innsbruck · Wiener Sportklub · Wiener Sport-Club · Wolfsberger AC II · WSG Swarovs. Tirol · WSG Swarovski Tirol · Wacker Innsbruck II · WSG Swarovski Wattens · Wolfsberger Athletik Club · Wattener Sportgemeinschaft Tirol
+- **W** (27): Wallern · Wattens · WSG Tirol · Wiener SC · Wiener SK · Wolfsberg · Wimpassing · WSG Wattens · Wolfsberger · WAC Amateure · Wr. Neustadt · Weißenkirchen · Wr. Sportklub · Wolfsberger AC · WSC Hertha Wels · Wiener Neustadt · Wiener Viktoria · Wacker Innsbruck · Wiener Sportklub · Wiener Sport-Club · Wolfsberger AC II · WSG Swarovs. Tirol · WSG Swarovski Tirol · Wacker Innsbruck II · WSG Swarovski Wattens · Wolfsberger Athletik Club · Wattener Sportgemeinschaft Tirol
 - **Y** (3): Young Violets · Young Violets A. W. · Young Violets Austria Wien
 - **Z** (1): Zwentendorf
 

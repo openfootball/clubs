@@ -4,10 +4,10 @@
 - [**Rangers FC**](https://en.wikipedia.org/wiki/Rangers_F.C.) : (3) Rangers · Gl. Rangers · Glasgow Rangers
 - [**Partick Thistle**](https://en.wikipedia.org/wiki/Partick_Thistle_F.C.) : (3) Jags · Partick · Partick Thistle FC
 - **Queen's Park** : (1) Queens Park
-- [**Heart of Midlothian FC**](https://en.wikipedia.org/wiki/Heart_of_Midlothian_F.C.) : (3) Hearts · Heart of Midl. · Heart of Midlothian
+- [**Heart of Midlothian FC**](https://en.wikipedia.org/wiki/Heart_of_Midlothian_F.C.) : (4) Hearts · Hearts FC · Heart of Midl. · Heart of Midlothian
 - [**Hibernian FC**](https://en.wikipedia.org/wiki/Hibernian_F.C.) : (2) Hibernian · Hibernians
 - **Edinburgh City**
-- [**Aberdeen FC**](https://en.wikipedia.org/wiki/Aberdeen_F.C.) : (2) Aberdeen · FC Aberdeen
+- [**Aberdeen FC**](https://en.wikipedia.org/wiki/Aberdeen_F.C.) : (3) Aberdeen · Abderden · FC Aberdeen
 - **Cove Rangers FC** : (2) Cove Rangers · Cove Rangers Football Club
 - [**Dundee FC**](https://en.wikipedia.org/wiki/Dundee_F.C.) : (2) Dundee · FC Dundee
 - [**Dundee United**](https://en.wikipedia.org/wiki/Dundee_United_F.C.) : (3) Dundee Utd · Dundee United FC · Dundee Hibernian
@@ -18,12 +18,12 @@
 - [**St Johnstone FC**](https://en.wikipedia.org/wiki/St_Johnstone_F.C.) : (4) St Johnstone · St. Johnstone · FC St. Johnstone · Saint Johnstone FC
 - **Brechin City** : (1) Brechin
 - **Dumbarton** : (1) FC Dumbarton
-- **Dunfermline Athletic** : (1) Dunfermline
-- **Falkirk** : (1) FC Falkirk
-- **Greenock Morton** : (1) Morton
+- **Dunfermline Athletic** : (2) Dunfermline · Dunfermline Athletic FC
+- **Falkirk** : (2) FC Falkirk · Falkirk FC
+- **Greenock Morton** : (2) Morton · Greenock Morton FC
 - [**Inverness Caledonian Thistle**](https://en.wikipedia.org/wiki/Inverness_Caledonian_Thistle_F.C.) : (7) ICT · Inverness · Inverness C · Inverness CT · Caley Thistle · The Caley Jags · Inverness Caledonian Thistle FC
 - [**Livingston FC**](https://en.wikipedia.org/wiki/Livingston_F.C.) : (2) Livingston · FC Livingston
-- **Queen of the South** : (2) Queen of Sth · Queen of South
+- **Queen of the South** : (3) Queen of Sth · Queen of South · Queen of the South FC
 - [**Saint Mirren FC**](https://en.wikipedia.org/wiki/St_Mirren_F.C.) : (3) St Mirren · St Mirren FC · FC St. Mirren
 - **Airdrieonians** : (2) Airdrie · Airdrie Utd
 - **Albion Rovers** : (1) Albion Rvs
@@ -32,7 +32,7 @@
 - **Ayr United** : (1) Ayr
 - **East Fife** : (1) FC East Fife
 - **Forfar Athletic** : (1) Forfar
-- **Raith Rovers** : (3) Raith · Raith Rvs · FC Raith Rovers
+- **Raith Rovers** : (4) Raith · Raith Rvs · FC Raith Rovers · Raith Rovers FC
 - **Stranraer** : (1) FC Stranraer
 - **Annan Athletic**
 - **Clyde** : (1) FC Clyde
@@ -74,17 +74,17 @@ By City
   - Partick Thistle  (3) Partick · Partick Thistle FC · Jags
   - Queen's Park  (1) Queens Park
 - **Edinburgh** (3): 
-  - Heart of Midlothian FC  (3) Hearts · Heart of Midl. · Heart of Midlothian
+  - Heart of Midlothian FC  (4) Hearts · Heart of Midl. · Heart of Midlothian · Hearts FC
   - Hibernian FC  (2) Hibernian · Hibernians
   - Edinburgh City 
 - **Aberdeen** (2): 
-  - Aberdeen FC  (2) Aberdeen · FC Aberdeen
+  - Aberdeen FC  (3) Aberdeen · FC Aberdeen · Abderden
   - Cove Rangers FC  (2) Cove Rangers · Cove Rangers Football Club
 - **Dundee** (2): 
   - Dundee FC  (2) Dundee · FC Dundee
   - Dundee United  (3) Dundee Utd · Dundee United FC · Dundee Hibernian
 - **Falkirk** (2): 
-  - Falkirk  (1) FC Falkirk
+  - Falkirk  (2) FC Falkirk · Falkirk FC
   - East Stirlingshire FC  (1) East Stirling
 - **Airdrie** (1): Airdrieonians  (2) Airdrie Utd · Airdrie
 - **Alloa** (1): Alloa Athletic  (2) Alloa · FC Alloa Athletic
@@ -98,16 +98,16 @@ By City
 - **Cumbernauld** (1): Clyde  (1) FC Clyde
 - **Dingwall** (1): Ross County FC  (2) Ross County · FC Ross County
 - **Dumbarton** (1): Dumbarton  (1) FC Dumbarton
-- **Dumfries** (1): Queen of the South  (2) Queen of Sth · Queen of South
-- **Dunfermline** (1): Dunfermline Athletic  (1) Dunfermline
+- **Dumfries** (1): Queen of the South  (3) Queen of Sth · Queen of South · Queen of the South FC
+- **Dunfermline** (1): Dunfermline Athletic  (2) Dunfermline · Dunfermline Athletic FC
 - **Elgin** (1): Elgin City  (1) Elgin
 - **Forfar** (1): Forfar Athletic  (1) Forfar
-- **Greenock** (1): Greenock Morton  (1) Morton
+- **Greenock** (1): Greenock Morton  (2) Morton · Greenock Morton FC
 - **Gretna** (1): Gretna FC  (1) Gretna
 - **Hamilton** (1): Hamilton Academical FC  (4) Hamilton · Hamilton FC · Hamilton Accies · Hamilton Academical
 - **Inverness** (1): Inverness Caledonian Thistle  (7) Inverness · Inverness C · Inverness CT · Inverness Caledonian Thistle FC · Caley Thistle · ICT · The Caley Jags
 - **Kilmarnock** (1): Kilmarnock FC  (3) Killie · Kilmarnock · FC Kilmarnock
-- **Kirkcaldy** (1): Raith Rovers  (3) Raith · Raith Rvs · FC Raith Rovers
+- **Kirkcaldy** (1): Raith Rovers  (4) Raith · Raith Rvs · FC Raith Rovers · Raith Rovers FC
 - **Livingston** (1): Livingston FC  (2) Livingston · FC Livingston
 - **Methil** (1): East Fife  (1) FC East Fife
 - **Montrose** (1): Montrose  (1) FC Montrose
@@ -189,22 +189,22 @@ By Year
 
 By A to Z
 
-- **A** (13): Ayr · Alloa · Airdrie · Aberdeen · Arbroath · Albion Rvs · Ayr United · Aberdeen FC · Airdrie Utd · Airdrieonians · Albion Rovers · Alloa Athletic · Annan Athletic
+- **A** (14): Ayr · Alloa · Airdrie · Abderden · Aberdeen · Arbroath · Albion Rvs · Ayr United · Aberdeen FC · Airdrie Utd · Airdrieonians · Albion Rovers · Alloa Athletic · Annan Athletic
 - **B** (2): Brechin · Brechin City
 - **C** (11): Clyde · Celtic · Celtic FC · Clydebank · Cowdenbeath · Clydebank FC · Cove Rangers · Caley Thistle · Celtic Glasgow · Cove Rangers FC · Cove Rangers Football Club
-- **D** (9): Dundee · Dumbarton · Dundee FC · Dundee Utd · Dunfermline · Dundee United · Dundee Hibernian · Dundee United FC · Dunfermline Athletic
+- **D** (10): Dundee · Dumbarton · Dundee FC · Dundee Utd · Dunfermline · Dundee United · Dundee Hibernian · Dundee United FC · Dunfermline Athletic · Dunfermline Athletic FC
 - **E** (6): Elgin · East Fife · Elgin City · East Stirling · Edinburgh City · East Stirlingshire FC
-- **F** (20): Forfar · Falkirk · FC Clyde · FC Dundee · FC Falkirk · FC Aberdeen · FC Arbroath · FC Montrose · FC Dumbarton · FC East Fife · FC Stranraer · FC Kilmarnock · FC Livingston · FC Motherwell · FC St. Mirren · FC Ross County · FC Raith Rovers · Forfar Athletic · FC St. Johnstone · FC Alloa Athletic
-- **G** (5): Gretna · Gretna FC · Gl. Rangers · Glasgow Rangers · Greenock Morton
-- **H** (12): Hearts · Hamilton · Hibernian · Hibernians · Hamilton FC · Hibernian FC · Heart of Midl. · Hamilton Accies · Hamilton Academical · Heart of Midlothian · Hamilton Academical FC · Heart of Midlothian FC
+- **F** (21): Forfar · Falkirk · FC Clyde · FC Dundee · FC Falkirk · Falkirk FC · FC Aberdeen · FC Arbroath · FC Montrose · FC Dumbarton · FC East Fife · FC Stranraer · FC Kilmarnock · FC Livingston · FC Motherwell · FC St. Mirren · FC Ross County · FC Raith Rovers · Forfar Athletic · FC St. Johnstone · FC Alloa Athletic
+- **G** (6): Gretna · Gretna FC · Gl. Rangers · Glasgow Rangers · Greenock Morton · Greenock Morton FC
+- **H** (13): Hearts · Hamilton · Hearts FC · Hibernian · Hibernians · Hamilton FC · Hibernian FC · Heart of Midl. · Hamilton Accies · Hamilton Academical · Heart of Midlothian · Hamilton Academical FC · Heart of Midlothian FC
 - **I** (6): ICT · Inverness · Inverness C · Inverness CT · Inverness Caledonian Thistle · Inverness Caledonian Thistle FC
 - **J** (1): Jags
 - **K** (3): Killie · Kilmarnock · Kilmarnock FC
 - **L** (2): Livingston · Livingston FC
 - **M** (4): Morton · Montrose · Motherwell · Motherwell FC
 - **P** (5): Partick · Peterhead · Peterhead FC · Partick Thistle · Partick Thistle FC
-- **Q** (5): Queens Park · Queen of Sth · Queen's Park · Queen of South · Queen of the South
-- **R** (7): Raith · Rangers · Raith Rvs · Rangers FC · Ross County · Raith Rovers · Ross County FC
+- **Q** (6): Queens Park · Queen of Sth · Queen's Park · Queen of South · Queen of the South · Queen of the South FC
+- **R** (8): Raith · Rangers · Raith Rvs · Rangers FC · Ross County · Raith Rovers · Ross County FC · Raith Rovers FC
 - **S** (11): Stirling · St Mirren · Stranraer · St Johnstone · St Mirren FC · St. Johnstone · Stenhousemuir · Saint Mirren FC · St Johnstone FC · Stirling Albion · Saint Johnstone FC
 - **T** (1): The Caley Jags
 

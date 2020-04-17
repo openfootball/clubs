@@ -49,7 +49,7 @@
 - [**Godoy Cruz**](https://en.wikipedia.org/wiki/Godoy_Cruz_Antonio_Tomba) : (2) Godoy Cruz Antonio Tomba · Club Deportivo Godoy Cruz Antonio Tomba
 - **Gimnasia y Esgrima de Mendoza** : (3) Gimnasia (Mendoza) · Gimnasia y Esgrima · Club Gimnasia y Esgrima
 - **Independiente Rivadavia** : (1) Club Sportivo Independiente Rivadavia
-- **San Martín** : (3) San Martín SJ · San Martín San Juan · Club Atlético San Martín ⇒ (4) ≈San Martin≈ · ≈San Martin SJ≈ · ≈San Martin San Juan≈ · ≈Club Atletico San Martin≈
+- **San Martín San Juan** : (3) San Martín · San Martín SJ · Club Atlético San Martín ⇒ (4) ≈San Martin≈ · ≈San Martin SJ≈ · ≈San Martin San Juan≈ · ≈Club Atletico San Martin≈
 - **Gimnasia y Esgrima de Jujuy** : (3) GEJ · Gimnasia y Esgrima (Jujuy) · Club Atlético Gimnasia y Esgrima de Jujuy ⇒ (1) ≈Club Atletico Gimnasia y Esgrima de Jujuy≈
 - [**Atlético Tucumán**](https://en.wikipedia.org/wiki/Atlético_Tucumán) : (2) Tucumán · Atl. Tucumán ⇒ (3) ≈Tucuman≈ · ≈Atl. Tucuman≈ · ≈Atletico Tucuman≈
 - **San Martín de Tucumán** : (5) San Martín · San Martín T. · San Martín (Tucumán) · Club Atlético San Martín · Club Atlético San Martín (Tucumán) ⇒ (6) ≈San Martin≈ · ≈San Martin T.≈ · ≈San Martin (Tucuman)≈ · ≈San Martin de Tucuman≈ · ≈Club Atletico San Martin≈ · ≈Club Atletico San Martin (Tucuman)≈
@@ -149,7 +149,7 @@ By City
 - **Quilmes, Buenos Aires** (1): Quilmes AC  (2) Quilmes · Quilmes Atlético Club
 - **Rafaela, Santa Fe** (1): Atlético Rafaela  (4) At. de Rafaela · Atl. Rafaela · Atlético de Rafaela · Asociación Mutual Social y Deportiva Atlético de Rafaela
 - **Río Cuarto, Córdoba** (1): Estudiantes de Río Cuarto  (1) Asociación Atlética Estudiantes
-- **San Juan, San Juan** (1): San Martín  (3) San Martín SJ · San Martín San Juan · Club Atlético San Martín
+- **San Juan, San Juan** (1): San Martín San Juan  (3) San Martín · San Martín SJ · Club Atlético San Martín
 - **San Salvador de Jujuy, Jujuy** (1): Gimnasia y Esgrima de Jujuy  (3) GEJ · Gimnasia y Esgrima (Jujuy) · Club Atlético Gimnasia y Esgrima de Jujuy
 - **Sarandí, Buenos Aires** (1): Arsenal de Sarandí  (4) Arsenal · Arsenal Sarandí · Arsenal FC · Arsenal Fútbol Club
 - **Tandil, Buenos Aires** (1): Santamarina  (1) Club y Biblioteca Ramón Santamarina
@@ -166,7 +166,7 @@ By Region
 - **Santa Fe** (5):   Colón Santa Fe · Unión Santa Fe · Newell's Old Boys · Rosario Central · Atlético Rafaela
 - **Córdoba** (4):   Talleres de Córdoba · Club Atlético Belgrano · Instituto · Estudiantes de Río Cuarto
 - **Mendoza** (3):   Godoy Cruz · Gimnasia y Esgrima de Mendoza · Independiente Rivadavia
-- **San Juan** (1):   San Martín
+- **San Juan** (1):   San Martín San Juan
 - **Jujuy** (1):   Gimnasia y Esgrima de Jujuy
 - **Tucumán** (2):   Atlético Tucumán · San Martín de Tucumán
 - **Entre Ríos** (1):   Patronato
@@ -179,7 +179,7 @@ By Region
 
 By Year
 
-- ? (58):   All Boys · Argentinos Juniors · Boca Juniors · River Plate · San Lorenzo · Vélez Sarsfield · Huracán · Nueva Chicago · Atlanta · Barracas Central · Defensores de Belgranes · Deportivo Riestra · Estudiantes de Buenos Aires · Ferro Carril Oeste · CA Tigre · CA Independiente de Avellaneda · Racing Club · Quilmes AC · CA Lanús · Arsenal de Sarandí · Estudiantes LP · Gimnasia y Esgrima LP · Club Atlético Aldosivi · Alvarado · Club Atlético Banfield · Defensa y Justicia · Olimpo Bahía Blanca · Sarmiento Junín · Temperley · Chacarita Juniors · Agropecuario Argentino · Almagro · Brown · Deportivo Morón · Platense · Santamarina · Villa Dálmine · Colón Santa Fe · Unión Santa Fe · Newell's Old Boys · Rosario Central · Atlético Rafaela · Talleres de Córdoba · Club Atlético Belgrano · Instituto · Estudiantes de Río Cuarto · Godoy Cruz · Gimnasia y Esgrima de Mendoza · Independiente Rivadavia · San Martín · Gimnasia y Esgrima de Jujuy · Atlético Tucumán · San Martín de Tucumán · Patronato · Crucero del Norte · Central Córdoba · Mitre · Guillermo Brown
+- ? (58):   All Boys · Argentinos Juniors · Boca Juniors · River Plate · San Lorenzo · Vélez Sarsfield · Huracán · Nueva Chicago · Atlanta · Barracas Central · Defensores de Belgranes · Deportivo Riestra · Estudiantes de Buenos Aires · Ferro Carril Oeste · CA Tigre · CA Independiente de Avellaneda · Racing Club · Quilmes AC · CA Lanús · Arsenal de Sarandí · Estudiantes LP · Gimnasia y Esgrima LP · Club Atlético Aldosivi · Alvarado · Club Atlético Banfield · Defensa y Justicia · Olimpo Bahía Blanca · Sarmiento Junín · Temperley · Chacarita Juniors · Agropecuario Argentino · Almagro · Brown · Deportivo Morón · Platense · Santamarina · Villa Dálmine · Colón Santa Fe · Unión Santa Fe · Newell's Old Boys · Rosario Central · Atlético Rafaela · Talleres de Córdoba · Club Atlético Belgrano · Instituto · Estudiantes de Río Cuarto · Godoy Cruz · Gimnasia y Esgrima de Mendoza · Independiente Rivadavia · San Martín San Juan · Gimnasia y Esgrima de Jujuy · Atlético Tucumán · San Martín de Tucumán · Patronato · Crucero del Norte · Central Córdoba · Mitre · Guillermo Brown
 
 
 

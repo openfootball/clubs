@@ -13,15 +13,18 @@ Duplicates
 - **2** matching clubs for **`olimpia`**:
   - CD Olimpia, city:tegucigalpa, Honduras (hn)
   - Club Olimpia, Asunción, Paraguay (py)
+- **2** matching clubs for **`rangers`**:
+  - FC Rànger's, Andorra la Vella, Andorra (ad)
+  - Rangers FC, Glasgow, Scotland (sco)
 - **2** matching clubs for **`velez`**:
   - FK Velež, , Bosnia and Herzegovina (ba)
   - Vélez Sarsfield, Buenos Aires, Argentina (ar)
-- **2** matching clubs for **`nkslavenkoprivnica`**:
-  - NK Slaven Koprivnica, , Croatia (hr)
-  - NK Slaven Belupo, Koprivnica, Croatia (hr)
 - **2** matching clubs for **`olympiakos`**:
   - Olympiakos Nicosia FC, Nicosia, Cyprus (cy)
   - Olympiacos Piraeus FC, Piraeus, Greece (gr)
+- **2** matching clubs for **`ael`**:
+  - AEL Limassol, Limassol, Cyprus (cy)
+  - AE Larissa FC, Larissa, Greece (gr)
 - **2** matching clubs for **`apollon`**:
   - Apollon Limassol FC, Limassol, Cyprus (cy)
   - Apollon Smyrnis FC, Athens, Greece (gr)
@@ -47,6 +50,9 @@ Duplicates
 - **2** matching clubs for **`newcastle`**:
   - Newcastle United FC, Newcastle upon Tyne, England (eng)
   - Newcastle United Jets, Newcastle, Australia (au)
+- **2** matching clubs for **`lincoln`**:
+  - Lincoln City FC, Lincoln, England (eng)
+  - Lincoln FC, , Gibraltar (gi)
 - **2** matching clubs for **`redstar`**:
   - Red Star FC, Saint-Ouen, France (fr)
   - Red Star Belgrade, Belgrade, Serbia (rs)
@@ -59,6 +65,9 @@ Duplicates
 - **2** matching clubs for **`hibernians`**:
   - Hibernians FC, , Malta (mt)
   - Hibernian FC, Edinburgh, Scotland (sco)
+- **2** matching clubs for **`sporting`**:
+  - Sporting CP, Lisboa, Portugal (pt)
+  - Sporting Gijón, Gijón, Spain (es)
 - **2** matching clubs for **`vitória`**:
   - Vitória de Guimarães, Guimarães, Portugal (pt)
   - EC Vitória, Salvador, Brazil (br)
@@ -69,18 +78,15 @@ Duplicates
   - CD Nacional Madeira, Funchal, Portugal (pt)
   - Club Nacional, Asunción, Paraguay (py)
   - Nacional de Montevideo, Montevideo, Uruguay (uy)
+- **2** matching clubs for **`tekstilshchik`**:
+  - FC Tekstilshchik Ivanovo, Ivanovo, Russia (ru)
+  - FC Tekstilshchik Kamyshin, Kamyshin, Russia (ru)
 - **2** matching clubs for **`atlético`**:
   - Atlético Madrid, Madrid, Spain (es)
   - Atlético San Luis, San Luis Potosí, Mexico (mx)
 - **2** matching clubs for **`atletico`**:
   - Atlético Madrid, Madrid, Spain (es)
   - Atlético San Luis, San Luis Potosí, Mexico (mx)
-- **2** matching clubs for **`realjaénclubdefútbol`**:
-  - Real Jaén CF, Jaén, Spain (es)
-  - Real Jaén, Jaén, Spain (es)
-- **2** matching clubs for **`realjaenclubdefutbol`**:
-  - Real Jaén CF, Jaén, Spain (es)
-  - Real Jaén, Jaén, Spain (es)
 - **2** matching clubs for **`barcelona`**:
   - FC Barcelona, Barcelona, Spain (es)
   - Barcelona Guayaquil, Guayaquil, Ecuador (ec)
@@ -132,16 +138,16 @@ Duplicates
   - Gimnasia y Esgrima LP, La Plata, Argentina (ar)
   - Gimnasia y Esgrima de Mendoza, Mendoza, Argentina (ar)
 - **2** matching clubs for **`sanmartín`**:
-  - San Martín, San Juan, Argentina (ar)
+  - San Martín San Juan, San Juan, Argentina (ar)
   - San Martín de Tucumán, San Miguel de Tucumán, Argentina (ar)
 - **2** matching clubs for **`clubatléticosanmartín`**:
-  - San Martín, San Juan, Argentina (ar)
+  - San Martín San Juan, San Juan, Argentina (ar)
   - San Martín de Tucumán, San Miguel de Tucumán, Argentina (ar)
 - **2** matching clubs for **`sanmartin`**:
-  - San Martín, San Juan, Argentina (ar)
+  - San Martín San Juan, San Juan, Argentina (ar)
   - San Martín de Tucumán, San Miguel de Tucumán, Argentina (ar)
 - **2** matching clubs for **`clubatleticosanmartin`**:
-  - San Martín, San Juan, Argentina (ar)
+  - San Martín San Juan, San Juan, Argentina (ar)
   - San Martín de Tucumán, San Miguel de Tucumán, Argentina (ar)
 - **2** matching clubs for **`sportboys`**:
   - Sport Boys Warnes, Warnes, Bolivia (bo)
@@ -320,6 +326,8 @@ Club Name Duplicates
 
 **Armenia (am)**
 
+- **FC Gandzasar Kapan**, Kapan (1):
+  - `fcgandzasarkapan` (2): FC Gandzasar Kapan · FC Gandzasar-Kapan
 
 
 
@@ -335,6 +343,13 @@ Club Name Duplicates
 
 **Azerbaijan (az)**
 
+- **Zirä FK**, Baku (1):
+  - `zirafk` (2): **Zira FK** · **Zira FK**
+- **PFK Turan Tovuz**, Tovuz (4):
+  - `turantik` (2): Turan-T İK · Turan-T IK
+  - `turantovuzik` (2): Turan-Tovuz İK · Turan-Tovuz IK
+  - `turanik` (2): Turan İK · Turan IK
+  - `turanidmanklubu` (2): Turan İdman Klubu · Turan Idman Klubu
 
 
 
@@ -390,16 +405,20 @@ Club Name Duplicates
 
 **Denmark (dk)**
 
+- **KB København (1876-1992)**, København (1):
+  - `kjobenhavnsboldklub` (2): **Kjobenhavns Boldklub** · **Kjobenhavns Boldklub**
 - **Brønshøj BK**, København (1):
   - `bronshojbk` (2): **Bronshoj BK** · **Bronshoj BK**
 - **Vanløse IF**, København (1):
   - `vanloseif` (2): **Vanlose IF** · **Vanlose IF**
-- **HB Køge**, Herfølge/Køge (1):
+- **HB Køge**, Køge (1):
   - `hbkoge` (2): **HB Koge** · **HB Koge**
 - **Nykøbing FC**, Nykøbing Falster (1):
   - `nykobingfc` (2): **Nykobing FC** · **Nykobing FC**
 - **Hillerød Fodbold**, Hillerød (1):
   - `hillerodfodbold` (2): **Hillerod Fodbold** · **Hillerod Fodbold**
+- **B 1901 Nykøbing (1901-1994)**, Nykøbing Falster (1):
+  - `b1901nykobing` (2): B 1901 Nykobing · B1901 Nykobing
 
 
 
@@ -426,6 +445,8 @@ Club Name Duplicates
 
 - **Víkingur**,  (1):
   - `vikingur` (2): **Vikingur** · **Vikingur**
+- **FC Suðuroy**, Vágur (1):
+  - `fcsuduroy` (2): **FC Suduroy** · **FC Suduroy**
 
 
 
@@ -433,7 +454,7 @@ Club Name Duplicates
 **Finland (fi)**
 
 - **Myllykosken Pallo -47**, Myllykoski (2):
-  - `myllykoskenpallo47` (2): Myllykosken Pallo -47 · Myllykosken Pallo-47
+  - `myllykoskenpallo47` (3): Myllykosken Pallo -47 · Myllykosken Pallo-47 · Myllykosken Pallo −47
   - `mypa` (2): MYPA · MyPa
 - **JJK Jyväskylä**, Jyväskylä (1):
   - `jjkjyvaskyla` (2): **JJK Jyvaskyla** · **JJK Jyvaskyla**
@@ -492,6 +513,15 @@ Club Name Duplicates
 
 - **Ferencvárosi TC**, Budapest (1):
   - `ferencvaros` (2): **Ferencvaros** · **Ferencvaros**
+- **Győri ETO FC**, Győr (3):
+  - `gyorieto` (2): **Gyori ETO** · **Gyori ETO**
+  - `rabaetogyor` (2): **Raba ETO Gyor** · **Raba ETO Gyor**
+  - `etogyor` (2): **ETO Gyor** · **ETO Gyor**
+- **Diósgyőri VTK**, Miskolc (2):
+  - `diosgyorivtk` (2): **Diosgyori VTK** · **Diosgyori VTK**
+  - `diosgyor` (2): **Diosgyor** · **Diosgyor**
+- **Békéscsaba 1912 Előre**, Békéscsaba (1):
+  - `bekescsabaielore` (2): **Bekescsabai Elore** · **Bekescsabai Elore**
 
 
 
@@ -554,9 +584,6 @@ Club Name Duplicates
 
 **North Macedonia (mk)**
 
-- **FK Rabotnički**,  (2):
-  - `rabotnicki` (2): **Rabotnicki** · **Rabotnicki**
-  - `fkrabotnicki` (2): **FK Rabotnicki** · **FK Rabotnicki**
 
 
 
@@ -662,9 +689,9 @@ Club Name Duplicates
   - `poliiasi` (2): **Poli Iasi** · **Poli Iasi**
   - `politehnicaiasi` (2): **Politehnica Iasi** · **Politehnica Iasi**
   - `csmpolitehnicaiasi` (2): **CSM Politehnica Iasi** · **CSM Politehnica Iasi**
-- **Târgu Mureș**, Târgu Mureș (2):
-  - `targumures` (2): **Targu Mures** · **Targu Mures**
+- **ASA Târgu Mureș (2008-2018)**, Târgu Mureș (2):
   - `asatargumures` (2): **ASA Targu Mures** · **ASA Targu Mures**
+  - `targumures` (2): **Targu Mures** · **Targu Mures**
 
 
 
@@ -703,8 +730,6 @@ Club Name Duplicates
 
 **Serbia (rs)**
 
-- **Red Star Belgrade**, Belgrade (1):
-  - `crvenazvezda` (2): Crvena Zvezda · Crvena zvezda
 
 
 

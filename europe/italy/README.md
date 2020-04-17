@@ -25,16 +25,16 @@
 - **Bari** : (4) AS Bari · SSC Bari · FC Bari 1908 · Società Sportiva Calcio Bari ⇒ (1) ≈Societa Sportiva Calcio Bari≈
 - **Brescia** : (1) Brescia Calcio
 - **Carpi** : (3) Carpi FC · Carpi FC 1909 · Carpi Football Club 1909
-- **Cesena** : (2) AC Cesena · Associazione Calcio Cesena
+- **AC Cesena (1940-2018)** : (3) Cesena · Cesena FC · Associazione Calcio Cesena
 - **Cittadella** : (1) AS Cittadella
 - **Cremonese** : (1) US Cremonese
 - [**Empoli**](https://en.wikipedia.org/wiki/Empoli_F.C.) : (3) Empoli FC · FC Empoli · Empoli Football Club
 - **Foggia**
 - [**Frosinone**](https://en.wikipedia.org/wiki/Frosinone_Calcio) : (1) Frosinone Calcio
 - **Novara** : (1) Novara Calcio
-- **Palermo** : (2) US Palermo · Unione Sportiva Città di Palermo ⇒ (1) ≈Unione Sportiva Citta di Palermo≈
-- [**Parma**](https://en.wikipedia.org/wiki/Parma_Calcio_1913) : (5) Parma FC · FC Parma · Parma Calcio · Parma Calcio 1913 · Parma Football Club
-- **Perugia** : (1) Perugia Calcio
+- **Palermo** : (3) US Palermo · US Città di Palermo · Unione Sportiva Città di Palermo ⇒ (2) ≈US Citta di Palermo≈ · ≈Unione Sportiva Citta di Palermo≈
+- [**Parma**](https://en.wikipedia.org/wiki/Parma_Calcio_1913) : (6) Parma FC · FC Parma · AC Parma · Parma Calcio · Parma Calcio 1913 · Parma Football Club
+- **AC Perugia** : (4) Perugia · Perugia Calcio · AC Perugia Calcio · Associazione Calcistica Perugia Calcio
 - **Pescara** : (1) Pescara Calcio
 - **Pro Vercelli**
 - **Salernitana** : (1) Salernitana Calcio
@@ -43,7 +43,7 @@
 - **Venezia** : (1) SSC Venezia
 - **Virtus Entella**
 - **Piacenza Calcio** : (2) Piacenza · Piacenza Calcio 1919
-- **LR Vicenza Virtus** : (2) Vicenza · Vicenza Calcio
+- **LR Vicenza Virtus** : (3) Vicenza · Vicenza Calcio · Vicenza Virtus
 - **Calcio Padova** : (2) Padova · Padua Calcio [de]
 - **Modena FC** : (2) Modena · FC Modena
 - **SS Robur Siena** : (3) Siena · AC Siena · Associazione Calcio Siena
@@ -104,7 +104,7 @@
 Alphabet
 
 - **Alphabet Specials** (3):  **à**  **ò**  **ü** 
-  - **à**×6 U+00E0 (224) - LATIN SMALL LETTER A WITH GRAVE ⇒ a
+  - **à**×7 U+00E0 (224) - LATIN SMALL LETTER A WITH GRAVE ⇒ a
   - **ò**×2 U+00F2 (242) - LATIN SMALL LETTER O WITH GRAVE ⇒ o
   - **ü**×2 U+00FC (252) - LATIN SMALL LETTER U WITH DIAERESIS ⇒ u•ue
 
@@ -155,7 +155,7 @@ By City
 - **Castellammare di Stabia** (1): SS Juve Stabia  (1) Juve Stabia
 - **Catania** (1): Calcio Catania  (2) Catania · Catania Calcio
 - **Catanzaro** (1): US Catanzaro  (2) Catanzaro · US Catanzaro 1929
-- **Cesena** (1): Cesena  (2) AC Cesena · Associazione Calcio Cesena
+- **Cesena** (1): AC Cesena (1940-2018)  (3) Cesena · Associazione Calcio Cesena · Cesena FC
 - **Chiavari** (1): Virtus Entella 
 - **Cittadella** (1): Cittadella  (1) AS Cittadella
 - **Como** (1): Como 1907  (2) Como · Como Calcio
@@ -188,9 +188,9 @@ By City
 - **Novara** (1): Novara  (1) Novara Calcio
 - **Padova** (1): Calcio Padova  (2) Padova · Padua Calcio [de]
 - **Pagani** (1): Paganese Calcio  (2) Paganese · Paganese Calcio 1926
-- **Palermo** (1): Palermo  (2) US Palermo · Unione Sportiva Città di Palermo
-- **Parma** (1): Parma  (5) Parma FC · FC Parma · Parma Football Club · Parma Calcio · Parma Calcio 1913
-- **Perugia** (1): Perugia  (1) Perugia Calcio
+- **Palermo** (1): Palermo  (3) US Palermo · US Città di Palermo · Unione Sportiva Città di Palermo
+- **Parma** (1): Parma  (6) Parma FC · FC Parma · Parma Football Club · Parma Calcio · Parma Calcio 1913 · AC Parma
+- **Perugia** (1): AC Perugia  (4) Perugia · Perugia Calcio · AC Perugia Calcio · Associazione Calcistica Perugia Calcio
 - **Pesaro** (1): Vis Pesaro 1898 
 - **Pescara** (1): Pescara  (1) Pescara Calcio
 - **Piacenza** (1): Piacenza Calcio  (2) Piacenza · Piacenza Calcio 1919
@@ -220,7 +220,7 @@ By City
 - **Venezia** (1): Venezia  (1) SSC Venezia
 - **Vercelli** (1): Pro Vercelli 
 - **Vibo Valentia** (1): Vibonese Calcio  (3) Vibonese · US Vibonese Calcio · Unione Sportiva Vibonese Calcio
-- **Vicenza** (1): LR Vicenza Virtus  (2) Vicenza · Vicenza Calcio
+- **Vicenza** (1): LR Vicenza Virtus  (3) Vicenza · Vicenza Calcio · Vicenza Virtus
 
 
 
@@ -247,7 +247,7 @@ By Region
 - **Bari†** (1):   Bari
 - **Brescia†** (1):   Brescia
 - **Carpi†** (1):   Carpi
-- **Cesena†** (1):   Cesena
+- **Cesena†** (1):   AC Cesena (1940-2018)
 - **Cittadella†** (1):   Cittadella
 - **Cremona†** (1):   Cremonese
 - **Empoli†** (1):   Empoli
@@ -256,7 +256,7 @@ By Region
 - **Novara†** (1):   Novara
 - **Palermo†** (1):   Palermo
 - **Parma†** (1):   Parma
-- **Perugia†** (1):   Perugia
+- **Perugia†** (1):   AC Perugia
 - **Pescara†** (1):   Pescara
 - **Vercelli†** (1):   Pro Vercelli
 - **Salerno†** (1):   Salernitana
@@ -326,11 +326,20 @@ By Region
 By Year
 
 - **1903** (1):   Hellas Verona FC
+- **1905** (1):   AC Perugia
 - **1915** (1):   AS Livorno Calcio
 - **1920** (1):   Pordenone Calcio
 - **1922** (1):   US Sassuolo Calcio
 - **1929** (1):   Benevento
-- ? (92):   AS Roma · SS Lazio · AC Milan · FC Internazionale Milano · Torino FC · Juventus · AC Chievo Verona · Genoa CFC · UC Sampdoria · Atalanta BC · Bologna FC · Cagliari Calcio · FC Crotone · ACF Fiorentina · SSC Napoli · SPAL · Udinese Calcio · Ascoli · Avellino · Bari · Brescia · Carpi · Cesena · Cittadella · Cremonese · Empoli · Foggia · Frosinone · Novara · Palermo · Parma · Perugia · Pescara · Pro Vercelli · Salernitana · Spezia · Ternana · Venezia · Virtus Entella · Piacenza Calcio · LR Vicenza Virtus · Calcio Padova · Modena FC · SS Robur Siena · US Anconitana ASD · Cosenza Calcio · SS Fidelis Andria · US Lecce · AS Lucchese Libertas · SS Monza · Ravenna FC · AC Reggiana · Urbs Reggina · ACD Treviso · ASD Castel di Sangro · Unione Calcio Albinoleffe · Calcio Catania · Como 1907 · ACR Messina SSD · US Triestina Calcio · SS Arezzo · US Catanzaro · ASD Virtus Bergamo · MC Fermana FC · Gallipoli Football SSD · ASD US Grosseto · AS Gubbio · SS Juve Stabia · SSD Latina Calcio · Mantova SSD · ASD Nocerina · AC Pisa · US Pistoiese · Portogruaro Calcio ASD · Rimini FC SSD · ASD Savoia · Trapani Calcio · Varese Calcio · Virtus Lanciano · Vis Pesaro 1898 · Giana Erminio · Carrarese Calcio · Pontedera · Pro Patria · AC Renate · Calcio Lecco · FC Südtirol · Feralpisalò · Sambenedettese · Potenza Calcio · Paganese Calcio · Vibonese Calcio
+- **1940** (1):   AC Cesena (1940-2018)
+- ? (90):   AS Roma · SS Lazio · AC Milan · FC Internazionale Milano · Torino FC · Juventus · AC Chievo Verona · Genoa CFC · UC Sampdoria · Atalanta BC · Bologna FC · Cagliari Calcio · FC Crotone · ACF Fiorentina · SSC Napoli · SPAL · Udinese Calcio · Ascoli · Avellino · Bari · Brescia · Carpi · Cittadella · Cremonese · Empoli · Foggia · Frosinone · Novara · Palermo · Parma · Pescara · Pro Vercelli · Salernitana · Spezia · Ternana · Venezia · Virtus Entella · Piacenza Calcio · LR Vicenza Virtus · Calcio Padova · Modena FC · SS Robur Siena · US Anconitana ASD · Cosenza Calcio · SS Fidelis Andria · US Lecce · AS Lucchese Libertas · SS Monza · Ravenna FC · AC Reggiana · Urbs Reggina · ACD Treviso · ASD Castel di Sangro · Unione Calcio Albinoleffe · Calcio Catania · Como 1907 · ACR Messina SSD · US Triestina Calcio · SS Arezzo · US Catanzaro · ASD Virtus Bergamo · MC Fermana FC · Gallipoli Football SSD · ASD US Grosseto · AS Gubbio · SS Juve Stabia · SSD Latina Calcio · Mantova SSD · ASD Nocerina · AC Pisa · US Pistoiese · Portogruaro Calcio ASD · Rimini FC SSD · ASD Savoia · Trapani Calcio · Varese Calcio · Virtus Lanciano · Vis Pesaro 1898 · Giana Erminio · Carrarese Calcio · Pontedera · Pro Patria · AC Renate · Calcio Lecco · FC Südtirol · Feralpisalò · Sambenedettese · Potenza Calcio · Paganese Calcio · Vibonese Calcio
+
+
+
+
+Historic
+
+- **2018** (1):   AC Cesena (1940-2018)
 
 
 
@@ -339,9 +348,9 @@ By Year
 
 By A to Z
 
-- **A** (65): Alzano · Ancona · Arezzo · Ascoli · AC Pisa · AS Bari · AS Roma · AC Milan · AC Siena · Atalanta · Avellino · AC Arezzo · AC Cesena · AC Renate · AS Gubbio · Ascoli FC · AC Firenze · AS Livorno · ASD Savoia · Alto Adige · AC Reggiana · ACD Treviso · AS Avellino · AS Rom [de] · Albinoleffe · Atalanta BC · AC Pisa 1909 · AC Pistoiese · ASD Nocerina · AC Fiorentina · AS Cittadella · AC Feralpisalò · ACF Fiorentina · AS Gubbio 1910 · AC Florenz [de] · AC Mailand [de] · ACR Messina SSD · ASD Savoia 1908 · ASD US Grosseto · Alzano Virescit · AC Chievo Verona · AC Reggiana 1919 · AS Giana Erminio · Atalanta Bergamo · AS Livorno Calcio · ASD Nocerina 1910 · ASD Virtus Bergamo · AS Lucchese Libertas · ASD Castel di Sangro · ASD US Grosseto 1912 · Aurora Pro Patria 1919 · ASD Virtus Bergamo 1909 · ASD 1920 Lanciano Calcio · AS Lucchese Libertas 1905 · Associazione Calcio Milan · Associazione Calcio Siena · Associazione Calcio Arezzo · Associazione Calcio Cesena · Associazione Calcio Renate · Associazione Sportiva Roma · Atalanta Bergamasca Calcio · Associazione Calcio Chievo Verona · Associazione Sportiva Avellino 1912 · Associazione Sportiva Livorno Calcio · Associazione Calcio Firenze Fiorentina
+- **A** (69): Alzano · Ancona · Arezzo · Ascoli · AC Pisa · AS Bari · AS Roma · AC Milan · AC Parma · AC Siena · Atalanta · Avellino · AC Arezzo · AC Renate · AS Gubbio · Ascoli FC · AC Firenze · AC Perugia · AS Livorno · ASD Savoia · Alto Adige · AC Reggiana · ACD Treviso · AS Avellino · AS Rom [de] · Albinoleffe · Atalanta BC · AC Pisa 1909 · AC Pistoiese · ASD Nocerina · AC Fiorentina · AS Cittadella · AC Feralpisalò · ACF Fiorentina · AS Gubbio 1910 · AC Florenz [de] · AC Mailand [de] · ACR Messina SSD · ASD Savoia 1908 · ASD US Grosseto · Alzano Virescit · AC Chievo Verona · AC Reggiana 1919 · AS Giana Erminio · Atalanta Bergamo · AC Perugia Calcio · AS Livorno Calcio · ASD Nocerina 1910 · ASD Virtus Bergamo · AS Lucchese Libertas · ASD Castel di Sangro · ASD US Grosseto 1912 · AC Cesena (1940-2018) · Aurora Pro Patria 1919 · ASD Virtus Bergamo 1909 · ASD 1920 Lanciano Calcio · AS Lucchese Libertas 1905 · Associazione Calcio Milan · Associazione Calcio Siena · Associazione Calcio Arezzo · Associazione Calcio Cesena · Associazione Calcio Renate · Associazione Sportiva Roma · Atalanta Bergamasca Calcio · Associazione Calcio Chievo Verona · Associazione Sportiva Avellino 1912 · Associazione Sportiva Livorno Calcio · Associazione Calcio Firenze Fiorentina · Associazione Calcistica Perugia Calcio
 - **B** (9): Bari · Bologna · Brescia · Benevento · Bologna FC · Brescia Calcio · Bologna FC 1909 · Benevento Calcio · Bologna Football Club 1909
-- **C** (30): Como · Carpi · Cesena · Chievo · Catania · Cosenza · Crotone · Cagliari · Carpi FC · C. Sangro · Carrarese · Catanzaro · Como 1907 · Cremonese · Cittadella · Crotone FC · Como Calcio · Calcio Lecco · Calcio Padova · Carpi FC 1909 · Chievo Verona · Calcio Catania · Catania Calcio · Cosenza Calcio · Cagliari Calcio · Carrarese Calcio · Calcio Lecco 1912 · CFC Genua 1893 [de] · Carrarese Calcio 1908 · Carpi Football Club 1909
+- **C** (31): Como · Carpi · Cesena · Chievo · Catania · Cosenza · Crotone · Cagliari · Carpi FC · C. Sangro · Carrarese · Catanzaro · Cesena FC · Como 1907 · Cremonese · Cittadella · Crotone FC · Como Calcio · Calcio Lecco · Calcio Padova · Carpi FC 1909 · Chievo Verona · Calcio Catania · Catania Calcio · Cosenza Calcio · Cagliari Calcio · Carrarese Calcio · Calcio Lecco 1912 · CFC Genua 1893 [de] · Carrarese Calcio 1908 · Carpi Football Club 1909
 - **E** (3): Empoli · Empoli FC · Empoli Football Club
 - **F** (21): Foggia · Fermana · FC Parma · F. Andria · FC Empoli · FC Modena · FC Torino · Frosinone · FC Bologna · FC Crotone · Fermana FC · Fiorentina · FC Südtirol · Feralpisalò · FC Bari 1908 · FC Genua [de] · FC Turin [de] · Frosinone Calcio · Fermana Football Club · FC Internazionale Milano · Federazione Calcistica Crotone
 - **G** (9): Genoa · Gubbio · Grosseto · Gallipoli · Genoa CFC · Giana Erminio · Gallipoli Football SSD · Gallipoli Football 1909 SSD · Genoa Cricket and Football Club
@@ -355,8 +364,8 @@ By A to Z
 - **R** (15): Roma · Rimini · Ravenna · Reggina · Reggiana · Ravenna FC · Reggio Audace · Rimini Calcio · Rimini FC SSD · Ravenna Calcio · Rimini FC 1912 · Ravenna FC 1913 · Reggio Audace FC · Rimini FC 1912 SSD · Reggio Audace Football Club
 - **S** (37): SPAL · Siena · Savoia · Spezia · SS Lazio · SS Monza · SSC Bari · Sassuolo · Südtirol · SPAL 2013 · SS Arezzo · Sampdoria · SSC Napoli · SSC Venezia · Salernitana · SC Pisa [de] · SPAL Ferrara · SS Monza 1912 · Spezia Calcio · SS Juve Stabia · SS Robur Siena · Sambenedettese · SSC Neapel [de] · Sampdoria Genoa · Sassuolo Calcio · SPAL 2013 Ferrara · SS Fidelis Andria · SSD Latina Calcio · Salernitana Calcio · Sampdoria Genua [de] · SS Fidelis Andria 1928 · SSD Latina Calcio 1932 · Società Sportiva Lazio · Società Sportiva Arezzo · SS Sambenedettese Calcio · Società Sportiva Calcio Bari · Società Sportiva Calcio Napoli
 - **T** (10): Torino · Ternana · Trapani · Treviso · Torino FC · Triestina · Ternana Calcio · Trapani Calcio · Triestina Calcio · Torino Football Club
-- **U** (28): Udinese · US Lecce · US Fermana · US Palermo · US Sassuolo · UC Sampdoria · US Catanzaro · US Cremonese · US Pistoiese · Urbs Reggina · UC Albinoleffe · Udinese Calcio · US Avellino 1912 · US Anconitana ASD · US Catanzaro 1929 · US Pistoiese 1921 · Urbs Reggina 1914 · US Sassuolo Calcio · US Vibonese Calcio · US Triestina Calcio · US Città di Pontedera · Unione Calcio Sampdoria · US Triestina Calcio 1918 · Unione Calcio Albinoleffe · Unione Sportiva Avellino 1912 · Unione Sportiva Sassuolo Calcio · Unione Sportiva Vibonese Calcio · Unione Sportiva Città di Palermo
-- **V** (12): Varese · Verona · Venezia · Vicenza · Vibonese · Varese Calcio · Vicenza Calcio · Virtus Bergamo · Virtus Entella · Vibonese Calcio · Virtus Lanciano · Vis Pesaro 1898
+- **U** (29): Udinese · US Lecce · US Fermana · US Palermo · US Sassuolo · UC Sampdoria · US Catanzaro · US Cremonese · US Pistoiese · Urbs Reggina · UC Albinoleffe · Udinese Calcio · US Avellino 1912 · US Anconitana ASD · US Catanzaro 1929 · US Pistoiese 1921 · Urbs Reggina 1914 · US Sassuolo Calcio · US Vibonese Calcio · US Città di Palermo · US Triestina Calcio · US Città di Pontedera · Unione Calcio Sampdoria · US Triestina Calcio 1918 · Unione Calcio Albinoleffe · Unione Sportiva Avellino 1912 · Unione Sportiva Sassuolo Calcio · Unione Sportiva Vibonese Calcio · Unione Sportiva Città di Palermo
+- **V** (13): Varese · Verona · Venezia · Vicenza · Vibonese · Varese Calcio · Vicenza Calcio · Vicenza Virtus · Virtus Bergamo · Virtus Entella · Vibonese Calcio · Virtus Lanciano · Vis Pesaro 1898
 
 
 

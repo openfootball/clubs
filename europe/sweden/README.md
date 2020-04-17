@@ -1,6 +1,6 @@
-38 clubs
+40 clubs
 
-- **AIK** : (3) AIK Fotboll · AIK Stockholm · Allmänna Idrottsklubben ⇒ (2) ≈Allmanna Idrottsklubben≈ · ≈Allmaenna Idrottsklubben≈
+- **AIK** : (4) AIK Solna · AIK Fotboll · AIK Stockholm · Allmänna Idrottsklubben ⇒ (2) ≈Allmanna Idrottsklubben≈ · ≈Allmaenna Idrottsklubben≈
 - **IF Brommapojkarna** : (1) Brommapojkarna
 - **Djurgårdens IF** : (2) Djurgården · Djurgarden ⇒ (2) ≈Djurgarden≈ · ≈Djurgardens IF≈
 - **Hammarby IF** : (2) Hammarby · Hammarby Fotboll
@@ -10,9 +10,10 @@
 - **Qviding FIF**
 - **Örgryte Göteborg** : (1) Örgryte IS ⇒ (4) ≈Orgryte IS≈ · ≈OErgryte IS≈ · ≈Orgryte Goteborg≈ · ≈OErgryte Goeteborg≈
 - **Malmö FF** : (3) Malmö · Malmo FF · Malmö Fotbollförening ⇒ (6) ≈Malmo≈ · ≈Malmoe≈ · ≈Malmo FF≈ · ≈Malmoe FF≈ · ≈Malmo Fotbollforening≈ · ≈Malmoe Fotbollfoerening≈
+- **IFK Malmö** : (2) IFK Malmö Fotboll · Idrottsföreningen Kamraterna Malmö ⇒ (6) ≈IFK Malmo≈ · ≈IFK Malmoe≈ · ≈IFK Malmo Fotboll≈ · ≈IFK Malmoe Fotboll≈ · ≈Idrottsforeningen Kamraterna Malmo≈ · ≈Idrottsfoereningen Kamraterna Malmoe≈
 - **IF Elfsborg** : (1) Elfsborg
 - **Norrby IF**
-- **Helsingborgs IF** : (1) Helsingborg
+- **Helsingborgs IF** : (2) Helsingborg · Helsingborg IF
 - **Kalmar FF** : (1) Kalmar
 - **Örebro SK** : (3) Örebro · Orebro · Örebro Sportklubb ⇒ (6) ≈Orebro≈ · ≈OErebro≈ · ≈Orebro SK≈ · ≈OErebro SK≈ · ≈Orebro Sportklubb≈ · ≈OErebro Sportklubb≈
 - **Gefle IF** : (1) Gefle
@@ -38,6 +39,7 @@
 - **Degerfors IF**
 - **Varbergs BoIS**
 - **IK Brage** : (1) Brage
+- **Landskrona BoIS** : (1) Landskrona Boll och Idrottsällskap ⇒ (2) ≈Landskrona Boll och Idrottsallskap≈ · ≈Landskrona Boll och Idrottsaellskap≈
 
 
 
@@ -47,9 +49,9 @@ Alphabet
 - **Alphabet Specials** (5):  **Å**  **Ö**  **ä**  **å**  **ö** 
   - **Å**×5 U+00C5 (197) - LATIN CAPITAL LETTER A WITH RING ABOVE ⇒ A
   - **Ö**×8 U+00D6 (214) - LATIN CAPITAL LETTER O WITH DIAERESIS ⇒ O•OE
-  - **ä**×8 U+00E4 (228) - LATIN SMALL LETTER A WITH DIAERESIS ⇒ a•ae
+  - **ä**×9 U+00E4 (228) - LATIN SMALL LETTER A WITH DIAERESIS ⇒ a•ae
   - **å**×3 U+00E5 (229) - LATIN SMALL LETTER A WITH RING ABOVE ⇒ a
-  - **ö**×24 U+00F6 (246) - LATIN SMALL LETTER O WITH DIAERESIS ⇒ o•oe
+  - **ö**×28 U+00F6 (246) - LATIN SMALL LETTER O WITH DIAERESIS ⇒ o•oe
 
 
 
@@ -82,13 +84,16 @@ By City
   - Qviding FIF 
   - Örgryte Göteborg  (1) Örgryte IS
 - **Stockholm** (4): 
-  - AIK  (3) AIK Fotboll · Allmänna Idrottsklubben · AIK Stockholm
+  - AIK  (4) AIK Fotboll · Allmänna Idrottsklubben · AIK Stockholm · AIK Solna
   - IF Brommapojkarna  (1) Brommapojkarna
   - Djurgårdens IF  (2) Djurgården · Djurgarden
   - Hammarby IF  (2) Hammarby · Hammarby Fotboll
 - **Borås** (2): 
   - IF Elfsborg  (1) Elfsborg
   - Norrby IF 
+- **Malmö** (2): 
+  - Malmö FF  (3) Malmö · Malmo FF · Malmö Fotbollförening
+  - IFK Malmö  (2) IFK Malmö Fotboll · Idrottsföreningen Kamraterna Malmö
 - **Uppsala** (2): 
   - Dalkurd FF  (1) Dalkurd
   - IK Sirius  (2) Sirius · IK Sirius FK
@@ -98,12 +103,12 @@ By City
 - **Falkenberg** (1): Falkenbergs FF  (1) Falkenbergs
 - **Gävle** (1): Gefle IF  (1) Gefle
 - **Halmstad** (1): Halmstads BK  (2) Halmstad · Halmstads Bollklubb
-- **Helsingborg** (1): Helsingborgs IF  (1) Helsingborg
+- **Helsingborg** (1): Helsingborgs IF  (2) Helsingborg · Helsingborg IF
 - **Huskvarna** (1): Husqvarna FF 
 - **Jönköping** (1): Jönköpings Södra IF  (2) Jönköpings · Jönköpings Södra
 - **Kalmar** (1): Kalmar FF  (1) Kalmar
+- **Landskrona** (1): Landskrona BoIS  (1) Landskrona Boll och Idrottsällskap
 - **Ljungskile** (1): Ljungskile SK  (1) Ljungskile
-- **Malmö** (1): Malmö FF  (3) Malmö · Malmo FF · Malmö Fotbollförening
 - **Mjällby** (1): Mjällby AIF  (1) Mjallby
 - **Norrköping** (1): IFK Norrköping  (3) Norrköping · Norrkoping · IFK Norrköping FK
 - **Nyköping** (1): Nyköping BIS 
@@ -125,7 +130,7 @@ By Region
 
 - **Stockholm†** (4):   AIK · IF Brommapojkarna · Djurgårdens IF · Hammarby IF
 - **Göteborg†** (5):   IFK Göteborg · GAIS · BK Häcken · Qviding FIF · Örgryte Göteborg
-- **Malmö†** (1):   Malmö FF
+- **Malmö†** (2):   Malmö FF · IFK Malmö
 - **Borås†** (2):   IF Elfsborg · Norrby IF
 - **Helsingborg†** (1):   Helsingborgs IF
 - **Kalmar†** (1):   Kalmar FF
@@ -152,13 +157,15 @@ By Region
 - **Degerfors†** (1):   Degerfors IF
 - **Varberg†** (1):   Varbergs BoIS
 - **Borlänge†** (1):   IK Brage
+- **Landskrona†** (1):   Landskrona BoIS
 
 
 
 
 By Year
 
-- ? (38):   AIK · IF Brommapojkarna · Djurgårdens IF · Hammarby IF · IFK Göteborg · GAIS · BK Häcken · Qviding FIF · Örgryte Göteborg · Malmö FF · IF Elfsborg · Norrby IF · Helsingborgs IF · Kalmar FF · Örebro SK · Gefle IF · AFC Eskilstuna · Mjällby AIF · Åtvidabergs FF · Dalkurd FF · IK Sirius · Falkenbergs FF · Halmstads BK · Jönköpings Södra IF · Ljungskile SK · IFK Norrköping · Östers IF · Östersunds FK · GIF Sundsvall · Syrianska FC · Trelleborgs FF · FC Trollhättan · Husqvarna FF · Nyköping BIS · Västerås SK · Degerfors IF · Varbergs BoIS · IK Brage
+- **1915** (1):   Landskrona BoIS
+- ? (39):   AIK · IF Brommapojkarna · Djurgårdens IF · Hammarby IF · IFK Göteborg · GAIS · BK Häcken · Qviding FIF · Örgryte Göteborg · Malmö FF · IFK Malmö · IF Elfsborg · Norrby IF · Helsingborgs IF · Kalmar FF · Örebro SK · Gefle IF · AFC Eskilstuna · Mjällby AIF · Åtvidabergs FF · Dalkurd FF · IK Sirius · Falkenbergs FF · Halmstads BK · Jönköpings Södra IF · Ljungskile SK · IFK Norrköping · Östers IF · Östersunds FK · GIF Sundsvall · Syrianska FC · Trelleborgs FF · FC Trollhättan · Husqvarna FF · Nyköping BIS · Västerås SK · Degerfors IF · Varbergs BoIS · IK Brage
 
 
 
@@ -167,17 +174,17 @@ By Year
 
 By A to Z
 
-- **A** (6): AIK · AIK Fotboll · Atvidabergs · AIK Stockholm · AFC Eskilstuna · Allmänna Idrottsklubben
+- **A** (7): AIK · AIK Solna · AIK Fotboll · Atvidabergs · AIK Stockholm · AFC Eskilstuna · Allmänna Idrottsklubben
 - **B** (4): Brage · BK Häcken · Brommapojkarna · Bollklubben Häcken
 - **D** (6): Dalkurd · Dalkurd FF · Djurgarden · Djurgården · Degerfors IF · Djurgårdens IF
 - **E** (2): Elfsborg · Eskilstuna
 - **F** (3): Falkenbergs · FC Trollhättan · Falkenbergs FF
 - **G** (8): GAIS · Gefle · Gefle IF · Goteborg · Göteborg · GAIS Göteborg · GIF Sundsvall · Göteborgs Atlet- och Idrottssällskap
-- **H** (11): Hacken · Häcken · Halmstad · Hammarby · Hammarby IF · Helsingborg · Halmstads BK · Husqvarna FF · Helsingborgs IF · Hammarby Fotboll · Halmstads Bollklubb
-- **I** (10): IK Brage · IK Sirius · IF Elfsborg · IFK Goteborg · IFK Göteborg · IK Sirius FK · IFK Norrköping · IF Brommapojkarna · IFK Norrköping FK · Idrottsföreningen Kamraterna Göteborg
+- **H** (12): Hacken · Häcken · Halmstad · Hammarby · Hammarby IF · Helsingborg · Halmstads BK · Husqvarna FF · Helsingborg IF · Helsingborgs IF · Hammarby Fotboll · Halmstads Bollklubb
+- **I** (13): IK Brage · IFK Malmö · IK Sirius · IF Elfsborg · IFK Goteborg · IFK Göteborg · IK Sirius FK · IFK Norrköping · IF Brommapojkarna · IFK Malmö Fotboll · IFK Norrköping FK · Idrottsföreningen Kamraterna Malmö · Idrottsföreningen Kamraterna Göteborg
 - **J** (3): Jönköpings · Jönköpings Södra · Jönköpings Södra IF
 - **K** (2): Kalmar · Kalmar FF
-- **L** (2): Ljungskile · Ljungskile SK
+- **L** (4): Ljungskile · Ljungskile SK · Landskrona BoIS · Landskrona Boll och Idrottsällskap
 - **M** (6): Malmö · Mjallby · Malmo FF · Malmö FF · Mjällby AIF · Malmö Fotbollförening
 - **N** (4): Norrby IF · Norrkoping · Norrköping · Nyköping BIS
 - **O** (3): Orebro · Osters · Ostersunds

@@ -1,4 +1,4 @@
-72 clubs
+73 clubs
 
 - [**Paris Saint-Germain**](https://en.wikipedia.org/wiki/Paris_Saint-Germain_F.C.) : (7) Paris · Paris SG · Paris S. Germain · Paris St. Germain · Paris Saint Germain · Paris Saint-Germain FC · Paris-Saint-Germain Football Club
 - **Paris FC** : (1) Paris FC 98
@@ -6,7 +6,7 @@
 - [**Amiens SC**](https://en.wikipedia.org/wiki/Amiens_SC) : (1) Amiens
 - **FC Chambly** : (2) Chambly · Football Club Chambly Oise
 - [**Angers SCO**](https://en.wikipedia.org/wiki/Angers_SCO) : (3) Angers · SCO Angers · Angers Sporting Club de l'Ouest
-- [**Girondins de Bordeaux**](https://en.wikipedia.org/wiki/FC_Girondins_de_Bordeaux) : (4) Bordeaux · Girondins Bordeaux · FC Girondins de Bordeaux · Football Club des Girondins de Bordeaux
+- [**Girondins de Bordeaux**](https://en.wikipedia.org/wiki/FC_Girondins_de_Bordeaux) : (5) Bordeaux · Girondins Bordeaux · FC Girondins Bordeaux · FC Girondins de Bordeaux · Football Club des Girondins de Bordeaux
 - [**Stade Malherbe Caen**](https://en.wikipedia.org/wiki/Stade_Malherbe_Caen) : (3) Caen · SM Caen · Stade Malherbe de Caen
 - [**Dijon FCO**](https://en.wikipedia.org/wiki/Dijon_FCO) : (4) Dijon · FCO Dijon · Dijon Football · Dijon Football Côte-d'Or ⇒ (1) ≈Dijon Football Cote-d'Or≈
 - [**EA Guingamp**](https://en.wikipedia.org/wiki/En_Avant_de_Guingamp) : (3) Guingamp · En Avant Guingamp · En Avant de Guingamp
@@ -17,7 +17,7 @@
 - [**Montpellier HSC**](https://en.wikipedia.org/wiki/Montpellier_HSC) : (4) Montpellier · HSC Montpellier · Montpellier Hérault SC · Montpellier-Herault Sports Club ⇒ (1) ≈Montpellier Herault SC≈
 - [**FC Nantes**](https://en.wikipedia.org/wiki/FC_Nantes) : (2) Nantes · Football Club de Nantes
 - [**OGC Nice**](https://en.wikipedia.org/wiki/OGC_Nice) : (3) Nice · OGC Nizza [de] · Olympique Gymnaste Club Nice Côte d'Azur ⇒ (1) ≈Olympique Gymnaste Club Nice Cote d'Azur≈
-- [**Stade Rennais FC**](https://en.wikipedia.org/wiki/Stade_Rennais_F.C.) : (3) Rennes · Stade Rennes · Stade Rennais Football Club
+- [**Stade Rennais FC**](https://en.wikipedia.org/wiki/Stade_Rennais_F.C.) : (4) Rennes · Stade Rennes · Stade Rennais · Stade Rennais Football Club
 - [**AS Saint-Étienne**](https://en.wikipedia.org/wiki/AS_Saint-Étienne) : (3) St-Étienne · Saint-Étienne · Association Sportive de Saint-Étienne Loire ⇒ (4) ≈St-Etienne≈ · ≈Saint-Etienne≈ · ≈AS Saint-Etienne≈ · ≈Association Sportive de Saint-Etienne Loire≈
 - [**RC Strasbourg**](https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace) : (5) Strasbourg · Racing Strasbourg · RC Strasbourg Alsace · Racing Straßburg [de] · Racing Club de Strasbourg Alsace ⇒ (1) ≈Racing Strassburg≈
 - [**Toulouse FC**](https://en.wikipedia.org/wiki/Toulouse_FC) : (3) Toulouse · FC Toulouse · Toulouse Football Club
@@ -55,7 +55,7 @@
 - **Grenoble Foot 38** : (2) Grenoble · Grenoble Foot
 - **FC Gueugnon** : (1) Gueugnon
 - **FC Istres** : (1) Istres
-- **Stade Lavallois** : (2) Laval · Stade Lavallois Mayenne Football Club
+- **Stade Lavallois** : (4) Laval · Stade Laval · Stade Lavallois-Mayenne FC · Stade Lavallois Mayenne Football Club
 - **Le Mans FC** : (3) Le Mans · Le Mans UC 72 · Le Mans Football Club
 - **FC Libourne-Saint-Seurin** : (1) Libourne
 - **CS Louhans-Cuiseaux** : (1) Louhans-Cuis.
@@ -63,7 +63,7 @@
 - **FC Mulhouse** : (1) Mulhouse
 - **Perpignan FC** : (1) Perpignan
 - **FC Rouen** : (1) Rouen
-- **CS Sedan-Ardennes** : (1) Sedan
+- **CS Sedan-Ardennes** : (3) Sedan · CS Sedan · Club Sportif Sedan Ardennes
 - **FC Sète** : (1) Sete ⇒ (1) ≈FC Sete≈
 - **Stade Briochin** : (1) St Brieuc
 - **Sporting Toulon Var** : (1) Toulon
@@ -72,19 +72,21 @@
 - **Wasquehal Foot** : (1) Wasquehal
 - **Rodez AF** : (3) Rodez · Rodez Aveyron · Rodez Aveyron Football
 - **AS Béziers** : (2) Béziers · Avenir Sportif Béziers ⇒ (3) ≈Beziers≈ · ≈AS Beziers≈ · ≈Avenir Sportif Beziers≈
+- **Angoulême-Soyaux Charente** : (4) Angoulême · AS Angoulême · Angoulême CFC · Angoulême Charente FC ⇒ (5) ≈Angouleme≈ · ≈AS Angouleme≈ · ≈Angouleme CFC≈ · ≈Angouleme Charente FC≈ · ≈Angouleme-Soyaux Charente≈
 
 
 
 
 Alphabet
 
-- **Alphabet Specials** (8):  **É**  **ß**  **â**  **ç**  **è**  **é**  **î**  **ô** 
+- **Alphabet Specials** (9):  **É**  **ß**  **â**  **ç**  **è**  **é**  **ê**  **î**  **ô** 
   - **É**×12 U+00C9 (201) - LATIN CAPITAL LETTER E WITH ACUTE ⇒ E
   - **ß**×1 U+00DF (223) - LATIN SMALL LETTER SHARP S ⇒ ss
   - **â**×3 U+00E2 (226) - LATIN SMALL LETTER A WITH CIRCUMFLEX ⇒ a
   - **ç**×3 U+00E7 (231) - LATIN SMALL LETTER C WITH CEDILLA ⇒ c
   - **è**×1 U+00E8 (232) - LATIN SMALL LETTER E WITH GRAVE ⇒ e
   - **é**×18 U+00E9 (233) - LATIN SMALL LETTER E WITH ACUTE ⇒ e
+  - **ê**×5 U+00EA (234) - LATIN SMALL LETTER E WITH CIRCUMFLEX ⇒ e
   - **î**×4 U+00EE (238) - LATIN SMALL LETTER I WITH CIRCUMFLEX ⇒ i
   - **ô**×2 U+00F4 (244) - LATIN SMALL LETTER O WITH CIRCUMFLEX ⇒ o
 
@@ -121,11 +123,12 @@ By City
   - Paris FC  (1) Paris FC 98
 - **Amiens, Hauts-de-France** (1): Amiens SC  (1) Amiens
 - **Angers, Pays de la Loire** (1): Angers SCO  (3) Angers · Angers Sporting Club de l'Ouest · SCO Angers
+- **Angoulême** (1): Angoulême-Soyaux Charente  (4) Angoulême · AS Angoulême · Angoulême CFC · Angoulême Charente FC
 - **Auxerre** (1): AJ Auxerre  (2) Auxerre · Association de la Jeunesse Auxerroise
 - **Avignon** (1): AC Arles-Avignon  (3) Arles · AC Arles Avignon · Athletic Club Arles-Avignon
 - **Beauvais Oise** (1): AS Beauvais Oise  (1) Beauvais
 - **Besançon** (1): Racing Besançon  (2) Besançon · Besançon RC
-- **Bordeaux, Nouvelle-Aquitaine** (1): Girondins de Bordeaux  (4) Bordeaux · Girondins Bordeaux · FC Girondins de Bordeaux · Football Club des Girondins de Bordeaux
+- **Bordeaux, Nouvelle-Aquitaine** (1): Girondins de Bordeaux  (5) Bordeaux · Girondins Bordeaux · FC Girondins Bordeaux · FC Girondins de Bordeaux · Football Club des Girondins de Bordeaux
 - **Boulogne-sur-Mer** (1): US Boulogne  (1) Boulogne
 - **Bourg-en-Bresse** (1): Bourg-en-Bresse 01  (2) Bourg Peronnas · FC Bourg Peronnas
 - **Brest** (1): Stade Brestois 29  (3) Brest · Stade Brest · Stade Brestois
@@ -143,7 +146,7 @@ By City
 - **Gueugnon** (1): FC Gueugnon  (1) Gueugnon
 - **Guingamp** (1): EA Guingamp  (3) Guingamp · En Avant Guingamp · En Avant de Guingamp
 - **Istres** (1): FC Istres  (1) Istres
-- **Laval** (1): Stade Lavallois  (2) Laval · Stade Lavallois Mayenne Football Club
+- **Laval** (1): Stade Lavallois  (4) Laval · Stade Lavallois Mayenne Football Club · Stade Lavallois-Mayenne FC · Stade Laval
 - **Le Havre** (1): Le Havre AC  (3) Le Havre · Havre AC · Le Havre Athletic Club Football
 - **Le Mans, Pays de la Loire** (1): Le Mans FC  (3) Le Mans · Le Mans Football Club · Le Mans UC 72
 - **Lens** (1): RC Lens  (2) Lens · Racing Club de Lens
@@ -166,13 +169,13 @@ By City
 - **Orléans** (1): US Orléans  (3) Orléans · Union sportive Orléans Loiret football · US Orléans 45
 - **Petit-Quevilly** (1): US Quevilly-Rouen Métropole  (2) Quevilly Rouen · Quevilly-Rouen
 - **Reims** (1): Stade de Reims  (2) Reims · Stade Reims
-- **Rennes** (1): Stade Rennais FC  (3) Rennes · Stade Rennes · Stade Rennais Football Club
+- **Rennes** (1): Stade Rennais FC  (4) Rennes · Stade Rennes · Stade Rennais · Stade Rennais Football Club
 - **Rodez, Occitanie** (1): Rodez AF  (3) Rodez · Rodez Aveyron · Rodez Aveyron Football
 - **Rouen** (1): FC Rouen  (1) Rouen
 - **Saint-Brieuc** (1): Stade Briochin  (1) St Brieuc
 - **Saint-Ouen, Île-de-France** (1): Red Star FC  (2) Red Star · Red Star 93
 - **Saint-Étienne** (1): AS Saint-Étienne  (3) St-Étienne · Saint-Étienne · Association Sportive de Saint-Étienne Loire
-- **Sedan** (1): CS Sedan-Ardennes  (1) Sedan
+- **Sedan** (1): CS Sedan-Ardennes  (3) Sedan · CS Sedan · Club Sportif Sedan Ardennes
 - **Strasbourg** (1): RC Strasbourg  (5) Strasbourg · Racing Strasbourg · RC Strasbourg Alsace · Racing Club de Strasbourg Alsace · Racing Straßburg [de]
 - **Sète** (1): FC Sète  (1) Sete
 - **Thonon-les-Bains** (1): Évian TG FC  (5) Évian TG · Évian Thonon Gaillard · Évian Thonon Gaillard FC · Évian Thonon-Gaillard FC · Évian Thonon Gaillard Football Club
@@ -256,6 +259,7 @@ By Region
 - **Vannes†** (1):   Vannes OC
 - **Wasquehal†** (1):   Wasquehal Foot
 - **Occitanie** (2):   Rodez AF · AS Béziers
+- **Angoulême†** (1):   Angoulême-Soyaux Charente
 
 
 
@@ -271,7 +275,8 @@ By Year
 - **1910** (2):   AC Ajaccio · GFC Ajaccio
 - **1912** (1):   EA Guingamp
 - **1913** (1):   Stade Malherbe Caen
-- **1919** (2):   Angers SCO · AS Saint-Étienne
+- **1919** (3):   Angers SCO · AS Saint-Étienne · CS Sedan-Ardennes
+- **1920** (1):   Angoulême-Soyaux Charente
 - **1926** (1):   FC Lorient
 - **1929** (1):   Rodez AF
 - **1931** (1):   Stade de Reims
@@ -283,7 +288,7 @@ By Year
 - **1986** (1):   ES Troyes AC
 - **1989** (1):   FC Chambly
 - **2007** (2):   Évian TG FC · AS Béziers
-- ? (46):   Paris FC · Red Star FC · Amiens SC · Dijon FCO · RC Strasbourg · Nîmes Olympique · AJ Auxerre · Bourg-en-Bresse 01 · Stade Brestois 29 · LB Châteauroux · Clermont Foot 63 · Le Havre AC · AS Nancy Lorraine · Chamois Niortais FC · US Orléans · US Quevilly-Rouen Métropole · FC Sochaux-Montbéliard · Tours FC · Valenciennes FC · AC Arles-Avignon · CA Bastia · AS Beauvais Oise · Racing Besançon · US Boulogne · AS Cannes · FCO Charleville · US Créteil · SAS Épinal · Grenoble Foot 38 · FC Gueugnon · FC Istres · Stade Lavallois · Le Mans FC · FC Libourne-Saint-Seurin · CS Louhans-Cuiseaux · FC Martigues · FC Mulhouse · Perpignan FC · FC Rouen · CS Sedan-Ardennes · FC Sète · Stade Briochin · Sporting Toulon Var · ASOA Valence · Vannes OC · Wasquehal Foot
+- ? (45):   Paris FC · Red Star FC · Amiens SC · Dijon FCO · RC Strasbourg · Nîmes Olympique · AJ Auxerre · Bourg-en-Bresse 01 · Stade Brestois 29 · LB Châteauroux · Clermont Foot 63 · Le Havre AC · AS Nancy Lorraine · Chamois Niortais FC · US Orléans · US Quevilly-Rouen Métropole · FC Sochaux-Montbéliard · Tours FC · Valenciennes FC · AC Arles-Avignon · CA Bastia · AS Beauvais Oise · Racing Besançon · US Boulogne · AS Cannes · FCO Charleville · US Créteil · SAS Épinal · Grenoble Foot 38 · FC Gueugnon · FC Istres · Stade Lavallois · Le Mans FC · FC Libourne-Saint-Seurin · CS Louhans-Cuiseaux · FC Martigues · FC Mulhouse · Perpignan FC · FC Rouen · FC Sète · Stade Briochin · Sporting Toulon Var · ASOA Valence · Vannes OC · Wasquehal Foot
 
 
 
@@ -292,12 +297,12 @@ By Year
 
 By A to Z
 
-- **A** (27): Arles · Amiens · Angers · Ajaccio · Auxerre · AS Nancy · AS Cannes · Amiens SC · AC Ajaccio · AJ Auxerre · AS Béziers · Angers SCO · ASOA Valence · Ajaccio GFCO · AC Arles Avignon · AC Arles-Avignon · AS Beauvais Oise · AS Saint-Étienne · AS Nancy Lorraine · AS Nancy-Lorraine · Athletic Club Ajaccien · Avenir Sportif Béziers · Athletic Club Arles-Avignon · Angers Sporting Club de l'Ouest · Association Sportive Nancy-Lorraine · Association de la Jeunesse Auxerroise · Association Sportive de Saint-Étienne Loire
+- **A** (32): Arles · Amiens · Angers · Ajaccio · Auxerre · AS Nancy · AS Cannes · Amiens SC · Angoulême · AC Ajaccio · AJ Auxerre · AS Béziers · Angers SCO · AS Angoulême · ASOA Valence · Ajaccio GFCO · Angoulême CFC · AC Arles Avignon · AC Arles-Avignon · AS Beauvais Oise · AS Saint-Étienne · AS Nancy Lorraine · AS Nancy-Lorraine · Angoulême Charente FC · Athletic Club Ajaccien · Avenir Sportif Béziers · Angoulême-Soyaux Charente · Athletic Club Arles-Avignon · Angers Sporting Club de l'Ouest · Association Sportive Nancy-Lorraine · Association de la Jeunesse Auxerroise · Association Sportive de Saint-Étienne Loire
 - **B** (10): Brest · Bastia · Béziers · Beauvais · Besançon · Bordeaux · Boulogne · Besançon RC · Bourg Peronnas · Bourg-en-Bresse 01
-- **C** (15): Caen · Cannes · Chambly · Créteil · Clermont · CA Bastia · Charleville · Châteauroux · Clermont Foot · Chamois Niortais · Clermont Foot 63 · CS Sedan-Ardennes · CS Louhans-Cuiseaux · Chamois Niortais FC · Chamois Niortais Football Club
+- **C** (17): Caen · Cannes · Chambly · Créteil · CS Sedan · Clermont · CA Bastia · Charleville · Châteauroux · Clermont Foot · Chamois Niortais · Clermont Foot 63 · CS Sedan-Ardennes · CS Louhans-Cuiseaux · Chamois Niortais FC · Club Sportif Sedan Ardennes · Chamois Niortais Football Club
 - **D** (4): Dijon · Dijon FCO · Dijon Football · Dijon Football Côte-d'Or
 - **E** (6): EA Guingamp · ES Troyes AC · ESTAC Troyes · En Avant Guingamp · En Avant de Guingamp · Espérance Sportive Troyes Aube Champagne
-- **F** (27): FC Metz · FC Sète · FC Rouen · FC Tours · FC Istres · FC Nantes · FCO Dijon · FC Chambly · FC Lorient · FC Sochaux · FC Gueugnon · FC Mulhouse · FC Toulouse · FC Martigues · FC Valenciennes · FCO Charleville · FC Chamois Niort · FC Bourg Peronnas · Football Club de Metz · FC Sochaux-Montbéliard · Football Club de Nantes · FC Girondins de Bordeaux · FC Libourne-Saint-Seurin · Football Club Chambly Oise · Football Club Lorient-Bretagne Sud · Football Club de Sochaux-Montbéliard · Football Club des Girondins de Bordeaux
+- **F** (28): FC Metz · FC Sète · FC Rouen · FC Tours · FC Istres · FC Nantes · FCO Dijon · FC Chambly · FC Lorient · FC Sochaux · FC Gueugnon · FC Mulhouse · FC Toulouse · FC Martigues · FC Valenciennes · FCO Charleville · FC Chamois Niort · FC Bourg Peronnas · FC Girondins Bordeaux · Football Club de Metz · FC Sochaux-Montbéliard · Football Club de Nantes · FC Girondins de Bordeaux · FC Libourne-Saint-Seurin · Football Club Chambly Oise · Football Club Lorient-Bretagne Sud · Football Club de Sochaux-Montbéliard · Football Club des Girondins de Bordeaux
 - **G** (10): Grenoble · Gueugnon · Guingamp · GFC Ajaccio · Grenoble Foot · Gazélec Ajaccio · Grenoble Foot 38 · Girondins Bordeaux · Girondins de Bordeaux · Gazélec Football Club Ajaccio
 - **H** (2): Havre AC · HSC Montpellier
 - **I** (1): Istres
@@ -308,7 +313,7 @@ By A to Z
 - **P** (12): Paris · Paris FC · Paris SG · Perpignan · Paris FC 98 · Perpignan FC · Paris S. Germain · Paris St. Germain · Paris Saint Germain · Paris Saint-Germain · Paris Saint-Germain FC · Paris-Saint-Germain Football Club
 - **Q** (2): Quevilly Rouen · Quevilly-Rouen
 - **R** (18): Reims · Rodez · Rouen · Rennes · RC Lens · Red Star · Rodez AF · Red Star 93 · Red Star FC · RC Strasbourg · Rodez Aveyron · Racing Besançon · Racing Strasbourg · Racing Club de Lens · RC Strasbourg Alsace · Racing Straßburg [de] · Rodez Aveyron Football · Racing Club de Strasbourg Alsace
-- **S** (26): Sete · Sedan · SM Caen · Sochaux · SC Bastia · St Brieuc · SAS Épinal · SCO Angers · St-Étienne · Strasbourg · Stade Brest · Stade Reims · Stade Rennes · Saint-Étienne · Stade Brestois · Stade Briochin · Stade de Reims · Stade Lavallois · Stade Rennais FC · Stade Brestois 29 · Sporting Toulon Var · Stade Malherbe Caen · Stade Malherbe de Caen · Sporting Club de Bastia · Stade Rennais Football Club · Stade Lavallois Mayenne Football Club
+- **S** (29): Sete · Sedan · SM Caen · Sochaux · SC Bastia · St Brieuc · SAS Épinal · SCO Angers · St-Étienne · Strasbourg · Stade Brest · Stade Laval · Stade Reims · Stade Rennes · Saint-Étienne · Stade Rennais · Stade Brestois · Stade Briochin · Stade de Reims · Stade Lavallois · Stade Rennais FC · Stade Brestois 29 · Sporting Toulon Var · Stade Malherbe Caen · Stade Malherbe de Caen · Sporting Club de Bastia · Stade Lavallois-Mayenne FC · Stade Rennais Football Club · Stade Lavallois Mayenne Football Club
 - **T** (9): Tours · Toulon · Troyes · Toulouse · Tours FC · Troyes AC · Toulouse FC · Tours Football Club · Toulouse Football Club
 - **U** (8): US Créteil · US Orléans · US Boulogne · US Orléans 45 · US Créteil-Lusitanos · US Quevilly-Rouen Métropole · Union Sportive Créteil-Lusitanos · Union sportive Orléans Loiret football
 - **V** (6): Vannes · Valence · Vannes OC · Valenciennes · Valenciennes FC · Valenciennes Football Club
