@@ -59,7 +59,7 @@ Córdoba CF,       Córdoba
 Écija Balompié,   Écija
   | Écija
 Real Jaén CF,     Jaén
-  | Jaén | Real Jaén Club de Fútbol
+  | Jaén | Real Jaén | Real Jaén Club de Fútbol
 
 ## note: different from Granada 74 <=> Granda (CF) !!!
 ##   see https://es.wikipedia.org/wiki/Granada_74_Club_de_Fútbol
@@ -310,8 +310,6 @@ Real Madrid Castilla
 
 Club Marino Luanco, Luanco
   | Marino Luanco
-Real Jaén,  Jaén
-  | Real Jaén Club de Fútbol
 CF Illueca,  Illueca
   | Club de Fútbol Illueca
   | Illueca CF
