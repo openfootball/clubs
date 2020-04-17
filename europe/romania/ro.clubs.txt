@@ -114,9 +114,9 @@ Pandurii Târgu Jiu,  Târgu Jiu
 FC Politehnica Iași,   Iași
   | Poli Iasi | Poli Iași | Politehnica Iași
   | CSMS Iasi | CSM Politehnica Iași     ## check - older name?
-  | CSMS laşi
   | CSM Politehnica Iaşi   ## todo/check: unaccent ro - auto-generate with cedilla from with ...
   | Politehnica Iaşi
+  ##  | CSMS laşi     -- todo/check: typo?  l is a small letter l ?
 
 Poli Timișoara, Timișoara
   | Timişoara | ACS Poli Timișoara
