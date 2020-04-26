@@ -5,7 +5,7 @@
 == Hovedstaden ==
 FC København, 1992,    København         ## Copenhagen [en]
   | København | Football Club København
-  | FC Copenhagen [en]
+  | Copenhagen | FC Copenhagen [en]
   | FC Kopenhagen [de]
 
 B 1903 København (1903-1992),     København      # champs (3): 1977/78 1972..1970 (2)
