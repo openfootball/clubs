@@ -2,7 +2,7 @@
 
 ## Club Names Trivia
 
-###- Starting with/Ending in Numbers
+### Starting with/Ending in Numbers
 
 In Germany
 
