@@ -46,6 +46,8 @@ SR Donaufeld
 
 FC Stadlau
 SC Red Star Penzing
+  | Red Star Penzing
+
 
 == Burgenland ==
 
@@ -99,6 +101,7 @@ ii) SKN St. Pölten Juniors
 
 SV Horn,  1922,   Horn
 ii) Horn Amateure
+  | SV Horn II
 
 SKU Amstetten,   Amstetten
   | Amstetten SKU
@@ -131,7 +134,9 @@ ATSV Ober-Grafendorf
   | Ober-Grafendorf
 ASK Kottingbrunn
 ASV Spratzern
-SC Krems
+
+SC Krems,  Krems
+  | Kremser SC
 
 
 #  add Gebietsliga NW/Wald.  --  6-noe-nordwest-waldviertel
@@ -161,6 +166,9 @@ USV Groß Gerungs
   | Groß Gerungs
 USV Langenlois, Langenlois
   | Langenlois
+
+SC Admira Gföhl
+USV Raabs/Thaya
 
 
 == Oberösterreich ==
@@ -198,12 +206,14 @@ SK Vorwärts Steyr,   Steyr
   | Vorwärts Steyr
 
 FC Wels,         Wels
+  | Wels FC
 WSC Hertha Wels, Wels
 
 Union Vöcklamarkt, Vöcklamarkt
   | Vöcklamarkt
 
 ATSV Stadl-Paura, Stadl-Paura
+  | Stadl-P. ATSV
 Union Gurten,        Gurten
   | Gurten
 
@@ -243,6 +253,8 @@ TuS Bad Gleichenberg,  Bad Gleichenberg
   | Bad Gleichenberg
 Deutschlandsberger SC, Deutschlandsberg
   | Deutschlandsberg
+  | DSC Deutschlandsberg
+
 FC Gleisdorf 09,       Gleisdorf
   | FC Gleisdorf
 SC Kalsdorf,           Kalsdorf
@@ -280,6 +292,9 @@ SAK Klagenfurt, Klagenfurt
   | Slovenski atletski klub | Slowenischer AK
   | SAK Celovec/Klagenfurt
 
+ASV Annabichler SV 1923,   Klagenfurt (Annabichl)
+  | Annabichler SV
+  | ASV
 
 
 
@@ -290,8 +305,9 @@ FC St. Veit
 FC Lendorf
   | Lendorf
 
-ASV Annabichler SV 1923
+
 ASKÖ Köttmannsdorf
+  | Köttmannsdorf
 VST Völkermarkt
 
 == Salzburg ==
@@ -360,6 +376,7 @@ SV Wörgl
 SC Imst
 SV Hall
 SVG Reichenau
+  | Reichenau SVG
 FC Zirl
 SV Reutte
 
@@ -395,6 +412,7 @@ FC Wolfurt
   | Meusburger FC Wolfurt    ## $$$ Meusburger is a sponsor
 SW Bregenz,   Bregenz
   | SC Schwarz-Weiß Bregenz
+  | Bregenz SW
   | SC Bregenz     ## todo/check if SC Bregenz exists as its own independent club??
 
 FC Hard

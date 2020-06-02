@@ -408,12 +408,17 @@ FK Pirmasens
 
 == Schleswig-Holstein ==
 
-VfB Lübeck,          Lübeck  › Schleswig-Holstein
+VfB Lübeck,          Lübeck
   | Lübeck
-Holstein Kiel,       Kiel    › Schleswig-Holstein
+Holstein Kiel,       Kiel
   | Kiel
 
 VfR Neumünster
+
+SC Weiche Flensburg 08,     Flensburg (Weiche)
+
+
+
 
 
 == Mecklenburg-Vorpommern ==
