@@ -88,7 +88,8 @@ Esporte Clube Juventude, 1913, Caxias do Sul
 
 == Paraná ==
 Atlético PR,   Curitiba
-  | Athl Paranaense | Atlético Paranaense | C Atlético Paranaense | Clube Atlético Paranaense
+  | Atl Paranaense | Athl Paranaense | Atlético Paranaense 
+  | C Atlético Paranaense | Clube Atlético Paranaense
   | Athletico-PR [en] | Athletico Paranaense [en] | Club Athletico Paranaense [en]
 Coritiba PR,   Curitiba
   | Coritiba | Coritiba FC | Coritiba Football Club
