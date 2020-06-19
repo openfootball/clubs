@@ -26,6 +26,7 @@ SC Team Wiener Linien,   Wien (Favoriten)
 Wiener Sport-Club,       Wien (Hernals)
   | Wiener Sportklub | Wiener SK | Wr. Sportklub
   | Wiener SC
+  | Sportclub
 
 First Vienna FC,  1894,  Wien (Döbling)
   | Vienna | Vienna FC 1894 | First Vienna FC 1894
@@ -90,6 +91,13 @@ ii) FC Admira Wacker Mödling II
   | FC Admira Wacker II
   | Admira Amateure | Admira Juniors
 
+
+VfB Mödling (1911-1977),  Mödling
+  | Verein für Bewegungsspiele Mödling
+# Fusion mit Fusion mit FC Admira/Wacker aus der Südstadt
+#    zum VfB Admira Wacker Mödling
+
+
 SC Wiener Neustadt, 1908,  Wr. Neustadt
   | Neustadt | Wr. Neustadt | SC Wr. Neustadt | Wiener Neustadt
  Giltschwertgasse 81 // 2700 Wr. Neustadt
@@ -98,6 +106,10 @@ SKN St. Pölten, 2000,      St. Pölten
   | St. Pölten | Sportklub Niederösterreich St. Pölten
   | SKN Sankt Pölten
 ii) SKN St. Pölten Juniors
+
+VSE St. Pölten (1920-1998), St. Pölten
+  | Voith-Schwarze Elf St. Pölten
+
 
 SV Horn,  1922,   Horn
 ii) Horn Amateure
@@ -176,10 +188,21 @@ USV Raabs/Thaya
 LASK Linz, 1899,      Linz (Pasching)          ## use Pasching ??
   | LASK | Linzer ASK
 ii) FC Juniors OÖ     ## todo/(double) check: is a not a feeder / reserve team / club ?
-  | Juniors OÖ
+  | Juniors OÖ        ##  bis Juli 2017 FC Pasching (merge with FC Pasching!! see below)
 
-FC Pasching,         Linz (Pasching)
+FC Pasching,   2007        Linz (Pasching)
   | Pasching
+  | FC Superfund Pasching
+# im Jahr 2007 als FC Superfund Pasching neu gegründet
+
+ASKÖ Pasching (1946-2007), Linz (Pasching)
+  | FC Superfund
+  | SV PlusCity Pasching
+# unter den Sponsorbezeichnungen SV PlusCity Pasching und FC Superfund
+#   von 2002/03 bis 2006/07 insgesamt fünf Saisonen in der Bundesliga.
+# Medial wurde in dieser Zeit der Verein auch mit
+# den umgangssprachlichen Namen SV Pasching, FC Pasching
+# bezeichnet.
 
 FC Blau-Weiß Linz, Linz
   | BW Linz | Blau-Weiß Linz
@@ -411,7 +434,7 @@ VfB Hohenems
 FC Wolfurt
   | Meusburger FC Wolfurt    ## $$$ Meusburger is a sponsor
 SW Bregenz,   Bregenz
-  | SC Schwarz-Weiß Bregenz
+  | Schwarz-Weiß Bregenz | SC Schwarz-Weiß Bregenz
   | Bregenz SW
   | SC Bregenz     ## todo/check if SC Bregenz exists as its own independent club??
 

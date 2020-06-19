@@ -38,7 +38,7 @@ Barnet FC,           @ The Hive Stadium, London ##   London (Canons Park ??)  or
   | Barnet
 Dagenham & Redbridge FC,  @ Victoria Road,  London  ##  London (Dagenham)  or London-Dagenham
   | Dagenham & Red. | Dagenham & Redbridge
-  | Dag and Red | Dagenham and Redbridge 
+  | Dag and Red | Dagenham and Redbridge
 
 Bromley FC,                London   ## London-Bromley
   | Bromley | FC Bromley
@@ -88,7 +88,7 @@ Wigan Borough FC (1920-1931),   Wigan › Greater Manchester    #  Lancashire
   | Wigan Borough
 Atherton Collieries,    Atherton › Greater Manchester    # in the Metropolitan Borough of Wigan
     | Atherton Colli. | Atherton Collieries AFC
- 
+
 Oldham Athletic AFC,    @ Boundary Park,  Oldham › Greater Manchester
   | Oldham  | Oldham Athletic
 Stockport County FC,    Stockport › Greater Manchester
@@ -163,7 +163,7 @@ Solihull Moors FC,   Solihull › West Midlands
 Stafford Rangers FC,   Stafford › West Midlands
   | Stafford Rangers
 Stourbridge FC,    Stourbridge › West Midlands
-  | Stourbridge Football Club  
+  | Stourbridge Football Club
 
 
 
@@ -278,6 +278,7 @@ Maidenhead United FC,   Maidenhead › Berkshire
 
 Brighton & Hove Albion FC,  @ American Express Stadium,  Falmer › East Sussex     # Brighton?
   | Brighton |  Brighton & Hove | Brighton & Hove Albion
+  | Brighton Hove Albion
 Crawley Town FC,         @ Broadfield Stadium,   Crawley › West Sussex
   | Crawley Town
 Eastbourne Borough FC,   Eastbourne › East Sussex
@@ -450,11 +451,11 @@ Durham City AFC, Durham › Durham
 Salisbury City FC (1947-2014),  Salisbury › Wiltshire
   | Salisbury | Salisbury City
 Salisbury FC (2015-),  Salisbury › Wiltshire
-# note: <=> see Salisbury City FC for the club that existed between 1947 and 2014; 
-#         for the original Salisbury City club, see Salisbury City FC (1905) 
+# note: <=> see Salisbury City FC for the club that existed between 1947 and 2014;
+#         for the original Salisbury City club, see Salisbury City FC (1905)
 #  merge them all together here? or keep it separate like wikipedia? why? why not?
-  
-  
+
+
 Nuneaton Borough FC,    Nuneaton › Warwickshire
   | Nuneaton Town
 

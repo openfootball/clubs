@@ -20,6 +20,13 @@ Paris FC,            Paris › Île-de-France
 Red Star FC,   Saint-Ouen › Île-de-France
   | Red Star | Red Star 93
 
+Racing Club de France, 1882,    Paris (Colombes) › Île-de-France
+  | Racing Club de France Football
+  | Racing Paris
+  | RCF Paris
+  ## also known as Matra Racing, Racing Club, or Racing
+
+
 
 Amiens SC,             Amiens   › Hauts-de-France
   | Amiens

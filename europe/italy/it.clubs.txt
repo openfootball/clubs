@@ -64,6 +64,10 @@ Udinese Calcio, Udine
 
 Ascoli, Ascoli Piceno
   | Ascoli FC
+  | Ascoli Calcio
+  | Ascoli Calcio 1898 FC
+
+
 Avellino, Avellino
   | US Avellino 1912 | Unione Sportiva Avellino 1912
   | AS Avellino | Associazione Sportiva Avellino 1912
@@ -89,7 +93,16 @@ Cremonese, Cremona
   | US Cremonese
 Empoli, Empoli
   | Empoli FC | Empoli Football Club | FC Empoli
-Foggia, Foggia
+
+
+Calcio Foggia 1920,     Foggia
+  | Calcio Foggia 1920 SSD
+  | US Foggia
+  | Foggia
+# Foggia Calcio went bankrupt in 2004
+# and was replaced by U.S. Foggia, which itself was declared bankrupt in 2012
+
+
 Frosinone, Frosinone
   | Frosinone Calcio
 Novara, Novara
@@ -109,14 +122,23 @@ AC Perugia, 1905,  Perugia
 Pescara, Pescara
   | Pescara Calcio
 Pro Vercelli, Vercelli
+
 Salernitana, Salerno
   | Salernitana Calcio
+  | US Salernitana 1919
+  | US Salernitana
+  | Unione Sportiva Salernitana 1919
+  | Salernitana Calcio 1919
+
+
 Spezia, La Spezia
   | Spezia Calcio
 Ternana, Terni
   | Ternana Calcio
 Venezia, Venezia
   | SSC Venezia
+  | FBC Unione Venezia | Foot Ball Club Unione Venezia
+
 Virtus Entella, Chiavari
 
 
@@ -141,6 +163,11 @@ SS Robur Siena, Siena
 US Anconitana ASD, Ancona
   | Ancona
 
+AC Ancona,    Ancona
+  | Associazione Calcio Ancona
+  | Ancona Calcio
+
+
 Cosenza Calcio, Cosenza
   | Cosenza
 SS Fidelis Andria, Andria
@@ -158,10 +185,20 @@ AC Reggiana, Reggio Emilia
   | Reggiana | AC Reggiana 1919
   | Reggio Audace | Reggio Audace FC
   | Reggio Audace Football Club
+
 Urbs Reggina, Reggio Calabria
   | Reggina | Urbs Reggina 1914
+
+Reggina 1914,    Reggio Calabria
+  | Reggina Calcio
+
+
 ACD Treviso, Treviso
   | Treviso
+  | Associazione Calcio Dilettanti Treviso
+  | Football Club Treviso | FC Treviso | FBC Treviso
+
+
 ASD Castel di Sangro, Castel di Sangro
   | C. Sangro
 Unione Calcio Albinoleffe, Albino e Leffe
@@ -169,11 +206,19 @@ Unione Calcio Albinoleffe, Albino e Leffe
 Calcio Catania, Catania
   | Catania | Catania Calcio
 Como 1907, Como
-  | Como | Como Calcio
+  | Como
+  | Como Calcio | Calcio Como
+
+
 AS Livorno Calcio, 1915,  Livorno
   | Livorno | AS Livorno | Associazione Sportiva Livorno Calcio
+
 ACR Messina SSD, Messina
   | Messina
+  | ACR Messina
+  | Associazioni Calcio Riunite Messina
+
+
 US Triestina Calcio, Trieste
   | Triestina | Triestina Calcio | US Triestina Calcio 1918
 SS Arezzo, Arezzo
@@ -202,9 +247,15 @@ Mantova SSD, Mantova
   | Mantova | Mantova 1911 SSD
 ASD Nocerina, Nocera Inferiore
   | Nocerina | ASD Nocerina 1910
+
 AC Pisa,        Pisa
   | Pisa | AC Pisa 1909
-  | SC Pisa [de]
+  | Associazione Calcio Pisa 1909
+  | Pisa SC | Pisa Sporting Club
+  | SC Pisa
+  | Pisa Calcio
+
+
 US Pistoiese,    Pistoia
   | Pistoiese | US Pistoiese 1921
   | AC Pistoiese
@@ -253,3 +304,6 @@ Paganese Calcio, Pagani
   | Paganese | Paganese Calcio 1926
 Vibonese Calcio, Vibo Valentia
   | Vibonese | US Vibonese Calcio | Unione Sportiva Vibonese Calcio
+
+
+

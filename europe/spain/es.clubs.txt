@@ -89,6 +89,15 @@ Girona FC,           Gerona
 CF Reus,  1909,      Reus
   | Reus Deportiu | CF Reus Deportiu | Club de Futbol Reus Deportiu
 
+Lleida Esportiu,   Lleida
+  | Club Lleida Esportiu
+
+UE Lleida (1939-2011),   Lleida
+  | Lleida | Lerida
+  | Unió Esportiva Lleida
+# The soul of the club was reformed as Lleida Esportiu
+
+
 
 == Galicia ==
 
@@ -177,6 +186,10 @@ Extremadura UD,   Almendralejo
 CP Mérida,       Mérida
   | Mérida
 
+Mérida AD, 2013,   Mérida     # Successor of CP Mérida, founded in 1912
+  | Mérida Asociación Deportiva
+
+
 
 == Castilla y León ==
 
@@ -189,7 +202,8 @@ CD Mirandés, Miranda de Ebro
 == Región de Murcia ==
 
 Real Murcia CF,      Murcia
-  | Murcia | Real Murcia Club de Fútbol
+  | Murcia | Real Murcia | Real Murcia Club de Fútbol
+
 UCAM Murcia,         Murcia
 CF Ciudad de Murcia, Murcia
   | Ciudad de Murcia
@@ -245,8 +259,6 @@ CD Leganés
   | Leganés | Club Deportivo Leganés
 Cultural Leonesa
   | Leonesa
-UE Lleida
-  | Lleida | Lerida
 UE Llagostera
   | Llagostera
 
