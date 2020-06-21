@@ -3,6 +3,7 @@
 
 
 == Noord-Holland ==
+## also known as North Holland
 
 Ajax Amsterdam, 1900,    Amsterdam › Noord-Holland
   | Ajax | AFC Ajax | Amsterdamsche Football Club Ajax
@@ -31,25 +32,47 @@ HFC Haarlem (1889-2010),  Haarlem
   | Haarlem FC | FC Haarlem
 
 
-== Zuid-Holland ==
+FC Volendam, Volendam
+  | Volendam
 
-Feyenoord Rotterdam, 1908,     Rotterdam › Zuid-Holland
+
+== Zuid-Holland ==
+## also known as South Holland
+
+Feyenoord Rotterdam, 1908,     Rotterdam
   | Feyenoord
 
-Sparta Rotterdam,        Rotterdam › Zuid-Holland
+Sparta Rotterdam,        Rotterdam
   | Sparta | Sparta R'dam
 SBV Excelsior Rotterdam, 1902,   Rotterdam › Zuid-Holland    ## use SBV Excelsior - why? why not?
   | Excelsior | SBV Excelsior | Stichting Betaald Voetbal Excelsior
   | Excel. Rotterdam
 
 
-ADO Den Haag, 1905,    Den Haag › Zuid-Holland
+ADO Den Haag, 1905,    Den Haag
   | Den Haag | Alles Door Oefening Den Haag
   | FC Den Haag
 # The club was for a time known as FC Den Haag
 
-FC Dordrecht,    Dordrecht › Zuid-Holland
+FC Dordrecht,    Dordrecht
   | Dordrecht | Dordrecht '90
+
+SV SVV,  1904,   Schiedam
+  | SVV Schiedam
+  | Sportvereniging Schiedamse Voetbal Verenigingen
+
+
+== Utrecht ==
+
+FC Utrecht, 1970,   Utrecht
+  | Utrecht | Football Club Utrecht
+ii) Jong FC Utrecht
+
+DOS Utrecht, (1901-1970),   Utrecht
+  | VV DOS         #  champs (1): 1958/59
+  | Voetbalvereniging Door Oefening Sterk
+# In 1970 it merged with USV Elinkwijk and Velox to form FC Utrecht.
+
 
 
 == Friesland ==
@@ -61,14 +84,24 @@ SC Heerenveen, 1920,   Heerenveen
 
 
 == Noord-Brabant ==
-FC Den Bosch,    's-Hertogenbosch › Noord-Brabant
-  | Den Bosch
+FC Den Bosch,  1965,  's-Hertogenbosch › Noord-Brabant
+  | Den Bosch | Football Club Den Bosch
+  | BVV Den Bosch | FC Den Bosch/BVV
+#  founded 18 August 1965, as FC Den Bosch/BVV
+#  the successor of BVV (1906) and Wilhelmina (1890)
+#
+#  club names:
+#  - FC Den Bosch/BVV (1965–1967)
+#  - FC Den Bosch '67 (1967–1988)
+#  - BVV Den Bosch (1988–1992)
+#  - FC Den Bosch (1992–present)
+
 
 NAC Breda, 1912,  Breda
-  | NOAD ADVENDO Combinatie Breda | NAC
+  | NAC | NOAD ADVENDO Combinatie Breda
 
 PSV Eindhoven, 1913,   Eindhoven
-  | Philips Sport Vereniging | PSV
+  | PSV | Philips Sport Vereniging
 ii) Jong PSV
   | Jong PSV Eindh.
 
@@ -88,6 +121,11 @@ FC Oss, 1928,  Oss
 Helmond Sport,  Helmond
 
 
+RBC Roosendaal, Roosendaal
+  | Roosendaal
+
+
+
 == Limburg ==
 Fortuna Sittard, Sittard › Limburg
   | For Sittard | SC Fortuna Sittard
@@ -99,7 +137,8 @@ Roda JC Kerkrade, 1962,   Kerkrade
 VVV Venlo, 1903,    Venlo     ## use VVV-Venlo - why? why not?
   | VVV | VVV-Venlo | Venlo | Venlose Voetbal Vereniging Venlo
 
-MVV Maastricht, Maastricht
+MVV Maastricht, 1902,  Maastricht
+  | MVV | Maatschappelijke Voetbal Vereniging Maastricht
 
 
 Rapid JC Heerlen (1954-1962),  Heerlen
@@ -129,37 +168,33 @@ Almere City FC,  2001,  Almere
   | Almere City
 
 
-== ??? ==
+== Gelderland ==
+## also known as Guelders
 
-BV De Graafschap, 1954,    Doetinchem  ## Gelderland
-  | Graafschap  | De Graafschap | Vereniging Betaald Voetbal De Graafschap
-
-FC Groningen, 1971,  Groningen  ## Groningen
-  | Groningen | Football Club Groningen
-
-
-NEC Nijmegen, 1900,  Nijmegen    ## Gelderland
-  | Nijmegen | Nijmegen Eendracht Combinatie | NEC
-
-RBC Roosendaal, Roosendaal
-  | Roosendaal
-
-FC Utrecht, 1970,   Utrecht   ## Utrecht
-  | Utrecht | Football Club Utrecht
-ii) Jong FC Utrecht
-
-DOS Utrecht, (1901-1970),   Utrecht
-  | VV DOS         #  champs (1): 1958/59
-  | Voetbalvereniging Door Oefening Sterk
-# In 1970 it merged with USV Elinkwijk and Velox to form FC Utrecht.
-
-
-Vitesse Arnhem, 1892,  Arnhem   ## Gelderland
+Vitesse Arnhem, 1892,  Arnhem
   | Vitesse | SBV Vitesse | Stichting Betaald Voetbal Vitesse
   | Vitesse Arnheim [de]
 
-FC Volendam, Volendam
-  | Volendam
+BV De Graafschap, 1954,    Doetinchem
+  | Graafschap | De Graafschap | Vereniging Betaald Voetbal De Graafschap
 
-FC Emmen,    Emmen   ## Drenthe
+NEC Nijmegen, 1900,  Nijmegen
+  | NEC | Nijmegen | Nijmegen Eendracht Combinatie
+
+
+== Groningen ==
+
+FC Groningen, 1971,  Groningen
+  | Groningen | Football Club Groningen
+
+
+== Drenthe ==
+
+FC Emmen,    Emmen
   | Emmen | FC Emmen VV
+
+
+
+
+
+

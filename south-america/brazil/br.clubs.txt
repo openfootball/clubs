@@ -16,16 +16,27 @@ Palmeiras SP,  São Paulo
   | SE Palmeiras São Paulo
   | Sociedade Esportiva Palmeiras
 Santos SP,      Santos
-  | Santos |Santos FC | FC Santos | Santos Futebol Clube
+  | Santos | Santos FC | FC Santos | Santos Futebol Clube
 Ponte Preta,    Campinas
   | AA Ponte Preta | Associação Atlética Ponte Preta
   | AA Ponte Preta SP
-CA Bragantino, Bragança Paulista
+
+CA Bragantino (1928-2019),  Bragança Paulista
   | Bragantino | Clube Atlético Bragantino
-RB Bragantino, Bragança Paulista
+# On 5 April 2019 the team merged with Red Bull Brasil
+#  to form Red Bull Bragantino
+
+RB Bragantino, 2019,        Bragança Paulista
   | Bragantino
-  | Red Bull Bragantino     ## todo/check: Red Bull Brazil merged with CA Prgantino?
+  | Red Bull Bragantino
   | RB Bragantino SP
+  | RB Braga
+# merger of Clube Atlético Bragantino with Red Bull Brasil
+
+RB Brasil, 2007,  Campinas     #  now kind of the b team of RB Bragantino
+  | RBB | Red Bull Brasil
+
+
 Oeste SP,      Itápolis
   | Oeste | Oeste FC | Oeste Futebol Clube
   | Oeste FC SP
@@ -42,6 +53,23 @@ São Bento,  Sorocaba
 AD São Caetano, 1989, São Caetano
   | São Caetano | Associação Desportiva São Caetano
 
+União São João, 1981,    Araras
+  | União São João Esporte Clube
+Grêmio Barueri, 1989,     Barueri
+  | Barueri | Grêmio Barueri Futebol
+  | Grêmio Recreativo Barueri
+  | Grêmio Prudente Futebol Ltda
+# was formerly known as Grêmio Recreativo Barueri
+#                   and Grêmio Prudente Futebol Ltda
+
+Santo André,  1967,   Santo André
+  | Esporte Clube Santo André
+  | Santo André EC
+
+São José, 1933,  São José
+  | São José Esporte Clube
+  | São José EC
+
 
 == Rio de Janeiro ==
 Botafogo RJ,     Rio de Janeiro
@@ -57,6 +85,10 @@ CR Vasco da Gama,   Rio de Janeiro
   | Vasco da Gama Rio de Janeiro
   | Club de Regatas Vasco da Gama
 
+America RJ, 1904,  Mesquita
+  | America | America Football Club
+  | America Football Club (Rio de Janeiro)
+# see https://en.wikipedia.org/wiki/América_Football_Club for may refer to...
 
 
 == Minas Gerais ==
@@ -74,21 +106,38 @@ Tupi MG,   Juiz de Fora
   | Tupi | Tupi FC | Tupi Football Club
 
 
+Ipatinga Futebol Clube, 1998, Ipatinga
+  | Ipatinga
+  | Betim EC | Betim Esporte Clube
+# During the 2013 season club played in Betim (Betim Esporte Clube)
+# shortly after returned to Ipatinga in 2015.
+
+Betim FC, 2006,   Betim
+  | Betim Futebol Clube
+
+
 == Rio Grande do Sul ==
-Grêmio RS,      Porto Alegre
+Grêmio RS,                     Porto Alegre
   | Gremio | Grêmio | Grêmio Porto Alegre | Grêmio FBPA | Grêmio Foot-Ball Porto Alegrense
-Internacional Porto Alegre,  Porto Alegre
+Internacional Porto Alegre,    Porto Alegre
   | Internacional | SC Internacional | Internacional RS | Sport Club Internacional
+
 Brasil RS,  Pelotas
   | Brasil de Pelotas
   | GE Brasil | Grêmio Esportivo Brasil | Grêmio Esportivo Brasil de Pelotas
 Esporte Clube Juventude, 1913, Caxias do Sul
-  | Juventude
+  | Juventude | Juventude RS
+
+== Rio Grande do Norte ==
+América de Natal,  1915,    Natal
+  | América Futebol Clube | América FC
+  | América RN
+  | América Futebol Clube (RN)
 
 
 == Paraná ==
 Atlético PR,   Curitiba
-  | Atl Paranaense | Athl Paranaense | Atlético Paranaense 
+  | Atl Paranaense | Athl Paranaense | Atlético Paranaense
   | C Atlético Paranaense | Clube Atlético Paranaense
   | Athletico-PR [en] | Athletico Paranaense [en] | Club Athletico Paranaense [en]
 Coritiba PR,   Curitiba
@@ -113,18 +162,19 @@ Criciúma EC,   Criciúma
   | Criciúma SC | Criciúma EC SC
 Avaí FC,       Florianópolis
   | Avaí | Avaí FC SC | Avaí Futebol Clube
-Joinvile EC,     Joinville
-  | Joinvile
+Joinville EC,     Joinville
+  | JEC | Joinville
   | Joinville | Joinville Esporte Clube     ## check spelling use ville or vile ?
-
 
 == Pernambuco ==
 Sport Recife,    Recife
-  | Sport | Sport PE | Sport Recife PE | Sport Club do Recife
+  | Sport | Sport PE | Sport Recife PE
+  | Sport Club Recife | Sport Club do Recife
 Santa Cruz,      Recife
   | Santa Cruz FC | Santa Cruz Futebol Clube
 Náutico PE,  Recife
-  | Nautico | Náutico | C Náutico Capibaribe | Clube Náutico Capibaribe
+  | Náutico | C Náutico Capibaribe | Clube Náutico Capibaribe
+  | Clube Náutico
 
 == Bahia ==
 EC Vitória,      Salvador
@@ -152,11 +202,15 @@ Fortaleza,     Fortaleza
 Paysandu SC,   Belém
   | Paysandu | Paysandu Sport Club
 
+Clube do Remo,  1905,  Belém
+  | Remo
+
 == Alagoas ==
 CRB AL,    Maceió
   | CRB | CR Brasil AL | Clube de Regatas Brasil
-CSA,       Maceió
-  | CSA AL | CS Alagoano AL | Centro Sportivo Alagoano
+CS Alagoano,  1913,   Maceió
+  | CSA | CSA AL | CS Alagoano AL | Centro Sportivo Alagoano
+
 
 == Mato Grosso ==
 Luverdense EC, Lucas do Rio Verde
@@ -167,3 +221,20 @@ Cuiabá, Cuiabá
 == Maranhão ==
 Sampaio Corrêa FC, São Luís › Maranhão
   | Sampaio Corrêa | Sampaio Corrêa Futebol Clube
+
+== Espírito Santo ==
+
+Desportiva Ferroviária,  1963,   Cariacica
+  | Desportiva | Desportiva-ES
+  | Associação Desportiva Ferroviária Vale do Rio Doce
+  | Desportiva Capixaba
+
+
+== Distrito Federal ==
+
+Sociedade Esportiva do Gama, 1975,   Gama
+  | Gama | SE Gama
+
+Brasiliense FC,  2000,     Taguatinga
+  | Brasiliense | Brasiliense Futebol Clube
+

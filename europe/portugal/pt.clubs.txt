@@ -24,6 +24,12 @@ UD Vilafranquense,    Vila Franca de Xira   # a municipality in the Lisbon Distr
 CD Mafra,  Mafra                            # a city and a municipality in the district of Lisbon
   | Clube Desportivo Mafra
 
+SC União Torreense, 1917,   Torres Vedras   #  a municipality in the district of Lisbon
+  | União Torreense
+  | SCU Torreense | Sport Clube União Torreense
+  | Sport União Torreense
+
+
 
 FC Porto,     Porto
   | Porto
@@ -96,8 +102,11 @@ Desportivo de Chaves, Chaves
   | Desp. Chaves
 CF Estrela da Amadora, Amadora
   | Est Amadora | Estrela Amadora
-SC Farense, Faro
+
+SC Farense, 1910, Faro
   | Farense
+  | Sporting Farense | Sporting Clube Farense
+
 Gil Vicente FC, Barcelos
   | Gil Vicente
 União de Leiria,   Leiria
