@@ -164,7 +164,7 @@ Avaí FC,       Florianópolis
   | Avaí | Avaí FC SC | Avaí Futebol Clube
 Joinville EC,     Joinville
   | JEC | Joinville
-  | Joinville | Joinville Esporte Clube     ## check spelling use ville or vile ?
+  | Joinville Esporte Clube     ## check spelling use ville or vile ?
 
 == Pernambuco ==
 Sport Recife,    Recife
