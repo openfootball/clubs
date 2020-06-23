@@ -5,28 +5,28 @@
 #  note: see wal.txt for teams from wales
 
 
-Arsenal FC, 1886, @ Emirates Stadium, London   ## Greater London
+Arsenal FC, 1886, @ Emirates Stadium, London (Highbury)   ## Greater London
   | Arsenal | FC Arsenal
-Chelsea FC, 1905, @ Stamford Bridge, London   ## Greater London
+Chelsea FC, 1905, @ Stamford Bridge, London (Fulham)    ## Greater London
   | Chelsea | FC Chelsea
 
-Tottenham Hotspur FC, 1882, @ White Hart Lane, London   ## Greater London
+Tottenham Hotspur FC, 1882, @ White Hart Lane, London (Tottenham)   ## Greater London
   | Tottenham | Tottenham Hotspur | Spurs
-West Ham United FC, 1895, @ Boleyn Ground, London   ## Greater London
+West Ham United FC, 1895, @ Boleyn Ground, London (Upton Park)   ## Greater London
   | West Ham  | West Ham United
 Fulham FC, 1879,  @ Craven Cottage,  London (Fulham)   ## London (Fulham), Greater London
   | Fulham | FC Fulham
 Charlton Athletic FC,  @ The Valley,  London (Charlton)      ##   London (Charlton), Greater London
   | Charlton | Charlton Athletic
-Crystal Palace FC, 1905, @ Selhurst Park, London   ## Greater London
+Crystal Palace FC, 1905, @ Selhurst Park, London (Selhurst)   ## Greater London
   | Crystal Palace | C Palace | Palace | Crystal P
 
-Wimbledon FC,         London   ## Greater London
+Wimbledon FC,         London (Wimbledon)   ## Greater London
   | Wimbledon
 AFC Wimbledon,      @ Kingsmeadow,   London   ##  London (Norbiton ??)  or London- Kingston upon Thames ??
  ## add Wimbledon too here?
 
-Queens Park Rangers FC, 1882,  @ Loftus Road, London   ## Greater London
+Queens Park Rangers FC, 1882,  @ Loftus Road, London (Shepherd's Bush)   ## Greater London
   | QPR | Queens Park R. | Queens Park Rangers
 Millwall FC,      @ The Den,     London (South Bermondsey)        # London (South Bermondsey) or  London-South Bermondsey
   | Millwall | FC Millwall
@@ -53,9 +53,9 @@ Thames AFC (1928-1932),  London  ## London-Custom House
   | Thames
 
 
-Everton FC, 1878,  @ Goodison Park, Liverpool › Lancashire   ## North West England
+Everton FC, 1878,  @ Goodison Park, Liverpool (Walton) › Lancashire   ## North West England
   | Everton | FC Everton
-Liverpool FC, 1892, @ Anfield, Liverpool › Lancashire
+Liverpool FC, 1892, @ Anfield, Liverpool (Anfield) › Lancashire
   | Liverpool | FC Liverpool
 
 Blackburn Rovers FC,  @ Ewood Park,  Blackburn › Lancashire
@@ -75,10 +75,13 @@ Bootle FC (1879-1893) ,  Bootle › Lancashire
 Nelson FC,           Nelson, Lancashire
   | Nelson
 
-Manchester United FC, 1878, @ Old Trafford, Manchester     ## North West England
+Manchester United FC, 1878, @ Old Trafford, Manchester (Old Trafford)     ## North West England
   | Man Utd | Man. United | Manchester U. |  Manchester Utd | Manchester United
 Manchester City FC, 1880, @ Etihad Stadium,  Manchester     ## North West England
   | Man City | Manchester City | Man. City | Manchester C
+
+Oldham Athletic AFC,    @ Boundary Park,  Oldham › Greater Manchester
+  | Oldham  | Oldham Athletic
 
 Bolton Wanderers FC,  @ Macron Stadium,  Bolton › Greater Manchester
   | Bolton | Bolton Wanderers
@@ -89,8 +92,6 @@ Wigan Borough FC (1920-1931),   Wigan › Greater Manchester    #  Lancashire
 Atherton Collieries,    Atherton › Greater Manchester    # in the Metropolitan Borough of Wigan
     | Atherton Colli. | Atherton Collieries AFC
 
-Oldham Athletic AFC,    @ Boundary Park,  Oldham › Greater Manchester
-  | Oldham  | Oldham Athletic
 Stockport County FC,    Stockport › Greater Manchester
   | Stockport | Stockport County
 Bury FC,             @ Gigg Lane, Bury › Greater Manchester
@@ -204,9 +205,9 @@ Hull City AFC, 1904,   @ KC Stadium,   Hull › East Yorkshire    ## change Hull
 North Ferriby United AFC,  North Ferriby › East Yorkshire
   | North Ferriby
 
-Sheffield Wednesday FC,   @ Hillsborough,  Sheffield › South Yorkshire
+Sheffield Wednesday FC,   @ Hillsborough,  Sheffield (Owlerton) › South Yorkshire
   | Sheffield Wed | Sheffield Weds | Sheffield Wednes. | Sheffield Wednesday
-Sheffield United FC,  @ Bramall Lane,  Sheffield › South Yorkshire
+Sheffield United FC,  @ Bramall Lane,  Sheffield (Highfield) › South Yorkshire
   | Sheffield United | Sheff. United | Sheffield Utd
 
 Barnsley FC,   @ Oakwell,  Barnsley › South Yorkshire
