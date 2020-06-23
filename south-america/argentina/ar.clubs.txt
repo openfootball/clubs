@@ -1,5 +1,5 @@
 ===========================
-=  Argentina 
+=  Argentina
 
 
 == Buenos Aires ==
@@ -28,7 +28,7 @@ Barracas Central, Buenos Aires (Barracas)
   | Club Atlético Barracas Central
 Defensores de Belgranes, Buenos Aires (Nuñez)
   | Club Atlético Defensores de Belgrano
-Deportivo Riestra,  Buenos Aires 
+Deportivo Riestra,  Buenos Aires
   | Deportivo Riestra Asociación de Fomento Barrio Colón
 Estudiantes de Buenos Aires, Buenos Aires     # note: NOT to be confused with Estudiantes LP, La Plata
   | Estudiantes (Buenos Aires)
@@ -47,10 +47,14 @@ CA Independiente de Avellaneda, Avellaneda › Buenos Aires  #  Avellaneda sits 
 Racing Club,                    Avellaneda › Buenos Aires  #  Avellaneda sits in the metropolitan area of the Greater Buenos Aires
   | Racing
   | Racing Club de Avellaneda
+Deportivo Español, 1956,  Buenos Aires (Parque Avellaneda)
+  | Club Deportivo Español
+
+
 Quilmes AC,    Quilmes › Buenos Aires       # Quilmes is a city in the province of Buenos Aires
   | Quilmes | Quilmes Atlético Club
 CA Lanús,   Lanús › Buenos Aires         #  Lanús is a city in  Greater Buenos Aires
-  | Lanús | Atlético Lanús | Club Atlético Lanús 
+  | Lanús | Atlético Lanús | Club Atlético Lanús
 
 Arsenal de Sarandí,  Sarandí › Buenos Aires    #  Sarandí es una ciudad de la Zona Sur del Gran Buenos Aires
   | Arsenal | Arsenal Sarandí
@@ -61,29 +65,32 @@ Estudiantes LP, La Plata › Buenos Aires
   | Estudiantes de La Plata
   | Estudiantes
   | Estudiantes BA    ## todo/check: remove? - confusion/conflict with Estudiantes Buenos Aires (see above)??
-  
+
 Gimnasia y Esgrima LP,  La Plata › Buenos Aires
-  | GELP | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata 
+  | GELP | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata
   | Club de Gimnasia y Esgrima La Plata
   | Gimnasia La Plata
   | Gimnasia y Esgrima
+  | GyE La Plata
 
 Club Atlético Aldosivi,   Mar del Plata › Buenos Aires
   | Aldosivi
 Alvarado, Mar del Plata
   | Alvarado (Mar del Plata)
   | Club Atlético Alvarado
-  
+
 Club Atlético Banfield,   Banfield › Buenos Aires
   | Banfield | CA Banfield
 Defensa y Justicia,   Gobernador Julio A. Costa › Buenos Aires
   | Defensa y Just | Club Social y Deportivo Defensa y Justicia
 Olimpo Bahía Blanca,  Bahía Blanca  › Buenos Aires
   | Olimpo | Club Olimpo | Olimpo de Bahía Blanca
-Sarmiento Junín,     Junín › Buenos Aires
-  | Sarmiento | Club Atlético Sarmiento | Club Atlético Sarmiento (Junín)
+Sarmiento Junín,   1911,  Junín › Buenos Aires
+  | Sarmiento | Sarmiento de Junín
+  | Club Atlético Sarmiento | Club Atlético Sarmiento (Junín)
 Temperley,           Turdera › Buenos Aires
-  | Club Atlético Temperley
+  | CA Temperley | Club Atlético Temperley
+
 Chacarita Juniors,    Villa Maipú › Buenos Aires
   | Club Atlético Chacarita Juniors
 
@@ -97,11 +104,19 @@ Brown,   Adrogué
 Deportivo Morón,  Morón
   | Club Deportivo Morón
 Platense, Florida Este
-  | Club Atlético Platense 
+  | Club Atlético Platense
 Santamarina,  Tandil
   | Club y Biblioteca Ramón Santamarina
 Villa Dálmine,  Campana
   | Dálmine | Club Villa Dálmine
+
+Huracán de Tres Arroyos, 1923,      Tres Arroyos
+  | Club Atlético Huracán
+  | Club Atlético Huracán de Tres Arroyos
+
+CA Los Andes,  1917,  Lomas de Zamora
+  | Los Andes
+  | Club Atlético Los Andes
 
 
 == Provincia Santa Fe ==
@@ -112,13 +127,17 @@ Colón Santa Fe,  Santa Fe
 Unión Santa Fe,  Santa Fe
   | Unión | Unión de Santa Fe  | CA Unión | Club Atlético Unión
 
-Newell's Old Boys, Rosario › Santa Fe
+Newell's Old Boys, Rosario
   | Newell's | N.O. Boys | Newell's OB | Newell's Old B. | Newells Old Boys
   | CA Newell's Old Boys | Club Atlético Newell's Old Boys
-Rosario Central,  Rosario  › Santa Fe
+Rosario Central,  Rosario
   | Rosario Cent | CA Rosario Central | Club Atlético Rosario Central
+Tiro Federal, 1905,  Rosario
+  | Tiro Federal de Rosario
+  | CA Tiro Federal Argentino | Club Atlético Tiro Federal Argentino
 
-Atlético Rafaela, Rafaela › Santa Fe
+
+Atlético Rafaela, Rafaela
   | At. de Rafaela | Atl. Rafaela | Atlético de Rafaela
   | Asociación Mutual Social y Deportiva Atlético de Rafaela
 
@@ -129,7 +148,7 @@ Talleres de Córdoba,      Córdoba
   | Talleres | Talleres C. | Talleres Cordoba | Club Atlético Talleres
 
 Club Atlético Belgrano, Córdoba     # note: NOT to be confused with Belgrano Athletic Club
-  | Belgrano | Belgrano (Córdoba) | Belgrano de Córdoba 
+  | Belgrano | Belgrano (Córdoba) | Belgrano de Córdoba
 
 Instituto, Córdoba
   | Instituto de Córdoba | Instituto (Córdoba)
@@ -138,15 +157,16 @@ Instituto, Córdoba
 Estudiantes de Río Cuarto,   Río Cuarto
   | Asociación Atlética Estudiantes
 
-  
+
 == Provincia Mendoza ==
 
-Godoy Cruz, 	Mendoza       # Godoy Cruy is a city in Greater Mendoza
+Godoy Cruz,  1921,  Mendoza       # Godoy Cruy is a city in Greater Mendoza
+  | CD Godoy Cruz
   | Godoy Cruz Antonio Tomba
   | Club Deportivo Godoy Cruz Antonio Tomba
 
 Gimnasia y Esgrima de Mendoza,   Mendoza
-  | Gimnasia (Mendoza) 
+  | Gimnasia (Mendoza)
   | Gimnasia y Esgrima | Club Gimnasia y Esgrima
 
 Independiente Rivadavia,  Mendoza
@@ -156,14 +176,16 @@ Independiente Rivadavia,  Mendoza
 == Provincia San Juan ==
 
 San Martín San Juan,    San Juan
-  | San Martín | San Martín SJ | Club Atlético San Martín
+  | San Martín | San Martín SJ
+  | CA San Martín | Club Atlético San Martín
 
 
-==  Provincia Jujuy == 
+==  Provincia Jujuy ==
 
-Gimnasia y Esgrima de Jujuy,   San Salvador de Jujuy 
+Gimnasia y Esgrima de Jujuy,   San Salvador de Jujuy
   | GEJ | Gimnasia y Esgrima (Jujuy)
   | Club Atlético Gimnasia y Esgrima de Jujuy
+  | GyE Jujuy
 
 
 == Provincia Tucumán ==
@@ -205,3 +227,25 @@ Mitre,            Santiago del Estero
 Guillermo Brown,  Puerto Madryn
    | Guillermo Brown de Puerto Madryn
    | Brown de Puerto Madryn
+
+
+== Provincia Corrientes ==
+
+Deportivo Mandiyú,  1952, Corrientes
+  | Club Deportivo Mandiyú | Mandiyú
+
+Huracán Corrientes, 1918, Corrientes
+  | Huracán de Corrientes
+  | Club Atlético Huracán Corrientes
+
+
+== Provincia Salta ==
+
+Gimnasia y Tiro, 1902,  Salta
+  | Club de Gimnasia y Tiro
+
+
+== Provincia Chaco ==
+
+Chaco For Ever, 1913,  Resistencia
+  | Club Atlético Chaco For Ever
