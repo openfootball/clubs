@@ -3,7 +3,9 @@
 
 SL Benfica,       Lisboa
   | Benfica | Benfica Lis. | Benfica Lisboa
+  | Sport Lisboa e Benfica
   | Benfica Lissab [de] | Benfica Lissabon [de]
+
 Sporting CP,      Lisboa
   | Sporting
   | Sporting Lisboa | Sporting Clube de Portugal
@@ -14,6 +16,7 @@ Sporting CP,      Lisboa
 Os Belenenses,    Lisboa
   | Belenenses | Belenenses L. | Belenenses SAD
   | CF Os Belenenses
+  | Os Belenenses Futebol
 
 Casa Pia,         Lisboa
   | Casa Pia AC | Casa Pia Atlético
@@ -79,8 +82,11 @@ Portimonense SC, Portimão
   | Portimonense
 Rio Ave FC, Vila do Conde
   | Rio Ave
+
 SC Braga, Braga
   | Braga | Sp Braga | Sporting Braga
+  | Sporting Clube de Braga
+
 CD Tondela, Tondela
   | Tondela
 

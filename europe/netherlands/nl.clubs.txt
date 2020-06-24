@@ -156,6 +156,7 @@ Heracles Almelo, 1903,  Almelo
 FC Twente, 1965,   Enschede
   | Twente | Football Club Twente | Twente Enschede
   | FC Twente Enschede
+  | FC Twente '65
 
 PEC Zwolle, 1910,   Zwolle
   | Zwolle | Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle
@@ -176,7 +177,8 @@ Vitesse Arnhem, 1892,  Arnhem
   | Vitesse Arnheim [de]
 
 BV De Graafschap, 1954,    Doetinchem
-  | Graafschap | De Graafschap | Vereniging Betaald Voetbal De Graafschap
+  | Graafschap | De Graafschap
+  | VBV De Graafschap | Vereniging Betaald Voetbal De Graafschap
 
 NEC Nijmegen, 1900,  Nijmegen
   | NEC | Nijmegen | Nijmegen Eendracht Combinatie
