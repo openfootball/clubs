@@ -13,7 +13,13 @@ Defensa y Justicia
 Estudiantes de La Plata
 Club de Gimnasia y Esgrima La Plata
 Godoy Cruz Antonio Tomba
-Club Atlético Huracán
+
+# Club Atlético Huracán
+## todo/fix: add city!!!!  e.g.    Club Atlético Huracán,   Tres Arroyos  or  Club Atlético Huracán › Tres Arroyos
+# todo/fix:  ERROR !!! - too many (greater than one) matching clubs found for wiki(pedia) name >Club Atlético Huracán, Argentina (ar)
+#  - Huracán de Tres Arroyos
+#  - Huracán de Buenos Aires
+
 Club Atlético Independiente
 Club Atlético Lanús
 Newell's Old Boys
