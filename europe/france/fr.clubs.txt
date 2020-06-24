@@ -67,6 +67,7 @@ OGC Nice, 1904, Nice    ## Alpes-Maritimes > Provence-Alpes-Côte d'Azur
 Stade Rennais FC, 1901,   Rennes    ## Ille-et-Vilaine > Brittany
   | Rennes | Stade Rennes
   | Stade Rennais | Stade Rennais Football Club
+  | Stade Rennais FC 1901
 
 AS Saint-Étienne, 1919,  Saint-Étienne     ## Loire > Rhône-Alpes
   | St-Étienne | Saint-Étienne
