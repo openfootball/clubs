@@ -91,10 +91,13 @@ FC Viktoria Köln,    Köln
 
 Fortuna Düsseldorf,  1895, Düsseldorf
   | Düsseldorf | F. Düsseldorf
+  | TSV Fortuna 95 Düsseldorf
  Arena Straße 1 // 40474 Düsseldorf
 
 Borussia Dortmund, 1909,    Dortmund
-  | Dortmund | Bor. Dortmund | BV 09 Borussia Dortmund
+  | Dortmund | Bor. Dortmund
+  | BV 09 Borussia Dortmund
+  | BV Borussia 09 Dortmund
  Rheinlanddamm 207-209 // 44137 Dortmund
 ii) Borussia Dortmund II
   | Dortmund II | Bor. Dortmund II
