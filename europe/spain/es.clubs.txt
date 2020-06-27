@@ -181,7 +181,8 @@ CD Badajoz,      Badajoz
 CF Extremadura (-2010),  Almendralejo
   | Extremadura
 Extremadura UD,   Almendralejo
-  | Extremadura Unión Deportiva   ## add Extremadura  - why? why not?
+  | Extremadura
+  | Extremadura Unión Deportiva
   | UD Extremadura
 
 CP Mérida,       Mérida
