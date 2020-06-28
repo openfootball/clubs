@@ -126,7 +126,7 @@ Valenciennes FC, Valenciennes
   | Valenciennes | Valenciennes Football Club | FC Valenciennes
 
 AC Arles-Avignon, Avignon
-  | Arles | AC Arles Avignon | Athletic Club Arles-Avignon
+  | Arles | Arles-Avignon | Athletic Club Arles-Avignon
 
 SC Bastia, 1905,  Bastia    ## Haute-Corse > Corsica
   | Bastia | Sporting Club de Bastia
@@ -149,7 +149,7 @@ US Créteil, Créteil
 SAS Épinal,  Épinal
   | Épinal
 Évian TG FC, 2007, Thonon-les-Bains     ## Haute-Savoie > Rhône-Alpes
-  | Évian TG
+  | Évian | Évian TG
   | Évian Thonon Gaillard
   | Évian Thonon Gaillard FC | Évian Thonon-Gaillard FC
   | Évian Thonon Gaillard Football Club
