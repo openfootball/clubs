@@ -17,9 +17,9 @@ West Ham United FC, 1895, @ Boleyn Ground, London (Upton Park)   ## Greater Lond
 Fulham FC, 1879,  @ Craven Cottage,  London (Fulham)   ## London (Fulham), Greater London
   | Fulham | FC Fulham
 Charlton Athletic FC,  @ The Valley,  London (Charlton)      ##   London (Charlton), Greater London
-  | Charlton | Charlton Athletic
+  | Charlton | Charlton Ath  Charlton Athletic
 Crystal Palace FC, 1905, @ Selhurst Park, London (Selhurst)   ## Greater London
-  | Crystal Palace | C Palace | Palace | Crystal P
+  | Palace | C Palace | Crystal P | Crystal Palace
 
 Wimbledon FC,         London (Wimbledon)   ## Greater London
   | Wimbledon
@@ -263,7 +263,7 @@ Ipswich Town FC,   @ Portman Road,  Ipswich › Suffolk
 Notts County FC,        @ Meadow Lane,   Nottingham › Nottinghamshire
   | Notts County
 Nottingham Forest FC,    @ City Ground,  West Bridgford › Nottinghamshire
-  | Nott'm Forest | Nottingham Forest
+  | Nott'm Forest | Nott'ham Forest | Nottingham Forest
 Mansfield Town FC,    @ Field Mill,  Mansfield › Nottinghamshire
   | Mansfield | Mansfield Town
 
