@@ -17,7 +17,7 @@ West Ham United FC, 1895, @ Boleyn Ground, London (Upton Park)   ## Greater Lond
 Fulham FC, 1879,  @ Craven Cottage,  London (Fulham)   ## London (Fulham), Greater London
   | Fulham | FC Fulham
 Charlton Athletic FC,  @ The Valley,  London (Charlton)      ##   London (Charlton), Greater London
-  | Charlton | Charlton Ath  Charlton Athletic
+  | Charlton | Charlton Ath | Charlton Athletic
 Crystal Palace FC, 1905, @ Selhurst Park, London (Selhurst)   ## Greater London
   | Palace | C Palace | Crystal P | Crystal Palace
 
