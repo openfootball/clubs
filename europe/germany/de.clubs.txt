@@ -10,10 +10,11 @@ Bayern München, 1900,     München
  Säbener Straße 51-57 // 81547 München
 ii) Bayern München II
   | Bayern II |  Bayern München Am.
+  | FC Bayern II
 
 TSV 1860 München, 1860, München
   | 1860 München | TSV München 1860
-  | Munich 1860 [en] | TSV 1860 Munich [en]
+  | Munich 1860 [en] | 1860 Munich [en] | TSV 1860 Munich [en]
  Grünwalder Straße 114 // 81547 München
 
 Türkgücü München,  München
@@ -41,16 +42,18 @@ ii) FC Augsburg II
 SpVgg Unterhaching,  Unterhaching
   | U'haching | Unterhaching
 FC Ingolstadt 04, 2004,    Ingolstadt               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
-  | Ingolstadt | FC Ingolstadt
+  | Ingolstadt | Ingolstadt 04 | FC Ingolstadt
  Am Sportpark 1 // 85053 Ingolstadt
 
 SSV Jahn Regensburg,   Regensburg
   | Regensburg | Jahn Regensburg
+  | Jahn R'burg
 1. FC Schweinfurt 05,  Schweinfurt
   | Schweinfurt | Schweinfurt 05
 Würzburger Kickers, 1907,     Würzburg
   | FC Würzburger Kickers
   | Kickers Würzburg
+  | W'burg Kickers
 Wacker Burghausen,  Burghausen
   | Burghausen
 Viktoria Aschaffenburg,  Aschaffenburg
@@ -127,6 +130,7 @@ SG Wattenscheid 09,    Bochum (Wattenscheid)    ## Bochum-Wattenscheid - Bochume
 
 Arminia Bielefeld,  1905,    Bielefeld
   | Bielefeld | DSC Arminia Bielefeld
+  | Arminia
  Melanchthonstraße 31a // 33615 Bielefeld
 
 Preußen Münster,     Münster
@@ -164,6 +168,7 @@ SF Baumberg
   | Sportfreunde Baumberg
 SF Lotte
   | Sportfreunde Lotte
+  | Lotte
 SV Lippstadt 08
 SC Wiedenbrück
   | SC Wiedenbrück 2000
@@ -330,6 +335,7 @@ TSG 1899 Hoffenheim,  1899,  Sinsheim › Baden-Württemberg   ## Sinsheim-Hoffe
 
 Karlsruher SC,  1894,        Karlsruhe › Baden-Württemberg
   | Karlsruhe
+  | Karlsruher
  Adenauerring 17 // 76131 Karlsruhe
 
 SSV Ulm 1846,         Ulm › Baden-Württemberg
@@ -351,6 +357,7 @@ VfR Mannheim,        Mannheim › Baden-Württemberg
   ##  - 2 (8): 2002-03....1999-00 (4) 1996-97....1993-94 (4)
 SV Waldhof Mannheim,   Mannheim › Baden-Württemberg
   | W. Mannheim | Waldhof Mannheim | SV Waldhof Mannheim 07
+  | SV Waldhof
   ## note: SV Waldhof Mannheim (played in 1. liga and 2. liga too)
 
 SG Großaspach, 1994
@@ -377,7 +384,7 @@ FSV Frankfurt, 1899,       Frankfurt am Main › Hessen
  Richard-Herrmann-Platz 1 // 60386 Frankfurt am Main
 
 SV Darmstadt 98, 1898,       Darmstadt › Hessen
-  | Darmstadt
+  | Darmstadt | Darmstadt 98
 SV Wehen Wiesbaden,     Wiesbaden › Hessen
   | Wehen | Wiesbaden | Wehen Wiesbaden
 Kickers Offenbach,     Offenbach am Main › Hessen
@@ -446,6 +453,7 @@ FC Mecklenburg Schwerin,  Schwerin
 
 Dynamo Dresden, 1953,      Dresden › Sachsen
   | Dresden | SG Dynamo Dresden
+  | Dynamo Dres
   | 1. FC Dynamo Dresden
  Lennéstraße 12 // 01069 Dresden
 
@@ -498,6 +506,7 @@ Hallescher FC,  1966,   Halle an der Saale
   | Halle
   | FC Halle
   | Hallescher FC Chemie
+  | Hallescher
 
 1. FC Magdeburg, 1965,   Magdeburg
   | Magdeburg | FC Magdeburg
