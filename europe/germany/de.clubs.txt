@@ -308,6 +308,7 @@ Werder Bremen, 1899,      Bremen › Bremen
   | Bremen | SV Werder Bremen
  Franz-Böhmert-Straße 1c // 28205 Bremen
 ii) Werder Bremen II
+  | Wrd Bremen II
 
 SG Aumund-Vegesack
 FC Oberneuland
@@ -324,6 +325,7 @@ ii) VfB Stuttgart II
 
 Stuttgarter Kickers,   Stuttgart › Baden-Württemberg
   | Stutt. Kick. | Stuttgarter K
+  | S'gart Kickers
 
 SC Freiburg, 1904,       	  Freiburg  › Baden-Württemberg
   | Freiburg
@@ -402,6 +404,7 @@ KSV Hessen Kassel
   | Mainz | Mainz 05 | FSV Mainz 05
  Isaac-Fulda-Allee 5 // 55124 Mainz
 ii) 1. FSV Mainz 05 II
+  | Mainz 05 II
 
 Eintracht Trier,      Trier          › Rheinland-Pfalz
   | Ein Trier
