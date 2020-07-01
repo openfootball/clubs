@@ -405,9 +405,8 @@ Northampton Town FC,  @ Sixfields Stadium,  Northampton › Northamptonshire
 ## note: there's also <=> Northampton Sileby Rangers  (!!)
 
 Rushden & Diamonds (1992-2011), Rushden › Northamptonshire
-  | Rushden | Rushden & D | Rushden & Diamonds
-  | Rushden & Diamonds Football Club
-  | Rushden & Diamonds FC
+  | Rushden | Rushden & D 
+  | Rushden & Diamonds FC | Rushden & Diamonds Football Club
 ## note: was formed by a merger of Rushden Town and Irthlingborough Diamonds in 1992  
 
 AFC Rushden & Diamonds, 2011,  Rushden › Northamptonshire
