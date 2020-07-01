@@ -175,7 +175,7 @@ Middlesbrough FC, 1876,  @ Riverside Stadium,   Middlesbrough › North Yorkshir
 Middlesbrough Ironopolis FC (1889-1894), Middlesbrough › North Yorkshire
   | Middlesbrough Ironopolis
 Scarborough Athletic FC,  Scarborough › North Yorkshire
-  | Scarborough
+  | Scarborough | Scarborough FC
 Harrogate Town AFC,  Harrogate › North Yorkshire
   | Harrogate | Harrogate Town | Harrogate Town Association Football Club
 
