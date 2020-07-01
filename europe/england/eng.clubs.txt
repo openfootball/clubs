@@ -174,8 +174,17 @@ Middlesbrough FC, 1876,  @ Riverside Stadium,   Middlesbrough › North Yorkshir
   | Middlesbrough | Middlesboro | FC Middlesbrough
 Middlesbrough Ironopolis FC (1889-1894), Middlesbrough › North Yorkshire
   | Middlesbrough Ironopolis
-Scarborough Athletic FC,  Scarborough › North Yorkshire
-  | Scarborough | Scarborough FC
+
+Scarborough Athletic FC, 2007,  Scarborough › North Yorkshire
+  | Scarborough 
+  # see en.wikipedia.org/wiki/Scarborough_Athletic_F.C.
+  # formed on 25 June 2007 following the winding up of Scarborough Football Club.
+Scarborough FC (1879-2007), Scarborough › North Yorkshire
+  | Scarborough Football Club
+  # see en.wikipedia.org/wiki/Scarborough_F.C.
+  # keep clubs separate - why? why not?
+
+
 Harrogate Town AFC,  Harrogate › North Yorkshire
   | Harrogate | Harrogate Town | Harrogate Town Association Football Club
 
