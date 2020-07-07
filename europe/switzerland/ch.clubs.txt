@@ -27,6 +27,9 @@ FC Thun, 1898,                 Thun
 FC Luzern, 1901,                Luzern    ## use Lucerne [fr] - why??
   | Luzern
 
+SC Kriens, 1944,   Kriens             # a western suburb of Lucerne
+  | Kriens | Sport Club Kriens
+
 == St. Gallen ==
 FC St. Gallen, 1879,            St. Gallen
   | St. Gallen | FC St. Gallen 1879
@@ -67,8 +70,14 @@ FC La Chaux-de-Fonds, 1894,  La Chaux-de-Fonds    # champs (1): 1964/65
 == Lausanne ==
 FC Lausanne,  1896,           Lausanne
   | Lausanne | FC Lausanne-Sport
-  | Lausanne Sports    #  champs (1): 1965/66
   | Lausanne Sport
+  | Lausanne Sports    #  champs (1): 1965/66
+
+Stade Lausanne-Ouchy,   2001,       Lausanne (Ouchy)
+  | FC Stade Lausanne Ouchy
+  | SLO | FC SLO
+# note: a merger between FC Stade Lausanne and FC Ouchy Olympic in 2001
+
 
 FC Le Mont, 1942,             Le Mont-sur-Lausanne
   | FC Le Mont-sur-Lausanne,

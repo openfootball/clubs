@@ -2,6 +2,33 @@
 =  Turkey
 
 
+### use 7 regions
+## - Marmara
+## - Aegean
+## - Mediterranean
+## - Black Sea
+## - Central Anatolia
+## - Eastern Anatolia
+## - Southeastern Anatolia
+##  see https://en.wikipedia.org/wiki/Geographical_regions_of_Turkey
+##
+## or 12 NUTS regions
+##   see https://en.wikipedia.org/wiki/NUTS_statistical_regions_of_Turkey
+##  - Istanbul
+##  - West Marmara
+##  - Aegean
+##  - East Marmara
+##  - West Anatolia
+##  - Mediterranean
+##  - Central Anatolia
+##  - West Black Sea
+##  - East Black Sea
+##  - Northeast Anatolia
+##  - Central East Anatolia
+##  - Southeast Anatolia
+
+
+
 Fenerbahçe İstanbul SK,  İstanbul
   | Fenerbahçe | Fenerbahçe SK
   | Fenerbahçe Spor Kulübü | Fenerbahçe Sports Club
@@ -108,8 +135,9 @@ Altay SK,  1914,     İzmir
 
 Karşıyaka SK,  1912,  İzmir (Karşıyaka)
   | Karşıyaka | Karşıyaka Spor Kulübü
-Altınordu, İzmir
+Altınordu,  1923, İzmir
   | Altınordu FK | Altınordu Futbol Kulübü
+  | Altınordu FSG | Altınordu Spor Kulübü
 
 Menemenspor,  Menemen    # İzmir
   | Menemen Spor Kulübü

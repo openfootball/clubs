@@ -6,20 +6,26 @@ Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
   | Lokomotiv | FC Lokomotiv | FC Lokomotiv Moskva
   | Loko Moscow [en] | Lokomotiv Moscow [en] | FC Lokomotiv Moscow [en]
   | Lok Moskau [de]
+
 PFC CSKA Moskva, 1911,   Moskva
   | CSKA | PFK CSCA | CSKA Moskva
   | CSKA Moscow [en] | PFC CSKA Moscow [en] | PFK CSKA Moscow [en]
   | ZSKA Moskau [de]
+
 Dynamo Moskva, 1923,     Moskva
   | Dynamo | Dinamo | Dinamo Moskva | FC Dinamo Moskva
   | Dynamo Mosc [en] | Dynamo Moscow [en] | Dinamo Moscow [en] | FC Dynamo Moscow [en]
   | Dinamo Moskau [de]
+
 FC Spartak Moskva, 1922,    Moskva
   | Spartak | FC Spartak | Spartak Moskva
   | Spartak Moscow [en] | FC Spartak Moscow [en]
   | Spartak Moskau [de] | FC Spartak Moskau [de]
 ii) Spartak Moskva II
   | Spartak Moskau II [de]
+  | Spartak Moskva 2
+  | Spartak-2 Moscow
+
 
 FC Moskva,    Moskva
   | Moskva
@@ -29,9 +35,12 @@ Torpedo Moskva,    Moskva
   | Torpedo | FC Torpedo Moskva
   | T. Moscow [en] | Torpedo Moscow [en] | FC Torpedo Moscow [en]
   | FC Torpedo Moskau [de]
-FC Chertanovo Moskva,    Moskva
+FC Chertanovo Moskva,  1993,  Moskva
   | Chertanovo Moscow [en] | FC Chertanovo Moscow [en]
   | FC Chertanovo Mosk [de]
+  | FK Chertanovo Moskva
+
+
 
 
 Zenit St. Petersburg, 1925,     St. Petersburg
@@ -88,6 +97,9 @@ FC Krasnodar,  Krasnodar
   | Krasnodar | Krasnodar Krasnodar
   | FK Krasnodar
 ii) FC Krasnodar 2
+  | FK Krasnodar 2
+  | Krasnodar-2 | FC Krasnodar-2
+
 
 FC Kuban,    Krasnodar
   | Kuban | Kuban' | Kuban Krasnodar | FC Kuban Krasnodar
@@ -97,8 +109,9 @@ FC Baltika, Kaliningrad
   | FK Baltika
 
 Luch Energia Vladivostok,   Vladivostok
-  | Luch | Luch Vladivostok
+  | Luch | Luch-Energia | Luch Vladivostok
   | Luch Wladivostok [de]
+
 
 FC Mordovia,   Saransk
   | Mordovia | Mordovia Saransk | M. Saransk
@@ -108,6 +121,16 @@ Spartak Nalchik,   Nalchik
 
 Nizhnii Novgorod,  Nizhny Novgorod
   | Nizhny Novgorod | FC Nizhny Novgorod
+  | FK Nizhny Novgorod
+## The club has been known under different names:
+##   2015–2016: FC Volga-Olimpiyets Nizhny Novgorod
+##   2016–2018: FC Olimpiyets Nizhny Novgorod
+##   2018–present: FC Nizhny Novgorod
+
+Volga Nizhnii Novgorod, Nizhny Novgorod
+  | Volga | Volga N. Novgorod
+  | Volga Nyzhnyi
+
 
 FC Rostov,     Rostov-on-Don
   | Rostov | Rostov Rostov-on-Don | FK Rostov
@@ -122,10 +145,13 @@ Shinnik, Yaroslavl
   | Shinnik Yaroslavl
 SKA Khabarovsk, Khabarovsk
   | SKA-Energiia | SKA Energia | Energ. Khabarovsk
+  | SKA-Energia Khabarovsk
   | FC SKA-Khabarovsk
 # note: The club has been known under different names: SKA (1960–99)
 #                                                      SKA-Energia (1999–2016)
 #                                                      SKA-Khabarovsk (2016–)
+
+
 
 Sokol, Saratov
 Terek Grozny, Grozny
@@ -134,21 +160,22 @@ Akhmat Grozny, Grozny
   | Akhmat | FC Akhmat Grozny
   | FK Akhmat Grozny
   | FK Achmat Grozny [de]
-Tom Tomsk, Tomsk
+Tom Tomsk, 1957,   Tomsk
   | Tom | Tom' | Tomsk | FC Tom Tomsk
+  | FK Tom Tomsk
+
+
 Tosno,  Tosno
   | FK Tosno
 FC Ufa, Ufa
   | Ufa | Ufa Ufa
+  | FK Ufa
 Ural Yekaterinburg, Yekaterinburg
   | Ural | FC Ural | FC Ural Yekaterinburg
   | FC Ural Sverdlovsk Oblast | Football Club Ural Sverdlovsk Oblast
   | Ural Jekaterinburg [de]
 
 Uralan, Elista
-Volga Nizhnii Novgorod, Nizhny Novgorod
-  | Volga | Volga N. Novgorod
-  | Volga Nyzhnyi
 
 FC Tambov,  2013, Tambov
   | Tambov
@@ -164,10 +191,15 @@ Vladikavkaz,   Vladikavkaz
 
 Yenisey, Krasnoyarsk
   | FC Yenisey | Yenisey Krasnoyarsk | FC Yenisey Krasnoyarsk
+  | Enisey Krasnoyarsk
 
 FC Avangard Kursk,  Kursk
+  | Avangard Kursk
+
 FC Tekstilshchik Ivanovo, Ivanovo
   | Tekstilshchik
+  | Tekstilshchik Ivanovo
+
 
 Neftekhimik Nizhnekamsk, Nizhnekamsk
   | FC Neftekhimik | FC Neftekhimik Nizhnekamsk
@@ -179,8 +211,10 @@ FC Fakel Voronezh, Voronezh
   | Fakel Voronezh
   | Fakel Worenesch [de]
 
-FC Armavir, Armavir
-  | Torpedo Armavir    # note: on 9 June 2016, the club was renamed from FC Torpedo Armavir to FC Armavir
+FC Armavir,  1959,  Armavir
+  | Torpedo Armavir
+  | FK Torpedo Armavir
+# note: on 9 June 2016, the club was renamed from FC Torpedo Armavir to FC Armavir
 
 FC Tekstilshchik Kamyshin,    1958,    Kamyshin
   | Tekstilshchik

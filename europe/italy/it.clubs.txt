@@ -2,6 +2,37 @@
 =  Italy
 
 
+###
+## use  -split into 20 regions
+##
+##  --- North-West
+##   Valle d'Aosta   | Aosta Valley [en]
+##   Liguria
+##   Lombardia       | Lombardy [en]
+##   Piemonte        | Piedmont [en]
+## --- North-East
+##   Emilia-Romagna
+##   Friuli-Venezia Giulia
+##   Trentino-Alto Adige   | Trentino-South Tyrol [en]
+##   Veneto
+## --- Centre
+##  Lazio
+##  Marche
+##  Toscana      | Tuscany [en]
+##  Umbria
+## --- South
+##  Abruzzo
+##  Puglia        | Apulia [en]
+##  Basilicata
+##  Calabria
+##  Campania
+##  Molise
+## -- Islands
+##  Sardegna     | Sardinia [en]
+##  Sicilia      | Sicily [en]
+
+
+== Lazio ==
 AS Roma,  Roma
   | Roma | Associazione Sportiva Roma
   | AS Rom [de]
@@ -9,6 +40,8 @@ SS Lazio, Roma
   | Lazio | Lazio Roma | Società Sportiva Lazio
   | Lazio Rom [de]
 
+
+== Lombardia ==       ## Lombardy [en]
 AC Milan,                 Milano
   | Milan | Associazione Calcio Milan
   | AC Mailand [de]
@@ -17,6 +50,15 @@ FC Internazionale Milano, Milano
   | Inter Milan
   | Inter Mailand [de]
 
+Atalanta BC,            Bergamo
+  | Atalanta | Atalanta Bergamo | Atalanta Bergamasca Calcio
+
+Cremonese, Cremona
+  | US Cremonese
+Brescia, Brescia
+  | Brescia Calcio
+
+== Piemonte ==    ## Piedmont [en]
 Torino FC,   Torino
   | Torino | Torino Football Club | FC Torino
   | FC Turin [de]
@@ -24,11 +66,42 @@ Juventus,    Torino
   | Juventus Torino | Juventus FC | Juventus Football Club
   | Juventus Turin [de]
 
+
+== Veneto ==
 Hellas Verona FC, 1903,     Verona
   | Verona | Hellas Verona | Hellas Verona Football Club
 AC Chievo Verona, Verona
   | Chievo | Chievo Verona | Associazione Calcio Chievo Verona
 
+Venezia, 1907,       Venezia
+  | Venezia FC | Venezia Football Club
+  | SSC Venezia | Società Sportiva Calcio Venezia
+  | FBC Unione Venezia | Foot Ball Club Unione Venezia
+# In the summer 2005 the club was refounded as SSC Venezia or Società Sportiva Calcio Venezia
+# In 2009 (?) the club was re-founded as FBC Unione Venezia or Foot Ball Club Unione Venezia
+# In 2015 (?) the club was re-founded as Venezia FC
+
+LR Vicenza Virtus, Vicenza
+  | Vicenza | Vicenza Calcio
+  | Vicenza Virtus
+
+Calcio Padova, Padova
+  | Padova
+  | Padua Calcio [de]
+
+Cittadella, 1973, Cittadella
+  | AS Cittadella | Associazione Sportiva Cittadella
+
+
+== Friuli-Venezia Giulia ==
+Udinese Calcio, Udine
+  | Udinese
+
+US Triestina Calcio, Trieste
+  | Triestina | Triestina Calcio | US Triestina Calcio 1918
+
+
+== Liguria ==
 Genoa CFC,      Genova
   | Genoa | Genoa Cricket and Football Club
   | FC Genua [de]
@@ -37,46 +110,53 @@ UC Sampdoria,   Genova
   | Sampdoria | Sampdoria Genoa | Unione Calcio Sampdoria
   | Sampdoria Genua [de]
 
-Atalanta BC,            Bergamo
-  | Atalanta | Atalanta Bergamo | Atalanta Bergamasca Calcio
-Benevento, 1929,        Benevento
-  | Benevento Calcio
-Bologna FC,      Bologna
-  | Bologna | FC Bologna
-  | Bologna FC 1909 | Bologna Football Club 1909
-Cagliari Calcio, Cagliari
-  | Cagliari
-FC Crotone,      Crotone
-  | Crotone | Crotone FC | Federazione Calcistica Crotone
-ACF Fiorentina, Firenze
-  | Fiorentina | AC Firenze | Associazione Calcio Firenze Fiorentina
-  | AC Fiorentina
-  | AC Florenz [de]
+
+== Campania ==
 SSC Napoli,     Napoli
   | Napoli | Società Sportiva Calcio Napoli
   | SSC Neapel [de]
-US Sassuolo Calcio, 1922,   Sassuolo
-  | Sassuolo | US Sassuolo | Sassuolo Calcio | Unione Sportiva Sassuolo Calcio
-SPAL,           Ferrara
-  | SPAL 2013 | SPAL Ferrara | SPAL 2013 Ferrara
-Udinese Calcio, Udine
-  | Udinese
 
-Ascoli, Ascoli Piceno
-  | Ascoli FC
-  | Ascoli Calcio
-  | Ascoli Calcio 1898 FC
-
+Benevento, 1929,        Benevento
+  | Benevento Calcio
 
 Avellino, Avellino
   | US Avellino 1912 | Unione Sportiva Avellino 1912
   | AS Avellino | Associazione Sportiva Avellino 1912
+
+
+== Calabria ==
+FC Crotone,      Crotone
+  | Crotone | Crotone FC | Federazione Calcistica Crotone
+
+== Puglia  ==   ## Apulia [en]
 Bari, Bari
   | AS Bari
   | SSC Bari | Società Sportiva Calcio Bari
   | FC Bari 1908
-Brescia, Brescia
-  | Brescia Calcio
+
+Calcio Foggia 1920,     Foggia
+  | Calcio Foggia 1920 SSD
+  | US Foggia
+  | Foggia
+# Foggia Calcio went bankrupt in 2004
+# and was replaced by U.S. Foggia, which itself was declared bankrupt in 2012
+
+
+== Emilia-Romagna ==
+Ravenna FC, Ravenna
+  | Ravenna | Ravenna FC 1913
+  | Ravenna Calcio
+
+Bologna FC,      Bologna
+  | Bologna | FC Bologna
+  | Bologna FC 1909 | Bologna Football Club 1909
+
+US Sassuolo Calcio, 1922,   Sassuolo
+  | Sassuolo | US Sassuolo | Sassuolo Calcio | Unione Sportiva Sassuolo Calcio
+
+SPAL Ferrara,     Ferrara
+  | SPAL | SPAL 2013 | SPAL 2013 Ferrara
+
 Carpi, Carpi
   | Carpi FC | Carpi FC 1909 | Carpi Football Club 1909
 
@@ -86,22 +166,47 @@ AC Cesena (1940-2018), Cesena
 # bankrupted and folded in 2018.
 # Another club from Cesena, A.S.D. Romagna Centro Cesena, claimed as a successor.
 
+Modena FC, Modena
+  | Modena
+  | FC Modena
 
-Cittadella, Cittadella
-  | AS Cittadella
-Cremonese, Cremona
-  | US Cremonese
+
+== Toscana ==       ## Tuscany [en]
+ACF Fiorentina, Firenze
+  | Fiorentina | AC Firenze | Associazione Calcio Firenze Fiorentina
+  | AC Fiorentina
+  | AC Florenz [de]
+
 Empoli, Empoli
   | Empoli FC | Empoli Football Club | FC Empoli
 
+SS Robur Siena, Siena
+  | Siena | AC Siena | Associazione Calcio Siena
+# note: Robur Siena was re-incorporated in 2014 after the bankruptcy of the previous legal person Associazione Calcio Siena S.p.A..
+#       A.C. Siena's predecessor was founded in 1904.
 
-Calcio Foggia 1920,     Foggia
-  | Calcio Foggia 1920 SSD
-  | US Foggia
-  | Foggia
-# Foggia Calcio went bankrupt in 2004
-# and was replaced by U.S. Foggia, which itself was declared bankrupt in 2012
+AC Pisa,        Pisa
+  | Pisa | AC Pisa 1909
+  | Associazione Calcio Pisa 1909
+  | Pisa SC | Pisa Sporting Club
+  | SC Pisa
+  | Pisa Calcio
 
+
+== Marche ==
+Ascoli, Ascoli Piceno
+  | Ascoli FC
+  | Ascoli Calcio
+  | Ascoli Calcio 1898 FC
+
+
+== Sardegna ==     ## Sardinia [en]
+Cagliari Calcio, Cagliari
+  | Cagliari
+
+
+
+== ?? ==
 
 Frosinone, Frosinone
   | Frosinone Calcio
@@ -135,9 +240,8 @@ Spezia, La Spezia
   | Spezia Calcio
 Ternana, Terni
   | Ternana Calcio
-Venezia, Venezia
-  | SSC Venezia
-  | FBC Unione Venezia | Foot Ball Club Unione Venezia
+
+
 
 Virtus Entella, Chiavari
 
@@ -145,20 +249,6 @@ Virtus Entella, Chiavari
 Piacenza Calcio, Piacenza
   | Piacenza | Piacenza Calcio 1919
 
-LR Vicenza Virtus, Vicenza
-  | Vicenza | Vicenza Calcio
-  | Vicenza Virtus
-
-Calcio Padova, Padova
-  | Padova
-  | Padua Calcio [de]
-Modena FC, Modena
-  | Modena
-  | FC Modena
-SS Robur Siena, Siena
-  | Siena | AC Siena | Associazione Calcio Siena
-# note: Robur Siena was re-incorporated in 2014 after the bankruptcy of the previous legal person Associazione Calcio Siena S.p.A..
-#       A.C. Siena's predecessor was founded in 1904.
 
 US Anconitana ASD, Ancona
   | Ancona
@@ -178,9 +268,6 @@ AS Lucchese Libertas,	Lucca
   | Lucchese | AS Lucchese Libertas 1905
 SS Monza, Monza
   | Monza | SS Monza 1912
-Ravenna FC, Ravenna
-  | Ravenna | Ravenna FC 1913
-  | Ravenna Calcio
 AC Reggiana, Reggio Emilia
   | Reggiana | AC Reggiana 1919
   | Reggio Audace | Reggio Audace FC
@@ -219,8 +306,6 @@ ACR Messina SSD, Messina
   | Associazioni Calcio Riunite Messina
 
 
-US Triestina Calcio, Trieste
-  | Triestina | Triestina Calcio | US Triestina Calcio 1918
 SS Arezzo, Arezzo
   | Arezzo | Società Sportiva Arezzo
   | AC Arezzo | Associazione Calcio Arezzo
@@ -247,13 +332,6 @@ Mantova SSD, Mantova
   | Mantova | Mantova 1911 SSD
 ASD Nocerina, Nocera Inferiore
   | Nocerina | ASD Nocerina 1910
-
-AC Pisa,        Pisa
-  | Pisa | AC Pisa 1909
-  | Associazione Calcio Pisa 1909
-  | Pisa SC | Pisa Sporting Club
-  | SC Pisa
-  | Pisa Calcio
 
 
 US Pistoiese,    Pistoia
@@ -304,6 +382,5 @@ Paganese Calcio, Pagani
   | Paganese | Paganese Calcio 1926
 Vibonese Calcio, Vibo Valentia
   | Vibonese | US Vibonese Calcio | Unione Sportiva Vibonese Calcio
-
 
 
