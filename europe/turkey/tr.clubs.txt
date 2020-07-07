@@ -137,7 +137,8 @@ Karşıyaka SK,  1912,  İzmir (Karşıyaka)
   | Karşıyaka | Karşıyaka Spor Kulübü
 Altınordu,  1923, İzmir
   | Altınordu FK | Altınordu Futbol Kulübü
-  | Altınordu FSG | Altınordu Spor Kulübü
+  | Altınordu FSG | Altınordu Futbol Sosyal Girişimi
+  | Altınordu Spor Kulübü
 
 Menemenspor,  Menemen    # İzmir
   | Menemen Spor Kulübü
