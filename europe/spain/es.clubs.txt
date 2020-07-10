@@ -43,6 +43,8 @@ Sevilla FC,   Sevilla
   | Sevilla  | Sevilla Fútbol Club | FC Sevilla
 ii) Sevilla FC B
   | Sevilla B
+  | Sevilla Atlético    #  the reserve team of Sevilla FC
+
 
 Real Betis, Sevilla
   | Betis | Betis Sevilla | Real Betis Sevilla | Real Betis Balompié
@@ -156,7 +158,7 @@ SD Eibar,          Eibar
 Athletic Club Bilbao,   Bilbao    ## use Athletic Club - why? why not?
   | Athletic | Athletic Club | Ath Bilbao | Athletic Bilbao
 ii) Athletic Club Bilbao B
-  | Ath Bilbao B
+  | Ath Bilbao B | Athletic Bilbao B
 
 
 == Asturias ==
@@ -206,7 +208,10 @@ CD Mirandés, Miranda de Ebro
 Real Murcia CF,      Murcia
   | Murcia | Real Murcia | Real Murcia Club de Fútbol
 
-UCAM Murcia,         Murcia
+UCAM Murcia,  1999,        Murcia
+  | UCAM Murcia CF
+  | Universidad Católica de Murcia Club de Fútbol
+
 CF Ciudad de Murcia, Murcia
   | Ciudad de Murcia
 
@@ -253,14 +258,17 @@ CD Tenerife,   Santa Cruz de Tenerife
 
 == ??? ==
 
-CA Osasuna,   ##  city:pamplona
+CA Osasuna,    Pamplona
   | Osasuna | At. Osasuna | Club Atlético Osasuna
 
 
 CD Leganés
   | Leganés | Club Deportivo Leganés
-Cultural Leonesa
-  | Leonesa
+
+Cultural Leonesa,  1923,  León
+  | Leonesa | Cultural y Deportiva Leonesa
+  | CD Leonesa
+
 UE Llagostera
   | Llagostera
 
