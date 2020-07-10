@@ -120,7 +120,7 @@ Benevento, 1929,        Benevento
   | Benevento Calcio
 
 Avellino, Avellino
-  | US Avellino 1912 | Unione Sportiva Avellino 1912
+  | US Avellino | US Avellino 1912 | Unione Sportiva Avellino 1912
   | AS Avellino | Associazione Sportiva Avellino 1912
 
 
@@ -137,7 +137,7 @@ Bari, Bari
 Calcio Foggia 1920,     Foggia
   | Calcio Foggia 1920 SSD
   | US Foggia
-  | Foggia
+  | Foggia | Foggia Calcio
 # Foggia Calcio went bankrupt in 2004
 # and was replaced by U.S. Foggia, which itself was declared bankrupt in 2012
 
@@ -198,6 +198,7 @@ Ascoli, Ascoli Piceno
   | Ascoli FC
   | Ascoli Calcio
   | Ascoli Calcio 1898 FC
+  | Ascoli Picchio FC | Ascoli Picchio FC 1898
 
 
 == Sardegna ==     ## Sardinia [en]
@@ -327,7 +328,8 @@ AS Gubbio, Gubbio
 SS Juve Stabia, Castellammare di Stabia
   | Juve Stabia
 SSD Latina Calcio, Latina
-  | Latina | SSD Latina Calcio 1932
+  | Latina | Latina Calcio
+  | SSD Latina Calcio 1932
 Mantova SSD, Mantova
   | Mantova | Mantova 1911 SSD
 ASD Nocerina, Nocera Inferiore
@@ -346,8 +348,12 @@ ASD Savoia,     Torre Annunziata
   | Savoia | ASD Savoia 1908
 Trapani Calcio, Trapani
   | Trapani
+
 Varese Calcio,  Varese
   | Varese
+  | AS Varese 1910 | Associazione Sportiva Varese 1910
+# note: AS Varese 1910 from 2004 to 2015
+
 Virtus Lanciano, Lanciano
   | ASD 1920 Lanciano Calcio
 
