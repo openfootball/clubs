@@ -48,6 +48,7 @@ FC Chertanovo Moskva,  1993,  Moskva
 Zenit St. Petersburg, 1925,     St. Petersburg
   | Zenit | Zenit Petersb. | Zenit Petersburg | Zenit St. Peter | Zenit St. Petersb. | Zenit Saint Petersburg
   | FC Zenit | FC Zenit St Petersburg | FC Zenit Saint Petersburg
+  | FK Zenit Sankt-Petersburg
 
 Dinamo St. Petersburg,     St. Petersburg
 
