@@ -27,9 +27,11 @@ FK Inkaras Kaunas (1937-2003), Kaunas
 
 FK Ekranas
   | Ekranas | Ekranas Panevezys
+
 FK Sūduva,    Marijampolė
   | Sūduva | Sūduva Marija.
-  | Sūduva Marijampolė
+  | Sūduva Marijampolė | FK Sūduva Marijampolė
+
 FK Tauras
 FK Vėtra
 FC Šiauliai
