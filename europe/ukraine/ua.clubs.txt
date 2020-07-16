@@ -23,6 +23,7 @@ FC Shakhtar Donetsk,  Donetsk
   | Shakhtar | Shakhtar Donetsk | Shakhtar Don.
   | Schachtjor Donezk
   | Schachtar Donezk
+  | FK Shakhtar Donetsk
 
 FC Metalurh Donetsk,  Donetsk
   | Metalurh Donetsk
