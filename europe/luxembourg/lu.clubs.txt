@@ -30,6 +30,7 @@ Union Luxembourg (1925-2005), Lëtzebuerg        # champs (5): 1993...1990 (3) 1
 
 F91 Dudelange,   Dudelange
   | Dudelange
+  | F91 Diddeleng
 
 Stade Dudelange (1913-1991),  Dudelange    # champs (2): 1965/66 1957/58
   |  CS Stade Dudelange
