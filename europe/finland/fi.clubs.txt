@@ -4,6 +4,7 @@
 
 HJK Helsinki,     Helsinki
   | HJK | Helsingin Jalkapalloklubi
+  | Helsingin JK
 HIFK Helsinki,    Helsinki
   | HIFK | HIFK Fotboll | IFK Helsingfors
   | Helsingfors IFK   # champs (2): 1962/63 1960/61
