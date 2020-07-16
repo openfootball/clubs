@@ -52,6 +52,8 @@ Ionikos FC, Nikaia › Attica   ## Athens Nikaia - a suburb in the western part 
 Olympiacos Piraeus FC,  Piraeus › Attica
   | Olympiacos | Olympiacos Piraeus | Olympiacos FC
   | Olympiakos | Olympiakos Piräus | Olympiakos P.
+  | PAE Olympiakos SFP
+  
 Ethnikos Piraeus FC,    Piraeus › Attica
   | Ethnikos Piraeus | Ethnikos
 
