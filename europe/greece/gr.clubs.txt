@@ -5,6 +5,8 @@
 AEK Athens FC,     Athens    ## use!? - Marousi or Maroussi a suburban city in the northeastern part of the Athens agglomeration
   | AEK | AEK Athens
   | AEK Athen [de]
+  | PAE AEK
+  
 Panathinaikos FC,  Athens
   | Panathinaikos
   | Panathinaikos Athens
