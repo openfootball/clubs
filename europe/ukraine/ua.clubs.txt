@@ -7,6 +7,7 @@ FC Dynamo Kyiv,  Kyiv
   | Dynamo Kiev | FC Dynamo Kiev    ## add [en] ??
   | Dinamo Kiev
   | Dynamo Kiew [de] | FC Dynamo Kiew [de]
+  | FK Dynamo Kyiv
 
 FC Arsenal Kyiv,  Kyiv
   | Arsenal Kyiv
