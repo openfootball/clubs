@@ -33,6 +33,7 @@ FK Şämkir (1954-2017), Şəmkir
 Qarabağ FK
   | Qarabağ | Qarabağ Ağdam
   | Garabag Agdam
+  | Qarabağ Ağdam FK
 
 Xäzär Länkäran FK
   | Khazar Lankaran   # champs (1): 2007/08
