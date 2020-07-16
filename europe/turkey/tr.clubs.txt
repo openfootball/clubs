@@ -43,6 +43,7 @@ Kasımpaşa İstanbul SK,   İstanbul (Beyoğlu)
 
 İstanbul Başakşehir,  İstanbul (Başakşehir)
   | Başakşehir | İ. Başakşehir | İst. Başakş | İstanb. Başakşehir | İstanbul Başakşeh. | İstanbul Başakşehir FK
+  | Medipol Başakşehir FK
   | Büyükşehyr | İstanbul Büyükşehir Belediyespor    ## (double) check if Buyuksehyr matching (or separate club) !?
 
 İstanbulspor, 1913, İstanbul
