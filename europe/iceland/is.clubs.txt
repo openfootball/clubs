@@ -8,8 +8,11 @@ Fram Reykjavík,  Reykjavík
   | Fram
 Fylkir Reykjavik,  Reykjavík
   | Fylkir
-Valur Reykjavík,   Reykjavík
+
+Valur Reykjavík,  1911, Reykjavík
   | Valur | Valur Reykj.
+  | KF Valur | Knattspyrnufélagið Valur
+
 Víkingur Reykjavík, Reykjavík
   | Víkingur R.
 
