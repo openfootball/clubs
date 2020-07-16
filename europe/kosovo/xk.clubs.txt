@@ -1,9 +1,9 @@
 ==========================================
 =  Kosovo
 
-KF Drita
-  | Drita
-  | Drita Gjilan
+KF Drita,  1947,  Gjilan
+  | Drita | Klubi Futbollistik Drita
+  | Drita Gjilan | Drita KF Gjilan 
   | FC Drita
 
 FC Prishtina,     Prishtina
