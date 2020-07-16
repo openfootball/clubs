@@ -21,6 +21,7 @@ FC Spartak Moskva, 1922,    Moskva
   | Spartak | FC Spartak | Spartak Moskva
   | Spartak Moscow [en] | FC Spartak Moscow [en]
   | Spartak Moskau [de] | FC Spartak Moskau [de]
+  | FK Spartak Moskva
 ii) Spartak Moskva II
   | Spartak Moskau II [de]
   | Spartak Moskva 2
