@@ -221,6 +221,16 @@ VfB Oldenburg,         Oldenburg › Niedersachsen
 SV Wilhelmshaven
 BSV Schwarz-Weiß Rehden
 TSV Havelse
+SV Drochtersen/Assel
+
+SV Atlas Delmenhorst,   Delmenhorst
+ | SV Atlas | Atlas Delmenhorst
+
+SSV Jeddeloh,   Jeddeloh II
+  | Spiel- und Sportverein Jeddeloh
+# Obwohl der Verein aus dem Ortsteil Jeddeloh II kommt,
+#  ist die erste Mannschaft beim DFB als SSV Jeddeloh
+#  und die zweite Mannschaft als SSV Jeddeloh II
 
 
 == Brandenburg ==
@@ -314,6 +324,9 @@ SG Aumund-Vegesack
 FC Oberneuland
 Bremer SV
 
+BSC Hastedt,     Bremen (Hastedt)
+  | Bremer Sportclub Hastedt
+
 
 == Baden-Württemberg ==
 
@@ -371,6 +384,15 @@ Offenburger FV
 FC-Astoria Walldorf
 SV Waldkirch
 
+1. CfR Pforzheim,  Pforzheim
+  | 1. Club für Rasenspiele Pforzheim
+
+FC 08 Villingen,    Villingen-Schwenningen
+  | Fußball-Club 1908 Villingen
+
+SV Linx
+  | SV Linx 1949
+
 
 == Hessen ==
 
@@ -393,6 +415,13 @@ Kickers Offenbach,     Offenbach am Main › Hessen
   | Offenbach
 KSV Hessen Kassel
 
+KSV Baunatal,    Baunatal
+  | Kultur- und Sportverein Baunatal
+
+TSV Steinbach Haiger
+  | TSV Steinbach
+  | Turn- und Sportverein Steinbach 1921
+
 
 == Rheinland-Pfalz ==
 
@@ -406,10 +435,14 @@ KSV Hessen Kassel
 ii) 1. FSV Mainz 05 II
   | Mainz 05 II
 
-Eintracht Trier,      Trier          › Rheinland-Pfalz
+Eintracht Trier,      Trier
   | Ein Trier
-TuS Koblenz,         Koblenz        › Rheinland-Pfalz
+TuS Koblenz,         Koblenz
   | Koblenz
+  | Turn- und Spielvereinigung Koblenz 1911
+
+Rot-Weiß Koblenz,    Koblenz
+
 
 TSG Pfeddersheim
 SV Roßbach/Verscheid
@@ -430,7 +463,10 @@ Holstein Kiel,       Kiel
 VfR Neumünster
 
 SC Weiche Flensburg 08,     Flensburg (Weiche)
+  | Weiche Flensburg 08
 
+TuS Dassendorf, 1948,     Dassendorf
+  | Turn- und Sportgemeinschaft Dassendorf
 
 
 
@@ -513,6 +549,12 @@ Hallescher FC,  1966,   Halle an der Saale
 
 1. FC Magdeburg, 1965,   Magdeburg
   | Magdeburg | FC Magdeburg
+
+1. FC Lok Stendal,  Stendal
+
+VfB Germania Halberstadt,   Halberstadt
+  | Germania Halberstadt
+  | Verein für Breitensport Germania Halberstadt
 
 
 == Thüringen ==
