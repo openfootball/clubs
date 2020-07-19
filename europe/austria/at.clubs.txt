@@ -49,6 +49,13 @@ FC Stadlau
 SC Red Star Penzing
   | Red Star Penzing
 
+ASK Elektra Wien,     Wien (Leopoldstadt)
+  | AS Koma Elektra | Athletic Sportklub Koma Elektra
+# 1921 als SC Elektra Wien
+# 2013 Fusion des FS Elektra mit dem 1984 gegründeten AS Koma
+
+FV Austria XIII
+
 
 == Burgenland ==
 
@@ -60,6 +67,8 @@ ii) SV Mattersburg II
 
 SC Neusiedl am See,  Neusiedl am See
   | SC Neusiedl | Neusiedl am See | SC Neusiedl am See 1919
+  | SC Neusiedl/See 1919
+
 ASV Draßburg, Draßburg
 
 SC-ESV Parndorf,   Parndorf
@@ -77,6 +86,9 @@ SV Wimpassing
 SC Ritzing
   | Ritzing
 SC Trausdorf
+
+ASV Siegendorf
+SV Neuberg
 
 == Niederösterreich ==
 
@@ -119,9 +131,12 @@ SKU Amstetten,   Amstetten
   | Amstetten SKU
 
 ASK Ebreichsdorf,   Ebreichsdorf
+
 FC Marchfeld Donauauen,  Mannsdorf an der Donau
-  | Mannsdorf-Großenz.
+  | Mannsdorf-Großenz. | FC Mannsdorf/Großenzersdorf
+  | FC Marchfeld Mannsdorf
   | SC Mannsdorf     # vormals (alter name)
+
 SV Leobendorf,     Leobendorf
 SV Stripfing,      Stripfing    # Gemeinde Weikendorf
 FCM Traiskirchen,  Traiskirchen
@@ -182,6 +197,9 @@ USV Langenlois, Langenlois
 SC Admira Gföhl
 USV Raabs/Thaya
 
+SV Gloggnitz,  Gloggnitz
+USV Scheiblingkirchen-Warth
+
 
 == Oberösterreich ==
 
@@ -218,6 +236,9 @@ FC Stahl Linz,       Linz
 #  | SK VOEST Linz (1978-1990)
 #  | FC VOEST Linz (1990-1991)
 
+Union Edelweiß Linz,   Linz
+
+
 
 SV Ried,  1912,       Ried i. Innkreis
   | Ried
@@ -231,6 +252,7 @@ SK Vorwärts Steyr,   Steyr
 FC Wels,         Wels
   | Wels FC
 WSC Hertha Wels, Wels
+  | WSC Hertha
 
 Union Vöcklamarkt, Vöcklamarkt
   | Vöcklamarkt
@@ -247,6 +269,8 @@ SV Wallern
   | Wallern
 SV Grün-Weiß Micheldorf
   | Micheldorf | SV Micheldorf
+
+ASKÖ Oedt
 
 
 == Steiermark ==
@@ -291,19 +315,21 @@ FC Gratkorn,     Gratkorn
 FC Lankowitz
   | FC Piberstein Lankowitz
 
+USV Mettersdorf
+
 
 == Kärnten ==
 
 Wolfsberger AC, 1931, Wolfsberg
   | Wolfsberg | Wolfsberger | AC Wolfsberger | Wolfsberger Athletik Club
-  | WAC/St. Andrä | Wolfsberger AC/St. Andrä   
+  | WAC/St. Andrä | Wolfsberger AC/St. Andrä
   | $$RZ Pellets$$ WAC           ## $$$ note: RZ Pellets is a sponsor name
  Don Bosco Weg 1 // 9400 Wolfsberg
 ii) Wolfsberger AC II
   | WAC Amateure
 
-# note: Durch eine Kooperation mit dem SK St. Andrä trat der Verein von 2007 bis 2012 
-#  unter den Namen Wolfsberger AC/St. Andrä in der Ersten Liga 
+# note: Durch eine Kooperation mit dem SK St. Andrä trat der Verein von 2007 bis 2012
+#  unter den Namen Wolfsberger AC/St. Andrä in der Ersten Liga
 
 
 ATSV Wolfsberg, 	Wolfsberg
@@ -336,7 +362,14 @@ FC Lendorf
 
 ASKÖ Köttmannsdorf
   | Köttmannsdorf
-VST Völkermarkt
+
+VST Völkermarkt,    Völkermarkt
+  | Völkermarkter ST 1868
+  | Völkermarkter Sport- und Turnverein 1868
+
+SK Treibach
+SK Maria Saal
+
 
 == Salzburg ==
 
@@ -373,6 +406,9 @@ TSV Neumarkt
   | TSV Neumarkt am Wallersee
 USC Eugendorf
 SC Golling
+
+FC Zell am See,  Zell am See
+SV Straßwalchen
 
 
 == Tirol ==
@@ -451,3 +487,5 @@ FC Lauterach
 RW Rankweil
 SC Röthis
   | SC $$Röfix$$ Röthis           ## $$$ note: Röfix is a sponsor
+
+FC Alberschwende
