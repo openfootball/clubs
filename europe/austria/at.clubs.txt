@@ -10,6 +10,7 @@ SK Rapid Wien, 1899,    Wien (Hütteldorf)
  Keisslergasse 3 // 1140 Wien
 ii) SK Rapid Wien II
   | Rapid Wien Am. | SK Rapid Amateure
+  | Rapid Wien II
 
 FK Austria Wien, 1911,  Wien (Favoriten)
   | Austria | Austria Wien
@@ -42,8 +43,14 @@ SC Ostbahn XI,           Wien (Simmering)
 
 Technopool Admira
   | Admira Technopool
+
+Admira Landhaus        ## check/todo:  same as Admira Technopool??
+
+
+
 SR Donaufeld
   | Donaufeld | SR Donaufeld Wien
+
 
 FC Stadlau
 SC Red Star Penzing
@@ -55,6 +62,10 @@ ASK Elektra Wien,     Wien (Leopoldstadt)
 # 2013 Fusion des FS Elektra mit dem 1984 gegründeten AS Koma
 
 FV Austria XIII
+Post SV Wien
+
+FC Hellas Kagran,  Wien (Donaustadt)  # aus Kagran im 22. Wiener Gemeindebezirk Donaustadt
+
 
 
 == Burgenland ==
@@ -89,6 +100,10 @@ SC Trausdorf
 
 ASV Siegendorf
 SV Neuberg
+SV St. Margarethen
+ASK Baumgarten
+ASKÖ Stinatz
+
 
 == Niederösterreich ==
 
@@ -155,8 +170,10 @@ SCU Ardagger
 SV Gaflenz
 FC Rohrendorf/Gedersdorf
   | SC Rohrendorf
+  | SC Rohrendorf/Gedersdorf
 SC Leopoldsdorf
   | SC Leopoldsdorf i. Mfd.
+  | SC Leopoldsdorf/Mfd.
 ATSV Ober-Grafendorf
   | Ober-Grafendorf
 ASK Kottingbrunn
@@ -194,11 +211,14 @@ USV Groß Gerungs
 USV Langenlois, Langenlois
   | Langenlois
 
+
 SC Admira Gföhl
 USV Raabs/Thaya
 
 SV Gloggnitz,  Gloggnitz
 USV Scheiblingkirchen-Warth
+ASC Götzendorf
+SC Brunn am Gebirge
 
 
 == Oberösterreich ==
@@ -238,6 +258,8 @@ FC Stahl Linz,       Linz
 
 Union Edelweiß Linz,   Linz
 
+ASKÖ Donau Linz, Linz
+
 
 
 SV Ried,  1912,       Ried i. Innkreis
@@ -271,6 +293,7 @@ SV Grün-Weiß Micheldorf
   | Micheldorf | SV Micheldorf
 
 ASKÖ Oedt
+SV Grieskirchen
 
 
 == Steiermark ==
@@ -280,6 +303,7 @@ SK Sturm Graz, 1909,       Graz
  Sternäckerweg 118 // 8042 Graz
 ii) SK Sturm Graz II
   | Sturm Graz Amat.
+  | Sturm Graz II
 
 Grazer AK,   Graz
 
@@ -291,6 +315,8 @@ TSV Hartberg, 1946,    Hartberg
 
 Kapfenberger SV,   Kapfenberg
   | KSV 1919 | Kapfenberger SV 1919
+ii) Kapfenberger SV II
+
 SV Lafnitz,   Lafnitz
   | Lafnitz
 
@@ -347,8 +373,8 @@ SAK Klagenfurt, Klagenfurt
   | SAK Celovec/Klagenfurt
 
 ASV Annabichler SV 1923,   Klagenfurt (Annabichl)
-  | Annabichler SV
   | ASV
+  | Annabichler SV | Annabichler Sportverein
 
 
 
@@ -356,6 +382,7 @@ Villacher SV, Villach
 
 SV Spittal/Drau
 FC St. Veit
+  | FC Sankt Veit
 FC Lendorf
   | Lendorf
 
@@ -391,6 +418,8 @@ SAK 1914,     1914, Salzburg
 SV Grödig,  1948,           Grödig
   | Grödig
  Prötschhofstrasse 26 // 5082 Grödig
+ii) SV Grödig II
+
 
 SV Seekirchen
   | SV Seekirchen 1945
@@ -423,6 +452,10 @@ ii) FC Wacker Innsbruck II
 
 SV Innsbruck, Innsbruck   ## Tiroler Liga
 
+Union Innsbruck,  Innsbruck
+  | FC Union Innsbruck
+
+
 WSG Tirol, 1930,   Wattens
   | Tirol
   | WSG $$Swarovski$$ Tirol | WSG $$Swarovs.$$ Tirol | Wattener Sportgemeinschaft Tirol
@@ -443,6 +476,7 @@ SVG Reichenau
   | Reichenau SVG
 FC Zirl
 SV Reutte
+SC Kundl
 
 
 == Vorarlberg ==
