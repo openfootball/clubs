@@ -24,6 +24,10 @@ ii) Young Violets Austria Wien
 SC Team Wiener Linien,   Wien (Favoriten)
   | Team Wiener Linien | SC Team Wr. Linien
 
+SV Wienerberg,  1921,  Wien (Favoriten)     ## aus dem Wiener Stadtteil Inzersdorf-Stadt am Fuße des Wienerbergs
+  | SV Wienerberg 1921
+
+
 Wiener Sport-Club,       Wien (Hernals)
   | Wiener Sportklub | Wiener SK | Wr. Sportklub
   | Wiener SC
@@ -37,12 +41,18 @@ Floridsdorfer AC,  1904,  Wien (Floridsdorf)
 
 Wiener Viktoria,         Wien (Meidling)
   | SC Wiener Viktoria
+
+
 FC Mauerwerk,            Wien (Simmering)
+  | Karabakh Wien | FC Karabakh Wien
+# Von September 2014 bis Juni 2018 spielte der Verein
+#   unter dem Namen "FC Karabakh Wien"
+
 
 SC Ostbahn XI,           Wien (Simmering)
 
 
-Admira Landhaus  
+Admira Landhaus
   | ISS Admira Landhaus
   | Technopool Admira | Admira Technopool
 # 2009 Fusion zwischen ISS Admira Landhaus und SC Technopool Brigittenau
@@ -66,7 +76,7 @@ FV Austria XIII
 Post SV Wien
 
 FC Hellas Kagran,  Wien (Donaustadt)  # aus Kagran im 22. Wiener Gemeindebezirk Donaustadt
-
+  | Hellas Kagran
 
 
 == Burgenland ==
@@ -104,6 +114,8 @@ SV Neuberg
 SV St. Margarethen
 ASK Baumgarten
 ASKÖ Stinatz
+USV Rudersdorf
+SC Bad Sauerbrunn
 
 
 == Niederösterreich ==
@@ -155,6 +167,8 @@ FC Marchfeld Donauauen,  Mannsdorf an der Donau
 
 SV Leobendorf,     Leobendorf
 SV Stripfing,      Stripfing    # Gemeinde Weikendorf
+  | SV Stripfing/Weiden
+
 FCM Traiskirchen,  Traiskirchen
 ASK-BSC Bruck/Leitha,  Bruck an der Leitha
   | Bruck/Leitha
@@ -220,6 +234,7 @@ SV Gloggnitz,  Gloggnitz
 USV Scheiblingkirchen-Warth
 ASC Götzendorf
 SC Brunn am Gebirge
+SVg Purgstall
 
 
 == Oberösterreich ==
@@ -295,6 +310,7 @@ SV Grün-Weiß Micheldorf
 
 ASKÖ Oedt
 SV Grieskirchen
+SK Bad Wimsbach
 
 
 == Steiermark ==
@@ -398,6 +414,8 @@ VST Völkermarkt,    Völkermarkt
 SK Treibach
 SK Maria Saal
 
+ATUS Ferlach,  Ferlach
+
 
 == Salzburg ==
 
@@ -439,6 +457,8 @@ SC Golling
 
 FC Zell am See,  Zell am See
 SV Straßwalchen
+FC Bergheim
+
 
 
 == Tirol ==
@@ -524,3 +544,5 @@ SC Röthis
   | SC $$Röfix$$ Röthis           ## $$$ note: Röfix is a sponsor
 
 FC Alberschwende
+FC Schwarzach
+
