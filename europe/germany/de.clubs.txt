@@ -179,6 +179,13 @@ SC Verl, 1924, Verl
 SV Rödinghausen, 1970, Rödinghausen
 
 
+Bonner SC,  1965,  Bonn
+  | Bonner Sport-Club 01/04
+#  1965 durch Zusammenschluss des
+#    1901 gegründeten Bonner FV und der
+#    1904 gebildeten Mannschaft Tura Bonn.
+
+
 == Saarland ==
 
 1. FC Saarbrücken,   Saarbrücken › Saarland
@@ -219,18 +226,30 @@ VfB Oldenburg,         Oldenburg › Niedersachsen
   | Oldenburg
 
 SV Wilhelmshaven
-BSV Schwarz-Weiß Rehden
+BSV Schwarz-Weiß Rehden,   1954,   Rehden
+  | BSV Rehden | Schwarz-Weiß Rehden
+  | Ballsportverein Schwarz-Weiß Rehden
+
 TSV Havelse
 SV Drochtersen/Assel
 
 SV Atlas Delmenhorst,   Delmenhorst
  | SV Atlas | Atlas Delmenhorst
 
+Lüneburger SK Hansa,  Lüneburg
+
 SSV Jeddeloh,   Jeddeloh II
   | Spiel- und Sportverein Jeddeloh
 # Obwohl der Verein aus dem Ortsteil Jeddeloh II kommt,
 #  ist die erste Mannschaft beim DFB als SSV Jeddeloh
 #  und die zweite Mannschaft als SSV Jeddeloh II
+
+
+Germania Egestorf/Langreder,  2001,  Barsinghausen
+  | 1. FC Germania Egestorf/Langreder
+  | 1. Fußballclub Germania Egestorf/Langreder
+#  2001 fusionierten die Fußballabteilungen des
+#    TSV Egestorf und TSV Langreder
 
 
 == Brandenburg ==
@@ -243,6 +262,7 @@ SV Babelsberg 03,     Potsdam › Brandenburg     ## (Potsdam-Babelsberg)
   | Babelsberg
 
 FSV Optik Rathenow
+  | Optik Rathenow
 SV Falkensee-Finkenkrug
 
 FFC Victoria 91,   Frankfurt an der Oder
@@ -295,6 +315,9 @@ ASK Vorwärts Berlin     # champs (6): 1969/70 1967..1965 (2) 1963..1961 (2) 195
 # 1969 wurde der Klub nach Frankfurt (Oder) verlegt
 #  und als ASK Vorwärts Frankfurt neu organisiert
 
+BFC Preussen, 1894
+  | Berliner Fussballclub Preussen 1894
+
 
 == Hamburg ==
 
@@ -308,7 +331,9 @@ FC St. Pauli, 1910,      Hamburg (St. Pauli) › Hamburg     ## use stadtteil St
 
 SC Victoria Hamburg
   | Victoria Hamburg
-USC Paloma Hamburg
+USC Paloma Hamburg, 1909
+  | Uhlenhorster SC Paloma
+  | Uhlenhorster Sport Club Paloma Hamburg
 HSV Barmbek-Uhlenhorst
 
 
@@ -326,6 +351,9 @@ Bremer SV
 
 BSC Hastedt,     Bremen (Hastedt)
   | Bremer Sportclub Hastedt
+
+LTS Bremerhaven,  1898,  Bremerhaven (Lehe)
+  | Leher Turnerschaft | Leher TS
 
 
 == Baden-Württemberg ==
@@ -362,7 +390,7 @@ VfR Aalen, 1921,          Aalen › Baden-Württemberg
 1. FC Heidenheim, 2007,   Heidenheim an der Brenz › Baden-Württemberg
   | Heidenheim | FC Heidenheim | 1. FC Heidenheim 1846
 SSV Reutlingen 05,     Reutlingen › Baden-Württemberg
-  | Reutlingen
+  | Reutlingen | SSV Reutlingen
 SV Sandhausen, 1916,         Sandhausen › Baden-Württemberg
   | Sandhausen | SV Sandhausen 1916
  Jahnstraße 1 // 69207 Sandhausen
@@ -383,6 +411,8 @@ Neckarsulmer Sport-Union
 Offenburger FV
 FC-Astoria Walldorf
 SV Waldkirch
+1. FC Rielasingen-Arlen
+Sportfreunde Dorfmerkingen
 
 1. CfR Pforzheim,  Pforzheim
   | 1. Club für Rasenspiele Pforzheim
@@ -392,6 +422,9 @@ FC 08 Villingen,    Villingen-Schwenningen
 
 SV Linx
   | SV Linx 1949
+
+FV Ravensburg,  1893,  Ravensburg
+  | FV 1893 Ravensburg
 
 
 == Hessen ==
@@ -414,6 +447,7 @@ SV Wehen Wiesbaden,     Wiesbaden › Hessen
 Kickers Offenbach,     Offenbach am Main › Hessen
   | Offenbach
 KSV Hessen Kassel
+  | Hessen Kassel
 
 KSV Baunatal,    Baunatal
   | Kultur- und Sportverein Baunatal
@@ -445,12 +479,21 @@ Rot-Weiß Koblenz,    Koblenz
 
 
 TSG Pfeddersheim
-SV Roßbach/Verscheid
+
+SV Roßbach/Verscheid, 1968,  Roßbach
+  | SV Roßbach
+# bis 2007 SV Roßbach/Wied
+
 Wormatia Worms
 SV Alemannia Waldalgesheim
 FSV Salmrohr
 FK Pirmasens
   | FK 03 Pirmasens
+
+SC Hauenstein, 1919,  Hauenstein
+  | Sport-Club Hauenstein
+
+SV Morlautern
 
 
 == Schleswig-Holstein ==
@@ -468,7 +511,10 @@ SC Weiche Flensburg 08,     Flensburg (Weiche)
 TuS Dassendorf, 1948,     Dassendorf
   | Turn- und Sportgemeinschaft Dassendorf
 
+Eintracht Norderstedt, 2003,  Norderstedt
+# 2003 als Nachfolgeverein der Fußballabteilung des 1. SC Norderstedt gegründet
 
+SV Eichede
 
 
 == Mecklenburg-Vorpommern ==
