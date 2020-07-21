@@ -25,6 +25,9 @@ Wimbledon FC,         London (Wimbledon)   ## Greater London
   | Wimbledon
 AFC Wimbledon,      @ Kingsmeadow,   London   ##  London (Norbiton ??)  or London- Kingston upon Thames ??
  ## add Wimbledon too here?
+Kingstonian FC,  1885,  London (Kingston upon Thames)
+  | Kingstonian
+
 
 Queens Park Rangers FC, 1882,  @ Loftus Road, London (Shepherd's Bush)   ## Greater London
   | QPR | Queens Park R. | Queens Park Rangers
@@ -51,6 +54,20 @@ Sutton United FC,          London
 
 Thames AFC (1928-1932),  London  ## London-Custom House
   | Thames
+
+Hampton & Richmond Borough FC, 1921, London (Hampton)
+  | Hampton & Richmond Borough
+# founded in 1921 and formerly known as Hampton FC
+
+Haringey Borough FC,  1973, London (Tottenham)
+  | Haringey Borough
+# formed in 1973 by a merger of Edmonton and Wood Green Town
+
+Carshalton Athletic FC, 1905,  London (Sutton)
+  | Carshalton Athletic
+
+Dulwich Hamlet FC,  1893,  London
+  | Dulwich Hamlet
 
 
 Everton FC, 1878,  @ Goodison Park, Liverpool (Walton) › Lancashire   ## North West England
@@ -176,7 +193,7 @@ Middlesbrough Ironopolis FC (1889-1894), Middlesbrough › North Yorkshire
   | Middlesbrough Ironopolis
 
 Scarborough Athletic FC, 2007,  Scarborough › North Yorkshire
-  | Scarborough 
+  | Scarborough
   # see en.wikipedia.org/wiki/Scarborough_Athletic_F.C.
   # formed on 25 June 2007 following the winding up of Scarborough Football Club.
 Scarborough FC (1879-2007), Scarborough › North Yorkshire
@@ -253,9 +270,13 @@ Norwich City FC, 1890,     @ Carrow Road,    Norwich › Norfolk
 
 Watford FC, 1881,   @ Vicarage Road,  Watford › Hertfordshire
   | Watford | FC Watford
+Hitchin Town FC,  1928,  Hitchin › Hertfordshire
+  | Hitchin Town
 
 Oxford United FC,      @ Kassam Stadium,   Oxford › Oxfordshire
   | Oxford | Oxford Utd | Oxford United
+Oxford City FC,  1883,      Oxford (Marston)  › Oxfordshire
+  | Oxford City
 
 Peterborough United FC, @ Abax Stadium,   Peterborough › Cambridgeshire
   | Peterboro  | Peterborough | Peterborough Utd. | Peterborough United
@@ -286,18 +307,29 @@ Reading FC, 1871,       @ Madejski Stadium,      Reading › Berkshire
 Maidenhead United FC,   Maidenhead › Berkshire
   | Maidenhead | Maidenhead United
 
+Slough Town FC, 1893, Slough › Berkshire
+  | Slough Town
+
+
 Brighton & Hove Albion FC,  @ American Express Stadium,  Falmer › East Sussex     # Brighton?
   | Brighton |  Brighton & Hove | Brighton & Hove Albion
   | Brighton Hove Albion
-Crawley Town FC,         @ Broadfield Stadium,   Crawley › West Sussex
-  | Crawley Town
 Eastbourne Borough FC,   Eastbourne › East Sussex
   | Eastbourne Borough
 Lewes FC,          Lewes › East Sussex
   | Lewes
 
+Crawley Town FC,         @ Broadfield Stadium,   Crawley › West Sussex
+  | Crawley Town
+Chichester City FC,   2000,  Chichester › West Sussex
+  | Chichester City
+
+
 Swindon Town FC,   @ County Ground,  Swindon › Wiltshire
   | Swindon | Swindon Town
+Chippenham Town FC,  1873,  Chippenham › Wiltshire
+  | Chippenham Town
+
 
 Colchester United FC,     @ Colchester Community Stadium,  Colchester › Essex
   | Colchester | Colchester United
@@ -309,6 +341,12 @@ Grays Athletic FC,  Grays › Essex
   | Grays
 Canvey Island FC,    Canvey Island › Essex
   | Canvey Island
+
+Billericay Town FC,  1880,  Billericay › Essex
+  | Billericay Town
+Maldon & Tiptree FC,  1946,  Maldon › Essex
+  | Maldon & Tiptree
+
 
 Lincoln City FC,  Lincoln › Lincolnshire
   | Lincoln | Lincoln City
@@ -370,6 +408,9 @@ Yeovil Town FC,        @ Huish Park,     Yeovil › Somerset
   | Yeovil | Yeovil Town
 Bath City FC,                Bath › Somerset
   | Bath City
+Weston-super-Mare AFC,  1948,   Weston-super-Mare › Somerset
+  | Weston-super-Mare
+
 
 Forest Green Rovers FC,     Nailsworth › Gloucestershire
   | Forest Green | Forest Green Rovers
@@ -379,8 +420,12 @@ Cheltenham Town FC,         Cheltenham › Gloucestershire
 
 Kidderminster Harriers FC,  Kidderminster › Worcestershire
   | Kidderminster | Kidderminster Harriers
+
 Woking FC,                  Woking › Surrey
   | Woking
+Metropolitan Police FC,   1919, East Molesey › Surrey,
+  | Metropolitan Police
+
 
 Chesterfield FC,     @ Proact Stadium,   Chesterfield › Derbyshire
   | Chesterfield
@@ -405,13 +450,13 @@ Northampton Town FC,  @ Sixfields Stadium,  Northampton › Northamptonshire
 ## note: there's also <=> Northampton Sileby Rangers  (!!)
 
 Rushden & Diamonds (1992-2011), Rushden › Northamptonshire
-  | Rushden | Rushden & D 
+  | Rushden | Rushden & D
   | Rushden & Diamonds FC | Rushden & Diamonds Football Club
-## note: was formed by a merger of Rushden Town and Irthlingborough Diamonds in 1992  
+## note: was formed by a merger of Rushden Town and Irthlingborough Diamonds in 1992
 
 AFC Rushden & Diamonds, 2011,  Rushden › Northamptonshire
 ## todo/fix:  add Rushden & Diamonds here too? and add resolve by season/year
-## note: was formed by supporters in July 2011, after Rushden & Diamonds, a former Football League club, 
+## note: was formed by supporters in July 2011, after Rushden & Diamonds, a former Football League club,
 ##  was expelled from the Football Conference and liquidated.
 
 Kettering Town FC,  Kettering › Northamptonshire
@@ -431,6 +476,9 @@ Macclesfield Town FC, Macclesfield › Cheshire
   | Macclesfield | Macclesfield Town
 Northwich Victoria FC,  Northwich › Cheshire
   | Northwich | Northwich Victoria
+Nantwich Town FC,  1884,    Nantwich › Cheshire
+  | Nantwich Town
+
 
 Fleetwood Town FC,  @ Highbury Stadium,  Fleetwood › Lancashire
   | Fleetwood Town
