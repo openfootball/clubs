@@ -26,19 +26,24 @@ Chongqing Dangdai Lifan,   Chongqing
   | Chongqing Dangdai Lifan FC
   | Chongqing SWM
 Changchun Yatai,           Changchun
+
 Dalian Yifang,             Dalian
   | Dalian Yifang FC
   | Dalian Aerbin FC          # note: Dalian Aerbin (2009–2015)
+  | Dalian Pro | Dalian Professional
+# note: in January 2020 Dalian Yifang FC changed their name to Dalian Pro
+
 Guizhou Hengfeng,          Guiyang
   | Guizhou Zhicheng
   | Guizhou Hengfeng Zhicheng FC
+  | Guizhou Heng
 Hangzhou Greentown,        Hangzhou
 
 Shandong Luneng Taishan,   Jinan
   | Shandong L. | Shandong Lunen | Shandong Luneng
 Hebei China Fortune,       Langfang
   | Hebei
-  | Hebei Fortune | Hebei China Fortun | Hebei China Fortune FC 
+  | Hebei Fortune | Hebei China Fortun | Hebei China Fortune FC
 Jiangsu Suning,            Nanjing
   | Jiangsu Suning FC
 
@@ -50,10 +55,16 @@ Shijiazhuang Ever Bright,   Shijiazhuang
 
 Tianjin Tianhai,            Tianjin
   | Tianjin Songjiang
+  | Tianjin Quanjian | Tianjin Q'jiang
+# name history:
+#   2006–2007 Hohhot Binhai FC
+#   2008–2015 Tianjin Songjiang FC
+#   2015–2018 Tianjin Quanjian FC
+#   2019–2020 Tianjin Tianhai FC
+
 Tianjin TEDA,               Tianjin
   | Tianjin Teda FC
   | FC Tianjin Taida
-Tianjin Quanjian,           Tianjin
 
 
 Wuhan Zall,                 Wuhan
@@ -67,3 +78,7 @@ Yanbian Funde,              Yanji
   | Yanbian
 Zhejiang Yiteng FC,       Harbin    ## todo check city (from 2014) moved (and renamed)?
   | Zhejiang Yiteng | Harbin Yiteng
+
+Qingdao Huanghai FC,  2013,  Qingdao
+  | Qingdao Huanghai
+  | Qingdao Hainiu FC
