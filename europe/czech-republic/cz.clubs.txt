@@ -10,7 +10,7 @@ AC Sparta Praha, 1893, Praha       ## Prague [en]
 
 FK Dukla Praha, 1958,  Praha
   | Dukla
-  | FK Dukla Prague [en]
+  | Dukla Prague [en] | FK Dukla Prague [en]
   | FK Dukla Prag [de]
   | Dukla Praha     # champs (10): 1982/83 1979/80 1977/78 1966/67 1965....1961 (4) 1959..1957 (2)
 
