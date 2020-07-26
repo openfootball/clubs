@@ -14,6 +14,7 @@ Panathinaikos FC,  Athens
 Apollon Smyrnis FC,  Athens
   | Apollon | Apollon Smyrnis
   | Apollon Athens FC
+  | Apollon Smyrni
 
 Atromitos FC,      Athens    ## use!? - Peristeri a suburban municipality in the northwestern part of the Athens agglomeration
   | Atromitos
@@ -76,6 +77,7 @@ Apollon Pontou FC, Kalamaria › Central Macedonia    ## Kalamaria, Thessaloniki
 
 Asteras Tripolis FC, Tripoli › Peloponnese
   | Asteras | Asteras Tripolis
+  | Asteras Tripoli
 
 Xanthi FC,           Xanthi › Thrace
   | Xanthi
