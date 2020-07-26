@@ -50,8 +50,8 @@ Dunaújváros FC (1952-2009),  Dunaújváros
 Videoton FC
   | Videoton      # champs (2): 2015/16 2011/12
   | Videoton Fehérvár
-  | Fehérvár | Fehérvár FC
-  | MOL Fehérvár FC | MOL Vidi
+  | Fehérvár | Fehérvár FC  
+  | Vidi | MOL Vidi | MOL Fehérvár FC
 
 
 Debreceni VSC
@@ -88,11 +88,9 @@ Diósgyőri VTK,  1910, Miskolc (Diósgyőr)
 Mezőkövesd Zsóry SE
   | Mezőkövesd | Mezőkövesd-Zsóry
 
-Varda SE
-  | Varda
 
 Puskás Akadémia FC
-  | Puskás FC
+  | Puskás | Puskás FC
 
 Kaposvári Rákóczi FC
   | Rákóczi | Kaposvári Rákóczi
@@ -141,3 +139,7 @@ BFC Siófok, 1921,    Siófok
 Komlói Bányász SK,   1922,   Komló
   | Komlói Bányász | Komlói Bányász Sport Klub
 
+Kisvárda FC,  Kisvárda
+  | Kisvárda | Kisvárda Futball Club 
+  | Varda | Varda SE
+  
