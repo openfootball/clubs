@@ -1,0 +1,43 @@
+====================================
+= Austria
+
+##  note: use history log by season (instead of by year) - why? why not?
+
+== 2019/20
+
+RENAME    WSG Wattens ⇒ WSG Tirol
+
+== 2017/8
+
+REFORM   FC Pasching  ⇒ FC Juniors OÖ    ## use RENAME - why? why not?
+
+
+== 2012/3
+
+## REFORM   FC RB Salzburg II  ⇒  FC Liefering   ????
+##   or just add til -2012/3 ???
+
+###
+# Ab der Saison 2012/13 spielen die Juniors in einer Spielgemeinschaft
+# mit dem neu gegründeten FC Anif. Die SG FC Anif / Red Bull Juniors
+# bestreitet ihre Spiele im Sportzentrum Anif.
+# Im Gegenzug wurde der USK Anif in FC Liefering umbenannt,
+# übersiedelte auf das Gelände der Red-Bull-Akademie
+# und fungiert nun als inoffizielles Farmteam von Red Bull. Weil der FC Liefering offiziell von Red Bull Salzburg unabhängig ist, durfte er im Sommer 2013 nach dem Gewinn des Meistertitels in der Regionalliga und zwei Siegen (2:0 und 3:0) in der Relegation gegen den LASK in die Erste Liga aufsteigen. Den Juniors, die in der Spielgemeinschaft mit Anif den 6. Platz belegten, wäre das nicht gestattet gewesen.
+
+RENAME    USK Anif ⇒ FC Liefering
+# Bis 2012 hieß der Verein Union-Sportklub Anif, kurz USK Anif,
+# war in Anif beheimatet.
+
+
+== 2005/6
+
+REFORM   SV Austria Salzburg ⇒ FC RB Salzburg
+
+
+############
+## check renames starting in what season?
+
+## RENAME  Austria Wien II ⇒ Young Violets
+##  or FK Austria Wien II ⇒ Young Violets Austria Wien ??
+

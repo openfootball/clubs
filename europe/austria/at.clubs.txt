@@ -426,11 +426,14 @@ ii) FC RB Salzburg II        ## check for old name until season 2011/12 - now "i
   | RB Salzburg II | FC Red Bull Salzburg II
   | FC RB Juniors Salzburg
 
-FC Liefering,  1947      #  note: Liefering - Stadtteil von Salzburg -- add as RB Salzburg II - why? why not?
-  | Liefering
-
 Austria Salzburg,    Salzburg
   | A. Salzburg | SV Austria Salzburg
+
+FC Liefering,  1947      #  note: Liefering - Stadtteil von Salzburg -- add as RB Salzburg II - why? why not?
+  | Liefering
+USK Anif
+
+
 SAK 1914,     1914, Salzburg
   | Salzburger AK 1914 | SAK 1914 Salzburg
 
@@ -444,7 +447,6 @@ SV Seekirchen
   | SV Seekirchen 1945
 FC Pinzgau Saalfelden
   | Pinzgau Saalfelden
-USK Anif
 TSV St. Johann,   St. Johann im Pongau
   | TSV St. Johann Pongau | TSV St. Johann im Pongau
 SV Wals-Grünau
