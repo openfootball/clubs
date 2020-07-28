@@ -16,6 +16,7 @@ REFORM   FC Pasching  ⇒ FC Juniors OÖ    ## use RENAME - why? why not?
 
 ## REFORM   FC RB Salzburg II  ⇒  FC Liefering   ????
 ##   or just add til -2012/3 ???
+##     does RB Salzburg II still exist??
 
 ###
 # Ab der Saison 2012/13 spielen die Juniors in einer Spielgemeinschaft
@@ -32,7 +33,10 @@ RENAME    USK Anif ⇒ FC Liefering
 
 == 2005/6
 
-REFORM   SV Austria Salzburg ⇒ FC RB Salzburg
+### REFORM   SV Austria Salzburg ⇒ FC RB Salzburg
+##  check if old Austria Salzburg refounded (and playing in cup or regional)?
+##   keep separate for now?
+
 
 
 ############

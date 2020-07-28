@@ -7,6 +7,9 @@
 
 Arsenal FC, 1886, @ Emirates Stadium, London (Highbury)   ## Greater London
   | Arsenal | FC Arsenal
+  | The Arsenal FC       # old name before season 1927/8
+  | Woolwich Arsenal FC  # old name before season 1914/5
+  | Royal Arsenal FC     # old name before season 1892/3
 Chelsea FC, 1905, @ Stamford Bridge, London (Fulham)    ## Greater London
   | Chelsea | FC Chelsea
 
@@ -33,10 +36,12 @@ Queens Park Rangers FC, 1882,  @ Loftus Road, London (Shepherd's Bush)   ## Grea
   | QPR | Queens Park R. | Queens Park Rangers
 Millwall FC,      @ The Den,     London (South Bermondsey)        # London (South Bermondsey) or  London-South Bermondsey
   | Millwall | FC Millwall
+  | Millwall Athletic FC   # old name before season 1925/6
 Brentford FC,        @ Griffin Park,  London (Brentford)        #  London (Brentford)  or London-Brentford, Greater London
   | Brentford | FC Brentford
 Leyton Orient FC,     @ Brisbane Road,  London  ##   London (Leyton) or London-Leyton
   | Leyton Orient
+  | Clapton Orient FC  # old name before season 1946/7
 Barnet FC,           @ The Hive Stadium, London ##   London (Canons Park ??)  or London-Edgware ??
   | Barnet
 Dagenham & Redbridge FC,  @ Victoria Road,  London  ##  London (Dagenham)  or London-Dagenham
@@ -79,8 +84,11 @@ Blackburn Rovers FC,  @ Ewood Park,  Blackburn › Lancashire
   | Blackburn | Blackburn Rovers
 Burnley FC, 1882,    @ Turf Moor,   Burnley › Lancashire
   | Burnley | FC Burnley
+
 Blackpool FC,    @ Bloomfield Road,    Blackpool › Lancashire
   | Blackpool | FC Blackpool
+South Shore FC,                        Blackpool › Lancashire
+
 Preston North End FC,   @ Deepdale,  Preston › Lancashire   ## North West
   | Preston | Preston North End
 AFC Fylde,            Wesham › Lancashire       ## in the Borough of Fylde
@@ -94,8 +102,10 @@ Nelson FC,           Nelson, Lancashire
 
 Manchester United FC, 1878, @ Old Trafford, Manchester (Old Trafford)     ## North West England
   | Man Utd | Man. United | Manchester U. |  Manchester Utd | Manchester United
+  | Newton Heath FC   # old name before reform in season 1902/3
 Manchester City FC, 1880, @ Etihad Stadium,  Manchester     ## North West England
   | Man City | Manchester City | Man. City | Manchester C
+  | Ardwick FC        # old name before reform in season 1894/5
 
 Oldham Athletic AFC,    @ Boundary Park,  Oldham › Greater Manchester
   | Oldham  | Oldham Athletic
@@ -134,10 +144,17 @@ Aston Villa FC, 1874,    @ Villa Park, Birmingham › Warwickshire   ## West Mid
   | Aston Villa | Villa
 Birmingham City FC,  @ St Andrew's,  Birmingham › Warwickshire   ## West Midlands
   | Birmingham | Birmingham City
+  | Birmingham FC   # old name before season 1945/6
+  | Small Heath FC  # old name before season 1905/6
 
 
 Newcastle United FC, 1892, @ St James' Park, Newcastle upon Tyne › Northumberland   ## North East
   | Newcastle | Newcastle Utd | Newcastle United
+Newcastle West End FC,  Newcastle upon Tyne › Northumberland
+# merged into United in 1893/4
+Newcastle East End FC,  Newcastle upon Tyne › Northumberland
+# merged into United in 1893/4
+
 Ashington AFC, Ashington › Northumberland
   | Ashington
 
@@ -176,6 +193,7 @@ Wolverhampton Wanderers FC,    @ Molineux,  Wolverhampton › West Midlands
   | Wolves | Wolverhampton | Wolverhampton Wand. | Wolverhampton Wanderers
 Walsall FC,       @ Bescot Stadium,     Walsall › West Midlands
   | Walsall | FC Walsall
+  | Walsall Town Swifts FC   # old name before season 1895/6
 Solihull Moors FC,   Solihull › West Midlands
   | Solihull | Solihull Moors | FC Solihull Moors
 Stafford Rangers FC,   Stafford › West Midlands
@@ -233,11 +251,13 @@ North Ferriby United AFC,  North Ferriby › East Yorkshire
 
 Sheffield Wednesday FC,   @ Hillsborough,  Sheffield (Owlerton) › South Yorkshire
   | Sheffield Wed | Sheffield Weds | Sheffield Wednes. | Sheffield Wednesday
+  | The Wednesday FC   # old name before season 1929/30
 Sheffield United FC,  @ Bramall Lane,  Sheffield (Highfield) › South Yorkshire
   | Sheffield United | Sheff. United | Sheffield Utd
 
 Barnsley FC,   @ Oakwell,  Barnsley › South Yorkshire
   | Barnsley | FC Barnsley
+  | Barnsley St. Peter's FC   # old name before season 1899/00
 Rotherham United FC,    @ New York Stadium,  Rotherham › South Yorkshire
   | Rotherham | Rotherham United
 Rotherham County FC (1870-1925), Rotherham › South Yorkshire
@@ -250,8 +270,10 @@ Doncaster Rovers FC,    @ Keepmoat Stadium,  Doncaster › South Yorkshire
 
 Stoke City FC, 1863,  @ Britannia Stadium,  Stoke-on-Trent › Staffordshire
   | Stoke | Stoke City
+  | Stoke FC  # old name before season 1925/6
 Port Vale FC,         @ Vale Park,   Stoke-on-Trent › Staffordshire
   | Port Vale
+  | Burslem Port Vale FC  # old name before reform in season 1911/2
 Burton Albion FC,     @ Pirelli Stadium,  Burton upon Trent › Staffordshire
   | Burton | Burton Albion
 Burton United FC (1901-1910),    Burton upon Trent › Staffordshire
@@ -354,6 +376,7 @@ Lincoln City FC,  Lincoln › Lincolnshire
 
 Scunthorpe United FC,  @ Glanford Park,   Scunthorpe › Lincolnshire
   | Scunthorpe | Scunthorpe United
+  | Scunthorpe & Lindsey United FC   # old name before season 1958/9
 Boston United FC,      Boston › Lincolnshire
   | Boston | Boston United
 ## note: <=> there's also  Boston Town
@@ -429,10 +452,13 @@ Metropolitan Police FC,   1919, East Molesey › Surrey,
 
 Chesterfield FC,     @ Proact Stadium,   Chesterfield › Derbyshire
   | Chesterfield
+  | Chesterfield Town FC   # old name before season 1909/10 to 1905/6
 Alfreton Town FC,   Alfreton › Derbyshire
   | Alfreton Town
 Glossop North End AFC, Glossop › Derbyshire
   | Glossop North End
+  | Glossop North End FC  ## todo/double check if AFC is new or same as old FC ??
+  | Glossop FC
 
 Carlisle United FC,   @ Brunton Park, Carlisle › Cumbria
   | Carlisle | Carlisle United
