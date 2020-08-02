@@ -219,3 +219,17 @@ Angoulême-Soyaux Charente, 1920, Angoulême
 # Angoulême Charente Football Club (ACFC) (2005-2019)
 # Angoulême-Soyaux Charente (ASC) (2005-2019)
 
+
+Pau FC,    Pau    # Pyrénées-Atlantiques
+  | Pau Football Club
+# Bleuets Notre-Dame de Pau (1920-1959)
+# FC Pau (1959-1995)
+
+USL Dunkerque,   Dunkerque 
+  | USLD
+  | Union sportive du littoral de Dunkerque
+# Union sportive de Malo-les-Bains (1900-1919)
+# Union sportive Dunkerque-Malo (1919-1927)
+# Union Racing Dunkerque-Malo (1927-1934)
+# Olympique dunkerquois (1934-1954)
+# Union sportive de Dunkerque (1954-1987)
