@@ -36,7 +36,7 @@ Royal Antwerp FC,    Antwerpen › Antwerpen › Vlaanderen
 
 K Beerschot VA, 1899,  Antwerpen › Antwerpen › Vlaanderen               ## in 2019 renamed to K. Beerschot V.A.)
   | Koninklijke Beerschot Voetbalclub Antwerpen
-  | KFCO Wilrijk
+  | KFCO Wilrijk | KFCO Beerschot Wilrijk
 # In 2013, KFCO Wilrijk decided to integrate the identity of
 #   Beerschot AC
 # In June 2013 K.FC.O. Wilrijk unofficially integrated
