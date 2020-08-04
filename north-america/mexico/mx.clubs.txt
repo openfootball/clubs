@@ -5,6 +5,7 @@
 == Ciudad de México ==
 Club América, 1916,   Ciudad de México
   | América | América de Mexico | Águilas
+  | CF América | Club de Fútbol América
  Calle del Toro No. 100, Col. Ex Hacienda de Coapa Delegación Coyoacán // México D.F. C.P. 14390
 
 Cruz Azul, 1927,      Ciudad de México
@@ -36,6 +37,7 @@ CD Guadalajara Chivas, 1906,   Guadalajara (Zapopan) › Jalisco     ## use Zapo
 
 Club Atlas,  1916,              Guadalajara › Jalisco
   | Atlas | Club Atlas de Guadalajara | Atlas FC
+  | Atlas Guadalajara
  Av. Patria 2300, Col. Lomas del Bosque // Zapopan, Jalisco C.P. 45110
  
 Leones Negros U. de G., 1970,  Guadalajara › Jalisco    
@@ -73,7 +75,10 @@ Lobos BUAP, 1967,         Puebla › Puebla
 == Veracruz ==
 Tiburones Rojos Veracruz, 1943,   Veracruz (Boca del Río) ›      ## Boca del Río
   | Veracruz | Tiburones Rojos (de Veracruz)
+  | CD Veracruz | Club Deportivo Veracruz
  Av. Jacarandas s/n esq. Av. España Fraccionamiento Virginia Boca del Río // Veracruz
+
+
 
 
 ==  Chihuahua  ==
@@ -120,6 +125,9 @@ Dorados Sinaloa, 2003,     Culiacán
   | Dorados de Sinaloa
   | Dorados | Sinaloa
 
+Mazatlán FC, 2020,        Mazatlán  
+  | Mazatlán Fútbol Club
+
 == Zacatecas ==
 Mineros Zacatecas,     Zacatecas
   | Mineros de Zacatecas | Club Deportivo Mineros de Zacatecas
@@ -146,7 +154,7 @@ Cruz Azul Hidalgo, 1993,     Cd. Cooperativa Cruz Azul    ## Tula ??
 == Querétaro ==
 Querétaro FC, 1950,      Querétaro
   | Querétaro
-  | Gallos Blancos (de Querétaro)
+  | Gallos Blancos | Gallos Blancos (de Querétaro)
   | Querétaro Fútbol Club
  Prol. Luis Vega y Monroy 409-4, Col. Balaustrads // Santiago de Querétaro, C.P. 76079
 
