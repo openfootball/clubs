@@ -104,3 +104,12 @@ IK Brage,   Borlänge
 Landskrona BoIS, 1915,  Landskrona
   | Landskrona Boll och Idrottsällskap
 
+Akropolis IF, 1968,  Spånga
+  | Akropolis Idrottsförening
+
+IK Frej, 1968, Täby
+  | Idrottsklubben Frej
+
+Umeå FC, 1987, Umeå
+  | Umeå Fotbollsclub
+
