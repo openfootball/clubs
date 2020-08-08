@@ -16,6 +16,13 @@ Valur Reykjavík,  1911, Reykjavík
 Víkingur Reykjavík, Reykjavík
   | Víkingur R.
 
+Fjölnir Reykjavík, Reykjavík
+  | Fjölnir | Ungmennafélagið Fjölnir
+
+
+Grótta,   Seltjarnarnes
+  | Íþróttafélagið Grótta
+
 
 ÍA Akranes,   Akranes
   | ÍA | Íþróttabandalag Akraness
@@ -38,7 +45,8 @@ Stjarnan,  1960,      Garðabær
 Grindavík,    Grindavík
   | UMF Grindavík
 HK Kópavogs,   Kópavogur
-  | HK
+  | HK | Handknattleiksfélag Kópavogs
+  | HK Kópavogur
 
 KA Akureyri,   Akureyri
   | KA
