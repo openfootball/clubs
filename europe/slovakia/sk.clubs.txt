@@ -96,3 +96,10 @@ FC Senec (1994-2008), Senec
 # in 2007/2008 season merged with FK DAC 1904 Dunajská Streda.
 
 
+FK Pohronie,     Žiar nad Hronom
+
+FK Železiarne Podbrezová,  Podbrezová
+  | ŽP Šport Podbrezová
+# 1936 – Renamed ŠKP Podbrezová
+# 2006 – Merged with Brezno and renamed FO ŽP Šport Podbrezová
+# 2017 – Renamed FK Železiarne Podbrezová

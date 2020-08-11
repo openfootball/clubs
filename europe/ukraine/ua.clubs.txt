@@ -45,16 +45,21 @@ FC Dnipro,    Dnipropetrovsk
 
 SC Dnipro-1,  2017,  Dnipropetrovsk      ## todo/check - differnt from FC Dnipro ???
   | Dnipro-1 | Sport Club Dnipro-1
+  | SK Dnipro-1
 
 FC Vorskla Poltava
   | Vorskla
   | Vorskla Poltava
   | Vorskla Poltawa [de]
 
-FC Karpaty Lviv
-  | Karpaty | FC Lviv
+FC Karpaty Lviv, 1963, Lviv
+  | Karpaty
   | Karpaty Lviv
   | Karpaty Lemberg [de]
+
+FC Lviv, 2006, Lviv
+  | FK Lviv
+
 
 SC Tavriya Simferopol
   | Tavriya
@@ -84,10 +89,14 @@ FC Chornomorets Odesa
   | Chernomorets Odessa
   | Chernom. Odessa [de]
 
-Desna
+
+Desna Chernihiv
+  | Desna
   | SFC Desna Tscherni
   | FC Desna Chernihiv
   | FK Desna Chernihiv
+  | Desna Chernigov
+
 
 Kolos Kovalivka
   | FC Kolos Kovalivka

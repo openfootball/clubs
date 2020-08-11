@@ -27,6 +27,17 @@ Union Luxembourg (1925-2005), Lëtzebuerg        # champs (5): 1993...1990 (3) 1
 # now a part of Racing FC Union Luxembourg
 
 
+FC Blue Boys Muhlenbach,  Lëtzebuerg (Muhlenbach)
+  | Muhlenbach
+  | Blue Boys Muhlenbach
+  | FC Muhlenbach Sandzak
+
+
+RM Hamm Benfica,   Lëtzebuerg (Hamm)
+  | FC RM Hamm Benfica
+  | FC Rapid Mansfeldia Hamm Benfica
+
+
 
 F91 Dudelange,   Dudelange
   | Dudelange
@@ -47,47 +58,62 @@ Red Boys Differdange (1907-2003),  Differdange
   | FA Red Boys Differdange     # champs (1): 1979/80
 # now a part of FC Differdange 03
 
+
+CS Fola Esch,     Esch-sur-Alzette
+  | Fola | Fola Esch     # champs (2): 2015/16 2013/14
+
 Jeunesse d'Esch, Esch-sur-Alzette
   | Jeunesse Esch | AS Jeunesse Esch
 
-CS Grevenmacher
+
+
+CS Grevenmacher,   Grevenmacher
   | Grevenmacher     # champs (1): 2003/04
+  | Club Sportif Grevenmacher
 
-UN Käerjéng 97
-CS Fola Esch
-  | Fola | Fola Esch     # champs (2): 2015/16 2013/14
+UN Käerjéng 97,   Bascharage
+  | Uewer Nidder Käerjéng 97
 
 
-
-FC Progrès Niederkorn
+FC Progrès Niederkorn,   Niederkorn
   | Progrès | P. Niederkorn
   | Progrès Niederkorn
   | Progrès Niedercorn       # champs (2): 1981/82 1978/79
 
-US Mondorf-les-Bains
-  | Mondorf-les-Bains
-FC Union Titus Pétange
-  | Union Titus
-FC UNA Strassen
-  | UNA Strassen
-FC Victoria Rosport
-  | Rosport
-FC Muhlenbach Sandzak
-  | Muhlenbach
+US Mondorf-les-Bains,   Mondorf-les-Bains
+  | Mondorf-les-Bains | US Mondorf
 
-FC Etzella Ettelbruck
-  | Etzella
-FC Rodange 91
+FC Union Titus Pétange,  Pétange
+  | Union Titus | Union Titus Pétange
+
+CS Pétange (1910-2015),    Pétange
+  | Club Sportif Pétange
+# In 2015 folded and merged with FC Titus Lamadelaine
+#  to form Union Titus Pétange.
+
+
+FC UNA Strassen,   Strassen
+  | UNA Strassen
+FC Victoria Rosport,    Rosport
+  | Rosport | Victoria Rosport
+
+
+
+FC Etzella Ettelbruck,    Ettelbruck
+  | Etzella | Etzella Ettelbruck
+FC Rodange 91,    Rodange
   | Rodange
-US Hostert
+US Hostert,      	Hostert
   | Hostert
+  | Football Club Union Sportive Hostert
 
 FC Mondercange, 1933,  Mondercange
 
 US Rumelange,  1908, Rumelange
   | Union Sportive Rumelange
 
-CS Pétange (1910-2015),    Pétange
-  | Club Sportif Pétange
-# In 2015 folded and merged with FC Titus Lamadelaine
-#  to form Union Titus Pétange.
+FC Wiltz 71,   Wiltz
+
+FC Swift Hesperange,  Hesperange
+  | Swift Hesperange
+  | Football Club Swift Hesper

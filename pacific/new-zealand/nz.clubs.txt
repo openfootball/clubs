@@ -2,22 +2,54 @@
 =  New Zealand
 
 
-# New Zealand Football Championship 2012-13 Teams
-
 Auckland City FC,       Auckland › Auckland › North Island
   | Auckland City
 Waitakere United,       Auckland (Waitakere) › Auckland › North Island    ## Waitakere City is a former territorial authority district in the west of Auckland
+
+Eastern Suburbs,       Auckland › Auckland › North Island
+  | Eastern Suburbs AFC
+
+
+
 Hawke's Bay United,     Napier › Hawke's Bay › North Island
+  | Hawke's Bay United FC
+
 Team Wellington,        Wellington › Wellington › North Island
-Waikato FC,             Hamilton › Waikato › North Island
-YoungHeart Manawatu,    Palmerston North › Manawatu-Wanganui › North Island
-
-Canterbury United,   Christchurch › Canterbury › South Island
-Otago United,  Dunedin › Otago  › South Island
-
 
 ########
 # note: plays in australian a-league
 
 Wellington Phoenix,     Wellington › Wellington › North Island
   | Wellington | Wellington Phoenix FC
+ii) Wellington Phoenix Reserves    ## reserve team plays in championship
+  | Wellington Phoenix II
+
+
+
+Hamilton Wanderers,     Hamilton › Waikato › North Island
+WaiBOP United  (-2016),     Hamilton › Waikato › North Island
+  | Waikato FC
+# From the 2014-15 season, the club changed its colours to predominantly red and blue
+#   to better represent both Waikato and Bay of Plenty
+# known as Waikato FC until 2013
+
+YoungHeart Manawatu,    Palmerston North › Manawatu-Wanganui › North Island
+
+
+
+Canterbury United,   Christchurch › Canterbury › South Island
+
+Southern United,    Dunedin › Otago  › South Island
+  | Otago United
+
+Tasman United,      Nelson › Nelson › South Island
+
+
+###########
+# Name changes:
+#  -  Napier City Rovers → Hawke's Bay United
+#  -  Otago United       → Southern United
+#  -  Waikato FC         → WaiBOP United
+
+
+
