@@ -117,6 +117,8 @@ ASKÖ Stinatz
 USV Rudersdorf
 SC Bad Sauerbrunn
 
+FC Deutschkreutz, 1984, Deutschkreutz
+
 
 == Niederösterreich ==
 
@@ -141,6 +143,10 @@ VfB Mödling (1911-1977),  Mödling
 SC Wiener Neustadt, 1908,  Wr. Neustadt
   | Neustadt | Wr. Neustadt | SC Wr. Neustadt | Wiener Neustadt
  Giltschwertgasse 81 // 2700 Wr. Neustadt
+
+1. Wiener Neustädter SC, 2008,   Wr. Neustadt
+  | 1. Wiener Neustädter Sportclub
+
 
 SKN St. Pölten, 2000,      St. Pölten
   | St. Pölten | Sportklub Niederösterreich St. Pölten
@@ -193,6 +199,9 @@ ATSV Ober-Grafendorf
   | Ober-Grafendorf
 ASK Kottingbrunn
 ASV Spratzern
+ASV Schrems,  Schrems
+
+
 
 SC Krems,  Krems
   | Kremser SC
@@ -416,6 +425,10 @@ SK Maria Saal
 
 ATUS Ferlach,  Ferlach
 
+SV St. Jakob/Rosental
+
+
+
 
 == Salzburg ==
 
@@ -432,6 +445,7 @@ Austria Salzburg,    Salzburg
 FC Liefering,  1947      #  note: Liefering - Stadtteil von Salzburg -- add as RB Salzburg II - why? why not?
   | Liefering
 USK Anif
+  | USK $$Maximarkt$$ Anif
 
 
 SAK 1914,     1914, Salzburg
