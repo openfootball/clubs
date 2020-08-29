@@ -38,6 +38,7 @@ First Vienna FC,  1894,  Wien (Döbling)
 
 Floridsdorfer AC,  1904,  Wien (Floridsdorf)
   | FAC Team für Wien
+  | FAC Wien
 
 Wiener Viktoria,         Wien (Meidling)
   | SC Wiener Viktoria
@@ -125,6 +126,7 @@ FC Deutschkreutz, 1984, Deutschkreutz
 FC Admira Wacker Mödling, 1905, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
   | Admira | Admira Wacker
   | FC Admira | FC Admira Wacker | Admira Wacker Mödling
+  | FC $$Flyeralarm$$ Admira
   | Admira Wien        ## historic Admira Wien name add (-????) or something
   | SK Admira Wacker Wien
   | SK Admira Vienna [en]
@@ -151,6 +153,8 @@ SC Wiener Neustadt, 1908,  Wr. Neustadt
 SKN St. Pölten, 2000,      St. Pölten
   | St. Pölten | Sportklub Niederösterreich St. Pölten
   | SKN Sankt Pölten
+  | $$Spusu$$ SKN St. Pölten
+
 ii) SKN St. Pölten Juniors
 
 VSE St. Pölten (1920-1998), St. Pölten
@@ -163,10 +167,12 @@ ii) Horn Amateure
 
 SKU Amstetten,   Amstetten
   | Amstetten SKU
+  | SKU $$Ertl Glas$$ Amstetten
 
 ASK Ebreichsdorf,   Ebreichsdorf
 
-FC Marchfeld Donauauen,  Mannsdorf an der Donau
+FC Marchfeld,  Mannsdorf an der Donau
+  | FC Marchfeld Donauauen
   | Mannsdorf-Großenz. | FC Mannsdorf/Großenzersdorf
   | FC Marchfeld Mannsdorf
   | SC Mannsdorf     # vormals (alter name)
@@ -200,8 +206,7 @@ ATSV Ober-Grafendorf
 ASK Kottingbrunn
 ASV Spratzern
 ASV Schrems,  Schrems
-
-
+ASKÖ Gmünd,   Gmünd
 
 SC Krems,  Krems
   | Kremser SC
@@ -290,6 +295,7 @@ ASKÖ Donau Linz, Linz
 SV Ried,  1912,       Ried i. Innkreis
   | Ried
   | SV $$Josko$$ Ried | SV $$Josko Fenster$$ Ried     ## note: Josko is a sponsor
+  | SV $$Guntamatic$$ Ried
  Volksfestplatz 2 // 4910 Ried i. Innkreis
 ii) SV Ried II
 
@@ -303,17 +309,24 @@ WSC Hertha Wels, Wels
 
 Union Vöcklamarkt, Vöcklamarkt
   | Vöcklamarkt
+  | UVB Vöcklamarkt
+
 
 ATSV Stadl-Paura, Stadl-Paura
   | Stadl-P. ATSV
 Union Gurten,        Gurten
   | Gurten
+  | Union $$Raiffeisen$$ Gurten
+
 
 Union St. Florian,  St. Florian
   | St. Florian
 
 SV Wallern
   | Wallern
+  | SV $$Zaunergroup$$ Wallern
+
+
 SV Grün-Weiß Micheldorf
   | Micheldorf | SV Micheldorf
 
@@ -326,28 +339,36 @@ SK Bad Wimsbach
 
 SK Sturm Graz, 1909,       Graz
   | Sturm | Sturm Graz
+  | SK $$Puntigamer$$ Sturm Graz
  Sternäckerweg 118 // 8042 Graz
 ii) SK Sturm Graz II
   | Sturm Graz Amat.
   | Sturm Graz II
 
 Grazer AK,   Graz
+  | GAK 1902
 
 TSV Hartberg, 1946,    Hartberg
   | TSV | Hartberg
   | TSV $$Sparkasse$$ Hartberg
+  | TSV $$Prolactal$$ Hartberg
   | Turn- und Sportverein Hartberg
 
 
 Kapfenberger SV,   Kapfenberg
   | KSV 1919 | Kapfenberger SV 1919
+  | Kapfenberg 1919
 ii) Kapfenberger SV II
 
 SV Lafnitz,   Lafnitz
   | Lafnitz
+  | SV $$Licht-Loidl$$ Lafnitz
+
 
 USV Allerheiligen,     Allerheiligen bei Wildon
   | SV Allerheiligen | Allerheiligen
+  | SV $$Raiffeisen$$ Allerheiligen
+
 TuS Bad Gleichenberg,  Bad Gleichenberg
   | Bad Gleichenberg
 Deutschlandsberger SC, Deutschlandsberg
@@ -360,6 +381,8 @@ SC Kalsdorf,           Kalsdorf
   | Kalsdorf
 USV St. Anna,          St. Anna am Aigen
   | St Anna am Aigen
+  | USV St. Anna am Aigen
+
 SC Weiz,               Weiz
 
 DSV Leoben,      Leoben
@@ -426,6 +449,7 @@ SK Maria Saal
 ATUS Ferlach,  Ferlach
 
 SV St. Jakob/Rosental
+  | SV St. Jakob Rosental
 
 
 
@@ -463,6 +487,8 @@ FC Pinzgau Saalfelden
   | Pinzgau Saalfelden
 TSV St. Johann,   St. Johann im Pongau
   | TSV St. Johann Pongau | TSV St. Johann im Pongau
+  | $$McDonald's$$ St. Johann/Pongau
+
 SV Wals-Grünau
 SV Kuchl
 Bischofshofen Sportklub 1933
@@ -511,6 +537,8 @@ SC Imst
 SV Hall
 SVG Reichenau
   | Reichenau SVG
+  | SVG Reichenau-Innsbruck
+
 FC Zirl
 SV Reutte
 SC Kundl
@@ -521,6 +549,7 @@ SC Kundl
 SCR Altach, 1929,          Altach
   | Altach
   | Rheindorf Altach | SC Rheindorf Altach | Sportclub Rheindorf Altach
+  | $$Cashpoint$$ SCR Altach
  Schnabelholz 1 // 6844 Altach
 ii) SCR Altach Juniors
   | Altach Amateure
@@ -536,15 +565,21 @@ FC Lustenau 07,   1907,  Lustenau
 
 FC Dornbirn 1913,  Dornbirn
   | Dornbirn | FC Dornbirn
+  | FC $$Mohren$$ Dornbirn 1913
+
 Dornbirner SV,     Dornbirn
   | Dornbirner Sportverein
+  | $$Hella$$ Dornbirner SV
 
 FC Höchst
   | Höchst
 VfB Hohenems
   | Hohenems
+  | $$World-of-Jobs$$ Hohenems
+
+
 FC Wolfurt
-  | Meusburger FC Wolfurt    ## $$$ Meusburger is a sponsor
+  | $$Meusburger$$ FC Wolfurt      ## $$$ Meusburger is a sponsor
 SW Bregenz,   Bregenz
   | Schwarz-Weiß Bregenz | SC Schwarz-Weiß Bregenz
   | Bregenz SW
