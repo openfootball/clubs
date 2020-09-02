@@ -22,6 +22,7 @@ ii) Young Violets Austria Wien
   | Austria Wien Amat.| Austria Wien A. | Ausstria Wien Amateure
 
 SC Team Wiener Linien,   Wien (Favoriten)
+  | Wiener Linien
   | Team Wiener Linien | SC Team Wr. Linien
 
 SV Wienerberg,  1921,  Wien (Favoriten)     ## aus dem Wiener Stadtteil Inzersdorf-Stadt am Fuße des Wienerbergs
@@ -69,6 +70,7 @@ SC Red Star Penzing
   | Red Star Penzing
 
 ASK Elektra Wien,     Wien (Leopoldstadt)
+  | ASK Elektra
   | AS Koma Elektra | Athletic Sportklub Koma Elektra
 # 1921 als SC Elektra Wien
 # 2013 Fusion des FS Elektra mit dem 1984 gegründeten AS Koma
@@ -90,7 +92,7 @@ ii) SV Mattersburg II
 
 SC Neusiedl am See,  Neusiedl am See
   | SC Neusiedl | Neusiedl am See | SC Neusiedl am See 1919
-  | SC Neusiedl/See 1919
+  | SC Neusiedl/See | SC Neusiedl/See 1919
 
 ASV Draßburg, Draßburg
 
@@ -111,6 +113,7 @@ SC Ritzing
 SC Trausdorf
 
 ASV Siegendorf
+  | Siegendorf
 SV Neuberg
 SV St. Margarethen
 ASK Baumgarten
@@ -174,11 +177,12 @@ ASK Ebreichsdorf,   Ebreichsdorf
 FC Marchfeld,  Mannsdorf an der Donau
   | FC Marchfeld Donauauen
   | Mannsdorf-Großenz. | FC Mannsdorf/Großenzersdorf
-  | FC Marchfeld Mannsdorf
+  | FC Marchfeld Mannsdorf | FC Marchfeld/M.
   | SC Mannsdorf     # vormals (alter name)
 
 SV Leobendorf,     Leobendorf
 SV Stripfing,      Stripfing    # Gemeinde Weikendorf
+  | Stripfing
   | SV Stripfing/Weiden
 
 FCM Traiskirchen,  Traiskirchen
@@ -192,6 +196,7 @@ SV Schwechat, Schwechat
 
 ASK Bad Vöslau
 SC Retz
+  | Retz
 SCU Ardagger
   | Ardagger SCU
 SV Gaflenz
@@ -287,9 +292,10 @@ FC Stahl Linz,       Linz
 #  | FC VOEST Linz (1990-1991)
 
 Union Edelweiß Linz,   Linz
+  | Edelweiß Linz     ## use Edelweiss why? why not?
 
 ASKÖ Donau Linz, Linz
-
+  | Donau Linz
 
 
 SV Ried,  1912,       Ried i. Innkreis
@@ -298,6 +304,7 @@ SV Ried,  1912,       Ried i. Innkreis
   | SV $$Guntamatic$$ Ried
  Volksfestplatz 2 // 4910 Ried i. Innkreis
 ii) SV Ried II
+  | Junge Wikinger | Junge Wikinger Ried
 
 SK Vorwärts Steyr,   Steyr
   | Vorwärts Steyr
@@ -314,6 +321,7 @@ Union Vöcklamarkt, Vöcklamarkt
 
 ATSV Stadl-Paura, Stadl-Paura
   | Stadl-P. ATSV
+  | Stadl-Paura
 Union Gurten,        Gurten
   | Gurten
   | Union $$Raiffeisen$$ Gurten
@@ -323,7 +331,8 @@ Union St. Florian,  St. Florian
   | St. Florian
 
 SV Wallern
-  | Wallern
+  | Wallern | Wallern/St. M. | Wallern/St. Marienk. | Wallern/St. Marienkirchen
+  | SPG SV Wallern/St. M. | SPG SV Wallern/St. Marienkirchen
   | SV $$Zaunergroup$$ Wallern
 
 
@@ -332,6 +341,7 @@ SV Grün-Weiß Micheldorf
 
 ASKÖ Oedt
 SV Grieskirchen
+  | Grieskirchen
 SK Bad Wimsbach
 
 
@@ -342,11 +352,12 @@ SK Sturm Graz, 1909,       Graz
   | SK $$Puntigamer$$ Sturm Graz
  Sternäckerweg 118 // 8042 Graz
 ii) SK Sturm Graz II
-  | Sturm Graz Amat.
   | Sturm Graz II
+  | Sturm Graz Amat.
+  | Sturm Amateure | Sturm A.
 
 Grazer AK,   Graz
-  | GAK 1902
+  | GAK | GAK 1902
 
 TSV Hartberg, 1946,    Hartberg
   | TSV | Hartberg
@@ -366,7 +377,7 @@ SV Lafnitz,   Lafnitz
 
 
 USV Allerheiligen,     Allerheiligen bei Wildon
-  | SV Allerheiligen | Allerheiligen
+  | Allerheiligen | SV Allerheiligen
   | SV $$Raiffeisen$$ Allerheiligen
 
 TuS Bad Gleichenberg,  Bad Gleichenberg
@@ -376,14 +387,15 @@ Deutschlandsberger SC, Deutschlandsberg
   | DSC Deutschlandsberg
 
 FC Gleisdorf 09,       Gleisdorf
-  | FC Gleisdorf
+  | Gleisdorf | FC Gleisdorf
 SC Kalsdorf,           Kalsdorf
   | Kalsdorf
 USV St. Anna,          St. Anna am Aigen
-  | St Anna am Aigen
-  | USV St. Anna am Aigen
+  | St. Anna/Aigen | St. Anna am Aigen
+  | USV St. Anna/A. | USV St. Anna am Aigen
 
 SC Weiz,               Weiz
+  | Weiz
 
 DSV Leoben,      Leoben
 FC Gratkorn,     Gratkorn
@@ -397,11 +409,12 @@ USV Mettersdorf
 
 Wolfsberger AC, 1931, Wolfsberg
   | Wolfsberg | Wolfsberger | AC Wolfsberger | Wolfsberger Athletik Club
+  | WAC
   | WAC/St. Andrä | Wolfsberger AC/St. Andrä
   | $$RZ Pellets$$ WAC           ## $$$ note: RZ Pellets is a sponsor name
  Don Bosco Weg 1 // 9400 Wolfsberg
 ii) Wolfsberger AC II
-  | WAC Amateure
+  | WAC Amateure | WAC A.
 
 # note: Durch eine Kooperation mit dem SK St. Andrä trat der Verein von 2007 bis 2012
 #  unter den Namen Wolfsberger AC/St. Andrä in der Ersten Liga
@@ -430,6 +443,7 @@ ASV Annabichler SV 1923,   Klagenfurt (Annabichl)
 Villacher SV, Villach
 
 SV Spittal/Drau
+  | Spittal/Drau
 FC St. Veit
   | FC Sankt Veit
 FC Lendorf
@@ -449,7 +463,7 @@ SK Maria Saal
 ATUS Ferlach,  Ferlach
 
 SV St. Jakob/Rosental
-  | SV St. Jakob Rosental
+  | SV St. Jakob/R. | SV St. Jakob Rosental
 
 
 
@@ -558,7 +572,7 @@ Austria Lustenau, 1914,   Lustenau
   | A. Lustenau | SC Austria Lustenau
 ii) Austria Lustenau Amateure
   | SC Austria Lustenau Amateure
-  | Austria Lustenau A
+  | Austria Lustenau A.
 
 FC Lustenau 07,   1907,  Lustenau
   | FC Lustenau | FC Lustenau 1907
