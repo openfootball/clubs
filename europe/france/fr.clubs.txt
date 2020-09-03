@@ -70,7 +70,7 @@ Stade Rennais FC, 1901,   Rennes    ## Ille-et-Vilaine > Brittany
   | Stade Rennais FC 1901
 
 AS Saint-Étienne, 1919,  Saint-Étienne     ## Loire > Rhône-Alpes
-  | St-Étienne | Saint-Étienne
+  | St-Étienne | AS St-Étienne | Saint-Étienne
   | Association Sportive de Saint-Étienne Loire
 RC Strasbourg, Strasbourg
   | Strasbourg | Racing Strasbourg | RC Strasbourg Alsace
@@ -225,7 +225,7 @@ Pau FC,    Pau    # Pyrénées-Atlantiques
 # Bleuets Notre-Dame de Pau (1920-1959)
 # FC Pau (1959-1995)
 
-USL Dunkerque,   Dunkerque 
+USL Dunkerque,   Dunkerque
   | USLD
   | Union sportive du littoral de Dunkerque
 # Union sportive de Malo-les-Bains (1900-1919)

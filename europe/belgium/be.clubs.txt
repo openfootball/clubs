@@ -83,7 +83,7 @@ Waterschei Thor (1919-1988),  Genk
 
 
 Sint-Truidense VV, 1924,  Sint-Truiden › Limburg › Vlaanderen
-  | St Truiden | St. Truiden VV
+  | St Truiden | St. Truiden VV | VV St. Truiden
   | Sint-Truiden | Sint-Truidense | K. Sint-Truidense VV
   | Koninklijke Sint-Truidense Voetbalvereniging
 
@@ -111,7 +111,7 @@ FCV Dender EH,       Denderleeuw › Oost-Vlaanderen › Vlaanderen
   | Dender
 
 Waasland-Beveren, 1936,   Beveren › Oost-Vlaanderen › Vlaanderen   ## KVRS Waasland - SK Beveren
-  | Waasland-Bev
+  | Waasland-B. | Waasland-Bev
   | Red Star Waasland
 # In the summer of 2010 Red Star Waasland changed its name to Waasland-Beveren
 # and moved to the bigger stadium of Beveren
@@ -128,7 +128,7 @@ Club Brugge, 1891,    Brugge › West-Vlaanderen › Vlaanderen
   | Club Brügge [de]
 Cercle Brugge, 1899,  Brugge › West-Vlaanderen › Vlaanderen
   | Cercle Brugge KSV | Cercle Brugge Koninklijke Sportvereniging
-  | Cercle Brügge KSV [de]
+  | Cercle Brügge [de] | Cercle Brügge KSV [de]
 
 KV Kortrijk, 1901,    Kortrijk › West-Vlaanderen › Vlaanderen
   | Kortrijk | Koninklijke Voetbalclub Kortrijk
@@ -146,7 +146,8 @@ KSV Waregem (1925-2001),   Waregem
 == Hainaut › Wallonie ==
 
 Sporting Charleroi, 1904,    Charleroi › Hainaut › Wallonie  ##  [fr]
-  | Charleroi  | R. Charleroi SC | Royal Charleroi SC | Royal Charleroi Sporting Club
+  | Charleroi  | R. Charleroi SC | RSC Charleroi
+  | Royal Charleroi SC | Royal Charleroi Sporting Club
   | Sporting de Charleroi
 
 Royal Excel Mouscron, 2010,    Mouscron  › Hainaut › Wallonie     ## Moeskroen [nl]
