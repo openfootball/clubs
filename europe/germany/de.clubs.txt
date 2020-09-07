@@ -666,4 +666,5 @@ Wacker Nordhausen,  Nordhausen
 == ?? ==
 
 N. N.    ### add dummy "placeholder" club / team
+         ##  Nomen nominandum, see https://de.wikipedia.org/wiki/N._N.
 
