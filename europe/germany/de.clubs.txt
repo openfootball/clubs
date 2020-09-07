@@ -660,3 +660,10 @@ FC Rot-Weiß Erfurt,  Erfurt
 
 Wacker Nordhausen,  Nordhausen
   | FSV Wacker 90 Nordhausen
+
+
+
+== ?? ==
+
+N. N.    ### add dummy "placeholder" club / team
+
