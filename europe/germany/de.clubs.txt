@@ -28,7 +28,7 @@ ii) 1. FC Nürnberg II
   | Nürnberg II
 
 SpVgg Greuther Fürth, 1903, Fürth
-  | Greuther Fürth | SpVgg Gr. Fürth
+  | Gr. Fürth | Greuther Fürth | SpVgg Gr. Fürth
  Laubenweg 60 // 90765 Fürth
 ii) SpVgg Greuther Fürth II
   | Gr. Fürth II | Greuther Fürth II
@@ -94,7 +94,7 @@ FC Viktoria Köln,    Köln
 
 
 Fortuna Düsseldorf,  1895, Düsseldorf
-  | Düsseldorf | F. Düsseldorf
+  | Düsseldorf | F. Düsseldorf | Fort. Düsseldorf
   | TSV Fortuna 95 Düsseldorf
  Arena Straße 1 // 40474 Düsseldorf
 
@@ -102,6 +102,7 @@ Borussia Dortmund, 1909,    Dortmund
   | Dortmund | B. Dortmund | Bor. Dortmund
   | BV 09 Borussia Dortmund
   | BV Borussia 09 Dortmund
+  | BVB | BVB 09
  Rheinlanddamm 207-209 // 44137 Dortmund
 ii) Borussia Dortmund II
   | Dortmund II | Bor. Dortmund II
@@ -316,6 +317,7 @@ Hertha BSC, 1892,            	Berlin
 
 1. FC Union Berlin, 1966,     Berlin
   | Union Berlin | FC Union Berlin
+  | 1. FC Union
  An der Wuhlheide 263 // 12555 Berlin
 
 Tennis Borussia Berlin, Berlin
@@ -443,7 +445,8 @@ Offenburger FV
 FC-Astoria Walldorf
 SV Waldkirch
 1. FC Rielasingen-Arlen
-  | FC Rielasingen-Arlen
+  | Rielasingen-Arlen | FC Rielasingen-Arlen
+
 Sportfreunde Dorfmerkingen
 
 1. CfR Pforzheim,  Pforzheim
@@ -613,7 +616,7 @@ Chemnitzer FC, 1966       Chemnitz
 
 
 FC Erzgebirge Aue, 1949,   Aue
-  | Aue | Erzgebirge Aue
+  | Aue | Erzgeb. Aue | Erzgebirge Aue
   | SC Wismut Karl-Marx-Stadt    # champs (3): 1960/61 1959..1957 (2)
   | Wismut Aue | FC Wismut Aue
  Lößnitzer Straße 95 // 08280 Aue

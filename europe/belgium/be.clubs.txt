@@ -34,7 +34,7 @@ Royal Antwerp FC,    Antwerpen › Antwerpen › Vlaanderen
   | FC Royal Antwerpen
 
 
-K Beerschot VA, 1899,  Antwerpen › Antwerpen › Vlaanderen               ## in 2019 renamed to K. Beerschot V.A.)
+K. Beerschot VA, 1899,  Antwerpen › Antwerpen › Vlaanderen               ## in 2019 renamed to K. Beerschot V.A.)
   | Koninklijke Beerschot Voetbalclub Antwerpen
   | KFCO Wilrijk | KFCO Beerschot Wilrijk
 # In 2013, KFCO Wilrijk decided to integrate the identity of
@@ -83,7 +83,7 @@ Waterschei Thor (1919-1988),  Genk
 
 
 Sint-Truidense VV, 1924,  Sint-Truiden › Limburg › Vlaanderen
-  | St Truiden | St. Truiden VV | VV St. Truiden
+  | St. Truiden | St. Truiden VV | VV St. Truiden
   | Sint-Truiden | Sint-Truidense | K. Sint-Truidense VV
   | Koninklijke Sint-Truidense Voetbalvereniging
 
@@ -125,10 +125,10 @@ KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
 
 Club Brugge, 1891,    Brugge › West-Vlaanderen › Vlaanderen
   | Club Brugge KV | Club Brugge Koninklijke Voetbalvereniging
-  | Club Brügge [de]
+  | Cl. Brügge [de] | Club Brügge [de]
 Cercle Brugge, 1899,  Brugge › West-Vlaanderen › Vlaanderen
   | Cercle Brugge KSV | Cercle Brugge Koninklijke Sportvereniging
-  | Cercle Brügge [de] | Cercle Brügge KSV [de]
+  | Cer. Brügge [de] | Cercle Brügge [de] | Cercle Brügge KSV [de]
 
 KV Kortrijk, 1901,    Kortrijk › West-Vlaanderen › Vlaanderen
   | Kortrijk | Koninklijke Voetbalclub Kortrijk
@@ -137,7 +137,8 @@ KV Oostende, 1981,    Oostende › West-Vlaanderen › Vlaanderen
   | Oostende | Koninklijke Voetbalclub Oostende
 
 SV Zulte Waregem, 1950,   Waregem  › West-Vlaanderen › Vlaanderen
-  | Waregem | Zulte Waregem | Sportvereniging Zulte Waregem
+  | Waregem | Zulte W. | Zulte Waregem
+  | Sportvereniging Zulte Waregem
 
 KSV Waregem (1925-2001),   Waregem
   | Koninklijke Sportvereniging Waregem

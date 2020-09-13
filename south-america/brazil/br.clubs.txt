@@ -75,11 +75,14 @@ São José, 1933,  São José
 Botafogo RJ,     Rio de Janeiro
   | Botafogo | Botafogo (RJ)
   | Botafogo FR | Botafogo FR RJ | Botafogo de Futebol e Regatas
+  | Botafogo Rio
 Flamengo RJ,     Rio de Janeiro
-  | Flamengo | CR Flamengo | CR Flamengo RJ | Flamengo Rio de Janeiro
+  | Flamengo | CR Flamengo | CR Flamengo RJ
+  | Flamengo Rio | Flamengo Rio de Janeiro
   | Clube de Regatas do Flamengo
 Fluminense RJ,    Rio de Janeiro
-  | Fluminense | Fluminense FC | Fluminense Rio de Janeiro | Fluminense Football Club
+  | Fluminense | Fluminense FC
+  | Fluminense Rio | Fluminense Rio de Janeiro | Fluminense Football Club
 CR Vasco da Gama,   Rio de Janeiro
   | Vasco | Vasco RJ | Vasco da Gama | Vasco da Gama RJ
   | Vasco da Gama Rio de Janeiro
@@ -93,7 +96,7 @@ America RJ, 1904,  Mesquita
 
 == Minas Gerais ==
 Atlético MG,    Belo Horizonte
-  | Atlético Mineiro
+  | Atl. Mineiro | Atlético Mineiro
   | CA Mineiro | C Atlético Mineiro | Clube Atlético Mineiro
   | Atletico-MG | Atlético/MG
 Cruzeiro MG,    Belo Horizonte
@@ -119,9 +122,11 @@ Betim FC, 2006,   Betim
 
 == Rio Grande do Sul ==
 Grêmio RS,                     Porto Alegre
-  | Gremio | Grêmio | Grêmio Porto Alegre | Grêmio FBPA | Grêmio Foot-Ball Porto Alegrense
+  | Gremio | Grêmio | Grêmio FBPA | Grêmio Foot-Ball Porto Alegrense
+  | Grêmio PA | Grêmio Porto Alegre
 Internacional Porto Alegre,    Porto Alegre
   | Internacional | SC Internacional | Internacional RS | Sport Club Internacional
+  | Internacional PA
 
 Brasil RS,  Pelotas
   | Brasil de Pelotas
@@ -138,8 +143,9 @@ América de Natal,  1915,    Natal
 
 == Paraná ==
 Atlético PR,   Curitiba
-  | Atl Paranaense | Athl Paranaense | Atlético Paranaense
+  | Atl. Paranaense | Atlético Paranaense
   | CA Paranaense | C Atlético Paranaense | Clube Atlético Paranaense
+  | Athl. Paranaense
   | Athletico-PR [en] | Athletico Paranaense [en] | Club Athletico Paranaense [en]
 Coritiba PR,   Curitiba
   | Coritiba | Coritiba FC | Coritiba Football Club
@@ -190,7 +196,7 @@ EC Bahia,            Salvador
 Goiás EC,       Goiânia
   | Goiás | Goiás EC GO | Goiás Esporte Clube
 Atlético GO,   Goiânia
-  | Atlético Goianiense
+  | Atl. Goianiense | Atlético Goianiense
   | AC Goianiense | Atlético Clube Goianiense
 Vila Nova GO,  Goiânia
   | Vila Nova | Vila Nova de Goias | Vila Nova FC | Vila Nova Futebol Clube
