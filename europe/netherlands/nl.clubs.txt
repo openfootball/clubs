@@ -44,6 +44,7 @@ Feyenoord Rotterdam, 1908,     Rotterdam
 
 Sparta Rotterdam,        Rotterdam
   | Sparta | Sparta R'dam
+  | Sp. Rotterdam
 SBV Excelsior Rotterdam, 1902,   Rotterdam › Zuid-Holland    ## use SBV Excelsior - why? why not?
   | Excelsior | SBV Excelsior | Stichting Betaald Voetbal Excelsior
   | Excel. Rotterdam
@@ -128,7 +129,7 @@ RBC Roosendaal, Roosendaal
 
 == Limburg ==
 Fortuna Sittard, Sittard › Limburg
-  | For Sittard | SC Fortuna Sittard
+  | F. Sittard | For. Sittard | SC Fortuna Sittard
 
 Roda JC Kerkrade, 1962,   Kerkrade
   | Roda | Roda JC | Roda Kerkrade

@@ -29,7 +29,7 @@ Saint-Gilloise,  Brussels (Saint-Gilles)
 == Antwerpen › Vlaanderen ==
 
 Royal Antwerp FC,    Antwerpen › Antwerpen › Vlaanderen
-  | Antwerp | Royal Antwerp
+  | Antwerp | Royal Antwerp | R. Antwerp FC
   | R. Antwerpen | Royal Antwerpen
   | FC Royal Antwerpen
 
@@ -84,7 +84,8 @@ Waterschei Thor (1919-1988),  Genk
 
 Sint-Truidense VV, 1924,  Sint-Truiden › Limburg › Vlaanderen
   | St. Truiden | St. Truiden VV | VV St. Truiden
-  | Sint-Truiden | Sint-Truidense | K. Sint-Truidense VV
+  | K. Sint-Truiden VV | K. Sint-Truidense VV
+  | Sint-Truiden | Sint-Truidense
   | Koninklijke Sint-Truidense Voetbalvereniging
 
 Lommel United, Lommel
@@ -170,7 +171,7 @@ Excelsior Virton, Virton
 == Liège › Wallonie ==
 
 KAS Eupen,             Eupen     › Liège   › Wallonie    ## [de]
-  | Eupen | AS Eupen
+  | Eupen | AS Eupen | K. AS Eupen
 
 Standard Liège, 1898,   Liège     › Liège   › Wallonie    ## [fr]
   | Standard | R. Standard de Liège | Royal Standard de Liège

@@ -334,7 +334,7 @@ Slough Town FC, 1893, Slough › Berkshire
 
 
 Brighton & Hove Albion FC,  @ American Express Stadium,  Falmer › East Sussex     # Brighton?
-  | Brighton |  Brighton & Hove | Brighton & Hove Albion
+  | Brighton | Brighton & Hove | Brighton & Hove Albion
   | Brighton Hove Albion
 Eastbourne Borough FC,   Eastbourne › East Sussex
   | Eastbourne Borough
