@@ -4,9 +4,9 @@
 
 AEK Athens FC,     Athens    ## use!? - Marousi or Maroussi a suburban city in the northeastern part of the Athens agglomeration
   | AEK | AEK Athens
-  | AEK Athen [de]
   | PAE AEK
-  
+  | AEK Athen [de]
+
 Panathinaikos FC,  Athens
   | Panathinaikos
   | Panathinaikos Athens
@@ -54,7 +54,7 @@ Olympiacos Piraeus FC,  Piraeus › Attica
   | Olympiacos | Olympiacos Piraeus | Olympiacos FC
   | Olympiakos | Olympiakos Piräus | Olympiakos P.
   | PAE Olympiakos SFP
-  
+
 Ethnikos Piraeus FC,    Piraeus › Attica
   | Ethnikos Piraeus | Ethnikos
 
@@ -65,7 +65,7 @@ PAOK FC,              Thessaloniki › Central Macedonia
   | PAOK Thessaloniki FC
 Aris Thessaloniki FC, Thessaloniki › Central Macedonia
   | Aris | Aris Thessaloniki
-  | Aris Saloniki
+  | A. Saloniki | Aris Saloniki
 Iraklis 1908 Thessaloniki FC, Thessaloniki › Central Macedonia
   | Iraklis | Iraklis FC
   | Iraklis Thessaloniki
@@ -83,10 +83,11 @@ Xanthi FC,           Xanthi › Thrace
   | Xanthi
   | Skoda Xanthi FC
 Panetolikos GFS,     Agrinio › West Greece
-  | Panetolikos
+  | Panetolikos | Panetolikos Agrinio
   | Panaitolikos
 PAS Giannina FC,     Ioannina › Epirus
   | Giannina | PAS Giannina
+  | Ioannina | PAS Ioannina
   | Yiannina
 Levadiakos FC,       Livadeia › Central Greece
   | Levadeiakos | Levadiakos
@@ -102,6 +103,8 @@ AE Larissa FC,  1964,     Larissa › Thessaly
 
 PAS Lamia 1964,      Lamia › Central Greece
   | Lamia | PAS Lamia | Lamia 1964
+  | AS Lamia
+  | Lamia FC
 
 Kerkyra FC,          Corfu › Ionian Islands
   | Kerkyra
@@ -129,8 +132,9 @@ Ergotelis FC, Heraklion › Crete
   | Ergotelis
 OFI Crete FC, Heraklion › Crete
   | OFI | OFI Crete
-  | OFI Kreta FC [de]
   | OFI Heraklion
+  | Iraklion | OF Iraklion
+  | OFI Kreta [de] | OFI Kreta FC [de]
 
 
 Kalamata FC,       Kalamata › Peloponnese

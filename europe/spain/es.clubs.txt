@@ -11,7 +11,7 @@ ii) Atlético Madrid B
   | Ath Madrid B [en]
 
 Real Madrid,   Madrid
-  | R. Madrid | Real Madrid CF | Real Madrid Club de Fútbol    ## add Madrid ?
+  | Real M. | R. Madrid | Real Madrid CF | Real Madrid Club de Fútbol    ## add Madrid ?
 ii) Real Madrid B
   | Real Madrid CF B
 
@@ -149,6 +149,7 @@ ii) Villarreal CF B
 
 Real Sociedad,     San Sebastián
   | Sociedad | R. Sociedad | R. S. San Sebastián
+  | S. Sebastián
   | Real Sociedad San Sebastián | Real Sociedad de Fútbol
 Deportivo Alavés,  Vitoria
   | Alavés | CD Alavés
@@ -156,9 +157,9 @@ SD Eibar,          Eibar
   | Eibar | Sociedad Deportiva Eibar
 
 Athletic Club Bilbao,   Bilbao    ## use Athletic Club - why? why not?
-  | Athletic | Athletic Club | Ath Bilbao | Athletic Bilbao
+  | Athletic | Athletic Club | Ath. Bilbao | Athl. Bilbao | Athletic Bilbao
 ii) Athletic Club Bilbao B
-  | Ath Bilbao B | Athletic Bilbao B
+  | Ath. Bilbao B | Athletic Bilbao B
 
 
 == Asturias ==

@@ -14,15 +14,15 @@ Chelsea FC, 1905, @ Stamford Bridge, London (Fulham)    ## Greater London
   | Chelsea | FC Chelsea
 
 Tottenham Hotspur FC, 1882, @ White Hart Lane, London (Tottenham)   ## Greater London
-  | Tottenham | Tottenham Hotspur | Spurs
+  | Tottenham | Tottenham Hotspur | Spurs | Tottenham H.
 West Ham United FC, 1895, @ Boleyn Ground, London (Upton Park)   ## Greater London
   | West Ham  | West Ham United
 Fulham FC, 1879,  @ Craven Cottage,  London (Fulham)   ## London (Fulham), Greater London
   | Fulham | FC Fulham
 Charlton Athletic FC,  @ The Valley,  London (Charlton)      ##   London (Charlton), Greater London
-  | Charlton | Charlton Ath | Charlton Athletic
+  | Charlton | Charlton Ath. | Charlton Athletic
 Crystal Palace FC, 1905, @ Selhurst Park, London (Selhurst)   ## Greater London
-  | Palace | C Palace | Crystal P | Crystal Palace
+  | Palace | C. Palace | Crystal P. | Crystal Palace
 
 Wimbledon FC,         London (Wimbledon)   ## Greater London
   | Wimbledon
@@ -101,10 +101,10 @@ Nelson FC,           Nelson, Lancashire
   | Nelson
 
 Manchester United FC, 1878, @ Old Trafford, Manchester (Old Trafford)     ## North West England
-  | Man Utd | Man. United | Manchester U. |  Manchester Utd | Manchester United
+  | Man Utd | Man. United | Manchester U. |  Manchester Utd. | Manchester United
   | Newton Heath FC   # old name before reform in season 1902/3
 Manchester City FC, 1880, @ Etihad Stadium,  Manchester     ## North West England
-  | Man City | Manchester City | Man. City | Manchester C
+  | Man City | Manchester City | Man. City | Manchester C.
   | Ardwick FC        # old name before reform in season 1894/5
 
 Oldham Athletic AFC,    @ Boundary Park,  Oldham › Greater Manchester
@@ -149,7 +149,7 @@ Birmingham City FC,  @ St Andrew's,  Birmingham › Warwickshire   ## West Midla
 
 
 Newcastle United FC, 1892, @ St James' Park, Newcastle upon Tyne › Northumberland   ## North East
-  | Newcastle | Newcastle Utd | Newcastle United
+  | Newcastle | Newcastle Utd. | Newcastle United
 Newcastle West End FC,  Newcastle upon Tyne › Northumberland
 # merged into United in 1893/4
 Newcastle East End FC,  Newcastle upon Tyne › Northumberland
@@ -253,7 +253,7 @@ Sheffield Wednesday FC,   @ Hillsborough,  Sheffield (Owlerton) › South Yorksh
   | Sheffield Wed | Sheffield Weds | Sheffield Wednes. | Sheffield Wednesday
   | The Wednesday FC   # old name before season 1929/30
 Sheffield United FC,  @ Bramall Lane,  Sheffield (Highfield) › South Yorkshire
-  | Sheffield United | Sheff. United | Sheffield Utd
+  | Sheffield United | Sheff. United | Sheffield Utd. | Sheffield U.
 
 Barnsley FC,   @ Oakwell,  Barnsley › South Yorkshire
   | Barnsley | FC Barnsley

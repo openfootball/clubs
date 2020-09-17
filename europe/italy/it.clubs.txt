@@ -50,13 +50,14 @@ FC Internazionale Milano, Milano
   | Inter Milan
   | Inter Mailand [de]
 
-Atalanta BC,            Bergamo
-  | Atalanta | Atalanta Bergamo | Atalanta Bergamasca Calcio
+Atalanta Bergamo,            Bergamo
+  | At. Bergamo | Atalanta | Atalanta BC | Atalanta Bergamasca Calcio
 
-Cremonese, Cremona
-  | US Cremonese
-Brescia, Brescia
-  | Brescia Calcio
+
+US Cremonese, Cremona
+  | Cremonese
+Brescia Calcio, Brescia
+  | Brescia | Brescia Calc.
 
 == Piemonte ==    ## Piedmont [en]
 Torino FC,   Torino
@@ -68,8 +69,9 @@ Juventus,    Torino
 
 
 == Veneto ==
-Hellas Verona FC, 1903,     Verona
-  | Verona | Hellas Verona | Hellas Verona Football Club
+Hellas Verona, 1903,     Verona
+  | Verona
+  | Hellas | Hellas Verona FC | Hellas Verona Football Club
 AC Chievo Verona, Verona
   | Chievo | Chievo Verona | Associazione Calcio Chievo Verona
 
@@ -95,7 +97,7 @@ Cittadella, 1973, Cittadella
 
 == Friuli-Venezia Giulia ==
 Udinese Calcio, Udine
-  | Udinese
+  | Udinese | Udinese Calc.
 
 US Triestina Calcio, Trieste
   | Triestina | Triestina Calcio | US Triestina Calcio 1918
@@ -105,10 +107,10 @@ US Triestina Calcio, Trieste
 Genoa CFC,      Genova
   | Genoa | Genoa Cricket and Football Club
   | FC Genua [de]
-  | CFC Genua 1893 [de]
+  | CFC Genua [de] | CFC Genua 1893 [de]
 UC Sampdoria,   Genova
-  | Sampdoria | Sampdoria Genoa | Unione Calcio Sampdoria
-  | Sampdoria Genua [de]
+  | Sampdoria | Samp. Genoa | Sampdoria Genoa | Unione Calcio Sampdoria
+  | Samp. Genua [de] | Sampdoria Genua [de]
 
 
 == Campania ==
@@ -203,7 +205,7 @@ Ascoli, Ascoli Piceno
 
 == Sardegna ==     ## Sardinia [en]
 Cagliari Calcio, Cagliari
-  | Cagliari
+  | Cagliari | Cagliari Calc.
 
 
 

@@ -11,6 +11,7 @@ Bayern München, 1900,     München
 ii) Bayern München II
   | Bayern II |  Bayern München Am.
   | FC Bayern II
+  | B. München II
 
 TSV 1860 München, 1860, München
   | 1860 München | TSV München 1860
@@ -28,7 +29,7 @@ ii) 1. FC Nürnberg II
   | Nürnberg II
 
 SpVgg Greuther Fürth, 1903, Fürth
-  | Gr. Fürth | Greuther Fürth | SpVgg Gr. Fürth
+  | Gr. Fürth | Greu. Fürth | Greuther Fürth | SpVgg Gr. Fürth
  Laubenweg 60 // 90765 Fürth
 ii) SpVgg Greuther Fürth II
   | Gr. Fürth II | Greuther Fürth II
@@ -52,7 +53,7 @@ SSV Jahn Regensburg,   Regensburg
   | Schweinfurt | Schweinfurt 05
 Würzburger Kickers, 1907,     Würzburg
   | Würzburger K. | W'burg Kickers
-  | Kickers Würzburg
+  | Kick. Würzburg | Kickers Würzburg
   | FC Würzburger Kickers
 Wacker Burghausen,  Burghausen
   | Burghausen
@@ -139,11 +140,11 @@ Arminia Bielefeld,  1905,    Bielefeld
  Melanchthonstraße 31a // 33615 Bielefeld
 
 Preußen Münster,     Münster
-  | Münster | SC Preußen 06 | SC Preußen Münster
+  | Münster | Pr. Münster | Preu. Münster | SC Preußen 06 | SC Preußen Münster
 
 Gütersloh,            Gütersloh
 KFC Uerdingen,        Krefeld          ## bis 1995 FC Bayer 05 Uerdingen
-  | Uerdingen | KFC Uerdingen 05
+  | Uerdingen | Uerdingen 05 | KFC Uerdingen 05
   | KSC Uerdingen 05   # KSC used by soccerverse - keep typo? or mark with !!! or something - why? why not?
   | Bayer Uerdingen | Bayer 05 Uerdingen | FC Bayer 05 Uerdingen
 # note:  now called KFC Uerdingen 05 (was Bayer 05 Uerdingen)
@@ -316,7 +317,7 @@ Hertha BSC, 1892,            	Berlin
  Hanns-Braun-Straße / Friesenhaus 2 // 14053 Berlin
 
 1. FC Union Berlin, 1966,     Berlin
-  | Union B. | Union Berlin | FC Union Berlin
+  | Union B. | Un. Berlin | Union Berlin | FC Union Berlin
   | 1. FC Union
  An der Wuhlheide 263 // 12555 Berlin
 
@@ -371,7 +372,7 @@ HSV Barmbek-Uhlenhorst
 == Bremen ==
 
 Werder Bremen, 1899,      Bremen
-  | Bremen | SV Werder Bremen
+  | Bremen | W. Bremen | SV Werder Bremen
  Franz-Böhmert-Straße 1c // 28205 Bremen
 ii) Werder Bremen II
   | Wrd Bremen II
@@ -430,7 +431,7 @@ VfR Mannheim,        Mannheim
   | Mannheim
   ##  - 2 (8): 2002-03....1999-00 (4) 1996-97....1993-94 (4)
 SV Waldhof Mannheim,   Mannheim
-  | W. Mannheim | Waldh. Mannheim | Waldhof Mannheim
+  | W. Mannheim | Wald. Mannheim | Waldh. Mannheim | Waldhof Mannheim
   | SV Waldhof | SV Waldhof Mannheim 07
   ## note: SV Waldhof Mannheim (played in 1. liga and 2. liga too)
 
@@ -478,7 +479,7 @@ FSV Frankfurt, 1899,       Frankfurt am Main
 SV Darmstadt 98, 1898,       Darmstadt
   | Darmstadt | Darmstadt 98
 SV Wehen Wiesbaden,     Wiesbaden
-  | Wehen | Wiesbaden | Wehen Wiesbaden
+  | Wehen | Wiesbaden | W. Wiesbaden | Weh. Wiesbaden | Wehen Wiesbaden
   | SV Wehen Wiesb.
 Kickers Offenbach,     Offenbach am Main
   | Offenbach
@@ -616,7 +617,7 @@ Chemnitzer FC, 1966       Chemnitz
 
 
 FC Erzgebirge Aue, 1949,   Aue
-  | Aue | Erzgeb. Aue | Erzgebirge Aue
+  | Aue | Erzg. Aue | Erzgeb. Aue | Erzgebirge Aue
   | SC Wismut Karl-Marx-Stadt    # champs (3): 1960/61 1959..1957 (2)
   | Wismut Aue | FC Wismut Aue
  Lößnitzer Straße 95 // 08280 Aue
@@ -651,7 +652,7 @@ VfB Germania Halberstadt,   Halberstadt
 == Thüringen ==
 
 FC Carl Zeiss Jena,  Jena
-  | CZ Jena | Carl Zeiss Jena
+  | CZ Jena | Carl Zeiss Jena | FC CZ Jena
   | SC Motor Jena    # champs (1): 1963/64
 #  Renamed SC Motor Jena in 1954
 

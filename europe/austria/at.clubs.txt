@@ -17,7 +17,7 @@ FK Austria Wien, 1911,  Wien (Favoriten)
   | Austria Vienna [en]
  Fischhofgasse 12 // 1100 Wien
 ii) Young Violets Austria Wien
-  | Young Violets | Young Violets A. W.
+  | Young Violets | Y. Violets Austria | Young Violets A. W.
   | FK Austria Wien II
   | Austria Wien Amat.| Austria Wien A. | Ausstria Wien Amateure
 
@@ -307,7 +307,7 @@ ii) SV Ried II
   | Junge Wikinger | Junge Wikinger Ried
 
 SK Vorwärts Steyr,   Steyr
-  | Vorwärts Steyr
+  | Vorw. Steyr | Vorwärts Steyr
 
 FC Wels,         Wels
   | Wels FC
@@ -423,7 +423,7 @@ ii) Wolfsberger AC II
 ATSV Wolfsberg, 	Wolfsberg
 
 Austria Klagenfurt, Klagenfurt
-  | A. Klagenfurt
+  | A. Klagenfurt | Aus. Klagenfurt
   | SK Austria Klagenfurt | SG Austria Klagenfurt
   | FC Kärnten     ## todo: keep as separate club - why? why not?
 
@@ -520,7 +520,7 @@ FC Bergheim
 == Tirol ==
 
 FC Wacker Innsbruck, 1913, Innsbruck
-  | Innsbruck | FC Wacker | Wacker Innsbr | Wacker Innsbruck
+  | Innsbruck | FC Wacker | W. Innsbruck | Wacker Innsbr | Wacker Innsbruck
   | FC Tirol | FC Tirol Innsbruck              ## note: FC Tirol old name - add year
   | SSW Innsbruck | Spielgemeinschaft $$Swarovski$$ Wacker Innsbruck   # champs (7): 2002..2000 (2) 1977/78 1975/76 1974...1971 (3)
  Stadionstraße 1b // 6020 Innsbruck
@@ -536,6 +536,7 @@ Union Innsbruck,  Innsbruck
 WSG Tirol, 1930,   Wattens
   | Tirol
   | WSG $$Swarovski$$ Tirol | WSG $$Swarovs.$$ Tirol | Wattener Sportgemeinschaft Tirol
+  | $$S.$$ Tirol | $$Swarovski$$ Tirol
   | Wattens | WSG Wattens | WSG $$Swarovski$$ Wattens        ## $$$ note: Swarovski is a sponsor
 
 SC Schwaz,    Schwaz

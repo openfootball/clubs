@@ -29,20 +29,21 @@
 
 
 
-Fenerbahçe İstanbul SK,  İstanbul
+Fenerbahçe İstanbul,  İstanbul
   | Fenerbahçe | Fenerbahçe SK
   | Fenerbahçe Spor Kulübü | Fenerbahçe Sports Club
-  | Fenerbahçe İstanbul
-Galatasaray İstanbul AŞ, İstanbul
-  | Galatasaray | Galatasar. İstanbul | Galatasaray İstanbul | Galatasaray AŞ
+  | Fenerbahçe İstanbul SK
+Galatasaray İstanbul, İstanbul
+  | Galatasaray | Galat. İstanbul | Galatasar. İstanbul | Galatasaray AŞ | Galatasaray İstanbul AŞ
   | Galatasaray SK
-Beşiktaş İstanbul JK,    İstanbul
-  | Beşiktaş | Beşiktaş JK | Beşiktaş İst. | Beşiktaş İstanbul
-Kasımpaşa İstanbul SK,   İstanbul (Beyoğlu)
-  | Kasımpaşa | Kasımpaşa SK | Kasımpaşa İstanbul
+Beşiktaş İstanbul,    İstanbul
+  | Beşiktaş | Beşiktaş JK | Beşiktaş İst. | Beşiktaş İstanbul JK
+Kasımpaşa İstanbul,   İstanbul (Beyoğlu)
+  | Kasımpaşa | Kasımpaşa SK | Kasımpaşa İstanbul SK
 
 İstanbul Başakşehir,  İstanbul (Başakşehir)
-  | Başakşehir | İ. Başakşehir | İst. Başakş | İstanb. Başakşehir | İstanbul Başakşeh. | İstanbul Başakşehir FK
+  | Başakşehir | İ. Başakşehir | İst. Başakş | İstanb. Başakşehir
+  | İstanbul Başakş. | İstanbul Başakşeh. | İstanbul Başakşehir FK
   | Medipol Başakşehir FK
   | Büyükşehyr | İstanbul Büyükşehir Belediyespor    ## (double) check if Buyuksehyr matching (or separate club) !?
 
@@ -155,11 +156,11 @@ Kayseri Erciyesspor, Kayseri
 Konyaspor,     Konya
   | Atiker Konyaspor
 Sivasspor,     Sivas
-Trabzonspor AŞ, Trabzon
-  | Trabzonspor
+Trabzonspor,   Trabzon
+  | Trabzonspor AŞ
 
 Yeni Malatyaspor, 1986, Malatya  # note: Not to be confused with Malatyaspor
-  | Y. Malatyaspor | Yeni Malatya Spor Kulübü
+  | Y. Malatyaspor | Yeni Malatyasp. | Yeni Malatya Spor Kulübü
 # Süper Lig
 # 2001–02 2002–03 2003–04 2004–05 2005–06 2006–07 2007–08 2008–09 2009–10
 # 2010–11 2011–12 2012–13 2013–14 2014–15 2015–16 2016–17 2017–18 2018–19 2019–20
@@ -231,3 +232,5 @@ Erzincanspor,  Erzincan
   | 24 Erzincan | 24 Erzincan Spor Kulübü
 
 Hatayspor,  1967,  Antakya       # Hatay Province
+  | Hatayspor Antakya
+
