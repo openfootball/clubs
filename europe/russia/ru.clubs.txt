@@ -176,6 +176,7 @@ FC Ufa, Ufa
 Ural Yekaterinburg, Yekaterinburg
   | Ural | FC Ural | FC Ural Yekaterinburg
   | FC Ural Sverdlovsk Oblast | Football Club Ural Sverdlovsk Oblast
+  | FK Ural
   | Ural Jekaterinburg [de]
 
 Uralan, Elista
