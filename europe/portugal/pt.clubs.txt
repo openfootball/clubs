@@ -5,6 +5,8 @@ SL Benfica,       Lisboa
   | Benfica | Benfica Lis. | Benfica Lisboa
   | Sport Lisboa e Benfica
   | Benfica Lissab [de] | Benfica Lissabon [de]
+ii) SL Benfica B
+  | Benfica B | Sport Lisboa e Benfica B
 
 Sporting CP,      Lisboa
   | Sporting
@@ -25,7 +27,7 @@ Casa Pia,         Lisboa
 UD Vilafranquense,    Vila Franca de Xira   # a municipality in the Lisbon District
   | Vilafranquense | União Desportiva Vilafranquense
 CD Mafra,  Mafra                            # a city and a municipality in the district of Lisbon
-  | Clube Desportivo Mafra
+  | Mafra | Clube Desportivo Mafra
 
 SC União Torreense, 1917,   Torres Vedras   #  a municipality in the district of Lisbon
   | União Torreense
@@ -33,9 +35,24 @@ SC União Torreense, 1917,   Torres Vedras   #  a municipality in the district o
   | Sport União Torreense
 
 
+CD Cova Piedade,  1947,    Cova da Piedade
+  | Cova da Piedade
+  | Clube Desportivo Cova da Piedade
+#  resulting from the merge between União Piedense Futebol Clube,
+#    founded in 9 April 1914, and Sporting Clube Piedense
+
+Estoril Praia, Estoril
+  | Estoril
+  | GD Estoril Praia | Grupo Desportivo Estoril Praia
+  | GD Estoril
+
+
 
 FC Porto,     Porto
-  | Porto
+  | Porto | Futebol Clube do Porto
+ii) FC Porto B
+  | Porto B | Futebol Clube do Porto B
+
 Boavista FC,  Porto
   | Boavista | Boavista Porto | Boavista Porto FC
 
@@ -47,14 +64,11 @@ CD Aves, 1930,  Aves
   | CD das Aves | Desportivo das Aves
 
 GD Chaves, Chaves
-  | Chaves
-Estoril Praia, Estoril
-  | Estoril
-  | GD Estoril Praia | Grupo Desportivo Estoril Praia
-  | GD Estoril
+  | Chaves | Grupo Desportivo de Chaves
 
-CD Feirense, Santa Maria da Feira
-  | Feirense
+
+CD Feirense, 1918, Santa Maria da Feira
+  | Feirense | Clube Desportivo Feirense
 
 Vitória de Guimarães, Guimarães
   | Vitória
@@ -87,6 +101,10 @@ SC Braga, Braga
   | Braga | Sp Braga | Sporting Braga
   | Sporting Clube de Braga
 
+FC Vizela,  1939,  Vizela
+  | Futebol Clube de Vizela
+
+
 CD Tondela, Tondela
   | Tondela
 
@@ -95,12 +113,13 @@ Académica de Coimbra, Coimbra
   | Associação Académica de Coimbra
   | Associação Académica de Coimbra - Organismo Autónomo de Futebol  # (AAC–OAF)
   | Associação Académica de Coimbra - O.A.F
-  .
+
+
 FC Arouca, Arouca
   | Arouca
 
-FC Penafiel, Penafiel
-  | Penafiel
+FC Penafiel, 1951,  Penafiel
+  | Penafiel | Futebol Clube de Penafiel
 
 SC Beira-Mar, Aveiro
   | Beira-Mar
@@ -136,8 +155,8 @@ FC Alverca, Alverca do Ribatejo
   | Alverca |  Alverca Futebol
 Sporting de Espinho,  Espinho
   | Espinho | SC Espinho | Sporting Clube de Espinho
-Leixões SC, Matosinhos
-  | Leixões
+Leixões SC, 1907,  Matosinhos
+  | Leixões | Leixões Sport Club
 Naval 1º de Maio, Figueira da Foz
   | Naval | Associação Naval 1º de Maio
 SC Olhanense,     Olhão
@@ -146,17 +165,20 @@ CD Santa Clara,   Ponta Delgada
   | Santa Clara
 CD Trofense,     Tulipa
   | Trofense | Clube Desportivo Trofense
-Varzim SC,       Póvoa de Varzim
-  | Varzim
+Varzim SC,    1915,   Póvoa de Varzim
+  | Varzim | Varzim Sport Club
 
 FC Famalicão,  1931,  Vila Nova de Famalicão
   | Famalicão | Futebol Clube de Famalicão
 
-SC Covilhã,   Covilhã
+SC Covilhã,   1923,   Covilhã
+  | Sp. Covilhã | Sporting Covilhã
   | Sporting da Covilhã | Sporting Clube da Covilhã
+  | SCC
 
 Académico Viseu,  Viseu
-  | Académico de Viseu FC
+  | Académico de Viseu | Académico de Viseu FC
+
 
 Anadia FC, Anadia
   | Anadia Futebol Clube

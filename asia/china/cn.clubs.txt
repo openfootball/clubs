@@ -67,7 +67,9 @@ Tianjin TEDA,               Tianjin
   | FC Tianjin Taida
 
 
-Wuhan Zall,                 Wuhan
+Wuhan Zall,                 Wuhan  ## Hubei
+  | Wuhan Zall FC
+
 Henan Jianye,               Zhengzhou
   | FC Henan Jianye
 

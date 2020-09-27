@@ -12,8 +12,13 @@ Cerezo Osaka,         Osaka › Osaka
   | C-Osaka
 Gamba Osaka,           Suita › Osaka
   | G-Osaka
-Yokohama F. Marinos,   Yokohama & Yokosuka › Kanagawa
+Yokohama F. Marinos, 1972,   Yokohama & Yokosuka › Kanagawa
   | Yokohama | Yokohama M. | Marinos
+# in 1999 (re)formed by the merger of Yokohama Marinos and
+#   Yokohama Flügels
+
+Yokohama FC,  1999,          Yokohama › Kanagawa
+
 Kawasaki Frontale,     Kawasaki › Kanagawa
   | Kawa Frontale
 Nagoya Grampus,        Nagoya › Aichi
@@ -32,7 +37,7 @@ Kashiwa Reysol,        Kashiwa › Chiba
 Sagan Tosu,             Tosu › Saga
 Sanfrecce Hiroshima,    Hiroshima › Hiroshima
   | Hiroshima | Sanfrecce | S. Hiroshima | Sanfr. Hiroshima
-  
+
 Vegalta Sendai,       Sendai, Miyagi
 Hokkaido Consadole Sapporo,  Sapporo › Hokkaido
   | Sapporo | Consa Sapporo | Consadole Sapporo

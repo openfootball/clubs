@@ -17,6 +17,7 @@ Shanghai Greenland Shenhua
 Shanghai SIPG F.C.
 Tianjin Quanjian
 Tianjin Teda F.C.
+Wuhan Zall F.C.
 
 
 ==================================
@@ -46,3 +47,4 @@ Urawa Red Diamonds
 Vegalta Sendai
 Vissel Kobe
 Yokohama F. Marinos
+Yokohama FC

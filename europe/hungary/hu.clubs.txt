@@ -35,6 +35,10 @@ Budapesti VSC, 1911,    Budapest (Zugló)
   | Budapesti Vasutas Sport Club
 
 
+Budafoki MTE,  1912,   Budapest (Budafok)
+  | BMTE | Budafoki Munkás Testedző Egyesület
+
+
 
 Vác FC,   Vác
   | Dunakanyar-Vác   # champs (1): 1994/95
@@ -50,7 +54,7 @@ Dunaújváros FC (1952-2009),  Dunaújváros
 Videoton FC
   | Videoton      # champs (2): 2015/16 2011/12
   | Videoton Fehérvár
-  | Fehérvár | Fehérvár FC  
+  | Fehérvár | Fehérvár FC
   | Vidi | MOL Vidi | MOL Fehérvár FC
 
 
@@ -140,6 +144,6 @@ Komlói Bányász SK,   1922,   Komló
   | Komlói Bányász | Komlói Bányász Sport Klub
 
 Kisvárda FC,  Kisvárda
-  | Kisvárda | Kisvárda Futball Club 
+  | Kisvárda | Kisvárda Futball Club
   | Varda | Varda SE
-  
+
