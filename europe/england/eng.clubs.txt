@@ -74,6 +74,10 @@ Carshalton Athletic FC, 1905,  London (Sutton)
 Dulwich Hamlet FC,  1893,  London
   | Dulwich Hamlet
 
+Wealdstone FC,  1899,   London (Ruislip)
+  | Wealdstone | Wealdstone Football Club
+
+
 
 Everton FC, 1878,  @ Goodison Park, Liverpool (Walton) › Lancashire   ## North West England
   | Everton | FC Everton
@@ -289,6 +293,9 @@ Derby County FC,    @ iPro Stadium,    Derby › Derbyshire
   | Derby | Derby County
 Norwich City FC, 1890,     @ Carrow Road,    Norwich › Norfolk
   | Norwich | Norwich City
+
+King's Lynn FC, 2010,   King's Lynn › Norfolk
+  | King's Lynn | King's Lynn Town | King's Lynn Town FC
 
 Watford FC, 1881,   @ Vicarage Road,  Watford › Hertfordshire
   | Watford | FC Watford
