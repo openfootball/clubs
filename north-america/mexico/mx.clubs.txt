@@ -11,9 +11,9 @@ Club América, 1916,   Ciudad de México
 Cruz Azul, 1927,      Ciudad de México
   | Cruz Azul FC | Cruz Azul Fútbol Club
  San Pablo No. 100, Col. La Noria, Antiguo Camino a Xochimilco // México D.F.
- 
+
 Pumas UNAM, 1954,   Ciudad de México
-  | UNAM | Pumas | UNAM Pumas 
+  | UNAM | Pumas | UNAM Pumas
   | Universidad Nacional | Club Universidad Nacional
  Calle Totonacas No. 560, Col. Ajusco // Delegación Coyoacán // México, D.F.  C.P. 04300
 
@@ -39,15 +39,15 @@ Club Atlas,  1916,              Guadalajara › Jalisco
   | Atlas | Club Atlas de Guadalajara | Atlas FC
   | Atlas Guadalajara
  Av. Patria 2300, Col. Lomas del Bosque // Zapopan, Jalisco C.P. 45110
- 
-Leones Negros U. de G., 1970,  Guadalajara › Jalisco    
+
+Leones Negros U. de G., 1970,  Guadalajara › Jalisco
   | Leones Negros
-  | UDG | U. de G. | U. Guadalajara | U. de Guadalajara | Universidad de Guadalajara  
+  | UDG | U. de G. | U. Guadalajara | U. de Guadalajara | Universidad de Guadalajara
 
 Estudiantes UAG, 1971         # en Zapopan, Jalisco
-  | UAG | Estudiantes | Estudiantes Tecos 
+  | UAG | Estudiantes | Estudiantes Tecos
   | UA. Guadalajara | Universidad Autónoma de Guadalajara
-  
+
 
 
 == Nuevo León ==
@@ -55,7 +55,7 @@ CF Monterrey, 1945,      Monterrey › Nuevo León
   | Monterrey | Rayados (de Monterrey)
   | Club de Fútbol Monterrey
  Av Revolución 846-B, Col. Jardín Español // Monterrey, Nuevo León
-  
+
 Tigres UANL, 1960,       Monterrey › Nuevo León     ## 	San Nicolás de los Garza
   | UANL | Tigres| UANL Tigres | UA. Nuevo León
   | Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León
@@ -68,8 +68,8 @@ Club Puebla,  1944,        Puebla › Puebla
   | Puebla Fútbol Club
  Calz. Ignacio Zaragoza No. 666, Col. Maravillas Unidad Deportiva Estadio Cuauhtémoc // Puebla, Pue.  C.P. 72220
 
-Lobos BUAP, 1967,         Puebla › Puebla 
-  | BUAP | Benemérita Universidad Autónoma de Puebla      
+Lobos BUAP, 1967,         Puebla › Puebla
+  | BUAP | Benemérita Universidad Autónoma de Puebla
 
 
 == Veracruz ==
@@ -86,7 +86,7 @@ FC Juárez, 2015, Juárez
   | Juárez | Fútbol Club Juárez
 
 == Tamaulipas ==
-Altamira, 2001,        Altamira 
+Altamira, 2001,        Altamira
 Correcaminos, 1980,    Victoria
   | UAT | Correcaminos UAT | UA. Tamaulipas
 
@@ -95,7 +95,7 @@ Tampico Madero,   Tampico › Tamaulipas   ##  add Ciudad Madero too ??
 
 
 == San Luis Potosí ==
-Atlético San Luis, 1998,   San Luis Potosí 
+Atlético San Luis, 1998,   San Luis Potosí
   | San Luis | Atlético | Atl. San Luis
   | Club San Luis
 
@@ -125,7 +125,7 @@ Dorados Sinaloa, 2003,     Culiacán
   | Dorados de Sinaloa
   | Dorados | Sinaloa
 
-Mazatlán FC, 2020,        Mazatlán  
+Mazatlán FC, 2020,        Mazatlán
   | Mazatlán Fútbol Club
 
 == Zacatecas ==
@@ -149,7 +149,7 @@ CF Pachuca, 1901,        Pachuca
  Libramiento Circuito de la Concepción km 2 s/n, Col. La Concepción // San Agustín Tlaxlaca, Hidalgo C.P. 42160
 
 Cruz Azul Hidalgo, 1993,     Cd. Cooperativa Cruz Azul    ## Tula ??
-  | Cruz Azul Hgo.   
+  | Cruz Azul Hgo.
 
 == Querétaro ==
 Querétaro FC, 1950,      Querétaro
@@ -175,23 +175,23 @@ Cimarrones de Sonora,   Hermosillo
 
 
 == Oaxaca ==
-Oaxaca,  2012, Oaxaca 
+Oaxaca,  2012, Oaxaca
 
 == Chiapas ==
 Jaguares Chiapas, 2002,    Tuxtla Gutiérrez     ##  Chiapas FC or Jaguares de Chiapas
   | Chiapas | Jaguares | Jaguares de Chiapas
-  | Chiapas Fútbol Club
+  | Chiapas FC | Chiapas Fútbol Club
  Calzada de las Etnias s/n, esq. Blvd Fidel Velázquez, Col. Infonavit el Grijalva // Tuxtla Gutierrez, Chiapas C.P. 29047
 
 Cafetaleros de Chiapas,   Tuxtla Gutiérrez
-  | Cafetaleros de Tapachula | Caf. de Tapachula    # note: On May 28, 2019 the team was moved to Tuxtla Gutiérrez and was renamed as Cafetaleros de Chiapas 
+  | Cafetaleros de Tapachula | Caf. de Tapachula    # note: On May 28, 2019 the team was moved to Tuxtla Gutiérrez and was renamed as Cafetaleros de Chiapas
 
 == Campeche ==
 Delfines, 2012          Cd. del Carmen
-  | Delfines del Carmen            
+  | Delfines del Carmen
 
 == Yucatán ==
-Mérida,  2003,   Mérida 
+Mérida,  2003,   Mérida
 
 Venados FC,  1988,    Mérida
   | Venados Fútbol Club
@@ -201,4 +201,4 @@ Atlante FC, 1916,          Cancún
   | Atlante | Potros (de Hierro)
   | Club de Fútbol Atlante
  Av. Mayapán esq. Av. Kabah s/n Supermanzana 43 Pedregal del Bosque // Quintana Roo
- 
+
