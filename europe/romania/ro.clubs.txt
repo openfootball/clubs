@@ -18,8 +18,9 @@ Rapid București,   1923,      București
   | Fotbal Club Rapid 1923 | FC Rapid 1923
   | Rapid Bukarest [de]
 
-Daco-Getica București,   București
-  | Daco-Getica Bucuresti | Asociația Sport Club Daco-Getica București
+Daco-Getica București, 1992,  București
+  | ASC Daco-Getica București | Asociația Sport Club Daco-Getica București
+  | Juventus București
 ## From 1992 to the summer of 2018, the team was known as Juventus București
 
 Sportul Studenţesc Bucureşti, 1916,  București
@@ -42,9 +43,27 @@ CFR Cluj,     Cluj
 U Cluj,       Cluj
   | U. Cluj  | Universitatea Cluj | FC Univ. Cluj | FC Universitatea Cluj
 
+
 Astra Giurgiu,   Giurgiu
   | Astra | FC Astra Giurgiu
   | AFC Astra Giurgiu
+  | Astra Ploieşti
+# name history:
+# 1945 Astra Română Ploiești
+# 1959 Rafinorul Ploiești
+# 1990 CS Astra Ploiești
+# 1996 AS Danubiana Ploiești
+# 1998 SC FC Astra Ploiești
+# 2005 CSM Ploiești
+# 2007 FC Ploiești
+# 2009 FC Astra Ploiești
+# 2012 FC Astra Giurgiu
+
+
+FC Petrolul Ploiești, Ploiești
+  | Petrolul | Petrolul Ploiesti | Petrolul Ploiești | FC Petrolul Ploieşti
+
+
 Ceahlăul Piatra Neamț,  Piatra Neamț
   | Ceahlaul | Ceahlaul Piatra Neamt | CSM Ceahlăul Piatra Neamț
 Concordia Chiajna,   Chiajna
@@ -61,8 +80,7 @@ Gloria Bistrița,    Bistrița
   | ACF Gloria 1922 Bistriţa
 
 
-FC Petrolul Ploiești, Ploiești
-  | Petrolul | Petrolul Ploiesti | Petrolul Ploiești | FC Petrolul Ploieşti
+
 
 FC Viitorul Constanța,   Ovidiu
   | Viitorul | FC Viitorul | Viitorul Constanța
@@ -113,10 +131,15 @@ Pandurii Târgu Jiu,  Târgu Jiu
 
 FC Politehnica Iași,   Iași
   | Poli Iasi | Poli Iași | Politehnica Iași
-  | CSMS Iasi | CSM Politehnica Iași     ## check - older name?
+  | CSM Politehnica Iași     ## check - older name?
+  | CSMS Iasi | CSM Studențesc Iași
   | CSM Politehnica Iaşi   ## todo/check: unaccent ro - auto-generate with cedilla from with ...
   | Politehnica Iaşi
   ##  | CSMS laşi     -- todo/check: typo?  l is a small letter l ?
+# note: This article - FC Politehnica Iași (2010) - is about the football club
+# established in 2010. For the dissolved club, see FC Politehnica Iași (1945).
+# For other uses, see Politehnica Iași.
+
 
 Poli Timișoara, Timișoara
   | Timişoara | ACS Poli Timișoara
@@ -198,3 +221,8 @@ FC Extensiv Craiova (1949-2013),    Caracal
   | Fotbal Club Extensiv Craiova
   | FC Caracal
 
+FC Victoria Brăneşti (1968-2012),   Brăneşti
+  | Victoria Brăneşti
+
+CSU Voința Sibiu (2007-2012),   Sibiu
+  | Voinţa Sibiu

@@ -33,15 +33,37 @@ FC Moskva,    Moskva
   | Moskva
   | FK Moskva
   | FC Moscow [en]
+
 Torpedo Moskva,    Moskva
   | Torpedo | FC Torpedo Moskva
   | T. Moscow [en] | Torpedo Moscow [en] | FC Torpedo Moscow [en]
   | FC Torpedo Moskau [de]
+# note: Not to be confused with Torpedo-ZIL Moscow (1997) or
+#        Torpedo-ZIL Moscow (2003).
+
+Torpedo Metallurg Moskva,    Moskva
+  | Torpedo Metallurg
+## note: Torpedo-ZIL which existed from 1997 to 2003
+##   and during its final season was known as Torpedo-Metallurg.
+## For the successors in the Russian Premier League, see FC Moscow.
+## For the successors from the viewpoint of belonging to ZiL,
+## see FC Torpedo-ZIL Moscow (2003).
+## For the unrelated Torpedo club founded in 1924
+## which were originally owned by ZIL and are now owned by ZIL again,
+## see Torpedo Moscow.
+
+
 FC Chertanovo Moskva,  1993,  Moskva
   | Chertanovo Moscow [en] | FC Chertanovo Moscow [en]
   | FC Chertanovo Mosk [de]
   | FK Chertanovo Moskva
 
+
+
+FC Saturn Ramenskoye, 1946,  Ramenskoye    # Ramenskoe - a town and the administrative center of Ramensky District in Moscow Oblast, Russia, located 46 kilometers (29 mi) southeast of Moscow
+  | FCSR | Saturn | FC Saturn
+  | FK Saturn [de]
+# also known as FC Saturn Moscow Region (FC Saturn Moskovskaya Oblast)
 
 
 
@@ -63,6 +85,7 @@ FC Rubin Kazan, 1958,  Kazan     ##  Tatarstan (Republic of) > Volga (Federal Di
 
 FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
   | Amkar | Amkar Perm
+  | FK Amkar Perm [de]
 
 FC Anzhi Makhachkala, 1991,  Makhachkala      ## Dagestan (Republic of) >  North Caucasian (Federal District)
   | Anzhi | Anzhi Makhachkala | FK Anzi Makhackala
@@ -133,6 +156,7 @@ Nizhnii Novgorod,  Nizhny Novgorod
 Volga Nizhnii Novgorod, Nizhny Novgorod
   | Volga | Volga N. Novgorod
   | Volga Nyzhnyi
+  | Volga Nizhniy Novgorod
 
 
 FC Rostov,     Rostov-on-Don
@@ -143,7 +167,6 @@ Rotor, Volgograd
   | SC Rotor Volgograd
   | FC Rotor Wolgograd [de]
 
-Saturn, Ramenskoe
 Shinnik, Yaroslavl
   | Shinnik Yaroslavl
 SKA Khabarovsk, Khabarovsk
