@@ -159,6 +159,8 @@ Leixões SC, 1907,  Matosinhos
   | Leixões | Leixões Sport Club
 Naval 1º de Maio, Figueira da Foz
   | Naval | Associação Naval 1º de Maio
+  | Naval 1° de Maio       ### todo/fix: add ° to norm_names!!!!!!
+
 SC Olhanense,     Olhão
   | Olhanense
 CD Santa Clara,   Ponta Delgada
