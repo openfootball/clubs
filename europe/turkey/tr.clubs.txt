@@ -44,8 +44,12 @@ Kasımpaşa İstanbul,   İstanbul (Beyoğlu)
 İstanbul Başakşehir,  İstanbul (Başakşehir)
   | Başakşehir | İ. Başakşehir | İst. Başakş | İstanb. Başakşehir
   | İstanbul Başakş. | İstanbul Başakşeh. | İstanbul Başakşehir FK
-  | Medipol Başakşehir FK
-  | Büyükşehyr | İstanbul Büyükşehir Belediyespor    ## (double) check if Buyuksehyr matching (or separate club) !?
+  | $$Medipol$$ Başakşehir FK
+  | Büyükşehyr       ## todo/check: if Buyuksehyr matching (or separate club) !?
+  | IBBSK | İstanbul BBSK
+  | İstanbul Büyükşehir Belediyespor
+  | İstanbul Büyükşehir Belediyesi SK
+
 
 İstanbulspor, 1913, İstanbul
   | İstanbulspor AS
@@ -154,7 +158,18 @@ Kayseri Erciyesspor, Kayseri
   | Erciyesspor
 
 Konyaspor,     Konya
-  | Atiker Konyaspor
+  | Konyaspor Kulübü
+  | $$Atiker$$ Konyaspor
+  | $$Torku$$ Konyaspor
+## Note: Der Verein wurde am 11. Juli 2012 im Rahmen eines Name-Sponsoringvertrags
+# über vier Jahre von Konyaspor in Torku Konyaspor umbenannt.
+# Mit dieser Namensänderung ging auch die Fusion des Vereins
+# mit dem Drittligisten und zweiten Profiverein der Stadt Konya,
+# mit Konya Şekerspor, einher.
+# Mit der Saison 2016/17 wird der Verein im Rahmen eines neuen Name-Sponsoringvertrags
+# mit der Unternehmensgruppe Atiker für die Dauer von drei Spielzeiten Atiker Konyaspor heißen.
+
+
 Sivasspor,     Sivas
 Trabzonspor,   Trabzon
   | Trabzonspor AŞ

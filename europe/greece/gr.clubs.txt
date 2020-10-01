@@ -68,9 +68,9 @@ Aris Thessaloniki FC, Thessaloniki › Central Macedonia
   | A. Saloniki | Aris Saloniki
 Iraklis 1908 Thessaloniki FC, Thessaloniki › Central Macedonia
   | Iraklis | Iraklis FC
-  | Iraklis Thessaloniki
+  | Iraklis Thessaloniki | Iraklis Saloniki
   | AEP Iraklis FC
-  | Heracles [en]   ## Iraklis = Haracles (engl.)
+  | Heracles [en]       ## Iraklis = Haracles (engl.)
 
 Apollon Pontou FC, Kalamaria › Central Macedonia    ## Kalamaria, Thessaloniki
   | Kalamaria
@@ -81,7 +81,8 @@ Asteras Tripolis FC, Tripoli › Peloponnese
 
 Xanthi FC,           Xanthi › Thrace
   | Xanthi
-  | Skoda Xanthi FC
+  | $$Skoda$$ Xanthi | $$Skoda$$ Xanthi FC
+
 Panetolikos GFS,     Agrinio › West Greece
   | Panetolikos | Panetolikos Agrinio
   | Panaitolikos
@@ -109,7 +110,7 @@ PAS Lamia 1964,      Lamia › Central Greece
 Kerkyra FC,          Corfu › Ionian Islands
   | Kerkyra
   | Kerkyra Kassiopi     # club founded in 2013 following a merger between AO Kerkyra and AO Kassiopi.
-  | AOK Kerkyra
+  | AO Kerkyra | AOK Kerkyra
   | PAE Kerkyra
 # name history.
 #   1969–2013 (AO Kerkyra)
@@ -123,8 +124,10 @@ Edessaikos FC,  Edessa › Macedonia
   | Edessaikos
 
 Platanias FC,        Chania › Crete     ## use Platanias › Chania  why? why not?
-  | Platanias
+  | Platanias | Platanias Chaníon
   | AO Platanias | Athlitikós Ómilos Plataniá Chaníon
+
+
 PAE Chania,           Chania  › Crete   ## use Mournies › Chania   why? why not?
   | Chania FC
 
@@ -142,11 +145,13 @@ Kalamata FC,       Kalamata › Peloponnese
   | PAE PS Kalamata
 
 AEL Kalloni FC, Kalloni › Aegean Islands
+  | AEL Kalloni
   | Kallonis
 Kastoria FC, Kastoria › Macedonia
   | Kastoria
 Kavala FC, Kavala › Macedonia
   | Kavala
+  | AO Kavala
 
 Volos FC, 2017, Volos › Thessaly
   | Volos
