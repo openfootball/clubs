@@ -72,7 +72,8 @@ TJ Sokol Dolná Zdana
   | Sokol Dolná Zdana
 MFK Zemplín Michalovce
   | Michalovce
-  | Zemplin Michalovce
+  | Z. Michalovce | Zemplin Michalovce
+
 
 FK Poprad, 1906, Poprad
 

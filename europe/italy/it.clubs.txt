@@ -229,6 +229,8 @@ AC Perugia, 1905,  Perugia
 
 Pescara, Pescara
   | Pescara Calcio
+  | Delfino Pescara
+
 Pro Vercelli, Vercelli
 
 Salernitana, Salerno
@@ -271,6 +273,7 @@ AS Lucchese Libertas,	Lucca
   | Lucchese | AS Lucchese Libertas 1905
 SS Monza, Monza
   | Monza | SS Monza 1912
+  | SSD Monza 1912
 AC Reggiana, Reggio Emilia
   | Reggiana | AC Reggiana 1919
   | Reggio Audace | Reggio Audace FC

@@ -74,7 +74,7 @@ FC Lausanne,  1896,           Lausanne
   | Lausanne Sports    #  champs (1): 1965/66
 
 Stade Lausanne-Ouchy,   2001,       Lausanne (Ouchy)
-  | FC Stade Lausanne Ouchy
+  | FC Stade Ls Ouchy | FC Stade Lausanne Ouchy
   | SLO | FC SLO
 # note: a merger between FC Stade Lausanne and FC Ouchy Olympic in 2001
 
@@ -85,7 +85,7 @@ FC Le Mont, 1942,             Le Mont-sur-Lausanne
 == Genève ==
 Servette FC, 1890,            Genève
   | Servette | Servette Genève | Servette FC Genève
-  | FC Servette Genf [de]
+  | Servette Genf [de] | FC Servette Genf [de]
 
 == Ticino ==
 FC Lugano, 1908,              Lugano

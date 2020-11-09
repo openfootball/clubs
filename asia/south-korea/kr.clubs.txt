@@ -19,10 +19,11 @@ Incheon United,            Incheon
 Jeju United,                Seogwipo   # in Jeju Province
   | Jeju United FC
 Jeonbuk Motors,            Jeonbuk
-  | Jeonbuk Hyu. | Jeonbuk Hyundai Motors | Jeonbuk Hyundai Motors FC
+  | Jeonbuk Hyu. | Jeonbuk Hyundai | Jeonbuk Hyundai Motors | Jeonbuk Hyundai Motors FC
   | Jeonbuk FC
+
 Pohang Steelers,            Pohang
-  | FC Pohang Steelers
+  | FC Pohang Steelers | Pohang Steelers FC
 Seongnam Ilhwa Chunma,     Seongnam
   | Seongnam Ilhwa | Seongnam Ilhwa Chunma FC
   | Seongnam FC
@@ -35,5 +36,6 @@ Ulsan Hyundai,            Ulsan
 
 Sangju Sangmu,    Sangju
   | Sangju Sangmu FC
+  | Sangju Sangmu Pho.
 
 Gwangju FC, Gwangju

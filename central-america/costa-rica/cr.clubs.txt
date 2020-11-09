@@ -26,6 +26,7 @@ Deportivo Saprissa,    San Juan de Tibás › San José
   | Saprissa
 Universidad de Costa Rica, 1941  Montes de Oca › San José
   | UCR | CF Universidad de Costa Rica | Club de Futbol Universidad de Costa Rica
+  | Uni. de Costa Rica
 AD San Carlos, 1965,  Ciudad Quesada › San Carlos
   | San Carlos | Asociación Deportiva San Carlos
 

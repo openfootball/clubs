@@ -175,7 +175,7 @@ SKU Amstetten,   Amstetten
 ASK Ebreichsdorf,   Ebreichsdorf
 
 FC Marchfeld,  Mannsdorf an der Donau
-  | FC Marchfeld Donauauen
+  | Marchfeld Donauaue | FC Marchfeld Donauauen
   | Mannsdorf-Großenz. | FC Mannsdorf/Großenzersdorf
   | FC Marchfeld Mannsdorf | FC Marchfeld/M.
   | SC Mannsdorf     # vormals (alter name)
@@ -506,6 +506,7 @@ TSV St. Johann,   St. Johann im Pongau
 SV Wals-Grünau
 SV Kuchl
 Bischofshofen Sportklub 1933
+  | SK Bischofshofen
 TSV Neumarkt
   | TSV Neumarkt am Wallersee
 USC Eugendorf
@@ -525,7 +526,7 @@ FC Wacker Innsbruck, 1913, Innsbruck
   | SSW Innsbruck | Spielgemeinschaft $$Swarovski$$ Wacker Innsbruck   # champs (7): 2002..2000 (2) 1977/78 1975/76 1974...1971 (3)
  Stadionstraße 1b // 6020 Innsbruck
 ii) FC Wacker Innsbruck II
-  | Wacker Innsbruck II
+  | Wack. Innsbruck II | Wacker Innsbruck II
 
 SV Innsbruck, Innsbruck   ## Tiroler Liga
 
@@ -538,6 +539,7 @@ WSG Tirol, 1930,   Wattens
   | WSG $$Swarovski$$ Tirol | WSG $$Swarovs.$$ Tirol | Wattener Sportgemeinschaft Tirol
   | $$S.$$ Tirol | $$Swarovski$$ Tirol
   | Wattens | WSG Wattens | WSG $$Swarovski$$ Wattens        ## $$$ note: Swarovski is a sponsor
+ii) WSG Tirol Amateure
 
 SC Schwaz,    Schwaz
   | Schwaz
@@ -549,6 +551,7 @@ FC Kufstein,  Kufstein
 SV Telfs
 SV Wörgl
 SC Imst
+  | SC Imst 1933
 SV Hall
 SVG Reichenau
   | Reichenau SVG

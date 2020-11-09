@@ -20,7 +20,7 @@ Team Wellington,        Wellington › Wellington › North Island
 # note: plays in australian a-league
 
 Wellington Phoenix,     Wellington › Wellington › North Island
-  | Wellington | Wellington Phoenix FC
+  | Wellington | Wellington Ph. | Wellington Phoenix FC
 ii) Wellington Phoenix Reserves    ## reserve team plays in championship
   | Wellington Phoenix II
 

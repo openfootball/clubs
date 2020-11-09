@@ -59,7 +59,7 @@ Dayton Dutch Lions,   Dayton
 == Iowa ==
 Des Moines Menace,    Des Moines
 
-  
+
 == D.C. ==    ## district of columbia
 D.C. United, 1996,  Washington    ## year 1995?
   | Washington D.C. United
@@ -128,10 +128,10 @@ The Villages SC,           The Villages
 
 == Pennsylvania ==
 Philadelphia Union, 2010,  Chester       # year 2008?
-  | Philadelphia
+  | Philadelphia | Philadelphia Unio
 ii) Philadelphia Union II
 
-Philadelphia Lone Star FC,  Philadelphia 
+Philadelphia Lone Star FC,  Philadelphia
 
 Pittsburgh Riverhounds SC,  Pittsburgh
   | Pittsburgh Riverhounds
@@ -142,8 +142,8 @@ West Chester Predators,    West Chester
 
 
 == Tennessee ==
-Nashville SC,  2017,      Nashville 
-  | Nashville Soccer Club  
+Nashville SC,  2017,      Nashville
+  | Nashville Soccer Club
 Memphis 901 FC,           Memphis
 Chattanooga Red Wolves,   Chattanooga
   | Chattanooga Red Wolves SC
@@ -210,8 +210,8 @@ Seattle Sounders FC, 2009,  Seattle       ## year 2007?
   | Seattle | Seattle Sounders
 Tacoma Defiance,   Tacoma
 
-  
-  
+
+
 == Oregon ==
 Portland Timbers, 2011,  Portland         ## year  2009?  -- Hillsboro, Oregon ??
   | Portland
@@ -249,7 +249,7 @@ FC Tulsa,      Tulsa
 Louisville City FC, Louisville
 
 == Nevada ==
-Las Vegas Lights FC, Las Vegas 
+Las Vegas Lights FC, Las Vegas
 Reno 1868 FC, Reno
 
 == New Mexico ==

@@ -74,7 +74,7 @@ Gimnasia y Esgrima LP,  La Plata › Buenos Aires
   | GyE La Plata
 
 Club Atlético Aldosivi,   Mar del Plata › Buenos Aires
-  | Aldosivi
+  | Aldosivi | CA Aldosivi
 Alvarado, Mar del Plata
   | Alvarado (Mar del Plata)
   | Club Atlético Alvarado
@@ -146,6 +146,7 @@ Atlético Rafaela, Rafaela
 
 Talleres de Córdoba,      Córdoba
   | Talleres | Talleres C. | Talleres Cordoba | Club Atlético Talleres
+  | CA Talleres
 
 Club Atlético Belgrano, Córdoba     # note: NOT to be confused with Belgrano Athletic Club
   | Belgrano | Belgrano (Córdoba) | Belgrano de Córdoba
@@ -202,7 +203,7 @@ San Martín de Tucumán,  San Miguel de Tucumán  › Tucumán
 Patronato, Paraná › Entre Ríos
   | Club Atlético Patronato
   | Club Atlético Patronato de la Juventud Católica
-
+  | Patronato Paraná
 
 == Provincia Misiones ==
 

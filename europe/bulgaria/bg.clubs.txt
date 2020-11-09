@@ -4,6 +4,7 @@
 
 PFC CSKA Sofia, 1948,       Sofia      ## CDNA Sofia old name - add year?
   | CSKA Sofia | CDNA Sofia | PFC CSKA-Sofia | CSKA-Sofia
+  | CSKA 1948
   | ZSKA Sofia [de]
 PFC Levski Sofia, 1914,     Sofia
   | Levski Sofia | Levski | Professional Football Club Levski Sofia
@@ -92,8 +93,8 @@ SFC Etar Veliko Tarnovo,  Veliko Tarnovo
   | Etar Tarnovo   # champs (1): 1991/92
 
 Arda
-  |  FC Arda Kardzhali
-
+  | FC Arda Kardzhali
+  | FK Arda Kurdzhali
 
 FC Etar Veliko Tarnovo
   | Etar

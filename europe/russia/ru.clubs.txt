@@ -207,6 +207,7 @@ Uralan, Elista
 FC Tambov,  2013, Tambov
   | Tambov
   | FK Tambov
+  | FK Tambow
 FC Orenburg,  Orenburg
   | Orenburg | FK Orenburg
   | Gazovik Orenburg

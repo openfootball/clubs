@@ -37,6 +37,7 @@ Royal Antwerp FC,    Antwerpen › Antwerpen › Vlaanderen
 K. Beerschot VA, 1899,  Antwerpen › Antwerpen › Vlaanderen               ## in 2019 renamed to K. Beerschot V.A.)
   | Koninklijke Beerschot Voetbalclub Antwerpen
   | KFCO Wilrijk | KFCO Beerschot Wilrijk
+  | Beerschot Wilrijk
 # In 2013, KFCO Wilrijk decided to integrate the identity of
 #   Beerschot AC
 # In June 2013 K.FC.O. Wilrijk unofficially integrated
@@ -150,7 +151,7 @@ KSV Waregem (1925-2001),   Waregem
 Sporting Charleroi, 1904,    Charleroi › Hainaut › Wallonie  ##  [fr]
   | Charleroi  | R. Charleroi SC | RSC Charleroi
   | Royal Charleroi SC | Royal Charleroi Sporting Club
-  | Sporting de Charleroi
+  | Sp. Charleroi | Sporting de Charleroi
 
 Royal Excel Mouscron, 2010,    Mouscron  › Hainaut › Wallonie     ## Moeskroen [nl]
   | Mouscron | Mouscron-Péruwelz | RE Mouscron | Excel Mouscron | R. Excel Mouscron

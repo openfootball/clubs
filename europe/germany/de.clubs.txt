@@ -5,7 +5,7 @@
 == Bayern ==
 
 Bayern München, 1900,     München
-  | Bayern | FC Bayern München
+  | Bayern | Bayern Mün. | FC Bayern München
   | Bayern Munich [en] | FC Bayern Munich [en]
  Säbener Straße 51-57 // 81547 München
 ii) Bayern München II
@@ -212,7 +212,7 @@ VfB Borussia Neunkirchen,  Neunkirchen
   | Borussia Neunkirchen
 
 SV Elversberg
-  | SV 07 Elversberg
+  | Elversberg 07 | SV 07 Elversberg
 
 
 

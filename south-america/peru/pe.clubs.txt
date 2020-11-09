@@ -6,10 +6,11 @@ Alianza Lima,     Lima
 Sporting Cristal,  Lima
   | Club Sporting Cristal
 Deportivo Municipal,  Lima
+  | Dep. Municipal
 Club Deportivo Universidad de San Martín de Porres, Lima
-  | Universidad San Martín
+  | Univ. San Martín | Universidad San Martín
 Club Universitario de Deportes, Lima
-  | Universitario
+  | Universitario | Universitario Dep.
 
 
 Juan Aurich,      Chiclayo
@@ -26,8 +27,9 @@ Real Garcilaso,   Cusco
   | Asociación Civil Real Atlético Garcilaso
 
 Universidad César Vallejo, Trujillo
-  | Club Deportivo Universidad César Vallejo
+  | César Vallejo | Club Deportivo Universidad César Vallejo
 Carlos A. Mannucci,    Trujillo
+  | Carlos Mannucci
 
 Ayacucho FC,          Ayacucho
   | Ayacucho
@@ -38,6 +40,7 @@ Escuela Municipal Binacional,  Juliaca
 Academia Cantolao,       Callao
   | Cantolao
 Sport Boys,             Callao
+  | Sport Boys Assoc.
 
 FBC Melgar, Arequipa
   | Melgar
@@ -45,7 +48,8 @@ FBC Melgar, Arequipa
 Unión Comercio, Nueva Cajamarca
 
 Universidad Técnica de Cajamarca, Cajamarca
-  | UTC
+  | UTC | UTC de Cajamarca
+
 
 Club Atlético Grau, 1919,  Piura
   | Atlético Grau

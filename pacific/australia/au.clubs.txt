@@ -5,7 +5,7 @@
 
 
 == New South Wales ==
-Sydney FC,                 Sydney 
+Sydney FC,                 Sydney
 Western Sydney Wanderers,  Sydney
   | W Sydney | Western Sydney | WS Wanderers FC
 Central Coast Mariners,   Gosford    ##  › Central Coast
@@ -20,7 +20,7 @@ Melbourne City FC,          Melbourne
 Melbourne Victory,        Melbourne
   | Melb Victory
 
-Western United,      Geelong      # use Melbourne (Truganina) ?? - note: the club aims to represent western Victoria 
+Western United,      Geelong      # use Melbourne (Truganina) ?? - note: the club aims to represent western Victoria
   | Western United FC
 
 == Queensland ==
@@ -30,6 +30,7 @@ Brisbane Roar,            Brisbane Roar
 == South Australia ==
 Adelaide United,          Adelaide
   | Adelaide | Adelaide United FC
+  | Adelaide United F
 
 == Western Australia ==
 Perth Glory,           Perth

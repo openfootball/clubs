@@ -1,5 +1,5 @@
 ==========================
-=  Colombia 
+=  Colombia
 
 
 Millonarios Bogotá,       Bogotá
@@ -8,19 +8,21 @@ Millonarios Bogotá,       Bogotá
 Independiente Santa Fe,   Bogotá
   | Santa Fe | Indep. Santa Fe | Corporación Deportiva Santa Fe
 La Equidad,               Bogotá
-
+  | Dep. La Equidad
 
 Atlético Nacional,        Medellín
-  | At. Nacional | Club Atlético Nacional S.A.
+  | At. Nacional | Atlético Nac.
+  | Club Atlético Nacional S.A.
 Independiente Medellín,   Medellín
-  | Indep. Medellín
+  | Ind. Medellín | Indep. Medellín
 
 Junior de Barranquilla,   Barranquilla
   | Junior | Corporación Popular Deportiva Junior
-  | Atlético Junior
+  | Atl. Junior | Atlético Junior
 
 Once Caldas,              Manizales
-  | Corporación Deportiva Once Caldas
+  | CD Once Caldas | Corporación Deportiva Once Caldas
+
 
 Deportes Tolima,          Ibagué
 
@@ -28,6 +30,7 @@ Alianza Petrolera FC,  Barrancabermeja
   | Alianza Petrolera
 
 América de Cali,   Cali
+  | Am. de Cali
 Deportivo Cali,    Cali
   | AD Cali | Asociación Deportivo Cali
 
@@ -41,12 +44,12 @@ Deportivo Pasto, Pasto
 Envigado FC,      Envigado
   | Envigado
 Jaguares de Córdoba,  Montería
-  | Jaguares
+  | Jaguares | Jaguares Córdoba
 Patriotas Boyacá,  Tunja
   | Patriotas
 Boyacá Chicó,      Tunja
-  | Boyacá Chicó FC | Boyacá Chicó Fútbol Club 
+  | Boyacá Chicó FC | Boyacá Chicó Fútbol Club
 Rionegro Águilas, Rionegro
 Unión Magdalena,  Santa Marta
 Deportivo Pereira,  Pereira
-  
+

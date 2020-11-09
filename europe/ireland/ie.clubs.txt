@@ -17,7 +17,7 @@ University College Dublin AFC,  Dublin (Belfield)
   | University College Dublin
 
 Shelbourne FC,                   Dublin (Drumcondra)
-  | Shelbourne
+  | Shelbourne | Shelbourne Dublin
 
 Drumcondra FC,          Dublin (Drumcondra)
   | Drumcondra Dublin     # champs (3): 1965/66 1961/62 1958/59
@@ -29,6 +29,7 @@ Dublin City FC (1999-2006),    Dublin (Northside)
 Athlone Town AFC,    Athlone
   | Athlone | Athlone Town
   | Athlone Town FC
+  | FC Athlone Town
 Bray Wanderers FC,   Bray
   | Bray | Bray Wanderers
 Cobh Ramblers FC,  Cobh
@@ -57,10 +58,11 @@ Finn Harps FC,     Ballybofey
   | Finn Harps | FC Finn Harps
 Galway United FC, Galway
   | Galway | Galway United
+  | FC Galway United
 Limerick FC, Limerick
   | Limerick
 Longford Town FC,  Longford
-  | Longford | Longford Town
+  | Longford | Longford Town | FC Longford Town
 Mervue
 Monaghan
   | Monaghan United

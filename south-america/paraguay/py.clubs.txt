@@ -6,11 +6,11 @@ Libertad Ascunción,    Asunción
 Club Olimpia,       Asunción
   | Olimpia | Ol. Asunción
 Club Nacional,      Asunción
-  | Nacional | Nacional de Asunción
+  | Nacional | Nacional Asunción | Nacional de Asunción
 Cerro Porteño,      Asunción
   | Club Cerro Porteño
 Club Guaraní,        Asunción
-  | Guaraní
+  | Guaraní | Guar. Asunción | Guaraní Asunción
 Club River Plate,     Asunción
   | River Plate | River Pl. Asuncion
   | Club River Plate (Asunción)
@@ -25,6 +25,9 @@ Club General Díaz,  Luque
 Sportivo Luqueño,   Luque
 
 Club Sportivo San Lorenzo,  San Lorenzo
-  | San Lorenzo
+  | San Lorenzo | Sp. San Lorenzo
 Club Sol de América,  Villa Elisa
   | Sol de América
+
+Guaireña FC,   Villarrica
+  | Guaireña Fútbol Club

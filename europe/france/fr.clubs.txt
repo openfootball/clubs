@@ -49,8 +49,11 @@ Lille OSC,  1944,   Lille      ## Nord > Nord-Pas-de-Calais
   | Lille  | LOSC | LOSC Lille | OSC Lille
 Olympique Lyonnais, 1899, Lyon      ## Lyon > Rhône-Alpes
   | Lyon | Ol. Lyon | Olymp. Lyon | Olympique Lyon
+
 Olympique de Marseille, 1899, Marseille   ## Bouches-du-Rhône > Provence-Alpes-Côte d'Azur
-  | Marseille | Olymp. Marseille | Olympique Marseille
+  | Marseille
+  | Ol. Marseille | Olymp. Marseille | Olympique Marseille
+
 FC Metz, 1932, Metz      ## Moselle > Lorraine
   | Metz | Football Club de Metz
 
@@ -223,10 +226,12 @@ Angoulême-Soyaux Charente, 1920, Angoulême
 
 Pau FC,    Pau    # Pyrénées-Atlantiques
   | Pau Football Club
+  | FC Pau
 # Bleuets Notre-Dame de Pau (1920-1959)
 # FC Pau (1959-1995)
 
 USL Dunkerque,   Dunkerque
+  | Dunkerque
   | USLD
   | Union sportive du littoral de Dunkerque
 # Union sportive de Malo-les-Bains (1900-1919)

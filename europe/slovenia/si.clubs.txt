@@ -29,6 +29,7 @@ NK Celje
 NK Aluminij
   | Aluminij
 ASK Bravo Publikum
+  | ASK Bravo
 NK Tabor Sezana
   | Tabor
 NK Triglav

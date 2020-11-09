@@ -11,6 +11,7 @@ Partick Thistle, 1876, Glasgow
   | Partick | Partick Thistle FC | Jags
 Queen's Park,    Glasgow
   | Queens Park
+  | FC Queens Park
 
 Heart of Midlothian FC,  Edinburgh   ## Gorgie - West of Edinburgh
   | Hearts | Heart of Midl. | Heart of Midlothian
@@ -86,7 +87,7 @@ Airdrieonians,    Airdrie
   | Airdrie Utd | Airdrie
 
 Albion Rovers,    Coatbridge
-  | Albion Rvs
+  | Albion Rvs | FC Albion Rovers
 Alloa Athletic,   Alloa
   | Alloa | FC Alloa Athletic
 Arbroath,         Arbroath
@@ -112,6 +113,7 @@ Annan Athletic,   Annan
 Clyde,            Cumbernauld
   | FC Clyde
 Cowdenbeath,      Cowdenbeath
+  | FC Cowdenbeath
 Elgin City,       Elgin
   | Elgin
 Montrose,         Montrose

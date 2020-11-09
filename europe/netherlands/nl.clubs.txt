@@ -9,6 +9,7 @@ Ajax Amsterdam, 1900,    Amsterdam › Noord-Holland
   | Ajax | AFC Ajax | Amsterdamsche Football Club Ajax
   | Ajax Amsterd.
 ii) Jong Ajax
+  | Jong Ajax Amst.
 
 DWS Amsterdam, Amsterdam    # champs (1): 1964/65
   | AFC DWS | Amsterdamsche Football Club Door Wilskracht Sterk
@@ -74,6 +75,10 @@ DOS Utrecht, (1901-1970),   Utrecht
   | Voetbalvereniging Door Oefening Sterk
 # In 1970 it merged with USV Elinkwijk and Velox to form FC Utrecht.
 
+VV IJsselmeervogels      #  from Bunschoten - Spakenburg
+  | IJsselmeervogels
+  | Voetbalvereniging IJsselmeervogels
+  | VV IJsselmeervogel
 
 
 == Friesland ==

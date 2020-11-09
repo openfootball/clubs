@@ -1,5 +1,5 @@
 =========================
-=  Ecuador 
+=  Ecuador
 
 Deportivo Quito,              Quito
   | Sociedad Deportivo Quito
@@ -17,7 +17,9 @@ SD Aucas,           Quito
 CS Emelec,                    Guayaquil
   | Emelec | Club Sport Emelec
 Barcelona Guayaquil,          Guayaquil
-  | Barcelona | Barcelona SC Guayaquil | Barcelona SC | Barcelona Sporting Club
+  | Barcelona | Barcelona SC Guayaquil
+  | Barcelona SC | Barcelona Sporting Club
+  | Barcelona G.
 Guayaquil City FC,            Guayaquil
   | Guayaquil City
 

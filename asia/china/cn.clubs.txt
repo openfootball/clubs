@@ -52,6 +52,7 @@ Shenzhen FC,               Shenzhen
 
 Shijiazhuang Ever Bright,   Shijiazhuang
   | Shijiazhuang
+  | Shijiazhuang Ever
 
 Tianjin Tianhai,            Tianjin
   | Tianjin Songjiang

@@ -1,5 +1,5 @@
 =========================
-=  Chile 
+=  Chile
 
 Universidad de Chile,   Santiago (Ñuñoa)
   | U. de Chile | Club Universidad de Chile
@@ -30,9 +30,12 @@ O'Higgins FC,           Rancagua
   | O'Higgins
 Unión La Calera,     La Calera
 CD Universidad de Concepción,      Concepción
-  | Universidad de Concepción
+  | Univ. d. Concepción | Universidad de Concepción
 Deportes Vallenar,   Vallenar
   | Club de Deportes Vallenar
-Deportes La Serena,  La Serena 
+Deportes La Serena,  La Serena
   | CD La Serena | Club de Deportes La Serena
-  
+
+Santiago Wanderers,   Valparaíso
+  | Sant. Wanderers
+  | Club de Deportes Santiago Wanderers

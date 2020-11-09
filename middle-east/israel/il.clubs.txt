@@ -28,9 +28,10 @@ Maccabi Netanya FC
   | M. Netanya | Maccabi Netanya
 
 Beitar Jerusalem FC
-  | Beitar Jerusalem
+  | Beitar Jerus. | Beitar Jerusalem
 Hapoel Katamon Jerusalem FC,  Jerusalem
   | Hap. Kat. Jerusalem | Hapoel Katamon Jerusalem
+  | Hapoel K. Jerusale
 
 Hapoel Beer-Sheva FC,  1949,   Be'er Sheva
   | H. Beer-Sheva | Hap. Beer-Sheva
@@ -98,7 +99,7 @@ Hapoel Ramat HaSharon FC,   Ramat HaSharon
 Hapoel Rishon LeZion FC, Rishon LeZion
   | Hap. Rishon LeZion | Hapoel Rishon LeZion | Hapoel Rishon Lezi
 Hapoel Umm al-Fahm FC,   Umm al-Fahm   # in hebrew: Um el-Faḥem
-  | Hapoel Umm al-Fahm
+  | Umm al-Fahm | Hapoel Umm al-Fahm
   | Hapoel Um el-Fahem
 Maccabi Ahi Nazareth FC,   Nazareth
   | M. Ahi Nazareth | Maccabi Ahi Nazareth

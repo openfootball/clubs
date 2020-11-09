@@ -6,7 +6,7 @@ Ferencvárosi TC, Budapest
   | Ferencváros | Ferencvaros
 
 Budapest Honvéd FC, Budapest
-  | Honvéd | Honvéd Budapest
+  | Honvéd | Honvéd Budap. | Honvéd Budapest
   | Budapest Honvéd
   | Budapest Honvéd SE   # champs (7): 1990..1988 (2) 1987...1984 (3) 1980/81 1956/57
   | Kispesti Honvéd      # champs (2): 1993/94 1991/92
@@ -18,7 +18,8 @@ Vasas FC, Budapest
   | Budapesti Vasas   # champs (6): 1977/78 1968..1966 (2) 1963..1961 (2) 1957/58
 
 MTK Budapest, Budapest
-  | MTK | Magyar Testgyakorlók Köre Budapest Futball Club
+  | MTK | MTK Budapest FC
+  | Magyar Testgyakorlók Köre Budapest Futball Club
   | Budapesti Vörös Lobogó    #  champs (1): 1955/56
 # In 1955, as Vörös Lobogó SE, they became the first Hungarian team to play in the European Cup
 
@@ -88,13 +89,15 @@ Diósgyőri VTK,  1910, Miskolc (Diósgyőr)
   | Diósgyőr-Vasgyári Testgyakorlók Köre
   | Diósgyöri Miskolc
   | Diósgyör
+  | Diósgyör VTK
 
 Mezőkövesd Zsóry SE
   | Mezőkövesd | Mezőkövesd-Zsóry
-
+  | Mezőkövesd Zsóry S
 
 Puskás Akadémia FC
   | Puskás | Puskás FC
+  | Puskás Akadémi
 
 Kaposvári Rákóczi FC
   | Rákóczi | Kaposvári Rákóczi

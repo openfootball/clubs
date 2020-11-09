@@ -51,6 +51,7 @@ Stade Dudelange (1913-1991),  Dudelange    # champs (2): 1965/66 1957/58
 
 FC Differdange 03,  2003,  Differdange
   | Differdange | Differdange 03
+  | Differdange FC
 ## Differdange 03 was formed in 2003 as an amalgam of two clubs
 #  from the city of Differdange: FA Red Boys Differdange and AS Differdange.
 
