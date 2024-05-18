@@ -12,6 +12,8 @@ NK Maribor, Maribor
 ND Mura 05
   | Mura
   | NS Mura   ## check if same as ND Mura 05??
+  | NŠ Mura
+
 FC Koper
   | Koper
   | NK Koper
@@ -19,6 +21,7 @@ FC Koper
 ND Gorica
   | Gorica
   | Nova Gorica
+
 
 NK Domžale
   | Domžale

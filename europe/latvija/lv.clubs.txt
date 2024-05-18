@@ -8,6 +8,8 @@ FK RFS,  Riga
 Riga FC,         Riga
   | Riga | FC Riga
   | FK Rīga
+  | Rīga FC
+
 
 FS METTA,        Riga
   | METTA | FS METTA/LU | FS METTA/Latvijas Universitāte

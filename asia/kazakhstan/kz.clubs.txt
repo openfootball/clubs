@@ -25,7 +25,9 @@ FC Shakhter Karagandy
 FC Tobol Kostanay
   | Tobol 
   | Tobol Kustanai
+  | Tobol Kostanay
   | Tobyl Kostanay
+
   
 FC Irtysh Pavlodar
   | Irtysh
@@ -44,6 +46,8 @@ FC Okzhetpes Kokshetau
 FC Kairat Almaty,  1954,  Almaty
   | Kairat | Kairat Almaty
   | FK Kairat
+  | Qaırat Almaty FK | Qaırat Almaty
+  
 
 FC Alma-Ata (2000-2008),  Almaty
 

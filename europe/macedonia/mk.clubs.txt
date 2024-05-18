@@ -25,6 +25,13 @@ FK Rabotnički,  Skopje
   | Rabotnički Skopje
 
 
+KF Shkupi, 1927,     Skopje (Čair)
+  | Shkupi
+  | FC Shkupi 1927
+  | FK Shkupi
+  | FK Shkupi Skopje | Shkupi Skopje
+
+
 
 FK Renova
   | Renova | KF Renova
@@ -40,10 +47,6 @@ FK Milano
 FK Pelister
   | Pelister Bitola
 
-KF Shkupi, 1927,  Čair
-  | Shkupi
-  | FC Shkupi 1927
-  | FK Shkupi
 
 FK Sileks, 1965,   Kratovo
   | Sileks

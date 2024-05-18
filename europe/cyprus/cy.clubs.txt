@@ -12,10 +12,14 @@ Olympiakos Nicosia FC,  Nicosia
   | Olympiakos Nicosia
   | Olympiakos Nikosia
 
-AEL Limassol,            Limassol
+AEL Limassol,            Limassol     # romanized: Lemesós
   | AEL | AEL Limassol FC | Athlitiki Enosi Lemesou
 Apollon Limassol FC,     Limassol
   | Apollon | Apollon L. | Apollon Limassol
+  | Apollon FC Lemesós
+
+
+
 Karmiotissa Pano Polemidia,  Limassol (Pano Polemidia)
   | Karmiotissa Pol. | Karmiotissa Polemidion
   | Karmiotissa FC
@@ -28,6 +32,8 @@ Anorthosis Famagusta FC, Larnaca         ## note: originally based in Famagusta,
 
 AEK Larnaca FC,  Larnaca
   | AEK Larnaca
+  | AÉK Lárnaka 
+
 
 Pezoporikos Larnaca (1927-1994), Larnaca   # champs (1): 1988/89
   | Pezoporikos Larnaca FC

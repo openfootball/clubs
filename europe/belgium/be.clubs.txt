@@ -24,6 +24,7 @@ RWD Molenbeek,  Brussels (Molenbeek)
 Saint-Gilloise,  Brussels (Saint-Gilles)
   | R. Union Saint-Gilloise
   | Union St. Gilloise
+  | Royale Union Saint-Gilloise | Union SG
 
 
 == Antwerpen › Vlaanderen ==

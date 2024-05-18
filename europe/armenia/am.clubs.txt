@@ -25,6 +25,7 @@ Zvartnots-AAL FC (1997-2003),  Yerevan
 FC Pyunik
   | Pyunik | Pyunik FC
   | Pyunik Yerevan
+  | FC Pyunik Yerevan 
 
 Ulisses FC
   | Ulisses     # champs (1): 2012/13
