@@ -64,7 +64,6 @@ Petrolero del Chaco, 2000,  Yacuiba     # en la región del Chaco
   | Club Deportivo Petrolero Olimpia del Chaco
   | Club Deportivo Olimpia Petrolero
   | Petrolero de Yacuiba
-  | Petrolero del Chaco
 
 
 
