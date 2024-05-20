@@ -13,12 +13,19 @@ La Equidad,               Bogotá
 Atlético Nacional,        Medellín
   | At. Nacional | Atlético Nac.
   | Club Atlético Nacional S.A.
+  | CDC Atlético Nacional
+  | CDC Atlético
+
 Independiente Medellín,   Medellín
+  | CD Independiente Medellín
   | Ind. Medellín | Indep. Medellín
+  | Independiente
+
 
 Junior de Barranquilla,   Barranquilla
   | Junior | Corporación Popular Deportiva Junior
   | Atl. Junior | Atlético Junior
+  | CDP Junior FC
 
 Once Caldas,              Manizales
   | CD Once Caldas | Corporación Deportiva Once Caldas

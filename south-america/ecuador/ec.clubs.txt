@@ -3,8 +3,13 @@
 
 Deportivo Quito,              Quito
   | Sociedad Deportivo Quito
-El Nacional,                  Quito
-  | CD El Nacional | Club Deportivo El Nacional
+El Nacional,     1964,          Quito
+  | CD El Nacional 
+  | Club Deportivo El Nacional
+  | CSCyD El Nacional
+# note: CSCyD == Club Social Cultural y Deportivo 
+
+
 LDU Quito,                    Quito
   | LDU de Quito | Liga de Quito | Liga Deportiva Universitaria de Quito
 CD Universidad Católica del Ecuador,  Quito
@@ -39,7 +44,17 @@ CD Cuenca,         Cuenca
   | Deportivo Cuenca
 Fuerza Amarilla SC,   Machala
   | Fuerza Amarilla
-CSD Independiente del Valle,   Sangolquí
-  | Ind. d. Valle | Indep. d. Valle | Indep. del Valle | Independiente del Valle
+
+Independiente del Valle,  1958,  Sangolquí
+  | Ind. d. Valle | Indep. d. Valle 
+  | Indep. del Valle 
+  | Independiente
+  | CSD Independiente del Valle
+  | CAR Independiente del Valle
+## note CAR = Club de Alto Rendimiento Especializado
+##      CSD = Club Social y Deportivo
+#  In 1977, two years after the death of José Terán, the club's name was changed to 
+#       Club Social y Deportivo Independiente José Terán 
+
 CD Olmedo,        Riobamba
   | Olmedo

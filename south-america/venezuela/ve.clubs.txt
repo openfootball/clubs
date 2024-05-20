@@ -18,6 +18,9 @@ Atlético Venezuela,     Caracas     ##  location use Maiquetía ???
 
 Deportivo Táchira,     San Cristóbal
   | Dvo. Táchira | Deportivo Táchira Fútbol Club
+  | Deportivo Táchira FC
+  | Táchira
+
 
 Zamora FC,             Barinas
   | Zamora | Zamora Fútbol Club

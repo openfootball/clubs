@@ -29,7 +29,9 @@ ii) 1. FC Nürnberg II
   | Nürnberg II
 
 SpVgg Greuther Fürth, 1903, Fürth
-  | Gr. Fürth | Greu. Fürth | Greuther Fürth | SpVgg Gr. Fürth
+  | Gr. Fürth | Greu. Fürth | Greuther Fürth 
+  | SpVgg Gr. Fürth
+  | SpVgg Greuther Fürth 1903
  Laubenweg 60 // 90765 Fürth
 ii) SpVgg Greuther Fürth II
   | Gr. Fürth II | Greuther Fürth II

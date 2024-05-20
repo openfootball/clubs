@@ -5,6 +5,7 @@ Alianza Lima,     Lima
   | Club Alianza Lima
 Sporting Cristal,  Lima
   | Club Sporting Cristal
+  | CS Cristal | Cristal
 Deportivo Municipal,  Lima
   | Dep. Municipal
 Club Deportivo Universidad de San Martín de Porres, Lima
@@ -19,6 +20,7 @@ Molinos El Pirata, Chiclayo
 
 
 Sport Huancayo,   Huancayo
+  | CSD Sport Huancayo
 
 Alianza Universidad,  Huánuco
   | Ali. Univ. Huánuco

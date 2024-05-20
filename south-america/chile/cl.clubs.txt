@@ -9,8 +9,15 @@ Unión Española,         Santiago (Independencia)          # Independencia loca
   | Club Unión Española S.A.D.P
 Audax Italiano,   Santiago (La Florida)
 Colo-Colo,         Santiago (Macul)
-Club Deportivo Palestino,  Santiago (La Cisterna)
+   | CSD Colo-Colo
+CD Palestino,  Santiago (La Cisterna)
+  | Club Deportivo Palestino
   | Palestino
+  
+CD Magallanes,  1897,      Santiago (San Bernardo)
+  | Club Deportivo Magallanes
+  | Magallanes
+
 
 
 CD Huachipato,          Talcahuano
@@ -21,7 +28,13 @@ Deportes Iquique,       Iquique
 CD Cobresal,      El Salvador
   | Cobresal
 Coquimbo Unido,    Coquimbo
+
 Curicó Unido,      Curicó
+  | CDP Curicó Unido
+  | Curicó
+# note: CDP = Club de Deportes Provincial
+
+
 CD Antofagasta,          Antofagasta
   | Deportes Antofagasta
 Everton de Viña del Mar,  Viña del Mar
@@ -39,3 +52,8 @@ Deportes La Serena,  La Serena
 Santiago Wanderers,   Valparaíso
   | Sant. Wanderers
   | Club de Deportes Santiago Wanderers
+
+CD Ñublense,    1916,    Chillán   # capital city of the Ñuble Region in the Diguillín Province
+   | Club Deportivo Ñublense
+   | Ñublense
+

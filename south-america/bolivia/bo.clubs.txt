@@ -20,8 +20,11 @@ Royal Pari FC,            Santa Cruz de la Sierra
 
 Real Potosí,                       Potosí
   | Club Real Potosí | Club Bamin Real Potosí
-Nacional Potosí,                   Potosí
+Nacional Potosí, 1942,                Potosí
   | CA Nacional Potosí
+  | Club Atlético Nacional Potosí
+  | Club Nacional Potosí
+  | Nac. Potosí
 
 Club Deportivo San José,           Oruro
   | San José | Club San José

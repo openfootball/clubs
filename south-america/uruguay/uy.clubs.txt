@@ -8,6 +8,7 @@ Nacional de Montevideo, 1899,  Montevideo
   | Nacional | Nacional de Footb. | Club Nacional | Club Nacional de Football | C. N. de F.
 Defensor Sporting,             Montevideo
   | Defensor | Defensor Sp. | Defensor Sporting Club
+  | Defensor SC
 CA Peñarol,                    Montevideo
   | Peñarol | Club Atlético Peñarol
 CA Cerro, 1922,                Montevideo
@@ -45,3 +46,8 @@ Sud América, 1914,                San José
   | Institución Atlética Sud América | I.A.S.A
 Club Plaza Colonia de Deportes,   Colonia
   | Plaza Colonia | Plaza Colonia CD
+
+CD Maldonado,               Maldonado 
+  | Deportivo Maldonado
+  | Club Deportivo Maldonado
+

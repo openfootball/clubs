@@ -7,9 +7,14 @@
 All Boys,           Buenos Aires
   | Club Atlético All Boys
 Argentinos Juniors,  Buenos Aires
-  | Argentinos | Argentinos Jrs | Argentinos Jun | Asociación Atlética Argentinos Juniors
+  | Argentinos | Argentinos Jrs | Argentinos Jun 
+  | Asociación Atlética Argentinos Juniors
+  | AA Argentinos Juniors
+
 Boca Juniors,       Buenos Aires
-  | Boca | Boca Jrs | Club Atlético Boca Juniors
+  | Boca | Boca Jrs 
+  | CA Boca Juniors
+  | Club Atlético Boca Juniors
 River Plate,        Buenos Aires
   | River | CA River Plate | Club Atlético River Plate
 San Lorenzo,        Buenos Aires
@@ -165,7 +170,8 @@ Godoy Cruz,  1921,  Mendoza       # Godoy Cruy is a city in Greater Mendoza
   | CD Godoy Cruz
   | Godoy Cruz Antonio Tomba
   | Club Deportivo Godoy Cruz Antonio Tomba
-
+  | CD Godoy Cruz Antonio Tomba
+  
 Gimnasia y Esgrima de Mendoza,   Mendoza
   | Gimnasia (Mendoza)
   | Gimnasia y Esgrima | Club Gimnasia y Esgrima
@@ -200,10 +206,12 @@ San Martín de Tucumán,  San Miguel de Tucumán  › Tucumán
 
 == Provincia Entre Ríos ==
 
-Patronato, Paraná › Entre Ríos
+Patronato,           Paraná › Entre Ríos
+  | CA Patronato
   | Club Atlético Patronato
   | Club Atlético Patronato de la Juventud Católica
   | Patronato Paraná
+
 
 == Provincia Misiones ==
 

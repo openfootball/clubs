@@ -5,6 +5,8 @@ Libertad Ascunción,    Asunción
   | Libertad | Club Libertad | Club Libertad Asunción
 Club Olimpia,       Asunción
   | Olimpia | Ol. Asunción
+  | Olimpia Asunción
+
 Club Nacional,      Asunción
   | Nacional | Nacional Asunción | Nacional de Asunción
 Cerro Porteño,      Asunción
@@ -14,6 +16,10 @@ Club Guaraní,        Asunción
 Club River Plate,     Asunción
   | River Plate | River Pl. Asuncion
   | Club River Plate (Asunción)
+
+ Sportivo Trinidense,   1935, Asunción (Santísima Trinidad)
+    | Club Sportivo Trinidense
+    | Trinidense 
 
 
 Deportivo Capiatá,  Capiatá
