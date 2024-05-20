@@ -8,10 +8,17 @@ The Strongest,                     La Paz
 Club Always Ready,                 La Paz
   | Alw. Ready | Always Ready | Alw. Ready La Paz
 
+La Paz FC (1989-2013),             La Paz
+  | La Paz Fútbol Club
+
+
 Club Deportivo Oriente Petrolero,  Santa Cruz de la Sierra
   | Oriente Petrol | Oriente Petrolero
+  | CDyC Oriente Petrolero
+
 Club Blooming,             Santa Cruz de la Sierra
   | Blooming
+  | CSCyD Blooming 
 Club Destroyers,           Santa Cruz de la Sierra
   | Destroyers
 Royal Pari FC,            Santa Cruz de la Sierra
@@ -29,14 +36,44 @@ Nacional Potosí, 1942,                Potosí
 Club Deportivo San José,           Oruro
   | San José | Club San José
   | San José Oruro
+  | CD San José
 
 Club Deportivo Guabirá,    Montero
   | Guabirá | Guabirá Montero
+  | CDSC Guabirá
+
 
 CD Jorge Wilstermann,     Cochabamba
   | Jorge Wilstermann | J. Wilstermann
+  | CCyD Jorge Wilsterman
+
 Club Aurora,               Cochabamba
   | Aurora | Club Dep. Aurora
+  | CD Aurora
+
+Universitario de Sucre,   Sucre
+  | CD Universitario SFX
+  | Club Deportivo Universitario San Francisco Xavier
 
 Sport Boys Warnes,       Warnes
   | Sport Boys
+
+
+Petrolero del Chaco, 2000,  Yacuiba     # en la región del Chaco
+  | CD Petrolero del Chaco
+  | Club Deportivo Petrolero Olimpia del Chaco
+  | Club Deportivo Olimpia Petrolero
+  | Petrolero de Yacuiba
+  | Petrolero del Chaco
+
+
+
+Palmaflor del Trópico,  2008,  Villa Tunari   # or Tunari in the department of Cochabamba 
+  | Club Deportivo Palmaflor del Trópico
+  | Municipal Vinto          # (-2019)
+  | Club Atlético Palmaflor  # (-2022)  
+  | CA Palmaflor 
+# The club was named Municipal Vinto until 2019, and 
+#  Club Atlético Palmaflor until the end of 2022
+#   the club was moved from Vinto to Quillacollo
+#   by its new owners in 2018

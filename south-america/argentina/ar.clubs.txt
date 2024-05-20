@@ -16,7 +16,10 @@ Boca Juniors,       Buenos Aires
   | CA Boca Juniors
   | Club Atlético Boca Juniors
 River Plate,        Buenos Aires
-  | River | CA River Plate | Club Atlético River Plate
+  | River | CA River Plate 
+  | Club Atlético River Plate
+  | CA River Plate (Buenos Aires)
+
 San Lorenzo,        Buenos Aires
   | San Lorenzo de Almagro
   | CA San Lorenzo | CA San Lorenzo de Almagro | Club Atlético San Lorenzo de Almagro
@@ -74,6 +77,7 @@ Estudiantes LP, La Plata › Buenos Aires
 Gimnasia y Esgrima LP,  La Plata › Buenos Aires
   | GELP | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata
   | Club de Gimnasia y Esgrima La Plata
+  | Club de Gimnasia y Esgrima LP
   | Gimnasia La Plata
   | Gimnasia y Esgrima
   | GyE La Plata
@@ -86,8 +90,11 @@ Alvarado, Mar del Plata
 
 Club Atlético Banfield,   Banfield › Buenos Aires
   | Banfield | CA Banfield
+
 Defensa y Justicia,   Gobernador Julio A. Costa › Buenos Aires
   | Defensa y Just | Club Social y Deportivo Defensa y Justicia
+  | CSD Defensa y Justicia
+
 Olimpo Bahía Blanca,  Bahía Blanca  › Buenos Aires
   | Olimpo | Club Olimpo | Olimpo de Bahía Blanca
 Sarmiento Junín,   1911,  Junín › Buenos Aires
@@ -155,6 +162,8 @@ Talleres de Córdoba,      Córdoba
 
 Club Atlético Belgrano, Córdoba     # note: NOT to be confused with Belgrano Athletic Club
   | Belgrano | Belgrano (Córdoba) | Belgrano de Córdoba
+  | CA Belgrano
+
 
 Instituto, Córdoba
   | Instituto de Córdoba | Instituto (Córdoba)
@@ -171,6 +180,7 @@ Godoy Cruz,  1921,  Mendoza       # Godoy Cruy is a city in Greater Mendoza
   | Godoy Cruz Antonio Tomba
   | Club Deportivo Godoy Cruz Antonio Tomba
   | CD Godoy Cruz Antonio Tomba
+  | CD Godoy Cruz AT
   
 Gimnasia y Esgrima de Mendoza,   Mendoza
   | Gimnasia (Mendoza)
@@ -199,6 +209,7 @@ Gimnasia y Esgrima de Jujuy,   San Salvador de Jujuy
 
 Atlético Tucumán,       San Miguel de Tucumán  › Tucumán
   | Tucumán | Atl. Tucumán
+  | Club Atlético Tucumán
 San Martín de Tucumán,  San Miguel de Tucumán  › Tucumán
   | San Martín | San Martín T. | San Martín (Tucumán)
   | Club Atlético San Martín | Club Atlético San Martín (Tucumán)
@@ -210,8 +221,8 @@ Patronato,           Paraná › Entre Ríos
   | CA Patronato
   | Club Atlético Patronato
   | Club Atlético Patronato de la Juventud Católica
+  | CA Patronato Juventud Católica
   | Patronato Paraná
-
 
 == Provincia Misiones ==
 

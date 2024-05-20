@@ -31,6 +31,7 @@ RB Bragantino, 2019,        Bragança Paulista
   | Red Bull Bragantino
   | RB Bragantino SP
   | RB Braga
+  | RB Bragantino Futebol
 # merger of Clube Atlético Bragantino with Red Bull Brasil
 
 RB Brasil, 2007,  Campinas     #  now kind of the b team of RB Bragantino
@@ -40,8 +41,11 @@ RB Brasil, 2007,  Campinas     #  now kind of the b team of RB Bragantino
 Oeste SP,      Itápolis
   | Oeste | Oeste FC | Oeste Futebol Clube
   | Oeste FC SP
+
 Portuguesa,    São Paulo
   | Associação Portuguesa de Desportos
+  | Associação Portuguesa Desportos
+
 Botafogo SP,    Ribeirão Preto
   | Botafogo FC | Botafogo Futebol Clube
   | Botafogo FC SP | Botafogo Futebol Clube (SP)
@@ -106,6 +110,7 @@ América MG,     Belo Horizonte
   | América Mineiro | América Mineiro MG
   | América FC | América Futebol Clube
   | América Futebol Clube (MG)
+  | América FC (Belo Horizonte)
 Tupi MG,   Juiz de Fora
   | Tupi | Tupi FC | Tupi Football Club
 
@@ -133,6 +138,8 @@ Brasil RS,  Pelotas
   | GE Brasil | Grêmio Esportivo Brasil | Grêmio Esportivo Brasil de Pelotas
 Esporte Clube Juventude, 1913, Caxias do Sul
   | Juventude | Juventude RS
+  | EC Juventude
+
 
 == Rio Grande do Norte ==
 América de Natal,  1915,    Natal
@@ -230,6 +237,8 @@ Luverdense EC, Lucas do Rio Verde
   | Luverdense | Luverdense Esporte Clube
 Cuiabá, Cuiabá
   | Cuiabá MT | Cuiabá Esporte Clube
+  | Cuiabá EC
+
 
 == Maranhão ==
 Sampaio Corrêa FC, São Luís › Maranhão
@@ -250,4 +259,7 @@ Sociedade Esportiva do Gama, 1975,   Gama
 
 Brasiliense FC,  2000,     Taguatinga
   | Brasiliense | Brasiliense Futebol Clube
+
+Brasília FC,  1975, Brasília
+  | Brasília | Brasília Futebol Clube
 
