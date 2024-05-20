@@ -95,9 +95,20 @@ Tampico Madero,   Tampico › Tamaulipas   ##  add Ciudad Madero too ??
 
 
 == San Luis Potosí ==
-Atlético San Luis, 1998,   San Luis Potosí
+Atlético San Luis, 2013,   San Luis Potosí
   | San Luis | Atlético | Atl. San Luis
   | Club San Luis
+  | Atlético de San Luis
+  | Atleti de San Luis
+
+
+San Luis FC (1957-2013),  San Luis Potosí
+ | San Luis Fútbol Club    
+## On May 28, 2013 it was confirmed the team would move
+##   to Tuxtla Gutiérrez, Mexico and be renamed Chiapas Fútbol Club
+
+
+
 
 == Guanajuato ==
 Club León, 1944,           León

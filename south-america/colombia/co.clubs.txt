@@ -2,13 +2,24 @@
 =  Colombia
 
 
+
 Millonarios Bogotá,       Bogotá
   | Millonarios | Millonarios FC | Millonarios Fútbol Club
   | Los Millonarios
+  | Azul y Blanco Millonarios Fútbol Club
+  | Azul & Blanco - Millonarios F.C.
+
 Independiente Santa Fe,   Bogotá
-  | Santa Fe | Indep. Santa Fe | Corporación Deportiva Santa Fe
+  | Santa Fe | Indep. Santa Fe 
+  | CI Santa Fe  
+  | Club Independiente Santa Fe
+  | Corporación Deportiva Santa Fe
+ 
 La Equidad,               Bogotá
   | Dep. La Equidad
+  | CD La Equidad Seguros  
+  | Club Deportivo La Equidad Seguros
+
 
 Atlético Nacional,        Medellín
   | At. Nacional | Atlético Nac.
@@ -18,8 +29,10 @@ Atlético Nacional,        Medellín
 
 Independiente Medellín,   Medellín
   | CD Independiente Medellín
+  | Deportivo Independiente Medellín
   | Ind. Medellín | Indep. Medellín
   | Independiente
+
 
 
 Junior de Barranquilla,   Barranquilla
@@ -29,9 +42,12 @@ Junior de Barranquilla,   Barranquilla
 
 Once Caldas,              Manizales
   | CD Once Caldas | Corporación Deportiva Once Caldas
-
+  | Once Caldas DAF
 
 Deportes Tolima,          Ibagué
+  | Club Deportes Tolima
+  | Tolima
+
 
 Alianza Petrolera FC,  Barrancabermeja
   | Alianza Petrolera
@@ -43,20 +59,36 @@ Deportivo Cali,    Cali
 
 Atlético Bucaramanga, Bucaramanga
   | Bucaramanga | CA Bucaramanga | Club Atlético Bucaramanga
+
 Atlético Huila, Neiva
+  | Club Deportivo Atlético Huila
+  | CD Atlético Huila
 
 
 Cúcuta Deportivo, Cúcuta
-Deportivo Pasto, Pasto
+
+Deportivo Pasto, San Juan de Pasto
+  |  Asociación Deportivo Pasto
+
+
 Envigado FC,      Envigado
   | Envigado
+
 Jaguares de Córdoba,  Montería
   | Jaguares | Jaguares Córdoba
+  | Jaguares de Córdoba Fútbol Club
+  | Jaguares FC
+
+
 Patriotas Boyacá,  Tunja
   | Patriotas
 Boyacá Chicó,      Tunja
   | Boyacá Chicó FC | Boyacá Chicó Fútbol Club
+
 Rionegro Águilas, Rionegro
+  | Águilas Doradas
+  | Águilas Doradas Rionegro
+
 Unión Magdalena,  Santa Marta
 Deportivo Pereira,  Pereira
 

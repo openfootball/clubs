@@ -1,13 +1,22 @@
 =========================
 =  Honduras
 
-CD Olimpia,      city:tegucigalpa
+CD Olimpia,       Tegucigalpa
   | Olimpia
-CD Marathón,     city:sanpedrosula
-  | Marathón
-Real CD España,  city:sanpedrosula
-  | Real España
-CD Motagua,      city:tegucigalpa
+
+FC Motagua,  1928,     Tegucigalpa
+  | Club de Fútbol Motagua
+  | Futbol Club Motagua
+  | CD Motagua
   | Motagua
-CD Victoria
+# formerly Club Deportivo Motagua up to 2017
+
+
+
+CD Marathón,     San Pedro Sula
+  | Marathón
+Real CD España,    San Pedro Sula
+  | Real España
+
+CD Victoria,      La Ceiba
   | Victoria

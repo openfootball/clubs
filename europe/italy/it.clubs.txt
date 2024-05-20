@@ -59,6 +59,15 @@ US Cremonese, Cremona
 Brescia Calcio, Brescia
   | Brescia | Brescia Calc.
 
+
+AC Monza, 1912,   Monza
+  | Monza | Associazione Calcio Monza 
+  | SS Monza | SS Monza 1912 | SSD Monza 1912
+## note - In May 2016, the club changed its name to SS Monza 1912
+##       On 1 July 2019, the club returned to its historical name AC Monza
+  
+
+
 == Piemonte ==    ## Piedmont [en]
 Torino FC,   Torino
   | Torino | Torino Football Club | FC Torino
@@ -271,9 +280,9 @@ US Lecce, Lecce
   | Lecce
 AS Lucchese Libertas,	Lucca
   | Lucchese | AS Lucchese Libertas 1905
-SS Monza, Monza
-  | Monza | SS Monza 1912
-  | SSD Monza 1912
+
+
+
 AC Reggiana, Reggio Emilia
   | Reggiana | AC Reggiana 1919
   | Reggio Audace | Reggio Audace FC
