@@ -3,8 +3,11 @@
 
 Universidad de Chile,   Santiago (Ñuñoa)
   | U. de Chile | Club Universidad de Chile
+  | Univers. de Chile
+
 Universidad Católica,   Santiago (Las Condes)
   | CDUC | Univ. Católica | CD Universidad Católica | Club Deportivo Universidad Católica
+
 Unión Española,         Santiago (Independencia)          # Independencia located in Santiago metro
   | Club Unión Española S.A.D.P
 Audax Italiano,   Santiago (La Florida)

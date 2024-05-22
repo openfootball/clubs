@@ -113,9 +113,11 @@ Saint Louis FC, Fenton
 
 == Florida ==
 Orlando City SC, 2015,  Orlando
-  | Orlando | Orlando City
+  | Orlando | Orlando City | Orlando City S
+
 Inter Miami CF,  2018,  Miami
   | Inter Miami | Club Internacional de Fútbol Miami
+
 
 Miami FC,            Miami
 Tampa Bay Rowdies,   St. Petersburg
@@ -129,6 +131,7 @@ The Villages SC,           The Villages
 == Pennsylvania ==
 Philadelphia Union, 2010,  Chester       # year 2008?
   | Philadelphia | Philadelphia Unio
+  | Philadelphia U.
 ii) Philadelphia Union II
 
 Philadelphia Lone Star FC,  Philadelphia

@@ -94,6 +94,12 @@ Lommel United, Lommel
   | Lommel SK
 
 
+Patro Eisden,   1942,  Maasmechelen  
+  | Koninklijke Patro Eisden Maasmechelen
+  | K. Patro Eisden Maasmechelen
+  | K. Patro Eisden
+
+
 == Oost-Vlaanderen › Vlaanderen ==
 
 KAA Gent, 1864,     Gent        › Oost-Vlaanderen › Vlaanderen
@@ -122,6 +128,12 @@ Waasland-Beveren, 1936,   Beveren › Oost-Vlaanderen › Vlaanderen   ## KVRS W
 KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
   | Beveren
   | SK Beveren
+
+
+KMSK Deinze,  1926,   Deinze    
+  | Deinze
+  | Koninklijke Maatschappij Sportkring Deinze
+
 
 
 == West-Vlaanderen › Vlaanderen ==

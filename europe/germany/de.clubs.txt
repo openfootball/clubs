@@ -405,6 +405,8 @@ Stuttgarter Kickers,   Stuttgart
 SC Freiburg, 1904,       	  Freiburg
   | Freiburg
  Schwarzwaldstr. 193 // 79117 Freiburg
+ii) SC Freiburg II
+
 
 TSG 1899 Hoffenheim,  1899,  Sinsheim   ## Sinsheim-Hoffenheim
   | Hoffenheim | 1899 Hoffenh. | 1899 Hoffenheim | TSG Hoffenheim

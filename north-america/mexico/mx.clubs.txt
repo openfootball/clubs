@@ -32,6 +32,7 @@ Potros UAEM,  1970,  Toluca › México
 == Jalisco ==
 CD Guadalajara Chivas, 1906,   Guadalajara (Zapopan) › Jalisco     ## use Zapopan › Jalisco
   | Guadalajara | Chivas | Guadalajara Chivas | CD Guadalajara
+  | Guadalajara C.
   | Deportivo Guadalajara | Club Deportivo Guadalajara
  Francisco I. Madero No. 5840, Col. Jocotán // Zapopan
 
@@ -48,6 +49,11 @@ Estudiantes UAG, 1971         # en Zapopan, Jalisco
   | UAG | Estudiantes | Estudiantes Tecos
   | UA. Guadalajara | Universidad Autónoma de Guadalajara
 
+
+Tepatitlán FC,    1944, Tepatitlán
+  | Tepatitlán Fútbol Club
+  | Alteños de Tepatitlán
+  | Tepatitlán | Tepa
 
 
 == Nuevo León ==
@@ -144,10 +150,22 @@ Mineros Zacatecas,     Zacatecas
   | Mineros de Zacatecas | Club Deportivo Mineros de Zacatecas
 
 == Michoacán ==
-Monarcas Morelia, 1924,  Morelia
-  | Monarcas | Morelia
-  | Atletico Monarcas Morelia
+
+Atlético Morelia,   Morelia
+  | Club Atlético Morelia
+  | Monarcas Morelia | Monarcas 
+  | Morelia
+  | Atlético Monarcas Morelia
  Av. Camelinas No. 3537, Col. 5 de Diciembre // Morelia, Michoacán C.P. 58260
+## in 1999 the club started playing under 
+## the name Club Monarcas Morelia.
+# - Oro Morelia (1924–1950): Name of the club at its foundation, used in the period before entering professional football.
+# - Club Deportivo Morelia (1950–1972): Official name of the club after reaching the Segunda División.
+# - Club Atlético Morelia (1972–1998): Name assumed after returning from suspension in 1971.
+# - Club Monarcas Morelia (1998–2020): Name assumed two years after acquisition by broadcaster TV Azteca.
+# - Club Atlético Morelia (2020–present): Name assumed after acquisition of the Zacatepec franchise.
+
+  
 
 == Aguascalientes ==
 Club Necaxa,  1923,       Aguascalientes
@@ -213,3 +231,7 @@ Atlante FC, 1916,          Cancún
   | Club de Fútbol Atlante
  Av. Mayapán esq. Av. Kabah s/n Supermanzana 43 Pedregal del Bosque // Quintana Roo
 
+
+Cancún FC,  2020,    Cancún 
+  | Cancún Fútbol Club
+  | Cancún

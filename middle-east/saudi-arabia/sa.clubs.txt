@@ -1,6 +1,93 @@
 =================================
 =  Saudi Arabia
 
-Al Nassr
-Al Hilal FC
-Al-Ahli Jeddah
+
+Al-Hilal,  1957, Riyadh
+  | Al Hilal FC
+  | Al Hilal Riyadh
+  | Al Hilal Saudi Football Club
+
+Al-Nassr, 1955,    Riyadh
+  |  Al Nasr Riad
+  | Al Nassr FC
+  | Al Nassr Football Club 
+
+Al-Riyadh, 1953,   Riyadh
+  |  Al Riyadh
+  |  Al-Riyadh SC
+  |  Al-Riyadh Saudi Club
+
+Al-Shabab,   1947, Riyadh
+  | Al-Shabab Football Club
+  | Al Shabab FC
+
+Damac,	1972, Khamis Mushait
+  |  Damac FC
+  |  Damac Football Club
+
+Al-Khaleej,  1945, Saihat
+   |  Al Khaleej Saihat
+   |  Al-Khaleej FC
+   |  Khaleej
+   |  Khaleej Football Club
+# note - Not to be confused with Khaleej Sirte SC
+
+
+Al-Okhdood,  1976,  Najran
+ | Al Akhdood
+ | Al-Okhdood Club 
+
+
+Al-Wehda,  1916,  Mecca
+  | Al Wehda FC
+  | Al-Wehda Football Club
+
+Al-Ahli, 1937, Jeddah
+  | Al-Ahli Jeddah
+  | Al-Ahli Saudi FC
+  | Al-Ahli Saudi Football Club
+
+
+Al-Ittihad, 1927,  Jeddah
+  | Al-Ittihad Club 
+  | Al-Ittihad Saudi Arabian Club 
+
+
+Al-Tai, 1961, Ha'il
+  | Al-Tai FC
+  | Al-Tai Football Club
+
+Al-Ettifaq, 1945, Dammam
+  | Al-Ettifaq FC
+  | Al-Ettifaq Football Club 
+
+Al-Raed, 1954, Buraidah
+  | Al Raed FC
+  | Al Raed Saudi Football Club
+
+Al-Taawoun,  1954, Buraidah
+  | Al Taawoun FC
+  | Al Taawoun Football Club
+
+Al-Hazem, 1957, Ar Rass
+  | Al Hazem FC
+  | Al-Hazem SC
+  | Al-Hazem Sport Club
+
+
+Al-Fateh,  1958,  Al-Mubarraz   # Al-Hasa (Hofuf)
+  |  Al Fateh SC
+  |  Al Fateh Sports Club
+
+Al-Fayha,  1953,  Al Majma'ah
+  |  Al Fayha FC
+  | Al Fayha Football Club
+
+
+Abha,      Abha
+  | Abha Club
+  | Abha Football Club 
+# founded
+# -  1966; 58 years ago, as Al-Farouk
+# - 1972; 52 years ago, as Al-Wadiea
+# - 1999; 25 years ago, as Abha

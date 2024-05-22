@@ -269,12 +269,23 @@ SC Brunn am Gebirge
 SVg Purgstall
 
 
+
 == Oberösterreich ==
 
 LASK Linz, 1899,      Linz (Pasching)          ## use Pasching ??
   | LASK | Linzer ASK
-ii) FC Juniors OÖ     ## todo/(double) check: is a not a feeder / reserve team / club ?
+ii) LASK Amateure OÖ
+  | LASK Juniors OÖ
+
+
+FC Juniors OÖ,      Linz (Pasching)      
   | Juniors OÖ        ##  bis Juli 2017 FC Pasching (merge with FC Pasching!! see below)
+## todo/(double) check: is a not a feeder / reserve team / club ?
+## After the rise of LASK Juniors OÖ in the 2. Liga in the 2017–18 season,
+#   the syndicate is dissolved. 
+# The FC Juniors OÖ will play as an independent club 
+#  in the second league, but continue to cooperate with the LASK
+
 
 FC Pasching,   2007        Linz (Pasching)
   | Pasching
@@ -425,6 +436,10 @@ FC Lankowitz
 USV Mettersdorf
 
 
+ASK Voitsberg, 1921,  Voitsberg 
+  | Arbeiter Sport-Klub Voitsberg
+
+
 == Kärnten ==
 
 Wolfsberger AC, 1931, Wolfsberg
@@ -458,6 +473,9 @@ ASV Annabichler SV 1923,   Klagenfurt (Annabichl)
   | ASV
   | Annabichler SV | Annabichler Sportverein
 
+
+ASK Klagenfurt,  1945, Klagenfurt (St. Peter bei Ebenthal)
+  |  Arbeitersportclub Klagenfurt
 
 
 Villacher SV, Villach
