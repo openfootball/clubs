@@ -67,6 +67,10 @@ Tuzlaspor,  İstanbul (Tuzla)
 Ümraniyespor,  İstanbul (Ümraniye)
   | CG Ümraniyespor | Ümraniyespor Kulubu
 
+Pendikspor,   1950,  İstanbul (Pendik)
+  | Pendik Spor Kulubü
+
+
 
 Gençlerbirliği Ankara SK, 1923,   Ankara
   | Gençlerbirliği | Gençlerbirliği Ankara

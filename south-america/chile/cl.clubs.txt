@@ -28,6 +28,7 @@ Deportes Iquique,       Iquique
 CD Cobresal,      El Salvador
   | Cobresal
 Coquimbo Unido,    Coquimbo
+  | Coquimbo Un.
 
 Curicó Unido,      Curicó
   | CDP Curicó Unido

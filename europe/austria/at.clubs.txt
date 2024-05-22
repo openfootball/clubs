@@ -21,9 +21,27 @@ ii) Young Violets Austria Wien
   | FK Austria Wien II
   | Austria Wien Amat.| Austria Wien A. | Ausstria Wien Amateure
 
-SC Team Wiener Linien,   Wien (Favoriten)
+
+
+TWL Elektra,   Wien (Favoriten)
+  | Team Wiener Linien/Elektra
+  | SC Team Wiener Linien
   | Wiener Linien
   | Team Wiener Linien | SC Team Wr. Linien
+## in der Saison 2021/22 mit dem ASK Elektra Wien
+##  zum TWL Elektra fusionierte
+
+ASK Elektra Wien (-2021),     Wien (Leopoldstadt)
+  | ASK Elektra
+  | AS Koma Elektra | Athletic Sportklub Koma Elektra
+# 1921 als SC Elektra Wien
+# 2013 Fusion des FS Elektra mit dem 1984 gegründeten AS Koma
+
+
+Favoritner AC,   1910,  Wien (Favoriten)
+  | FavAC
+  | Favoritner Athletikclub
+
 
 SV Wienerberg,  1921,  Wien (Favoriten)     ## aus dem Wiener Stadtteil Inzersdorf-Stadt am Fuße des Wienerbergs
   | SV Wienerberg 1921
@@ -69,11 +87,6 @@ FC Stadlau
 SC Red Star Penzing
   | Red Star Penzing
 
-ASK Elektra Wien,     Wien (Leopoldstadt)
-  | ASK Elektra
-  | AS Koma Elektra | Athletic Sportklub Koma Elektra
-# 1921 als SC Elektra Wien
-# 2013 Fusion des FS Elektra mit dem 1984 gegründeten AS Koma
 
 FV Austria XIII
 Post SV Wien
@@ -313,6 +326,13 @@ FC Wels,         Wels
   | Wels FC
 WSC Hertha Wels, Wels
   | WSC Hertha
+
+## todo/check SPG Wels  - merger of FC Wels & WSC Herta Wels in 202x??
+SPG Hertha Wels, Wels
+  | SPG HOGO Wels   ## HOGO is sponsor name
+
+
+
 
 Union Vöcklamarkt, Vöcklamarkt
   | Vöcklamarkt

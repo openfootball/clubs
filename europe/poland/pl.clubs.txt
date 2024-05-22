@@ -141,3 +141,12 @@ Odra Wodzisław,  1922,    Wodzisław Śląski
   | APN Odra Wodzisław Śląski
 
 
+Puszcza Niepołomice,   Niepołomice
+  | Pusz. Niepolomice
+
+
+Radomiak Radom,    Radom
+  | RKS Radomiak
+  | Radomski Klub Sportowy Radomiak Radom
+
+  

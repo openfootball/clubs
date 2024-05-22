@@ -216,6 +216,7 @@ Ceára SC,         Fortaleza
 Fortaleza EC,     Fortaleza
   | Fortaleza | Fortaleza Esporte Clube
   | Fortaleza EC CE
+  | Fortaleza EC C
 
 
 == Pará ==

@@ -9,8 +9,18 @@ Orlando Pirates,  Johannesburg (Soweto)
 Bidwest Wits,  Johannesburg (Braamfontein)
   | Wits | Bidwest Wits FC
 
+Moroka Swallows,  1947, Johannesburg (Soweto)
+  | Moroka Swallows Football Club
+  | Moroka Swallows FC 
+  | Swallows
+
+
 Cape Town City,   Cape Town (Green Point)
   | Cape Town City FC
+
+Cape Town Spurs, Cape Town (Parow)
+  | Cape Town Spurs FC 
+
 
 SuperSport United, Pretoria
   | SuperSport United FC
@@ -37,6 +47,7 @@ AmaZulu	Durban,   Durban North
   | AmaZulu FC
 Golden Arrows,  Durban (Lamontville)
   | Lamontville FC | Lamontville Golden Arrows FC
-
-
+Royal AM, Durban
+  | Royal AM Football Club
+  | Royal AM FC
 

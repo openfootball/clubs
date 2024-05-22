@@ -224,9 +224,16 @@ Frosinone, Frosinone
   | Frosinone Calcio
 Novara, Novara
   | Novara Calcio
-Palermo, Palermo
+
+Palermo FC,   Palermo
+  | Palermo Football Club
+  | Palermo
   | US Palermo
   | US Città di Palermo | Unione Sportiva Città di Palermo
+## On 16 July 2020, 
+#  the club changed its name to Palermo Football Club.
+
+
 Parma, Parma
   | Parma FC | FC Parma | Parma Football Club
   | Parma Calcio | Parma Calcio 1913

@@ -65,3 +65,7 @@ Montedio Yamagata     # All cities/towns in Yamagata
 
 Tokushima Vortis      # All cities/towns in Tokushima
   | Tokushima
+
+
+Kyoto Sanga,  Kyoto
+  | Kyoto Sanga FC  | Kyoto Sanga Football Club

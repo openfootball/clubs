@@ -82,8 +82,20 @@ Gloria Bistrița,    Bistrița
 
 
 
-FC Viitorul Constanța,   Ovidiu
-  | Viitorul | FC Viitorul | Viitorul Constanța
+FC Viitorul Constanța (2009-2021),   Ovidiu
+  | Viitorul 
+  | FC Viitorul | Viitorul Constanța
+#  merged with Farul Constanța in 2021
+
+FCV Farul Constanța,  Constanța
+  | FC Farul Constanța   
+  | Farul Constanța
+  | Farul                 # Farul translates as "the Lighthouse"
+## Established in 1920 as SPM Constanța, 
+#  the team had spent over 40 seasons in the first league 
+#  before merging with Viitorul Constanța in 2021. 
+
+
 
 Corona Brașov (2010-2014),   Brașov
  | ASC Corona 2010 Brașov
@@ -163,6 +175,7 @@ Universitatea Craiova,    Craiova
   | U Craiova | CS U Craiova | CS Uni Craiova | U Craiova 1948 CS | CS Universitatea Craiova
   | U Craiova 1948 Club Sportiv
   | Univ. Craiova
+  | Uni Craiova 1948
   | FC Universitatea Craiova   # champs (4): 1991/92 1982..1980 (2) 1974/75
 
 
@@ -206,6 +219,8 @@ FCM Bacău,  1950,   Bacău
   | FCM 1950 Bacău | ASS FCM 1950 Bacău
 
 
+
+
 Chimia Râmnicu Vâlcea (1946-2004),  Râmnicu Vâlcea
   | Chimia Rimnicu Vilcea
   | CS Chimia Râmnicu Vâlcea
@@ -226,3 +241,5 @@ FC Victoria Brăneşti (1968-2012),   Brăneşti
 
 CSU Voința Sibiu (2007-2012),   Sibiu
   | Voinţa Sibiu
+
+

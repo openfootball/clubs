@@ -7,7 +7,8 @@
 All Boys,           Buenos Aires
   | Club Atlético All Boys
 Argentinos Juniors,  Buenos Aires
-  | Argentinos | Argentinos Jrs | Argentinos Jun 
+  | Argentinos | Argentinos Jrs 
+  | Argentinos Jun | Arg. Juniors
   | Asociación Atlética Argentinos Juniors
   | AA Argentinos Juniors
 
@@ -92,8 +93,10 @@ Club Atlético Banfield,   Banfield › Buenos Aires
   | Banfield | CA Banfield
 
 Defensa y Justicia,   Gobernador Julio A. Costa › Buenos Aires
-  | Defensa y Just | Club Social y Deportivo Defensa y Justicia
+  | Defensa y Just. | Defensa y Jus.
+  | Club Social y Deportivo Defensa y Justicia
   | CSD Defensa y Justicia
+
 
 Olimpo Bahía Blanca,  Bahía Blanca  › Buenos Aires
   | Olimpo | Club Olimpo | Olimpo de Bahía Blanca
@@ -143,7 +146,9 @@ Newell's Old Boys, Rosario
   | Newell's | N.O. Boys | Newell's OB | Newell's Old B. | Newells Old Boys
   | CA Newell's Old Boys | Club Atlético Newell's Old Boys
 Rosario Central,  Rosario
-  | Rosario Cent | CA Rosario Central | Club Atlético Rosario Central
+  | Rosario Cent. | Rosario Cen.
+  | CA Rosario Central 
+  | Club Atlético Rosario Central
 Tiro Federal, 1905,  Rosario
   | Tiro Federal de Rosario
   | CA Tiro Federal Argentino | Club Atlético Tiro Federal Argentino

@@ -8,7 +8,8 @@ Club Olimpia,       Asunción
   | Olimpia Asunción
 
 Club Nacional,      Asunción
-  | Nacional | Nacional Asunción | Nacional de Asunción
+  | Nacional | Nacional Asunción | Nacional Asunc.
+  | Nacional de Asunción
 Cerro Porteño,      Asunción
   | Club Cerro Porteño
 Club Guaraní,        Asunción

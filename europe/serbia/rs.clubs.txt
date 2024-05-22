@@ -22,6 +22,7 @@ FK Rad Belgrade, Belgrade
 
 FK Čukarički, 1926,   Belgrade (Čukarica)
   | Čukarički | Čukarički Belgrade
+  | Čukarički Belgrad [de]
 
 
 FK Bežanija,  1921,   Belgrade (New Belgrade)
@@ -56,8 +57,17 @@ FK Borac Čačak, 1926,   Čačak
 
 FK Spartak Subotica
   | FC Spartak Subotica | Spartak Subotica
-FK Radnicki Niš,   Niš
-  | Radnicki Niš
+
+FK Radnički Niš,  1923,  Niš
+  | Radnički Niš
+  
+FK Radnički 1923, 1923,   Kragujevac
+  | FK Radnički Kragujevac
+  | Radnički Kragujevac
+  | Fudbalski Klub Radnički 1923
+
+
+
 FK Mladost Lučani
   | Mladost Lučani
 
@@ -95,3 +105,9 @@ FK Hajduk Kula (1925-2013),   Kula
 
 OFK Bečej 1918,  1918,  Bečej
   | FK Bečej
+
+
+FK Železničar Pančevo, 1947, Pančevo
+  | Žel. Pančevo
+  | Fudbalski Klub Železničar Pančevo
+

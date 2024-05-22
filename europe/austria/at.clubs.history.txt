@@ -3,6 +3,12 @@
 
 ##  note: use history log by season (instead of by year) - why? why not?
 
+
+## add  SC Team Wiener Linien  => TWL Elektra 
+## in der Saison 2021/22 mit dem ASK Elektra Wien
+
+
+
 == 2019/20
 
 RENAME    WSG Wattens ⇒ WSG Tirol

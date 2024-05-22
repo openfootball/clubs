@@ -25,8 +25,11 @@ Casa Pia,         Lisboa
   | Casa Pia AC | Casa Pia Atlético
   | Casa Pia Atlético Clube
 
-UD Vilafranquense,    Vila Franca de Xira   # a municipality in the Lisbon District
+UD Vilafranquense (-2023),    Vila Franca de Xira   # a municipality in the Lisbon District
   | Vilafranquense | União Desportiva Vilafranquense
+#  merged with AVS Futebol SAD in 2023
+
+
 CD Mafra,  Mafra                            # a city and a municipality in the district of Lisbon
   | Mafra | Clube Desportivo Mafra
 
@@ -63,6 +66,12 @@ UD Oliveirense,  Oliveira de Azeméis    # a city and a municipality located in 
 CD Aves, 1930,  Aves
   | Aves | Desportivo Aves
   | CD das Aves | Desportivo das Aves
+##  For the new club known as AVS Futebol SAD,
+##  founded in 2023, see AVS Futebol SAD !!!
+
+AVS Futebol SAD, 2023,  Vila das Aves    
+  | AVS
+
 
 GD Chaves, Chaves
   | Chaves | Grupo Desportivo de Chaves

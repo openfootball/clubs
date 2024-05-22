@@ -4,6 +4,8 @@
 Liverpool Montevideo,          Montevideo
   | Liverpool | Liverpool FC | Liverpool Fútbol Club
   | Liverpool Montevid | Liverpool FC Montevideo
+  | Liverpool Mont.
+  
 Nacional de Montevideo, 1899,  Montevideo
   | Nacional | Nacional de Footb. | Club Nacional | Club Nacional de Football | C. N. de F.
 Defensor Sporting,             Montevideo

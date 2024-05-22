@@ -112,6 +112,10 @@ FK Drnovice (1932-2006), Drnovice
 
 FK Pardubice,  2008,  Pardubice   ## Pardubice
   | Fotbalový Klub Pardubice
+  | Pardubice
 # successor of TJ Tesla Pardubice,
 #  which merged with FC Loko Pardubice in 2008
 #  note: NOT to be confused with FK AS Pardubice
+#  Not to be confused with FK AS Pardubice or SK Pardubice !!!
+
+
