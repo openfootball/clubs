@@ -6,22 +6,32 @@ Grasshoppers Zürich, 1886,       Zürich
   | Grasshoppers | Grasshopper Club Zürich
 FC Zürich, 1896,                 Zürich
   | Zürich
+FC Red Star Zürich
+
 FC Winterthur, 1896,      Winterthur
   | Winterthur
+
 
 
 == Basel-Stadt ==
 FC Basel, 1893,          Basel
   | Basel | FC Basel 1893
 
+FC Black Stars Basel
+
+
 == Bern ==
 BSC Young Boys, 1898,          Bern
   | Young Boys | Young Boys Bern | Berner Sport Club Young Boys | BSC YB
   | YB Bern
+
+FC Breitenrain Bern
+
 FC Biel-Bienne, 1896,     Biel/Bienne
   | Biel-Bienne
 FC Thun, 1898,                 Thun
   | Thun | FC Thun 1898
+  | FC Thun Berner Oberland
 
 == Luzern ==
 FC Luzern, 1901,                Luzern    ## use Lucerne [fr] - why??
@@ -34,11 +44,20 @@ SC Kriens, 1944,   Kriens             # a western suburb of Lucerne
 FC St. Gallen, 1879,            St. Gallen
   | St. Gallen | FC St. Gallen 1879
   | FC Sankt Gallen
+
+FC Winkeln St. Gallen
+
+
+
 FC Wil, 1900,                   Wil
   | Wil | FC Wil 1900
 
 == Schaffhausen ==
 FC Schaffhausen, 1896,  Schaffhausen
+
+
+SV Schaffhausen, 1922,  Schaffhausen
+  | Spielvereinigung Schaffhausen
 
 == Aargau ==
 FC Aarau, 1902,                Aarau
@@ -50,6 +69,9 @@ FC Wettingen, 1931,   Wettingen
   | FC Wettingen 93
 # 1931 (as FC Wettingen)
 # 1993 (as FC Wettingen 1993)
+
+FC Baden,  Baden
+  | Fussballclub Baden 1897
 
 
 == Valais ==
@@ -74,6 +96,7 @@ FC Lausanne,  1896,           Lausanne
   | Lausanne Sports    #  champs (1): 1965/66
 
 Stade Lausanne-Ouchy,   2001,       Lausanne (Ouchy)
+  | Lausanne-Ouchy
   | FC Stade Ls Ouchy | FC Stade Lausanne Ouchy
   | SLO | FC SLO
 # note: a merger between FC Stade Lausanne and FC Ouchy Olympic in 2001
@@ -96,4 +119,62 @@ FC Locarno, 1906,    Locarno
   | Locarno
 AC Bellinzona, 1904,    Bellinzona
   | Bellinzona
+
+
+
+
+== ?? ==
+
+#########
+## todo - add clubs to kantons 
+
+Yverdon-Sport FC,   Yverdon-les-Bains
+  | Yverdon-Sport
+
+FC Stade Nyonnais,  Nyon
+  | Stade Nyonnais
+
+
+SR Delémont,  1909,   Delémont 
+  | Sport-Réunis de Delémont
+
+
+AC Malcantone
+AC Taverne
+Etoile Carouge FC
+FC Affoltern
+FC Ajoie-Monterri
+FC Bosporus
+FC Buchs AG
+FC Bulle
+FC Collina d'Oro
+FC Courtételle
+FC Dietikon
+FC Frutigen
+FC Genolier-Begnins
+FC Grand-Saconnex
+FC Greifensee
+FC Gunzwil
+FC Haute-Gruyère
+FC Lancy
+FC Mendrisio
+FC Meyrin
+FC Onex
+FC Porrentruy
+FC Rapperswil-Jona
+FC Saint-Blaise
+FC Savièse
+FC Schönenwerd-Niedergösgen
+FC Tuggen
+FC Wettswil-Bonstetten
+FC Widnau
+Iliria Solothurn
+SC Brühl
+SC Cham
+SV Höngg
+Vevey-Sports
+VfR Kleinhüningen
+
+
+
 

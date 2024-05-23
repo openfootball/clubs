@@ -131,3 +131,9 @@ East Stirlingshire FC,  Falkirk
   | East Stirling
 Gretna FC, Gretna
   | Gretna
+
+
+Kelty Hearts FC,  1975,  Kelty
+  | Kelty Hearts
+  | Kelty Hearts Football Club
+ 

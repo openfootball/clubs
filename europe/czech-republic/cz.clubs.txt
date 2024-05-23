@@ -7,12 +7,17 @@ AC Sparta Praha, 1893, Praha       ## Prague [en]
   | Athletic Club Sparta Praha
   | AC Sparta Prague [en]
   | Sparta Prag [de]
+ii)  AC Sparta Praha B
+  | AC Sparta Prag B [de]
+
 
 FK Dukla Praha, 1958,  Praha
   | Dukla
   | Dukla Prague [en] | FK Dukla Prague [en]
   | FK Dukla Prag [de]
   | Dukla Praha     # champs (10): 1982/83 1979/80 1977/78 1966/67 1965....1961 (4) 1959..1957 (2)
+
+
 
 SK Slavia Praha, 1892, Praha
   | Slavia Praha | Sportovní klub Slavia Praha
@@ -53,6 +58,10 @@ FC Baník Ostrava, 1922,  Ostrava      ## Moravian-Silesian
 SK Sigma Olomouc, 1919, Olomouc     ## Olomouc
   | Sigma | Sigma Olomouc
   | SK Sigma Olmütz [de]
+ii) Sigma Olomouc B
+  | SK Sigma Olmütz B [de]
+
+
 
 FK Teplice, 1945, Teplice     ## Ústí nad Labem
   | Teplice
@@ -67,11 +76,15 @@ FC Vysočina Jihlava, 1948,  Jihlava  ## Vysočina
   | Jihlava | FC Jihlava
   | Vysočina Jihlava
 
+
 FC Zbrojovka Brno, 1913,   Brno     ## South Moravia
   | Brno | Zbrojovka Brno
 
 FC LeRK Brno  (1910-1995),  Brno
   | Spartak Brno KPS
+
+SK Líšeň, Brno 
+ | SK Líšeň Brno
 
 
 MFK Karviná
@@ -81,8 +94,11 @@ SFC Opava
   | Opava
 
 SK Dynamo České Budějovice
+  | Dynamo České Budějovice
   | České Budĕjov. | České Budějovice
   | SK Dynamo Budweis [de]
+  
+
 
 FK Ústí nad Labem, Ústí nad Labem
   | Ústí nad Labem
@@ -117,5 +133,49 @@ FK Pardubice,  2008,  Pardubice   ## Pardubice
 #  which merged with FC Loko Pardubice in 2008
 #  note: NOT to be confused with FK AS Pardubice
 #  Not to be confused with FK AS Pardubice or SK Pardubice !!!
+
+
+
+1. SK Prostějov,  1904,  Prostějov
+
+
+FC Sellier & Bellot Vlašim,  1922, Vlašim
+  | FC Vlašim
+  | FC Graffin Vlašim
+
+
+FC Silon Táborsko, Tábor
+  | Football Club Silon Táborsko
+  | FK MAS Táborsko
+  | MAS Táborsko
+# in 2022, the club got a new main sponsor and 
+# changed its name to FC Silon Táborsko
+# ?–2011: FK Spartak MAS Sezimovo Ústí
+# 2012–2022: FC MAS Táborsko
+# 2022–: FC Silon Táborsko
+
+
+MFK Chrudim, Chrudim 
+  | Městský fotbalový klub Chrudim
+  | AFK Chrudim
+
+Hanácká Slávia Kroměříž, 1919,   Kroměříž
+  | SK Hanácká Slavia
+  | SK Hanácká Slavia Kroměříž
+
+FK Varnsdorf,  1938, Varnsdorf
+  | Fotbalový klub Varnsdorf
+
+FK Příbram,   1928,   Příbram
+  | Fotbalový klub Příbram
+  | FK Viagem Příbram
+  
+  
+MFK Vyškov,  1921, Vyškov
+  | Městský fotbalový klub Vyškov
+# name history 
+# 1966–1993: TJ Vyškov
+# 1993–2011: SK Rostex Vyškov
+# 2012–: MFK Vyškov
 
 

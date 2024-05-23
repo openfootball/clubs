@@ -39,9 +39,14 @@ LALA FC,               Ciudad Guayana
 
 
 Atlético El Vigía,     El Vigía
-Llaneros FC,           Guanare
-  | Llaneros | Llaneros Guanare | Llaneros de Guanare
+
+
+# note - Llaneros FC   name in use by club in Colombia!!!
+Llaneros Guanare,     Guanare    
+  | Llaneros FC           
+  | Llaneros | Llaneros de Guanare
   | Llaneros Escuela de Fútbol
+
 Zulia FC,              Maracaibo
   | Zulia
 Aragua FC,             Maracay
