@@ -11,6 +11,11 @@ Bnei Yehuda Tel-Aviv FC
 Beitar Tel Aviv Bat Yam FC,  Tel Aviv       ## and Bat Yam
   | Beitar Tel Aviv | Beitar Tel Aviv Bat Yam
 
+Maccabi Jaffa, Tel Aviv
+
+Maccabi Kabilio Jaffa,  Tel Aviv 
+
+
 
 Maccabi Haifa FC
   | M. Haifa | Maccabi Haifa
@@ -27,11 +32,14 @@ Hapoel Kiryat Shmona FC
 Maccabi Netanya FC
   | M. Netanya | Maccabi Netanya
 
-Beitar Jerusalem FC
+Beitar Jerusalem FC,    Jerusalem
   | Beitar Jerus. | Beitar Jerusalem
-Hapoel Katamon Jerusalem FC,  Jerusalem
+
+Hapoel Jerusalem,  Jerusalem
+  | Hapoel Katamon Jerusalem FC
   | Hap. Kat. Jerusalem | Hapoel Katamon Jerusalem
   | Hapoel K. Jerusale
+
 
 Hapoel Beer-Sheva FC,  1949,   Be'er Sheva
   | H. Beer-Sheva | Hap. Beer-Sheva
@@ -41,6 +49,11 @@ Hapoel Beer-Sheva FC,  1949,   Be'er Sheva
 FC Ashdod,   1999,   Ashdod
   | Ashdod | FC Ironi Ashdod
   | Moadon Sport Ashdod
+  | Ashdod SC
+
+Maccabi Ironi Ashdod,   Ashdod
+
+
 
 Hapoel Hadera FC, Hadera
   | Hapoel Hadera
@@ -52,9 +65,11 @@ Hapoel Ra'anana AFC, Ra'anana
 
 Maccabi Petah Tikva FC, Petah Tikva
   | Maccabi Petah Tikva
-  | Macc. Petach Tikva
-  | Maccabi Petach-Tikva FC    ## fix/todo: check dash(-) if fancy?!
+  | Macc. Petach Tikva | Mac. Petach Tikva
+  | Maccabi Petach-Tikva FC   
   | Maccabi Petach-Tikva
+  
+
 
 Hapoel Petah Tikva FC,   Petah Tikva
   | H. Petach Tikva | Hapoel Petah Tikva
@@ -68,6 +83,7 @@ Sektzia Nes Tziona FC,   Ness Ziona
   | Nes Tziona | Sektzia Nes Tziona
   | Sectzya Nes Ziona
   | Sektzia Ness Ziona FC
+  | Sektzia Ness Ziona
 
 
 Bnei Sakhnin FC,  Sakhnin
@@ -88,6 +104,7 @@ Hapoel Bnei Lod FC,  Lod
   | Hapoel Bnei Lod
 Hapoel Nof HaGalil FC, Nof HaGalil
   | Hapoel Nof HaGalil
+  | H. Nof HaGalil
 
 Hapoel Ramat Gan Giv'atayim FC,  Ramat Gan
   | Hapoel Ramat Gan | H. Ramat Gan
@@ -96,10 +113,41 @@ Hapoel Ramat Gan Giv'atayim FC,  Ramat Gan
 Hapoel Ramat HaSharon FC,   Ramat HaSharon
   | Hapoel Ramat HaSharon
   | Ironi Ramat HaSharon | I. Ramat Hasharon
+  | Hapoel Nir Ramat HaSharon
+
+
 Hapoel Rishon LeZion FC, Rishon LeZion
   | Hap. Rishon LeZion | Hapoel Rishon LeZion | Hapoel Rishon Lezi
+
 Hapoel Umm al-Fahm FC,   Umm al-Fahm   # in hebrew: Um el-Faḥem
   | Umm al-Fahm | Hapoel Umm al-Fahm
   | Hapoel Um el-Fahem
+  | El Fahem
+
+
 Maccabi Ahi Nazareth FC,   Nazareth
   | M. Ahi Nazareth | Maccabi Ahi Nazareth
+
+
+Maccabi Bnei,  Reineh
+  | Maccabi Bnei Reineh
+  | Maccabi Bnei Raina
+  | Maccabi Bnei Reine
+
+Maccabi Herzliya, Herzliya
+
+Hapoel Herzliya,  Herzliya  
+
+
+Ihud Bnei Shefa-'Amr, Shefa-'Amr
+  Ihud Shefa-AMR
+
+Ironi Tiberias,   Tiberias
+
+Maccabi Ironi Kiryat Ata,  Kiryat Ata
+
+Maccabi Yavne,  Yavne 
+MS Dimona,  Dimona 
+MS Kafr Qasim,  Kafr Qasim
+Tzeirei Kafr Kanna,   Kafr Kanna 
+
