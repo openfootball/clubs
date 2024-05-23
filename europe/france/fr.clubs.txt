@@ -299,3 +299,6 @@ FC Villefranche,  Villefranche-sur-Saône
   | FCVB
   | Villefranche
  
+ US Avranches,  Avranches
+   | L'Union Sportive Avranches Mont Saint Michel
+   | Avranches
