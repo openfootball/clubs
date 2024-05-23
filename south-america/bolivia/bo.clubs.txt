@@ -7,6 +7,7 @@ The Strongest,                     La Paz
   | Strongest | Club The Strongest
 Club Always Ready,                 La Paz
   | Alw. Ready | Always Ready | Alw. Ready La Paz
+  | CAR
 
 La Paz FC (1989-2013),             La Paz
   | La Paz Fútbol Club
@@ -16,13 +17,21 @@ Club Deportivo Oriente Petrolero,  Santa Cruz de la Sierra
   | Oriente Petrol | Oriente Petrolero
   | CDyC Oriente Petrolero
 
+
 Club Blooming,             Santa Cruz de la Sierra
   | Blooming
   | CSCyD Blooming 
-Club Destroyers,           Santa Cruz de la Sierra
-  | Destroyers
+  | Club Social Cultural y Deportivo de Blooming
+
+Real Santa Cruz,          Santa Cruz de la Sierra
+  | Club Real Santa Cruz
+
 Royal Pari FC,            Santa Cruz de la Sierra
   | Royal Pari | Royal Pari Sion
+  | Royal Pari Fútbol Club
+
+Club Destroyers,           Santa Cruz de la Sierra
+  | Destroyers
 
 
 Real Potosí,                       Potosí
@@ -38,22 +47,53 @@ Club Deportivo San José,           Oruro
   | San José Oruro
   | CD San José
 
+# Not to be confused with Club San José.
+GV San José,   	Oruro
+  | GV San José Oruro
+  | G. Villarroel CD San José 
+  | Club Gualberto Villarroel Deportivo San José
+
+
+
 Club Deportivo Guabirá,    Montero
   | Guabirá | Guabirá Montero
+  | CD Guabirá
   | CDSC Guabirá
 
 
 CD Jorge Wilstermann,     Cochabamba
   | Jorge Wilstermann | J. Wilstermann
+  |  Wilstermann
+  | Club Deportivo Jorge Wilstermann
   | CCyD Jorge Wilsterman
+
 
 Club Aurora,               Cochabamba
   | Aurora | Club Dep. Aurora
   | CD Aurora
+  | Club Deportivo Aurora
+
+Universitario de Vinto,	 Cochabamba
+  | Uni. de Vinto
+  | FC Universitario
+  | Fútbol Club Universitario de Vinto
+
+
+San Antonio Bulo Bulo,	Entre Ríos
+  |  San Ant. Bulo Bulo
+  | San Antonio
+  | Club Deportivo San Antonio Bulo Bulo
+
+
 
 Universitario de Sucre,   Sucre
   | CD Universitario SFX
   | Club Deportivo Universitario San Francisco Xavier
+
+Independiente Petrolero, 	Sucre
+  |  Independiente
+  | Club Independiente Petrolero
+
 
 Sport Boys Warnes,       Warnes
   | Sport Boys
@@ -64,6 +104,11 @@ Petrolero del Chaco, 2000,  Yacuiba     # en la región del Chaco
   | Club Deportivo Petrolero Olimpia del Chaco
   | Club Deportivo Olimpia Petrolero
   | Petrolero de Yacuiba
+
+
+Real Tomayapo, 	Tarija
+ | Club Deportivo Real Tomayapo
+ | CD Real Tomayapo
 
 
 

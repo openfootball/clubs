@@ -19,12 +19,19 @@ Paris FC,            Paris › Île-de-France
 # - Red Star FC (2012-)
 Red Star FC,   Saint-Ouen › Île-de-France
   | Red Star | Red Star 93
+  | Red Star Football Club
+
 
 Racing Club de France, 1882,    Paris (Colombes) › Île-de-France
   | Racing Club de France Football
   | Racing Paris
   | RCF Paris
   ## also known as Matra Racing, Racing Club, or Racing
+
+FC Versailles,  Paris (Paris 16)
+ |  Football Club de Versailles 78
+ | Versailles
+
 
 
 
@@ -43,6 +50,8 @@ Stade Malherbe Caen,  1913,   Caen     ## Calvados > Lower Normandy
   | Caen |  SM Caen | Stade Malherbe de Caen
 Dijon FCO, Dijon
   | Dijon | FCO Dijon | Dijon Football | Dijon Football Côte-d'Or
+
+
 EA Guingamp, 1912, Guingamp   ## Côtes-d'Armor > Brittany
   | Guingamp | En Avant Guingamp | En Avant de Guingamp
 Lille OSC,  1944,   Lille      ## Nord > Nord-Pas-de-Calais
@@ -104,6 +113,9 @@ Stade Brestois 29, Brest
   | Brest | Stade Brest | Stade Brestois
 LB Châteauroux, Châteauroux
   | Châteauroux | La Berrichonne de Châteauroux
+  | La Berrichonne
+
+
 Clermont Foot 63, Clermont
   | Clermont | Clermont Foot
 Le Havre AC, Le Havre
@@ -124,7 +136,11 @@ US Quevilly-Rouen Métropole,  Petit-Quevilly
   | Quevilly Rouen | Quevilly-Rouen
   | US Quevilly-Rouen
 FC Sochaux-Montbéliard, Montbéliard
-  | Sochaux | FC Sochaux | Football Club de Sochaux-Montbéliard
+  | Football Club Sochaux-Montbéliard 
+  | Football Club de Sochaux-Montbéliard
+  | Sochaux | FC Sochaux 
+ 
+
 Tours FC, Tours
   | Tours | Tours Football Club | FC Tours
 Valenciennes FC, Valenciennes
@@ -153,6 +169,8 @@ US Créteil, Créteil
   | Créteil  | US Créteil-Lusitanos | Union Sportive Créteil-Lusitanos
 SAS Épinal,  Épinal
   | Épinal
+  | Stade Athletique Spinalien Épinal
+
 Évian TG FC, 2007, Thonon-les-Bains     ## Haute-Savoie > Rhône-Alpes
   | Évian | Évian TG
   | Évian Thonon Gaillard
@@ -177,8 +195,11 @@ FC Libourne-Saint-Seurin, Libourne
   | Libourne
 CS Louhans-Cuiseaux,   Louhans  ## and Cuiseaux
   | Louhans-Cuis.
+
 FC Martigues, Martigues
+  | Football Club de Martigues
   | Martigues
+
 FC Mulhouse, Mulhouse
   | Mulhouse
 Perpignan FC,  Canet-en-Roussillon
@@ -186,7 +207,11 @@ Perpignan FC,  Canet-en-Roussillon
 
 
 FC Rouen,  Rouen
+  | FC Rouen 1899
+  | Football Club de Rouen 1899 
   | Rouen
+
+
 CS Sedan-Ardennes,  1919, Sedan
   | Sedan | CS Sedan
   | Club Sportif Sedan Ardennes
@@ -239,3 +264,38 @@ USL Dunkerque,   Dunkerque
 # Union Racing Dunkerque-Malo (1927-1934)
 # Olympique dunkerquois (1934-1954)
 # Union sportive de Dunkerque (1954-1987)
+
+
+Le Puy,  Le Puy-en-Velay
+  | Le Puy Foot 43 Auvergne
+
+US Concarneau,  Concarneau
+  | Union Sportive Concarnoise
+  | Concarneau
+  | US Union Concarnoise
+
+FC Annecy,   Annecy
+  | Football Club d'Annecy
+  | Annecy
+  | Annecy FC
+
+SO Cholet,  Cholet
+  | Stade Olympique Choletais
+  | Cholet
+
+GOAL FC,  Chasselay
+  | Grand Ouest Association Lyonnaise Football Club
+
+Marignane GCB,  Marignane
+  | Marignane Gignac Côte Bleue Football Club
+  | Marignane Gignac CB
+  | Marignane Gignac
+  | Marignane
+  | US Marignane
+
+FC Villefranche,  Villefranche-sur-Saône
+  | Football Club Villefranche Beaujolais 
+  | FC Villefranche Beaujolais
+  | FCVB
+  | Villefranche
+ 

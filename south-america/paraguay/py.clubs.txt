@@ -21,6 +21,13 @@ Club River Plate,     Asunción
  Sportivo Trinidense,   1935, Asunción (Santísima Trinidad)
     | Club Sportivo Trinidense
     | Trinidense 
+    | Sportivo Trinidens.
+    | Sportivo Trini.
+
+Tacuary,  Asunción
+  | Tacuary Asunción
+  | Club Tacuary
+
 
 
 Deportivo Capiatá,  Capiatá
@@ -29,12 +36,32 @@ Deportivo Santaní,   San Estanislao
 Club General Díaz,  Luque
   | General Díaz
   | Club General Díaz (Luque)
+
 Sportivo Luqueño,   Luque
+  | Sp. Luqueño
+  | Club Sportivo Luqueño
+
+
 
 Club Sportivo San Lorenzo,  San Lorenzo
   | San Lorenzo | Sp. San Lorenzo
+
 Club Sol de América,  Villa Elisa
   | Sol de América
 
+Sportivo Ameliano,  Villa Elisa
+  | Sp. Ameliano
+  | Club Sportivo Ameliano
+  | Ameliano
+
+
 Guaireña FC,   Villarrica
   | Guaireña Fútbol Club
+
+
+General Caballero (JLM),   Juan León Mallorquín
+  | General Caballero DJLM
+  | Club General Bernardino Caballero
+
+2 de Mayo,   Pedro Juan Caballero
+   | Club Sportivo 2 de Mayo

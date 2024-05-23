@@ -5,43 +5,91 @@ Deportivo Quito,              Quito
   | Sociedad Deportivo Quito
 El Nacional,     1964,          Quito
   | CD El Nacional 
+  | El Nacional Quito
   | Club Deportivo El Nacional
   | CSCyD El Nacional
 # note: CSCyD == Club Social Cultural y Deportivo 
 
 
 LDU Quito,                    Quito
-  | LDU de Quito | Liga de Quito | Liga Deportiva Universitaria de Quito
+  | LDU de Quito | Liga de Quito 
+  | Liga Deportiva Universitaria de Quito
+  | Liga Deportiva Universitaria
+  | LDU
+
 CD Universidad Católica del Ecuador,  Quito
   | Universidad Católica | CD Católica
+  | Universidad Católica del Ecuador
+
 América de Quito,   Quito
 SD Aucas,           Quito
   | Aucas
+  | Sociedad Deportiva Aucas
+
+Cumbayá, Quito
+  | Cumbayá FC
+  | Cumbayá Fútbol Club
+
+
 
 
 CS Emelec,                    Guayaquil
   | Emelec | Club Sport Emelec
+
 Barcelona Guayaquil,          Guayaquil
   | Barcelona | Barcelona SC Guayaquil
   | Barcelona SC | Barcelona Sporting Club
   | Barcelona G.
+  | Barcelona Guaya.
+  | Barcelona de Guayaquil
+
 Guayaquil City FC,            Guayaquil
   | Guayaquil City
 
+
 CSD Macará,       Ambato
   | Macará
+  | Club Social y Deportivo Macará
+
+
 Mushuc Runa SC,   Ambato
   | Mushuc Runa
+  | Mushuc Runa Sporting Club
+
+
 CD Técnico Universitario,   Ambato
   | Técnico Universitario
+  | CD Tecnico Univers.
+  | CD Tecnico Uni.
+  | Club Deportivo Técnico Universitario
 
-LDU Loja,                     Loja
+
+LDU Loja,        Loja
   | LDU de Loja | Liga de Loja | Liga Deportiva Universitaria de Loja
 
 Delfín SC,         Manta
   | Delfín
+  |   Delfín Sporting Club
+
+Orense,  Machala
+  | Orense SC
+  | Orense Sporting Club
+
+Libertad, Loja
+  | Libertad Loja
+  | Libertad de Loja
+  | Libertad Fútbol Club
+
+Imbabura, Ibarra
+  | Imbabura SC
+  | Imbabura Sporting Club 
+
+
 CD Cuenca,         Cuenca
   | Deportivo Cuenca
+  | Club Deportivo Cuenca 
+
+
 Fuerza Amarilla SC,   Machala
   | Fuerza Amarilla
 
@@ -51,6 +99,7 @@ Independiente del Valle,  1958,  Sangolquí
   | Independiente
   | CSD Independiente del Valle
   | CAR Independiente del Valle
+  | Club de Alto Rendimiento Especializado Independiente del Valle
 ## note CAR = Club de Alto Rendimiento Especializado
 ##      CSD = Club Social y Deportivo
 #  In 1977, two years after the death of José Terán, the club's name was changed to 
