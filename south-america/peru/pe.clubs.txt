@@ -70,7 +70,7 @@ Alianza Atlético,  1920,     Sullana
 
 Los Chankas,  1989, Andahuaylas
   | Club Deportivo Los Chankas
-  | Los Chankas CY
+  | Los Chankas CYC
   | Club Deportivo Los Chankas CYC # or Club Deportivo Los Chankas - CYC
   | Cultural Santa Rosa    # known as until 2021
 
@@ -85,4 +85,3 @@ ADT Tarma, Tarma
   | Asociación Deportiva Tarma
   | ADT
   | AD Tarma
-  
