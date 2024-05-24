@@ -25,8 +25,14 @@ Sport Huancayo,   Huancayo
 Alianza Universidad,  Huánuco
   | Ali. Univ. Huánuco
 
+
 Real Garcilaso,   Cusco
   | Asociación Civil Real Atlético Garcilaso
+
+Deportivo Garcilaso,  Cusco
+  | Dep. Garcilaso
+  | Club Deportivo Garcilaso
+
 
 Universidad César Vallejo, Trujillo
   | César Vallejo | Club Deportivo Universidad César Vallejo
@@ -55,3 +61,26 @@ Universidad Técnica de Cajamarca, Cajamarca
 
 Club Atlético Grau, 1919,  Piura
   | Atlético Grau
+
+
+Alianza Atlético,  1920,     Sullana
+  | Club Alianza Atlético de Sullana
+  | Club Sport Alianza Atlético de Sullana
+
+
+Los Chankas,  1989, Andahuaylas
+  | Club Deportivo Los Chankas
+  | Los Chankas CY
+  | Club Deportivo Los Chankas CYC # or Club Deportivo Los Chankas - CYC
+  | Cultural Santa Rosa    # known as until 2021
+
+
+Comerciantes Unidos,   2002,  Cutervo
+  | Club Deportivo Comerciantes Unidos
+  | Comerciantes Uni
+  | Asociación Social Deportiva y Cultural Comerciantes Unidos
+
+
+ADT Tarma, Tarma
+  | Asociación Deportiva Tarma
+  | ADT
