@@ -84,3 +84,5 @@ Comerciantes Unidos,   2002,  Cutervo
 ADT Tarma, Tarma
   | Asociación Deportiva Tarma
   | ADT
+  | AD Tarma
+  
