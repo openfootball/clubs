@@ -43,9 +43,12 @@ CD Antofagasta,          Antofagasta
   | Deportes Antofagasta
 Everton de Viña del Mar,  Viña del Mar
   | Everton | Everton Viña d. Mar
+  | Evert. V.d.Mar
+
 O'Higgins FC,           Rancagua
   | O'Higgins
 Unión La Calera,     La Calera
+  | Un. La Calera
 CD Universidad de Concepción,      Concepción
   | Univ. d. Concepción | Universidad de Concepción
 Deportes Vallenar,   Vallenar

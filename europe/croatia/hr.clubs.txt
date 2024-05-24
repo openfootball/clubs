@@ -40,8 +40,20 @@ NK Varaždin
   | NK Varaždin ŠN
 
 
-HNK Rijeka
+HNK Rijeka,   Rijeka
   | Rijeka | NK Rijeka
+
+HNK Orijent,   Rijeka (Sušak)
+  | Hrvatski nogometni klub Orijent
+  | HNK Orijent 1919
+##   a phoenix club of NK Orijent which ceased activities in 2014
+##   due to financial difficulties. 
+## The club is resurrected the same year under the new name, 
+## HNK Orijent 1919, 
+## but in September 2022 club assembly decided to bring back 
+## an old name, HNK Orijent
+
+
 NK Osijek
   | Osijek
 HNK Cibalia
@@ -65,3 +77,11 @@ NK Međimurje Čakovec,   Čakovec
 
 NK Kamen Ingrad (1929-2008),  Velika
   | Kamen Ingrad
+
+HNK Vukovar 1991, Vukovar
+  | Hrvatski nogometni klub Vukovar 1991
+  | NK Vukovar 1991 
+  | Vukovar 1991
+
+
+

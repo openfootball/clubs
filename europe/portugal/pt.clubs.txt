@@ -137,6 +137,7 @@ Desportivo de Chaves, Chaves
   | Desp. Chaves
 CF Estrela da Amadora, Amadora
   | Est Amadora | Estrela Amadora
+  | CF Estrela
 
 SC Farense, 1910, Faro
   | Farense

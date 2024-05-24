@@ -1,13 +1,28 @@
 ============================
 =  Panama
 
-Chorrillo FC,     city:panama
+Chorrillo FC,     Panama
   | Chorrillo
-Tauro FC,         city:panama
+Tauro FC,         Panama
   | Tauro
-Club Deportivo Árabe Unido,  city:colon
+
+Club Deportivo Árabe Unido,  Colón
   | Árabe Unido | Árabe U.
-San Francisco FC,   city:lachorrera
+
+
+San Francisco FC,  La Chorrera
   | San Francisco | San Francisco Fútbol Club de La Chorrera
+
+CA Independiente de La Chorrera, La Chorrera
+  | Club Atlético Independiente de La Chorrera, 
+  | CAI 
+  | CAI de La Chorrera
+  | Indep. Chorrera
+  | Independiente
+  | CA Independiente 
+
+
 Sporting San Miguelito
   | Sporting SM
+
+

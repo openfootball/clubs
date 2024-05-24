@@ -4,6 +4,8 @@
 
 FC Dinamo Tbilisi, Tbilisi,  Tbilisi
   | Dinamo Tbilisi
+  | FC Dinamo Tiflis [de]
+  
 FC Locomotive Tbilisi,   Tbilisi
   | Locomotive Tbilisi
   | FC Lokomotive Tbilisi

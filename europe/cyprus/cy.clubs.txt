@@ -12,12 +12,15 @@ Olympiakos Nicosia FC,  Nicosia
   | Olympiakos Nicosia
   | Olympiakos Nikosia
 
+
 AEL Limassol,            Limassol     # romanized: Lemesós
   | AEL | AEL Limassol FC | Athlitiki Enosi Lemesou
 Apollon Limassol FC,     Limassol
   | Apollon | Apollon L. | Apollon Limassol
   | Apollon FC Lemesós
-
+Aris Limassol FC,     Limassol
+  | Aris Limassol
+  | Aris Limassol Football Club
 
 
 Karmiotissa Pano Polemidia,  Limassol (Pano Polemidia)

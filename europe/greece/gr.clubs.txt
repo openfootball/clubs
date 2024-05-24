@@ -36,6 +36,13 @@ Egaleo FC, Athens   ## Egaleo - a suburb of Athens
 Ethnikos Asteras FC, Athens   ## Kaisariani - a suburban town and a municipality in the eastern part of the Athens agglomeration
   | Ethnikos Asteras | Eth Asteras
 
+
+AE Kifisia FC, Athens  ##  Kifissia - a suburban town in the Athens agglomeration
+  | AE Kifisia  
+  | Athlitiki Enosi Kifisia
+
+
+
 Kallithea FC, Kallithea   ## Kallithea - the 4th biggest in the Athens urban area
   | Kalithea | Kallithea
 Thrasyvoulos FC,  Fyli  ##  a town and a municipality in the northwestern part of Attica; a suburb of Athens

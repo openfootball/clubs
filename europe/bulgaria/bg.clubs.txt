@@ -6,6 +6,8 @@ PFC CSKA Sofia, 1948,       Sofia      ## CDNA Sofia old name - add year?
   | CSKA Sofia | CDNA Sofia | PFC CSKA-Sofia | CSKA-Sofia
   | CSKA 1948
   | ZSKA Sofia [de]
+  | CSKA 1948 Sofia [de]
+
 PFC Levski Sofia, 1914,     Sofia
   | Levski Sofia | Levski | Professional Football Club Levski Sofia
   | Levski-Spartak Sofia
@@ -17,6 +19,8 @@ PFC Slavia Sofia, 1913,     Sofia
   | Slavia Sofia | Professional Football Club Slavia Sofia
 PFC Lokomotiv Sofia, 1929,  Sofia
   | Lokomotiv Sofia
+  | Lokomotive Sofia [de]
+ 
 Tsarsko Selo Sofia, 2015,   Sofia
   | FC Tsarsko Selo Sofia
 
@@ -61,10 +65,11 @@ PFC Ludogorets Razgrad, 1945,  Razgrad
 
 PFC Beroe Stara Zagora, 1916,   Stara Zagora
   | Beroe | Professional Football Club Beroe
-  | Beroe Stara Zag.
   | PFC Beroe     # champs (1): 1986/87
   | FC Beroe Stara Zagora
-
+  | Beroe Stara Zagora
+  | Beroe Stara Zag.
+ 
 PFC Lokomotiv Stara Zagora (1934-2009),   Stara Zagora
   | FC Beroe 2000 Kazanlak
 
@@ -101,6 +106,13 @@ FC Etar Veliko Tarnovo
 Vitosha Bistritsa,   Bistritsa    # in Sofia City Province
   | FC Vitosha | FC Vitosha Bistritsa
   | Vitosha Bistrica
+
+
+FC Hebar Pazardzhik,    Pazardzhik
+  | FC Hebar
+  | Hebar Pazardzhik
+  | Football Club Hebar Pazardzhik
+  | FK Hebar Pazardzhi
 
 
 OFC Sliven 2000, 2000, Sliven

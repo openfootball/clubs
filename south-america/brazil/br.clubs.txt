@@ -74,6 +74,13 @@ São José, 1933,  São José
   | São José Esporte Clube
   | São José EC
 
+Grêmio Novorizontino,  2010,  Novo Horizonte  # São Paulo    
+  | Novorizontino
+  | Novorizontino SP
+# note - Not to be confused with Grêmio Esportivo Novorizontino!!
+# it's the spiritual successor to Grêmio Esportivo Novorizontino
+#  which folded in 1999.
+
 
 == Rio de Janeiro ==
 Botafogo RJ,     Rio de Janeiro
@@ -139,6 +146,13 @@ Brasil RS,  Pelotas
 Esporte Clube Juventude, 1913, Caxias do Sul
   | Juventude | Juventude RS
   | EC Juventude
+  | EC Juventude RS
+
+Ypiranga FC,   Erechim
+  | Ypiranga Futebol Clube
+  | Ypiranga de Erechim 
+  | Ypiranga
+  | Ypiranga FC RS
 
 
 == Rio Grande do Norte ==
@@ -146,6 +160,15 @@ América de Natal,  1915,    Natal
   | América Futebol Clube | América FC
   | América RN
   | América Futebol Clube (RN)
+
+
+
+== Paraíba ==
+
+Sousa EC,  Sousa
+  | Sousa Esporte Clube
+  | Sousa
+  | Sousa EC PB
 
 
 == Paraná ==
@@ -182,6 +205,12 @@ Joinville EC,     Joinville
   | JEC | Joinville
   | Joinville Esporte Clube     ## check spelling use ville or vile ?
 
+Brusque FC,  Brusque
+  | Brusque Futebol Clube
+  | Brusque
+  | Brusque FC SC
+
+
 == Pernambuco ==
 Sport Recife,    Recife
   | Sport | SC Recife | Sport Club Recife | Sport Club do Recife
@@ -205,6 +234,7 @@ Goiás EC,       Goiânia
 Atlético GO,   Goiânia
   | Atl. Goianiense | Atlético Goianiense
   | AC Goianiense | Atlético Clube Goianiense
+  | Atl. Goianense GO
 Vila Nova GO,  Goiânia
   | Vila Nova | Vila Nova de Goias | Vila Nova FC | Vila Nova Futebol Clube
 
@@ -264,3 +294,10 @@ Brasiliense FC,  2000,     Taguatinga
 Brasília FC,  1975, Brasília
   | Brasília | Brasília Futebol Clube
 
+
+== Amazonas ==
+
+Amazonas FC,  Manaus
+ | Amazonas Futebol Clube
+ | Amazonas
+ | Amazonas FC AM

@@ -28,8 +28,14 @@ FK Čukarički, 1926,   Belgrade (Čukarica)
 FK Bežanija,  1921,   Belgrade (New Belgrade)
   | Fudbalski Klub Bežanija
 
+FK Novi Beograd, Belgrade
+
+
 FK Obilić (1924-2015),  Belgrade
   | Obilić | Obilić Belgrade
+
+
+
 
 FK Vojvodina,  Novi Sad
   | Vojvodina
@@ -83,8 +89,17 @@ FK Voždovac
 FK Indjija
   | Indjija | FK Inđija
 
-FK Javor
+
+FK Javor Ivanjica, 	Ivanjica	
+  | FK Javor
   | Javor
+  | FK Javor Matis Ivanjica  # use FK Javor Matis - Ivanjica ???
+  | Javor-Matis
+
+FK Novi Pazar,  Novi Pazar
+  | Fudbalski klub Novi Pazar 
+
+
 FK Proleter
   | Proleter
 FK Radnik Surdulica

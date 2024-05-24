@@ -39,6 +39,10 @@ Budapesti VSC, 1911,    Budapest (Zugló)
 Budafoki MTE,  1912,   Budapest (Budafok)
   | BMTE | Budafoki Munkás Testedző Egyesület
 
+Vasas SC,  Budapest
+  | Vasas Futball Club
+  | SC Vasas Budapest
+
 
 
 Vác FC,   Vác
@@ -77,8 +81,14 @@ Paksi SE
 Kecskeméti TE
   | Kecskemét
 
-Szombathelyi Haladás
+Szombathelyi Haladás,    Szombathely
   | Haladás
+  | Haladás Szombathely
+  | Haladás Szombat.
+  | Haladás VSE                 # formerly
+  | Haladás Vasutas Sport Egyesület   
+
+
 Zalaegerszegi TE
   | Zalaegerszeg
 
@@ -150,3 +160,7 @@ Kisvárda FC,  Kisvárda
   | Kisvárda | Kisvárda Futball Club
   | Varda | Varda SE
 
+
+Nyíregyháza Spartacus,   Nyíregyháza
+  | Nyíregyháza FC 
+  | Nyíregyháza Spartacus Football Club

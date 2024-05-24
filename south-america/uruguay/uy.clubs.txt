@@ -24,7 +24,10 @@ Centro Atlético Fénix, 1916,   Montevideo
 CS Miramar Misiones, 1906,     Montevideo
   | Miramar Misiones | Club Sportivo Miramar Misiones
 Montevideo Wanderers, 1902,    Montevideo
-  | Wanderers | Montev. Wanderers | Montevideo Wanderers FC | Montevideo Wanderers Fútbol Club
+  | Wanderers  | Montevideo Wanderers FC 
+  | Montevideo Wanderers Fútbol Club
+  | Montev. Wanderers
+  | Montev. Wand.
 Racing CM, 1919,               Montevideo
   | Racing | Racing Club de Montevideo
   | RC Montevideo

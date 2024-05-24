@@ -120,6 +120,7 @@ Deportivo Morón,  Morón
   | Club Deportivo Morón
 Platense, Florida Este
   | Club Atlético Platense
+  | CA Platense
 Santamarina,  Tandil
   | Club y Biblioteca Ramón Santamarina
 Villa Dálmine,  Campana
@@ -238,10 +239,13 @@ Crucero del Norte, Garupá › Misiones
 == Provincia Santiago del Estero ==
 
 Central Córdoba,     Santiago del Estero › Santiago del Estero
-  | CC Córdoba | CA Central Córdob | Club Atlético Central Córdoba
+  | CC Córdoba  | Club Atlético Central Córdoba
   | Central Córdoba de Santiago del Estero
   | Central Córdoba (SdE)
   | Central Córdoba (Santiago del Estero)
+  | CA Central Córdoba
+  | CA Central Córdob.
+
 
 Mitre,            Santiago del Estero
   | Mitre (SdE) | Mitre (Santiago del Estero)

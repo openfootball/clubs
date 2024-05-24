@@ -15,6 +15,14 @@ Glentoran FC,   Belfast
 Crusaders FC,  Belfast
   | Crusaders | Crusaders Belfast
 
+Newington FC, Belfast (Newington)
+  | Newington Football Club
+  
+Knockbreda FC, Belfast 
+  | Knockbreda
+  | Knockbreda Football Club
+  | Breda
+
 
 Cliftonville FC
   | Cliftonville
@@ -22,6 +30,7 @@ Cliftonville FC
 
 Portadown FC
   | Portadown   # champs (3): 2002/03 1992..1990 (2)
+  | FC Portadown
 
 Lisburn Distillery FC, 1880,  Ballyskeagh
   | Lisburn Distillery    # champs (1): 1963/64
@@ -38,8 +47,9 @@ Ballymena United FC,  1928, Ballymena
 Ballinamallard United FC,  Ballinamallard
   | Ballinamallard United
 
-Dungannon Swifts FC
+Dungannon Swifts FC,    Dungannon
   | Dungannon | Dungannon Swifts
+  | FC Dungannon
 
 Larne FC
   | Larne
@@ -53,12 +63,17 @@ Warrenpoint Town FC
 
 Ards FC,  1900     #  champs (1): 1958/59
   | Ards
+  | FC Ards
+
 
 Bangor FC,   Bangor
+  | FC Bangor
   ## note: not to confuse with Bangor City in Wales!! - fix error in champs.txt!!
 
 
 Newry City AFC,  Newry
 
 
-
+Loughgall FC,  Loughgall
+  | Loughgall
+  | Loughgall Football Club 

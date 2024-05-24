@@ -51,3 +51,6 @@ Royal AM, Durban
   | Royal AM Football Club
   | Royal AM FC
 
+Richards Bay FC,   Richards Bay  # in KwaZulu-Natal
+  | Richards Bay Football Club 
+

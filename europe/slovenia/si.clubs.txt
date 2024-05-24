@@ -58,3 +58,8 @@ NK Izola (1923-1996),  Izola
   | Nogometni Klub Izola
 # Note: For the currently active club, see MNK Izola
 
+NK Rogaška,   Rogaška Slatina
+ | Nogometni klub Rogaška 
+ | Rogaška
+ 
+ 

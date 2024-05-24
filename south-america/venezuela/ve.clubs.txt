@@ -19,6 +19,7 @@ Atlético Venezuela,     Caracas     ##  location use Maiquetía ???
 Deportivo Táchira,     San Cristóbal
   | Dvo. Táchira | Deportivo Táchira Fútbol Club
   | Deportivo Táchira FC
+  | Dep. Táchira
   | Táchira
 
 
@@ -66,3 +67,6 @@ Monagas Sport Club,  Maturín
   | Monagas | Monagas SC
 Portuguesa FC,       Acarigua
   | Portuguesa
+
+Rayo Zuliano,  Maracaibo
+  | Deportivo Rayo Zuliano

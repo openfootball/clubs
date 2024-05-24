@@ -70,6 +70,13 @@ Tuzlaspor,  İstanbul (Tuzla)
 Pendikspor,   1950,  İstanbul (Pendik)
   | Pendik Spor Kulubü
 
+Karagümrük,   Istanbul (Karagümrük)  # Karagümrük neighbourhood Fatih district   
+  | Fatih Karagümrük Spor Kulübü
+
+Eyüpspor,   Istanbul (Eyüp)
+  | Eyüp Spor Kulübü
+
+
 
 
 Gençlerbirliği Ankara SK, 1923,   Ankara
@@ -112,6 +119,12 @@ Petrol Ofisi SK (1954-2010),  Ankara
 Keçiörengücü,  Ankara
   | Keçiörengücü SK
   | Keciöerengücü [de]
+
+
+
+Ankara Keçiörengücü,  Keçiören   ## ›  Ankara  
+  | Ankara Keçiörengücü Spor Kulübü
+
 
 Kardemir Karabükspor,  Karabük
   | Karabükspor
@@ -206,9 +219,6 @@ Balıkesirspor,       Balıkesir
 Mersin İdmanyurdu,   Mersin
   | Mersin İdman Yurdu
 
-BB Erzurumspor,     Erzurum
-  | Erzurum BB | Büyükşehir Belediye Erzurumspor
-
 Denizlispor,  1966,    Denizli
   | Denizlispor Kulübü
 
@@ -231,8 +241,18 @@ Akçaabat Sebatspor, 1923, Akçaabat
 Yozgatspor, 1959, Yozgat
   | Yozgatspor Kulübü
 
-Erzurumspor (1968-2015), Erzurum
+
+Erzurumspor,   Erzurum
+  | BB Erzurumspor | Erzurum BB | Büyükşehir Belediye Erzurumspor
   | Erzurum
+  | Erzurumspor FK
+  | Erzurumspor Futbol Kulübü
+## changes/founded/name history:
+# 2005 - Erzurum Büyükşehir Belediyespor
+# 2014 - Büyükşehir Belediye Erzurumspor
+# 2022 -  Erzurumspor Futbol Kulübü
+
+
 
 Siirtspor,  Siirt
   | Siirt SK | Siirt Jet-PA
@@ -252,4 +272,23 @@ Erzincanspor,  Erzincan
 
 Hatayspor,  1967,  Antakya       # Hatay Province
   | Hatayspor Antakya
+
+
+
+Bandırmaspor,  Bandırma   ## ›  Balıkesir
+
+Çorum,  Çorum   ## ›  Çorum
+  |  Çorum Futbol Kulübü 
+
+Manisa,  Manisa  ## ›  Manisa  
+  | Manisa FK
+  | Manisa Futbol Kulübü
+  | Manisa Büyükşehir Belediyespor  # formerly
+
+
+Bodrum,  Bodrum   ## ›  Muğla  
+  | Bodrumspor
+  | Bodrum Futbol Kulübü 
+
+Şanlıurfaspor,  Şanlıurfa   ## ›  Şanlıurfa
 
