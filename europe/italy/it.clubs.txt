@@ -84,8 +84,8 @@ Hellas Verona, 1903,     Verona
 AC Chievo Verona, Verona
   | Chievo | Chievo Verona | Associazione Calcio Chievo Verona
 
-Venezia, 1907,       Venezia
-  | Venezia FC | Venezia Football Club
+Venezia FC, 1907,     Venezia
+  | Venezia | Venezia Football Club
   | SSC Venezia | Società Sportiva Calcio Venezia
   | FBC Unione Venezia | Foot Ball Club Unione Venezia
 # In the summer 2005 the club was refounded as SSC Venezia or Società Sportiva Calcio Venezia
@@ -127,8 +127,9 @@ SSC Napoli,     Napoli
   | Napoli | Società Sportiva Calcio Napoli
   | SSC Neapel [de]
 
-Benevento, 1929,        Benevento
-  | Benevento Calcio
+Benevento Calcio, 1929,        Benevento
+  | Benevento
+
 
 Avellino, Avellino
   | US Avellino | US Avellino 1912 | Unione Sportiva Avellino 1912
@@ -188,8 +189,9 @@ ACF Fiorentina, Firenze
   | AC Fiorentina
   | AC Florenz [de]
 
-Empoli, Empoli
-  | Empoli FC | Empoli Football Club | FC Empoli
+Empoli FC, Empoli
+  | Empoli | Empoli Football Club | FC Empoli
+
 
 SS Robur Siena, Siena
   | Siena | AC Siena | Associazione Calcio Siena
@@ -220,8 +222,9 @@ Cagliari Calcio, Cagliari
 
 == ?? ==
 
-Frosinone, Frosinone
-  | Frosinone Calcio
+Frosinone Calcio, Frosinone
+  | Frosinone
+  
 Novara, Novara
   | Novara Calcio
 
@@ -234,9 +237,9 @@ Palermo FC,   Palermo
 #  the club changed its name to Palermo Football Club.
 
 
-Parma, Parma
+Parma Calcio, Parma
   | Parma FC | FC Parma | Parma Football Club
-  | Parma Calcio | Parma Calcio 1913
+  | Parma | Parma Calcio 1913
   | AC Parma
 
 AC Perugia, 1905,  Perugia
@@ -257,8 +260,9 @@ Salernitana, Salerno
   | Salernitana Calcio 1919
 
 
-Spezia, La Spezia
-  | Spezia Calcio
+Spezia Calcio, La Spezia
+  | Spezia
+
 Ternana, Terni
   | Ternana Calcio
 

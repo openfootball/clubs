@@ -84,6 +84,11 @@ VV IJsselmeervogels      #  from Bunschoten - Spakenburg
 == Friesland ==
 SC Cambuur, 1964,   Leeuwarden › Friesland
   | Cambuur
+  | Cambuur Leeuwarden
+  | SC Cambuur-Leeuwarden
+  | Sportclub Cambuur
+  | SCC
+
 
 SC Heerenveen, 1920,   Heerenveen
   | Heerenveen | Sportclub Heerenveen

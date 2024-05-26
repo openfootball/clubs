@@ -61,8 +61,8 @@ Penybont FC
 # note: welsh clubs playing in english premiere league or championship etc. listed here
 # note: teams in english premier league & english league (championship, etc.) !!!!
 
-Swansea City FC, 1912,     @ Liberty Stadium, Swansea
-  | Swansea | Swansea City | Swansea City AFC
+Swansea City AFC, 1912,     @ Liberty Stadium, Swansea
+  | Swansea | Swansea City | Swansea City FC 
 
 Cardiff City FC,  @ Cardiff City Stadium, Cardiff
   | Cardiff | Cardiff City
