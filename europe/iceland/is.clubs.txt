@@ -73,6 +73,7 @@ Knattspyrnufélag Fjallabyggðar,  Fjallabyggð  # from the towns Ólafsfjörðu
 
 UMF Afturelding,    Mosfellsbær
   | Ungmennafélagið Afturelding
+  | Afturelding
 
 ÍF Vestri
 
