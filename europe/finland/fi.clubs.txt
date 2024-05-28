@@ -5,6 +5,12 @@
 HJK Helsinki,     Helsinki
   | HJK | Helsingin Jalkapalloklubi
   | Helsingin JK
+
+Klubi 04, Helsinki   # is the reserve team of HJK Helsinki
+  | Talenttiklubi Klubi 04
+  | HJK Klubi 04
+
+
 HIFK Helsinki,    Helsinki
   | HIFK | HIFK Fotboll | IFK Helsingfors
   | Helsingfors IFK   # champs (2): 1962/63 1960/61
@@ -19,6 +25,12 @@ Finnairin Palloilijat Helsinki (1965-1998), Helsinki
 
 FC Jokerit (1999-2004),   Helsinki
 
+IF Gnistan,   Helsinki (Oulunkylä)
+
+KäPa, Helsinki (Käpylä)
+  | Käpylän Pallo
+
+    
 
 FC Haka Valkeakoski,    Valkeakoski
   | Haka Valkeakoski | Valkeakosken Haka
@@ -91,8 +103,15 @@ SJK Seinäjoki,      Seinäjoki
   | Seinäjoki
   | SJK | Seinäjoen Jalkapallokerho
   | Seinäjoen JK
+
+
 Vaasan Palloseura,    Vaasa
   | VPS | VPS Vaasa | Vaasa PS | Vaasan PS
+
+Vasa IFK,  Vaasa
+  | VIFK
+  | Idrottsföreningen Kamraterna Vasa
+
 
 FC Haka, Valkeakoski
   | Haka
@@ -126,7 +145,14 @@ OPS Oulu,   Oulu    #  champs (2): 1982..1980 (2)
 
 Mikkelin Palloilijat, 1929, Mikkeli
   | MP | MP Mikkeli
+  | Mikkelin Pall.
+
+
+Järvenpään Palloseura, 1947, Järvenpää
+  | JäPS
+  | Järvenpään PS
 
 
 AC Vantaan Allianssi (2002-2006),  Vantaa
   | AC Allianssi
+

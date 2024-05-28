@@ -21,6 +21,10 @@ Víkingur Reykjavík, Reykjavík
 Fjölnir Reykjavík, Reykjavík
   | Fjölnir | Ungmennafélagið Fjölnir
 
+Throttur Reykjavik, Reykjavík
+ | Þróttur Reykjavík
+ | Knattspyrnufélagið Þróttur 
+
 
 Grótta,   Seltjarnarnes
   | Íþróttafélagið Grótta
@@ -66,3 +70,10 @@ Knattspyrnufélag Fjallabyggðar,  Fjallabyggð  # from the towns Ólafsfjörðu
   | Leiftur
 # 2010: formerly two clubs
 #   Leiftur and Knattspyrnufélag Siglufjarðar (KS)
+
+UMF Afturelding,    Mosfellsbær
+  | Ungmennafélagið Afturelding
+
+ÍF Vestri
+
+

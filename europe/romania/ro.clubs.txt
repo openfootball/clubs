@@ -220,6 +220,18 @@ FCM Bacău,  1950,   Bacău
   | FCM 1950 Bacău | ASS FCM 1950 Bacău
 
 
+FK Csíkszereda Miercurea Ciuc,  Miercurea Ciuc  
+  | Csíkszereda Miercurea Ciuc
+  | Csíkszereda
+  | Csiksz. M. Ciuc
+  | Asociația Futball Klub Csíkszereda Miercurea Ciuc
+
+
+CS Corvinul Hunedoara,     Hunedoara   
+  | Corvinul Hunedoara
+  | Corvinul
+  | Corv. Hunedoara
+  | Clubul Sportiv Corvinul 1921 Hunedoara
 
 
 Chimia Râmnicu Vâlcea (1946-2004),  Râmnicu Vâlcea

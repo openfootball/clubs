@@ -125,6 +125,11 @@ FC Sliven (-2000), Sliven
 
 
 
+FC Krumovgrad,   Krumovgrad
+  | Football Club Krumovgrad 1925
+
+
+
 PFC Marek Dupnitsa,   1919, Dupnitsa
   | FC Marek | FC Marek Dupnitsa
   | Marek Dupnitza

@@ -54,3 +54,6 @@ Royal AM, Durban
 Richards Bay FC,   Richards Bay  # in KwaZulu-Natal
   | Richards Bay Football Club 
 
+TS Galaxy FC,  Kameelrivier   #  (Nkangala District Municipality) near Siyabuswa (Mpumalanga)
+  | TS Galaxy
+  

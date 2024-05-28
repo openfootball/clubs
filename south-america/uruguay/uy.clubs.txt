@@ -42,6 +42,11 @@ CA Progreso,                   Montevideo
   | Progreso
 Rampla Juniors,                Montevideo
   | Rampla Juniors FC
+Montevideo City,               Montevideo 
+  | Montevideo City Torque
+  | Torque
+# Founded in 2007 as Club Atlético Torque
+
 
 Juventud de Las Piedras, 1935,    Las Piedras
   | Juventud | Juventud Piedras | Club Atlético Juventud de Las Piedras

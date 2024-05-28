@@ -75,6 +75,7 @@ Club Aurora,               Cochabamba
 
 Universitario de Vinto,	 Cochabamba
   | Uni. de Vinto
+  | Univer. de Vinto
   | FC Universitario
   | Fútbol Club Universitario de Vinto
 
@@ -93,6 +94,7 @@ Universitario de Sucre,   Sucre
 Independiente Petrolero, 	Sucre
   |  Independiente
   | Club Independiente Petrolero
+  | Indep. Petrolero
 
 
 Sport Boys Warnes,       Warnes
