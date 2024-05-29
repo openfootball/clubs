@@ -8,6 +8,7 @@ FC Dynamo Kyiv,  Kyiv
   | Dinamo Kiev
   | Dynamo Kiew [de] | FC Dynamo Kiew [de]
   | FK Dynamo Kyiv
+  | Futbolnyy Klub Dynamo (Kyiv)
 
 FC Arsenal Kyiv,  Kyiv
   | Arsenal Kyiv
@@ -15,8 +16,11 @@ FC Arsenal Kyiv,  Kyiv
   | Arsenal Kiev | FC Arsenal Kiev
 
 
-FC Obolon Kyiv
-  | Obolon'
+FC Obolon Kyiv,  Kyiv
+  | Obolon
+  | Obolon Kyiv
+  | Futbolnyi Klub Obolon Kyiv
+
 
 
 FC Shakhtar Donetsk,  Donetsk
@@ -24,6 +28,7 @@ FC Shakhtar Donetsk,  Donetsk
   | Schachtjor Donezk
   | Schachtar Donezk
   | FK Shakhtar Donetsk
+  | Futbolnyy Klub Shakhtar (Donetsk)
 
 FC Metalurh Donetsk,  Donetsk
   | Metalurh Donetsk
@@ -36,6 +41,9 @@ FC Olimpik Donetsk,  Donetsk
 FC Metalist Kharkiv,    Kharkiv    ## also known as Kharkov
   | Metalist | Metalist Kharkiv
   | Metalist Kharkov
+  | Metalist 1925 Kharkiv
+  | Futbolnyy Klub Metalist 1925 Kharkiv
+
 
 FC Dnipro,    Dnipropetrovsk
   | Dnipro | FC Dnipro Dnipropetrovsk | Dnipro Dnipropetrovsk
@@ -46,11 +54,13 @@ FC Dnipro,    Dnipropetrovsk
 SC Dnipro-1,  2017,  Dnipropetrovsk      ## todo/check - differnt from FC Dnipro ???
   | Dnipro-1 | Sport Club Dnipro-1
   | SK Dnipro-1
+  | Sportynyy Klub Dnipro-1
 
 FC Vorskla Poltava
   | Vorskla
   | Vorskla Poltava
   | Vorskla Poltawa [de]
+  | Futbolnyy Klub Vorskla (Poltava)
 
 FC Karpaty Lviv, 1963, Lviv
   | Karpaty
@@ -59,6 +69,10 @@ FC Karpaty Lviv, 1963, Lviv
 
 FC Lviv, 2006, Lviv
   | FK Lviv
+
+FC Rukh Lviv,  Lviv
+  | Rukh Lviv
+  | Futbolnyy Klub Rukh Lviv 
 
 
 SC Tavriya Simferopol
@@ -70,7 +84,9 @@ SC Tavriya Simferopol
 FC Zorya Luhansk
   | Zorya | Zorya Luhansk
   | Zorya Lugansk [de] | FC Zorya Lugansk [de]
+  | Futbolnyy Klub Zorya (Luhansk)
   | Zorya Voroshilovgrad   # champs (1): 1973/74
+
 
 FC Mariupol
   | Mariupol
@@ -82,13 +98,16 @@ FC Olexandriya
   | Oleksandriya
   | FC Oleksandriya
   | Oleksandria [de] | FC Oleksandria [de]
+  | Futbolnyy Klub Oleksandriya
+
 
 FC Chornomorets Odesa
   | Chornomorets Odesa
   | Chernomorets Odesa
   | Chernomorets Odessa
   | Chernom. Odessa [de]
-
+  | Chornomorets Odessa
+  | Futbolnyi Klub Chornomorets Odessa
 
 Desna Chernihiv
   | Desna
@@ -100,6 +119,7 @@ Desna Chernihiv
 
 Kolos Kovalivka
   | FC Kolos Kovalivka
+  | Futbolnyy Klub Kolos Kovalivka
 
 
 FC Volyn Lutsk, Lutsk
@@ -114,11 +134,28 @@ FC Kryvbas Kryvyi Rih, 1959,  Kryvyi Rih
   | Kryvbas
   | FK Krivbas
   | Futbolniy Klub Krivbas Kriviy Rig
+  | Kryvbas Kryvyi Rih
+  | Futbolnyy Klub Kryvbas (Kryvyi Rih)
 
 
 NK Veres Rivne,  1957, Rivne
   | Veres Rivne
   | Narodnyy Klub Veres Rivne
+
+
+
+LNZ Cherkasy,   Cherkasy  
+  | FC LNZ Cherkasy
+  | Futbolnyi Klub LNZ Cherkasy
+  | LNZ
+
+
+FC Mynai,  Mynai	
+  | Futbolnyy Klub Mynai
+
+
+Polissya Zhytomyr,  Zhytomyr
+  | Futbolnyi Klub Polissya Zhytomyr
 
 
 FC Zirka Kropyvnytskyi,  1911,   Kropyvnytskyi   # in Kirovohrad Oblast

@@ -83,6 +83,7 @@ RCD Espanyol, Barcelona
   | Real CD Espanyol | Real Club Deportivo Espanyol
   | Español | Real Club Deportivo Español
   | RCD Espanyol de Barcelona
+  | Reial Club Deportiu Espanyol de Barcelona
 
 Gimnàstic Tarragona, Tarragona
   | Gimnàstic
@@ -116,6 +117,7 @@ SD Compostela,  Santiago de Compostela
   | Compostela
 Racing Ferrol,  Ferrol
   | Ferrol
+  | Racing Club de Ferrol
 
 
 == Comunidad Valenciana ==
@@ -134,12 +136,15 @@ CD Alcoyano,    Alcoy
   | Alcoyano
 Elche CF,       Elche
   | Elche
+  | Elche Club de Fútbol
   | FC Elche [de]
+
 CD Castellón,   Castellón de la Plana
   | Castellón
 
 Villarreal CF,    Villarreal
   | Villarreal | FC Villarreal
+  | Villarreal Club de Fútbol
   | Villareal      ## fix (allow) typo Villareal
 ii) Villarreal CF B
   | Villarreal B
@@ -147,7 +152,7 @@ ii) Villarreal CF B
 
 CD Eldense,   1921,  	Elda
   | Club Deportivo Eldense
-
+  | Eldense
 
 
 == País Vasco ==
@@ -205,6 +210,7 @@ Mérida AD, 2013,   Mérida     # Successor of CP Mérida, founded in 1912
 
 Burgos CF,   Burgos
   | Burgos
+  | Burgos Club de Fútbol
 CD Mirandés, Miranda de Ebro
  | Mirandés | Club Deportivo Mirandés
 
@@ -223,7 +229,7 @@ CF Ciudad de Murcia, Murcia
 
 FC Cartagena,  Cartagena
   | Cartagena
-
+  | Fútbol Club Cartagena
 
 == Aragón ==
 
@@ -232,7 +238,7 @@ Real Zaragoza,  Zaragoza
   | Real Saragossa [de]
 SD Huesca, Huesca
   | Huesca
-
+  | Sociedad Deportiva Huesca
 
 == Islas Canarias ==
 
@@ -371,3 +377,9 @@ CD Becerril,   Becerril de Campos
 UD Melilla,  Melilla
   | Union Deportiva Melilla
   | Melilla UD
+
+SD Amorebieta,  Amorebieta-Etxano  # in the Basque Country
+   | Amorebieta
+   | Sociedad Deportiva Amorebieta
+
+

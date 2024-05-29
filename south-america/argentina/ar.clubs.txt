@@ -28,7 +28,8 @@ Vélez Sarsfield,    Buenos Aires
   | Vélez | Vélez Sarsf | Velez Sarsfield | CA Vélez
   | CA Vélez Sarsfield | Club Atlético Vélez Sarsfield
 Huracán,            Buenos Aires
-  | CA Huracán | Club Atlético Huracán
+  | CA Huracán 
+  | Club Atlético Huracán
 Nueva Chicago,   Buenos Aires
   | Club Atlético Nueva Chicago
 Atlanta,           Buenos Aires (Villa Crespo)
@@ -74,6 +75,8 @@ Estudiantes LP, La Plata › Buenos Aires
   | Estudiantes de La Plata
   | Estudiantes
   | Estudiantes BA    ## todo/check: remove? - confusion/conflict with Estudiantes Buenos Aires (see above)??
+  | Estudiantes (La Plata)
+
 
 Gimnasia y Esgrima LP,  La Plata › Buenos Aires
   | GELP | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata
@@ -187,6 +190,7 @@ Godoy Cruz,  1921,  Mendoza       # Godoy Cruy is a city in Greater Mendoza
   | Club Deportivo Godoy Cruz Antonio Tomba
   | CD Godoy Cruz Antonio Tomba
   | CD Godoy Cruz AT
+  | Godoy Cruz (Mendoza)
   
 Gimnasia y Esgrima de Mendoza,   Mendoza
   | Gimnasia (Mendoza)
@@ -194,6 +198,7 @@ Gimnasia y Esgrima de Mendoza,   Mendoza
 
 Independiente Rivadavia,  Mendoza
   | Club Sportivo Independiente Rivadavia
+  | Independiente Rivadavia (Mendoza)
 
 
 == Provincia San Juan ==

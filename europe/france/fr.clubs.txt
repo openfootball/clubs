@@ -12,6 +12,7 @@ Paris Saint-Germain, 1970, Paris › Île-de-France
 
 Paris FC,            Paris › Île-de-France
   | Paris FC 98
+  | Paris Football Club
 
 ##
 # Red Star History
@@ -37,6 +38,7 @@ FC Versailles,  Paris (Paris 16)
 
 Amiens SC,             Amiens   › Hauts-de-France
   | Amiens
+  | Amiens Sporting Club Football
 FC Chambly, 1989,   Chambly › Hauts-de-France
   | Chambly | Football Club Chambly Oise
 Angers SCO, 1919,            Angers   › Pays de la Loire   ##  Maine-et-Loire > Pays de la Loire
@@ -48,6 +50,8 @@ Girondins de Bordeaux, 1881, Bordeaux › Nouvelle-Aquitaine     ## Gironde > Aq
 
 Stade Malherbe Caen,  1913,   Caen     ## Calvados > Lower Normandy
   | Caen |  SM Caen | Stade Malherbe de Caen
+  | Stade Malherbe Caen-Calvados Basse-Normandie
+
 Dijon FCO, Dijon
   | Dijon | FCO Dijon | Dijon Football | Dijon Football Côte-d'Or
 
@@ -84,7 +88,9 @@ Stade Rennais FC, 1901,   Rennes    ## Ille-et-Vilaine > Brittany
 AS Saint-Étienne, 1919,  Saint-Étienne     ## Loire > Rhône-Alpes
   | St-Étienne | Saint-Étienne
   | AS St-Étienne | AS St. Étienne
+  | Association Sportive de Saint-Étienne
   | Association Sportive de Saint-Étienne Loire
+
 RC Strasbourg, Strasbourg
   | Strasbourg | Racing Strasbourg | RC Strasbourg Alsace
   | Racing Club de Strasbourg Alsace
@@ -135,6 +141,8 @@ US Orléans, Orléans
 US Quevilly-Rouen Métropole,  Petit-Quevilly
   | Quevilly Rouen | Quevilly-Rouen
   | US Quevilly-Rouen
+  | Union sportive Quevilly-Rouen Métropole
+
 FC Sochaux-Montbéliard, Montbéliard
   | Football Club Sochaux-Montbéliard 
   | Football Club de Sochaux-Montbéliard
@@ -150,7 +158,9 @@ AC Arles-Avignon, Avignon
   | Arles | Arles-Avignon | Athletic Club Arles-Avignon
 
 SC Bastia, 1905,  Bastia    ## Haute-Corse > Corsica
-  | Bastia | Sporting Club de Bastia
+  | Bastia 
+  | Sporting Club de Bastia
+  | Sporting Club Bastiais
 
 CA Bastia, Bastia
 
@@ -252,6 +262,8 @@ Angoulême-Soyaux Charente, 1920, Angoulême
 Pau FC,    Pau    # Pyrénées-Atlantiques
   | Pau Football Club
   | FC Pau
+  | Pau
+
 # Bleuets Notre-Dame de Pau (1920-1959)
 # FC Pau (1959-1995)
 

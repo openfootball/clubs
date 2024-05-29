@@ -56,6 +56,8 @@ Atalanta Bergamo,            Bergamo
 
 US Cremonese, Cremona
   | Cremonese
+  | Unione Sportiva Cremonese
+
 Brescia Calcio, Brescia
   | Brescia | Brescia Calc.
 
@@ -181,7 +183,7 @@ AC Cesena (1940-2018), Cesena
 Modena FC, Modena
   | Modena
   | FC Modena
-
+  | Modena Football Club 2018
 
 == Toscana ==       ## Tuscany [en]
 ACF Fiorentina, Firenze
@@ -298,6 +300,7 @@ AC Reggiana, Reggio Emilia
   | Reggiana | AC Reggiana 1919
   | Reggio Audace | Reggio Audace FC
   | Reggio Audace Football Club
+  | Associazione Calcio Reggiana 1919
 
 Urbs Reggina, Reggio Calabria
   | Reggina | Urbs Reggina 1914
@@ -336,7 +339,9 @@ SS Arezzo, Arezzo
   | Arezzo | Società Sportiva Arezzo
   | AC Arezzo | Associazione Calcio Arezzo
 US Catanzaro, Catanzaro
-  | Catanzaro | US Catanzaro 1929
+  | Catanzaro 
+  | US Catanzaro 1929
+  | Unione Sportiva Catanzaro 1929
 
 
 ASD Virtus Bergamo, Alzano Lombardo
@@ -397,11 +402,14 @@ Pro Patria, Busto Arsizio
   | Aurora Pro Patria 1919
 AC Renate, Renate
   | Associazione Calcio Renate
+
 Calcio Lecco, Lecco
   | Calcio Lecco 1912
+  | Lecco
 
 FC Südtirol,  Bolzano    # Bozen [de]
   | Südtirol | Alto Adige
+  | Fußball Club Südtirol
 Feralpisalò,  Salò
   | AC Feralpisalò
 Sambenedettese,  San Benedetto del Tronto

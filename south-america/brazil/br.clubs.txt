@@ -98,6 +98,7 @@ CR Vasco da Gama,   Rio de Janeiro
   | Vasco | Vasco RJ | Vasco da Gama | Vasco da Gama RJ
   | Vasco da Gama Rio de Janeiro
   | Club de Regatas Vasco da Gama
+  | Clube de Regatas Vasco da Gama
 
 America RJ, 1904,  Mesquita
   | America | America Football Club
@@ -108,7 +109,9 @@ America RJ, 1904,  Mesquita
 == Minas Gerais ==
 Atlético MG,    Belo Horizonte
   | Atl. Mineiro | Atlético Mineiro
-  | CA Mineiro | C Atlético Mineiro | Clube Atlético Mineiro
+  | CA Mineiro | C Atlético Mineiro 
+  | Clube Atlético Mineiro
+  | Club Atlético Mineiro
   | Atletico-MG | Atlético/MG
 Cruzeiro MG,    Belo Horizonte
   | Cruzeiro | Cruzeiro EC | Cruzeiro EC MG

@@ -36,10 +36,15 @@ Fenerbahçe İstanbul,  İstanbul
 Galatasaray İstanbul, İstanbul
   | Galatasaray | Galat. İstanbul | Galatasar. İstanbul | Galatasaray AŞ | Galatasaray İstanbul AŞ
   | Galatasaray SK
+  | Galatasaray Spor Külubü 1905
+
 Beşiktaş İstanbul,    İstanbul
   | Beşiktaş | Beşiktaş JK | Beşiktaş İst. | Beşiktaş İstanbul JK
+  | Beşiktaş Jimnastik Külubü
+
 Kasımpaşa İstanbul,   İstanbul (Beyoğlu)
   | Kasımpaşa | Kasımpaşa SK | Kasımpaşa İstanbul SK
+  | Kasımpaşa Spor Kulübü
 
 İstanbul Başakşehir,  İstanbul (Başakşehir)
   | Başakşehir | İ. Başakşehir | İst. Başakş | İstanb. Başakşehir
@@ -49,10 +54,12 @@ Kasımpaşa İstanbul,   İstanbul (Beyoğlu)
   | IBBSK | İstanbul BBSK
   | İstanbul Büyükşehir Belediyespor
   | İstanbul Büyükşehir Belediyesi SK
+  | İstanbul Başakşehir Futbol Kulübü
 
 
 İstanbulspor, 1913, İstanbul
   | İstanbulspor AS
+  | İstanbulspor Kulübü
 
 Sarıyer SK, 1940,       İstanbul (Sarıyer)
   | Sarıyer | Sarıyer Spor Kulübü
@@ -61,6 +68,7 @@ Zeytinburnuspor, 1953,  İstanbul (Zeytinburnu)
 
 Fatih Karagümrük,  İstanbul (Fatih)
   | Fatih Karagümrük SK
+  | Fatih Karagümrük Sportif Faaliyetler
 
 Tuzlaspor,  İstanbul (Tuzla)
 
@@ -91,6 +99,7 @@ Osmanlıspor Ankara,       Ankara
 
 MKE Ankaragücü,           Ankara
   | Ankaragücü
+  | Makina ve Kimya Endüstrisi Ankaragücü Spor Kulübü
 
 Hacettepespor, 2001,      Ankara
   | Hacettepe | Hacettepe SK | Hacettepe Spor Kulübü
@@ -206,10 +215,12 @@ Adana Demirspor, 1940, Adana
 
 
 Gaziantepspor, 1969,  Gaziantep
+
 Gazişehir Gaziantep FK,  1988, Gaziantep         # formerly known as Gaziantep Büyükşehir Belediyespor
   | Gaziantep | Gaziantep FK
   | Gazişehir Gaziantep | Gaziş. Gaziantep
   | Gazişehir Gaziantep Futbol Kulübü
+  | Gaziantep Futbol Kulübü
 
 Çaykur Rizespor, Rize
   | Rizespor
@@ -272,7 +283,7 @@ Erzincanspor,  Erzincan
 
 Hatayspor,  1967,  Antakya       # Hatay Province
   | Hatayspor Antakya
-
+  | Atakaş Hatayspor Kulübü
 
 
 Bandırmaspor,  Bandırma   ## ›  Balıkesir

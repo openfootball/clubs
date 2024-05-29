@@ -5,11 +5,13 @@
 AEK Athens FC,     Athens    ## use!? - Marousi or Maroussi a suburban city in the northeastern part of the Athens agglomeration
   | AEK | AEK Athens
   | PAE AEK
+  | Athlitiki Enosis Konstantinoupoleos
   | AEK Athen [de]
 
 Panathinaikos FC,  Athens
   | Panathinaikos
   | Panathinaikos Athens
+  | Panetolikos Gymnastikos Philekpaideutikos Syllogos
 
 Apollon Smyrnis FC,  Athens
   | Apollon | Apollon Smyrnis
@@ -18,7 +20,9 @@ Apollon Smyrnis FC,  Athens
 
 Atromitos FC,      Athens    ## use!? - Peristeri a suburban municipality in the northwestern part of the Athens agglomeration
   | Atromitos
+  | PAE APS Atromitos Athinon
   | Atromitos Athen [de]
+
 Panionios GSS,     Athens    ## use!? - Nea Smyrni a municipality and a southern suburb of Athens
   | Panionios
   | Panionios Athen [de]
@@ -40,6 +44,7 @@ Ethnikos Asteras FC, Athens   ## Kaisariani - a suburban town and a municipality
 AE Kifisia FC, Athens  ##  Kifissia - a suburban town in the Athens agglomeration
   | AE Kifisia  
   | Athlitiki Enosi Kifisia
+  | Kifisia
 
 
 
@@ -61,15 +66,19 @@ Olympiacos Piraeus FC,  Piraeus › Attica
   | Olympiacos | Olympiacos Piraeus | Olympiacos FC
   | Olympiakos | Olympiakos Piräus | Olympiakos P.
   | PAE Olympiakos SFP
+  | Olympiakos Syndesmos Filathlon Pirea
 
 Ethnikos Piraeus FC,    Piraeus › Attica
   | Ethnikos Piraeus | Ethnikos
+
 
 
 PAOK FC,              Thessaloniki › Central Macedonia
   | PAOK | PAOK Thessal. | PAOK Thessaloniki
   | PAOK Saloniki
   | PAOK Thessaloniki FC
+  | Panthessalonikeios Athlitikos Omilos Konstantinoupoliton
+
 Aris Thessaloniki FC, Thessaloniki › Central Macedonia
   | Aris | Aris Thessaloniki
   | A. Saloniki | Aris Saloniki
@@ -85,6 +94,7 @@ Apollon Pontou FC, Kalamaria › Central Macedonia    ## Kalamaria, Thessaloniki
 Asteras Tripolis FC, Tripoli › Peloponnese
   | Asteras | Asteras Tripolis
   | Asteras Tripoli
+  | PAE Asteras Tripolis
 
 Xanthi FC,           Xanthi › Thrace
   | Xanthi
@@ -93,10 +103,12 @@ Xanthi FC,           Xanthi › Thrace
 Panetolikos GFS,     Agrinio › West Greece
   | Panetolikos | Panetolikos Agrinio
   | Panaitolikos
+
 PAS Giannina FC,     Ioannina › Epirus
   | Giannina | PAS Giannina
   | Ioannina | PAS Ioannina
   | Yiannina
+  | Panipirotikos Athlitikos Syllogos Giannina
 Levadiakos FC,       Livadeia › Central Greece
   | Levadeiakos | Levadiakos
 
@@ -144,8 +156,8 @@ OFI Crete FC, Heraklion › Crete
   | OFI | OFI Crete
   | OFI Heraklion
   | Iraklion | OF Iraklion
+  | Omilos Filathlon Irakleiou 1925
   | OFI Kreta [de] | OFI Kreta FC [de]
-
 
 Kalamata FC,       Kalamata › Peloponnese
   | Kalamata | Kalamata Football Club
@@ -160,10 +172,12 @@ Kavala FC, Kavala › Macedonia
   | Kavala
   | AO Kavala
 
+
 Volos FC, 2017, Volos › Thessaly
   | Volos
   | Volos NFC | Volos Football Club
   | Volos NPS
+  | Volos Neos Podosfairikos Syllogos
   | Volos New Football Club
 Niki Volou FC, Volos › Thessaly
   | Niki Volou
@@ -183,6 +197,8 @@ Paniliakos FC, Pyrgos › Peloponnese
   | Paniliakos
 Panserraikos FC, Serres › Macedonia
   | Panserraikos
+  | Panserraikos Football Club
+
 Panthrakikos FC, Komotini › Thrace
   | Panthrakikos
   | Panthrakikos Komotini

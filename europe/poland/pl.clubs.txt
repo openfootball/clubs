@@ -6,6 +6,8 @@ Legia Warszawa,        Warszawa      ## Warsaw [en]
   | Legia
   | Legia Warsaw [en]
   | Legia Warschau [de]
+  | Klub Piłkarski Legia Warszawa Sportowa Spółka Akcyjna
+
 KSP Polonia Warszawa,  Warszawa
   | Polonia Warszawa
   | Polonia Warsaw
@@ -15,12 +17,16 @@ Gwardia Warszawa,  1948,  Warszawa   # champs (2): 1957/58 1955/56
 
 Górnik Zabrze,   Zabrze
   | Górnik Z.
+  | Górnik Zabrze Sportowa Spółka Akcyjna
 
 KKS Lech Poznań,   Poznań
   | Lech | Lech Poznań
   | Lech Posen [de]
+  | Kolejowy Klub Sportowy Lech Poznań Spółka Akcyjna
+
 Warta Poznań, Poznań
   | KS Warta Posen [de]
+  | Klub Sportowy Warta Poznań
 
 
 Wisła Kraków,     Kraków
@@ -30,6 +36,7 @@ KS Cracovia,     Kraków
   | Cracovia | MKS Cracovia Kraków
   | Cracovia Kraków
   | Cracovia Krakau [de]
+  | Miejski Klub Sportowy Cracovia Sportowa Spółka Akcyjna
 Hutnik Kraków, 1950,    Kraków (Nowa Huta)
   | KS Hutnik Nowa Huta
   | KS Hutnik Kraków
@@ -37,8 +44,11 @@ Hutnik Kraków, 1950,    Kraków (Nowa Huta)
 
 WKS Śląsk Wrocław,    Wrocław
   | Śląsk | Śląsk Wrocław
+  | Wrocławski Klub Sportowy Śląsk Wrocław Spółka Akcyjna
+
 Jagiellonia Białystok,  Białystok
   | Jagiellonia | Jagiellonia Biał.
+  | Sportowa Spółka Akcyjna Jagiellonia Białystok
 
 Arka Gdynia,  Gdynia
   | Arka | Arka Gdynia 1929
@@ -46,8 +56,10 @@ Arka Gdynia,  Gdynia
 
 GKS Bełchatów,  Bełchatów
   | Bełchatów
+
 Korona Kielce,  Kielce
   | Korona
+  | Korona Spółka Akcyjna
 
 Lechia Gdańsk,  Gdańsk
   | Lechia | KS Lechia Gdańsk
@@ -60,6 +72,8 @@ Miedź Legnica,  Legnica
   | Legnica | ASPN Miedź Legnica
 Piast Gliwice,  Gliwice
   | Piast | GKS Piast Gliwice
+  | Gliwicki Klub Sportowy Piast Spółka Akcyjna
+
 Wisła Płock,    Płock
   | Płock
 Podbeskidzie Bielsko-Biała,   Bielsko-Biała
@@ -68,8 +82,12 @@ Podbeskidzie Bielsko-Biała,   Bielsko-Biała
 
 Pogoń Szczecin,    Szczecin
   | Pogoń | MKS Pogoń Szczecin
+  | Morski Klub Sportowy Pogoń Szczecin
+
 Ruch Chorzów,  Chorzów
   | Ruch
+  | Ruch Chorzów Spółka Akcyjna
+
 Sandecja Nowy Sącz, Nieciecza
   | Sandecja Nowy S.
 Bruk-Bet Termalica Nieciecza, 1922, Nieciecza
@@ -78,13 +96,17 @@ Bruk-Bet Termalica Nieciecza, 1922, Nieciecza
 
 Widzew Łódź,  Łódź
   | RTS Widzew Łódź
+  | RTS Widzew Łódź Spółka Akcyjna
+
 ŁKS Łódź,     Łódź
   | ŁKS | Łódzki KS
   | ŁKS Łódź PSS
+  | Łódzki Klub Sportowy Sportowa Spółka Akcyjna
 
 
 Zagłębie Lubin,  Lubin
   | Zagłębie
+  | Zagłębie Lubin Spółka Akcyjna
 
 Zagłębie Sosnowiec,  1906,  Sosnowiec
   | KS Zagłębie Sosnowiec
@@ -97,6 +119,7 @@ Raków Częstochowa, 1921,  Częstochowa
   | Raków | RKS Raków | RKS Raków Częstochowa
   | Raków Czestochowa   ## todo/fix: check unaccent for Czę
   | KS Raków Częstochowa
+  | Robotniczy Klub Sportowy Raków Częstochowa
 
 Odra Opole, Opole
   | OKS Odra Opole
@@ -117,6 +140,7 @@ Szombierki Bytom, 1919, Bytom (Szombierki)  # champs (1): 1980/81
 
 Stal Mielec, 1939, Mielec   # champs (2): 1976/77 1973/74
   | KS Stal Mielec | FKS Stal Mielec
+  | FKS Stal Mielec Spółka Akcyjna
 
 Dyskobolia Grodzisk Wielkopolski, 1922, Grodzisk Wielkopolski
   | KS Dyskobolia Grodzisk Wielkopolski | Klub Sportowy Dyskobolia Grodzisk Wielkopolski
@@ -143,6 +167,7 @@ Odra Wodzisław,  1922,    Wodzisław Śląski
 
 Puszcza Niepołomice,   Niepołomice
   | Pusz. Niepolomice
+  | Miejski Klub Sportowy Puszcza Niepołomice
 
 
 Radomiak Radom,    Radom

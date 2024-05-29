@@ -23,6 +23,7 @@ Türkgücü München,  München
 
 1. FC Nürnberg, 1900, Nürnberg       ### todo: always map Nurnberg to 1. FC Nürnberg ?!
   | Nürnberg
+  | 1. Fußball-Club Nürnberg - Verein für Leibesübungen
   | 1. FC Nuremberg [en]
  Valznerweiherstraße 200 // 90480 Nürnberg
 ii) 1. FC Nürnberg II
@@ -32,6 +33,7 @@ SpVgg Greuther Fürth, 1903, Fürth
   | Gr. Fürth | Greu. Fürth | Greuther Fürth 
   | SpVgg Gr. Fürth
   | SpVgg Greuther Fürth 1903
+  | Spielvereinigung Greuther Fürth
  Laubenweg 60 // 90765 Fürth
 ii) SpVgg Greuther Fürth II
   | Gr. Fürth II | Greuther Fürth II
@@ -99,6 +101,7 @@ FC Viktoria Köln,    Köln
 Fortuna Düsseldorf,  1895, Düsseldorf
   | Düsseldorf | F. Düsseldorf | Fort. Düsseldorf
   | TSV Fortuna 95 Düsseldorf
+  | Düsseldorfer Turn-und Sportverein Fortuna 1895
  Arena Straße 1 // 40474 Düsseldorf
 
 Borussia Dortmund, 1909,    Dortmund
@@ -112,6 +115,7 @@ ii) Borussia Dortmund II
 
 FC Schalke 04, 1904,         Gelsenkirchen
   | Schalke | Schalke 04
+  | Fußball-Club Gelsenkirchen-Schalke 04
  Ernst-Kuzorra-Weg 1 // 45891 Gelsenkirchen
 
 Bayer 04 Leverkusen, 1904,    Leverkusen
@@ -157,6 +161,7 @@ Alemannia Aachen,     Aachen
   | Aachen | TSV Alemannia Aachen
 SC Paderborn 07,  1907,      Paderborn
   | Paderborn | Paderborn 07 | SC Paderborn
+  | Sport-Club Paderborn 07
  Paderborner Str. 89 // 33104 Paderborn
 
 Rot Weiss Ahlen,    Ahlen
@@ -213,26 +218,29 @@ FC 08 Homburg,       Homburg
 VfB Borussia Neunkirchen,  Neunkirchen
   | Borussia Neunkirchen
 
-SV Elversberg
+SV Elversberg,   
   | Elversberg 07 | SV 07 Elversberg
-
+  | Sportvereinigung 07 Elversberg
 
 
 == Niedersachsen ==
 
 VfL Osnabrück,               Osnabrück
   | Osnabrück
+  | Verein für Leibesübungen von 1899 Osnabrück
 VfL Wolfsburg,           Wolfsburg
   | Wolfsburg
  In den Allerwiesen 1 // 38446 Wolfsburg
 
 Hannover 96, 1896,       Hannover
   | Hannover | Hannover 1896
+  | Hannoverscher Sportverein von 1896
  Robert-Enke-Straße 1 // 30169 Hannover
 
 Eintracht Braunschweig, 1895,  Braunschweig
   | Braunschweig | E. Braunschweig | Eintr. Braunschweig
   | TSV Eintracht Braunschweig
+  | Braunschweiger Turn-und Sportverein Eintracht von 1895
  Hamburger Straße 210 // 38112 Braunschweig
 
 FT Braunschweig
@@ -357,10 +365,12 @@ VSG Altglienicke,   Berlin (Altglienicke)       # Altglienicke, Treptow-Köpenic
 
 Hamburger SV,  1887,     Hamburg
   | HSV | Hamburg
+  | Hamburger Sport Verein
  Sylvesterallee 7 // 22525 Hamburg
 
 FC St. Pauli, 1910,      Hamburg (St. Pauli)      ## use stadtteil St. Pauli ??
   | St Pauli | St. Pauli | FC Sankt Pauli
+  | Fußball-Club Sankt Pauli von 1910
  Heiligengeistfeld 1 // 20359 Hamburg
 
 SC Victoria Hamburg
@@ -415,6 +425,7 @@ TSG 1899 Hoffenheim,  1899,  Sinsheim   ## Sinsheim-Hoffenheim
 Karlsruher SC,  1894,        Karlsruhe
   | KSC | Karlsruhe
   | Karlsruher
+  | Karlsruher Sport-Club 1894 Mühlburg-Phönix
  Adenauerring 17 // 76131 Karlsruhe
 
 SSV Ulm 1846,         Ulm
@@ -485,6 +496,7 @@ SV Darmstadt 98, 1898,       Darmstadt
 SV Wehen Wiesbaden,     Wiesbaden
   | Wehen | Wiesbaden | W. Wiesbaden | Weh. Wiesbaden | Wehen Wiesbaden
   | SV Wehen Wiesb.
+  | Sportverein Wehen Wiesbaden 26
 Kickers Offenbach,     Offenbach am Main
   | Offenbach
 KSV Hessen Kassel
@@ -502,6 +514,7 @@ TSV Steinbach Haiger
 
 1. FC Kaiserslautern, 1900, Kaiserslautern
   | K'lautern | Kaiserslautern | 1. FC K'lautern | FC Kaiserslautern
+  | 1. Fußball-Club Kaiserslautern
  Fritz-Walter-Str. 1 // 67663 Kaiserslautern
 
 1. FSV Mainz 05, 1905,   Mainz
@@ -546,6 +559,7 @@ VfB Lübeck,          Lübeck
   | Lübeck
 Holstein Kiel,       Kiel
   | Holst. Kiel | Kiel
+  | Kieler Sportvereinigung Holstein von 1900
 
 VfR Neumünster
 
@@ -570,7 +584,9 @@ SV Todesfelde, 1928,   Todesfelde
 == Mecklenburg-Vorpommern ==
 
 Hansa Rostock, 1965,        Rostock
-  | Rostock | FC Hansa Rostock
+  | Rostock 
+  | FC Hansa Rostock
+  | Fußballclub Hansa Rostock
 
 TSG Neustrelitz
 FC Schönberg 95
@@ -645,6 +661,7 @@ Hallescher FC,  1966,   Halle an der Saale
 
 1. FC Magdeburg, 1965,   Magdeburg
   | Magdeburg | FC Magdeburg
+  | 1. Fußballclub Magdeburg
 
 1. FC Lok Stendal,  Stendal
 
