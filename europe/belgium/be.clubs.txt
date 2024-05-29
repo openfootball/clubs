@@ -23,8 +23,10 @@ RWD Molenbeek,  Brussels (Molenbeek)
 
 Saint-Gilloise,  Brussels (Saint-Gilles)
   | R. Union Saint-Gilloise
-  | Union St. Gilloise
-  | Royale Union Saint-Gilloise | Union SG
+  | Union Saint-Gilloise
+  | Union St. Gilloise | Union SG
+  | Royale Union Saint-Gilloise 
+  
 
 
 == Antwerpen › Vlaanderen ==
@@ -33,6 +35,7 @@ Royal Antwerp FC,    Antwerpen › Antwerpen › Vlaanderen
   | Antwerp | Royal Antwerp | R. Antwerp FC
   | R. Antwerpen | Royal Antwerpen
   | FC Royal Antwerpen
+  | Royal Antwerp Football Club
 
 
 K. Beerschot VA, 1899,  Antwerpen › Antwerpen › Vlaanderen               ## in 2019 renamed to K. Beerschot V.A.)
@@ -103,7 +106,9 @@ Patro Eisden,   1942,  Maasmechelen
 == Oost-Vlaanderen › Vlaanderen ==
 
 KAA Gent, 1864,     Gent        › Oost-Vlaanderen › Vlaanderen
-  | Gent | Koninklijke Atletiek Associatie Gent
+  | Gent 
+  | Koninklijke Atletiek Associatie Gent
+  | Koninklijke Athletic Associatie Gent
   | AA Gent
 
 KSC Lokeren OV, 1923,   Lokeren     › Oost-Vlaanderen › Vlaanderen
@@ -139,11 +144,14 @@ KMSK Deinze,  1926,   Deinze
 == West-Vlaanderen › Vlaanderen ==
 
 Club Brugge, 1891,    Brugge › West-Vlaanderen › Vlaanderen
-  | Club Brugge KV | Club Brugge Koninklijke Voetbalvereniging
+  | Club Brugge KV 
+  | Club Brugge Koninklijke Voetbalvereniging
+  | Club Brugge Koninklijke Vereniging
   | Cl. Brügge [de] | Club Brügge [de]
 Cercle Brugge, 1899,  Brugge › West-Vlaanderen › Vlaanderen
   | Cercle Brugge KSV | Cercle Brugge Koninklijke Sportvereniging
   | Cer. Brügge [de] | Cercle Brügge [de] | Cercle Brügge KSV [de]
+
 
 KV Kortrijk, 1901,    Kortrijk › West-Vlaanderen › Vlaanderen
   | Kortrijk | Koninklijke Voetbalclub Kortrijk
@@ -186,10 +194,12 @@ Excelsior Virton, Virton
 
 KAS Eupen,             Eupen     › Liège   › Wallonie    ## [de]
   | Eupen | AS Eupen | K. AS Eupen
+  | Königliche Allgemeine Sportvereinigung Eupen
 
 Standard Liège, 1898,   Liège     › Liège   › Wallonie    ## [fr]
   | Standard | R. Standard de Liège | Royal Standard de Liège
   | Standard de Liège
+  | Royal Standard Club de Liège
   | Stand. Lüttich [de] | Standard Lüttich [de]
 
 RFC Liège,  1892,  Liège

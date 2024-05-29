@@ -5,8 +5,10 @@
 
 Celtic FC, 1887,       Glasgow
   | Celtic | Celtic Glasgow
+  | The Celtic Football Club
 Rangers FC,      Glasgow
   | Rangers | Gl. Rangers | Glasgow Rangers
+  | Rangers Football Club
 Partick Thistle, 1876, Glasgow
   | Partick | Partick Thistle FC | Jags
 Queen's Park,    Glasgow
@@ -16,14 +18,17 @@ Queen's Park,    Glasgow
 Heart of Midlothian FC,  Edinburgh   ## Gorgie - West of Edinburgh
   | Hearts | Heart of Midl. | Heart of Midlothian
   | Hearts FC
+  | Heart of Midlothian Football Club
 Hibernian FC,            Edinburgh   ## Leith  - North of Edinburgh
   | Hibernian | Hibernians
+  | Hibernian Football Club
 Edinburgh City,          Edinburgh
 
 
 Aberdeen FC, 1903, Aberdeen
   | Aberdeen
   | FC Aberdeen
+  | Aberdeen Football Club
   | Abderden    ## typo - fix in champs csv datafile!!!!
 
 Cove Rangers FC, 1922, Aberdeen (Cove Bay)
@@ -33,6 +38,7 @@ Cove Rangers FC, 1922, Aberdeen (Cove Bay)
 
 Dundee FC, 1893,       Dundee     ## note: depends on level (1) for mapping
   | Dundee | FC Dundee
+  | Dundee Football Club
 Dundee United, 1909,   Dundee
   | Dundee Utd | Dundee United FC | Dundee Hibernian
 
@@ -40,13 +46,19 @@ Hamilton Academical FC, 1874,   Hamilton
   | Hamilton | Hamilton FC | Hamilton Accies | Hamilton Academical
 Kilmarnock FC, 1869, Kilmarnock
   | Killie | Kilmarnock | FC Kilmarnock
+  | Kilmarnock Football Club
+
 Motherwell FC, 1886,  Motherwell
   | Motherwell | FC Motherwell
+  | Motherwell Football Club
 Ross County FC,  1929,  Dingwall
   | Ross County | FC Ross County
+  | Ross County Football Club
 St Johnstone FC, 1884, Perth
-  | St Johnstone | St. Johnstone | Saint Johnstone FC | FC St. Johnstone
-
+  | St Johnstone | St. Johnstone | Saint Johnstone FC 
+  | St Johnstone Football Club
+  | FC St. Johnstone
+ 
 Brechin City,  Brechin
   | Brechin
 Dumbarton,     Dumbarton
@@ -69,6 +81,7 @@ Inverness Caledonian Thistle, 1994,  Inverness
 
 Livingston FC, Livingston
   | Livingston | FC Livingston
+  | Livingston Football Club
 
 Queen of the South,  Dumfries
   | Queen of Sth | Queen of South
@@ -76,6 +89,7 @@ Queen of the South,  Dumfries
 
 Saint Mirren FC, 1877,  Paisley
   | St Mirren | St Mirren FC
+  | St Mirren Football Club
   | FC St. Mirren
 
 ## todo/check/fix: map Airdrie to Airdrieonians  - why? why not?

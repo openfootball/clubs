@@ -59,6 +59,7 @@ ii) FC Porto B
 
 Boavista FC,  Porto
   | Boavista | Boavista Porto | Boavista Porto FC
+  | Boavista Futebol Clube
 
 UD Oliveirense,  Oliveira de Azeméis    # a city and a municipality located in Porto Metropolitan Area
   | Oliveirense | União Desportiva Oliveirense
@@ -83,6 +84,7 @@ CD Feirense, 1918, Santa Maria da Feira
 Vitória de Guimarães, Guimarães
   | Vitória
   | Guimarães | Vit. Guimarães | Vitória Guimarães
+  | Vitória Sport Clube (de Guimarães)
   | Vitória SC
 Vitória de Setúbal, Setúbal   ## note:  Vitória SC <=> Vitória FC !!!
   | Setúbal | Vitória Setúbal
@@ -99,22 +101,24 @@ CD Nacional Madeira, Funchal
 
 Moreirense FC, Moreira de Cónegos
   | Moreirense
+  | Moreirense Futebol Clube
 FC Paços de Ferreira, Paços de Ferreira
   | Paços | Paços Ferreira | Paços de Ferreira
   | FC Paços Ferreira
 Portimonense SC, Portimão
   | Portimonense
+  | Portimonense Sporting Clube
 Rio Ave FC, Vila do Conde
   | Rio Ave
-
+  | Rio Ave Futebol Clube
 SC Braga, Braga
   | Braga | Sp Braga | Sporting Braga
   | Sporting Clube de Braga
 
 FC Vizela,  1939,  Vizela
   | Futebol Clube de Vizela
-
-
+  | Vizela
+ 
 CD Tondela, Tondela
   | Tondela
 
@@ -127,6 +131,7 @@ Académica de Coimbra, Coimbra
 
 FC Arouca, Arouca
   | Arouca
+  | Futebol Clube de Arouca
 
 FC Penafiel, 1951,  Penafiel
   | Penafiel | Futebol Clube de Penafiel
@@ -135,9 +140,12 @@ SC Beira-Mar, Aveiro
   | Beira-Mar
 Desportivo de Chaves, Chaves
   | Desp. Chaves
+
 CF Estrela da Amadora, Amadora
   | Est Amadora | Estrela Amadora
+  | Estrela da Amadora
   | CF Estrela
+  | Club Football Estrela da Amadora
 
 SC Farense, 1910, Faro
   | Farense
@@ -145,6 +153,7 @@ SC Farense, 1910, Faro
 
 Gil Vicente FC, Barcelos
   | Gil Vicente
+  | Gil Vicente Futebol Clube
 União de Leiria,   Leiria
   | Leiria | UD Leiria | União Desportiva de Leiria
   | União Leiria

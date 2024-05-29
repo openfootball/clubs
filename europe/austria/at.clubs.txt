@@ -4,7 +4,7 @@
 
 == Wien ==
 
-SK Rapid Wien, 1899,    Wien (Hütteldorf)
+SK Rapid Wien, 1899,  @ Allianz Stadion,   Wien (Hütteldorf)
   | Rapid | Rapid Wien
   | Sportklub Rapid Wien
   | Rapid Vienna [en]
@@ -13,7 +13,7 @@ ii) SK Rapid Wien II
   | Rapid Wien Am. | SK Rapid Amateure
   | Rapid Wien II
 
-FK Austria Wien, 1911,  Wien (Favoriten)
+FK Austria Wien, 1911,  @ Generali Arena,   Wien (Favoriten)
   | Austria | Austria Wien
   | Fussballklub Austria Wien
   | Austria Vienna [en]
@@ -274,7 +274,7 @@ SVg Purgstall
 
 == Oberösterreich ==
 
-LASK Linz, 1899,      Linz (Pasching)          ## use Pasching ??
+LASK Linz, 1899,   @ Raiffeisen Arena,   Linz (Pasching)          ## use Pasching ??
   | LASK | Linzer ASK
   | Linzer Athletik Sport-Klub Linz
 ii) LASK Amateure OÖ
@@ -304,7 +304,7 @@ ASKÖ Pasching (1946-2007), Linz (Pasching)
 # den umgangssprachlichen Namen SV Pasching, FC Pasching
 # bezeichnet.
 
-FC Blau-Weiß Linz, Linz
+FC Blau-Weiß Linz,   @ Hofmann Personal Stadion, Linz
   | BW Linz | Blau-Weiß Linz
   | Fußball Club Blau-Weiß Linz
 
@@ -382,7 +382,7 @@ SK Bad Wimsbach
 
 == Steiermark ==
 
-SK Sturm Graz, 1909,       Graz
+SK Sturm Graz, 1909,   @ Merkur Arena,   Graz
   | Sturm | Sturm Graz
   | SK $$Puntigamer$$ Sturm Graz
   | Sportklub $$Puntigamer$$ Sturm Graz
@@ -395,7 +395,7 @@ ii) SK Sturm Graz II
 Grazer AK,   Graz
   | GAK | GAK 1902
 
-TSV Hartberg, 1946,    Hartberg
+TSV Hartberg, 1946,    @ Profertil Arena Hartberg,   Hartberg
   | TSV | Hartberg
   | TSV $$Sparkasse$$ Hartberg
   | TSV $$Prolactal$$ Hartberg
@@ -448,7 +448,7 @@ ASK Voitsberg, 1921,  Voitsberg
 
 == Kärnten ==
 
-Wolfsberger AC, 1931, Wolfsberg
+Wolfsberger AC, 1931,  @ Lavanttal-Arena,   Wolfsberg
   | Wolfsberg | Wolfsberger | AC Wolfsberger | Wolfsberger Athletik Club
   | WAC
   | WAC/St. Andrä | Wolfsberger AC/St. Andrä
@@ -464,7 +464,7 @@ ii) Wolfsberger AC II
 
 ATSV Wolfsberg, 	Wolfsberg
 
-Austria Klagenfurt, Klagenfurt
+Austria Klagenfurt,   @ Wörthersee Stadion, Klagenfurt
   | A. Klagenfurt | Aus. Klagenfurt
   | SK Austria Klagenfurt | SG Austria Klagenfurt
   | Sportklub Austria Klagenfurt
@@ -516,7 +516,7 @@ SV St. Jakob/Rosental
 
 == Salzburg ==
 
-FC RB Salzburg, 1933,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
+FC RB Salzburg, 1933,  @ Red Bull Arena,   Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
   | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg 
   | FC Red Bull Salzburg
   | Football Club Red Bull Salzburg
@@ -614,7 +614,7 @@ SC Kundl
 
 == Vorarlberg ==
 
-SCR Altach, 1929,          Altach
+SCR Altach, 1929,   @ Cashpoint-Arena,  Altach
   | Altach
   | Rheindorf Altach | SC Rheindorf Altach | Sportclub Rheindorf Altach
   | $$Cashpoint$$ SCR Altach

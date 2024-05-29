@@ -4,7 +4,7 @@
 #  note: see mc.txt for monaco
 
 
-Paris Saint-Germain, 1970, Paris › Île-de-France
+Paris Saint-Germain, 1970, @ Parc des Princes,   Paris › Île-de-France
   | Paris
   | Paris SG | Paris St. Germain | Paris S. Germain | Paris Saint Germain
   | Paris Saint-Germain FC
@@ -58,35 +58,35 @@ Dijon FCO, Dijon
 
 EA Guingamp, 1912, Guingamp   ## Côtes-d'Armor > Brittany
   | Guingamp | En Avant Guingamp | En Avant de Guingamp
-Lille OSC,  1944,   Lille      ## Nord > Nord-Pas-de-Calais
+Lille OSC,  1944,  @ Stade Pierre-Mauroy,   Lille      ## Nord > Nord-Pas-de-Calais
   | Lille  | LOSC | LOSC Lille | OSC Lille
   | Lille Olympique Sporting Club Lille Métropole
-Olympique Lyonnais, 1899, Lyon      ## Lyon > Rhône-Alpes
+Olympique Lyonnais, 1899,  @ Groupama Stadium,  Lyon      ## Lyon > Rhône-Alpes
   | Lyon | Ol. Lyon | Olymp. Lyon | Olympique Lyon
 
-Olympique de Marseille, 1899, Marseille   ## Bouches-du-Rhône > Provence-Alpes-Côte d'Azur
+Olympique de Marseille, 1899,  @ Stade Vélodrome,  Marseille   ## Bouches-du-Rhône > Provence-Alpes-Côte d'Azur
   | Marseille
   | Ol. Marseille | Olymp. Marseille | Olympique Marseille
 
-FC Metz, 1932, Metz      ## Moselle > Lorraine
+FC Metz, 1932,  @ Stade Saint-Symphorien,  Metz      ## Moselle > Lorraine
   | Metz | Football Club de Metz
 
-Montpellier HSC, 1974, Montpellier     ## Hérault > Languedoc-Roussillon
+Montpellier HSC, 1974,  @ Stade de la Mosson,  Montpellier     ## Hérault > Languedoc-Roussillon
   | Montpellier | HSC Montpellier | Montpellier Hérault SC
   | Montpellier-Herault Sports Club
   | Montpellier-Hérault Sport Club
 
-FC Nantes, 1943, Nantes      ## Loire-Atlantique > Pays de la Loire
+FC Nantes, 1943,  @ Stade de la Beaujoire-Louis Fonteneau,   Nantes      ## Loire-Atlantique > Pays de la Loire
   | Nantes 
   | Football Club de Nantes
   | Football Club de Nantes Atlantique
-OGC Nice, 1904, Nice    ## Alpes-Maritimes > Provence-Alpes-Côte d'Azur
+OGC Nice, 1904,   @ Allianz Riviera,  Nice    ## Alpes-Maritimes > Provence-Alpes-Côte d'Azur
   | Nice  
   | Olympique Gymnaste Club Nice Côte d'Azur
   | Olympique Club Gymnaste Club de Nice-Côte d'Azur
   | OGC Nizza [de]
 
-Stade Rennais FC, 1901,   Rennes    ## Ille-et-Vilaine > Brittany
+Stade Rennais FC, 1901,   @ Roazhon Park,  Rennes    ## Ille-et-Vilaine > Brittany
   | Rennes | Stade Rennes
   | Stade Rennais | Stade Rennais Football Club
   | Stade Rennais FC 1901
@@ -97,16 +97,16 @@ AS Saint-Étienne, 1919,  Saint-Étienne     ## Loire > Rhône-Alpes
   | Association Sportive de Saint-Étienne
   | Association Sportive de Saint-Étienne Loire
 
-RC Strasbourg, Strasbourg
+RC Strasbourg,  @ Stade de la Meinau,  Strasbourg
   | Strasbourg | Racing Strasbourg | RC Strasbourg Alsace
   | Racing Club de Strasbourg Alsace
   | Racing Straßburg [de]
-Toulouse FC, 1970, Toulouse     ## Haute-Garonne > Midi-Pyrénées
+Toulouse FC, 1970,   @ Le Stadium,    Toulouse     ## Haute-Garonne > Midi-Pyrénées
   | Toulouse | Toulouse Football Club | FC Toulouse
 ES Troyes AC, 1986, Troyes      ## Aube > Champagne-Ardenne
   | Troyes | ESTAC Troyes | Espérance Sportive Troyes Aube Champagne
   | Troyes AC
-Stade de Reims, 1931, Reims    ## Marne > Champagne-Ardenne
+Stade de Reims, 1931,  @ Stade Auguste-Delaune,  Reims    ## Marne > Champagne-Ardenne
   | Reims | Stade Reims
   | Stade de Reims Champagne
 Nîmes Olympique, Nîmes
@@ -122,23 +122,23 @@ AJ Auxerre, Auxerre
   | Auxerre | Association de la Jeunesse Auxerroise
 Bourg-en-Bresse 01, Bourg-en-Bresse     ## use - Football Bourg-en-Bresse Péronnas 01 - why? why not?
   | Bourg Peronnas | FC Bourg Peronnas
-Stade Brestois 29, Brest
+Stade Brestois 29,  @ Stade Francis Le Blé,   Brest
   | Brest | Stade Brest | Stade Brestois
 LB Châteauroux, Châteauroux
   | Châteauroux | La Berrichonne de Châteauroux
   | La Berrichonne
 
 
-Clermont Foot 63, Clermont
+Clermont Foot 63,  @ Stade Gabriel Montpied, Clermont
   | Clermont | Clermont Foot
   | Clermont Foot Auvergne
-Le Havre AC, Le Havre
+Le Havre AC,  @ Stade Océane,  Le Havre
   | Le Havre | Havre AC 
   | Le Havre Athletic Club
   | Le Havre Athletic Club Football
-RC Lens,  1906,  Lens      ## Pas-de-Calais > Nord-Pas-de-Calais
+RC Lens,  1906,    @ Stade Bollaert-Delelis,   Lens      ## Pas-de-Calais > Nord-Pas-de-Calais
   | Lens | Racing Club de Lens
-FC Lorient, 1926, Lorient     ## Morbihan > Brittany
+FC Lorient, 1926,  @ Stade du Moustoir - Yves Allainmat,  Lorient     ## Morbihan > Brittany
   | Lorient  | Football Club Lorient-Bretagne Sud
   | Football Club Lorient
 AS Nancy Lorraine, Nancy

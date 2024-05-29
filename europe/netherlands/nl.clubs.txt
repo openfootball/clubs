@@ -35,6 +35,7 @@ HFC Haarlem (1889-2010),  Haarlem
 
 FC Volendam, Volendam
   | Volendam
+  | Football Club Volendam
 
 
 == Zuid-Holland ==
@@ -47,8 +48,10 @@ Sparta Rotterdam,        Rotterdam
   | Sparta | Sparta R'dam
   | Sp. Rotterdam
 SBV Excelsior Rotterdam, 1902,   Rotterdam › Zuid-Holland    ## use SBV Excelsior - why? why not?
-  | Excelsior | SBV Excelsior | Stichting Betaald Voetbal Excelsior
+  | Excelsior | SBV Excelsior 
   | Excel. Rotterdam
+  | Stichting Betaald Voetbal Excelsior
+  | Stichting Betaald Voetbal Excelsior Rotterdam
 
 
 ADO Den Haag, 1905,    Den Haag
@@ -112,7 +115,9 @@ NAC Breda, 1912,  Breda
   | NAC | NOAD ADVENDO Combinatie Breda
 
 PSV Eindhoven, 1913,   Eindhoven
-  | PSV | Philips Sport Vereniging
+  | PSV 
+  | Philips Sport Vereniging
+  | Philips Sport Vereniging Eindhoven
 ii) Jong PSV
   | Jong PSV Eindh.
 
@@ -160,6 +165,7 @@ Rapid JC Heerlen (1954-1962),  Heerlen
 
 == Overijssel ==
 Go Ahead Eagles, Deventer › Overijssel
+  | Go Ahead Eagles Deventer
 
 Heracles Almelo, 1903,  Almelo
   | Heracles | SC Heracles Almelo
@@ -178,6 +184,7 @@ PEC Zwolle, 1910,   Zwolle
 
 Almere City FC,  2001,  Almere
   | Almere City
+  | Almere City Football Club
 
 
 == Gelderland ==

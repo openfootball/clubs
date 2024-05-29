@@ -4,7 +4,7 @@
 
 == Bayern ==
 
-Bayern München, 1900,     München
+Bayern München, 1900,    @ Allianz Arena,   München
   | Bayern | Bayern Mün. | FC Bayern München
   | Fußball Club Bayern München
   | Bayern Munich [en] | FC Bayern Munich [en]
@@ -39,7 +39,7 @@ SpVgg Greuther Fürth, 1903, Fürth
 ii) SpVgg Greuther Fürth II
   | Gr. Fürth II | Greuther Fürth II
 
-FC Augsburg, 1907,    Augsburg
+FC Augsburg, 1907,   @ WWK Arena,  Augsburg
   | Augsburg
   | Fußball-Club Augsburg 1907
  Donauwörther Str. 170 // 86154 Augsburg
@@ -89,7 +89,7 @@ TSV 1896 Rain
 
 == Nordrhein-Westfalen ==
 
-1. FC Köln, 1948,   Köln
+1. FC Köln, 1948,  @ Rheinenergiestadion,   Köln
   | Köln            ## add Köln too - why? why not?
   | FC Köln
   | 1. Fußball-Club Köln
@@ -107,7 +107,7 @@ Fortuna Düsseldorf,  1895, Düsseldorf
   | Düsseldorfer Turn-und Sportverein Fortuna 1895
  Arena Straße 1 // 40474 Düsseldorf
 
-Borussia Dortmund, 1909,    Dortmund
+Borussia Dortmund, 1909,  @ Signal Iduna Park,  Dortmund
   | Dortmund | B. Dortmund | Bor. Dortmund
   | BV 09 Borussia Dortmund
   | BV Borussia 09 Dortmund
@@ -122,7 +122,7 @@ FC Schalke 04, 1904,         Gelsenkirchen
   | Fußball-Club Gelsenkirchen-Schalke 04
  Ernst-Kuzorra-Weg 1 // 45891 Gelsenkirchen
 
-Bayer 04 Leverkusen, 1904,    Leverkusen
+Bayer 04 Leverkusen, 1904,   @ BayArena Leverkusen,  Leverkusen
   | Leverk. | Leverkusen
   | Bayer | B. Leverkusen | Bay. Leverkusen | Bayer Leverkusen
   | Turn- und Sportverein Bayer 04 Leverkusen
@@ -132,14 +132,14 @@ MSV Duisburg,         Duisburg
   | Duisburg
   | Meidericher SV   ## until 1965/66 Meidericher SV -- was Meidericher SV in 1963/64
 
-Bor. Mönchengladbach, 1900, Mönchengladbach
+Bor. Mönchengladbach, 1900,  @ Borussia-Park,   Mönchengladbach
   | Mönchengladbach | M'gladbach | B. M'gladbach
   | Borussia M'gladbach | Bor. M'gladbach  | Borussia Mönchengladbach
   | VfL Borussia Mönchengladbach
   | Borussia Verein für Leibesübungen 1900 Mönchengladbach
  Hennes-Weisweiler-Allee 1 // 41179 Mönchengladbach
 
-VfL Bochum, 1938,            Bochum
+VfL Bochum, 1938,      @ Vonovia Ruhrstadion,  Bochum
   | Bochum | VfL Bochum 1848
   | Verein für Leibesübungen Bochum 1848
  Castroper Straße 145 // 44791 Bochum
@@ -235,7 +235,7 @@ SV Elversberg
 VfL Osnabrück,               Osnabrück
   | Osnabrück
   | Verein für Leibesübungen von 1899 Osnabrück
-VfL Wolfsburg,           Wolfsburg
+VfL Wolfsburg,     @ Volkswagen Arena,      Wolfsburg
   | Wolfsburg
   | Verein für Leibesübungen Wolfsburg
  In den Allerwiesen 1 // 38446 Wolfsburg
@@ -334,7 +334,7 @@ Hertha BSC, 1892,            	Berlin
   | Hertha BSC Berlin | Hertha Berliner Sport-Club
  Hanns-Braun-Straße / Friesenhaus 2 // 14053 Berlin
 
-1. FC Union Berlin, 1966,     Berlin
+1. FC Union Berlin, 1966,   @ Stadion An der Alten Försterei, Berlin
   | Union B. | Un. Berlin | Union Berlin | FC Union Berlin
   | 1. FC Union
   | 1. Fußball-Club Union Berlin
@@ -392,7 +392,7 @@ HSV Barmbek-Uhlenhorst
 
 == Bremen ==
 
-Werder Bremen, 1899,      Bremen
+Werder Bremen, 1899,   @ Wohninvest Weserstadion,   Bremen
   | Bremen | W. Bremen | SV Werder Bremen
   | Sport-Verein Werder von 1899 Bremen
  Franz-Böhmert-Straße 1c // 28205 Bremen
@@ -412,7 +412,7 @@ LTS Bremerhaven,  1898,  Bremerhaven (Lehe)
 
 == Baden-Württemberg ==
 
-VfB Stuttgart, 1893,        Stuttgart
+VfB Stuttgart, 1893,    @ Mercedes-Benz Arena,   Stuttgart
   | Stuttgart
   | Verein für Bewegungsspiele Stuttgart 1893
  Mercedesstraße 109 // 70372 Stuttgart
@@ -423,14 +423,14 @@ Stuttgarter Kickers,   Stuttgart
   | Stutt. Kick. | Stuttgarter K
   | S'gart Kickers
 
-SC Freiburg, 1904,       	  Freiburg
+SC Freiburg, 1904,     @ Europa-Park Stadion,   Freiburg
   | Freiburg
   | Sport-Club Freiburg
  Schwarzwaldstr. 193 // 79117 Freiburg
 ii) SC Freiburg II
 
 
-TSG 1899 Hoffenheim,  1899,  Sinsheim   ## Sinsheim-Hoffenheim
+TSG 1899 Hoffenheim,  1899,  @ PreZero Arena,   Sinsheim   ## Sinsheim-Hoffenheim
   | Hoffenheim | 1899 Hoffenh. | 1899 Hoffenheim | TSG Hoffenheim
   | Turn- und Sportgemeinschaft 1899 Hoffenheim
  Horrenberger Straße 58 // 74939 Zuzenhausen       ## check for Hoffenheim ??
@@ -447,7 +447,7 @@ VfR Aalen, 1921,          Aalen
   | Aalen
  Stadionweg 5/1 // 73430 Aalen
 
-1. FC Heidenheim, 2007,   Heidenheim an der Brenz
+1. FC Heidenheim, 2007,   @ Voith-Arena,  Heidenheim an der Brenz
   | Heidenheim | FC Heidenheim | 1. FC Heidenh. | 1. FC Heidenheim 1846
   | 1. Fußballclub Heidenheim 1846
 SSV Reutlingen 05,     Reutlingen
@@ -494,7 +494,7 @@ FV Ravensburg,  1893,  Ravensburg
 
 == Hessen ==
 
-Eintracht Frankfurt, 1899,   Frankfurt am Main
+Eintracht Frankfurt, 1899,   @ Deutsche Bank Park,   Frankfurt am Main
   | Frankfurt
   | E. Frankfurt | Ein Frankfurt | Eint Frankfurt | Eintr. Frankfurt
   | SG Eintracht Frankfurt
@@ -505,7 +505,7 @@ FSV Frankfurt, 1899,       Frankfurt am Main
    | Frankfurt FSV | FSV Frankfurt 1899
  Richard-Herrmann-Platz 1 // 60386 Frankfurt am Main
 
-SV Darmstadt 98, 1898,       Darmstadt
+SV Darmstadt 98, 1898,   @ Merck-Stadion am Böllenfalltor,  Darmstadt
   | Darmstadt | Darmstadt 98
   | Sportverein Darmstadt 1898
 SV Wehen Wiesbaden,     Wiesbaden
@@ -532,7 +532,7 @@ TSV Steinbach Haiger
   | 1. Fußball-Club Kaiserslautern
  Fritz-Walter-Str. 1 // 67663 Kaiserslautern
 
-1. FSV Mainz 05, 1905,   Mainz
+1. FSV Mainz 05, 1905,    @ Mewa Arena,  Mainz
   | Mainz | Mainz 05 | FSV Mainz 05
   | 1. Fußball-und Sportverein Mainz 05
  Isaac-Fulda-Allee 5 // 55124 Mainz
@@ -624,7 +624,7 @@ Dynamo Dresden, 1953,      Dresden
   | 1. FC Dynamo Dresden
  Lennéstraße 12 // 01069 Dresden
 
-RB Leipzig, 2009,     Leipzig
+RB Leipzig, 2009,   @  Red Bull Arena,     Leipzig
   | Rasenballsport Leipzig
 
 VfB Leipzig (-2004),  Leipzig      ## note: 2004 aufgelöst in bl 1993/94
