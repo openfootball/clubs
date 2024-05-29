@@ -7,23 +7,29 @@
 
 Arsenal FC, 1886, @ Emirates Stadium, London (Highbury)   ## Greater London
   | Arsenal | FC Arsenal
+  | Arsenal Football Club
   | The Arsenal FC       # old name before season 1927/8
   | Woolwich Arsenal FC  # old name before season 1914/5
   | Royal Arsenal FC     # old name before season 1892/3
 Chelsea FC, 1905, @ Stamford Bridge, London (Fulham)    ## Greater London
   | Chelsea | FC Chelsea
+  | Chelsea Football Club
 
 Tottenham Hotspur FC, 1882, @ White Hart Lane, London (Tottenham)   ## Greater London
   | Tottenham | Tottenham Hotspur | Spurs | Tottenham H.
+  | Tottenham Hotspur Football Club
 West Ham United FC, 1895, @ Boleyn Ground, London (Upton Park)   ## Greater London
   | West Ham  | West Ham United
+  | West Ham United Football Club
 Fulham FC, 1879,  @ Craven Cottage,  London (Fulham)   ## London (Fulham), Greater London
   | Fulham | FC Fulham
+  | Fulham Football Club
 Charlton Athletic FC,  @ The Valley,  London (Charlton)      ##   London (Charlton), Greater London
   | Charlton | Charlton Ath. | Charlton Athletic
   | Charlton Athletic Football Club
 Crystal Palace FC, 1905, @ Selhurst Park, London (Selhurst)   ## Greater London
   | Palace | C. Palace | Crystal P. | Crystal Palace
+  | Crystal Palace Football Club
 
 Wimbledon FC,         London (Wimbledon)   ## Greater London
   | Wimbledon
@@ -42,6 +48,7 @@ Millwall FC,      @ The Den,     London (South Bermondsey)        # London (Sout
   | Millwall Athletic FC   # old name before season 1925/6
 Brentford FC,        @ Griffin Park,  London (Brentford)        #  London (Brentford)  or London-Brentford, Greater London
   | Brentford | FC Brentford
+  | Brentford Football Club
 Leyton Orient FC,     @ Brisbane Road,  London  ##   London (Leyton) or London-Leyton
   | Leyton Orient
   | Leyton Orient Football Club
@@ -85,14 +92,17 @@ Wealdstone FC,  1899,   London (Ruislip)
 
 Everton FC, 1878,  @ Goodison Park, Liverpool (Walton) › Lancashire   ## North West England
   | Everton | FC Everton
+  | Everton Football Club
 Liverpool FC, 1892, @ Anfield, Liverpool (Anfield) › Lancashire
   | Liverpool | FC Liverpool
+  |  Liverpool Football Club
 
 Blackburn Rovers FC,  @ Ewood Park,  Blackburn › Lancashire
   | Blackburn | Blackburn Rovers
   | Blackburn Rovers Football Club
 Burnley FC, 1882,    @ Turf Moor,   Burnley › Lancashire
   | Burnley | FC Burnley
+  | Burnley Football Club
 
 Blackpool FC,    @ Bloomfield Road,    Blackpool › Lancashire
   | Blackpool | FC Blackpool
@@ -113,9 +123,11 @@ Nelson FC,           Nelson, Lancashire
 
 Manchester United FC, 1878, @ Old Trafford, Manchester (Old Trafford)     ## North West England
   | Man Utd | Man. United | Manchester U. |  Manchester Utd. | Manchester United
+  | Manchester United Football Club
   | Newton Heath FC   # old name before reform in season 1902/3
 Manchester City FC, 1880, @ Etihad Stadium,  Manchester     ## North West England
   | Man City | Manchester City | Man. City | Manchester C.
+  | Manchester City Football Club
   | Ardwick FC        # old name before reform in season 1894/5
 
 Oldham Athletic AFC,    @ Boundary Park,  Oldham › Greater Manchester
@@ -156,6 +168,7 @@ Salford City FC,   Salford › Greater Manchester
 
 Aston Villa FC, 1874,    @ Villa Park, Birmingham › Warwickshire   ## West Midlands
   | Aston Villa | Villa
+  | Aston Villa Football Club
 Birmingham City FC,  @ St Andrew's,  Birmingham › Warwickshire   ## West Midlands
   | Birmingham | Birmingham City
   | Birmingham City Football Club
@@ -165,6 +178,7 @@ Birmingham City FC,  @ St Andrew's,  Birmingham › Warwickshire   ## West Midla
 
 Newcastle United FC, 1892, @ St James' Park, Newcastle upon Tyne › Northumberland   ## North East
   | Newcastle | Newcastle Utd. | Newcastle United
+  | Newcastle United Football Club
 Newcastle West End FC,  Newcastle upon Tyne › Northumberland
 # merged into United in 1893/4
 Newcastle East End FC,  Newcastle upon Tyne › Northumberland
@@ -212,6 +226,7 @@ Coventry City FC,     @ Ricoh Arena,   Coventry › West Midlands
   | Coventry City Football Club
 Wolverhampton Wanderers FC,    @ Molineux,  Wolverhampton › West Midlands
   | Wolves | Wolverhampton | Wolverhampton Wand. | Wolverhampton Wanderers
+  | Wolverhampton Wanderers Football Club
 Walsall FC,       @ Bescot Stadium,     Walsall › West Midlands
   | Walsall | FC Walsall
   | Walsall Town Swifts FC   # old name before season 1895/6
@@ -280,6 +295,7 @@ Sheffield Wednesday FC,   @ Hillsborough,  Sheffield (Owlerton) › South Yorksh
   | Sheffield Wednesday Football Club
 Sheffield United FC,  @ Bramall Lane,  Sheffield (Highfield) › South Yorkshire
   | Sheffield United | Sheff. United | Sheffield Utd. | Sheffield U.
+  | Sheffield United Football Club
 
 Barnsley FC,   @ Oakwell,  Barnsley › South Yorkshire
   | Barnsley | FC Barnsley
@@ -358,11 +374,14 @@ Notts County FC,        @ Meadow Lane,   Nottingham › Nottinghamshire
   | Notts County
 Nottingham Forest FC,    @ City Ground,  West Bridgford › Nottinghamshire
   | Nott'm Forest | Nott'ham Forest | Nottingham Forest
+  | Nottingham Forest Football Club
 Mansfield Town FC,    @ Field Mill,  Mansfield › Nottinghamshire
   | Mansfield | Mansfield Town
 
 AFC Bournemouth, 1890, @ Dean Court, Bournemouth › Dorset
   | Bournemouth | A.F.C. Bournemouth | Bournemouth FC
+  | Athletic Football Club Bournemouth
+
 Weymouth FC,       Weymouth › Dorset
   | Weymouth
 
@@ -379,6 +398,7 @@ Slough Town FC, 1893, Slough › Berkshire
 Brighton & Hove Albion FC,  @ American Express Stadium,  Falmer › East Sussex     # Brighton?
   | Brighton | Brighton & Hove | Brighton & Hove Albion
   | Brighton Hove Albion
+  | Brighton & Hove Albion Football Club
 Eastbourne Borough FC,   Eastbourne › East Sussex
   | Eastbourne Borough
 Lewes FC,          Lewes › East Sussex
@@ -469,6 +489,7 @@ Ebbsfleet United FC,  Northfleet › Kent      ## note: before 2007, the club wa
 
 Luton Town FC,      @ Kenilworth Road,    Luton › Bedfordshire
   | Luton | Luton Town
+  | Luton Town Football Club
 
 Milton Keynes Dons FC,    @ Stadium:mk,  Milton Keynes › Buckinghamshire
   | Milton Keynes Dons | MK Dons

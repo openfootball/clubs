@@ -48,6 +48,7 @@ AC Milan,                 Milano
 FC Internazionale Milano, Milano
   | Inter | Internazionale
   | Inter Milan
+  | Football Club Internazionale Milano
   | Inter Mailand [de]
 
 Atalanta Bergamo,            Bergamo
@@ -163,7 +164,9 @@ Ravenna FC, Ravenna
 
 Bologna FC,      Bologna
   | Bologna | FC Bologna
-  | Bologna FC 1909 | Bologna Football Club 1909
+  | Bologna FC 1909 
+  | Bologna Football Club 1909
+  | Bologna Football Club
 
 US Sassuolo Calcio, 1922,   Sassuolo
   | Sassuolo | US Sassuolo | Sassuolo Calcio | Unione Sportiva Sassuolo Calcio
@@ -291,6 +294,7 @@ SS Fidelis Andria, Andria
   | F. Andria | SS Fidelis Andria 1928
 US Lecce, Lecce
   | Lecce
+  | Unione Sportiva Lecce
 AS Lucchese Libertas,	Lucca
   | Lucchese | AS Lucchese Libertas 1905
 

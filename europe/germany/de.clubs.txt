@@ -6,6 +6,7 @@
 
 Bayern München, 1900,     München
   | Bayern | Bayern Mün. | FC Bayern München
+  | Fußball Club Bayern München
   | Bayern Munich [en] | FC Bayern Munich [en]
  Säbener Straße 51-57 // 81547 München
 ii) Bayern München II
@@ -40,6 +41,7 @@ ii) SpVgg Greuther Fürth II
 
 FC Augsburg, 1907,    Augsburg
   | Augsburg
+  | Fußball-Club Augsburg 1907
  Donauwörther Str. 170 // 86154 Augsburg
 ii) FC Augsburg II
   | Augsburg II
@@ -90,6 +92,7 @@ TSV 1896 Rain
 1. FC Köln, 1948,   Köln
   | Köln            ## add Köln too - why? why not?
   | FC Köln
+  | 1. Fußball-Club Köln
  Franz-Kremer-Allee 1 // 50937 Köln
 
 Fortuna Köln, 1948,  Köln
@@ -109,6 +112,7 @@ Borussia Dortmund, 1909,    Dortmund
   | BV 09 Borussia Dortmund
   | BV Borussia 09 Dortmund
   | BVB | BVB 09
+  | Ballspielverein Borussia 1909 Dortmund
  Rheinlanddamm 207-209 // 44137 Dortmund
 ii) Borussia Dortmund II
   | Dortmund II | Bor. Dortmund II
@@ -121,6 +125,7 @@ FC Schalke 04, 1904,         Gelsenkirchen
 Bayer 04 Leverkusen, 1904,    Leverkusen
   | Leverk. | Leverkusen
   | Bayer | B. Leverkusen | Bay. Leverkusen | Bayer Leverkusen
+  | Turn- und Sportverein Bayer 04 Leverkusen
  Bismarckstr. 122 - 124 // 51373 Leverkusen
 
 MSV Duisburg,         Duisburg
@@ -131,10 +136,12 @@ Bor. Mönchengladbach, 1900, Mönchengladbach
   | Mönchengladbach | M'gladbach | B. M'gladbach
   | Borussia M'gladbach | Bor. M'gladbach  | Borussia Mönchengladbach
   | VfL Borussia Mönchengladbach
+  | Borussia Verein für Leibesübungen 1900 Mönchengladbach
  Hennes-Weisweiler-Allee 1 // 41179 Mönchengladbach
 
 VfL Bochum, 1938,            Bochum
   | Bochum | VfL Bochum 1848
+  | Verein für Leibesübungen Bochum 1848
  Castroper Straße 145 // 44791 Bochum
 
 SG Wattenscheid 09,    Bochum (Wattenscheid)    ## Bochum-Wattenscheid - Bochumer Stadtbezirk
@@ -230,6 +237,7 @@ VfL Osnabrück,               Osnabrück
   | Verein für Leibesübungen von 1899 Osnabrück
 VfL Wolfsburg,           Wolfsburg
   | Wolfsburg
+  | Verein für Leibesübungen Wolfsburg
  In den Allerwiesen 1 // 38446 Wolfsburg
 
 Hannover 96, 1896,       Hannover
@@ -329,6 +337,7 @@ Hertha BSC, 1892,            	Berlin
 1. FC Union Berlin, 1966,     Berlin
   | Union B. | Un. Berlin | Union Berlin | FC Union Berlin
   | 1. FC Union
+  | 1. Fußball-Club Union Berlin
  An der Wuhlheide 263 // 12555 Berlin
 
 Tennis Borussia Berlin, Berlin
@@ -385,6 +394,7 @@ HSV Barmbek-Uhlenhorst
 
 Werder Bremen, 1899,      Bremen
   | Bremen | W. Bremen | SV Werder Bremen
+  | Sport-Verein Werder von 1899 Bremen
  Franz-Böhmert-Straße 1c // 28205 Bremen
 ii) Werder Bremen II
   | Wrd Bremen II
@@ -404,6 +414,7 @@ LTS Bremerhaven,  1898,  Bremerhaven (Lehe)
 
 VfB Stuttgart, 1893,        Stuttgart
   | Stuttgart
+  | Verein für Bewegungsspiele Stuttgart 1893
  Mercedesstraße 109 // 70372 Stuttgart
 ii) VfB Stuttgart II
   | Stuttgart II
@@ -414,12 +425,14 @@ Stuttgarter Kickers,   Stuttgart
 
 SC Freiburg, 1904,       	  Freiburg
   | Freiburg
+  | Sport-Club Freiburg
  Schwarzwaldstr. 193 // 79117 Freiburg
 ii) SC Freiburg II
 
 
 TSG 1899 Hoffenheim,  1899,  Sinsheim   ## Sinsheim-Hoffenheim
   | Hoffenheim | 1899 Hoffenh. | 1899 Hoffenheim | TSG Hoffenheim
+  | Turn- und Sportgemeinschaft 1899 Hoffenheim
  Horrenberger Straße 58 // 74939 Zuzenhausen       ## check for Hoffenheim ??
 
 Karlsruher SC,  1894,        Karlsruhe
@@ -436,6 +449,7 @@ VfR Aalen, 1921,          Aalen
 
 1. FC Heidenheim, 2007,   Heidenheim an der Brenz
   | Heidenheim | FC Heidenheim | 1. FC Heidenh. | 1. FC Heidenheim 1846
+  | 1. Fußballclub Heidenheim 1846
 SSV Reutlingen 05,     Reutlingen
   | Reutlingen | SSV Reutlingen
 SV Sandhausen, 1916,         Sandhausen
@@ -493,6 +507,7 @@ FSV Frankfurt, 1899,       Frankfurt am Main
 
 SV Darmstadt 98, 1898,       Darmstadt
   | Darmstadt | Darmstadt 98
+  | Sportverein Darmstadt 1898
 SV Wehen Wiesbaden,     Wiesbaden
   | Wehen | Wiesbaden | W. Wiesbaden | Weh. Wiesbaden | Wehen Wiesbaden
   | SV Wehen Wiesb.
@@ -519,6 +534,7 @@ TSV Steinbach Haiger
 
 1. FSV Mainz 05, 1905,   Mainz
   | Mainz | Mainz 05 | FSV Mainz 05
+  | 1. Fußball-und Sportverein Mainz 05
  Isaac-Fulda-Allee 5 // 55124 Mainz
 ii) 1. FSV Mainz 05 II
   | Mainz 05 II

@@ -6,6 +6,7 @@
 
 SK Rapid Wien, 1899,    Wien (Hütteldorf)
   | Rapid | Rapid Wien
+  | Sportklub Rapid Wien
   | Rapid Vienna [en]
  Keisslergasse 3 // 1140 Wien
 ii) SK Rapid Wien II
@@ -14,6 +15,7 @@ ii) SK Rapid Wien II
 
 FK Austria Wien, 1911,  Wien (Favoriten)
   | Austria | Austria Wien
+  | Fussballklub Austria Wien
   | Austria Vienna [en]
  Fischhofgasse 12 // 1100 Wien
 ii) Young Violets Austria Wien
@@ -274,6 +276,7 @@ SVg Purgstall
 
 LASK Linz, 1899,      Linz (Pasching)          ## use Pasching ??
   | LASK | Linzer ASK
+  | Linzer Athletik Sport-Klub Linz
 ii) LASK Amateure OÖ
   | LASK Juniors OÖ
 
@@ -303,6 +306,7 @@ ASKÖ Pasching (1946-2007), Linz (Pasching)
 
 FC Blau-Weiß Linz, Linz
   | BW Linz | Blau-Weiß Linz
+  | Fußball Club Blau-Weiß Linz
 
 FC Stahl Linz,       Linz
   | SK VOEST Linz
@@ -381,6 +385,7 @@ SK Bad Wimsbach
 SK Sturm Graz, 1909,       Graz
   | Sturm | Sturm Graz
   | SK $$Puntigamer$$ Sturm Graz
+  | Sportklub $$Puntigamer$$ Sturm Graz
  Sternäckerweg 118 // 8042 Graz
 ii) SK Sturm Graz II
   | Sturm Graz II
@@ -395,6 +400,7 @@ TSV Hartberg, 1946,    Hartberg
   | TSV $$Sparkasse$$ Hartberg
   | TSV $$Prolactal$$ Hartberg
   | Turn- und Sportverein Hartberg
+  | Turn- und Sportverein $$Prolactal$$ Hartberg
 
 
 Kapfenberger SV,   Kapfenberg
@@ -447,6 +453,7 @@ Wolfsberger AC, 1931, Wolfsberg
   | WAC
   | WAC/St. Andrä | Wolfsberger AC/St. Andrä
   | $$RZ Pellets$$ WAC           ## $$$ note: RZ Pellets is a sponsor name
+  | $$Riegler & Zechmeister Pellets$$ Wolfsberger Athletik Club
  Don Bosco Weg 1 // 9400 Wolfsberg
 ii) Wolfsberger AC II
   | WAC Amateure | WAC A.
@@ -460,6 +467,7 @@ ATSV Wolfsberg, 	Wolfsberg
 Austria Klagenfurt, Klagenfurt
   | A. Klagenfurt | Aus. Klagenfurt
   | SK Austria Klagenfurt | SG Austria Klagenfurt
+  | Sportklub Austria Klagenfurt
   | FC Kärnten     ## todo: keep as separate club - why? why not?
 
 Austria Kärnten (2007-2010), Klagenfurt
@@ -509,7 +517,9 @@ SV St. Jakob/Rosental
 == Salzburg ==
 
 FC RB Salzburg, 1933,      Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
-  | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg | FC Red Bull Salzburg
+  | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg 
+  | FC Red Bull Salzburg
+  | Football Club Red Bull Salzburg
  Stadionstraße 2/3 // 5071 Wals-Siezenheim   ## Salzburg
 ii) FC RB Salzburg II        ## check for old name until season 2011/12 - now "independent" Liefering?
   | RB Salzburg II | FC Red Bull Salzburg II
@@ -577,7 +587,9 @@ WSG Tirol, 1930,   Wattens
   | WSG $$Swarovski$$ Tirol | WSG $$Swarovs.$$ Tirol | Wattener Sportgemeinschaft Tirol
   | $$S.$$ Tirol | $$Swarovski$$ Tirol
   | Wattens | WSG Wattens | WSG $$Swarovski$$ Wattens        ## $$$ note: Swarovski is a sponsor
+  | Wattener Sportgemeinschaft $$Swarovski$$ Tirol
 ii) WSG Tirol Amateure
+
 
 SC Schwaz,    Schwaz
   | Schwaz
@@ -606,12 +618,14 @@ SCR Altach, 1929,          Altach
   | Altach
   | Rheindorf Altach | SC Rheindorf Altach | Sportclub Rheindorf Altach
   | $$Cashpoint$$ SCR Altach
+  | $$Cashpoint$$ Sportclub Rheindorf Altach
  Schnabelholz 1 // 6844 Altach
 ii) SCR Altach Juniors
   | Altach Amateure
 
 Austria Lustenau, 1914,   Lustenau
   | A. Lustenau | SC Austria Lustenau
+  | Sportclub Austria Lustenau
 ii) Austria Lustenau Amateure
   | SC Austria Lustenau Amateure
   | Austria Lustenau A.

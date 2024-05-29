@@ -2,5 +2,7 @@
 =   Monaco
 
 AS Monaco,  1924,      Monaco
-  | Monaco | AS Monaco FC | Association sportive de Monaco FC
+  | Monaco | AS Monaco FC 
+  | Association sportive de Monaco FC
   | Association Sportive de Monaco Football Club
+  | Association Sportive de Monaco

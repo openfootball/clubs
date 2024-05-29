@@ -55,6 +55,7 @@ UD Almería,       Almería
   | Almería | Unión Deportiva Almería
 Cádiz CF,         Cádiz
   | Cádiz
+  | Cádiz Club de Fútbol
   | FC Cádiz [de]
 Córdoba CF,       Córdoba
   | Córdoba | Córdoba Club de Fútbol
@@ -168,6 +169,7 @@ SD Eibar,          Eibar
 
 Athletic Club Bilbao,   Bilbao    ## use Athletic Club - why? why not?
   | Athletic | Athletic Club | Ath. Bilbao | Athl. Bilbao | Athletic Bilbao
+  | Athletic Club de Bilbao
 ii) Athletic Club Bilbao B
   | Ath. Bilbao B | Athletic Bilbao B
 
