@@ -35,8 +35,10 @@ Kingstonian FC,  1885,  London (Kingston upon Thames)
 
 Queens Park Rangers FC, 1882,  @ Loftus Road, London (Shepherd's Bush)   ## Greater London
   | QPR | Queens Park R. | Queens Park Rangers
+  | Queens Park Rangers Football Club
 Millwall FC,      @ The Den,     London (South Bermondsey)        # London (South Bermondsey) or  London-South Bermondsey
   | Millwall | FC Millwall
+  | Millwall Football Club
   | Millwall Athletic FC   # old name before season 1925/6
 Brentford FC,        @ Griffin Park,  London (Brentford)        #  London (Brentford)  or London-Brentford, Greater London
   | Brentford | FC Brentford
@@ -88,6 +90,7 @@ Liverpool FC, 1892, @ Anfield, Liverpool (Anfield) › Lancashire
 
 Blackburn Rovers FC,  @ Ewood Park,  Blackburn › Lancashire
   | Blackburn | Blackburn Rovers
+  | Blackburn Rovers Football Club
 Burnley FC, 1882,    @ Turf Moor,   Burnley › Lancashire
   | Burnley | FC Burnley
 
@@ -98,6 +101,7 @@ South Shore FC,                        Blackpool › Lancashire
 
 Preston North End FC,   @ Deepdale,  Preston › Lancashire   ## North West
   | Preston | Preston North End
+  | Preston North End Football Club
 AFC Fylde,            Wesham › Lancashire       ## in the Borough of Fylde
   | Fylde
 Darwen FC (1870-2009),    Darwen › Lancashire  ## North West England
@@ -154,6 +158,7 @@ Aston Villa FC, 1874,    @ Villa Park, Birmingham › Warwickshire   ## West Mid
   | Aston Villa | Villa
 Birmingham City FC,  @ St Andrew's,  Birmingham › Warwickshire   ## West Midlands
   | Birmingham | Birmingham City
+  | Birmingham City Football Club
   | Birmingham FC   # old name before season 1945/6
   | Small Heath FC  # old name before season 1905/6
 
@@ -175,6 +180,7 @@ Gateshead FC,  Gateshead › Tyne and Wear
 
 Southampton FC, 1885,   @ St Mary's Stadium, Southampton › Hampshire
   | Southampton | FC Southampton
+  | Southampton Football Club
 Aldershot Town FC,     Aldershot › Hampshire
   | Aldershot | Aldershot Town
 Portsmouth FC,      @ Fratton Park,    Portsmouth › Hampshire
@@ -189,17 +195,21 @@ Havant & Waterlooville FC,  Havant › Hampshire
 
 Sunderland AFC, 1879,  @ Stadium of Light,  Sunderland
   | Sunderland | AFC Sunderland
+  | Sunderland Association Football Club
 
 Leicester City FC, 1884,  @ King Power Stadium,  Leicester
   | Leicester | Leicester City
+  | Leicester City Football Club
 Loughborough FC (1886-1900),   Loughborough › Leicestershire,
   | Loughborough
 
 
 West Bromwich Albion FC, 1878, @ The Hawthorns, West Bromwich › West Midlands
   | West Brom | West Bromwich Albion | West Bromwich | Albion
+  | West Bromwich Albion Football Club
 Coventry City FC,     @ Ricoh Arena,   Coventry › West Midlands
   | Coventry | Coventry City
+  | Coventry City Football Club
 Wolverhampton Wanderers FC,    @ Molineux,  Wolverhampton › West Midlands
   | Wolves | Wolverhampton | Wolverhampton Wand. | Wolverhampton Wanderers
 Walsall FC,       @ Bescot Stadium,     Walsall › West Midlands
@@ -218,6 +228,7 @@ York City FC,       @ Bootham Crescent,   York › North Yorkshire
   | York | York City
 Middlesbrough FC, 1876,  @ Riverside Stadium,   Middlesbrough › North Yorkshire
   | Middlesbrough | Middlesboro | FC Middlesbrough
+  | Middlesbrough Football Club
 Middlesbrough Ironopolis FC (1889-1894), Middlesbrough › North Yorkshire
   | Middlesbrough Ironopolis
 
@@ -238,6 +249,7 @@ Harrogate Town AFC,  Harrogate › North Yorkshire
 Leeds United FC,  @ Elland Road,    Leeds › West Yorkshire
   | Leeds | Leeds United
   | Leeds United AFC
+  | Leeds United Association Football Club
 Leeds City FC (1904-1919),  Leeds › West Yorkshire
   | Leeds City
 
@@ -248,6 +260,7 @@ Bradford Park Avenue AFC,  Bradford › West Yorkshire
 
 Huddersfield Town AFC,  @ John Smith's Stadium,  Huddersfield › West Yorkshire
   | Huddersfield | Huddersfield Town
+  | Huddersfield Town Association Football Club
 FC Halifax Town,     Halifax › West Yorkshire
   | Halifax | Halifax Town
 Farsley Celtic FC,     Farsley › West Yorkshire
@@ -257,12 +270,14 @@ Guiseley AFC,   Guiseley › West Yorkshire
 
 Hull City AFC, 1904,   @ KC Stadium,   Hull › East Yorkshire    ## change Hull to Kingston upon Hull  - why? why not?
   | Hull | Hull City | Hull City FC
+  | Hull City Association Football Club
 North Ferriby United AFC,  North Ferriby › East Yorkshire
   | North Ferriby
 
 Sheffield Wednesday FC,   @ Hillsborough,  Sheffield (Owlerton) › South Yorkshire
   | Sheffield Wed | Sheffield Weds | Sheffield Wednes. | Sheffield Wednesday
   | The Wednesday FC   # old name before season 1929/30
+  | Sheffield Wednesday Football Club
 Sheffield United FC,  @ Bramall Lane,  Sheffield (Highfield) › South Yorkshire
   | Sheffield United | Sheff. United | Sheffield Utd. | Sheffield U.
 
@@ -272,6 +287,7 @@ Barnsley FC,   @ Oakwell,  Barnsley › South Yorkshire
   | Barnsley St. Peter's FC   # old name before season 1899/00
 Rotherham United FC,    @ New York Stadium,  Rotherham › South Yorkshire
   | Rotherham | Rotherham United
+  | Rotherham United Football Club
 Rotherham County FC (1870-1925), Rotherham › South Yorkshire
   | Rotherham County
 Rotherham Town FC (1899-1925), Rotherham › South Yorkshire   ## note: a second Rotherham Town formed in 1899; first in 1878-1896
@@ -282,6 +298,7 @@ Doncaster Rovers FC,    @ Keepmoat Stadium,  Doncaster › South Yorkshire
 
 Stoke City FC, 1863,  @ Britannia Stadium,  Stoke-on-Trent › Staffordshire
   | Stoke | Stoke City
+  | Stoke City Football Club
   | Stoke FC  # old name before season 1925/6
 Port Vale FC,         @ Vale Park,   Stoke-on-Trent › Staffordshire
   | Port Vale
@@ -304,12 +321,14 @@ Derby County FC,    @ iPro Stadium,    Derby › Derbyshire
   | Derby County Football Club
 Norwich City FC, 1890,     @ Carrow Road,    Norwich › Norfolk
   | Norwich | Norwich City
+  | Norwich City Football Club
 
 King's Lynn FC, 2010,   King's Lynn › Norfolk
   | King's Lynn | King's Lynn Town | King's Lynn Town FC
 
 Watford FC, 1881,   @ Vicarage Road,  Watford › Hertfordshire
   | Watford | FC Watford
+  | Watford Football Club
 Hitchin Town FC,  1928,  Hitchin › Hertfordshire
   | Hitchin Town
 
@@ -333,6 +352,7 @@ Histon FC,          Histon and Impington › Cambridgeshire
 
 Ipswich Town FC,   @ Portman Road,  Ipswich › Suffolk
   | Ipswich | Ipswich Town
+  | Ipswich Town Football Club
 
 Notts County FC,        @ Meadow Lane,   Nottingham › Nottinghamshire
   | Notts County
@@ -414,6 +434,7 @@ Grimsby Town FC,        Cleethorpes › North East Lincolnshire
 
 Bristol City FC,     @ Ashton Gate,  Bristol                ## South West
   | Bristol City
+  | Bristol City Football Club
 Bristol Rovers FC,   @ Memorial Stadium,  Bristol
   | Bristol Rvs | Bristol Rovers
   | Bristol Rovers Football Club
@@ -427,6 +448,7 @@ New Brighton Tower FC (1898-1901), New Brighton › Merseyside
 
 Plymouth Argyle FC,     @ Home Park,  Plymouth › Devon
   | Plymouth | Plymouth Argyle
+  | Plymouth Argyle Football Club
 Exeter City FC,     @ St James Park,  Exeter › Devon
   | Exeter | Exeter City
   | Exeter City Football Club

@@ -218,7 +218,7 @@ FC 08 Homburg,       Homburg
 VfB Borussia Neunkirchen,  Neunkirchen
   | Borussia Neunkirchen
 
-SV Elversberg,   
+SV Elversberg  
   | Elversberg 07 | SV 07 Elversberg
   | Sportvereinigung 07 Elversberg
 

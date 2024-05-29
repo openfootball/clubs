@@ -197,8 +197,11 @@ Konyaspor,     Konya
 
 
 Sivasspor,     Sivas
+  | Sivasspor Kulübü
 Trabzonspor,   Trabzon
   | Trabzonspor AŞ
+  | Trabzonspor Profesyonel Futbol Takımı
+
 
 Yeni Malatyaspor, 1986, Malatya  # note: Not to be confused with Malatyaspor
   | Y. Malatyaspor | Yeni Malatyasp. | Yeni Malatya Spor Kulübü
@@ -224,6 +227,7 @@ Gazişehir Gaziantep FK,  1988, Gaziantep         # formerly known as Gaziantep 
 
 Çaykur Rizespor, Rize
   | Rizespor
+  | Çaykur Rize Gençlik ve Spor Kulübü Derneği
 
 Balıkesirspor,       Balıkesir
 

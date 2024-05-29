@@ -7,22 +7,27 @@ Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
   | Loko Moscow [en] | Lokomotiv Moscow [en] | FC Lokomotiv Moscow [en]
   | Lok Moskau [de]
   | FK Lokomotiv Moskva
+  | Futbolniy Klub Lokomotiv (Moskva)
 
 PFC CSKA Moskva, 1911,   Moskva
   | CSKA | PFK CSCA | CSKA Moskva
   | CSKA Moscow [en] | PFC CSKA Moscow [en] | PFK CSKA Moscow [en]
   | ZSKA Moskau [de]
+  | Professionalniy Futbolniy Klub Tsentralniy Sportivniy Klub Armii (Moskva)
 
 Dynamo Moskva, 1923,     Moskva
   | Dynamo | Dinamo | Dinamo Moskva | FC Dinamo Moskva
   | Dynamo Mosc [en] | Dynamo Moscow [en] | Dinamo Moscow [en] | FC Dynamo Moscow [en]
   | Dinamo Moskau [de]
+  | Futbolniy Klub Dynamo (Moskva)
+
 
 FC Spartak Moskva, 1922,    Moskva
   | Spartak | FC Spartak | Spartak Moskva
   | Spartak Moscow [en] | FC Spartak Moscow [en]
   | Spartak Moskau [de] | FC Spartak Moskau [de]
   | FK Spartak Moskva
+  | Futbolniy Klub Spartak (Moskva)
 ii) Spartak Moskva II
   | Spartak Moskau II [de]
   | Spartak Moskva 2
@@ -71,17 +76,20 @@ Zenit St. Petersburg, 1925,     St. Petersburg
   | Zenit | Zenit Petersb. | Zenit Petersburg | Zenit St. Peter | Zenit St. Petersb. | Zenit Saint Petersburg
   | FC Zenit | FC Zenit St Petersburg | FC Zenit Saint Petersburg
   | FK Zenit Sankt-Petersburg
+  | Futbolniy Klub Zenit (Sankt-Peterburg)
 
 Dinamo St. Petersburg,     St. Petersburg
 
 
 PFC Sochi, 2018, Sochi      #  formed in 2018 on the base of FC Dynamo Saint Petersburg
   | Sochi | Professional Football Club Sochi
+  | Professionalniy Futbolniy Klub Sochi
   | FK Sochi [de]
 
 
 FC Rubin Kazan, 1958,  Kazan     ##  Tatarstan (Republic of) > Volga (Federal District)
   | Rubin | FC Rubin | Rubin Kazan
+  | Futbolniy Klub Rubin (Kazan)
 
 FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
   | Amkar | Amkar Perm
@@ -105,6 +113,7 @@ PFC Krylya Sovetov Samara,    Samara
   | Krylia Sovetov | Kryl'ia Sovetov | Krylia Sovetov Samara | PFC Krylia Sovetov Samara
   | Krylya Sovetov Samara
   | Kryliya Sovetov [de]
+  | Professionalniy Futbolniy Klub Krylia Sovetov (Samara)
 
 Arsenal Tula,  Tula
   | Arsenal | FC Arsenal Tula
@@ -122,6 +131,7 @@ FC Khimki,  Khimki
 FC Krasnodar,  Krasnodar
   | Krasnodar | Krasnodar Krasnodar
   | FK Krasnodar
+  | Futbolniy Klub Krasnodar
 ii) FC Krasnodar 2
   | FK Krasnodar 2
   | Krasnodar-2 | FC Krasnodar-2
@@ -133,6 +143,7 @@ FC Kuban,    Krasnodar
 FC Baltika, Kaliningrad
   | Baltika Kaliningrad | FC Baltika Kaliningrad
   | FK Baltika
+  | Futbolniy Klub Baltika Kaliningrad
 
 Luch Energia Vladivostok,   Vladivostok
   | Luch | Luch-Energia | Luch Vladivostok
@@ -145,13 +156,18 @@ FC Mordovia,   Saransk
 Spartak Nalchik,   Nalchik
   | Nalchik
 
-Nizhnii Novgorod,  Nizhny Novgorod
+Pari Nizhny Novgorod,  Nizhny Novgorod
+  | Futbolniy Klub Pari Nizhny Novgorod
+  | FC Pari Nizhny Novgorod
+  | Nizhnii Novgorod
   | Nizhny Novgorod | FC Nizhny Novgorod
   | FK Nizhny Novgorod
+# that was called FC Nizhny Novgorod from 2018 to 2022. 
 ## The club has been known under different names:
 ##   2015–2016: FC Volga-Olimpiyets Nizhny Novgorod
 ##   2016–2018: FC Olimpiyets Nizhny Novgorod
 ##   2018–present: FC Nizhny Novgorod
+
 
 Volga Nizhnii Novgorod, Nizhny Novgorod
   | Volga | Volga N. Novgorod
@@ -161,6 +177,8 @@ Volga Nizhnii Novgorod, Nizhny Novgorod
 
 FC Rostov,     Rostov-on-Don
   | Rostov | Rostov Rostov-on-Don | FK Rostov
+  | Futbolniy Klub Rostov (Rostov-na-Donu)
+
 
 Rotor, Volgograd
   | Rotor Volgograd | FC Rotor Volgograd
@@ -182,10 +200,13 @@ SKA Khabarovsk, Khabarovsk
 Sokol, Saratov
 Terek Grozny, Grozny
   | Terek | FC Terek Grozny
+
 Akhmat Grozny, Grozny
   | Akhmat | FC Akhmat Grozny
   | FK Akhmat Grozny
   | FK Achmat Grozny [de]
+  | Republikanskiy Futbolniy Klub Akhmat (Grozny)
+
 Tom Tomsk, 1957,   Tomsk
   | Tom | Tom' | Tomsk | FC Tom Tomsk
   | FK Tom Tomsk
@@ -200,6 +221,7 @@ Ural Yekaterinburg, Yekaterinburg
   | Ural | FC Ural | FC Ural Yekaterinburg
   | FC Ural Sverdlovsk Oblast | Football Club Ural Sverdlovsk Oblast
   | FK Ural
+  | Futbolniy Klub Ural
   | Ural Jekaterinburg [de]
 
 Uralan, Elista
@@ -211,6 +233,8 @@ FC Tambov,  2013, Tambov
 FC Orenburg,  Orenburg
   | Orenburg | FK Orenburg
   | Gazovik Orenburg
+  | Futbolniy Klub Orenburg
+
 Volgar-Astrakhan,  Astrakhan
 
 Vladikavkaz,   Vladikavkaz
@@ -237,6 +261,7 @@ FC Chayka, Peschanokopskoye
 
 FC Fakel Voronezh, Voronezh
   | Fakel Voronezh
+  | Futbolniy Klub Fakel Voronezh
   | Fakel Worenesch [de]
 
 FC Armavir,  1959,  Armavir

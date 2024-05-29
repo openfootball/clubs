@@ -63,9 +63,12 @@ Penybont FC
 
 Swansea City AFC, 1912,     @ Liberty Stadium, Swansea
   | Swansea | Swansea City | Swansea City FC 
+  | Swansea City Association Football Club
 
 Cardiff City FC,  @ Cardiff City Stadium, Cardiff
   | Cardiff | Cardiff City
+  | Cardiff City Association Football Club
+
 
 Newport County AFC, 1912,  @ Rodney Parade, Newport
   | Newport | Newport County

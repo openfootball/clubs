@@ -11,7 +11,7 @@ AEK Athens FC,     Athens    ## use!? - Marousi or Maroussi a suburban city in t
 Panathinaikos FC,  Athens
   | Panathinaikos
   | Panathinaikos Athens
-  | Panetolikos Gymnastikos Philekpaideutikos Syllogos
+  | PAE Panathinaikos Athlitikos Omilos
 
 Apollon Smyrnis FC,  Athens
   | Apollon | Apollon Smyrnis
@@ -103,6 +103,7 @@ Xanthi FC,           Xanthi › Thrace
 Panetolikos GFS,     Agrinio › West Greece
   | Panetolikos | Panetolikos Agrinio
   | Panaitolikos
+  | Panetolikos Gymnastikos Philekpaideutikos Syllogos
 
 PAS Giannina FC,     Ioannina › Epirus
   | Giannina | PAS Giannina
