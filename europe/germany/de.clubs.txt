@@ -392,7 +392,7 @@ HSV Barmbek-Uhlenhorst
 
 == Bremen ==
 
-Werder Bremen, 1899,   @ Wohninvest Weserstadion,   Bremen
+Werder Bremen, 1899,   @ Weserstadion,   Bremen
   | Bremen | W. Bremen | SV Werder Bremen
   | Sport-Verein Werder von 1899 Bremen
  Franz-Böhmert-Straße 1c // 28205 Bremen
@@ -430,7 +430,7 @@ SC Freiburg, 1904,     @ Europa-Park Stadion,   Freiburg
 ii) SC Freiburg II
 
 
-TSG 1899 Hoffenheim,  1899,  @ PreZero Arena,   Sinsheim   ## Sinsheim-Hoffenheim
+TSG 1899 Hoffenheim,  1899,  @ Rhein-Neckar-Arena,   Sinsheim   ## Sinsheim-Hoffenheim
   | Hoffenheim | 1899 Hoffenh. | 1899 Hoffenheim | TSG Hoffenheim
   | Turn- und Sportgemeinschaft 1899 Hoffenheim
  Horrenberger Straße 58 // 74939 Zuzenhausen       ## check for Hoffenheim ??
@@ -447,7 +447,7 @@ VfR Aalen, 1921,          Aalen
   | Aalen
  Stadionweg 5/1 // 73430 Aalen
 
-1. FC Heidenheim, 2007,   @ Voith-Arena,  Heidenheim an der Brenz
+1. FC Heidenheim, 2007,   @ Albstadion,  Heidenheim an der Brenz
   | Heidenheim | FC Heidenheim | 1. FC Heidenh. | 1. FC Heidenheim 1846
   | 1. Fußballclub Heidenheim 1846
 SSV Reutlingen 05,     Reutlingen
@@ -494,7 +494,7 @@ FV Ravensburg,  1893,  Ravensburg
 
 == Hessen ==
 
-Eintracht Frankfurt, 1899,   @ Deutsche Bank Park,   Frankfurt am Main
+Eintracht Frankfurt, 1899,   @ Waldstadion,   Frankfurt am Main
   | Frankfurt
   | E. Frankfurt | Ein Frankfurt | Eint Frankfurt | Eintr. Frankfurt
   | SG Eintracht Frankfurt
