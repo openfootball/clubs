@@ -1,0 +1,230 @@
+============================================
+=  Germany 
+
+#
+# see www.bundesliga.de/de/fanzone/stadien
+#
+# note: use $$ for sponsored/commercial name  e.g. $Signal Iduna$ Park, $Veltins$-Arena, etc.
+#
+#  see List_of_football_stadiums_in_Germany 
+#  for more
+
+## use (74_176) for capacity - why? why not?
+##    maybe only needed for small grounds (2140) etc ???
+
+# todo/fix - auto-add city via address (no need to duplicate!!!)
+
+
+
+== Berlin ==
+
+Olympiastadion,   74_176, 1936, Berlin            # Hertha BSC
+   | Olympiastadion Berlin     ## (always) auto-add city to canonical name - why? why not?
+   Olympischer Platz 3 // 14053 Berlin    
+
+Alte Försterei, 21_738, 1920, Berlin              # 1. FC Union Berlin
+  | Stadion An der Alten Försterei
+  An der Wuhlheide 263 // 12555 Berlin
+
+
+== Brandenburg ==
+
+Stadion der Freundschaft, 22_528, 1930, Cottbus     # Energie Cottbus
+   Am Eliaspark 1 // 03042 Cottbus   
+
+
+== Hamburg ==
+
+Volksparkstadion,  51_055, 1953, Hamburg            #  Hamburger SV 
+  | $Imtech$ Arena
+  | Volksparkstadion Hamburg     ## auto-add city name - why? why not?
+  Sylvesterallee 7 // 22525 Hamburg  
+
+Millerntor-Stadion, 29_633, Hamburg                 # FC St. Pauli
+  Auf dem Heiligengeistfeld // 20359 Hamburg (St. Pauli)   
+
+
+== Bremen ==
+
+Weserstadion, 42_100,  Bremen                     # Werder Bremen
+  | $Wohninvest$ Weserstadion
+  Franz-Böhmert-Straße 7 // 28205 Bremen  
+
+
+== Nordrhein-Westfalen ==
+
+Westfalenstadion,   67_000,   Dortmund    #  Borussia Dortmund
+  | $Signal Iduna$ Park
+  | BVB Stadion Dortmund   # euro 2024 name
+  Strobelallee 50 // 44139 Dortmund
+
+Arena Auf Schalke,  53_804,  Gelsenkirchen    # FC Schalke 04
+  | $Veltins$-Arena
+  Rudi-Assauer-Platz 1 // 45891 Gelsenkirchen
+
+Müngersdorfer Stadion,  46_134, 2004,  Köln   #  1. FC Köln
+  | $RheinEnergie$ Stadion 
+  | Köln Stadion            # euro 2024 name 
+  | Cologne Stadium  [en]   # euro 2024 name
+  Aachener Str. 999 // 50933 Köln
+
+Stadion im Borussia-Park, 54_049, Mönchengladbach   # Borussia Mönchengladbach 
+  | Borussia-Park
+  Hennes Weisweiler Allee 1 // 41179 Mönchengladbach
+
+Ulrich-Haberland-Stadion, 30_210, 1958, Leverkusen  # Bayer 04 Leverkusen
+  | $Bay$Arena
+  | $Bay$Arena Leverkusen
+  Bismarckstraße 122-124 // 51373 Leverkusen
+
+Düsseldorf Arena, 54_600, 2005,  Düsseldorf      # Fortuna Düsseldorf
+  | $Esprit$ Arena
+  Arena-Straße 1 // 40474 Düsseldorf
+
+Ruhrstadion,  29_299, 1911,   Bochum   # VfL Bochum
+  | $Vonovia$ Ruhrstadion
+  | $Rewirpower$-Stadion
+  Castroper Str. 145 // 44791 Bochum
+
+Bielefelder Alm,  27_300, 1926, Bielefeld   # Arminia Bielefeld
+  | Alm-Stadion 
+  | $Schüco$ Arena
+  Melanchthonstraße 31a // 33615 Bielefeld
+
+Paderborner Stadion, 15_000, 2008, Paderborn    # SC Paderborn 07
+  | $Home Deluxe$ Arena 
+  | $Benteler$-Arena       # (2012–2022)
+  | SC Paderborn 07 Arena
+  Wilfried-Finke-Allee 1 // 33104 Paderborn
+
+
+== Bayern ==
+
+$Allianz$ Arena, 66_016, 2005,  München                    # FC Bayern München
+  | München Fußball Arena       # euro 2024 name
+  | Fußball Arena München       # euro 2024 name
+  | Munich Football Arena [en]  # euro 2024 name
+  Werner-Heisenberg-Allee 25 // 80939 München   
+
+Max-Morlock-Stadion,  41_926, Nürnberg                    # 1. FC Nürnberg
+  | Frankenstadion
+  | $Grundig$-Stadion  
+  Max-Morlock-Platz 1 // 90480 Nürnberg  
+
+
+Augsburg Arena, 30_660, 2009, Augsburg     # FC Augsburg
+  | $WWK$ Arena
+  | $SGL$ Arena   
+  Bürgermeister-Ulrich-Straße 90 // 86199 Augsburg
+
+Ronhof, 18_000, 1910, Fürth       # SpVgg Greuther Fürth
+  | Sportpark Ronhof
+  | $Trolli$ Arena
+  Laubenweg 60 // 90765 Fürth
+
+$Audi$-Sportpark,  15_690, 2010,  Ingolstadt     # FC Ingolstadt 04
+  Am Sportpark 1 // 85053 Ingolstadt
+
+
+== Baden-Württemberg ==
+
+Neckarstadion,   54_267,  Stuttgart   #  VfB Stuttgart
+  | $MHP$Arena                 # (2023-)
+  | $Mercedes-Benz$ Arena      # (2008–2023)
+  | Gottlieb-Daimler-Stadion   # (1993–2008)
+  | Stuttgart Arena            # euro 2024 name
+  Mercedesstraße 87 // 70372 Stuttgart
+
+Rhein-Neckar-Arena,  30_150,  2009, Sinsheim     # TSG 1899 Hoffenheim
+  | $PreZero$ Arena
+  | $Wirsol$ Rhein-Neckar-Arena
+  Dietmar-Hopp-Straße 1 // 74889 Sinsheim
+
+
+Europa-Park Stadion, 34_700,  2021, Freiburg   # SC Freiburg (new)
+  | Mooswaldstadion
+  Achim-Stocker-Straße 1 // 79108 Freiburg (im Breisgau)
+
+Dreisamstadion, 24_000, 1954,  Freiburg   # SC Freiburg  (before)
+  | $Mage Solar$ Stadion
+
+
+Wildparkstadion, 29_699, 1955,  Karlsruhe     # Karlsruher SC
+  Adenauerring 17 // 76131 Karlsruhe
+
+Städtisches Waldstadion Aalen, 13_251, 1949, Aalen  # VfR Aalen
+  | $Scholz$ Arena
+  Stadionweg 5 // 73430 Aalen
+
+Hardtwaldstadion, 12_100, 1951, Sandhausen    # SV Sandhausen
+  Jahnstraße 1 // 69207 Sandhausen
+
+Albstadion, 15_000, Heidenheim    # 1. FC Heidenheim 1846
+  | $Voith$-Arena
+  Schloßhaustraße 162 // 89522 Heidenheim an der Brenz
+
+
+== Hessen ==
+
+Waldstadion, 48_132, Frankfurt    #  Eintracht Frankfurt
+  | $Deutsche Bank$ Park
+  | $Commerzbank$-Arena
+  | Frankfurt Arena         # euro 2024 name
+  Mörfelder Landstraße 362 // 60528 Frankfurt am Main
+
+Stadion am Bornheimer Hang,  12_542, 1931, Frankfurt   # FSV Frankfurt
+  | $Frankfurter Volksbank$ Stadion
+  Richard-Herrmann-Platz 1 // 60386 Frankfurt am Main
+
+Jonathan-Heimes-Stadion am Böllenfalltor, 17_468, Darmstadt   # SV Darmstadt 98
+  | Merck-Stadion am Böllenfalltor
+  Nieder-Ramstädter Str. 170 // 64285 Darmstadt
+
+
+== Niedersachsen ==
+
+Niedersachsenstadion, 44_652,  Hannover    #  Hannover 96
+  | $HDI$-Arena
+  | Heinz-von-Heiden-Arena
+  Robert-Enke-Straße 1 // 30169 Hannover
+
+$Volkswagen$ Arena, 30_000,  2002, Wolfsburg    # VfL Wolfsburg
+  In den Allerwiesen 1 // 38446 Wolfsburg
+
+Eintracht-Stadion, 23_325,  1923, Braunschweig   # Eintracht Braunschweig
+  Hamburger Str. 210 // 38112 Braunschweig
+
+
+== Sachsen ==
+
+$Red Bull$ Arena,  2004, Leipzig
+   | RB Arena
+   | Leipzig Stadion       # euro 2024 name
+   | Leipzig Stadium [en]  # euro 2024 name
+  Am Sportforum 3 // 04105 Leipzig
+
+Zentralstadion (1955-2000), 44_199, Leipzig   #  old  Leipzig stadium replaced by red bull arena
+
+
+Dynamo-Stadion, 32_066,  Dresden   # Dynamo Dresden
+  | Rudolf-Harbig-Stadion 
+  | $Glücksgas$-Stadion
+  Lennéstraße 12 // 01069 Dresden
+
+Erzgebirgsstadion, 15_711, Aue    # FC Erzgebirge Aue
+  | $Sparkassen$-Erzgebirgsstadion
+  Gerd-Schädlich-Platz 1 // 08280 Aue-Bad Schlema
+
+
+== Rheinland-Pfalz ==
+
+Fritz-Walter-Stadion, 43_450, Kaiserslautern    #  1. FC Kaiserslautern
+   Fritz-Walter-Straße 1 // 67663 Kaiserslautern
+
+$Mewa$ Arena, 33_500, 2011, Mainz         # 1. FSV Mainz 05
+  | 1. FSV Mainz 05 Arena
+  | $Opel$ Arena       # (2016–2021)
+  | $Coface$ Arena     # (2011–2016)
+  Eugen-Salomon-Straße 1 // 55128 Mainz
+
+

@@ -1,0 +1,14 @@
+=========================
+=  Chile
+
+
+Estadio Santa Laura, 19_000, Santiago de Chile
+# club: Unión Española
+
+Estadio Monumental, 46_989, Santiago
+# club: O'Higgins
+
+
+Estadio Nacional de Chile, 48_665, Santiago de Chile
+# club: Universidad de Chile
+

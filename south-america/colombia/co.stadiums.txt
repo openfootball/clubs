@@ -1,0 +1,13 @@
+==========================
+=  Colombia
+
+
+Estadio Olímpico Pascual Guerrero, 33_130, Cali
+# club: Deportivo Cali
+
+Estadio Nemesio Camacho El Campín, 40_000, Bogotá
+# club: Santa Fe
+
+Estadio Atanasio Girardot, 45_943, Medellín
+# club: Atlético Nacional
+

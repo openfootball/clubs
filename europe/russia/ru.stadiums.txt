@@ -1,0 +1,40 @@
+=====================================
+=  Russia
+
+
+Spartak Stadium,  45_000, Moscow
+  | Spartak | Otkritie Arena | Otkrytiye Arena
+Luzhniki Stadium, 80_000, Moscow
+  | Luzhniki
+
+Saint Petersburg Stadium, 67_000, Saint Petersburg
+  | Saint Petersburg | Krestovsky Stadium | Zenit Arena
+
+
+Samara Arena,   45_000, Samara
+  | Samara | Cosmos Arena
+
+Nizhny Novgorod Stadium,  45_000, Nizhny Novgorod
+  | Nizhny Novgorod
+
+Volgograd Arena, 45_000, Volgograd
+  | Volgograd
+
+Ekaterinburg Arena, 35_000, Ekaterinburg
+  | Ekaterinburg | Central Stadium
+
+Mordovia Arena, 44_000, Saransk
+  | Mordovia
+
+Rostov Arena, 45_000, Rostov-on-Don
+  | Rostov
+
+Kaliningrad Stadium,  35_000, Kaliningrad
+  | Kaliningrad | Arena Baltika
+
+Kazan Arena, 45_000, Kazan
+  | Kazan
+
+Fisht Stadium, 45_000, Sochi
+  | Fisht | Fisht Olympic Stadium
+

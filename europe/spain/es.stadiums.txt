@@ -1,0 +1,21 @@
+====================================
+=  Spain
+
+Estadio Santiago Bernabéu,  85_454, 1947,  Madrid   # Real Madrid
+Estadio Vicente Calderón,   55_005, 1966,  Madrid   # Atlético Madrid
+
+Camp Nou, 96_636, 1957, Barcelona                         # FC Barcelona
+Estadi Olímpic Lluís Companys, 55_121, 1927,  Barcelona   # Espanyol Barcelona
+
+
+Estadio Benito Villamarín,  51_309, 1929,  Sevilla   # Betis Sevilla
+
+Estadio de La Cartuja, 57_619, 1997, Sevilla
+  | La Cartuja
+  | Estadio Olímpico de Sevilla
+
+Estadio Mestalla, 52_602, 1923, Valencia        # FC Valencia
+Estadi Ciutat de València, 26_354, Valencia      # Levante
+  | Estadio Ciudad de Valencia
+Coliseum Alfonso Pérez, 16_500, Getafe     # Getafe
+  | Coliseum

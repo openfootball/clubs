@@ -1,0 +1,139 @@
+===========================================
+=  Mexico
+
+
+== Ciudad de México ==     # México (Distrito Federal), D.F.
+
+Estadio Azteca, 105_084, 1966,  México
+  | Azteca
+  Calzada de Tlalpan 3465 // México, D.F.
+  # es.wikipedia: Estadio_Azteca
+  # clubs: América
+
+Estadio Azul, 40_000, 1946,  México
+  | Azul
+  Indiana 260, Col. Nápoles // México, D.F.
+  #  es.wikipedia: Estadio_Azul
+  # clubs: Cruz Azul
+
+Estadio Olímpico Universitario, 70_500,  1952,  México
+  | Olímpico Universitario
+  Av. Insurgents Sur s/n, Ciudad Universitaria, Coyoacán // México, D.F. C.P. 08400
+  # es.wikipedia: Estadio_Olímpico_Universitario
+  # clubs: UNAM
+
+
+
+== México ==     # Estado de México, Edomex.
+
+Estadio Nemesio Díez, 27_000, 1954,   Toluca
+  | Nemesio Díez
+  Constituyentes No. 1000, Col. La Merced // Toluca, Estado de México
+  # clubs: Toluca
+
+
+== Jalisco ==
+
+Estadio Jalisco, 56_713, 1960,  Guadalajara 
+  | Jalisco
+  Calle Siete Colinas 1772, Col. Independencia // Guadalajara, Jalisco
+  # es.wikipedia: Estadio_Jalisco
+  # clubs: Atlas
+
+Estadio Guadalajara, 49_850, 2010,  Guadalajara (Zapopan)
+  | Estadio $Omnilife$ | $Omnilife$ 
+  Av. Vallarta y Anillo Periférico, Zona Metropolitana de Guadalajara // Zapopan (Guadalajara), Jalisco
+  # clubs: Guadalajara
+
+
+== Nuevo León ==
+
+Estadio Tecnológico, 36_485, 1950,  Monterrey
+  | Tecnológico
+  Av. Junco de la Vega s/n Col. Estadio // Monterrey, Nuevo León
+  # clubs: Monterrey
+
+Estadio Universitario, 42_000, 1967, Monterrey
+  | Universitario
+  Av. Universidad s/n, San Nicolás de los Garza // Monterrey, Nuevo León
+  # clubs: Tigres
+
+
+== Michoacán ==
+
+Estadio Morelos, 38_869, 1989, Morelia
+  | Morelos
+  Libramiento Norte s/n, Col. Leandro Valle // Morelia, Michoacán
+  # clubs: Morelia
+
+
+== Hidalgo ==
+
+Estadio Hidalgo, 30_000,  1993, Pachuca
+  | Hidalgo
+  Blvd Felipe Ángeles s/n, Col. Santa Julia // Pachuca, Hidalgo
+  # clubs: Pachuca
+
+== Puebla ==
+
+Estadio Cuauhtémoc, 46_648,  1968, Puebla
+  | Cuauhtémoc
+  Calz. Ignacio Zaragoza s/n, Col. Unidad Deportiva Puebla // Puebla, Puebla
+  # clubs: Puebla
+
+
+== Querétaro ==
+
+Estadio La Corregidora, 34_130,  1985, Querétaro 
+  | La Corregidora | Corregidora
+  Av. de las Torres s/n, Col. Colinas del Cimatario // Querétaro, Querétaro
+  # clubs: Querétaro
+
+
+== Veracruz ==
+
+Estadio Luis "Pirata" Fuente, 30_000, 1968, Veracruz 
+  | Luis "Pirata" Fuente
+  Av. Paseos Jacarandas y Paseo Jardín Fraccionamiento Virginia Boca del Río // Veracruz, Veracruz
+  # clubs: Veracruz
+
+
+== Coahuila ==
+
+Estadio Moctezuma, 30_000, 2009, Torreón
+  | Estadio $Corona$
+  Calz. Territorio Santos Modelo No. 1, Col. Conjunto de Todos los Santos // Torreón, Coahuila
+  # clubs: Santos
+
+
+== Guanajuato ==
+
+Estadio León, 33_943, 1967, León
+  | León | Estadio Nou Camp  
+  Boulevard Adolfo López Mateos 1810, Col. La Martinica // León, Guanajuato
+  # clubs: León
+
+
+== Baja California ==
+
+Estadio Caliente, 24_000, 2007, Tijuana 
+  | Caliente
+  Boulevard Agua Caliente 12027, Col. Hipódromo // Tijuana, Baja California
+  # clubs: Tijuana
+
+
+== Quintana Roo ==
+
+Estadio Olímpico Andrés Quintana Roo, 18_500, 2007, Cancún 
+  | Olímpico Andrés Quintana Roo  
+  Av. Mayapan, Kabah y Av. La Luna s/n, Colonia Centro // Cancún, Quintana Roo
+  # clubs: Atlante
+
+
+== Chiapas ==
+
+Estadio Zoque Víctor Manuel Reyna, 31_500, 1982,  Tuxtla Gutiérrez 
+  | Víctor Manuel Reyna
+  Calz. de las Etnias s/n, esq. Blvd Fidel Velázquez, Col. Infonavit el Grijalva // Tuxtla Gutiérrez, Chiapas
+  # clubs: Chiapas
+

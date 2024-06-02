@@ -1,0 +1,24 @@
+============================
+= South Africa
+
+#  ten world cup 2010 venues
+
+Ellis Park Stadium, 55_686, Johannesburg
+Soccer City, 84_490, Johannesburg
+
+Cape Town Stadium, 64_100, Cape Town
+
+Moses Mabhida Stadium, 62_760, Durban
+
+Loftus Versfeld Stadium, 42_858, Pretoria
+
+Nelson Mandela Bay Stadium, 42_486,  Port Elizabeth
+
+Peter Mokaba Stadium, 41_733,  Polokwane
+
+Mbombela Stadium, 40_929,  Nelspruit
+
+Free State Stadium,  40_911, Bloemfontein
+
+Royal Bafokeng Stadium, 38_646, Rustenburg
+

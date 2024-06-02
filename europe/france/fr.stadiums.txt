@@ -1,0 +1,37 @@
+====================================
+=  France
+
+
+Stade de France, 81_338, 1998, Paris (Saint-Denis)     ##   www.stadefrance.com   # fix: use Saint-Denis??
+Parc des Princes,  51_000, 1972, Paris                 ##  www.leparcdesprinces.fr 
+
+Stade Vélodrome, 60_031, 1937, Marseille    ##  www.arema-velodrome.com   # teams: Olympique Marseille
+
+
+Stade de Lyon, 61_556, 2015, Lyon (Décines-Charpieu)   ##  www.grandstadeol.com  
+  | Parc Olympique Lyonnais
+  | Stade des Lumières
+
+
+Stade Pierre-Mauroy, 50_100, 2012, Lille (Villeneuve-d'Ascq)   ##  www.grandstade-lillemetropole.com 
+
+
+Stade Bollaert-Delelis, 45_000, 1933, Lens
+  | Stade Félix Bollaert-Delelis
+
+
+
+Nouveau Stade de Bordeaux, 42_000, 2015, Bordeaux    ##  www.nouveau-stade-bordeaux.com  
+  | Stade de Bordeaux
+  | Grand Stade de Bordeaux
+
+
+Stade Geoffroy-Guichard, 1931, 41_000, Saint-Étienne   
+
+
+Stadium Municipal, 1937,  41_000, Toulouse
+
+
+Stade de Nice , 2013,  35_624, Nice     ## Nizza [de]
+  | $Allianz$ Riviera
+

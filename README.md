@@ -1,4 +1,4 @@
-# World Football Clubs (& Stadiums)
+# Football Clubs (& Stadiums)
 
 
 ## What's `football.db`?

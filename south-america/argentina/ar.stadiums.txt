@@ -1,0 +1,34 @@
+===========================
+=  Argentina
+
+
+Estadio Monumental Antonio Vespucio Liberti, 72_054, Buenos Aires
+  | Monumental de Nuñez | Estadio $Mâs$ Monumental
+# club: River Plate
+
+Estadio Alberto J. Armando, 59_000, Buenos Aires
+  | La Bombonera
+# club: Boca Juniors
+
+Estadio José Amalfitani,  49_540, Buenos Aires
+# club: Vélez Sarsfield
+
+Estadio Nuevo Gasómetro, 43_995, Buenos Aires
+# club: San Lorenzo
+
+
+Estadio Ciudad de Lanús, 47_027, Lanús
+  | Néstor Díaz Pérez
+# club: C.A. Lanús
+
+Estadio Ciudad de La Plata, 53_000, La Plata
+
+Estadio Marcelo Bielsa, 42_000, Rosario
+# club: Newell's Old Boys
+
+Estadio Centenario, 25_000, Resistencia
+# club: Atlético Sarmiento
+
+Estadio Julio Humberto Grondona, 16_300, Sarandí
+# club: Arsenal
+

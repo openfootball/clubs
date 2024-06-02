@@ -1,0 +1,15 @@
+========================
+=  Uruguay
+
+
+Estadio Luis Franzini, 16_000, Montevideo
+# club: Defensor Sporting
+
+
+Estadio Gran Parque Central, 26_500, Montevideo
+# club: Nacional
+
+
+Estadio Centenario, 65_235, Montevideo
+# club: Peñarol
+

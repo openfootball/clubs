@@ -1,0 +1,114 @@
+==============================================
+=  United States
+
+
+# see en.wikipedia.org/wiki/2013_CONCACAF_Gold_Cup
+# see en.wikipedia.org/wiki/2013_Major_League_Soccer_season
+#
+# todo: add mls stadiums ???
+
+#
+# note: use $$ for sponsored/commercial name  e.g $Toyota$ Stadium, $Sports Authority$ Field, etc.
+
+
+
+== California ==
+
+Rose Bowl, 92_542, Pasadena   # Pasadena is a city in Los Angeles County - use Los Angeles?
+
+$StubHub$ Center,  27_000,  2003,  Carson      # Chivas USA, Los Angeles Galaxy
+
+
+== Washington ==
+
+$CenturyLink$ Field, 67_000, Seattle
+
+
+== Colorado ==
+
+$Sports Authority$ Field, 76_125, Denver
+$Dick's Sporting Goods$ Park, 18_086,  2007,  Commerce City     # Colorado Rapids
+
+
+== New Jersey ==
+
+$Red Bull$ Arena,  25_189, 2010, Harrison     # New York Red Bulls
+
+
+== Pennsylvania ==
+
+$PPL$ Park, 18_500,  2010,  Chester     # Philadelphia Union
+
+
+== Georgia ==
+
+Georgia Dome, 71_228, 1992, Atlanta 
+  1 Georgia Dome Drive Northwest // Atlanta - GA 30313-1591
+
+
+== Maryland ==
+
+$M&T Bank$ Stadium, 71_008,  Baltimore
+
+
+== D.C. ==        ## district of columbia
+
+RFK Memorial Stadium, 19_467,  1961, Washington     # D.C. United
+
+
+== Illinois ==
+
+Soldier Field, 61_500, 1924, Chicago
+  1410 S Museum Campus Drive // Chicago - IL 60605
+
+$Toyota$ Park, 20_000, 2006,  Bridgeview       # Chicago Fire
+
+
+== Ohio ==
+
+Crew Stadium,  20_145,  1999,  Columbus    # Columbus Crew
+  | Columbus Crew Stadium 
+  1 Black and Gold Boulevard // Columbus - OH 43211-2091   
+
+
+== Florida ==
+
+$Sun Life$ Stadium,   74_918, Miami (Miami Gardens)   # Miami Gardens is a suburban Miami city
+
+
+== Texas ==
+
+$BBVA Compass$ Stadium,  22_000, 2012, Houston     # Houston Dynamo
+  2200 Texas Avenue // Houston - TX 77003  
+
+Cowboys Stadium,  80_000, 2009, Arlington    # within the Dallas–Fort Worth–Arlington metro area
+  | $AT&T$ Stadium 
+  One Legends Way // Arlington - TX 76011
+     
+$Toyota$ Stadium, 21_193, 2005, Frisco      # FC Dallas
+  9200 World Cup Way // Ste 202 // Frisco - TX 75034-4958   
+
+
+== Oregon ==
+
+Civic Stadium, 20_323, 1926, Portland       # Portland Timbers
+  | Multnomah Field | Multnomah Stadium 
+  | $Jeld-Wen$ Field 
+  1844 SW Morrison // Portland - OR 97205   
+
+
+== Utah ==
+
+$Rio Tinto$ Stadium, 20_213,  Salt Lake City (Sandy)   # Sandy (City) - suburb of Salt Lake City
+
+
+== Connecticut ==
+
+Rentschler Field,  40_000, 2003,  East Hartford 
+  615 Silver Lane // East Hartford - CT 06118
+
+
+== Massachusetts ==
+
+$Gillette$ Stadium,  22_385, 2002, Foxborough     # New England Revolution
+

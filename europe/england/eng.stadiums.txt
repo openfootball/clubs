@@ -1,0 +1,16 @@
+====================================
+=  England
+
+
+#  note: use $$ for sponsored/commercial name e.g. $Emirates$ Stadium, etc.
+
+
+Wembley, 90_000, 2007, London
+  | Wembley Stadium
+Ashburton Grove, 60_361, 2006,  London     # FC Arsenal
+  | $Emirates$ Stadium
+
+Old Trafford,    76_212,  1910, Manchester    # Manchester United
+
+St. James' Park, 52_387,  1891,  Newcastle    # Newcastle United
+

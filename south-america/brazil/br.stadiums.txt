@@ -1,0 +1,149 @@
+======================
+=  Brazil
+
+
+#  note: use $$ for sponsored/commercial name e.g. $Allianz$ Arena, etc.
+
+
+== Rio de Janeiro ==
+
+Estádio Jornalista Mário Filho,   76_935,    Rio de Janeiro
+  | Estádio do Maracanã | Maracanã
+# club: Flamengo
+
+Estádio Olímpico Nilton Santos, 44_000, Rio de Janeiro
+  | Engenhão
+# club: Botafogo
+
+Estádio Vasco da Gama, 24_584, Rio de Janeiro
+  | Estádio São Januário | São Januário
+# club: Vasco da Gama
+
+
+== Distrito Federal ==
+
+Arena $BRB$ Mané Garrincha,  70_042,  Brasília
+  | Estádio Nacional Mané Garrincha | Mané Garrincha
+  | Nacional de Brasília
+
+
+== São Paulo ==
+
+$Neo Química$ Arena,  68_000,  São Paulo
+  | Arena Corinthians | Arena de São Paulo
+  | Itaquerão
+# club: Corinthians
+
+$Allianz$ Parque, 43_713, São Paulo
+  | Arena Palestra Itália | Arena Palmeiras
+# club: Palmeiras
+
+Estádio Urbano Caldeira,  20_360, Santos
+  | Estádio Vila Belmiro | Vila Belmiro
+# club: Santos
+
+Estádio Cícero Pompeu de Toledo,  72_039, São Paulo
+  | Estádio do Morumbi
+# club: São Paulo
+
+Estádio Municipal Paulo Machado de Carvalho, 37_730, São Paulo
+  | Estádio do Pacaembu | Pacaembu
+
+Estádio Paulo Constantino, 45_954, Presidente Prudente
+  | Prudentão
+
+
+== Ceará ==
+
+Estádio Governador Plácido Castelo,  64_846, Fortaleza
+  | Arena Castelão | Castelão
+
+
+
+== Minas Gerais ==
+
+Estádio Governador Magalhães Pinto, 62_547, Belo Horizonte
+  | Estádio Mineirão | Mineirão
+# club: Cruzeiro
+
+# Arena $MRV$, 46_000, Belo Horizonte       # under construction, planned on 2023
+# club: Atlético Mineiro
+
+Estadio Independência, 23_018, Belo Horizonte
+# club: América
+
+Estádio Municipal Parque do Sabiá, 53_350, Uberlândia,
+# club: Uberlândia Esporte Clube
+
+
+== Bahia ==
+
+Complexo Esportivo Cultural Octávio Mangabeira, 56_000, Salvador
+  | Arena Fonte Nova | Fonte Nova
+
+
+== Goiás ==
+
+Estádio do Governo do Estado de Goiás, 50_049, Goiânia
+  | Estádio Serra Dourada
+
+
+== Mato Grosso ==
+
+Arena Pantanal, 42_968,  Cuiabá
+  | Pantanal
+# club: Cuiabá
+
+
+== Mato Grosso do Sul ==
+
+Estádio Universitário Pedro Pedrossian, 44_200, Campo Grande
+  | Morenão
+
+
+== Amazonas ==
+
+Arena da Amazônia - Vivaldo Lima,  42_374,  Manaus
+  | Arena Amazônia | Amazônia
+
+
+== Rio Grande do Norte ==
+
+Arena das Dunas, 42_086,  Natal
+  | Das Dunas
+
+
+== Rio Grande do Sul ==
+
+Estádio Beira-Rio, 51_300, Porto Alegre
+  | Beira-Rio
+# club: Internacional
+
+Arena do Grêmio, 60_540, Porto Alegre
+# Club: Grêmio
+
+
+== Pará ==
+
+Estádio Estadual Jornalista Edgar Proença, 53_645, Belém
+  | Estádio Olímpico do Pará | Mangueirão
+
+
+== Pernambuco ==
+
+Estádio Governador Carlos Wilson Campos, 44_300,  Recife
+  | Arena Pernambuco
+
+Estádio José do Rego Maciel, 60_044, Recife
+  | Estádio do Arruda | Arruda | Arrudão
+# club: Santa Cruz
+
+
+== Paraná ==
+
+Estádio Joaquim Américo Guimarães,  43_981, Curitiba
+  | Estádio Athletico Paranaense | Arena da Baixada | Da Baixada
+# club: Athletico Paranaense
+
+Estádio Durival de Britto e Silva,  20_083, Curitiba
+# club: Paraná

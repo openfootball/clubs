@@ -1,0 +1,24 @@
+==========================================
+=  Italy
+
+#  note: use $$ for sponsored/commercial name e.g. $Allianz$ Stadium, etc.
+
+
+Stadio Olimpico,     72_698, 1927,   Roma   # AS Roma, Lazio Roma
+  | Stadio Olimpico di Roma
+
+Stadio San Nicola,       58_248, 1990, Bari  # AS Bari
+Stadio Giuseppe Meazza, 80_074, 1926,   Milano  # AC Milano, Inter Milano
+  | San Siro
+
+Stadio San Paolo,        60_240, 1959, Napoli   # SSC Napoli 
+
+$Allianz$ Stadium,   41_507, 2009, Torino    # Juventus
+  | Juventus Stadium
+
+Stadio Artemio Franchi, 43_325, 1931, Firenze   # Fiorentina
+
+Stadio Friuli, 25_000, 1976, Udine  # Udinese
+  | Dacia Arena
+
+Stadio Renzo Barbera, 36_365, 1932, Palermo     # Palermo
