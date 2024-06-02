@@ -106,6 +106,10 @@ $Allianz$ Arena, 66_016, 2005,  München                    # FC Bayern München
   | Munich Football Arena [en]  # euro 2024 name
   Werner-Heisenberg-Allee 25 // 80939 München   
 
+Olympiastadium,   München
+  Olympiapark München, Spiridon-Louis-Ring 25 // 80809 München
+
+
 Max-Morlock-Stadion,  41_926, Nürnberg                    # 1. FC Nürnberg
   | Frankenstadion
   | $Grundig$-Stadion  

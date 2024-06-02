@@ -3,7 +3,14 @@
 
 
 Estádio da Luz, 65_647, 2003, Lisboa     #  Benfica Lisboa
+  | Estádio do Sport Lisboa e Benfica
+  Av. Eusébio da Silva Ferreira // 1500-313 Lisboa
+
 Estádio José Alvalade XXI,  50_466, 2003,  Lisboa  # Sporting Lisboa
 
+
+
 Estádio do Dragão, 50_476, 2003, Porto   #  FC Porto
+  | Dragon Stadium [en]
+  Via Futebol Clube do Porto // 4350-415 Porto
 

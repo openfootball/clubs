@@ -2,7 +2,11 @@
 =  Ukraine
 
 
-Olympic Stadium Kiev, 70_050, Kiev    # Київ
+Olympic Stadium, 70_050, Kiev    # Київ
+   | Olympic Stadium Kiev
+   | Olympia   [de]
+  Velyka Vasylkivska St, 55 // Kyiv, 02000
+
 
 Donbass Arena, 51_500, Donetsk  # Донецьк (Donezk)
 

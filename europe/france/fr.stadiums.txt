@@ -3,7 +3,11 @@
 
 
 Stade de France, 81_338, 1998, Paris (Saint-Denis)     ##   www.stadefrance.com   # fix: use Saint-Denis??
+  Stade de France // 93200 Saint-Denis    ## note - address only really 93200 Saint-Denis
+
 Parc des Princes,  51_000, 1972, Paris                 ##  www.leparcdesprinces.fr 
+  24 Rue du Commandant Guilbaud // 75016 Paris
+
 
 Stade Vélodrome, 60_031, 1937, Marseille    ##  www.arema-velodrome.com   # teams: Olympique Marseille
 

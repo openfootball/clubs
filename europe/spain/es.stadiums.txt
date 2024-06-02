@@ -1,12 +1,36 @@
 ====================================
 =  Spain
 
+
+== Comunidad de Madrid ==
+
 Estadio Santiago Bernabéu,  85_454, 1947,  Madrid   # Real Madrid
-Estadio Vicente Calderón,   55_005, 1966,  Madrid   # Atlético Madrid
+  | Santiago Bernabéu
+  Av. de Concha Espina, 1, Chamartín // 28036 Madrid
+
+Estadio Metropolitano,    Madrid    # Atlético Madrid
+  | Metropolitano Stadium [en]
+  | $Cívitas$ Metropolitano
+  | $Wanda$ Metropolitano
+  Av. de Luis Aragonés, 4, San Blas-Canillejas // 28022 Madrid
+
+Estadio Vicente Calderón (-2017)   55_005, 1966,  Madrid   # Atlético Madrid
+  ## Demolished: 13 February 2019–6 July 2020
+
+
+
+== Cataluña ==
 
 Camp Nou, 96_636, 1957, Barcelona                         # FC Barcelona
+   | Nou Camp [en]   # meaning New Field in english
+
+
 Estadi Olímpic Lluís Companys, 55_121, 1927,  Barcelona   # Espanyol Barcelona
 
+
+
+
+== ?? ==
 
 Estadio Benito Villamarín,  51_309, 1929,  Sevilla   # Betis Sevilla
 

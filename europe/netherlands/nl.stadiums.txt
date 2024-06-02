@@ -3,6 +3,8 @@
 
 Amsterdam Arena,    51_628, 1996, Amsterdam    # Ajax Amsterdam
   | Johan Cruyff Arena
+  Johan Cruijff Boulevard 1 // 1101 AX Amsterdam
+
 
 Stadion Feijenoord, 51_137, 1937, Rotterdam   # Feyenoord Rotterdam
   | De Kuip
