@@ -99,8 +99,10 @@ FC Hellas Kagran,  Wien (Donaustadt)  # aus Kagran im 22. Wiener Gemeindebezirk 
 
 == Burgenland ==
 
-SV Mattersburg,  1922,    Mattersburg
-  | Mattersburg | Sportvereinigung Mattersburg
+SV Mattersburg,  1922,  @  Pappelstadion,  Mattersburg
+  | Mattersburg 
+  | Sportverein Mattersburg
+  | Sportvereinigung Mattersburg
  Michael Koch Straße 50 // 7210 Mattersburg
 ii) SV Mattersburg II
   | SV Mattersburg Am. | SV Mattersburg Amateure
@@ -145,6 +147,8 @@ FC Admira Wacker Mödling, 1905, Maria Enzersdorf (Südstadt)    ## Südstadt is
   | Admira | Admira Wacker
   | FC Admira | FC Admira Wacker | Admira Wacker Mödling
   | FC $$Flyeralarm$$ Admira
+  | Fussballklub $$Trenkwalder$$ Admira Wacker Mödling
+  | Fussballklub $$Flyeralarm$$ Admira Wacker Mödling
   | Admira Wien        ## historic Admira Wien name add (-????) or something
   | SK Admira Wacker Wien
   | SK Admira Vienna [en]
@@ -160,8 +164,9 @@ VfB Mödling (1911-1977),  Mödling
 #    zum VfB Admira Wacker Mödling
 
 
-SC Wiener Neustadt, 1908,  Wr. Neustadt
+SC Wiener Neustadt, 1908,  @ Wiener Neustädter Stadion,  Wr. Neustadt
   | Neustadt | Wr. Neustadt | SC Wr. Neustadt | Wiener Neustadt
+  | Sport Club $$Magna$$ Wiener Neustadt
  Giltschwertgasse 81 // 2700 Wr. Neustadt
 
 1. Wiener Neustädter SC, 2008,   Wr. Neustadt
@@ -172,6 +177,7 @@ SKN St. Pölten, 2000,      St. Pölten
   | St. Pölten | Sportklub Niederösterreich St. Pölten
   | SKN Sankt Pölten
   | $$Spusu$$ SKN St. Pölten
+  | $$spusu$$ Sportklub Niederösterreich St. Pölten
 
 ii) SKN St. Pölten Juniors
 
@@ -326,10 +332,13 @@ ASKÖ Donau Linz, Linz
   | Donau Linz
 
 
-SV Ried,  1912,       Ried i. Innkreis
+SV Ried,  1912,  @ Keine Sorgen Arena,     Ried i. Innkreis
   | Ried
-  | SV $$Josko$$ Ried | SV $$Josko Fenster$$ Ried     ## note: Josko is a sponsor
+  | SV $$Josko$$ Ried 
+  | SV $$Josko Fenster$$ Ried     ## note: Josko is a sponsor
+  | Sportvereinigung $$Josko Fenster$$ Ried
   | SV $$Guntamatic$$ Ried
+  | Sportvereinigung Ried von 1912
  Volksfestplatz 2 // 4910 Ried i. Innkreis
 ii) SV Ried II
   | Junge Wikinger | Junge Wikinger Ried
@@ -539,6 +548,7 @@ SAK 1914,     1914, Salzburg
 
 SV Grödig,  1948,           Grödig
   | Grödig
+  | Sportverein Grödig
  Prötschhofstrasse 26 // 5082 Grödig
 ii) SV Grödig II
 
@@ -570,6 +580,7 @@ FC Bergheim
 
 FC Wacker Innsbruck, 1913, Innsbruck
   | Innsbruck | FC Wacker | W. Innsbruck | Wacker Innsbr | Wacker Innsbruck
+  | Fußballclub Wacker Innsbruck
   | FC Tirol | FC Tirol Innsbruck              ## note: FC Tirol old name - add year
   | SSW Innsbruck | Spielgemeinschaft $$Swarovski$$ Wacker Innsbruck   # champs (7): 2002..2000 (2) 1977/78 1975/76 1974...1971 (3)
  Stadionstraße 1b // 6020 Innsbruck

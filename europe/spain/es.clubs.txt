@@ -35,7 +35,9 @@ CF Rayo Majadahonda, 1976,  Majadahonda
 == Andalucía ==
 
 Málaga CF,   Málaga
-  | Málaga | CF Málaga | FC Málaga
+  | Málaga  
+  | Málaga Club de Fútbol
+  | CF Málaga | FC Málaga
 ii) Málaga CF B
   | Málaga B
 
@@ -142,6 +144,7 @@ Elche CF,       Elche
 
 CD Castellón,   Castellón de la Plana
   | Castellón
+  | Club Deportivo Castellón
 
 Villarreal CF,    Villarreal
   | Villarreal | FC Villarreal
@@ -162,6 +165,8 @@ Real Sociedad,     San Sebastián
   | Sociedad | R. Sociedad | R. S. San Sebastián
   | S. Sebastián
   | Real Sociedad San Sebastián | Real Sociedad de Fútbol
+ii) Real Sociedad B
+
 Deportivo Alavés,  Vitoria
   | Alavés | CD Alavés
 SD Eibar,          Eibar
@@ -384,4 +389,6 @@ SD Amorebieta,  Amorebieta-Etxano  # in the Basque Country
    | Amorebieta
    | Sociedad Deportiva Amorebieta
 
-
+UD Ibiza 
+  | Ibiza
+  | Unión Deportiva Ibiza

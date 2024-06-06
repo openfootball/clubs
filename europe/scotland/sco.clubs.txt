@@ -39,11 +39,14 @@ Cove Rangers FC, 1922, Aberdeen (Cove Bay)
 Dundee FC, 1893,       Dundee     ## note: depends on level (1) for mapping
   | Dundee | FC Dundee
   | Dundee Football Club
-Dundee United, 1909,   Dundee
+Dundee United, 1909,   @ Tannadice Park  Dundee
   | Dundee Utd | Dundee United FC | Dundee Hibernian
+  | Dundee United Football Club
 
-Hamilton Academical FC, 1874,   Hamilton
-  | Hamilton | Hamilton FC | Hamilton Accies | Hamilton Academical
+Hamilton Academical FC, 1874,  @ New Douglas Park,   Hamilton
+  | Hamilton | Hamilton FC | Hamilton Accies 
+  | Hamilton Academical
+  | Hamilton Academical Football Club
 Kilmarnock FC, 1869, Kilmarnock
   | Killie | Kilmarnock | FC Kilmarnock
   | Kilmarnock Football Club

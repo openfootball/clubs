@@ -17,6 +17,7 @@ Apollon Smyrnis FC,  Athens
   | Apollon | Apollon Smyrnis
   | Apollon Athens FC
   | Apollon Smyrni
+  | Gymnastikos Syllogos Apollon Smyrnis
 
 Atromitos FC,      Athens    ## use!? - Peristeri a suburban municipality in the northwestern part of the Athens agglomeration
   | Atromitos
@@ -61,6 +62,7 @@ Proodeftiki FC, Nikaia › Attica
 Ionikos FC, Nikaia › Attica   ## Athens Nikaia - a suburb in the western part of the Athens agglomeration
   | Ionikos
   | Ionikos Nikea
+  | Athlitikós Ómilos Ionikós Níkaias
 
 Olympiacos Piraeus FC,  Piraeus › Attica
   | Olympiacos | Olympiacos Piraeus | Olympiacos FC
@@ -112,7 +114,7 @@ PAS Giannina FC,     Ioannina › Epirus
   | Panipirotikos Athlitikos Syllogos Giannina
 Levadiakos FC,       Livadeia › Central Greece
   | Levadeiakos | Levadiakos
-
+  | PAE Athlitikos Podosferikos Omilos Levadiakos
 
 AE Larissa FC,  1964,     Larissa › Thessaly
   | Larissa | Larissa FC | AE Larissa

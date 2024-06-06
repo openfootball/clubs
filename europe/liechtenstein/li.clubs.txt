@@ -2,8 +2,9 @@
 =  Liechtenstein
 
 
-FC Vaduz                    ## note: plays in swiss leagues
+FC Vaduz, 1932, @ Rheinpark Stadion                    ## note: plays in swiss leagues
   | Vaduz
+  | Fußball Club Vaduz
 
 FC USV Eschen/Mauren        ### check if plays in swiss leagues (3rd league promotion - if yes, move)???
   | Eschen/Mauren

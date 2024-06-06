@@ -151,7 +151,9 @@ Bury FC,             @ Gigg Lane, Bury › Greater Manchester
   | Bury | FC Bury
 Rochdale AFC,       @ Spotland Stadium,   Rochdale › Greater Manchester
   | Rochdale
+  | Rochdale Association Football Club
   | FC Rochdale    ## todo/check if FC Fochdale is alias for Rochdale AFC
+
 Altrincham FC,   Altrincham › Greater Manchester
   | Altrincham
 Droylsden FC,         Droylsden › Greater Manchester
@@ -310,7 +312,7 @@ Rotherham Town FC (1899-1925), Rotherham › South Yorkshire   ## note: a second
   | Rotherham Town
 Doncaster Rovers FC,    @ Keepmoat Stadium,  Doncaster › South Yorkshire
   | Doncaster | Doncaster Rovers
-
+  | Doncaster Rovers Football Club
 
 Stoke City FC, 1863,  @ Britannia Stadium,  Stoke-on-Trent › Staffordshire
   | Stoke | Stoke City
@@ -412,6 +414,7 @@ Chichester City FC,   2000,  Chichester › West Sussex
 
 Swindon Town FC,   @ County Ground,  Swindon › Wiltshire
   | Swindon | Swindon Town
+  | Swindon Town Football Club
 Chippenham Town FC,  1873,  Chippenham › Wiltshire
   | Chippenham Town
 
@@ -477,6 +480,7 @@ Torquay United FC,      Torquay › Devon
 
 Gillingham FC,    @ Priestfield Stadium,      Gillingham › Kent
   | Gillingham | FC Gillingham
+  | Gillingham Football Club
 Maidstone United FC,    Maidstone › Kent
   | Maidstone | Maidstone United
 Dartford FC,     Dartford › Kent
@@ -493,6 +497,7 @@ Luton Town FC,      @ Kenilworth Road,    Luton › Bedfordshire
 
 Milton Keynes Dons FC,    @ Stadium:mk,  Milton Keynes › Buckinghamshire
   | Milton Keynes Dons | MK Dons
+  | Milton Keynes Dons Football Club
 Wycombe Wanderers FC,   @ Adams Park,  High Wycombe › Buckinghamshire
   | Wycombe | Wycombe Wanderers
   | Wycombe Wanderers Football Club
@@ -572,6 +577,7 @@ Chester FC,    Chester › Cheshire
   | Chester
 Crewe Alexandra FC,  @ Gresty Road,  Crewe › Cheshire
   | Crewe | Crewe Alexandra | FC Crewe Alexandra
+  | Crewe Alexandra Football Club
 Macclesfield Town FC, Macclesfield › Cheshire
   | Macclesfield | Macclesfield Town
 Northwich Victoria FC,  Northwich › Cheshire
@@ -585,10 +591,12 @@ Fleetwood Town FC,  @ Highbury Stadium,  Fleetwood › Lancashire
   | Fleetwood Town Football Club
 Accrington Stanley FC,  @ Crown Ground, Accrington › Lancashire
   | Accrington | Accrington Stanley
+  | Accrington Stanley Football Club
 Accrington FC (1878-1896),  Accrington › Lancashire
   | Accrington F.C.
 Morecambe FC,        @ Globe Arena,    Morecambe › Lancashire
   | Morecambe | FC Morecambe
+  | Morecambe Football Club
 
 Chorley FC,   Chorley › Lancashire
   | Chorley

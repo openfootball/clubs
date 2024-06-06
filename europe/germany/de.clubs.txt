@@ -48,19 +48,23 @@ ii) FC Augsburg II
 
 SpVgg Unterhaching,  Unterhaching
   | U'haching | Unterhaching
+
 FC Ingolstadt 04, 2004,    Ingolstadt               ##  bis 2004 MTV Ingolstadt und ESV Ingolstadt-Ringsee
   | Ingolstadt | Ingolstadt 04 | FC Ingolstadt
+  | Fußball Club Ingolstadt 04
  Am Sportpark 1 // 85053 Ingolstadt
 
 SSV Jahn Regensburg,   Regensburg
   | Regensburg | Jahn Regensburg
   | Jahn R'burg
+  | Sport-und Schwimmverein Jahn 2000 Regensburg
 1. FC Schweinfurt 05,  Schweinfurt
   | Schweinfurt | Schweinfurt 05
 Würzburger Kickers, 1907,     Würzburg
   | Würzburger K. | W'burg Kickers
   | Kick. Würzburg | Kickers Würzburg
   | FC Würzburger Kickers
+  | Fußball-Club Würzburger Kickers
 Wacker Burghausen,  Burghausen
   | Burghausen
 Viktoria Aschaffenburg,  Aschaffenburg
@@ -148,7 +152,9 @@ SG Wattenscheid 09,    Bochum (Wattenscheid)    ## Bochum-Wattenscheid - Bochume
   | Wattenscheid | Wattenscheid 09
 
 Arminia Bielefeld,  1905,    Bielefeld
-  | Bielefeld | DSC Arminia Bielefeld
+  | Bielefeld 
+  | DSC Arminia Bielefeld
+  | Deutscher Sport-Club Arminia Bielefeld
   | Arminia | Arm. Bielefeld
  Melanchthonstraße 31a // 33615 Bielefeld
 
@@ -454,6 +460,7 @@ SSV Reutlingen 05,     Reutlingen
   | Reutlingen | SSV Reutlingen
 SV Sandhausen, 1916,         Sandhausen
   | Sandhausen | SV Sandhausen 1916
+  | Sportverein 1916 Sandhausen
  Jahnstraße 1 // 69207 Sandhausen
 
 VfR Mannheim,        Mannheim
@@ -619,8 +626,10 @@ FC Mecklenburg Schwerin,  Schwerin
 == Sachsen ==
 
 Dynamo Dresden, 1953,      Dresden
-  | Dresden | SG Dynamo Dresden
+  | Dresden 
   | Dyn. Dresden | Dynamo Dres.
+  | SG Dynamo Dresden
+  | Sportgemeinschaft Dynamo Dresden
   | 1. FC Dynamo Dresden
  Lennéstraße 12 // 01069 Dresden
 
@@ -656,6 +665,7 @@ FC Erzgebirge Aue, 1949,   Aue
   | Aue | Erzg. Aue | Erzgeb. Aue | Erzgebirge Aue
   | SC Wismut Karl-Marx-Stadt    # champs (3): 1960/61 1959..1957 (2)
   | Wismut Aue | FC Wismut Aue
+  | Fußball-Club Erzgebirge Aue
  Lößnitzer Straße 95 // 08280 Aue
 # In 1954 the East German government decided that the nearby city of Chemnitz
 # —recently renamed Karl-Marx-Stadt—deserved a quality team and so,

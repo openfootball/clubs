@@ -158,6 +158,7 @@ Göztepe İzmir,    İzmir (Güzelyalı)
   | Göztepe | Göztepe SK
   | Göztep | Göztepespor
   | Göztepe AŞ
+  | Göztepe Spor Kulübü
 Bucaspor, 1928,       İzmir (Buca)
   | Bucaspor Kulübü
 Altay SK,  1914,     İzmir
@@ -280,6 +281,7 @@ Vanspor FK, 1982, Van
 
 Boluspor,  Bolu
 Giresunspor, Giresun
+  | Giresunspor Klübü
 
 Erzincanspor,  Erzincan
   | An. Erzincanspor

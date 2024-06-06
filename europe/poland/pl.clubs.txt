@@ -2,7 +2,7 @@
 =  Poland
 
 
-Legia Warszawa,        Warszawa      ## Warsaw [en]
+Legia Warszawa,  1916, @ Stadion Wojska Polskiego im. Marszałka Józefa Piłsudskiego,   Warszawa      ## Warsaw [en]
   | Legia
   | Legia Warsaw [en]
   | Legia Warschau [de]
@@ -24,15 +24,16 @@ KKS Lech Poznań,   Poznań
   | Lech Posen [de]
   | Kolejowy Klub Sportowy Lech Poznań Spółka Akcyjna
 
-Warta Poznań, Poznań
+Warta Poznań,  1912, @ Dyskobolii Grodzisk Wielkopolski,  Poznań
   | KS Warta Posen [de]
   | Klub Sportowy Warta Poznań
 
 
-Wisła Kraków,     Kraków
+Wisła Kraków,  1906, @ Stadion Miejski im. Henryka Reymana,   Kraków
   | Wisła
+  | Wisła Kraków Spółka Akcyjna
   | Wisła Krakau [de]
-KS Cracovia,     Kraków
+KS Cracovia,  1906, @ Stadion Cracovii im. Józefa Piłsudskiego,    Kraków
   | Cracovia | MKS Cracovia Kraków
   | Cracovia Kraków
   | Cracovia Krakau [de]
@@ -42,7 +43,7 @@ Hutnik Kraków, 1950,    Kraków (Nowa Huta)
   | KS Hutnik Kraków
 
 
-WKS Śląsk Wrocław,    Wrocław
+WKS Śląsk Wrocław, 1947, @ Stadion Miejski we Wrocławiu,    Wrocław
   | Śląsk | Śląsk Wrocław
   | Wrocławski Klub Sportowy Śląsk Wrocław Spółka Akcyjna
 
@@ -61,26 +62,31 @@ Korona Kielce,  Kielce
   | Korona
   | Korona Spółka Akcyjna
 
-Lechia Gdańsk,  Gdańsk
+Lechia Gdańsk,  1945, @ Stadion Energa Gdańsk,  Gdańsk
   | Lechia | KS Lechia Gdańsk
+  | Klub Sportowy Lechia Gdańsk Spółka Akcyjna
 
-Górnik Łęczna,   Łęczna      # was in Lublin before 2006?
+Górnik Łęczna,  1979, @ Stadion Górnika Łęczna,   Łęczna      # was in Lublin before 2006?
   | Łęczna | GKS Górnik Łęczna
+  | Górniczy Klub Sportowy Górnik Łęczna
 
-
-Miedź Legnica,  Legnica
+Miedź Legnica,  1971 @ Stadion Miejski im. Orła Białego w Legnicy,  Legnica
   | Legnica | ASPN Miedź Legnica
-Piast Gliwice,  Gliwice
+  | Miejski Klub Sportowy Miedź Legnica
+
+Piast Gliwice,  1945, @ Stadion Miejski w Gliwicach,  Gliwice
   | Piast | GKS Piast Gliwice
   | Gliwicki Klub Sportowy Piast Spółka Akcyjna
 
-Wisła Płock,    Płock
+Wisła Płock,  1947, @ Stadion im. Kazimierza Górskiego,  Płock
   | Płock
-Podbeskidzie Bielsko-Biała,   Bielsko-Biała
+  | Wisła Płock Spółka Akcyjna
+
+Podbeskidzie Bielsko-Biała,  1997, @ Stadion Miejski,  Bielsko-Biała
   | Podbeskidzie | Podbeskidzie Biała
+  | Towarzystwo Sportowe Podbeskidzie Bielsko-Biała
 
-
-Pogoń Szczecin,    Szczecin
+Pogoń Szczecin, 1948, @ Stadion Miejski im. Floriana Krygiera,   Szczecin
   | Pogoń | MKS Pogoń Szczecin
   | Morski Klub Sportowy Pogoń Szczecin
 
@@ -90,9 +96,11 @@ Ruch Chorzów,  Chorzów
 
 Sandecja Nowy Sącz, Nieciecza
   | Sandecja Nowy S.
-Bruk-Bet Termalica Nieciecza, 1922, Nieciecza
+
+Bruk-Bet Termalica Nieciecza, 1922, @ Stadion Sportowy Bruk-Bet Termalica, Nieciecza
   | Termalica B-B.
   | Termalica Nieciecza
+  | Bruk-Bet Termalica Nieciecza Klub Sportowy
 
 Widzew Łódź,  Łódź
   | RTS Widzew Łódź
@@ -104,7 +112,7 @@ Widzew Łódź,  Łódź
   | Łódzki Klub Sportowy Sportowa Spółka Akcyjna
 
 
-Zagłębie Lubin,  Lubin
+Zagłębie Lubin,  1945, @ Stadion Zagłębia Lubin, Lubin
   | Zagłębie
   | Zagłębie Lubin Spółka Akcyjna
 
@@ -138,7 +146,7 @@ Polonia Bytom, 1920,  Bytom                 # champs (2): 1962/63 1958/59
   | KS Polonia Bytom
 Szombierki Bytom, 1919, Bytom (Szombierki)  # champs (1): 1980/81
 
-Stal Mielec, 1939, Mielec   # champs (2): 1976/77 1973/74
+Stal Mielec, 1939, @ Stali Mielec,  Mielec   # champs (2): 1976/77 1973/74
   | KS Stal Mielec | FKS Stal Mielec
   | FKS Stal Mielec Spółka Akcyjna
 

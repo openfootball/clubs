@@ -2,10 +2,13 @@
 =  Croatia
 
 
-GNK Dinamo Zagreb, Zagreb
+GNK Dinamo Zagreb,  1911, @ Maksimir, Zagreb
   | Dinamo Zagreb | NK Dinamo Zagreb
-NK Lokomotiva Zagreb, Zagreb
+  | Građanski nogometni klub Dinamo Zagreb
+
+NK Lokomotiva Zagreb, 1914, @ Kranjčevićeva,    Zagreb
   | Lokomotiva | Lok Zagreb | Lokomotiva Zagreb
+  | Nogometni klub Lokomotiva Zagreb
 
 NK Zagreb, Zagreb     # champs (1): 2002/03
 
@@ -18,30 +21,35 @@ NK Lučko Zagreb,  1931, Zagreb
 NK Hrvatski Dragovoljac, 1975, Zagreb (Novi Zagreb)
   | Hrvatski Dragovoljac
 
-NK Rudeš,  Zagreb (Rudeš)
+NK Rudeš,   1957, @ Kranjčevićeva,  Zagreb (Rudeš)
+  | Nogometni klub Rudeš
 
 NK Croatia Sesvete (1957-2012), Zagreb (Sesvete)
   | Croatia Sesvete
 
 
-HNK Hajduk Split,  Split
+HNK Hajduk Split, 1911, @ Poljud,  Split
   | Hajduk Split
+  | Hrvatski nogometni klub Hajduk Split
 RNK Split, Split
 
 
-NK Slaven Belupo, 1907,     Koprivnica
+NK Slaven Belupo, 1907, @ Gradski Stadion,    Koprivnica
   | Slaven | Slaven Belupo
   | Slaven Koprivnica | NK Slaven Koprivnica
   | Nogometni Klub Slaven
+  | Nogometni klub Slaven Belupo
 
-NK Varaždin
+NK Varaždin, 2012, @ Varteks
   | Varaždin
   | Varteks Varaždin
   | NK Varaždin ŠN
+  | Nogometni klub Varaždin
 
 
-HNK Rijeka,   Rijeka
+HNK Rijeka,  1906, @ HNK Rijeka,   Rijeka
   | Rijeka | NK Rijeka
+  | Hrvatski nogometni klub Rijeka
 
 HNK Orijent,   Rijeka (Sušak)
   | Hrvatski nogometni klub Orijent
@@ -54,15 +62,21 @@ HNK Orijent,   Rijeka (Sušak)
 ## an old name, HNK Orijent
 
 
-NK Osijek
+NK Osijek, 1947, @ Gradski vrt
   | Osijek
+  | Nogometni Klub Osijek
 HNK Cibalia
   | Cibalia
-HNK Šibenik
+
+HNK Šibenik, 1932, @ Šubićevac
   | Šibenik
-HNK Gorica
-NK Istra 1961
+  | Hrvatski nogometni klub Šibenik
+
+HNK Gorica, 2009, @ Gradski stadion Velika Gorica
+  | Hrvatski nogometni klub Gorica
+NK Istra 1961,  @ Aldo Drosina    ## formed 1948 (reformed 1961) ?? 
   | Istra 1961
+  | Nogometni klub Istra 1961
 NK Inter Zaprešić
   | Zaprešić | Inter Zaprešić
 

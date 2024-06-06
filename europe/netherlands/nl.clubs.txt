@@ -91,6 +91,7 @@ SC Cambuur, 1964,   Leeuwarden › Friesland
   | SC Cambuur-Leeuwarden
   | Sportclub Cambuur
   | SCC
+  | Sportclub Cambuur-Leeuwarden
 
 
 SC Heerenveen, 1920,   Heerenveen
@@ -212,6 +213,7 @@ FC Groningen, 1971,  Groningen
 
 FC Emmen,    Emmen
   | Emmen | FC Emmen VV
+  | Football Club Emmen
 
 
 

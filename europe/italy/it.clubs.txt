@@ -80,6 +80,12 @@ Juventus,    Torino
   | Juventus Turin [de]
 
 
+Alessandria, 1912, Alessandria
+  | Unione Sportiva Alessandria Calcio
+  | Unione Sportiva Alessandria Calcio 1912
+
+
+
 == Veneto ==
 Hellas Verona, 1903,     Verona
   | Verona
@@ -141,8 +147,10 @@ Avellino, Avellino
 
 == Calabria ==
 FC Crotone,      Crotone
-  | Crotone | Crotone FC | Federazione Calcistica Crotone
-
+  | Crotone | Crotone FC 
+  | Federazione Calcistica Crotone
+  | Football Club Crotone
+ 
 == Puglia  ==   ## Apulia [en]
 Bari, Bari
   | AS Bari
@@ -173,6 +181,7 @@ US Sassuolo Calcio, 1922,   Sassuolo
 
 SPAL Ferrara,     Ferrara
   | SPAL | SPAL 2013 | SPAL 2013 Ferrara
+  | Società Polisportiva Ars et Labor 2013
 
 Carpi, Carpi
   | Carpi FC | Carpi FC 1909 | Carpi Football Club 1909
@@ -254,6 +263,7 @@ AC Perugia, 1905,  Perugia
 Pescara, Pescara
   | Pescara Calcio
   | Delfino Pescara
+  | Delfino Pescara 1936
 
 Pro Vercelli, Vercelli
 

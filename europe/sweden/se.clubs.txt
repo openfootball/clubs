@@ -26,8 +26,10 @@ Vasalunds IF, Solna    # part of the Stockholm urban area
 IFK Göteborg,  1904, @ Gamla Ullevi,  Göteborg       ## Gothenburg [en]
   | Göteborg | Idrottsföreningen Kamraterna Göteborg
 
-GAIS,         Göteborg
-  | GAIS Göteborg | Göteborgs Atlet- och Idrottssällskap
+GAIS,   1894, @ Gamla Ullevi,      Göteborg
+  | GAIS Göteborg 
+  | Göteborgs Atlet- och Idrottssällskap
+  | Göteborgs Atlet- & Idrottssällskap
 
 BK Häcken,  1940, @ Bravida Arena,   Göteborg
   | Häcken | Bollklubben Häcken

@@ -44,7 +44,7 @@ Akademisk Boldklub,  Gladsaxe   # north of Copenhagen
   | Akademisk BK
   | AB København
 
-Brøndby IF, 1964,    Brøndbyvester       ## use Brøndby ??
+Brøndby IF, 1964,  @ Brøndby Stadion,   Brøndbyvester       ## use Brøndby ??
   | Brøndby | Brøndbyernes Idrætsforening
 
 FC Nordsjælland, 1991,  Farum
@@ -53,12 +53,12 @@ FC Nordsjælland, 1991,  Farum
 FC Helsingør, 2005,  Helsingør
  | Helsingør
 
-Lyngby BK, 1921, Lyngby
+Lyngby BK, 1921,  @ Lyngby Stadion,  Lyngby
   | Lyngby | Lyngby Boldklub
-
+  | Lyngby Boldklub af 1921
 
 == Nordjylland ==
-Aalborg BK, 1885,    Aalborg
+Aalborg BK, 1885,   @ Aalborg Portland Park,   Aalborg
   | AaB | Aalborg | AaB Aalborg
   | Aalborg Boldspilklub
 
@@ -78,22 +78,25 @@ Ikast FS (1935-1999),  Ikast
 # In 1999 merged with Herning Fremad to found FC Midtjylland.
 
 
-AGF Aarhus, 1880,   Aarhus
+AGF Aarhus, 1880, @ Ceres Park,  Aarhus
   | AGF | Aarhus
-  | Aarhus GF | Aarhus Gymnastikforening
+  | Aarhus GF 
+  | Aarhus Gymnastikforening
+  | Aarhus Gymnastikforening af 1880
 
 Viborg FF, 1896,    Viborg
   | Viborg | Viborg Fodsports Forening
 
-AC Horsens,   Horsens
+AC Horsens,  1994, @ CASA Arena Horsens,  Horsens
   | Horsens
+  | Alliance Club Horsens
 
 Silkeborg IF, 1917,  Silkeborg
   | Silkeborg | SIF | Silkeborg Idrætsforening
 
 
 == Østjylland ==
-Randers FC, 2003,   Randers
+Randers FC, 2003,  @ Cepheus Park Randers,   Randers
   | Randers | Randers Football Club
 
 Randers Freja,   Randers
@@ -102,7 +105,7 @@ Randers Freja,   Randers
 
 
 == Syddanmark ==
-Sønderjysk Elitesport, 2004,   Haderslev
+Sønderjysk Elitesport, 2004, @ Sydbank Park,   Haderslev
   | SønderjyskE | SønderjyskE Fodbold
 
 Odense BK, 1887,      Odense
@@ -117,7 +120,7 @@ B 1913 Odense, Odense    # champs (1): 1961/62
 Esbjerg fB, 1924,    Esbjerg
   | Esbjerg | Esbjerg forenede Boldklubber
 
-Vejle, 1891, Vejle
+Vejle, 1891,  @ Vejle Stadion,  Vejle
   | Vejle BK | Vejle Boldklub
 
 
@@ -149,7 +152,11 @@ FC Fredericia,  Fredericia
 Skive IK,       Skive
 Kolding IF,     Kolding
 FC Roskilde,    Roskilde
-Hvidovre IF,    Hvidovre
+
+Hvidovre IF,   1925, @ Hvidovre Stadium,   Hvidovre
+  | Hvidovre
+  | Hvidovre Idrætsforening
+
 Nykøbing FC,    Nykøbing Falster
   | Nyköbing FC [de]
 Næstved BK,     Næstved

@@ -36,14 +36,14 @@ FC Metalurh Donetsk,  Donetsk
 
 FC Olimpik Donetsk,  Donetsk
   | Olimpik Donetsk
-
+  | Futbolnyy Klub Olimpik (Donetsk)
 
 FC Metalist Kharkiv,    Kharkiv    ## also known as Kharkov
   | Metalist | Metalist Kharkiv
   | Metalist Kharkov
   | Metalist 1925 Kharkiv
   | Futbolnyy Klub Metalist 1925 Kharkiv
-
+  | Futbolnyy Klub Metalist Kharkiv
 
 FC Dnipro,    Dnipropetrovsk
   | Dnipro | FC Dnipro Dnipropetrovsk | Dnipro Dnipropetrovsk
@@ -69,6 +69,7 @@ FC Karpaty Lviv, 1963, Lviv
 
 FC Lviv, 2006, Lviv
   | FK Lviv
+  | Futbolnyy Klub Lviv
 
 FC Rukh Lviv,  Lviv
   | Rukh Lviv
@@ -92,6 +93,7 @@ FC Mariupol
   | Mariupol
   | FK Mariupol
   | FK Mariupol Illichivets'
+  | Futbolnyy Klub Mariupol
 
 FC Olexandriya
   | Olexandriya
@@ -115,6 +117,7 @@ Desna Chernihiv
   | FC Desna Chernihiv
   | FK Desna Chernihiv
   | Desna Chernigov
+  | Sportyvno-Futbolnyi Klub Desna Chernihiv
 
 
 Kolos Kovalivka
@@ -156,6 +159,13 @@ FC Mynai,  Mynai
 
 Polissya Zhytomyr,  Zhytomyr
   | Futbolnyi Klub Polissya Zhytomyr
+
+
+Inhulets Petrove,   Petrove
+  | FC Inhulets Petrove
+  | Futbolnyy Klub Inhulets Petrove  
+  | Football Club Inhulets Petrove
+
 
 
 FC Zirka Kropyvnytskyi,  1911,   Kropyvnytskyi   # in Kirovohrad Oblast

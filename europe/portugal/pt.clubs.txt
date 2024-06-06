@@ -20,6 +20,8 @@ Os Belenenses,    Lisboa
   | Belenenses | Belenenses L. | Belenenses SAD
   | CF Os Belenenses
   | Os Belenenses Futebol
+  | Os Belenenses - Sociedade Desportiva de Futebol SAD
+  ## note - SAD == Sociedade Anónima Desportiva
 
 Casa Pia,         Lisboa
   | Casa Pia AC | Casa Pia Atlético
@@ -93,6 +95,7 @@ Vitória de Setúbal, Setúbal   ## note:  Vitória SC <=> Vitória FC !!!
 CS Marítimo, Funchal
   | Marítimo | Marítimo Funchal
   | CS Marítimo Madeira
+  | Club Sport Marítimo
 
 CD Nacional Madeira, Funchal
   | Nacional  | CD Nacional | Nacional da Madeira
@@ -105,6 +108,7 @@ Moreirense FC, Moreira de Cónegos
 FC Paços de Ferreira, Paços de Ferreira
   | Paços | Paços Ferreira | Paços de Ferreira
   | FC Paços Ferreira
+  | Futebol Clube Paços de Ferreira
 Portimonense SC, Portimão
   | Portimonense
   | Portimonense Sporting Clube
@@ -121,6 +125,7 @@ FC Vizela,  1939,  Vizela
  
 CD Tondela, Tondela
   | Tondela
+  | Clube Desportivo de Tondela
 
 Académica de Coimbra, Coimbra
   | Académica | Académ. Coimbra | A. Académica de Coimbra
@@ -185,6 +190,7 @@ SC Olhanense,     Olhão
   | Olhanense
 CD Santa Clara,   Ponta Delgada
   | Santa Clara
+  | Clube Desportivo Santa Clara
 CD Trofense,     Tulipa
   | Trofense | Clube Desportivo Trofense
 Varzim SC,    1915,   Póvoa de Varzim

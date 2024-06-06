@@ -40,7 +40,9 @@ Amiens SC,             Amiens   › Hauts-de-France
   | Amiens
   | Amiens Sporting Club Football
 FC Chambly, 1989,   Chambly › Hauts-de-France
-  | Chambly | Football Club Chambly Oise
+  | Chambly 
+  | Football Club Chambly Oise
+  | Football Club de Chambly Oise
 Angers SCO, 1919,            Angers   › Pays de la Loire   ##  Maine-et-Loire > Pays de la Loire
   | Angers | Angers Sporting Club de l'Ouest | SCO Angers
 Girondins de Bordeaux, 1881, Bordeaux › Nouvelle-Aquitaine     ## Gironde > Aquitaine

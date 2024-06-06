@@ -42,6 +42,7 @@ K. Beerschot VA, 1899,  Antwerpen › Antwerpen › Vlaanderen               ## 
   | Koninklijke Beerschot Voetbalclub Antwerpen
   | KFCO Wilrijk | KFCO Beerschot Wilrijk
   | Beerschot Wilrijk
+  | Beerschot
 # In 2013, KFCO Wilrijk decided to integrate the identity of
 #   Beerschot AC
 # In June 2013 K.FC.O. Wilrijk unofficially integrated
@@ -127,6 +128,7 @@ FCV Dender EH,       Denderleeuw › Oost-Vlaanderen › Vlaanderen
 Waasland-Beveren, 1936,   Beveren › Oost-Vlaanderen › Vlaanderen   ## KVRS Waasland - SK Beveren
   | Waasland-B. | Waasland-Bev
   | Red Star Waasland
+  | Koninklijke Voetbalclub Red Star Waasland - Sportkring Beveren
 # In the summer of 2010 Red Star Waasland changed its name to Waasland-Beveren
 # and moved to the bigger stadium of Beveren
 
@@ -225,6 +227,7 @@ KSV Roeselare, Roeselare
   | Roeselare | SV Roeselare
 RFC Seraing, Seraing
   | Seraing
+  | Royal Football Club Seraing
 AFC Tubize, Tubize
   | Tubize
 Oud-Heverlee Leuven, 2002,   Leuven   ## Flemish Brabant > Flanders
