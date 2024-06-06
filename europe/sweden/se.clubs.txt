@@ -1,31 +1,36 @@
 =====================================
 =  Sweden
 
-AIK,                 Stockholm
+AIK,   1891, @ Friends Arena,              Stockholm
   | AIK Fotboll | Allmänna Idrottsklubben
   | AIK Stockholm
   | AIK Solna
-IF Brommapojkarna,   Stockholm (Bromma)
+IF Brommapojkarna,   1942, @  Grimsta IP,    Stockholm (Bromma)
   | Brommapojkarna
-Djurgårdens IF,      Stockholm
-  | Djurgården | Djurgarden
+  | Idrottsföreningen Brommapojkarna
+Djurgårdens IF, 1891, @ Tele2 Arena,      Stockholm
+  | Djurgården 
+  | Djurgårdens Idrottsförening
   | Djurgårdens IF Fotboll 
   
 
-Hammarby IF,         Stockholm
+Hammarby IF,    1897, @ Tele2 Arena,        Stockholm
   | Hammarby | Hammarby Fotboll
+  | Hammarby Idrottsförening Fotbollsförening
 
 Vasalunds IF, Solna    # part of the Stockholm urban area
 
 
 
 
-IFK Göteborg, Göteborg       ## Gothenburg [en]
-  | Göteborg | Goteborg | IFK Goteborg | Idrottsföreningen Kamraterna Göteborg
+IFK Göteborg,  1904, @ Gamla Ullevi,  Göteborg       ## Gothenburg [en]
+  | Göteborg | Idrottsföreningen Kamraterna Göteborg
+
 GAIS,         Göteborg
   | GAIS Göteborg | Göteborgs Atlet- och Idrottssällskap
-BK Häcken,    Göteborg
-  | Hacken | Häcken | Bollklubben Häcken
+
+BK Häcken,  1940, @ Bravida Arena,   Göteborg
+  | Häcken | Bollklubben Häcken
 Qviding FIF,  Göteborg
 Örgryte Göteborg, Göteborg
   | Örgryte IS
@@ -35,49 +40,63 @@ Utsiktens BK, 1935, Göteborg       # in Västra Frölunda, near Gothenburg
 
 
 
-Malmö FF, Malmö
-  | Malmö | Malmo FF | Malmö Fotbollförening
+Malmö FF,   1910, @ Eleda Stadion, Malmö
+  | Malmö | Malmo FF 
+  | Malmö Fotbollförening
+  | Malmö Fotbollsförening
+
 IFK Malmö, Malmö
-  | IFK Malmö Fotboll  # champs (1): 1960/61
+  | IFK Malmö Fotboll     # champs (1): 1960/61
   | Idrottsföreningen Kamraterna Malmö
 
 BK Olympic, Malmö
 
 
 
-IF Elfsborg,   Borås
+IF Elfsborg,   1904, @ Borås Arena,   Borås
   | Elfsborg
+  | Idrottsföreningen Elfsborg
+
 Norrby IF,    Borås
 
-Helsingborgs IF, Helsingborg
+Helsingborgs IF,  1907, @ Olympia, Helsingborg
   | Helsingborg
   | Helsingborg IF
+  | Helsingborgs Idrottsförening
 
-Kalmar FF, Kalmar
+Kalmar FF,  1918, @ Guldfågeln Arena, Kalmar
   | Kalmar
-Örebro SK,  Örebro
-  | Örebro | Orebro | Örebro Sportklubb
+  | Kalmar Fotbollsförening
+
+Örebro SK,  1908, @ Behrn Arena,   Örebro
+  | Örebro | Örebro Sportklubb
+
 Gefle IF,   Gävle
   | Gefle
 
 AFC Eskilstuna,   Eskilstuna
   | Eskilstuna
-Mjällby AIF,      Mjällby
-  | Mjallby
+
+Mjällby AIF,    1939, @ Strandvallen,   Mjällby
+  | Mjällby
+  | Mjällby Allmänna Idrottsförening
 
 Åtvidabergs FF,  Åtvidaberg
   | Atvidabergs | Åtvidaberg | Åtvid | ÅFF | Åtvidabergs Fotbollförening
 
 Dalkurd FF,   Uppsala
   | Dalkurd
-IK Sirius,  Uppsala
+
+IK Sirius,    1907, @ Studenternas IP,  Uppsala
   | Sirius | IK Sirius FK
+  | Idrottsklubben Sirius
 
 Falkenbergs FF,   Falkenberg
   | Falkenbergs
 
-Halmstads BK,   Halmstad
+Halmstads BK,  1913, @ Örjans Vall,  Halmstad
   | Halmstad | Halmstads Bollklubb
+  | Halmstads Bollklub
 
 Jönköpings Södra IF, Jönköping
   | Jönköpings | Jönköpings Södra
@@ -85,17 +104,20 @@ Jönköpings Södra IF, Jönköping
 Ljungskile SK,  Ljungskile
   | Ljungskile
 
-IFK Norrköping,  Norrköping
-  | Norrköping | Norrkoping | IFK Norrköping FK
+IFK Norrköping,   1897, @ Nya Parken,  Norrköping
+  | Norrköping | IFK Norrköping FK
+  | Idrottsföreningen Kamraterna Norrköping
 
 Östers IF,   Växjö
-  | Osters
+  | Östers
 
-Östersunds FK,  Östersund
-  | Östersund | Ostersunds
+Östersunds FK,   1996, @ Jämtkraft Arena,   Östersund
+  | Östersund | Östersunds
+  | Östersunds Fotbollsklubb
 
-GIF Sundsvall,  Sundsvall
+GIF Sundsvall,  1903, @ Idrottsparken,  Sundsvall
   | Sundsvall
+  | Gymnastik- och Idrottsföreningen Sundsvall
 
 Syrianska FC,   Södertälje
   | Syrianska
@@ -107,12 +129,15 @@ FC Trollhättan, Trollhättan
 Husqvarna FF,    Huskvarna
 Nyköping BIS,    Nyköping
 
-Västerås SK,  Västerås
+Västerås SK,  1904, @ Iver Arena,  Västerås
   | Vasteraas SK
+  | Västerås Sportklubb
 
-Degerfors IF, Degerfors
+Degerfors IF,  1907, @ Stora Valla, Degerfors
+  | Degerfors Idrottsförening
 
-Varbergs BoIS,  Varberg
+Varbergs BoIS,  1925, @ Påskbergsvallen,  Varberg
+   | Varbergs Boll- och Idrottssällskap
 
 IK Brage,   Borlänge
   | Brage
@@ -130,7 +155,8 @@ Umeå FC, 1987, Umeå
   | Umeå Fotbollsclub
 
 
-IFK Värnamo, Värnamo
+IFK Värnamo,  1891, @ Finnvedsvallen, Värnamo
+  | Idrottsföreningen Kamraterna Värnamo
 
 Skövde AIK,  1919, Skövde
   | Skövde Allmänna Idrottsklubb
