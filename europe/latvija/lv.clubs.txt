@@ -27,6 +27,11 @@ Skonto FC (1991-2006), Riga
   | Skonto | Skonto Riga
   | FC Skonto Riga
 
+ FK Auda Riga, 1969,   Riga (Ķekava)    # Ķekava near the capital, Riga    
+   | FK Auda
+   | Futbola klubs Auda
+
+
 FK Ventspils,    Ventspils
   | Ventspils
 
@@ -60,3 +65,12 @@ BFC Daugavpils,         Daugavpils
 
 FC Dinaburg
 
+
+Grobiņas SC,  2009,  Grobiņa
+  | Sporta Centrs Grobiņa 
+
+FK Tukums 2000, 2000, Tukums
+  | Futbola klubs Tukums 2000
+
+  
+     

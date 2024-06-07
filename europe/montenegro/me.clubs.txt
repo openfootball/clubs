@@ -3,6 +3,7 @@
 
 FK Budućnost Podgorica
   | Budućnost | Budućnost Podgorica
+  | Bud. Podgorica
 
 FK Mogren (1920-2016),  Budva
   | FK Mogren Budva
@@ -33,3 +34,10 @@ FK Kom
   | Kom
 OFK Grbalj
   | Grbalj
+
+FK Jezero, 1934,  Plav
+  | FK Jezero Plav
+  | Fudbalski klub Jezero
+
+  
+

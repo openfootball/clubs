@@ -2,10 +2,22 @@
 =  Canada
 
 
+
 == Quebec ==
-Montreal Impact, 2010,    Montréal       ## founding year is 2012
+
+CF Montréal,  1993,    Montréal
+  | Club de Foot Montreal
+  | CFM | CFMTL
+  | Montreal Impact  ## before 20xx??     
   | Montreal | Montreal I. | Impact Montréal | Impact de Montréal
   | Montreal Impac
+## todo - check fo year for
+##          CF Montréal => Montreal Impact  name change!!!  
+# Founded in 1993 as the Montreal Impact
+##  (re)founding year in 2012 for MLS 
+##     was in canadian league from (1992–2011)
+
+
 
 == Ontario ==
 Toronto FC,  2006,         Toronto       ## founding year is 2007? check again

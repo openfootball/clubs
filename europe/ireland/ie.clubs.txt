@@ -30,8 +30,11 @@ Athlone Town AFC,    Athlone
   | Athlone | Athlone Town
   | Athlone Town FC
   | FC Athlone Town
+  
 Bray Wanderers FC,   Bray
   | Bray | Bray Wanderers
+  | FC Bray Wanderers
+
 Cobh Ramblers FC,  Cobh
   | Cobh Ramblers
 

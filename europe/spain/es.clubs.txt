@@ -120,6 +120,7 @@ SD Compostela,  Santiago de Compostela
   | Compostela
 Racing Ferrol,  Ferrol
   | Ferrol
+  | Racing de Ferrol
   | Racing Club de Ferrol
 
 
@@ -152,6 +153,7 @@ Villarreal CF,    Villarreal
   | Villareal      ## fix (allow) typo Villareal
 ii) Villarreal CF B
   | Villarreal B
+  | CF Villarreal B
 
 
 CD Eldense,   1921,  	Elda

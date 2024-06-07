@@ -30,7 +30,14 @@ Greenville Triumph,      Greenville
  | Greenville Triumph SC
 
 == North Carolina ==
+
+Charlotte FC,  2019,          Charlotte
+  | Charlotte Football Club
+  | CLTFC
+
 Charlotte Independence,   Matthews
+
+
 North Carolina FC,        Cary
 
 
@@ -107,8 +114,19 @@ FC Motown,      Morristown
 == Connecticut ==
 Hartford Athletic, Hartford
 
+
 ==  Missouri ==
-Saint Louis FC, Fenton
+
+Saint Louis FC (2014-2020), Fenton
+## On August 25, 2020, citing the financial impact 
+## of the COVID-19 pandemic during 2020, 
+## it was announced that the 2020 season would be
+## the final season of operation for the club
+
+Saint Louis City,   2019,    St. Louis
+  | St. Louis City Soccer Club
+  | St. Louis City SC
+
 
 
 == Florida ==
@@ -174,7 +192,17 @@ NTX Rayados,                 Dallas
 Houston Dynamo, 2006,  Houston   ## year 2005?
   | Houston | H. Dynamo
 
+
+Austin FC,  2018,        Austin
+  | Austin Football Club
+
+# Not to be confused with Austin Bold FC,
+#  the USL Championship soccer team
+#  that played from 2019–21 at Circuit of the Americas.
 Austin Bold FC,              Austin
+
+
+
 El Paso Locomotive FC,       El Paso
 Rio Grande Valley FC Toros,  Edinburg
 San Antonio FC,              San Antonio

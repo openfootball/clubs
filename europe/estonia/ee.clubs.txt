@@ -22,6 +22,11 @@ JK Tallinna Kalev
   | Tallinna Kalev
   | Talinna Kalev
 
+
+FC Nõmme United,   Tallinn (Nõmme)
+  | Jalgpalliklubi FC Nõmme United
+  
+
 FC Norma Tallinn (1959-1997), Tallinn    # champs (2): 1994..1992 (2)
   | Norma Tallinn
 
@@ -46,8 +51,10 @@ FC Santos Tartu
 JK Tammeka Tartu
   | Tammeka | Tammeka Tartu
 
-Paide Linnameeskond
+Paide Linnameeskond,   Paide
   | Paide
+  | Paide Linnameesk.
+
 
 JK Tulevik Viljandi,   Viljandi
   | Tulevik | Viljandi Tulevik | Viljandi JK Tulevik
@@ -58,3 +65,8 @@ FC Kuressaare
   | Kuressaare
 Maardu Esteve
   | Maardu
+
+
+Pärnu JK Vaprus,  Pärnu
+  | Pärnu Vaprus |  Vaprus
+

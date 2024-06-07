@@ -82,6 +82,12 @@ Grêmio Novorizontino,  2010,  Novo Horizonte  # São Paulo
 #  which folded in 1999.
 
 
+Mirassol FC SP,  1925,   Mirassol  # São Paulo 
+ | Mirassol Futebol Clube,
+ | Mirassol
+ 
+
+
 == Rio de Janeiro ==
 Botafogo RJ,     Rio de Janeiro
   | Botafogo | Botafogo (RJ)

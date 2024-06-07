@@ -99,10 +99,16 @@ KPV Kokkola,        Kokkola
   | KPV | Kokkolan Palloveikot
 Rovaniemen Palloseura,  Rovaniemi
   | RoPS | Rovaniemi | RoPS Rovaniemi | Rovaniemi PS
+  
 SJK Seinäjoki,      Seinäjoki
   | Seinäjoki
   | SJK | Seinäjoen Jalkapallokerho
   | Seinäjoen JK
+
+SJK Akatemia, 2012,  Seinäjoki
+  | SJK II
+# (formerly Kerho 07 in 2013–2015)
+
 
 
 Vaasan Palloseura,    Vaasa
@@ -153,6 +159,9 @@ Järvenpään Palloseura, 1947, Järvenpää
   | Järvenpään PS
 
 
+
+
 AC Vantaan Allianssi (2002-2006),  Vantaa
   | AC Allianssi
+
 

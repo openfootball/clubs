@@ -37,4 +37,5 @@ CE Principat (1989-2015),   Andorra La Vella
 FC Andorra,  1942, @ Estadi Nacional,    Andorra La Vella    # plays in la liga 2 in spain
   | Andorra
   | Futbol Club Andorra
+  | Andorra FC
   

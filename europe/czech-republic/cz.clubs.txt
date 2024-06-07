@@ -176,6 +176,7 @@ FC Sellier & Bellot Vlašim,  1922, Vlašim
 FC Silon Táborsko, Tábor
   | Football Club Silon Táborsko
   | FK MAS Táborsko
+  | FK Táborsko
   | MAS Táborsko
 # in 2022, the club got a new main sponsor and 
 # changed its name to FC Silon Táborsko
