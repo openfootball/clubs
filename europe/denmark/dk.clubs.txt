@@ -15,7 +15,7 @@ B 1903 København (1903-1992),     København      # champs (3): 1977/78 1972..1
 
 KB København (1876-1992),     København    # champs (4): 1981/82 1975/76 1969/70 1958/59
   | KB | Kjøbenhavns BK | Kjøbenhavns Boldklub
-  | Kjöbenhavns Boldklub
+                        
 # In 1991, KB and B 1903 merged their professional football teams
 #  and formed FC Copenhagen
 
@@ -28,13 +28,11 @@ BK Fremad Amager,    København
   | Fremad Amager
 Brønshøj BK,         København
   | Brønshøj Boldklub
-  | Brönshöj BK [de]
 B 1908 Amager,       København
   | B.1908 | Boldklubben 1908
 Vanløse IF,          København
-  | Vanlöse IF [de]
 
-BK Frem, 1886  København (Valby-Sydhavnen)
+BK Frem, 1886,     København (Valby-Sydhavnen)
   | Boldklubben Frem
   | Frem København | BK Frem København
   | BK Frem Copenhagen
@@ -133,7 +131,6 @@ FC Vestsjælland,  Slagelse
 == ?? ==
 
 HB Køge, 2009,             Køge (Herfølge)
-  | HB Köge [de]
 
 Herfølge BK (1921-2009),   Køge (Herfølge)
   | Herfølge Boldklub
@@ -158,13 +155,18 @@ Hvidovre IF,   1925, @ Hvidovre Stadium,   Hvidovre
   | Hvidovre
   | Hvidovre Idrætsforening
 
+
 Nykøbing FC,    Nykøbing Falster
-  | Nyköbing FC [de]
+
+B 1901 Nykøbing (1901-1994),  Nykøbing Falster
+  | B1901 Nykøbing
+
+
 Næstved BK,     Næstved
   | Næstved IF
 
+
 Hillerød Fodbold,   Hillerød
-  | Hilleröd Fodbold [de]
 Middelfart BK,       Middelfart
   | Middelfart G&BK
 Varde IF,       Varde
@@ -173,5 +175,19 @@ Viby IF,       Viby
 Hellerup IK,   Hellerup
   | HIK | HIK Hellerup
 
-B 1901 Nykøbing (1901-1994),  Nykøbing Falster
-  | B1901 Nyköbing
+
+
+## note:
+##  de lookup works with unaccent
+##    Brønshøj BK      => bronshojbk
+##    Brönshöj BK [de] => bronshojbk
+##  => no need to duplicate!!!
+##      remove (do NOT add) german variants
+##   more (former) examples:
+##    -  Vanlöse IF [de]
+##    -  HB Köge [de]
+##    -  Nyköbing FC [de]
+##    -  Hilleröd Fodbold [de]
+##    -  Kjöbenhavns Boldklub
+
+

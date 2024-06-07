@@ -84,7 +84,7 @@ Mjällby AIF,    1939, @ Strandvallen,   Mjällby
   | Mjällby Allmänna Idrottsförening
 
 Åtvidabergs FF,  Åtvidaberg
-  | Atvidabergs | Åtvidaberg | Åtvid | ÅFF | Åtvidabergs Fotbollförening
+  | Åtvidabergs | Åtvidaberg | Åtvid | ÅFF | Åtvidabergs Fotbollförening
 
 Dalkurd FF,   Uppsala
   | Dalkurd
@@ -132,8 +132,8 @@ Husqvarna FF,    Huskvarna
 Nyköping BIS,    Nyköping
 
 Västerås SK,  1904, @ Iver Arena,  Västerås
-  | Vasteraas SK
   | Västerås Sportklubb
+  | Vasteraas SK      ## note -  å => aa 
 
 Degerfors IF,  1907, @ Stora Valla, Degerfors
   | Degerfors Idrottsförening

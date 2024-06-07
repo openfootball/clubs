@@ -65,9 +65,9 @@ BFC Daugavpils,         Daugavpils
 
 FC Dinaburg
 
-Grobiņas SC,  2009,  Grobiņa
+Grobiņas SC,  2009,  Grobiņa   
   | Sporta Centrs Grobiņa 
-  | Grobinas SC   ## check if unaccent works here  ņ => n ??
+
 
 FK Tukums 2000, 2000, Tukums
   | Futbola klubs Tukums 2000

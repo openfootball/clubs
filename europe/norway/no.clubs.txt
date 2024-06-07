@@ -48,7 +48,6 @@ Fredrikstad FK,   1903, @ Fredrikstad Stadion,   Fredrikstad
   | Fredrikstad | Fredrikstad Fotballklubb
 Lillestrøm SK,   1917, @ Åråsen,   Lillestrøm
   | Lillestrøm
-  | Lilleström SK [de]     ## todo/fix: auto-generate variant (no) ø->ö
   | Lillestrøm Sportsklubb
 Viking FK,   1899, @ SR-Bank Arena,   Stavanger
   | Viking | Viking Fotballklubb | Viking Stavanger
@@ -77,11 +76,9 @@ Kristiansund BK,  2003, @ Kristiansund Stadion, Kristiansund
   | Kristiansund | Kristiansund Ballklubb
 Mjøndalen IF,   1910, @ Consto Arena,   Mjøndalen
   | Mjøndalen
-  | Mjöndalen [de]      ## todo/fix: auto-generate variant (no) ø->ö
   | Mjøndalen Idrettsforening
 Bodø/Glimt,  1916, @ Aspmyra Stadion,  Bodø
   | FK Bodø/Glimt | Fotballklubben Bodø/Glimt
-  | Bodö Glimt  [de]    ## check if ø=>ö transliteration is used in english too (or only german/de)?
 
 FK Haugesund, 1993, @ Haugesund Stadion,  Haugesund
   | Haugesund | Fotballklubben Haugesund
@@ -123,12 +120,10 @@ Raufoss IL, Raufoss
   | Raufoss
 Strømmen IF, Strømmen
   | Strømmen
-  | Strömmen IF [de]
 Tromsdalen UIL,  Tromsdalen
   | Tromsdalen
 Åsane Fotball, Åsane
-  | Aasane Fotball [de]
-
+  | Aasane Fotball [de]     ## Å => Aa
 
 
 Bryne FK,  1926,   Bryne
@@ -142,3 +137,15 @@ Egersunds IK, Egersund
  Levanger FK, Levanger
   | Levanger
   | Levanger Fotballklubb
+
+
+## note:
+##  de lookup works with unaccent
+##     Lillestrøm SK =   lillestromsk
+##     Lilleström SK =>  lillestromsk
+##  => no need to duplicate!!!
+##      remove (do NOT add) german variants
+##   more (former) examples:
+##   -   Mjöndalen      
+##   -   Bodö Glimt  
+##   -   Strömmen IF 
