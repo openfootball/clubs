@@ -3,8 +3,11 @@
 
 Derry City FC,       Derry     ## note: plays in (Republic of) Ireland league
   | Derry | Derry City | FC Derry City
+  | Derry City Football Club
+
 Institute FC,        Derry
   | Institute | FC Institute
+
 
 
 Linfield FC,    Belfast

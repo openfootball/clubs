@@ -3,8 +3,10 @@
 
 Shamrock Rovers FC,                Dublin (Tallaght)         #  Tallaght, South Dublin
   | Shamrock | Shamrock Rovers | FC Shamrock Rovers
+  | Shamrock Rovers Football Club
 Bohemian FC,                     Dublin (Phibsborough)
   | Bohemians | Boh. Dublin | Bohemians Dublin
+  | Bohemian Football Club
   | Bohemian Football Club Dublin
 
 St Patrick's Athletic FC,        Dublin (Inchicore)
@@ -12,12 +14,15 @@ St Patrick's Athletic FC,        Dublin (Inchicore)
   | St. Patricks
   | Saint Patrick's Athletic FC
   | Saint Patrick's
+  | St Patrick's Athletic Football Club
 University College Dublin AFC,  Dublin (Belfield)
   | UCD | UC Dublin | Uni College Dublin
   | University College Dublin
+  | University College Dublin Association Football Club
 
 Shelbourne FC,                   Dublin (Drumcondra)
   | Shelbourne | Shelbourne Dublin
+  | Shelbourne Football Club
 
 Drumcondra FC,          Dublin (Drumcondra)
   | Drumcondra Dublin     # champs (3): 1965/66 1961/62 1958/59
@@ -56,11 +61,15 @@ Cork Hibernians FC (1957-1976), Cork
 Drogheda United FC,  Drogheda
   | Drogheda | Drogheda United
   | FC Drogheda United
+  | Drogheda United Football Club
 
 Dundalk FC,         Dundalk
   | Dundalk | FC Dundalk
+  | Dundalk Football Club
+
 Finn Harps FC,     Ballybofey
   | Finn Harps | FC Finn Harps
+  | Finn Harps Football Club
 Galway United FC, Galway
   | Galway | Galway United
   | FC Galway United
@@ -73,11 +82,13 @@ Monaghan
   | Monaghan United
 Sligo Rovers FC,       Sligo
   | Sligo | Sligo Rovers | FC Sligo Rovers
+  | Sligo Rovers Football Club
 
 Waterford FC,          Waterford
   | Waterford
   | Waterford United (1982-2016) | Waterford United FC (1982-2016)
   | Waterford AFC    # champs (6): 1974..1972 (2) 1971...1968 (3) 1966/67
+  | Waterford Football Club
 
 ## todo/fix: use/try new format e.g.
 ##  1982-2016  | Waterford United | Waterford United FC
