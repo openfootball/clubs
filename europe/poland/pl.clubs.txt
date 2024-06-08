@@ -34,7 +34,7 @@ Wisła Kraków,  1906, @ Stadion Miejski im. Henryka Reymana,   Kraków
   | Wisła Kraków Spółka Akcyjna
   | Wisła Krakau [de]
 KS Cracovia,  1906, @ Stadion Cracovii im. Józefa Piłsudskiego,    Kraków
-  | Cracovia | MKS Cracovia Kraków
+  | Cracovia | MKS Cracovia Kraków | MKS Cracovia
   | Cracovia Kraków
   | Cracovia Krakau [de]
   | Miejski Klub Sportowy Cracovia Sportowa Spółka Akcyjna

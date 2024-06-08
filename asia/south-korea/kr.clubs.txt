@@ -31,8 +31,13 @@ FC Seoul,                 Seoul
   | Seoul
 Suwon Bluewings,          Suwon
   | Suwon Samsung Bluewings | Suwon Samsung Bluewings FC
-Ulsan Hyundai,            Ulsan
-  | Ulsan Hyundai FC
+
+
+Ulsan HD FC,    1983,       Ulsan
+  | Ulsan HD Football Club
+  | Ulsan Hyundai | Ulsan Hyundai FC
+#  formerly Ulsan Hyundai FC
+
 
 Sangju Sangmu,    Sangju
   | Sangju Sangmu FC

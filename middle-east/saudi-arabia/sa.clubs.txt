@@ -7,7 +7,7 @@ Al-Hilal,  1957, Riyadh
   | Al Hilal Riyadh
   | Al-Hilal Riyad
   | Al Hilal Saudi Football Club
-
+  | Al Hilal SFC
 
 
 Al-Nassr, 1955,    Riyadh
@@ -66,6 +66,8 @@ Al-Tai, 1961, Ha'il
 Al-Ettifaq, 1945, Dammam
   | Al-Ettifaq FC
   | Al-Ettifaq Football Club 
+  | Ettifaq FC
+
 
 Al-Raed, 1954, Buraidah
   | Al Raed FC

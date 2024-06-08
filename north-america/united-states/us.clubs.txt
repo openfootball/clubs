@@ -49,7 +49,11 @@ Milwaukee Bavarian SC,    Milwaukee
 
 == Illinois ==
 Chicago Fire, 1998,  Bridgeview     ## year 1997? use Chicago (not Bridgeview?)
-  | Chicago | Chicago Fire Soccer Club
+  | Chicago 
+  | Chicago Fire Soccer Club
+  | Chicago Fire Football Club
+  | Chicago Fire FC
+
 
 == Michigan ==
 AFC Ann Arbor,       Ann Arbor

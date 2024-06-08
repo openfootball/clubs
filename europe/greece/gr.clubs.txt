@@ -102,10 +102,12 @@ Xanthi FC,           Xanthi › Thrace
   | Xanthi
   | $$Skoda$$ Xanthi | $$Skoda$$ Xanthi FC
 
-Panetolikos GFS,     Agrinio › West Greece
+Panetolikos GFS,   1926,   Agrinio › West Greece
   | Panetolikos | Panetolikos Agrinio
   | Panaitolikos
   | Panetolikos Gymnastikos Philekpaideutikos Syllogos
+  | Panetolikos FC
+  | Pan-Aetolian Gymnastic and Educational Club [en]
 
 PAS Giannina FC,     Ioannina › Epirus
   | Giannina | PAS Giannina

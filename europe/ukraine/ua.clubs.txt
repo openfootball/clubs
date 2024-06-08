@@ -158,8 +158,8 @@ FC Mynai,  Mynai
 
 
 Polissya Zhytomyr,  Zhytomyr
+  | FC Polissya Zhytomyr
   | Futbolnyi Klub Polissya Zhytomyr
-
 
 Inhulets Petrove,   Petrove
   | FC Inhulets Petrove
