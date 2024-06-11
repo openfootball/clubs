@@ -102,3 +102,9 @@ Sporting Fingal FC
 
 Cabinteely FC,        Cabinteely
   | Cabinteely
+
+
+Kerry FC,   2022,   Tralee   # in County Kerry 
+  | Kerry Football Club
+
+  

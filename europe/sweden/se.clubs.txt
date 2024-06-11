@@ -18,6 +18,15 @@ Hammarby IF,    1897, @ Tele2 Arena,        Stockholm
   | Hammarby | Hammarby Fotboll
   | Hammarby Idrottsförening Fotbollsförening
 
+# note  - this article is about a feeder team. 
+#   For the main club, see  Hammarby IF
+#   use ii) - why? why not?
+Hammarby Talang FF,  2003,  Stockholm
+  | Hammarby TFF
+  | HTFF
+  | Hammarby Talangfotbollförening Herrfotboll
+
+
 Vasalunds IF, Solna    # part of the Stockholm urban area
 
 
@@ -39,6 +48,9 @@ Qviding FIF,  Göteborg
 
 Utsiktens BK, 1935, Göteborg       # in Västra Frölunda, near Gothenburg
   | Utsiktens Bollklubb
+
+Torslanda IK, 1944, Göteborg
+  | Torslanda Idrottsklubb
 
 
 
@@ -174,3 +186,11 @@ IK Oddevold,  1932, Uddevalla
 
 Lunds BK, Lund
 
+
+Oskarshamns AIK, 1922, Oskarshamn
+   | Oskarshamns Allmänna Idrottsklubb
+
+Sollentuna FK, 2013, Sollentuna   #  a municipality in Stockholm County
+  | Sollentuna Fotbollsklubb
+
+  

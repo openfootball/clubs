@@ -6,6 +6,13 @@ FC Tokyo,             Tokyo
 Tokyo Verdy,          Tokyo
   | Verdy
 
+
+## check - use Tokyo with district or  Machida › Tokyo  ??? 
+Machida Zelvia,  1989,  Tokyo (Machida)   # based in Machida, Tokyo
+  | FC Machida Zelvia
+  | Football Club Machida Zelvia 
+
+
 Albirex Niigata,      Niigata & Seiro › Niigata
 Omiya Ardija,         Omiya › Saitama
 Cerezo Osaka,         Osaka › Osaka
@@ -69,3 +76,4 @@ Tokushima Vortis      # All cities/towns in Tokushima
 
 Kyoto Sanga,  Kyoto
   | Kyoto Sanga FC  | Kyoto Sanga Football Club
+

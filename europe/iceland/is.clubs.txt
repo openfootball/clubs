@@ -26,6 +26,13 @@ Throttur Reykjavik, Reykjavík
  | Knattspyrnufélagið Þróttur 
 
 
+Leiknir Reykjavík,  1973  Reykjavík (Breiðholt)
+ | Leiknir R.
+ | Leiknir
+ | Íþróttafélagið Leiknir
+ 
+
+
 Grótta,   Seltjarnarnes
   | Íþróttafélagið Grótta
 
@@ -56,6 +63,8 @@ HK Kópavogs,   Kópavogur
 
 KA Akureyri,   Akureyri
   | KA
+  | Knattspyrnufélag Akureyrar     # "Akureyri Football Club"
+  
 Thór Akureyri,    Akureyri        # note: Þór Akureyri - auto-change Þ to Th - why? why not
   | Þór Akureyri
 
@@ -75,6 +84,12 @@ UMF Afturelding,    Mosfellsbær
   | Ungmennafélagið Afturelding
   | Afturelding
 
-ÍF Vestri
 
+UMF Njarðvík, 1944, Njarðvík
+  | Njarðvík
+  | Ungmennafélag Njarðvíkur
+
+
+ÍF Vestri
+  | Íþróttafélagið Vestri
 

@@ -200,7 +200,7 @@ Gimnasia y Esgrima de Mendoza,   Mendoza
 Independiente Rivadavia,  Mendoza
   | Club Sportivo Independiente Rivadavia
   | Independiente Rivadavia (Mendoza)
-
+  | Indep. Rivadavia
 
 == Provincia San Juan ==
 

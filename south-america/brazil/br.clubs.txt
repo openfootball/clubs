@@ -261,6 +261,7 @@ Fortaleza EC,     Fortaleza
 == Pará ==
 Paysandu SC,   Belém
   | Paysandu | Paysandu Sport Club
+  | Paysandu SC PA
 
 Clube do Remo,  1905,  Belém
   | Remo
