@@ -7,19 +7,42 @@ Beijing Sinobo Guoan,     Beijing
 Beijing Renhe,            Beijing
   | Beijing Renhe FC
 
-Shanghai SIPG,               Shanghai
+Shanghai Port FC,   2005,        Shanghai
+  | Shanghai Port
+  | Shanghai Port Football Club 
+  | Shanghai SIPG 
   | Shanghai SIPG FC | SIPG Shanghai
+#  previously Shanghai SIPG 
+#    - Shanghai East Asia Football Club 
+#      (sponsored name Shanghai Tellace, Shanghai SIPG) 
+#    - Shanghai SIPG Football Club (2015–2020)
+#    - Shanghai Port Football Club (2021–present)
+
+
 Shanghai Greenland Shenhua,  Shanghai
   | Shanghai Shenhua | Shenhua Shanghai
 Shanghai Shenxin,            Shanghai
   | Shanghai Shen | Shanghai Shenxin FC
 
 
-Guangzhou Evergrande Taobao,   Guangzhou
+
+Guangzhou FC, 1954,  Guangzhou
+  | Guangzhou Football Club 
   | Guangzhou Ev. | Guangzhou Evg | Guangzhou Evergrande
+  | Guangzhou Evergrande Taobao,   
   | Guangzhou Evergrande Taobao FC
-Guangzhou R&F,                 Guangzhou
-  | Guangzhou R&F FC
+#  previously Guangzhou Evergrande
+
+
+# note - Not to be confused with Guangzhou F.C.  
+Guangzhou City FC (2011-2023), Guangzhou
+  | Guangzhou City 
+  | Guangzhou City Football Club
+  | Guangzhou R&F | Guangzhou R&F FC
+#  The club's name between 2011 and 2020 was Guangzhou R&F, 
+#  which was short for rich (富) and force (力). 
+# The club changed its name to Guangzhou City in December 2020.
+
 
 Chongqing Dangdai Lifan,   Chongqing
   | Chongqing Lifan
@@ -27,11 +50,18 @@ Chongqing Dangdai Lifan,   Chongqing
   | Chongqing SWM
 Changchun Yatai,           Changchun
 
-Dalian Yifang,             Dalian
+Dalian Pro (2009-2024),       Dalian
+  | Dalian Professional      
+  | Dalian Professional FC 
+  | Dalian Professional Football Club
+  | Dalian Yifang             
   | Dalian Yifang FC
-  | Dalian Aerbin FC          # note: Dalian Aerbin (2009–2015)
-  | Dalian Pro | Dalian Professional
+  | Dalian Aerbin FC         
 # note: in January 2020 Dalian Yifang FC changed their name to Dalian Pro
+#    Dalian Pro (2020–2024)
+#    Dalian Yifang (2015–2019)
+#    Dalian Aerbin (2009–2014)
+
 
 Guizhou Hengfeng,          Guiyang
   | Guizhou Zhicheng
