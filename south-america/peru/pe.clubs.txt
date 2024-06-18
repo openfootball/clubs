@@ -14,6 +14,11 @@ Club Universitario de Deportes, Lima
   | Universitario | Universitario Dep.
 
 
+Deportivo Coopsol, Chancay
+   | Club Deportivo Coopsol
+
+
+
 Juan Aurich,      Chiclayo
   | Club Juan Aurich S.A
 Molinos El Pirata, Chiclayo
@@ -80,6 +85,10 @@ Comerciantes Unidos,   2002,  Cutervo
   | Comerciantes Uni
   | Asociación Social Deportiva y Cultural Comerciantes Unidos
 
+
+AD Comerciantes FC,  2017,  Iquitos (Belén)      # in Maynas, Loreto,
+  | Comerciantes FC
+  | Asociación Deportiva Comerciantes Fútbol Club
 
 ADT Tarma, Tarma
   | Asociación Deportiva Tarma
