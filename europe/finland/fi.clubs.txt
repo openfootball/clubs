@@ -159,6 +159,9 @@ Järvenpään Palloseura, 1947, Järvenpää
   | Järvenpään PS
 
 
+Salon Palloilijat,    Salo
+  | SalPa
+   
 
 
 AC Vantaan Allianssi (2002-2006),  Vantaa

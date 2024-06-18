@@ -77,3 +77,26 @@ Tokushima Vortis      # All cities/towns in Tokushima
 Kyoto Sanga,  Kyoto
   | Kyoto Sanga FC  | Kyoto Sanga Football Club
 
+Fagiano Okayama,  Okayama
+
+Ehime FC,    Matsuyama 
+  | Ehime Football Club
+
+Kagoshima United,  Kagoshima 
+  | Kagoshima United FC
+
+Roasso Kumamoto, Kumamoto
+
+Mito HollyHock, 1994,  Mito
+  | Football Club Mito HollyHock Ibaraki
+
+Renofa Yamaguchi, Yamaguchi
+  | Renofa Yamaguchi FC
+
+Thespa Gunma,   Maebashi
+  | Thespakusatsu Gunma
+  | Thespakusatsu
+# formerly Thespakusatsu Gunma
+    
+
+ 

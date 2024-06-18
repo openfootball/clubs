@@ -194,3 +194,6 @@ Sollentuna FK, 2013, Sollentuna   #  a municipality in Stockholm County
   | Sollentuna Fotbollsklubb
 
   
+Onsala BK, 1941,  Onsala
+  | Onsala Bollklubb
+  

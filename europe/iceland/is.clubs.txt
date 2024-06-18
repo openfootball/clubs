@@ -32,6 +32,9 @@ Leiknir Reykjavík,  1973  Reykjavík (Breiðholt)
  | Íþróttafélagið Leiknir
  
 
+ÍR Reykjavík,  Reykjavík
+ | Íþróttafélag Reykjavíkur
+
 
 Grótta,   Seltjarnarnes
   | Íþróttafélagið Grótta

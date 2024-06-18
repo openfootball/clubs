@@ -73,8 +73,16 @@ Finn Harps FC,     Ballybofey
 Galway United FC, Galway
   | Galway | Galway United
   | FC Galway United
-Limerick FC, Limerick
+
+Limerick FC (1937-2020), Limerick
   | Limerick
+  | Limerick Football Club
+
+Treaty United,  2020,    Limerick  
+  | Treaty United Football Club
+## The club was founded in 2020 following the demise of Limerick F.C
+
+
 Longford Town FC,  Longford
   | Longford | Longford Town | FC Longford Town
 Mervue
@@ -107,4 +115,3 @@ Cabinteely FC,        Cabinteely
 Kerry FC,   2022,   Tralee   # in County Kerry 
   | Kerry Football Club
 
-  

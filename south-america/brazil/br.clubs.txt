@@ -87,6 +87,11 @@ Mirassol FC SP,  1925,   Mirassol  # São Paulo
  | Mirassol
  
 
+Ituano FC SP,  1947,  Itu   # São Paulo 
+  | Ituano FC
+  | Ituano Futebol Clube | Ituano
+  
+
 
 == Rio de Janeiro ==
 Botafogo RJ,     Rio de Janeiro

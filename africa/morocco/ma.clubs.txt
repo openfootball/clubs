@@ -1,8 +1,66 @@
 ===================================
 =  Morocco
 
+#####
+### region - Casablanca-Settat	
+
 Raja Casablanca,  Casablanca
   | Raja Club Athletic
+  | Raja CA
 
-Wydad Casabl.,    Casablanca
+Wydad Casablanca,    Casablanca
+  | Wydad Casabl.
+  | Wydad AC
+
+CAY Berrechid
+  | Youssoufia Berrechid
+
+JS Soualem
+  | Jeunesse Sportive Soualem
+
+RCA Zemamra 
+  | Khemis Zemamra
+
+SCC Mohammédia 
+  | Chabab Mohammédia
+
+######
+### region - Rabat-Salé-Kénitra	
+AS FAR
+  | FAR Rabat
+FUS Rabat 
+  | FUS de Rabat
+
+US Touarga
+  | Union Touarga
+
+#####
+### region - Oriental	
+MC Oujda 
+  | Mouloudia d'Oujda
+RS Berkane
+  | RSB Berkane
+
+#####
+## region - Tanger-Tetouan-Al Hoceima
+IR Tanger
+MA Tétouan
+  | Maghreb Tétouan
+
+#######
+## region - Fès-Meknès	
+MAS Fès
+  | Maghreb Fez
+
+############
+## region -  Marrakesh–Safi	
+OC Safi
+  | Olympique Safi
+
+###########
+## region -  Souss-Massa
+HUS Agadir
+  | Hassania d'Agadir
+
+
 
