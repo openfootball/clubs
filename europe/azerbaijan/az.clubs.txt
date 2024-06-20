@@ -67,11 +67,14 @@ Sumqayıt FK
   | Sumqayıt
 Sabah
 
+
+# note - Not to be confused with FC Turan
 PFK Turan Tovuz, 1954,  Tovuz
   | Turan PFK
   | Turan-T İK
   | Turan-Tovuz İK
   | Turan İK | Turan İdman Klubu
+  | Turan Tovuz 
 
 
 FK MKT Araz, 2004,    İmişli

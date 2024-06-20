@@ -28,11 +28,21 @@ FK Senica
   | Senica
 
 
-MFK Košice (1952-2017),   Košice
-  | Košice
+FC Košice, 2018,   Košice
+  | Football Club Košice 
+# note: Not to be confused with FC VSS Košice.
+#   merged into a new club with FK Košice-Barca. 
+# From a historical and traditional point of view, 
+# the club follows the first football club from Košice, 
+# Kassai Athletikai Club from 1903, later known as FC VSS Košice,
+#   but from a legal point of view it is a new club with a clean slate.
+
+FC VSS Košice (1952-2017),   Košice
+  | Football Club VSS Košice
+  | MFK Košice
   | 1. FC Košice
-  | FC VSS Košice
-# note: Not to be confused with FK Košice.
+  | Košice
+# note: Not to be confused with FC Košice (2018).
 # name history:
 #   1. FC	Košice 1992–04
 #   MFK	Košice 2005–15

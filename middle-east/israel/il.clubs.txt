@@ -133,6 +133,9 @@ Maccabi Bnei,  Reineh
   | Maccabi Bnei Reineh
   | Maccabi Bnei Raina
   | Maccabi Bnei Reine
+  | Maccabi Bnei Reineh FC
+  | Maccabi Bnei Reineh Football Club
+
 
 Maccabi Herzliya, Herzliya
 

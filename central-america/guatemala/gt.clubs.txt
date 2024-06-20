@@ -14,6 +14,8 @@ Deportivo Mixco,   Mixco   ## Guatemala Department
 Club Xelajú MC,  1928,   Quetzaltenango    ## Department of Quetzaltenango
   | Xela | Xelajú | Xelajú MC 
   | Club Social y Deportivo Xelajú Mario Camposeco
+  | C.S.D. Xelajú MC
+  
 Heredia Jaguares de Peten
   | Heredia
 

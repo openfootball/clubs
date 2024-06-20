@@ -23,6 +23,7 @@ La Equidad,               Bogotá
 Fortaleza FC,  2010, Bogotá
   | FC Fortaleza
   | Fortaleza C.E.I.F. Fútbol Club
+  | Fortaleza C.E.I.F.
 
 Bogotá FC, 2003,   Bogotá
   | FC Bogotá

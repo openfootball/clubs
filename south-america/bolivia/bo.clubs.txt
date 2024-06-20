@@ -77,8 +77,9 @@ Universitario de Vinto,	 Cochabamba
   | Uni. de Vinto
   | Univer. de Vinto
   | FC Universitario
+  | FC Universitario de Vinto
   | Fútbol Club Universitario de Vinto
-
+ 
 
 San Antonio Bulo Bulo,	Entre Ríos
   |  San Ant. Bulo Bulo

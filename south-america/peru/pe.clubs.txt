@@ -38,6 +38,9 @@ Deportivo Garcilaso,  Cusco
   | Dep. Garcilaso
   | Club Deportivo Garcilaso
 
+Club Cienciano,   Cusco
+  | Cienciano
+
 
 Universidad César Vallejo, Trujillo
   | César Vallejo | Club Deportivo Universidad César Vallejo

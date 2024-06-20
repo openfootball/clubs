@@ -11,6 +11,8 @@ Puntarenas FC,    Puntarenas
 
 LD Alajuelense,   Alajuela › Alajuela     #  23 kilómetros al oeste de San José
   | Alajuelense
+  | Liga Deportiva Alajuelense
+ 
 Carmelita,        Santa Bárbara › Heredia
   | Asociación Deportiva Carmelita
 CS Cartaginés,     Cartago › Cartago
@@ -40,3 +42,9 @@ AD San Carlos, 1965,  Ciudad Quesada › San Carlos
 
 ADR Jicaral, 1981
   | Asociación Deportiva y Recreativa Jicaral
+
+AD Guanacasteca,  Nicoya
+  | Asociación Deportiva Guanacasteca 
+  | Guanacasteca
+
+  

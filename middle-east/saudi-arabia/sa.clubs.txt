@@ -99,3 +99,14 @@ Abha,      Abha
 # -  1966; 58 years ago, as Al-Farouk
 # - 1972; 52 years ago, as Al-Wadiea
 # - 1999; 25 years ago, as Abha
+
+
+Al-Jandal, 	Dumat al-Jandal
+  | Al Jandal SC
+  | Al Jandal Sport Club
+
+Al Qadsiah FC,    Khobar
+  | Al-Qadsiah Football Club
+  | Al-Qadsiah Saudi Football Club
+
+

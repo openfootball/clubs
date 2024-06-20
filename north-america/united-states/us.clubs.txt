@@ -193,8 +193,9 @@ FC Dallas, 1996,  Frisco      ##  use Dallas (and not Frisco) ? - note: FC Dalla
 NTX Rayados,                 Dallas
   | North Texas Rayados
 
-Houston Dynamo, 2006,  Houston   ## year 2005?
+Houston Dynamo, 2005,  Houston  
   | Houston | H. Dynamo
+  | Houston Dynamo FC
 
 
 Austin FC,  2018,        Austin
