@@ -64,3 +64,6 @@ CD Ñublense,    1916,    Chillán   # capital city of the Ñuble Region in the 
    | Club Deportivo Ñublense
    | Ñublense
 
+Deportes Melipilla, Melipilla  #  a comune in the Santiago Metropolitan Region
+   | Corporacion de Deportes Melipilla  
+   

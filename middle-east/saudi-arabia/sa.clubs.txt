@@ -110,3 +110,7 @@ Al Qadsiah FC,    Khobar
   | Al-Qadsiah Saudi Football Club
 
 
+Al Batin FC,    Hafar al-Batin
+  | Al Batin
+  | Al Batin Football Club
+  
