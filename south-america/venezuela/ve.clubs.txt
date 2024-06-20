@@ -3,8 +3,13 @@
 
 Caracas FC, 1967,      Caracas
   | Caracas | Caracas Fútbol Club
+
 Deportivo La Guaira,   Caracas
   | Dvo. La Guaira
+  | Deportivo La Guaira FC
+  | Deportivo La Guaira Fútbol Club
+  # formerly known as Real Esppor
+
 Deportivo Petare,      Caracas
   | Dvo. Petare
 Estudiantes de Caracas, Caracas
