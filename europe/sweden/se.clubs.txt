@@ -14,6 +14,11 @@ Djurgårdens IF, 1891, @ Tele2 Arena,      Stockholm
   | Djurgårdens IF Fotboll 
   
 
+FC Stockholm Inter,  @ Kristinebergs IP,   Stockholm
+  | FC Stockholm Internazionale
+  | FC Stockholm
+
+
 Hammarby IF,    1897, @ Tele2 Arena,        Stockholm
   | Hammarby | Hammarby Fotboll
   | Hammarby Idrottsförening Fotbollsförening
@@ -29,6 +34,11 @@ Hammarby Talang FF,  2003,  Stockholm
 
 Vasalunds IF, Solna    # part of the Stockholm urban area
 
+
+IFK Stocksund,  @ Stockhagens IP,   Stocksund   # Danderyd / suburb in Metropolitan Stockholm  
+  | Idrottsföreningen Kamraterna Stocksund
+ # In 2016, the men's team took over the license
+ #  of Juventus IF in the Division 3
 
 
 
@@ -65,6 +75,8 @@ IFK Malmö, Malmö
 
 BK Olympic, Malmö
 
+Ariana FC, Malmö
+
 
 
 IF Elfsborg,   1904, @ Borås Arena,   Borås
@@ -84,6 +96,12 @@ Kalmar FF,  1918, @ Guldfågeln Arena, Kalmar
 
 Örebro SK,  1908, @ Behrn Arena,   Örebro
   | Örebro | Örebro Sportklubb
+
+Örebro Syrianska IF, 1977,  @ Örnsro IP,  Örebro
+  | Örebro Syrianska Idrottsförening
+  | Örebro Syrianska
+  | ÖSIF
+
 
 Gefle IF,   Gävle
   | Gefle
@@ -197,3 +215,36 @@ Sollentuna FK, 2013, Sollentuna   #  a municipality in Stockholm County
 Onsala BK, 1941,  Onsala
   | Onsala Bollklubb
   
+
+FBK Karlstad, Karlstad
+  | Karlbergs BK
+  | Fotbollsklubben Karlstad 
+  | FBK
+
+IF Karlstad Fotbol, 2019, Karlstad
+  | Idrottsföreningen Karlstad Fotboll
+  | KF
+#  a meger of football clubs Carlstad United and Karlstad BK
+
+
+Nordic United FC, @ Södertälje Fotbollsarena, Södertälje
+# was founded in 2004 as Assyriska FF Babylon.
+#  Changes in identity have been the norm in recent years 
+# with the club being known as Södertälje FC, Assyriska United IK,
+#  Södertälje FK / Assyriska United IK, United IK and United IK Nordic.
+# In 2013, the club took over the team Assyriska Botkyrka 
+# (the youth team of Assyriska FF) 
+# In 2022, the club changed its name to Nordic United FC
+
+  
+Tvååkers IF, Tvååker
+  | Tvååkers Idrottsförening
+
+Eskilsminne IF,  Helsingborg
+  | Eskilsminne Idrottsförening
+  | EIF
+
+
+
+
+

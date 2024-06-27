@@ -86,12 +86,16 @@ Ismaily,   Ismailia › Ismailia
 El Gouna,    Hurghada › Red Sea   ## El Gouna
   | El Gouna FC
 
-Ghazl El Mahalla,  El Mahalla El Kubra › Gharbia
-  | Ghazl El Mahalla SC | Ghazl El Mahalla Sporting Club
 
-Baladiyat El Mahalla,  El Mahalla El Kubra
-  | Baladiyat El Mahalla SC
+Ghazl El Mahalla, 1936, @ Ghazl El Mahalla Stadium,   El Mahalla El Kubra › Gharbia
+  | Ghazl El Mahalla SC | Ghazl El Mahalla Sporting Club
+  | GMH
+
+Baladiyat El Mahalla, 1931,  @ Ghazl El Mahalla Stadium,  El Mahalla El Kubra
+  | Baladiyat El Mahalla SC | Baladiyat El Mahalla Sporting Club
   | Baladeyet Al Mahalla
+  | Baladiyyat Mehalla
+  | BMH
 
 
 Misr El Makasa,  Faiyum › Faiyum
