@@ -525,6 +525,9 @@ Woking FC,                  Woking › Surrey
 Metropolitan Police FC,   1919, East Molesey › Surrey,
   | Metropolitan Police
 
+Dorking Wanderers FC,      Dorking › Surrey
+  | Dorking Wanderers
+
 
 Chesterfield FC,     @ Proact Stadium,   Chesterfield › Derbyshire
   | Chesterfield

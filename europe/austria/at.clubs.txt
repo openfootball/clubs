@@ -81,8 +81,16 @@ Admira Landhaus
 # 2018 war alles wieder vorbei... Mauerwerk Sport Admira... FC Floridsdorf...????
 
 
-SR Donaufeld
+Sportunion Mauer
+
+
+SR Donaufeld,   Wien (Floridsdorf)
   | Donaufeld | SR Donaufeld Wien
+  | SV Rasenspieler Donaufeld Wien
+
+SV Donau Wien,  Wien (Donaustadt)
+  | SV Donau
+  | Sportvereinigung Donau
 
 
 FC Stadlau
@@ -267,7 +275,7 @@ USV Langenlois, Langenlois
   | Langenlois
 
 
-SC Admira Gföhl
+SC Admira Gföhl,   Gföhl 
 USV Raabs/Thaya
 
 SV Gloggnitz,  Gloggnitz
@@ -275,6 +283,9 @@ USV Scheiblingkirchen-Warth
 ASC Götzendorf
 SC Brunn am Gebirge
 SVg Purgstall
+
+
+SC Korneuburg,   Korneuburg 
 
 
 
@@ -495,6 +506,9 @@ ASK Klagenfurt,  1945, Klagenfurt (St. Peter bei Ebenthal)
   |  Arbeitersportclub Klagenfurt
 
 
+ATUS Velden,   Velden 
+
+
 Villacher SV, Villach
 
 SV Spittal/Drau
@@ -520,7 +534,8 @@ ATUS Ferlach,  Ferlach
 SV St. Jakob/Rosental
   | SV St. Jakob/R. | SV St. Jakob Rosental
 
-
+SV Dellach/Gail,    Dellach   
+  | Dellacher Sportverein
 
 
 == Salzburg ==
@@ -622,6 +637,8 @@ FC Zirl
 SV Reutte
 SC Kundl
 
+SV Fügen,    Fügen   # im Bezirk Schwaz 
+
 
 == Vorarlberg ==
 
@@ -651,6 +668,10 @@ FC Dornbirn 1913,  Dornbirn
 Dornbirner SV,     Dornbirn
   | Dornbirner Sportverein
   | $$Hella$$ Dornbirner SV
+
+SC Admira Dornbirn,  Dornbirn
+  | Sportclub Admira Dornbirn
+
 
 FC Höchst
   | Höchst

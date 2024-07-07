@@ -374,6 +374,7 @@ BFC Preussen, 1894
 VSG Altglienicke,   Berlin (Altglienicke)       # Altglienicke, Treptow-Köpenick, Berlin
   | Volkssport Gemeinschaft Altglienicke
 
+TuS Makkabi Berlin
 
 
 == Hamburg ==
@@ -385,6 +386,7 @@ Hamburger SV,  1887,     Hamburg
 
 FC St. Pauli, 1910,      Hamburg (St. Pauli)      ## use stadtteil St. Pauli ??
   | St Pauli | St. Pauli | FC Sankt Pauli
+  | FC St. Pauli 1910
   | Fußball-Club Sankt Pauli von 1910
  Heiligengeistfeld 1 // 20359 Hamburg
 
@@ -394,6 +396,10 @@ USC Paloma Hamburg, 1909
   | Uhlenhorster SC Paloma
   | Uhlenhorster Sport Club Paloma Hamburg
 HSV Barmbek-Uhlenhorst
+
+FC Teutonia 05,  Hamburg
+  | FC Teutonia Ottensen 
+  | FC Teutonia Altona-Ottensen
 
 
 == Bremen ==
@@ -546,6 +552,10 @@ TSV Steinbach Haiger
 ii) 1. FSV Mainz 05 II
   | Mainz 05 II
 
+TSV Schott Mainz, Mainz
+
+
+
 Eintracht Trier,      Trier
   | Ein Trier
 TuS Koblenz,         Koblenz
@@ -580,6 +590,10 @@ FV Engers 07,  1907,   Neuwied (Engers)   # Neuwied-Engers
 
 VfB Lübeck,          Lübeck
   | Lübeck
+
+1. FC Phönix Lübeck,   Lübeck
+  | Phönix Lübeck
+
 Holstein Kiel,       Kiel
   | Holst. Kiel | Kiel
   | Kieler Sportvereinigung Holstein von 1900

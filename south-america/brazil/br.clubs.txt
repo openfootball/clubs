@@ -245,6 +245,7 @@ EC Bahia,            Salvador
 == Goiás ==
 Goiás EC,       Goiânia
   | Goiás | Goiás EC GO | Goiás Esporte Clube
+  | Goiás GO     # Goiás - GO 
 Atlético GO,   Goiânia
   | Atl. Goianiense | Atlético Goianiense
   | AC Goianiense | Atlético Clube Goianiense
@@ -261,6 +262,7 @@ Fortaleza EC,     Fortaleza
   | Fortaleza | Fortaleza Esporte Clube
   | Fortaleza EC CE
   | Fortaleza EC C
+  | Fortaleza CE   # Fortaleza - CE
 
 
 == Pará ==
