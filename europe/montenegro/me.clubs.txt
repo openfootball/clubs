@@ -40,6 +40,6 @@ FK Jezero, 1934,  Plav
   | Fudbalski klub Jezero
 
 FK Mornar,  1923,  Bar
-  | FK Mornar Bar
+  | Mornar Bar | FK Mornar Bar
 
 
