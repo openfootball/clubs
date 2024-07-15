@@ -38,8 +38,6 @@ FC Zaria Balti
 
 FC Nistru Otaci
 
-CS Petrocub
-  | Petrocub | Petrocub-Hincesti
 FC Saxan
   | Saxan
   | Saxan Gagauz Yeri
@@ -55,5 +53,6 @@ FC Codru
 
 CS Petrocub Hîncești, 1990, Sărata-Galbenă
   | FC Petrocub-Hincesti
-
+  | CS Petrocub
+  | Petrocub | Petrocub-Hincesti
 

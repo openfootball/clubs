@@ -38,3 +38,6 @@ SS San Giovanni
   | San Giovanni
 Virtus FC
   | Virtus
+  | AC Virtus
+  | SS Virtus
+  | Virtus Acquaviva
