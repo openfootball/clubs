@@ -7,7 +7,7 @@ FK Riteriai, 2005, Vilnius
 # Note: Until 21 February 2019, the club was based in Trakai and was known as FK Trakai.
 
 VMFD Žalgiris,  Vilnius
-  | Žalgiris | Žalgiris Vilnius | FK Žalgiris | FK Žalgiris Vilnius
+  | Žalgiris | Žalgiris Vilnius | FK Žalgiris | FK Žalgiris Vilnius | Vilnius FK Žalgiris
 
 FK Kauno Žalgiris,  Kaunas
   | Kauno Žalgiris
