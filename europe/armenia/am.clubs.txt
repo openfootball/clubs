@@ -57,7 +57,9 @@ Alashkert FC
 FSC Lori
   | Lori
 
-Artsakh FC
+FC Noah,  2017,  Armavir
+  | Noah
+  | Artsakh FC | FC Artsakh | Artsakh
 
 FC Gandzasar Kapan,  2004,   Kapan
   | FC Gandzasar-Kapan

@@ -67,3 +67,7 @@ FK Bashkimi Kumanovo (1947-2008),   Kumanovo
 FK Belasica, 1922,   Strumica
   | FK Belasica GC
 
+GFK Tikvesh 1930,  1930,  Kavadarci
+  | Tikvesh | FK Tikvesh
+  | GFK Tikvesh
+  | FK Tikvesh Kavadarci

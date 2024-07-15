@@ -42,3 +42,6 @@ FK Jezero, 1934,  Plav
 FK Dečić
   | FK Dečić Tuzi
 
+FK Mornar,  1923,  Bar
+  | Mornar Bar | FK Mornar Bar
+
