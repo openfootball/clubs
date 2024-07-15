@@ -40,3 +40,4 @@ Virtus FC
   | Virtus
   | AC Virtus
   | SS Virtus
+  | Virtus Acquaviva
