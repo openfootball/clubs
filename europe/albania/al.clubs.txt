@@ -63,4 +63,6 @@ KF Tomori, 1923,  Berat
 KF Apolonia, 1925,  Fier
   | KF Apolonia Fier
 
-
+KF Egnatia, 1934,  Rrogozhinë
+  | Egnatia
+  | KF Egnatia Rrogozhinë   # champs (1): 2023/24
