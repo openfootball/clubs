@@ -2,6 +2,16 @@
 = Österreich • Austria
 
 
+#
+# todo/fix
+#   split into nine files (for nine bundesländer) - why? why not?
+#      use at.noe.clubs.txt   or at.n.clubs.txt
+#          at.wien.clubs.txt  or at.w.clubs.txt
+#            etc.
+#           check what abbreviation to use (w,n or wien,noe, etc.)
+
+
+
 == Wien ==
 
 SK Rapid Wien, 1899,  @ Allianz Stadion,   Wien (Hütteldorf)
@@ -10,18 +20,20 @@ SK Rapid Wien, 1899,  @ Allianz Stadion,   Wien (Hütteldorf)
   | Rapid Vienna [en]
  Keisslergasse 3 // 1140 Wien
 ii) SK Rapid Wien II
-  | Rapid Wien Am. | SK Rapid Amateure
   | Rapid Wien II
+  | Rapid Wien Am. | Rapid Wien A. 
+  | SK Rapid Amateure
 
 FK Austria Wien, 1911,  @ Generali Arena,   Wien (Favoriten)
   | Austria | Austria Wien
   | Fussballklub Austria Wien
   | Austria Vienna [en]
+  | FAK
  Fischhofgasse 12 // 1100 Wien
 ii) Young Violets Austria Wien
   | Young Violets | Y. Violets Austria | Young Violets A. W.
   | FK Austria Wien II
-  | Austria Wien Amat.| Austria Wien A. | Ausstria Wien Amateure
+  | Austria Wien Amat.| Austria Wien A. | Austria Wien Amateure
 
 
 
@@ -60,6 +72,8 @@ First Vienna FC,  1894,  Wien (Döbling)
 Floridsdorfer AC,  1904,  Wien (Floridsdorf)
   | FAC Team für Wien
   | FAC Wien
+  | FAC
+
 
 Wiener Viktoria,         Wien (Meidling)
   | SC Wiener Viktoria
@@ -336,8 +350,11 @@ FC Stahl Linz,       Linz
 #  | SK VOEST Linz (1978-1990)
 #  | FC VOEST Linz (1990-1991)
 
+
 Union Edelweiß Linz,   Linz
   | Edelweiß Linz     ## use Edelweiss why? why not?
+  | SPG Edelweiss Linz/Neue Heimat
+
 
 ASKÖ Donau Linz, Linz
   | Donau Linz
@@ -357,14 +374,16 @@ ii) SV Ried II
 SK Vorwärts Steyr,   Steyr
   | Vorw. Steyr | Vorwärts Steyr
 
+
 FC Wels,         Wels
   | Wels FC
 WSC Hertha Wels, Wels
   | WSC Hertha
-
+ 
 ## todo/check SPG Wels  - merger of FC Wels & WSC Herta Wels in 202x??
 SPG Hertha Wels, Wels
   | SPG HOGO Wels   ## HOGO is sponsor name
+  | FC Hertha Wels    ## keep - in use?
 
 
 
@@ -384,6 +403,9 @@ Union Gurten,        Gurten
 
 Union St. Florian,  St. Florian
   | St. Florian
+  | St. Florian/Niederneukirchen
+  | SPG Union St. Florian/Niederneukirchen
+
 
 SV Wallern
   | Wallern | Wallern/St. M. | Wallern/St. Marienk. | Wallern/St. Marienkirchen
@@ -392,12 +414,52 @@ SV Wallern
 
 
 SV Grün-Weiß Micheldorf
+  | SV GW Micheldorf
   | Micheldorf | SV Micheldorf
+  
 
 ASKÖ Oedt
 SV Grieskirchen
   | Grieskirchen
 SK Bad Wimsbach
+
+Union Dietach
+  | Dietach
+
+Union Weißkirchen
+  | SPG Weißkirchen/Allhaming
+
+
+Union St. Martin/M.
+  | Sportunion St. Martin im Mühlkreis
+
+SV Bad Schallerbach
+
+Union Mondsee
+
+Union Ostermiething
+
+SPG Friedburg/Pöndorf
+  | SPG Friedburg/P.
+  | SV Friedburg
+
+SV Bad Ischl
+SU Bad Leonfelden
+
+Union Perg
+  | DSG Union Perg
+
+SPG Pregarten
+
+ASK St. Valentin
+
+SV Gmunden
+Union Rohrbach/Berg
+  | UFC Rohrbach-Berg
+
+SC Marchtrenk
+
+
 
 
 == Steiermark ==
@@ -409,7 +471,7 @@ SK Sturm Graz, 1909,   @ Merkur Arena,   Graz
  Sternäckerweg 118 // 8042 Graz
 ii) SK Sturm Graz II
   | Sturm Graz II
-  | Sturm Graz Amat.
+  | Sturm Graz Amat. | Sturm Graz A.
   | Sturm Amateure | Sturm A.
 
 Grazer AK,   Graz
@@ -424,9 +486,11 @@ TSV Hartberg, 1946,    @ Profertil Arena Hartberg,   Hartberg
 
 
 Kapfenberger SV,   Kapfenberg
-  | KSV 1919 | Kapfenberger SV 1919
+  | KSV | KSV 1919 | Kapfenberger SV 1919
   | Kapfenberg 1919
+  
 ii) Kapfenberger SV II
+
 
 SV Lafnitz,   Lafnitz
   | Lafnitz
@@ -436,6 +500,11 @@ SV Lafnitz,   Lafnitz
 USV Allerheiligen,     Allerheiligen bei Wildon
   | Allerheiligen | SV Allerheiligen
   | SV $$Raiffeisen$$ Allerheiligen
+
+
+SV Wildon
+  | SV $$Raiffeisen$$ Wildon
+
 
 TuS Bad Gleichenberg,  Bad Gleichenberg
   | Bad Gleichenberg

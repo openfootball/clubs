@@ -5,14 +5,15 @@
 == Bayern ==
 
 Bayern München, 1900,    @ Allianz Arena,   München
-  | Bayern | Bayern Mün. | FC Bayern München
-  | Fußball Club Bayern München
+  | Bayern | Bayern Mün. 
+  | FC Bayern | FC Bayern München | Fußball Club Bayern München
   | Bayern Munich [en] | FC Bayern Munich [en]
  Säbener Straße 51-57 // 81547 München
 ii) Bayern München II
   | Bayern II |  Bayern München Am.
-  | FC Bayern II
+  | FC Bayern II | FC Bayern München II
   | B. München II
+  
 
 TSV 1860 München, 1860, München
   | 1860 München | TSV München 1860
@@ -38,6 +39,9 @@ SpVgg Greuther Fürth, 1903, Fürth
  Laubenweg 60 // 90765 Fürth
 ii) SpVgg Greuther Fürth II
   | Gr. Fürth II | Greuther Fürth II
+  | SpVgg Gr. Fürth II 
+  | Fürth II
+
 
 FC Augsburg, 1907,   @ WWK Arena,  Augsburg
   | Augsburg
@@ -45,6 +49,10 @@ FC Augsburg, 1907,   @ WWK Arena,  Augsburg
  Donauwörther Str. 170 // 86154 Augsburg
 ii) FC Augsburg II
   | Augsburg II
+
+TSV Schwaben Augsburg, Augsburg
+  | Schw. Augsburg | Schwaben Augsburg 
+
 
 SpVgg Unterhaching,  Unterhaching
   | U'haching | Unterhaching
@@ -60,11 +68,14 @@ SSV Jahn Regensburg,   Regensburg
   | Sport-und Schwimmverein Jahn 2000 Regensburg
 1. FC Schweinfurt 05,  Schweinfurt
   | Schweinfurt | Schweinfurt 05
+
 Würzburger Kickers, 1907,     Würzburg
   | Würzburger K. | W'burg Kickers
   | Kick. Würzburg | Kickers Würzburg
   | FC Würzburger Kickers
   | Fußball-Club Würzburger Kickers
+  | Würzburg
+
 Wacker Burghausen,  Burghausen
   | Burghausen
 Viktoria Aschaffenburg,  Aschaffenburg
@@ -76,6 +87,7 @@ FV Illertissen
 SpVgg Bayreuth,  Bayreuth
   | Bayreuth
 TSV Aubstadt
+  | Aubstadt
 TSV Buchbach
   | Buchbach
 VfB Eichstätt
@@ -89,6 +101,26 @@ FC Memmingen
 VfR Garching
 TSV 1896 Rain
   | TSV Rain | TSV Rain/Lech | TSV Rain am Lech
+
+DJK Vilzing
+  | Vilzing | Deutsche Jugendkraft Vilzing
+  
+
+SpVgg Ansbach
+  | Ansbach
+  | SpVgg Ansbach 09
+  | Spielvereinigung Ansbach 09
+
+SpVgg Hankofen-Hailing
+  | Spielvereinigung Hankofen-Hailing 1968
+  | SpVgg Hankofen-H.
+  | Hankofen
+
+FC Eintracht Bamberg, Bamberg
+  | Bamberg
+
+
+
 
 
 == Nordrhein-Westfalen ==
@@ -232,8 +264,9 @@ VfB Borussia Neunkirchen,  Neunkirchen
   | Borussia Neunkirchen
 
 SV Elversberg  
-  | Elversberg 07 | SV 07 Elversberg
+  | Elversberg | Elversberg 07 | SV 07 Elversberg
   | Sportvereinigung 07 Elversberg
+  | SpVgg 07 Elversberg
 
 
 == Niedersachsen ==
@@ -250,6 +283,7 @@ Hannover 96, 1896,       Hannover
   | Hannover | Hannover 1896
   | Hannoverscher Sportverein von 1896
  Robert-Enke-Straße 1 // 30169 Hannover
+ii) Hannover 96 II
 
 Eintracht Braunschweig, 1895,  Braunschweig
   | Braunschweig | E. Braunschweig | Eintr. Braunschweig
@@ -341,7 +375,7 @@ Hertha BSC, 1892,            	Berlin
  Hanns-Braun-Straße / Friesenhaus 2 // 14053 Berlin
 
 1. FC Union Berlin, 1966,   @ Stadion An der Alten Försterei, Berlin
-  | Union B. | Un. Berlin | Union Berlin | FC Union Berlin
+  | Union | Union B. | Un. Berlin | Union Berlin | FC Union Berlin
   | 1. FC Union
   | 1. Fußball-Club Union Berlin
  An der Wuhlheide 263 // 12555 Berlin
@@ -440,8 +474,8 @@ SC Freiburg, 1904,     @ Europa-Park Stadion,   Freiburg
   | Sport-Club Freiburg
  Schwarzwaldstr. 193 // 79117 Freiburg
 ii) SC Freiburg II
-
-
+  | Freiburg II
+  
 TSG 1899 Hoffenheim,  1899,  @ Rhein-Neckar-Arena,   Sinsheim   ## Sinsheim-Hoffenheim
   | Hoffenheim | 1899 Hoffenh. | 1899 Hoffenheim | TSG Hoffenheim
   | Turn- und Sportgemeinschaft 1899 Hoffenheim
@@ -523,8 +557,9 @@ SV Darmstadt 98, 1898,   @ Merck-Stadion am Böllenfalltor,  Darmstadt
   | Sportverein Darmstadt 1898
 SV Wehen Wiesbaden,     Wiesbaden
   | Wehen | Wiesbaden | W. Wiesbaden | Weh. Wiesbaden | Wehen Wiesbaden
-  | SV Wehen Wiesb.
+  | SV Wehen Wiesb. | Wehen Wiesb.
   | Sportverein Wehen Wiesbaden 26
+
 Kickers Offenbach,     Offenbach am Main
   | Offenbach
 KSV Hessen Kassel

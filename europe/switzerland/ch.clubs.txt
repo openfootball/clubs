@@ -1,12 +1,46 @@
 ===================================================
 =  Switzerland
 
+###  by 26  cantons / Kantone
+##
+## ZH	 Zürich	, Zürich  - 	Deutsch
+## BE	 Bern,  Bern	 - 	Deutsch, Französisch
+## LU	 Luzern,	 Luzern	- 	Deutsch
+## UR	 Uri,	 Altdorf	-	Deutsch
+## SZ	 Schwyz,	 Schwyz	-	Deutsch
+## OW	 Obwalden,	 Sarnen	-	Deutsch
+## NW	 Nidwalden,	 Stans	-	Deutsch
+## GL	 Glarus,	 Glarus	-	Deutsch
+## ZG	 Zug,	 Zug	-	Deutsch
+## FR	 Fribourg / Freiburg,	Freiburg	-	Französisch, Deutsch
+## SO	 Solothurn, Solothurn	-	Deutsch
+## BS	 Basel-Stadt,	 Basel	-	Deutsch
+## BL	 Basel-Landschaft, Liestal	-	Deutsch
+## SH	 Schaffhausen,	 Schaffhausen	-	Deutsch
+## AR	 Appenzell Ausserrhoden,	 Herisau -	Deutsch
+## AI	 Appenzell Innerrhoden,	 Appenzell - Deutsch
+## SG	 St. Gallen,	St. Gallen	-	Deutsch
+## GR	 Graubünden,	 Chur	 - Deutsch, Rätoromanisch, Italienisch
+## AG	 Aargau,	 Aarau	-	Deutsch
+## TG	 Thurgau,	 Frauenfeld	-	Deutsch
+## TI	 Ticino / Tessin,	 Bellinzona	-	Italienisch
+## VD	 Vaud / Waadt,	 Lausanne	-	Französisch
+## VS	 Valais / Wallis, Sitten	-	Französisch, Deutsch
+## NE	 Neuchâtel / Neuenburg,	 Neuenburg -		Französisch
+## GE	 Genève / Genf, Genf	 - Französisch
+## JU	   Jura,	 Delsberg -  Französisch
+
+
+
 == Zürich ==
 Grasshoppers Zürich, 1886,  @ Stadion Letzigrund,      Zürich
-  | Grasshoppers | Grasshopper Club Zürich
+  | Grasshoppers 
+  | Grasshopper Club Zürich | Grasshopper Zürich
+
 FC Zürich, 1896, @ Stadion Letzigrund,     Zürich
   | Zürich
   | Fussball Club Zürich
+
 FC Red Star Zürich
 
 FC Winterthur, 1896,  @ Schützenwiese,      Winterthur
@@ -25,7 +59,7 @@ FC Black Stars Basel
 == Bern ==
 BSC Young Boys, 1898,  @  Wankdorf,          Bern
   | Young Boys | Young Boys Bern 
-  | Berner Sport Club Young Boys | BSC YB
+  | Berner Sport-Club Young Boys | BSC YB
   | YB Bern
 
 FC Breitenrain Bern
@@ -79,10 +113,11 @@ FC Baden,  Baden
   | Fussballclub Baden 1897
 
 
-== Valais ==
+== Valais ==      ##  Wallis [de]
 FC Sion, 1909, @ Tourbillon,           Sion
   | Sion
   | Football Club Sion
+
 
 == Neuchâtel ==
 Xamax Neuchâtel,              Neuchâtel
@@ -95,7 +130,15 @@ Xamax Neuchâtel,              Neuchâtel
 FC La Chaux-de-Fonds, 1894,  La Chaux-de-Fonds    # champs (1): 1964/65
 
 
-== Lausanne ==
+
+== Genève ==
+Servette FC, 1890,  @ Stade de Genève,            Genève
+  | Servette | Servette Genève | Servette FC Genève
+  | Servette Football Club
+  | Servette Genf [de] | FC Servette Genf [de] | Genf [de]
+
+
+== Vaud ==       ## Waadt [de]
 FC Lausanne,  1896,  @ Stade de la Tuilière,         Lausanne
   | Lausanne | FC Lausanne-Sport
   | Lausanne Sport
@@ -112,15 +155,22 @@ Stade Lausanne-Ouchy,   2001,   @ Olympique de la Pontaise,   Lausanne (Ouchy)
 
 
 FC Le Mont, 1942,             Le Mont-sur-Lausanne
-  | FC Le Mont-sur-Lausanne,
+  | FC Le Mont-sur-Lausanne
 
-== Genève ==
-Servette FC, 1890,  @ Stade de Genève,            Genève
-  | Servette | Servette Genève | Servette FC Genève
-  | Servette Genf [de] | FC Servette Genf [de]
-  | Servette Football Club
 
-== Ticino ==
+Yverdon-Sport FC, 1948, @ Stadion Municipal,  Yverdon-les-Bains
+  | Yverdon-Sport
+  | Yverdon Sport Football Club
+  | Yverdon
+
+FC Stade Nyonnais,  Nyon
+  | Stade Nyonnais
+
+
+
+
+
+== Ticino ==    ## Tessin [de]
 FC Lugano, 1908,    @  Cornaredo,          Lugano
   | Lugano
   | Football Club Lugano
@@ -133,23 +183,17 @@ AC Bellinzona, 1904,    Bellinzona
 
 
 
+== Jura ==
+SR Delémont,  1909,   Delémont 
+  | Sport-Réunis de Delémont
+
+
+
 
 == ?? ==
 
 #########
 ## todo - add clubs to kantons 
-
-Yverdon-Sport FC, 1948, @ Stadion Municipal,  Yverdon-les-Bains
-  | Yverdon-Sport
-  | Yverdon Sport Football Club
-
-FC Stade Nyonnais,  Nyon
-  | Stade Nyonnais
-
-
-SR Delémont,  1909,   Delémont 
-  | Sport-Réunis de Delémont
-
 
 AC Malcantone
 AC Taverne
