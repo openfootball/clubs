@@ -353,7 +353,7 @@ FC Stahl Linz,       Linz
 
 Union Edelweiß Linz,   Linz
   | Edelweiß Linz     ## use Edelweiss why? why not?
-  | SPG Edelweiss Linz/Neue Heimat
+  | SPG Edelweiss Linz/$$Neue Heimat$$
 
 
 ASKÖ Donau Linz, Linz
@@ -380,12 +380,17 @@ FC Wels,         Wels
 WSC Hertha Wels, Wels
   | WSC Hertha
  
+ 
+FC Hertha Wels,  Wels
+  | SPG Hertha Wels
+  | SPG $$HOGO$$ Wels   ## HOGO is sponsor name
 ## todo/check SPG Wels  - merger of FC Wels & WSC Herta Wels in 202x??
-SPG Hertha Wels, Wels
-  | SPG HOGO Wels   ## HOGO is sponsor name
-  | FC Hertha Wels    ## keep - in use?
-
-
+##
+## Zur Saison 2023/24 ging Hertha Wels eine Spielgemeinschaft 
+## mit dem Stadtrivalen FC Wels ein und firmierte 
+## in jener Saison als SPG Wels. 
+## Zur Saison 2024/25 fusionierten die beiden Teams, 
+## die Hertha trägt seither den Namen FC Hertha Wels.
 
 
 Union Vöcklamarkt, Vöcklamarkt

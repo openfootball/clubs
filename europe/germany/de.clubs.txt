@@ -117,8 +117,10 @@ SpVgg Hankofen-Hailing
   | Hankofen
 
 FC Eintracht Bamberg, Bamberg
+  | Eintracht Bamberg
   | Bamberg
-
+## formed on 1 April 2006 out of the union of
+##  1. FC Bamberg and TSV Eintracht Bamberg
 
 
 
