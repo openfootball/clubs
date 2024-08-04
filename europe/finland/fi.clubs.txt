@@ -26,6 +26,7 @@ Finnairin Palloilijat Helsinki (1965-1998), Helsinki
 FC Jokerit (1999-2004),   Helsinki
 
 IF Gnistan,   Helsinki (Oulunkylä)
+  | Gnistan
 
 KäPa, Helsinki (Käpylä)
   | Käpylän Pallo
@@ -132,6 +133,7 @@ PK-35 Vantaa, Vantaa
 Palloseura Kemi Kings,  Kemi
   | PS Kemi | Kemi City FC | Kemi City Football Club
 Ekenäs IF,  Raseborg
+  | EIF
 PEPO Lappeenranta,  Lappeenranta
   | PEPO
 JIPPO Joensuu, Joensuu
@@ -142,6 +144,7 @@ FC Jazz, Pori      # champs (1): 1997/98
   | FC Jazz Pori
 
 AC Oulu, 2002, Oulu
+  | Oulu
 # AC Oulu was founded in 2002 as a joint initiative of the
 #  OLS, OPS, OTP and Tervarit clubs.
 

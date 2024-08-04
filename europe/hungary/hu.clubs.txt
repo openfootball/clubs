@@ -110,6 +110,7 @@ Szombathelyi Haladás,    Szombathely
 Zalaegerszegi TE, 1920, @ ZTE Aréna
   | Zalaegerszeg
   | Zalaegerszegi Torna Egylet Football Club
+  | ZTE FC | ZTE
 
 
 Diósgyőri VTK,  1910, @ DVTK, Miskolc (Diósgyőr)
@@ -130,6 +131,7 @@ Mezőkövesd Zsóry SE, 1975, @ Mezőkövesdi Városi Stadion
 Puskás Akadémia FC, 2007 
   | Puskás | Puskás FC
   | Puskás Akadémi
+  | Puskás Akadémia
   | Puskás Ferenc Labdarugó Akadémia Felcsút
 
 
@@ -187,5 +189,7 @@ Kisvárda FC,    2013, @ Várkerti Új Stadion, Kisvárda
 
 
 Nyíregyháza Spartacus,   Nyíregyháza
-  | Nyíregyháza FC 
+  | Nyíregyháza | Nyíregyháza FC 
   | Nyíregyháza Spartacus Football Club
+  | Nyíregyháza Spartacus FC
+  

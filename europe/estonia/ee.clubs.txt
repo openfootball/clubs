@@ -21,9 +21,11 @@ FCI Tallinn
 JK Tallinna Kalev
   | Tallinna Kalev
   | Talinna Kalev
+  | Kalev
 
 
 FC Nõmme United,   Tallinn (Nõmme)
+  | Nõmme United
   | Jalgpalliklubi FC Nõmme United
   
 
@@ -50,6 +52,7 @@ FC Santos Tartu
   | Santos Tartu
 JK Tammeka Tartu
   | Tammeka | Tammeka Tartu
+  | Tartu JK Tammeka
 
 Paide Linnameeskond,   Paide
   | Paide
@@ -69,4 +72,5 @@ Maardu Esteve
 
 Pärnu JK Vaprus,  Pärnu
   | Pärnu Vaprus |  Vaprus
+  | JK Vaprus Pärnu
 

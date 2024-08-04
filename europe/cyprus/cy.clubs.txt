@@ -1,9 +1,23 @@
 ================================
 =  Cyprus
 
-AC Omonia Nicosia,      Nicosia
+AC Omonia Nicosia,  1948,     Nicosia
   | Omonia | Omonia Nicosia | AC Omonia
   | Omonia Nikosia [de]
+  | Athletic Club Omonia Nicosia
+  | AC Omonoia | Omonoia   
+# note - Omonia (Ομόνοια) is the Greek language word
+#         for harmony, unity, or concord
+
+
+PΑC Omonia 29M, 2018, Nicosia
+  | PAC Omonia
+  | ALS Omonia 
+  | ALS Omonia 29is Maiou  
+  | Omonia 29M
+  | People's Athletic Club Omonia 29 May
+
+
 APOEL Nicosia FC,       Nicosia
   | APOEL Nicosia | APOEL | APOEL FC
   | APOEL Nikosia [de]
@@ -27,7 +41,8 @@ Karmiotissa Pano Polemidia,  Limassol (Pano Polemidia)
   | Karmiotissa Pol. | Karmiotissa Polemidion
   | Karmiotissa FC
   | Karmiotissa Pano Polemidion
-
+  | FC Karmiotissa
+  | Karmiotissa
 
 
 Anorthosis Famagusta FC, Larnaca         ## note: originally based in Famagusta, now based in Larnaca
@@ -36,6 +51,11 @@ Anorthosis Famagusta FC, Larnaca         ## note: originally based in Famagusta,
 AEK Larnaca FC,  Larnaca
   | AEK Larnaca
   | AÉK Lárnaka 
+
+
+## note - Not to be confused with AC Omonia
+Omonia Aradippou     # Aradippou - a settlement on the outskirts of the city of Larnaca
+
 
 
 Pezoporikos Larnaca (1927-1994), Larnaca   # champs (1): 1988/89

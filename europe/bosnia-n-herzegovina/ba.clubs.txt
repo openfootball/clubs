@@ -36,7 +36,14 @@ FK Sloboda Tuzla
 FK Radnik Bijeljina
   | Radnik | Radnik Bijelji | Radnik Bijeljina
 
-Sloga Simin Han
+FK Tuzla City, 1955   # based in Simin Han, Tuzla
+  | Tuzla City
+  | Fudbalski klub Tuzla City
+  | Sloga Simin Han
+  | Fudbalski klub Sloga Simin Han
+##  founded as and formerly known as  FK Sloga Simin Han
+
+
 NK Čelik Zenica
   | Čelik
 FK Mladost Doboj Kakanj
@@ -57,3 +64,15 @@ HNK Orašje, 1996,   Orašje
   | NK Orašje
 
 NK Žepče (1919-2010),  Žepče
+
+NK GOŠK Gabela
+  | GOŠK
+
+FK Igman Konjic
+  | Igman
+
+NK Posušje
+  | Posušje
+
+FK Sloga Doboj
+  | Sloga

@@ -11,8 +11,13 @@ FC Locomotive Tbilisi,   Tbilisi
   | FC Lokomotive Tbilisi
   | Lokomotiv Tbilisi
 
+FC Iberia 1999 Tbilisi, Tbilisi
+  | Iberia
+  | FC Iberia 1999
+
 FC Ameri Tbilisi (2002-2009), Tbilisi
   | Ameri
+
 
 
 FC Zestafoni, 2014,  Zestafoni
@@ -32,6 +37,8 @@ FC Dila Gori
 FC WIT Georgia
   | WIT Georgia
 FC Gagra
+  | Gagra
+
 FC Torpedo Kutaisi
   | Torpedo Kutaisi
 
@@ -54,5 +61,13 @@ FC Saburtalo
 
 FC Kolkheti Poti, 1913,  Poti
   | FC Kolkheti-1913 Poti
+  | Kolkheti
+
+FC Telavi
+  | Telavi
+
+FC Samgurali, 1945,  Tskaltubo
+  | Samgurali
+  | FC Samgurali Tsqaltubo
 
 

@@ -3,14 +3,21 @@
 
 
 GNK Dinamo Zagreb,  1911, @ Maksimir, Zagreb
-  | Dinamo Zagreb | NK Dinamo Zagreb
+  | GNK Dinamo | Dinamo Zagreb 
+  | NK Dinamo Zagreb
   | Građanski nogometni klub Dinamo Zagreb
+
+
+NK Zagreb,  1908,   Zagreb     # champs (1): 2002/03  
+  | Nogometni klub Zagreb
+  | ZAG
+# founded as  HŠK Zagreb,  Hrvatski športski klub Zagreb
+
 
 NK Lokomotiva Zagreb, 1914, @ Kranjčevićeva,    Zagreb
   | Lokomotiva | Lok Zagreb | Lokomotiva Zagreb
   | Nogometni klub Lokomotiva Zagreb
 
-NK Zagreb, Zagreb     # champs (1): 2002/03
 
 NK Trešnjevka Zagreb, 1926,  Zagreb
   | NK Trešnjevka
@@ -37,7 +44,7 @@ RNK Split, Split
 NK Slaven Belupo, 1907, @ Gradski Stadion,    Koprivnica
   | Slaven | Slaven Belupo
   | Slaven Koprivnica | NK Slaven Koprivnica
-  | Nogometni Klub Slaven
+  | NK Slaven | Nogometni Klub Slaven
   | Nogometni klub Slaven Belupo
 
 NK Varaždin, 2012, @ Varteks
@@ -74,6 +81,8 @@ HNK Šibenik, 1932, @ Šubićevac
 
 HNK Gorica, 2009, @ Gradski stadion Velika Gorica
   | Hrvatski nogometni klub Gorica
+  | Gorica
+
 NK Istra 1961,  @ Aldo Drosina    ## formed 1948 (reformed 1961) ?? 
   | Istra 1961
   | Nogometni klub Istra 1961

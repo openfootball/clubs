@@ -29,6 +29,7 @@ SK Slavia Praha, 1892,  @ Sinobo Stadium, Praha
   | Slavia Prag [de] | SK Slavia Prag [de]
 
 Bohemians Praha 1905, 1905,  @ Ďolíček, Praha
+  | Bohemians Praha
   | Bohemians 1905
   | Bohem. Prag 1905 [de]
   | FC Bohemians Prag 1905
@@ -68,7 +69,7 @@ FC Baník Ostrava, 1922, @ Městský stadion v Ostravě-Vítkovicích,  Ostrava 
 
 
 SK Sigma Olomouc, 1919,  @ Andrův,  Olomouc     ## Olomouc
-  | Sigma | Sigma Olomouc
+  | Olomouc | Sigma | Sigma Olomouc
   | Sportovní klub Sigma Olomouc
   | SK Sigma Olmütz [de]
 ii) Sigma Olomouc B

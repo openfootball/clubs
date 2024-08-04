@@ -17,15 +17,25 @@ PFC Levski Sofia, 1914,     Sofia
 
 PFC Slavia Sofia, 1913,     Sofia
   | Slavia Sofia | Professional Football Club Slavia Sofia
-PFC Lokomotiv Sofia, 1929,  Sofia
+
+PFC Lokomotiv Sofia, 1929, @ Stadion Lokomotiv, Sofia
   | Lokomotiv Sofia
   | Lokomotive Sofia [de]
- 
+  | FC Lokomotiv Sofia | Football Club Lokomotiv 1929 Sofia
+  | Lokomotiv 1929
+
 Tsarsko Selo Sofia, 2015,   Sofia
   | FC Tsarsko Selo Sofia
 
 PFC Akademik Sofia, 1947,  Sofia
   | Akademik | Akademik Sofia
+
+
+FC Septemvri Sofia, 1944, Sofia 
+  | Septemvri
+  | PFC Septemvri Sofia
+  | Professional Football Club Septemvri
+
 
 Tsarsko Selo
   | FC Tsarsko Selo Sofia 2015
@@ -50,6 +60,7 @@ PFC Litex Lovech, 1921,        Lovech
 
 
 PFC Cherno More Varna, 1913,   Varna
+  | PFC Cherno More
   | Cherno More
   | Cherno More Varna
 
@@ -97,9 +108,13 @@ SFC Etar Veliko Tarnovo,  Veliko Tarnovo
   | Et. Veliko Tarnovo | Etar Veliko Tarnovo
   | Etar Tarnovo   # champs (1): 1991/92
 
-Arda
-  | FC Arda Kardzhali
+
+FC Arda Kardzhali, 1924, @ Arena Arda, Kardzhali
+  | Arda
+  | PFC Arda Kardzhali
+  | Professional Football Club Arda 1924 Kardzhali
   | FK Arda Kurdzhali
+
 
 FC Etar Veliko Tarnovo
   | Etar
@@ -109,7 +124,7 @@ Vitosha Bistritsa,   Bistritsa    # in Sofia City Province
 
 
 FC Hebar Pazardzhik,    Pazardzhik
-  | FC Hebar
+  | Hebar | FC Hebar
   | Hebar Pazardzhik
   | Football Club Hebar Pazardzhik
   | FK Hebar Pazardzhi
@@ -125,9 +140,9 @@ FC Sliven (-2000), Sliven
 
 
 
-FC Krumovgrad,   Krumovgrad
+FC Krumovgrad,  1929,  Krumovgrad
   | Football Club Krumovgrad 1925
-
+  | FK Krumovgrad
 
 
 PFC Marek Dupnitsa,   1919, Dupnitsa

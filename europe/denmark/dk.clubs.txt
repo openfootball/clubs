@@ -121,6 +121,7 @@ Esbjerg fB, 1924,    Esbjerg
 
 Vejle, 1891,  @ Vejle Stadion,  Vejle
   | Vejle BK | Vejle Boldklub
+  | VB
 
 
 == Sjælland ==

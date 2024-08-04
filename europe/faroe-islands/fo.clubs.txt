@@ -18,8 +18,12 @@ GÍ Gøta (1926-2008),   Gøta
 # In January 2008 merged with Leirvík ÍF, forming the new club Víkingur.
 
 
-ÍF Fuglafjørdur
+ÍF Fuglafjørdur, Fuglafjørður
   | ÍF
+  | ÍF Fuglafjardar
+  | Ítróttarfelag Fuglafjarðar
+
+
 KÍ Klaksvík
   | KÍ
 
@@ -47,8 +51,18 @@ VB Vágur (1905-2005),  Vágur
 # En el año 2005 el equipo se fusionó otra vez con 
 # el Sumba para crear el VB/Sumba
 
+07 Vestur, 2007
+## was founded 18 December 1993 as FS Vágar. 
+## It was a merger of Vágar island teams MB Miðvágur and
+## SÍF Sandavágu
+## In fall 2007 talks about a merger
+## between FS Vágar 2004 (FSV04) and SÍ Sørvágur, 
+## one of the members of the first incarnation of the club, 
+## started and were successfully concluded on 6 November 2007.
+##  The club was renamed 07 Vestur, 
 
 B71 Sandoy,     Sandur
   | B71 | Bóltfelagið 1971
   | Sandoyar Ítróttarfelag B71
   
+
