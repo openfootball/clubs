@@ -2,20 +2,34 @@
 =  Albania
 
 
-KF Tirana,           Tirana
+KF Tirana,  1920,       Tirana
   | Tirana | Klubi i Futbollit Tirana
   | KF Tiranë
   | SK Tirana
   | 17 Nëntori Tirana
+## competed under the name of SK Tirana between 1927 and 1947,
+##  when the communist regime forcibly renamed the club 17 Nëntori Tirana, 
+## Puna Tirana and KS 17 Nëntori. 
+## In 1991 KF Tirana retook its pre-1947 name and
+##  was divided into two branches, the multi disciplinary SK Tirana 
+## and the football branch of KF Tirana
+
+FC Dinamo City,  1950,    Tirana
+  | FK Dinamo Tirana | Dinamo Tirana    # champs (6): 2010/11 2008/09 2002/03 1990/91 1986/87 1980/81
+  | Dinamo City
+  | Dinamo
+  | Football Club Dinamo Tirana
+## On 25 August 2023, it was officially announced 
+##  that the club would rebrand to Dinamo City, 
+## ahead of the 2023–24 Kategoria Superiore season.
 
 FK Partizani Tirana, Tirana
   | Partizani | FK Partizani
   | Partizani Tirana
-FK Dinamo Tirana,    Tirana
-  | Dinamo Tirana    # champs (6): 2010/11 2008/09 2002/03 1990/91 1986/87 1980/81
 
 
-KS Skënderbeu
+
+KS Skënderbeu,   Korçë
   | Skënderbeu | Skënderbeu Korçë
   | KF Skënderbeu | KF Skënderbeu Korçë
 KS Flamurtari, 1923,   Vlorë
@@ -30,21 +44,24 @@ KF Vllaznia,  1919,   Shkodër
 
 KS Besa
   | Besa Kavajë
-KS Teuta
+KS Teuta,   Durrës
   | Teuta | Teuta Durrës
   | KF Teuta | KF Teuta Durrës
 
-KF Laçi
+KF Laçi,    Laç 
   | Laç | Laçi
-FK Kukësi
+
+FK Kukësi,  Kukës
   | Kukës | Kukësi
 
-KS Luftëtari
+
+KS Luftëtari,   Gjirokastër
   | Luftëtari
   | Luftëtari Gjirokastër | Luftëtari Gjirokastër FC
 
-FC Kamza
+FC Kamza,  Kamëz
   | Kamza
+
 KS Kastrioti
   | Kastrioti
 
@@ -56,6 +73,13 @@ FK Bylis,  1972,  Ballsh
 KF Elbasani, 1923,   Elbasan
   | Klubi i Futbollit Elbasani
   | KS Elbasani | Klubi Sportiv Elbasani
+
+# Not to be confused with KF Elbasani
+AF Elbasani,  Elbasan
+  | Akademia e Futbollit Elbasani
+
+
+
 
 KF Tomori, 1923,  Berat
   | FK Tomori

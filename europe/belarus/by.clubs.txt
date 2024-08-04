@@ -36,8 +36,13 @@ FC Shakhtyor Soligorsk
 FC Naftan Novopolotsk
   | Naftan
 
-FC Torpedo Zhodino
+FC Torpedo Zhodino, @ Torpedo Stadium,  Zhodino
   | Torpedo Zhodino | FC Torpedo-Belaz Zhodino
+  | FC Torpedo
+## names
+## 1989: BelAZ Zhodino
+## 1993: Torpedo Zhodino (Tarpeda Zhodzina)
+## 2011: Torpedo-BelAZ Zhodino
 
 
 FC Dinamo Brest
@@ -76,3 +81,13 @@ FC Torpedo-SKA Minsk
 FC Belshina Bobruisk, 1976,   Bobruisk
   | Belshina Bobruisk
   | FK Belshyna Babruisk
+
+FC Smorgon, 1987,   @ Youth Stadium, Smorgon        #  Smorgon or Smarhon 
+  | Smorgon
+  | FK Smarhon | FK Smorgon
+#  1993: renamed to FC Smorgon / FK Smarhon
+
+FC Arsenal Dzerzhinsk,  2019,  @ City Stadium, Dzerzhinsk
+  | Arsenal Dzerzhinsk
+
+

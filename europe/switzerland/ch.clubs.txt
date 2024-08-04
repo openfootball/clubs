@@ -162,6 +162,8 @@ Yverdon-Sport FC, 1948, @ Stadion Municipal,  Yverdon-les-Bains
   | Yverdon-Sport
   | Yverdon Sport Football Club
   | Yverdon
+  | FC Yverdon-Sports
+
 
 FC Stade Nyonnais,  Nyon
   | Stade Nyonnais

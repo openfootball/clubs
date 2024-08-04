@@ -562,7 +562,9 @@ Austria Klagenfurt,   @ Wörthersee Stadion, Klagenfurt
   | A. Klagenfurt | Aus. Klagenfurt
   | SK Austria Klagenfurt | SG Austria Klagenfurt
   | Sportklub Austria Klagenfurt
+  | Klagenfurt   ## top club from Klagenfurt - use !! or such for piority if multiple?
   | FC Kärnten     ## todo: keep as separate club - why? why not?
+
 
 Austria Kärnten (2007-2010), Klagenfurt
   | SK Austria Kärnten

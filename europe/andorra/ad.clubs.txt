@@ -1,40 +1,66 @@
 ==============================
 =  Andorra
 
-UE Sant Julià
-  | Sant Julià
-FC Santa Coloma
-UE Santa Coloma
-FC Lusitans
+
+FC Lusitans,  Andorra la Vella
   | Lusitans
   | Lusitanos | FC Lusitanos   # champs (2): 2014..2012 (2)
+
+Penya Encarnada, Andorra la Vella
+  | Penya Encarnada d'Andorra
+
+FC Rànger's, Andorra la Vella
+  | Rànger's FC
+  | Rànger's       # champs (1): 2007/08
+
+CF Esperança d'Andorra, Andorra la Vella
+  | Esperança
+
+
+
+UE Sant Julià,  Sant Julià 
+  | Sant Julià
+
+FC Santa Coloma, Santa Coloma
+UE Santa Coloma, Santa Coloma
 
 
 UE Engordany
   | Engordany
 
-Atlètic Club d'Escaldes
+
+Atlètic Club d'Escaldes,   Escaldes-Engordany
   | Atlètic Escaldes
-CE Carroi
-FC Ordino
-  | Ordino
-Inter Club d'Escaldes
+
+Inter Club d'Escaldes,   Escaldes-Engordany
   | Inter Escaldes
 
-FC Rànger's, Andorra la Vella
-  | Ranger's     # champs (1): 2007/08
+CE Carroi,   Escaldes-Engordany 
+  | Carroi | Club Esportiu Carroi  
+
+
+FC Ordino, Ordino 
+  | Ordino
 
 FC Encamp, 1950,   Encamp
 
+FS La Massana
 
-Constellació Esportiva (1998-2000),   Andorra La Vella
 
-CE Principat (1989-2015),   Andorra La Vella
+FC Pas de la Casa,  El Pas de la Casa   # in Encamp parish 
+  | Pas de la Casa
+
+
+
+Constellació Esportiva (1998-2000),   Andorra la Vella
+
+CE Principat (1989-2015),   Andorra la Vella
   | Club Esportiu Principat
 
 
 
-FC Andorra,  1942, @ Estadi Nacional,    Andorra La Vella    # plays in la liga 2 in spain
+# plays in la liga 2 in spain
+FC Andorra,  1942, @ Estadi Nacional,    Andorra la Vella
   | Andorra
   | Futbol Club Andorra
   | Andorra FC
