@@ -189,6 +189,8 @@ Umeå FC, 1987, Umeå
 
 IFK Värnamo,  1891, @ Finnvedsvallen, Värnamo
   | Idrottsföreningen Kamraterna Värnamo
+  | Värnamo
+
 
 Skövde AIK,  1919, Skövde
   | Skövde Allmänna Idrottsklubb
@@ -244,6 +246,4 @@ Eskilsminne IF,  Helsingborg
   | Eskilsminne Idrottsförening
   | EIF
 
-IFK Värnamo, Värnamo 
-  | Värnamo
 

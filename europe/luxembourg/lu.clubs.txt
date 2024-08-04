@@ -3,6 +3,7 @@
 
 Racing FC Union Lëtzebuerg, Lëtzebuerg
   | Racing Union
+  | Racing Union Lëtzebuerg
   | Racing Union Luxembourg
   | Racing FC Union Luxembourg
   | RFCU Luxemburg
@@ -42,6 +43,8 @@ RM Hamm Benfica,   Lëtzebuerg (Hamm)
 F91 Dudelange,   Dudelange
   | Dudelange
   | F91 Diddeleng
+  | Diddeleng
+
 
 Stade Dudelange (1913-1991),  Dudelange    # champs (2): 1965/66 1957/58
   |  CS Stade Dudelange
@@ -109,12 +112,19 @@ US Hostert,      	Hostert
   | Football Club Union Sportive Hostert
 
 FC Mondercange, 1933,  Mondercange
+  | Mondercange
 
 US Rumelange,  1908, Rumelange
   | Union Sportive Rumelange
 
 FC Wiltz 71,   Wiltz
+  | Wiltz
 
 FC Swift Hesperange,  Hesperange
   | Swift Hesperange
   | Football Club Swift Hesper
+  | FC Swift Hesper | Swift Hesper
+
+SC Bettembourg,  1927, Bettemburg
+  |	Sporting Club Bettemburg
+

@@ -56,3 +56,12 @@ CS Petrocub Hîncești, 1990, Sărata-Galbenă
   | CS Petrocub
   | Petrocub | Petrocub-Hincesti
 
+CF Spartanii Sportul Selemet
+  | Spartanii
+FC Floresti
+  | Floresti
+FC Dacia Buiucani
+  | Dacia Buiucani
+  
+CSF Bălți
+

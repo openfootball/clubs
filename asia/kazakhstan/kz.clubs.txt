@@ -56,3 +56,12 @@ FC Kaysar Kyzylorda
   | Kaysar
 FC Taraz
 
+FK Zhenys
+
+FC Kyzylzhar Petropavlovsk  
+  | Kyzylzhar
+
+FK Yelimay Semey
+FK Turan Turkistan
+
+

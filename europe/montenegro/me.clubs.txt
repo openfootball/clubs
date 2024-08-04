@@ -36,12 +36,19 @@ OFK Grbalj
   | Grbalj
 
 FK Jezero, 1934,  Plav
-  | FK Jezero Plav
+  | Jezero | FK Jezero Plav
   | Fudbalski klub Jezero
 
 FK Dečić
-  | FK Dečić Tuzi
+  | Dečić | FK Dečić Tuzi
 
 FK Mornar,  1923,  Bar
-  | Mornar Bar | FK Mornar Bar
+  | Mornar | Mornar Bar | FK Mornar Bar
+
+
+FK Jedinstvo Bijelo Polje
+  | Jedinstvo
+FK Arsenal Tivat
+  | Arsenal Tivat
+FK Otrant
 

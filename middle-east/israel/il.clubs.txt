@@ -39,7 +39,7 @@ Hapoel Jerusalem,  Jerusalem
   | Hapoel Katamon Jerusalem FC
   | Hap. Kat. Jerusalem | Hapoel Katamon Jerusalem
   | Hapoel K. Jerusale
-
+  | Hapoel Jerusalem FC
 
 Hapoel Beer-Sheva FC,  1949,   Be'er Sheva
   | H. Beer-Sheva | Hap. Beer-Sheva
@@ -68,7 +68,7 @@ Maccabi Petah Tikva FC, Petah Tikva
   | Macc. Petach Tikva | Mac. Petach Tikva
   | Maccabi Petach-Tikva FC   
   | Maccabi Petach-Tikva
-  
+  | M. Petah Tikva  
 
 
 Hapoel Petah Tikva FC,   Petah Tikva
@@ -146,6 +146,7 @@ Ihud Bnei Shefa-'Amr, Shefa-'Amr
   Ihud Shefa-AMR
 
 Ironi Tiberias,   Tiberias
+  | Ironi Tiberias FC
 
 Maccabi Ironi Kiryat Ata,  Kiryat Ata
 

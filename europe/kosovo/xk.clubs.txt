@@ -16,11 +16,27 @@ Flamurtari Prishtina,  Prishtina
 KF Trepça'89,   Mitrovica      ## note:  Not to be confused with FK Trepča or KF Trepça (in Serbia)!!!
   | KF Trepça | Trepça | Trepça 89
 
-Ballkani
+FC Ballkani,  1947,  Suva Reka  # or Suharekë or Therandë
+  | Ballkani
+  | Klubi Futbollistik Ballkani
+  | Football Club Ballkani 
+
+FC Suhareka, 2023,  Suva Reka  # or Suharekë or Therandë  
+  | Suhareka
+  | Football Club Suhareka
+  | Klubi Futbollistik Suhareka
+
+
 KF Feronikeli
+  | KF Feronikeli 74
   | Feronikeli
+
 KF Gjilani
+  | Klubi Futbollistik Gjilani
+  | SC Gjilani [en] 
+  | Sport Club Gjilani [en]
   | Gjilani
+
 KF Drenica
   | Drenica
 KF Llapi
@@ -33,3 +49,5 @@ KF Malisheva, 2016,  Malisheva
   | Malisheva
   | Klubi i Futbollit Malisheva
   | FC Malisheva
+
+

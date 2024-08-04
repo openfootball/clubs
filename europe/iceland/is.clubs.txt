@@ -95,4 +95,6 @@ UMF Njarðvík, 1944, Njarðvík
 
 ÍF Vestri
   | Íþróttafélagið Vestri
+  | Vestri
+
 
