@@ -105,6 +105,8 @@ Bruk-Bet Termalica Nieciecza, 1922, @ Stadion Sportowy Bruk-Bet Termalica, Nieci
 Widzew Łódź,  Łódź
   | RTS Widzew Łódź
   | RTS Widzew Łódź Spółka Akcyjna
+  | Widzew
+
 
 ŁKS Łódź,     Łódź
   | ŁKS | Łódzki KS
@@ -162,6 +164,7 @@ Amica Wrońki (1992-2007),  Wrońki
 
 GKS Katowice, 1964,  Katowice
  | Górniczy Klub Sportowy Katowice   # "Miners Sporting Club"
+ | Katowice
 
 
 Zagłębie Wałbrzych, 1945, Walbrzych
@@ -174,12 +177,14 @@ Odra Wodzisław,  1922,    Wodzisław Śląski
 
 
 Puszcza Niepołomice,   Niepołomice
-  | Pusz. Niepolomice
+  | Puszcza | Pusz. Niepolomice
   | Miejski Klub Sportowy Puszcza Niepołomice
 
 
 Radomiak Radom,    Radom
-  | RKS Radomiak
+  | Radomiak | RKS Radomiak
   | Radomski Klub Sportowy Radomiak Radom
 
-  
+Motor Lublin,  1950,   Lublin 
+  | Motor Lublin SA  
+  | Motor Lublin Spółka Akcyjna

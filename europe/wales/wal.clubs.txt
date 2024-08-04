@@ -46,17 +46,21 @@ Barry Town AFC
   | FC Barry Town
   | Barry Town    # champs (6): 2004...2001 (3) 2000...1997 (3)
   | Barry Town United | Barry Town United FC
+  | Barry Town United AFC
 
 Cardiff Metropolitan University FC
   | Cardiff Met | Cardiff M.U. | Cardiff Met Uni.
   | Cardiff Metropolitan
   | Cardiff Met University
+  | Cardiff Met FC
+
 Caernarfon Town FC
   | Caernarfon | Caernarfon Town
 Carmarthen Town AFC
   | Carmarthen
-Penybont FC
 
+Penybont FC
+  | Penybont
 
 # note: welsh clubs playing in english premiere league or championship etc. listed here
 # note: teams in english premier league & english league (championship, etc.) !!!!
@@ -99,6 +103,7 @@ Afan Lido FC, 1967,   Port Talbot
 
 Haverfordwest County AFC, 1899,  Haverfordwest
   | Haverfordwest County
+  | Haverfordwest
 
 Porthmadog FC,   Porthmadog
   | Porthmadog
@@ -110,3 +115,11 @@ Welshpool Town FC,  Welshpool
 
 Caersws FC,  Caersws
   |  Caersws
+
+Flint Town United FC,  Flint
+  | Flint Town United
+
+Briton Ferry Llansawel AFC,  Briton Ferry 
+  | Briton Ferry Llansawel
+
+  

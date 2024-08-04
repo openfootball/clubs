@@ -34,10 +34,17 @@ FC Fiorentino
   | Fiorentino
 SS Pennarossa
   | Pennarossa
-SS San Giovanni
+
+AS San Giovanni 
+  | Associazione Sportiva San Giovanni
+  | SS San Giovanni | Società Sportiva San Giovanni
   | San Giovanni
+
 Virtus FC
   | Virtus
-  | AC Virtus
+  | AC Virtus | Virtus AC
   | SS Virtus
   | Virtus Acquaviva
+
+San Marino Academy
+  

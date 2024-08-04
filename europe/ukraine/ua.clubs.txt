@@ -20,7 +20,13 @@ FC Obolon Kyiv,  Kyiv
   | Obolon
   | Obolon Kyiv
   | Futbolnyi Klub Obolon Kyiv
+  | Obolon-Brovar
+##  Between 2013 and 2020, the team was known as Obolon-Brovar Kyiv
 
+
+FK Livyi Bereh, Kyiv
+  | Livyi Bereh
+  | Football Club Livyi Bereh Kyiv
 
 
 FC Shakhtar Donetsk,  Donetsk
@@ -71,9 +77,12 @@ FC Lviv, 2006, Lviv
   | FK Lviv
   | Futbolnyy Klub Lviv
 
-FC Rukh Lviv,  Lviv
+FC Rukh Lviv,  2003, Lviv
   | Rukh Lviv
   | Futbolnyy Klub Rukh Lviv 
+  | Rukh Vynnyky
+## In 2003  founded as FC Rukh Vynnyky
+
 
 
 SC Tavriya Simferopol
@@ -142,13 +151,13 @@ FC Kryvbas Kryvyi Rih, 1959,  Kryvyi Rih
 
 
 NK Veres Rivne,  1957, Rivne
-  | Veres Rivne
+  | Veres | Veres Rivne
   | Narodnyy Klub Veres Rivne
-
+  
 
 
 LNZ Cherkasy,   Cherkasy  
-  | FC LNZ Cherkasy
+  | FC LNZ Cherkasy | LNZ Cherkasy FC
   | Futbolnyi Klub LNZ Cherkasy
   | LNZ
 
@@ -171,6 +180,16 @@ Inhulets Petrove,   Petrove
 FC Zirka Kropyvnytskyi,  1911,   Kropyvnytskyi   # in Kirovohrad Oblast
   | Zirka Kropyvnytskyi
   | FK Zirka Kirovohrad
+
+
+FC Hirnyk-Sport,  1989, Horishni Plavni 
+  | Hirnyk | Hirnyk-Sport
+  | FC Hirnyk-Sport Horishni Plavni
+  | Hirnyk-Sport Horishni Plavni
+
+
+
+
 
  FC Stal Kamianske (1926-2018),    Kamianske
   | Stal Kamianske

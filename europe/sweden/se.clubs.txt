@@ -162,7 +162,7 @@ Husqvarna FF,    Huskvarna
 Nyköping BIS,    Nyköping
 
 Västerås SK,  1904, @ Iver Arena,  Västerås
-  | Västerås Sportklubb
+  | Västerå | Västerås Sportklubb
   | Vasteraas SK      ## note -  å => aa 
 
 Degerfors IF,  1907, @ Stora Valla, Degerfors
@@ -244,7 +244,6 @@ Eskilsminne IF,  Helsingborg
   | Eskilsminne Idrottsförening
   | EIF
 
-
-
-
+IFK Värnamo, Värnamo 
+  | Värnamo
 

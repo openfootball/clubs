@@ -5,7 +5,7 @@ Vålerenga Fotball,   1913, @ Intility Arena,   Oslo
   | Vålerenga | Vålerenga IF
   | Vålerengen IF
 KFUM-Kameratene Oslo,  1939, @ KFUM Oslo,  Oslo
-  | KFUM Oslo
+  | KFUM | KFUM Oslo
 Skeid Fotball,  Oslo
   | Skeid | Skeid FK
   | Skeid Oslo    # champs (1): 1967/68
@@ -106,6 +106,7 @@ IL Hødd, 1919,  Ulsteinvik
 Hamarkameratene,  1918, @ Briskeby Arena,  Hamar
   | HamKam | Ham-Kam
   | Hamarkameratene Fotball
+  | HamKam Fotball
 
 
 Kongsvinger IL,  1892,    Kongsvinger

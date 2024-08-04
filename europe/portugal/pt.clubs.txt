@@ -72,8 +72,9 @@ CD Aves, 1930,  Aves
 ##  For the new club known as AVS Futebol SAD,
 ##  founded in 2023, see AVS Futebol SAD !!!
 
-AVS Futebol SAD, 2023,  Vila das Aves    
+AVS Futebol, 2023,  Vila das Aves
   | AVS
+  | AVS Futebol SAD
 
 
 GD Chaves, Chaves
@@ -150,7 +151,10 @@ CF Estrela da Amadora, Amadora
   | Est Amadora | Estrela Amadora
   | Estrela da Amadora
   | CF Estrela
+  | Club Football Estrela Amadora
   | Club Football Estrela da Amadora
+  | Club Foot Estrela
+
 
 SC Farense, 1910, Faro
   | Farense

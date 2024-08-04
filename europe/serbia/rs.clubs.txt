@@ -28,7 +28,10 @@ FK Čukarički, 1926,   Belgrade (Čukarica)
 FK Bežanija,  1921,   Belgrade (New Belgrade)
   | Fudbalski Klub Bežanija
 
-FK Novi Beograd, Belgrade
+FK Novi Beograd, 1953,  Belgrade
+  | FK IMT Novi Beograd
+  | FK IMT | IMT
+ 
 
 
 FK Obilić (1924-2015),  Belgrade
@@ -43,6 +46,12 @@ FK Vojvodina,  Novi Sad
 
 FK Proleter Novi Sad,  1951, Novi Sad
   | Proleter Novi Sad
+
+FK Tekstilac Odžaci, 1919,  Odžaci  # Vojvodina
+  | Tekstilac Odžaci
+
+FK Jedinstvo Ub, 1920, Ub
+  | Jedinstvo Ub
 
 
 FK Spartak Zlatibor Voda
@@ -71,6 +80,7 @@ FK Radnički 1923, 1923,   Kragujevac
   | FK Radnički Kragujevac
   | Radnički Kragujevac
   | Fudbalski Klub Radnički 1923
+  | Radnički 1923
 
 
 
@@ -80,6 +90,7 @@ FK Mladost Lučani
 Bačka Topola,  1913,   Bačka Topola
   | TSC Bačka Topola  | FK TSC Bačka Topola
   | FK TSC
+  | TSC
   | Topolski Sportski Club
 
 FK Napredak
@@ -99,7 +110,7 @@ FK Javor Ivanjica, 	Ivanjica
 
 FK Novi Pazar,  Novi Pazar
   | Fudbalski klub Novi Pazar 
-
+  | Novi Pazar
 
 FK Proleter
   | Proleter

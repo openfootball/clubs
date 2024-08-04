@@ -99,6 +99,10 @@ FC Anzhi Makhachkala, 1991,  Makhachkala      ## Dagestan (Republic of) >  North
   | Anzhi | Anzhi Makhachkala | FK Anzi Makhackala
   | Anji | FC Anji Makhachkala
 
+FK Dynamo Makhachkala,  1927, Makhachkala 
+  | Dynamo Makhachkala
+
+
 FC Sibir Novosibirsk,  Novosibirsk
   | Sibir | Sibir' | FC Sibir
   | Sibir Novosibirsk
@@ -157,6 +161,7 @@ Spartak Nalchik,   Nalchik
   | Nalchik
 
 Pari Nizhny Novgorod,  Nizhny Novgorod
+  | Pari NN
   | Futbolniy Klub Pari Nizhny Novgorod
   | FC Pari Nizhny Novgorod
   | Nizhnii Novgorod
@@ -260,7 +265,7 @@ FC Chayka, Peschanokopskoye
   | Chayka Peschanokopskoye | FC Chayka Peschanokopskoye
 
 FC Fakel Voronezh, Voronezh
-  | Fakel Voronezh
+  | Fakel | Fakel Voronezh
   | Futbolniy Klub Fakel Voronezh
   | Fakel Worenesch [de]
 
@@ -280,3 +285,7 @@ FC Tekstilshchik Kamyshin,    1958,    Kamyshin
 #  1997: FC Energiya Kamyshin
 #  1998: FC Rotor-Kamyshin Kamyshin
 #  1999–present: FC Tekstilshchik Kamyshin
+
+
+FC Akron Tolyatti,  Tolyatti
+

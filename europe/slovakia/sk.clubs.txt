@@ -55,6 +55,8 @@ FC Lokomotíva Košice, 1946,  Košice
 
 Dukla Banská Bystrica
   | Banská Bystrica
+  | MFK Dukla Banská Bystrica
+
 FC Nitra
   | Nitra
 MFK Petržalka
@@ -111,6 +113,15 @@ FK Pohronie,     Žiar nad Hronom
 
 FK Železiarne Podbrezová,  Podbrezová
   | ŽP Šport Podbrezová
+  | Podbrezová
 # 1936 – Renamed ŠKP Podbrezová
 # 2006 – Merged with Brezno and renamed FO ŽP Šport Podbrezová
 # 2017 – Renamed FK Železiarne Podbrezová
+
+MFK Skalica,  Skalica
+  | Skalica
+
+KFC Komárno,   1900,  Komárno
+  | Komárňanský futbalový club
+  | Komáromi Football Club
+  | KFC

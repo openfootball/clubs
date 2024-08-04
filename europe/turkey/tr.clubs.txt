@@ -83,7 +83,7 @@ Karagümrük,   Istanbul (Karagümrük)  # Karagümrük neighbourhood Fatih dist
 
 Eyüpspor,   Istanbul (Eyüp)
   | Eyüp Spor Kulübü
-
+  | Eyuspor
 
 
 
@@ -303,9 +303,12 @@ Manisa,  Manisa  ## ›  Manisa
   | Manisa Büyükşehir Belediyespor  # formerly
 
 
-Bodrum,  Bodrum   ## ›  Muğla  
+Bodrum,  1931,  Bodrum   ## ›  Muğla  
   | Bodrumspor
+  | Bodrum FK
   | Bodrum Futbol Kulübü 
+  | Bodrum Belediyesi Bodrumspor
+
 
 Şanlıurfaspor,  Şanlıurfa   ## ›  Şanlıurfa
 

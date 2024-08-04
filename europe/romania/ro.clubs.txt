@@ -61,7 +61,10 @@ Astra Giurgiu,   Giurgiu
 
 
 FC Petrolul Ploiești, Ploiești
-  | Petrolul | Petrolul Ploiesti | Petrolul Ploiești | FC Petrolul Ploieşti
+  | Petrolul | Petrolul Ploiesti | Petrolul Ploiești 
+  | FC Petrolul Ploieşti
+  | Petrolul 52
+  | Asociația Clubul Sportiv Petrolul 52
 
 
 Ceahlăul Piatra Neamț,  Piatra Neamț
@@ -136,6 +139,7 @@ Săgeata Năvodari, Năvodari
 Oțelul Galați,  Galați
   | Oţelul | Oțelul | ASC Oțelul Galați
   | FC Oțelul Galați
+  | SC Oţelul Galaţi
 
 Pandurii Târgu Jiu,  Târgu Jiu
   | Pandurii | Pandurii Tg Jiu | CS Pandurii Târgu Jiu
@@ -184,6 +188,7 @@ UTA Arad,   Arad
   | FC UTA Arad | Fotbal Club UTA Arad
   | FCM UTA Arad
   | UT Arad    # champs (2): 1971..1969 (2)
+  | UTA
 
 
 FC Voluntari,  Voluntari
@@ -232,6 +237,17 @@ CS Corvinul Hunedoara,     Hunedoara
   | Corvinul
   | Corv. Hunedoara
   | Clubul Sportiv Corvinul 1921 Hunedoara
+
+
+AS FC Buzău,  2016,  Buzău  
+  | FC Buzău 
+  | Buzău 
+  | Asociația Sportivă Fotbal Club Buzău
+# club was originally founded on 25 August 2016, 
+#  following the dissolution of FC Gloria Buzău.
+
+Unirea Slobozia, 1955,  Slobozia
+   | Asociația Fotbal Club Unirea 04 Slobozia
 
 
 Chimia Râmnicu Vâlcea (1946-2004),  Râmnicu Vâlcea

@@ -1,10 +1,15 @@
 ===================================
 =  Slovenia
 
-NK Olimpija Ljubljana
+NK Olimpija Ljubljana,   Ljubljana
   | Olimpija Ljubljana
-NK IB Ljubljana
+NK IB Ljubljana,   Ljubljana
   | IB Ljubljana
+
+NK Bravo, 2006,  Ljubljana
+  | Bravo
+  | Nogometni klub Bravo
+
 
 NK Maribor, Maribor
   | Maribor
@@ -38,10 +43,13 @@ NK Tabor Sezana
 NK Triglav
   | Triglav
 NK Radomlje
+  | Radomlje
 
 NK Nafta 1903,      Lendava
  | Nafta 1903 | NK Nafta Lendava 1903
  | NK Nafta Lendava | Nafta Lendava    ## note: ND Lendava 1903 is legally not considered to be the successor of NK Nafta Lendava - keep them separate here too? why? why not?
+ | NK Nafta | Nafta
+
 
 NK Krško, 1922,   Krško
   | Krško | Nogometni Klub Krško
@@ -49,6 +57,13 @@ NK Krško, 1922,   Krško
 
 NK Primorje (1924-2011),  Ajdovščina
  | Primorje | Nogometni Klub Primorje
+
+ND Primorje, 2011,  Ajdovščina
+  | Nogometno društvo Primorje Ajdovščina
+
+
+
+
 
 
 MNK Izola,  1996,  Izola
