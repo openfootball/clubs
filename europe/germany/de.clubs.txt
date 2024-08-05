@@ -258,6 +258,17 @@ Bonner SC,  1965,  Bonn
 #    1901 gegründeten Bonner FV und der
 #    1904 gebildeten Mannschaft Tura Bonn.
 
+1. FC Kaan-Marienborn, 2007, Siegen
+  | 1. FC Kaan-Marienborn 07
+# founded 2007, taking over the football Department
+#  of TuS 1886 Kaan-Marienborn, which had existed since 1886. 
+
+SV Straelen,  Straelen
+  | SV 19 Straelen
+  | Sportverein 19 Straelen
+
+FC Gütersloh,  Gütersloh
+
 
 == Saarland ==
 
@@ -346,6 +357,17 @@ VfV Hildesheim,     Hildesheim
 ## VfV 06 Hildesheim was formed on 1 July 2003 in a merger
 ##  of the football department of VfV Hildesheim 
 ##  and Borussia 06 Hildesheim.
+
+BW Lohne,   Lohne             
+  | Blau-Weiß Lohne
+  | TuS Blau-Weiss Lohne
+
+BSV SW Rehden, Rehden 
+  | BSV Schwarz-Weiß Rehden
+  | BSV Rehden
+  | Ballsportverein Schwarz-Weiß Rehden
+
+TuS Bersenbrück,  Bersenbrück
 
 
 
@@ -558,6 +580,12 @@ SV Linx
 FV Ravensburg,  1893,  Ravensburg
   | FV 1893 Ravensburg
 
+SV Oberachern, Achern
+
+TSG Balingen,  Balingen
+  | Balingen
+  | TSG Balingen Fußball
+
 
 == Hessen ==
 
@@ -582,13 +610,13 @@ SV Wehen Wiesbaden,     Wiesbaden
 
 Kickers Offenbach,     Offenbach am Main
   | Offenbach
-KSV Hessen Kassel
+KSV Hessen Kassel,   Kassel
   | Hessen Kassel
 
 KSV Baunatal,    Baunatal
   | Kultur- und Sportverein Baunatal
 
-TSV Steinbach Haiger
+TSV Steinbach Haiger    # based in Steinbach, near Haiger
   | TSV Steinbach | TSV Steinb. Haiger
   | Turn- und Sportverein Steinbach 1921
 
@@ -620,13 +648,18 @@ TuS Koblenz,         Koblenz
 Rot-Weiß Koblenz,    Koblenz
   | FC Rot-Weiß Koblenz
 
-TSG Pfeddersheim
 
 SV Roßbach/Verscheid, 1968,  Roßbach
   | SV Roßbach
 # bis 2007 SV Roßbach/Wied
 
-Wormatia Worms
+Wormatia Worms,    Worms 
+ | VfR Wormatia Worms
+ | VfR Wormatia 08 Worms
+
+TSG Pfeddersheim   #  Pfeddersheim suburb of Worms
+
+
 SV Alemannia Waldalgesheim
 FSV Salmrohr
 FK Pirmasens
@@ -635,7 +668,7 @@ FK Pirmasens
 SC Hauenstein, 1919,  Hauenstein
   | Sport-Club Hauenstein
 
-SV Morlautern
+SV Morlautern     # Morlautern suburb of the city of Kaiserslautern
 
 FV Engers 07,  1907,   Neuwied (Engers)   # Neuwied-Engers
   | FV Engers | Fußballverein Engers 07
@@ -653,7 +686,7 @@ Holstein Kiel,       Kiel
   | Holst. Kiel | Kiel
   | Kieler Sportvereinigung Holstein von 1900
 
-VfR Neumünster
+VfR Neumünster, Neumünster 
 
 SC Weiche Flensburg 08,     Flensburg (Weiche)
   | Weiche Flensburg 08
@@ -665,7 +698,7 @@ Eintracht Norderstedt, 2003,  Norderstedt
   | E. Norderstedt | Eintr. Norderstedt
 # 2003 als Nachfolgeverein der Fußballabteilung des 1. SC Norderstedt gegründet
 
-SV Eichede
+SV Eichede    #  from the Eichede suburb of Steinburg
 
 
 SV Todesfelde, 1928,   Todesfelde
@@ -679,6 +712,9 @@ Hansa Rostock, 1965,        Rostock
   | Rostock 
   | FC Hansa Rostock
   | Fußballclub Hansa Rostock
+
+Rostocker FC,  Rostock
+
 
 TSG Neustrelitz
 FC Schönberg 95
@@ -768,6 +804,10 @@ VfB Germania Halberstadt,   Halberstadt
   | Germania Halberstadt
   | Verein für Breitensport Germania Halberstadt
 
+FC Einheit Wernigerode, Wernigerode 
+  | Wernigerode | Einheit Wernigerode
+  | FC Einheit 
+
 
 == Thüringen ==
 
@@ -776,7 +816,7 @@ FC Carl Zeiss Jena,  Jena
   | SC Motor Jena    # champs (1): 1963/64
 #  Renamed SC Motor Jena in 1954
 
-SV Schott Jena
+SV Schott Jena, Jena
 
 
 FC Rot-Weiß Erfurt,  Erfurt

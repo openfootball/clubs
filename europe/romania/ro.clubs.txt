@@ -4,7 +4,7 @@
 Steaua București,        București
   | Steaua | Steaua Bucuresti | FC Steaua Bucuresti | FC Steaua București
   | FCSB
-  | FCS Bukarest [de]
+  | FCSB Bukarest [de] | FCS Bukarest [de]
   | CCA București     # champs (2): 1961/62 1957/58
 
 Dinamo București,  1948,       București

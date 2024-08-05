@@ -38,6 +38,7 @@ ii) Young Violets Austria Wien
 
 
 TWL Elektra,   Wien (Favoriten)
+  | TWL Elektra Wien
   | Team Wiener Linien/Elektra
   | SC Team Wiener Linien
   | Wiener Linien
@@ -114,6 +115,11 @@ SC Red Star Penzing
 
 
 FV Austria XIII
+  | A-XIII $$Auhof Center$$
+  | Austria XIII $$Auhof Center$$
+  | Austria XIII
+
+
 Post SV Wien
 
 FC Hellas Kagran,  Wien (Donaustadt)  # aus Kagran im 22. Wiener Gemeindebezirk Donaustadt
@@ -243,8 +249,11 @@ SV Schwechat, Schwechat
 ASK Bad Vöslau
 SC Retz
   | Retz
-SCU Ardagger
+SCU Ardagger         # Bezirk Amstetten
+  | SC Union Ardagger
   | Ardagger SCU
+  | SG Ardagger/Viehdorf | Ardagger/Viehdorf
+
 SV Gaflenz
 FC Rohrendorf/Gedersdorf
   | SC Rohrendorf
@@ -292,6 +301,8 @@ USV Groß Gerungs
 USV Langenlois, Langenlois
   | Langenlois
 
+SV Haitzendorf,   Haitzendorf
+  | Haitzendorf
 
 SC Admira Gföhl,   Gföhl 
 USV Raabs/Thaya
@@ -380,16 +391,16 @@ SK Vorwärts Steyr,   Steyr
   | Vorw. Steyr | Vorwärts Steyr
 
 
-FC Wels,         Wels
+FC Wels,         Wels   ### fix - add (-2023) ?? 
   | Wels FC
-WSC Hertha Wels, Wels
+WSC Hertha Wels, Wels   ### fix - add (-2023) ??
   | WSC Hertha
+  | Hertha Wels
  
- 
-FC Hertha Wels,  Wels
+FC Hertha Wels,  2023,  Wels      ## note - starting in 2023/24
   | SPG Hertha Wels  | SPG Wels
   | SPG $$HOGO$$ Wels   ## HOGO is sponsor name
-## todo/check SPG Wels  - merger of FC Wels & WSC Herta Wels in 202x??
+## note - SPG Wels  - merger of FC Wels & WSC Herta Wels
 ##
 ## Zur Saison 2023/24 ging Hertha Wels eine Spielgemeinschaft 
 ## mit dem Stadtrivalen FC Wels ein und firmierte 
@@ -509,6 +520,10 @@ SV Lafnitz,   Lafnitz
   | SV $$Licht-Loidl$$ Lafnitz
 
 
+SV Frauental, Frauental an der Laßnitz
+  | 
+  | Sportverein Frauental
+
 USV Allerheiligen,     Allerheiligen bei Wildon
   | Allerheiligen | SV Allerheiligen
   | SV $$Raiffeisen$$ Allerheiligen
@@ -600,6 +615,8 @@ Villacher SV, Villach
 
 SV Spittal/Drau
   | Spittal/Drau
+  | SV Spittal
+
 FC St. Veit
   | FC Sankt Veit
 FC Lendorf
@@ -621,6 +638,7 @@ ATUS Ferlach,  Ferlach
 
 SV St. Jakob/Rosental
   | SV St. Jakob/R. | SV St. Jakob Rosental
+  | SV St. Jakob im Rosental
 
 SV Dellach/Gail,    Dellach   
   | Dellacher Sportverein
@@ -727,6 +745,8 @@ SV Reutte
 SC Kundl
 
 SV Fügen,    Fügen   # im Bezirk Schwaz 
+
+SPG Silz/Mötz
 
 
 == Vorarlberg ==

@@ -93,6 +93,10 @@ Tiburones Rojos Veracruz, 1943,   Veracruz (Boca del Río) ›      ## Boca del 
 FC Juárez, 2015, Juárez
   | Juárez | Fútbol Club Juárez
 
+Indios de Ciudad Juarez (2005-2011),  Juárez 
+  | Indios | Club de Fútbol Indios de Ciudad Juárez
+
+
 == Tamaulipas ==
 Altamira, 2001,        Altamira
 Correcaminos, 1980,    Victoria
