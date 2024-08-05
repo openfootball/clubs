@@ -41,7 +41,16 @@ FC Zürich, 1896, @ Stadion Letzigrund,     Zürich
   | Zürich
   | Fussball Club Zürich
 
-FC Red Star Zürich
+FC Red Star Zürich,     Zürich
+
+Zürich City,     Zürich
+  | Zürich City SC
+
+YF Juventus Zürich,     Zürich
+  | SC YF/Juventus Zürich
+ 
+
+
 
 FC Winterthur, 1896,  @ Schützenwiese,      Winterthur
   | Winterthur
@@ -63,9 +72,13 @@ BSC Young Boys, 1898,  @  Wankdorf,          Bern
   | YB Bern
 
 FC Breitenrain Bern
+FC Prishtina Bern
+
 
 FC Biel-Bienne, 1896,     Biel/Bienne
   | Biel-Bienne
+FC Besa Biel/Bienne
+
 FC Thun, 1898,                 Thun
   | Thun | FC Thun 1898
   | FC Thun Berner Oberland
@@ -85,6 +98,12 @@ FC St. Gallen, 1879,    @ Kybunpark,          St. Gallen
   | Fussball Club St. Gallen 1879
 
 FC Winkeln St. Gallen
+
+Besa St. Gallen
+
+Dardania St. Gallen
+  | KF Dardania St. Gallen 
+
 
 
 
@@ -111,6 +130,16 @@ FC Wettingen, 1931,   Wettingen
 
 FC Baden,  Baden
   | Fussballclub Baden 1897
+
+
+== Schwyz ==
+SC Schwyz
+
+== Zug ==
+Zug 94
+
+== Graubünden ==
+Chur 97
 
 
 == Valais ==      ##  Wallis [de]
@@ -153,6 +182,8 @@ Stade Lausanne-Ouchy,   2001,   @ Olympique de la Pontaise,   Lausanne (Ouchy)
   | Football Club Stade Lausanne Ouchy
 # note: a merger between FC Stade Lausanne and FC Ouchy Olympic in 2001
 
+FC Dardania Lausanne,  Lausanne 
+
 
 FC Le Mont, 1942,             Le Mont-sur-Lausanne
   | FC Le Mont-sur-Lausanne
@@ -168,8 +199,9 @@ Yverdon-Sport FC, 1948, @ Stadion Municipal,  Yverdon-les-Bains
 FC Stade Nyonnais,  Nyon
   | Stade Nyonnais
 
-
-
+Vevey-Sports,   1898,    Vevey
+  | Vevey United | FC Vevey United
+  # formerly FC Vevey United 
 
 
 == Ticino ==    ## Tessin [de]
@@ -197,41 +229,81 @@ SR Delémont,  1909,   Delémont
 #########
 ## todo - add clubs to kantons 
 
-AC Malcantone
-AC Taverne
-Etoile Carouge FC
 FC Affoltern
 FC Ajoie-Monterri
+FC Altstätten
+FC Aemme
+
 FC Bosporus
 FC Buchs AG
 FC Bulle
+SC Brühl
+
+Etoile Carouge FC
+SC Cham
 FC Collina d'Oro
 FC Courtételle
+FC CSL
+FC Champel
+
 FC Dietikon
+
+FC Echallens
+SC Emmen
+
 FC Frutigen
+
+FC Gambarogno-Contone | FC Gambarogno
 FC Genolier-Begnins
 FC Grand-Saconnex
 FC Greifensee
 FC Gunzwil
+
 FC Haute-Gruyère
+FC Haute-Ajoie
+SV Höngg
+
+VfR Kleinhüningen
+
 FC Lancy
+FC Langenthal
+Le Locle Sports
+
+AC Malcantone
+  | FC Malcantone 
 FC Mendrisio
 FC Meyrin
+FC Monthey
+
 FC Onex
+
 FC Porrentruy
+FC Paradiso
+FC Printse-Nendaz
+
 FC Rapperswil-Jona
+FC Regensdorf
+
 FC Saint-Blaise
 FC Savièse
 FC Schönenwerd-Niedergösgen
+Iliria Solothurn
+FC Solothurn
+FC Subingen
+FC Suhr
+FC Schattdorf
+Signal FC 
+  | FC Signal
+
+AC Taverne
 FC Tuggen
+
+FC Ursy
+
+FC Wallbach
 FC Wettswil-Bonstetten
 FC Widnau
-Iliria Solothurn
-SC Brühl
-SC Cham
-SV Höngg
-Vevey-Sports
-VfR Kleinhüningen
+
 
 
 

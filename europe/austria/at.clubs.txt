@@ -15,7 +15,7 @@
 == Wien ==
 
 SK Rapid Wien, 1899,  @ Allianz Stadion,   Wien (Hütteldorf)
-  | Rapid | Rapid Wien
+  | Rapid | Rapid Wien | SK Rapid
   | Sportklub Rapid Wien
   | Rapid Vienna [en]
  Keisslergasse 3 // 1140 Wien
@@ -96,6 +96,7 @@ Admira Landhaus
 
 
 Sportunion Mauer
+  | Union Mauer | Mauer
 
 
 SR Donaufeld,   Wien (Floridsdorf)
@@ -134,6 +135,8 @@ SC Neusiedl am See,  Neusiedl am See
   | SC Neusiedl/See | SC Neusiedl/See 1919
 
 ASV Draßburg, Draßburg
+  | Draßburg
+
 
 SC-ESV Parndorf,   Parndorf
   | Parndorf | SC-ESV Parndorf 1919
@@ -152,7 +155,7 @@ SC Ritzing
 SC Trausdorf
 
 ASV Siegendorf
-  | Siegendorf
+  | Siegendorf | ASV Siegendorf 1930
 SV Neuberg
 SV St. Margarethen
 ASK Baumgarten
@@ -258,6 +261,7 @@ ASKÖ Gmünd,   Gmünd
 
 SC Krems,  Krems
   | Kremser SC
+  | SG Kremser SC/Rehberg
 
 
 #  add Gebietsliga NW/Wald.  --  6-noe-nordwest-waldviertel
@@ -300,6 +304,7 @@ SVg Purgstall
 
 
 SC Korneuburg,   Korneuburg 
+  | Korneuburg
 
 
 
@@ -382,7 +387,7 @@ WSC Hertha Wels, Wels
  
  
 FC Hertha Wels,  Wels
-  | SPG Hertha Wels
+  | SPG Hertha Wels  | SPG Wels
   | SPG $$HOGO$$ Wels   ## HOGO is sponsor name
 ## todo/check SPG Wels  - merger of FC Wels & WSC Herta Wels in 202x??
 ##
@@ -415,6 +420,7 @@ Union St. Florian,  St. Florian
 SV Wallern
   | Wallern | Wallern/St. M. | Wallern/St. Marienk. | Wallern/St. Marienkirchen
   | SPG SV Wallern/St. M. | SPG SV Wallern/St. Marienkirchen
+  | SPG Wallern/St. Marienkirchen
   | SV $$Zaunergroup$$ Wallern
 
 
@@ -481,6 +487,7 @@ ii) SK Sturm Graz II
 
 Grazer AK,   Graz
   | GAK | GAK 1902
+  | Grazer AK 1902
 
 TSV Hartberg, 1946,    @ Profertil Arena Hartberg,   Hartberg
   | TSV | Hartberg
@@ -509,6 +516,7 @@ USV Allerheiligen,     Allerheiligen bei Wildon
 
 SV Wildon
   | SV $$Raiffeisen$$ Wildon
+  | Wildon
 
 
 TuS Bad Gleichenberg,  Bad Gleichenberg
@@ -516,13 +524,14 @@ TuS Bad Gleichenberg,  Bad Gleichenberg
 Deutschlandsberger SC, Deutschlandsberg
   | Deutschlandsberg
   | DSC Deutschlandsberg
+  | DSC
 
 FC Gleisdorf 09,       Gleisdorf
   | Gleisdorf | FC Gleisdorf
 SC Kalsdorf,           Kalsdorf
   | Kalsdorf
 USV St. Anna,          St. Anna am Aigen
-  | St. Anna/Aigen | St. Anna am Aigen
+  | St. Anna/Aigen | St. Anna am Aigen | St. Ann/A.
   | USV St. Anna/A. | USV St. Anna am Aigen
 
 SC Weiz,               Weiz
@@ -579,10 +588,12 @@ ASV Annabichler SV 1923,   Klagenfurt (Annabichl)
 
 
 ASK Klagenfurt,  1945, Klagenfurt (St. Peter bei Ebenthal)
-  |  Arbeitersportclub Klagenfurt
+  | Arbeitersportclub Klagenfurt
+  | SG ASK/HSV Klagenfurt
 
 
-ATUS Velden,   Velden 
+ATUS Velden,   Velden
+  | Velden 
 
 
 Villacher SV, Villach
@@ -603,6 +614,7 @@ VST Völkermarkt,    Völkermarkt
   | Völkermarkter Sport- und Turnverein 1868
 
 SK Treibach
+  | Treibach
 SK Maria Saal
 
 ATUS Ferlach,  Ferlach
@@ -648,6 +660,7 @@ SV Seekirchen
   | SV Seekirchen 1945
 FC Pinzgau Saalfelden
   | Pinzgau Saalfelden
+  | FC Pinzgau
 TSV St. Johann,   St. Johann im Pongau
   | TSV St. Johann Pongau | TSV St. Johann im Pongau
   | $$McDonald's$$ St. Johann/Pongau

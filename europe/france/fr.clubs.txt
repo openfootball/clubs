@@ -134,10 +134,13 @@ LB Châteauroux, Châteauroux
 Clermont Foot 63,  @ Stade Gabriel Montpied, Clermont
   | Clermont | Clermont Foot
   | Clermont Foot Auvergne
+
 Le Havre AC,  @ Stade Océane,  Le Havre
   | Le Havre | Havre AC 
   | Le Havre Athletic Club
   | Le Havre Athletic Club Football
+  | AC Le Havre
+
 RC Lens,  1906,    @ Stade Bollaert-Delelis,   Lens      ## Pas-de-Calais > Nord-Pas-de-Calais
   | Lens | Racing Club de Lens
 FC Lorient, 1926,  @ Stade du Moustoir - Yves Allainmat,  Lorient     ## Morbihan > Brittany

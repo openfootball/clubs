@@ -333,6 +333,16 @@ MTV Eintracht Celle,  1847,  Celle
 # Der Verein entstand im Jahr 2005 aus dem Zusammenschluss
 #  des MTV Celle von 1847 und des SV Eintracht Celle von 1910.
 
+VfV Hildesheim,     Hildesheim
+  VfV 06 Hildesheim
+  VfV Borussia 06 Hildesheim
+  VfV Borussia 06
+  VfV 06
+## VfV 06 Hildesheim was formed on 1 July 2003 in a merger
+##  of the football department of VfV Hildesheim 
+##  and Borussia 06 Hildesheim.
+
+
 
 == Brandenburg ==
 
@@ -489,8 +499,11 @@ Karlsruher SC,  1894,        Karlsruhe
   | Karlsruher Sport-Club 1894 Mühlburg-Phönix
  Adenauerring 17 // 76131 Karlsruhe
 
-SSV Ulm 1846,         Ulm
-  | Ulm
+SSV Ulm 1846,     @ Donaustadion,  Ulm
+  | Ulm | SSV Ulm
+  | SSV Ulm 1846 Fußball
+
+
 VfR Aalen, 1921,          Aalen
   | Aalen
  Stadionweg 5/1 // 73430 Aalen
@@ -672,6 +685,10 @@ FC Mecklenburg Schwerin,  Schwerin
   | PSV Schwerin | Polizei SV Schwerin
 # 2013 durch Fusion des Fördervereins FCM Schwerin und
 #  dem FC Eintracht Schwerin entstand
+
+Greifswalder FC,  Greifswald
+  | Greifswald
+
 
 
 == Sachsen ==

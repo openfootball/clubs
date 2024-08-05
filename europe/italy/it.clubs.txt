@@ -95,6 +95,7 @@ AC Chievo Verona, Verona
 
 Venezia FC, 1907,     Venezia
   | Venezia | Venezia Football Club
+  | FC Venedig [de]
   | AC Venezia
   | SSC Venezia | Società Sportiva Calcio Venezia
   | FBC Unione Venezia | Foot Ball Club Unione Venezia
