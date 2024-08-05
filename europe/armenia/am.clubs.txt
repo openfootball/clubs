@@ -19,6 +19,13 @@ FC BKMA Yerevan,   1947,  Yerevan
   | Banaki Kentronakan Marzakan Akumb   # en - Central Sport Club of the Army
 ## commonly known with its Russian abbreviation as CSKA Yerevan
 
+Alashkert FC,  Yerevan
+  | Alashkert
+  | FC Alashkert
+  | Alashkert Erewan  [de]
+
+
+
 Kilikia FC (1992-2011),  Yerevan
   | FC Kilikia
 
@@ -31,6 +38,7 @@ FC Pyunik
   | Pyunik | Pyunik FC
   | Pyunik Yerevan
   | FC Pyunik Yerevan 
+  | Pjunik Erewan [de]
 
 Ulisses FC
   | Ulisses     # champs (1): 2012/13
@@ -55,9 +63,6 @@ FC Shirak
 Araks Ararat (-2005),  Ararat         # champs (2): 2001/02 1999/00
   | FC Araks Ararat
 
-Alashkert FC
-  | Alashkert
-  | FC Alashkert
 
 FSC Lori
   | Lori

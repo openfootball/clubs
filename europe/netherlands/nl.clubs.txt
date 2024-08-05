@@ -49,7 +49,7 @@ Sparta Rotterdam,        Rotterdam
   | Sp. Rotterdam
 SBV Excelsior Rotterdam, 1902,   Rotterdam › Zuid-Holland    ## use SBV Excelsior - why? why not?
   | Excelsior | SBV Excelsior 
-  | Excel. Rotterdam
+  | Excel. Rotterdam | Excelsior Rotterdam
   | Stichting Betaald Voetbal Excelsior
   | Stichting Betaald Voetbal Excelsior Rotterdam
 

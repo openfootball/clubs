@@ -3,8 +3,10 @@
 
 FK RFS,  Riga
   | RFS | Rīgas Futb. Skola | FK Rīgas Futbola Skola
+  | Rīgas Futbola Skola
   | JFK Olimps/RFS           ## todo/check where this name is (still/was) used ?
   | FC RFS
+
 
 Riga FC,         Riga
   | Riga | FC Riga

@@ -21,6 +21,8 @@ Frigg Oslo FK,  1904, Oslo (Majorstua)
 
 Rosenborg BK,  1917, @ Lerkendal Stadion,  Trondheim
   | Rosenborg | Rosenborg Ballklub
+  | Rosenborg Trondheim
+
 Ranheim,       Trondheim
   | Ranheim Fotball | Ranheim IL
 

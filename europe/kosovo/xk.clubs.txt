@@ -20,6 +20,8 @@ FC Ballkani,  1947,  Suva Reka  # or Suharekë or Therandë
   | Ballkani
   | Klubi Futbollistik Ballkani
   | Football Club Ballkani 
+  | KF Ballkani Suhareka 
+
 
 FC Suhareka, 2023,  Suva Reka  # or Suharekë or Therandë  
   | Suhareka

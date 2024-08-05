@@ -119,9 +119,12 @@ SpVgg Hankofen-Hailing
 FC Eintracht Bamberg, Bamberg
   | Eintracht Bamberg
   | Bamberg
+  | FC Eintracht Bamberg 2010
 ## formed on 1 April 2006 out of the union of
 ##  1. FC Bamberg and TSV Eintracht Bamberg
 
+FC Pipinsried
+SC Eltersdorf
 
 
 
@@ -300,6 +303,8 @@ SV Meppen,              Meppen
   | Meppen
 VfB Oldenburg,         Oldenburg
   | Oldenburg
+VfL Oldenburg,      Oldenburg
+
 
 SV Wilhelmshaven
 BSV Schwarz-Weiß Rehden,   1954,   Rehden
@@ -613,7 +618,7 @@ TuS Koblenz,         Koblenz
   | Turn- und Spielvereinigung Koblenz 1911
 
 Rot-Weiß Koblenz,    Koblenz
-
+  | FC Rot-Weiß Koblenz
 
 TSG Pfeddersheim
 

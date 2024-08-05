@@ -90,9 +90,12 @@ SC Tavriya Simferopol
   | Tavriya Simferopol   # champs (1): 1992/93
   | SK Tavriya Simferopol
   | Tavriia
+  | Tawrija Simferopol [de]
+
 
 FC Zorya Luhansk
   | Zorya | Zorya Luhansk
+  | Sorja Luhansk [de] | FK Sorja Luhansk [de] 
   | Zorya Lugansk [de] | FC Zorya Lugansk [de]
   | Futbolnyy Klub Zorya (Luhansk)
   | Zorya Voroshilovgrad   # champs (1): 1973/74

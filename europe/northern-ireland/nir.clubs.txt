@@ -15,6 +15,7 @@ Linfield FC,    Belfast
   | FC Linfield
 Glentoran FC,   Belfast
   | Glentoran | Glentoran Belfast
+  | FC Glentoran
 Crusaders FC,  Belfast
   | Crusaders | Crusaders Belfast
 

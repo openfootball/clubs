@@ -48,6 +48,9 @@ FH Hafnarfjörður,  Hafnarfjörður    # note/fix: auto-change Hafnarfjörður 
 
 Breiðablik,          Kópavogur        # note/fix: Breidablik - auto-change ð to d
   | Breidablik
+  | UMF Breidablik
+  | Breiðablik Kópavogur
+
 ÍBV Vestmannaeyjar,  Vestmannaeyjar
   | ÍBV
   | ÍB Vestmannaeyja  # champs (3): 2000..1998 (2) 1980/81

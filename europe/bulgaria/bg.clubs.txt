@@ -73,6 +73,8 @@ PFC Ludogorets Razgrad, 1945,  Razgrad
   | Professional Football Club Ludogorets Razgrad
   | PFC Ludogorets 1945     | PFC Ludogorets 1945 Razgrad
   | PFK Ludogorets Razgrad  | PFK Ludogorets 1945 Razgrad
+  | Ludogorez Rasgrad [de]
+
 
 PFC Beroe Stara Zagora, 1916,   Stara Zagora
   | Beroe | Professional Football Club Beroe

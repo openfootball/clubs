@@ -153,6 +153,7 @@ Club Brugge, 1891,    Brugge › West-Vlaanderen › Vlaanderen
 Cercle Brugge, 1899,  Brugge › West-Vlaanderen › Vlaanderen
   | Cercle Brugge KSV | Cercle Brugge Koninklijke Sportvereniging
   | Cer. Brügge [de] | Cercle Brügge [de] | Cercle Brügge KSV [de]
+  | KSV Cercle Brügge [de]
 
 
 KV Kortrijk, 1901,    Kortrijk › West-Vlaanderen › Vlaanderen

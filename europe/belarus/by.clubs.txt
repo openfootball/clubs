@@ -4,6 +4,8 @@
 FC BATE Borisov, Barysaw
   | BATE | BATE Borisov | BATE Borissow
   | FK BATE Borisov
+  | BATE Baryssau [de]
+
 
 FC Gomel
   | Gomel

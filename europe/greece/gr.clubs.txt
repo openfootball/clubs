@@ -12,6 +12,7 @@ Panathinaikos FC,  Athens
   | Panathinaikos
   | Panathinaikos Athens
   | PAE Panathinaikos Athlitikos Omilos
+  | Panathinaikos Athen [de]
 
 Apollon Smyrnis FC,  Athens
   | Apollon | Apollon Smyrnis

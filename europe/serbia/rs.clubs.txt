@@ -6,7 +6,7 @@ Red Star Belgrade, Belgrade
   | Crvena Zvezda | FK Crvena Zvezda
   | Red Star
   | FK Red Star Belgrade
-  | Roter Stern B. [de]
+  | Roter Stern Belgrad [de] | Roter Stern B. [de]
 
 FK Partizan Belgrade, Belgrade
   | Partizan | FK Partizan | Partizan Belgrade

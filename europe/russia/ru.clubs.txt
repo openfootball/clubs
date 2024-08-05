@@ -5,7 +5,7 @@
 Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
   | Lokomotiv | FC Lokomotiv | FC Lokomotiv Moskva
   | Loko Moscow [en] | Lokomotiv Moscow [en] | FC Lokomotiv Moscow [en]
-  | Lok Moskau [de]
+  | Lokomotive Moskau [de] | Lok Moskau [de]
   | FK Lokomotiv Moskva
   | Futbolniy Klub Lokomotiv (Moskva)
 
@@ -90,6 +90,7 @@ PFC Sochi, 2018, Sochi      #  formed in 2018 on the base of FC Dynamo Saint Pet
 FC Rubin Kazan, 1958,  Kazan     ##  Tatarstan (Republic of) > Volga (Federal District)
   | Rubin | FC Rubin | Rubin Kazan
   | Futbolniy Klub Rubin (Kazan)
+  | Rubin Kasan [de]
 
 FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
   | Amkar | Amkar Perm
@@ -183,7 +184,7 @@ Volga Nizhnii Novgorod, Nizhny Novgorod
 FC Rostov,     Rostov-on-Don
   | Rostov | Rostov Rostov-on-Don | FK Rostov
   | Futbolniy Klub Rostov (Rostov-na-Donu)
-
+  | FK Rostow  [de]
 
 Rotor, Volgograd
   | Rotor Volgograd | FC Rotor Volgograd

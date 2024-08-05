@@ -10,6 +10,7 @@ Club América, 1916,   Ciudad de México
 
 Cruz Azul, 1927,      Ciudad de México
   | Cruz Azul FC | Cruz Azul Fútbol Club
+  | CD Cruz Azul
  San Pablo No. 100, Col. La Noria, Antiguo Camino a Xochimilco // México D.F.
 
 Pumas UNAM, 1954,   Ciudad de México
@@ -48,7 +49,7 @@ Leones Negros U. de G., 1970,  Guadalajara › Jalisco
 Estudiantes UAG, 1971         # en Zapopan, Jalisco
   | UAG | Estudiantes | Estudiantes Tecos
   | UA. Guadalajara | Universidad Autónoma de Guadalajara
-
+  | Universidad Guadalajara
 
 Tepatitlán FC,    1944, Tepatitlán
   | Tepatitlán Fútbol Club
@@ -76,11 +77,12 @@ Club Puebla,  1944,        Puebla › Puebla
 
 Lobos BUAP, 1967,         Puebla › Puebla
   | BUAP | Benemérita Universidad Autónoma de Puebla
-
+  | Lobos de la BUAP Puebla
 
 == Veracruz ==
 Tiburones Rojos Veracruz, 1943,   Veracruz (Boca del Río) ›      ## Boca del Río
   | Veracruz | Tiburones Rojos (de Veracruz)
+  | TR Veracruz
   | CD Veracruz | Club Deportivo Veracruz
  Av. Jacarandas s/n esq. Av. España Fraccionamiento Virginia Boca del Río // Veracruz
 
@@ -170,6 +172,7 @@ Atlético Morelia,   Morelia
 == Aguascalientes ==
 Club Necaxa,  1923,       Aguascalientes
   | Necaxa
+  | CID Necaxa
 
 == Hidalgo ==
 CF Pachuca, 1901,        Pachuca
@@ -229,6 +232,7 @@ Venados FC,  1988,    Mérida
 Atlante FC, 1916,          Cancún
   | Atlante | Potros (de Hierro)
   | Club de Fútbol Atlante
+  | CF Atlante Cancún
  Av. Mayapán esq. Av. Kabah s/n Supermanzana 43 Pedregal del Bosque // Quintana Roo
 
 
