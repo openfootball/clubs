@@ -48,7 +48,7 @@ FH Hafnarfjörður,  Hafnarfjörður    # note/fix: auto-change Hafnarfjörður 
 
 Breiðablik,          Kópavogur        # note/fix: Breidablik - auto-change ð to d
   | Breidablik
-  | UMF Breidablik
+  | UMF Breidablik | Ungmennafélag Breiðablik
   | Breiðablik Kópavogur
 
 ÍBV Vestmannaeyjar,  Vestmannaeyjar
