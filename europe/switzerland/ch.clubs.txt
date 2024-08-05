@@ -34,7 +34,7 @@
 
 == Zürich ==
 Grasshoppers Zürich, 1886,  @ Stadion Letzigrund,      Zürich
-  | Grasshoppers 
+  | Grasshoppers
   | Grasshopper Club Zürich | Grasshopper Zürich
 
 FC Zürich, 1896, @ Stadion Letzigrund,     Zürich
@@ -42,13 +42,14 @@ FC Zürich, 1896, @ Stadion Letzigrund,     Zürich
   | Fussball Club Zürich
 
 FC Red Star Zürich,     Zürich
+  | Red Star Zürich
 
 Zürich City,     Zürich
   | Zürich City SC
 
 YF Juventus Zürich,     Zürich
   | SC YF/Juventus Zürich
- 
+
 
 
 
@@ -62,12 +63,16 @@ FC Basel, 1893,  @ Sankt-Jakob-Park,        Basel
   | Basel | FC Basel 1893
   | Fussball Club Basel 1893
 
-FC Black Stars Basel
+FC Black Stars Basel,   Basel
+  | Black Stars Basel
+
+Concordia Basel,  Basel
+
 
 
 == Bern ==
 BSC Young Boys, 1898,  @  Wankdorf,          Bern
-  | Young Boys | Young Boys Bern 
+  | Young Boys | Young Boys Bern
   | Berner Sport-Club Young Boys | BSC YB
   | YB Bern
 
@@ -88,6 +93,9 @@ FC Luzern, 1901,   @ Swissporarena,      Luzern    ## use Lucerne [fr] - why??
   | Luzern
   | Fussball Club Luzern
 
+FC Kickers Luzern,  Luzern
+
+
 SC Kriens, 1944,   Kriens             # a western suburb of Lucerne
   | Kriens | Sport Club Kriens
 
@@ -102,7 +110,7 @@ FC Winkeln St. Gallen
 Besa St. Gallen
 
 Dardania St. Gallen
-  | KF Dardania St. Gallen 
+  | KF Dardania St. Gallen
 
 
 
@@ -182,7 +190,7 @@ Stade Lausanne-Ouchy,   2001,   @ Olympique de la Pontaise,   Lausanne (Ouchy)
   | Football Club Stade Lausanne Ouchy
 # note: a merger between FC Stade Lausanne and FC Ouchy Olympic in 2001
 
-FC Dardania Lausanne,  Lausanne 
+FC Dardania Lausanne,  Lausanne
 
 
 FC Le Mont, 1942,             Le Mont-sur-Lausanne
@@ -201,7 +209,7 @@ FC Stade Nyonnais,  Nyon
 
 Vevey-Sports,   1898,    Vevey
   | Vevey United | FC Vevey United
-  # formerly FC Vevey United 
+  # formerly FC Vevey United
 
 
 == Ticino ==    ## Tessin [de]
@@ -218,7 +226,7 @@ AC Bellinzona, 1904,    Bellinzona
 
 
 == Jura ==
-SR Delémont,  1909,   Delémont 
+SR Delémont,  1909,   Delémont
   | Sport-Réunis de Delémont
 
 
@@ -227,17 +235,30 @@ SR Delémont,  1909,   Delémont
 == ?? ==
 
 #########
-## todo - add clubs to kantons 
+## todo - add clubs to kantons
 
 FC Affoltern
+  | FC Affoltern am Albis
 FC Ajoie-Monterri
 FC Altstätten
 FC Aemme
+FC Allschwil
+US Arbedo
+ASI Audax Friul
 
 FC Bosporus
 FC Buchs AG
+  | FC Buchs
 FC Bulle
 SC Brühl
+FC Bavois
+FC Bischofszell 1913
+FC Breitenrain
+SC Balerna
+FC Begnins
+SC Binningen
+FC Bubendorf
+SC Buochs
 
 Etoile Carouge FC
 SC Cham
@@ -245,11 +266,19 @@ FC Collina d'Oro
 FC Courtételle
 FC CSL
 FC Champel
+Compesieres FC
+FC Chatel St. Denis
+CS Chenois
+FC Coffrane
 
 FC Dietikon
+FC Dübendorf
+FC Dürrenast
 
 FC Echallens
 SC Emmen
+FC Echichens
+FC Escholzmatt-Marbach
 
 FC Frutigen
 
@@ -258,53 +287,86 @@ FC Genolier-Begnins
 FC Grand-Saconnex
 FC Greifensee
 FC Gunzwil
+FC Gland
+FC Goldstern
 
 FC Haute-Gruyère
 FC Haute-Ajoie
 SV Höngg
+FC Hausen am Albis
+AS Haute-Broye
 
+FC Ibach
+
+FC Kreuzlingen
+FC Köniz
 VfR Kleinhüningen
 
 FC Lancy
 FC Langenthal
 Le Locle Sports
+FC Linth 04
+FC Laufen
+FC Lachen/Altendorf
+FC Littau
 
 AC Malcantone
-  | FC Malcantone 
+  | FC Malcantone
 FC Mendrisio
 FC Meyrin
 FC Monthey
+FC Muri
+FC Münsingen
 
 FC Onex
 
 FC Porrentruy
 FC Paradiso
 FC Printse-Nendaz
+Italien Pertandingan
+FC Portalban/Gletterens
 
+FC Rorschach
+FC Rotkreuz
 FC Rapperswil-Jona
 FC Regensdorf
 
 FC Saint-Blaise
 FC Savièse
 FC Schönenwerd-Niedergösgen
-Iliria Solothurn
-FC Solothurn
+FC Solothurn,       Solothurn
+Iliria Solothurn,   Solothurn
+  | FC Iliria Solothurn
 FC Subingen
 FC Suhr
 FC Schattdorf
-Signal FC 
+Signal FC
   | FC Signal
+Sarmenstorf FC
+FC Saxon Sports
+FC Schoenberg
+FC Sternenberg
+FC Saint-Prex
+FC Seuzach
+FC Someo
+FC St.-Leonard
+SC Schöftland
+FC Schötz
+FC Sierre
 
 AC Taverne
 FC Tuggen
 
+FC Unterstrass
 FC Ursy
 
 FC Wallbach
 FC Wettswil-Bonstetten
 FC Widnau
+FC Winkeln SG
+FC Wiedikon ZH
+FC Wittenbach
 
-
-
+FC Zollbrück
 
 

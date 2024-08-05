@@ -5,7 +5,7 @@
 == Bayern ==
 
 Bayern München, 1900,    @ Allianz Arena,   München
-  | Bayern | Bayern Mün. 
+  | Bayern | Bayern Mün.
   | FC Bayern | FC Bayern München | Fußball Club Bayern München
   | Bayern Munich [en] | FC Bayern Munich [en]
  Säbener Straße 51-57 // 81547 München
@@ -13,7 +13,7 @@ ii) Bayern München II
   | Bayern II |  Bayern München Am.
   | FC Bayern II | FC Bayern München II
   | B. München II
-  
+
 
 TSV 1860 München, 1860, München
   | 1860 München | TSV München 1860
@@ -32,14 +32,14 @@ ii) 1. FC Nürnberg II
   | Nürnberg II
 
 SpVgg Greuther Fürth, 1903, Fürth
-  | Gr. Fürth | Greu. Fürth | Greuther Fürth 
+  | Gr. Fürth | Greu. Fürth | Greuther Fürth
   | SpVgg Gr. Fürth
   | SpVgg Greuther Fürth 1903
   | Spielvereinigung Greuther Fürth
  Laubenweg 60 // 90765 Fürth
 ii) SpVgg Greuther Fürth II
   | Gr. Fürth II | Greuther Fürth II
-  | SpVgg Gr. Fürth II 
+  | SpVgg Gr. Fürth II
   | Fürth II
 
 
@@ -51,7 +51,7 @@ ii) FC Augsburg II
   | Augsburg II
 
 TSV Schwaben Augsburg, Augsburg
-  | Schw. Augsburg | Schwaben Augsburg 
+  | Schw. Augsburg | Schwaben Augsburg
 
 
 SpVgg Unterhaching,  Unterhaching
@@ -104,7 +104,7 @@ TSV 1896 Rain
 
 DJK Vilzing
   | Vilzing | Deutsche Jugendkraft Vilzing
-  
+
 
 SpVgg Ansbach
   | Ansbach
@@ -189,7 +189,7 @@ SG Wattenscheid 09,    Bochum (Wattenscheid)    ## Bochum-Wattenscheid - Bochume
   | Wattenscheid | Wattenscheid 09
 
 Arminia Bielefeld,  1905,    Bielefeld
-  | Bielefeld 
+  | Bielefeld
   | DSC Arminia Bielefeld
   | Deutscher Sport-Club Arminia Bielefeld
   | Arminia | Arm. Bielefeld
@@ -261,7 +261,7 @@ Bonner SC,  1965,  Bonn
 1. FC Kaan-Marienborn, 2007, Siegen
   | 1. FC Kaan-Marienborn 07
 # founded 2007, taking over the football Department
-#  of TuS 1886 Kaan-Marienborn, which had existed since 1886. 
+#  of TuS 1886 Kaan-Marienborn, which had existed since 1886.
 
 SV Straelen,  Straelen
   | SV 19 Straelen
@@ -279,7 +279,7 @@ FC 08 Homburg,       Homburg
 VfB Borussia Neunkirchen,  Neunkirchen
   | Borussia Neunkirchen
 
-SV Elversberg  
+SV Elversberg
   | Elversberg | Elversberg 07 | SV 07 Elversberg
   | Sportvereinigung 07 Elversberg
   | SpVgg 07 Elversberg
@@ -355,14 +355,14 @@ VfV Hildesheim,     Hildesheim
   VfV Borussia 06
   VfV 06
 ## VfV 06 Hildesheim was formed on 1 July 2003 in a merger
-##  of the football department of VfV Hildesheim 
+##  of the football department of VfV Hildesheim
 ##  and Borussia 06 Hildesheim.
 
-BW Lohne,   Lohne             
+BW Lohne,   Lohne
   | Blau-Weiß Lohne
   | TuS Blau-Weiss Lohne
 
-BSV SW Rehden, Rehden 
+BSV SW Rehden, Rehden
   | BSV Schwarz-Weiß Rehden
   | BSV Rehden
   | Ballsportverein Schwarz-Weiß Rehden
@@ -471,7 +471,7 @@ USC Paloma Hamburg, 1909
 HSV Barmbek-Uhlenhorst
 
 FC Teutonia 05,  Hamburg
-  | FC Teutonia Ottensen 
+  | FC Teutonia Ottensen
   | FC Teutonia Altona-Ottensen
 
 
@@ -514,7 +514,7 @@ SC Freiburg, 1904,     @ Europa-Park Stadion,   Freiburg
  Schwarzwaldstr. 193 // 79117 Freiburg
 ii) SC Freiburg II
   | Freiburg II
-  
+
 TSG 1899 Hoffenheim,  1899,  @ Rhein-Neckar-Arena,   Sinsheim   ## Sinsheim-Hoffenheim
   | Hoffenheim | 1899 Hoffenh. | 1899 Hoffenheim | TSG Hoffenheim
   | Turn- und Sportgemeinschaft 1899 Hoffenheim
@@ -653,7 +653,7 @@ SV Roßbach/Verscheid, 1968,  Roßbach
   | SV Roßbach
 # bis 2007 SV Roßbach/Wied
 
-Wormatia Worms,    Worms 
+Wormatia Worms,    Worms
  | VfR Wormatia Worms
  | VfR Wormatia 08 Worms
 
@@ -686,7 +686,7 @@ Holstein Kiel,       Kiel
   | Holst. Kiel | Kiel
   | Kieler Sportvereinigung Holstein von 1900
 
-VfR Neumünster, Neumünster 
+VfR Neumünster, Neumünster
 
 SC Weiche Flensburg 08,     Flensburg (Weiche)
   | Weiche Flensburg 08
@@ -709,7 +709,7 @@ SV Todesfelde, 1928,   Todesfelde
 == Mecklenburg-Vorpommern ==
 
 Hansa Rostock, 1965,        Rostock
-  | Rostock 
+  | Rostock
   | FC Hansa Rostock
   | Fußballclub Hansa Rostock
 
@@ -735,7 +735,7 @@ Greifswalder FC,  Greifswald
 == Sachsen ==
 
 Dynamo Dresden, 1953,      Dresden
-  | Dresden 
+  | Dresden
   | Dyn. Dresden | Dynamo Dres.
   | SG Dynamo Dresden
   | Sportgemeinschaft Dynamo Dresden
@@ -804,9 +804,9 @@ VfB Germania Halberstadt,   Halberstadt
   | Germania Halberstadt
   | Verein für Breitensport Germania Halberstadt
 
-FC Einheit Wernigerode, Wernigerode 
+FC Einheit Wernigerode, Wernigerode
   | Wernigerode | Einheit Wernigerode
-  | FC Einheit 
+  | FC Einheit
 
 
 == Thüringen ==

@@ -25,8 +25,8 @@ Saint-Gilloise,  Brussels (Saint-Gilles)
   | R. Union Saint-Gilloise
   | Union Saint-Gilloise
   | Union St. Gilloise | Union SG
-  | Royale Union Saint-Gilloise 
-  
+  | Royale Union Saint-Gilloise
+
 
 
 == Antwerpen › Vlaanderen ==
@@ -98,7 +98,7 @@ Lommel United, Lommel
   | Lommel SK
 
 
-Patro Eisden,   1942,  Maasmechelen  
+Patro Eisden,   1942,  Maasmechelen
   | Koninklijke Patro Eisden Maasmechelen
   | K. Patro Eisden Maasmechelen
   | K. Patro Eisden
@@ -107,7 +107,7 @@ Patro Eisden,   1942,  Maasmechelen
 == Oost-Vlaanderen › Vlaanderen ==
 
 KAA Gent, 1864,     Gent        › Oost-Vlaanderen › Vlaanderen
-  | Gent 
+  | Gent
   | Koninklijke Atletiek Associatie Gent
   | Koninklijke Athletic Associatie Gent
   | AA Gent
@@ -137,7 +137,7 @@ KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
   | SK Beveren
 
 
-KMSK Deinze,  1926,   Deinze    
+KMSK Deinze,  1926,   Deinze
   | Deinze
   | Koninklijke Maatschappij Sportkring Deinze
 
@@ -146,7 +146,7 @@ KMSK Deinze,  1926,   Deinze
 == West-Vlaanderen › Vlaanderen ==
 
 Club Brugge, 1891,    Brugge › West-Vlaanderen › Vlaanderen
-  | Club Brugge KV 
+  | Club Brugge KV
   | Club Brugge Koninklijke Voetbalvereniging
   | Club Brugge Koninklijke Vereniging
   | Cl. Brügge [de] | Club Brügge [de]

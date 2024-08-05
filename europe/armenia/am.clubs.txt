@@ -15,7 +15,7 @@ Ararat-Armenia FC, 2017,  Yerevan
   | Ararat-Armenia
   | FC Ararat-Armenia
 
-FC BKMA Yerevan,   1947,  Yerevan 
+FC BKMA Yerevan,   1947,  Yerevan
   | Banaki Kentronakan Marzakan Akumb   # en - Central Sport Club of the Army
 ## commonly known with its Russian abbreviation as CSKA Yerevan
 
@@ -37,7 +37,7 @@ Zvartnots-AAL FC (1997-2003),  Yerevan
 FC Pyunik
   | Pyunik | Pyunik FC
   | Pyunik Yerevan
-  | FC Pyunik Yerevan 
+  | FC Pyunik Yerevan
   | Pjunik Erewan [de]
 
 Ulisses FC

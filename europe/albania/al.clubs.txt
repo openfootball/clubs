@@ -8,10 +8,10 @@ KF Tirana,  1920,       Tirana
   | SK Tirana
   | 17 Nëntori Tirana
 ## competed under the name of SK Tirana between 1927 and 1947,
-##  when the communist regime forcibly renamed the club 17 Nëntori Tirana, 
-## Puna Tirana and KS 17 Nëntori. 
+##  when the communist regime forcibly renamed the club 17 Nëntori Tirana,
+## Puna Tirana and KS 17 Nëntori.
 ## In 1991 KF Tirana retook its pre-1947 name and
-##  was divided into two branches, the multi disciplinary SK Tirana 
+##  was divided into two branches, the multi disciplinary SK Tirana
 ## and the football branch of KF Tirana
 
 FC Dinamo City,  1950,    Tirana
@@ -19,8 +19,8 @@ FC Dinamo City,  1950,    Tirana
   | Dinamo City
   | Dinamo
   | Football Club Dinamo Tirana
-## On 25 August 2023, it was officially announced 
-##  that the club would rebrand to Dinamo City, 
+## On 25 August 2023, it was officially announced
+##  that the club would rebrand to Dinamo City,
 ## ahead of the 2023–24 Kategoria Superiore season.
 
 FK Partizani Tirana, Tirana
@@ -48,7 +48,7 @@ KS Teuta,   Durrës
   | Teuta | Teuta Durrës
   | KF Teuta | KF Teuta Durrës
 
-KF Laçi,    Laç 
+KF Laçi,    Laç
   | Laç | Laçi
 
 FK Kukësi,  Kukës

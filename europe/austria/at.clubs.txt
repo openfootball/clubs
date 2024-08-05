@@ -21,7 +21,7 @@ SK Rapid Wien, 1899,  @ Allianz Stadion,   Wien (Hütteldorf)
  Keisslergasse 3 // 1140 Wien
 ii) SK Rapid Wien II
   | Rapid Wien II
-  | Rapid Wien Am. | Rapid Wien A. 
+  | Rapid Wien Am. | Rapid Wien A.
   | SK Rapid Amateure
 
 FK Austria Wien, 1911,  @ Generali Arena,   Wien (Favoriten)
@@ -129,7 +129,7 @@ FC Hellas Kagran,  Wien (Donaustadt)  # aus Kagran im 22. Wiener Gemeindebezirk 
 == Burgenland ==
 
 SV Mattersburg,  1922,  @  Pappelstadion,  Mattersburg
-  | Mattersburg 
+  | Mattersburg
   | Sportverein Mattersburg
   | Sportvereinigung Mattersburg
  Michael Koch Straße 50 // 7210 Mattersburg
@@ -304,7 +304,7 @@ USV Langenlois, Langenlois
 SV Haitzendorf,   Haitzendorf
   | Haitzendorf
 
-SC Admira Gföhl,   Gföhl 
+SC Admira Gföhl,   Gföhl
 USV Raabs/Thaya
 
 SV Gloggnitz,  Gloggnitz
@@ -314,7 +314,7 @@ SC Brunn am Gebirge
 SVg Purgstall
 
 
-SC Korneuburg,   Korneuburg 
+SC Korneuburg,   Korneuburg
   | Korneuburg
 
 
@@ -328,12 +328,12 @@ ii) LASK Amateure OÖ
   | LASK Juniors OÖ
 
 
-FC Juniors OÖ,      Linz (Pasching)      
+FC Juniors OÖ,      Linz (Pasching)
   | Juniors OÖ        ##  bis Juli 2017 FC Pasching (merge with FC Pasching!! see below)
 ## todo/(double) check: is a not a feeder / reserve team / club ?
 ## After the rise of LASK Juniors OÖ in the 2. Liga in the 2017–18 season,
-#   the syndicate is dissolved. 
-# The FC Juniors OÖ will play as an independent club 
+#   the syndicate is dissolved.
+# The FC Juniors OÖ will play as an independent club
 #  in the second league, but continue to cooperate with the LASK
 
 
@@ -378,7 +378,7 @@ ASKÖ Donau Linz, Linz
 
 SV Ried,  1912,  @ Keine Sorgen Arena,     Ried i. Innkreis
   | Ried
-  | SV $$Josko$$ Ried 
+  | SV $$Josko$$ Ried
   | SV $$Josko Fenster$$ Ried     ## note: Josko is a sponsor
   | Sportvereinigung $$Josko Fenster$$ Ried
   | SV $$Guntamatic$$ Ried
@@ -391,21 +391,21 @@ SK Vorwärts Steyr,   Steyr
   | Vorw. Steyr | Vorwärts Steyr
 
 
-FC Wels,         Wels   ### fix - add (-2023) ?? 
+FC Wels,         Wels   ### fix - add (-2023) ??
   | Wels FC
 WSC Hertha Wels, Wels   ### fix - add (-2023) ??
   | WSC Hertha
   | Hertha Wels
- 
+
 FC Hertha Wels,  2023,  Wels      ## note - starting in 2023/24
   | SPG Hertha Wels  | SPG Wels
   | SPG $$HOGO$$ Wels   ## HOGO is sponsor name
 ## note - SPG Wels  - merger of FC Wels & WSC Herta Wels
 ##
-## Zur Saison 2023/24 ging Hertha Wels eine Spielgemeinschaft 
-## mit dem Stadtrivalen FC Wels ein und firmierte 
-## in jener Saison als SPG Wels. 
-## Zur Saison 2024/25 fusionierten die beiden Teams, 
+## Zur Saison 2023/24 ging Hertha Wels eine Spielgemeinschaft
+## mit dem Stadtrivalen FC Wels ein und firmierte
+## in jener Saison als SPG Wels.
+## Zur Saison 2024/25 fusionierten die beiden Teams,
 ## die Hertha trägt seither den Namen FC Hertha Wels.
 
 
@@ -438,7 +438,7 @@ SV Wallern
 SV Grün-Weiß Micheldorf
   | SV GW Micheldorf
   | Micheldorf | SV Micheldorf
-  
+
 
 ASKÖ Oedt
 SV Grieskirchen
@@ -511,7 +511,7 @@ TSV Hartberg, 1946,    @ Profertil Arena Hartberg,   Hartberg
 Kapfenberger SV,   Kapfenberg
   | KSV | KSV 1919 | Kapfenberger SV 1919
   | Kapfenberg 1919
-  
+
 ii) Kapfenberger SV II
 
 
@@ -521,7 +521,7 @@ SV Lafnitz,   Lafnitz
 
 
 SV Frauental, Frauental an der Laßnitz
-  | 
+  |
   | Sportverein Frauental
 
 USV Allerheiligen,     Allerheiligen bei Wildon
@@ -560,7 +560,7 @@ FC Lankowitz
 USV Mettersdorf
 
 
-ASK Voitsberg, 1921,  Voitsberg 
+ASK Voitsberg, 1921,  Voitsberg
   | Arbeiter Sport-Klub Voitsberg
 
 
@@ -608,7 +608,7 @@ ASK Klagenfurt,  1945, Klagenfurt (St. Peter bei Ebenthal)
 
 
 ATUS Velden,   Velden
-  | Velden 
+  | Velden
 
 
 Villacher SV, Villach
@@ -640,14 +640,14 @@ SV St. Jakob/Rosental
   | SV St. Jakob/R. | SV St. Jakob Rosental
   | SV St. Jakob im Rosental
 
-SV Dellach/Gail,    Dellach   
+SV Dellach/Gail,    Dellach
   | Dellacher Sportverein
 
 
 == Salzburg ==
 
 FC RB Salzburg, 1933,  @ Red Bull Arena,   Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
-  | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg 
+  | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg
   | FC Red Bull Salzburg
   | Football Club Red Bull Salzburg
  Stadionstraße 2/3 // 5071 Wals-Siezenheim   ## Salzburg
@@ -744,7 +744,7 @@ FC Zirl
 SV Reutte
 SC Kundl
 
-SV Fügen,    Fügen   # im Bezirk Schwaz 
+SV Fügen,    Fügen   # im Bezirk Schwaz
 
 SPG Silz/Mötz
 

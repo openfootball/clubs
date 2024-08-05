@@ -18,7 +18,7 @@ CF Esperança d'Andorra, Andorra la Vella
 
 
 
-UE Sant Julià,  Sant Julià 
+UE Sant Julià,  Sant Julià
   | Sant Julià
 
 FC Santa Coloma, Santa Coloma
@@ -35,11 +35,11 @@ Atlètic Club d'Escaldes,   Escaldes-Engordany
 Inter Club d'Escaldes,   Escaldes-Engordany
   | Inter Escaldes
 
-CE Carroi,   Escaldes-Engordany 
-  | Carroi | Club Esportiu Carroi  
+CE Carroi,   Escaldes-Engordany
+  | Carroi | Club Esportiu Carroi
 
 
-FC Ordino, Ordino 
+FC Ordino, Ordino
   | Ordino
 
 FC Encamp, 1950,   Encamp
@@ -47,7 +47,7 @@ FC Encamp, 1950,   Encamp
 FS La Massana
 
 
-FC Pas de la Casa,  El Pas de la Casa   # in Encamp parish 
+FC Pas de la Casa,  El Pas de la Casa   # in Encamp parish
   | Pas de la Casa
 
 
@@ -64,4 +64,3 @@ FC Andorra,  1942, @ Estadi Nacional,    Andorra la Vella
   | Andorra
   | Futbol Club Andorra
   | Andorra FC
-  
