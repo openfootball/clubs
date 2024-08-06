@@ -61,7 +61,7 @@ Astra Giurgiu,   Giurgiu
 
 
 FC Petrolul Ploiești, Ploiești
-  | Petrolul | Petrolul Ploiesti | Petrolul Ploiești 
+  | Petrolul | Petrolul Ploiesti | Petrolul Ploiești
   | FC Petrolul Ploieşti
   | Petrolul 52
   | Asociația Clubul Sportiv Petrolul 52
@@ -86,17 +86,17 @@ Gloria Bistrița,    Bistrița
 
 
 FC Viitorul Constanța (2009-2021),   Ovidiu
-  | Viitorul 
+  | Viitorul
   | FC Viitorul | Viitorul Constanța
 #  merged with Farul Constanța in 2021
 
 FCV Farul Constanța,  Constanța
-  | FC Farul Constanța   
+  | FC Farul Constanța
   | Farul Constanța
   | Farul                 # Farul translates as "the Lighthouse"
-## Established in 1920 as SPM Constanța, 
-#  the team had spent over 40 seasons in the first league 
-#  before merging with Viitorul Constanța in 2021. 
+## Established in 1920 as SPM Constanța,
+#  the team had spent over 40 seasons in the first league
+#  before merging with Viitorul Constanța in 2021.
 
 
 
@@ -209,7 +209,10 @@ CSM Flacăra Moreni,  1922,   Moreni
   | Club Sportiv Municipal Flacăra Moreni
 
 FC Argeș Pitești, Pitești
-  | Argeș | Argeș Pitești
+  | Argeș | Argeș Pitești | FC Argeș
+  | Asociația Clubul Sportiv Campionii Fotbal Club Argeș
+  | ACS Campionii FC Argeș
+
 
 
 CS Minaur Baia Mare, 1948,  Baia Mare
@@ -225,25 +228,25 @@ FCM Bacău,  1950,   Bacău
   | FCM 1950 Bacău | ASS FCM 1950 Bacău
 
 
-FK Csíkszereda Miercurea Ciuc,  Miercurea Ciuc  
+FK Csíkszereda Miercurea Ciuc,  Miercurea Ciuc
   | Csíkszereda Miercurea Ciuc
   | Csíkszereda
   | Csiksz. M. Ciuc
   | Asociația Futball Klub Csíkszereda Miercurea Ciuc
 
 
-CS Corvinul Hunedoara,     Hunedoara   
+CS Corvinul Hunedoara,     Hunedoara
   | Corvinul Hunedoara
   | Corvinul
   | Corv. Hunedoara
   | Clubul Sportiv Corvinul 1921 Hunedoara
 
 
-AS FC Buzău,  2016,  Buzău  
-  | FC Buzău 
-  | Buzău 
+AS FC Buzău,  2016,  Buzău
+  | FC Buzău
+  | Buzău
   | Asociația Sportivă Fotbal Club Buzău
-# club was originally founded on 25 August 2016, 
+# club was originally founded on 25 August 2016,
 #  following the dissolution of FC Gloria Buzău.
 
 Unirea Slobozia, 1955,  Slobozia

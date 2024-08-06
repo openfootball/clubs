@@ -35,7 +35,7 @@ Athlone Town AFC,    Athlone
   | Athlone | Athlone Town
   | Athlone Town FC
   | FC Athlone Town
-  
+
 Bray Wanderers FC,   Bray
   | Bray | Bray Wanderers
   | FC Bray Wanderers
@@ -56,7 +56,7 @@ Cork Celtic FC (1951-1979),  Cork
   | Cork Celtic      # champs (1): 1974/75
 Cork Hibernians FC (1957-1976), Cork
   | Cork Hibernians   # champs (1): 1971/72
-
+  | Cork Hibs
 
 Drogheda United FC,  Drogheda
   | Drogheda | Drogheda United
@@ -78,7 +78,7 @@ Limerick FC (1937-2020), Limerick
   | Limerick
   | Limerick Football Club
 
-Treaty United,  2020,    Limerick  
+Treaty United,  2020,    Limerick
   | Treaty United Football Club
 ## The club was founded in 2020 following the demise of Limerick F.C
 
@@ -112,6 +112,6 @@ Cabinteely FC,        Cabinteely
   | Cabinteely
 
 
-Kerry FC,   2022,   Tralee   # in County Kerry 
+Kerry FC,   2022,   Tralee   # in County Kerry
   | Kerry Football Club
 

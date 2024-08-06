@@ -14,7 +14,9 @@ FK Kauno Žalgiris,  Kaunas
   | FK Žalgiris Kaunas
 FC Stumbras,        Kaunas
   | Stumbras | Stumbras Kaunas
+
 FBK Kaunas,        Kaunas
+  | Kaunas
 
 FK Kareda Kaunas (1935-2003),  Kaunas
   | FK Kareda
@@ -27,6 +29,10 @@ FK Inkaras Kaunas (1937-2003), Kaunas
 
 FK Ekranas
   | Ekranas | Ekranas Panevezys
+
+Panevėžys
+  | FK Panevėžys
+
 
 FK Sūduva,    Marijampolė
   | Sūduva | Sūduva Marija.
@@ -45,7 +51,6 @@ FK Atlantas
 FK Kruoja
   | Kruoja Pakruojis | FK Kruoja Pakruojis
 
-Panevezys
 FK Palanga
 
 FK Mažeikiai,   Mažeikiai

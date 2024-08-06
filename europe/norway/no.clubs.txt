@@ -28,7 +28,7 @@ Ranheim,       Trondheim
 
 Moss FK,   Moss
   | Moss Fotballklubb    # champs (1): 1988/89
-
+  | Moss
 
 Molde FK,   1911, @ Aker Stadion,     Molde
   | Molde
@@ -43,7 +43,7 @@ SK Brann,   1908, @ Brann Stadion,    Bergen
   | Sportsklubben Brann
 
 Strømsgodset IF,  1907, @ Marienlyst Stadion,  Drammen
-  | Strømsgodset 
+  | Strømsgodset
   | Strømsgodset Idrettsforening
   | Strømsgodset Toppfotball
 Fredrikstad FK,   1903, @ Fredrikstad Stadion,   Fredrikstad
@@ -84,7 +84,7 @@ Bodø/Glimt,  1916, @ Aspmyra Stadion,  Bodø
 
 FK Haugesund, 1993, @ Haugesund Stadion,  Haugesund
   | Haugesund | Fotballklubben Haugesund
-  
+
 
 SK Haugar,  1939,  Haugesund
   | Haugur Haugesund
@@ -149,6 +149,6 @@ Egersunds IK, Egersund
 ##  => no need to duplicate!!!
 ##      remove (do NOT add) german variants
 ##   more (former) examples:
-##   -   Mjöndalen      
-##   -   Bodö Glimt  
-##   -   Strömmen IF 
+##   -   Mjöndalen
+##   -   Bodö Glimt
+##   -   Strömmen IF

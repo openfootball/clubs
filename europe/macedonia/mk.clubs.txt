@@ -19,6 +19,7 @@ FK Cementarnica 55, 1995, Skopje
 
 Sloga Jugomagnat Skopje (1927-2009), Skopje    # champs (3): 2002...1999 (3)
   | FK Sloga Jugomagnat
+  | Sloga
 
 FK Rabotnički,  Skopje
   | Rabotnički
@@ -56,10 +57,13 @@ FK Turnovo
 
 Akademija Pandev
 FC Struga
+  | Struga
+
 FK Borec Veles
 
 FK Pobeda,   Prilep
   | FK Pobeda Prilep
+  | Pobeda
 
 FK Bashkimi Kumanovo (1947-2008),   Kumanovo
   | FK Baskimi

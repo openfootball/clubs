@@ -13,6 +13,7 @@ KSP Polonia Warszawa,  Warszawa
   | Polonia Warsaw
 
 Gwardia Warszawa,  1948,  Warszawa   # champs (2): 1957/58 1955/56
+  | Gwardia
   | Gwardia Warsaw
 
 Górnik Zabrze,   Zabrze
@@ -149,10 +150,12 @@ OKS Stomil Olsztyn,  Olsztyn
 Polonia Bytom, 1920,  Bytom                 # champs (2): 1962/63 1958/59
   | KS Polonia Bytom
 Szombierki Bytom, 1919, Bytom (Szombierki)  # champs (1): 1980/81
+  | Szombierki
 
 Stal Mielec, 1939, @ Stali Mielec,  Mielec   # champs (2): 1976/77 1973/74
   | KS Stal Mielec | FKS Stal Mielec
   | FKS Stal Mielec Spółka Akcyjna
+  | Stal
 
 Dyskobolia Grodzisk Wielkopolski, 1922, Grodzisk Wielkopolski
   | KS Dyskobolia Grodzisk Wielkopolski | Klub Sportowy Dyskobolia Grodzisk Wielkopolski
@@ -187,6 +190,6 @@ Radomiak Radom,    Radom
   | Radomiak | RKS Radomiak
   | Radomski Klub Sportowy Radomiak Radom
 
-Motor Lublin,  1950,   Lublin 
-  | Motor Lublin SA  
+Motor Lublin,  1950,   Lublin
+  | Motor Lublin SA
   | Motor Lublin Spółka Akcyjna

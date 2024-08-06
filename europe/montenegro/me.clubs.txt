@@ -7,6 +7,7 @@ FK Budućnost Podgorica
 
 FK Mogren (1920-2016),  Budva
   | FK Mogren Budva
+  | Mogren
 
 FK Zeta
   | Zeta

@@ -13,7 +13,7 @@ Víkingur,   2008,   Leirvík     # note: the stadium (Serpugerdi Stadium) is in
   | Víkingur Gøta
 #  founded in 2008 after the merger of GÍ Gøta and Leirvík ÍF
 
-GÍ Gøta (1926-2008),   Gøta  
+GÍ Gøta (1926-2008),   Gøta
   | GÍ | Gøtu Ítróttarfelag
 # In January 2008 merged with Leirvík ÍF, forming the new club Víkingur.
 
@@ -37,34 +37,35 @@ AB Argir
   | AB
 
 B68 Toftir       # champs (1): 1993/94
-  | B68 | Tofta Ítróttarfelag 
+  | B68 | Tofta Ítróttarfelag
+
 
 FC Suðuroy, 2005,    Vágur
-  | FC Suduroy
+  | Suduroy | FC Suduroy
   | VB/Sumba
 # consists currently of the former clubs
-#   VB (founded in 1905) and Sumba (founded in 1949), 
+#   VB (founded in 1905) and Sumba (founded in 1949),
 #   which merged in 2005 to form VB/Sumba.
 # 2005; as VB/Sumba
 # 2010; as FC Suðuroy
 
 VB Vágur (1905-2005),  Vágur
   | Vágur
-# En el año 2005 el equipo se fusionó otra vez con 
+# En el año 2005 el equipo se fusionó otra vez con
 # el Sumba para crear el VB/Sumba
 
 07 Vestur, 2007
-## was founded 18 December 1993 as FS Vágar. 
+## was founded 18 December 1993 as FS Vágar.
 ## It was a merger of Vágar island teams MB Miðvágur and
 ## SÍF Sandavágu
 ## In fall 2007 talks about a merger
-## between FS Vágar 2004 (FSV04) and SÍ Sørvágur, 
-## one of the members of the first incarnation of the club, 
+## between FS Vágar 2004 (FSV04) and SÍ Sørvágur,
+## one of the members of the first incarnation of the club,
 ## started and were successfully concluded on 6 November 2007.
-##  The club was renamed 07 Vestur, 
+##  The club was renamed 07 Vestur,
 
 B71 Sandoy,     Sandur
   | B71 | Bóltfelagið 1971
   | Sandoyar Ítróttarfelag B71
-  
+
 

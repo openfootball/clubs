@@ -28,6 +28,7 @@ Alashkert FC,  Yerevan
 
 Kilikia FC (1992-2011),  Yerevan
   | FC Kilikia
+  | Kilikia
 
 Zvartnots-AAL FC (1997-2003),  Yerevan
   | FC Zvartnots AAL
@@ -62,7 +63,7 @@ FC Shirak
 
 Araks Ararat (-2005),  Ararat         # champs (2): 2001/02 1999/00
   | FC Araks Ararat
-
+  | Araks
 
 FSC Lori
   | Lori

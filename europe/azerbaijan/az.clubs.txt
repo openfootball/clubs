@@ -4,6 +4,7 @@
 Bakı FK,   Baku
   | Baku    # champs (2): 2009/10 2006/07
   | FK Baku
+  | Bakı
 
 İnter Bakı PİK,  Baku
   | Inter Baku PIK    # champs (2): 2010/11 2008/09
@@ -30,6 +31,7 @@ Zirä FK,    Baku   # based in Zirə, Baku
 FK Şämkir (1954-2017), Şəmkir
   | Shamkir | Shamkir FC     # champs (2): 2002..2000 (2)
   | Shamkir FK
+  | FK Shamkir
 
 
 FK Şamaxı,    Shamakhi
@@ -43,6 +45,7 @@ Qarabağ FK
   | Qarabağ Ağdam FK
 
 Xäzär Länkäran FK
+  | Xäzär Länkäran
   | Khazar Lankaran   # champs (1): 2007/08
 
 Olimpik-Şüvälan PFK

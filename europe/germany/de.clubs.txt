@@ -430,16 +430,26 @@ SC Tasmania 1900 Berlin (-1973), Berlin
 BFC Dynamo Berlin,     Berlin
   | BFC Dynamo
   | Berliner FC Dynamo
+  | Berlin
 
 Berliner AK 07,              Berlin
 FC Viktoria 1889 Berlin,     Berlin
   | Viktoria Berlin
 
 
-ASK Vorwärts Berlin     # champs (6): 1969/70 1967..1965 (2) 1963..1961 (2) 1959/60
-  | Vorwärts Berlin
-# 1969 wurde der Klub nach Frankfurt (Oder) verlegt
+ASK Vorwärts Berlin      # champs (6): 1969/70 1967..1965 (2) 1963..1961 (2) 1959/60
+  | Vorwärts | Vorwärts Berlin
+  | Armeesportklub Vorwärts Berlin
+  | FK Vorwärts Berlin
+# 1969 (or 1971?)  wurde der Klub nach Frankfurt (Oder) verlegt
 #  und als ASK Vorwärts Frankfurt neu organisiert
+# Nach dem Gewinn der Meisterschaft 1965 wurde der
+#   FC Vorwärts Berlin aus dem ASK ausgegliedert.
+# Der umgezogene FC Vorwärts Berlin spielte in der Oderstadt fortan
+#   unter der Bezeichnung FC Vorwärts Frankfurt.
+#
+#  ASK Vorwärts Frankfurt sames as FC Vorwärts Frankfurt ??
+
 
 BFC Preussen, 1894
   | Berliner Fussballclub Preussen 1894
@@ -712,6 +722,7 @@ Hansa Rostock, 1965,        Rostock
   | Rostock
   | FC Hansa Rostock
   | Fußballclub Hansa Rostock
+  | Hansa
 
 Rostocker FC,  Rostock
 
@@ -758,6 +769,7 @@ BSG Chemie Leipzig, Leipzig     # champs (1): 1964/65
   | Betriebssportgemeinschaft Chemie Leipzig
 
 FC Sachsen Leipzig (1990-2011),  Leipzig      # keep a separate club - why? why not?
+  | Sachsen
 # FC Sachsen Leipzig entstand 1990 aus der Fusion der Vereine
 # BSG Chemie Leipzig und BSG Chemie Böhlen
 
@@ -814,6 +826,7 @@ FC Einheit Wernigerode, Wernigerode
 FC Carl Zeiss Jena,  Jena
   | CZ Jena | Carl Zeiss Jena | FC CZ Jena
   | SC Motor Jena    # champs (1): 1963/64
+  | Jena
 #  Renamed SC Motor Jena in 1954
 
 SV Schott Jena, Jena

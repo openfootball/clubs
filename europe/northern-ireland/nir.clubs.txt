@@ -21,8 +21,8 @@ Crusaders FC,  Belfast
 
 Newington FC, Belfast (Newington)
   | Newington Football Club
-  
-Knockbreda FC, Belfast 
+
+Knockbreda FC, Belfast
   | Knockbreda
   | Knockbreda Football Club
   | Breda
@@ -38,7 +38,7 @@ Portadown FC
 
 Lisburn Distillery FC, 1880,  Ballyskeagh
   | Lisburn Distillery    # champs (1): 1963/64
-
+  | Distillery
 
 Glenavon FC
   | Glenavon | FC Glenavon
@@ -80,4 +80,4 @@ Newry City AFC,  Newry
 
 Loughgall FC,  Loughgall
   | Loughgall
-  | Loughgall Football Club 
+  | Loughgall Football Club

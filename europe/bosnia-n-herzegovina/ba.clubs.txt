@@ -29,6 +29,7 @@ FK Borac Banja Luka
   | Borac Banja Luka     # champs (1): 2011/12
 
 FK Modriča
+  | Modriča
 
 FK Sloboda Tuzla
   | Sloboda | Sloboda Tuzla
@@ -54,6 +55,7 @@ Zvijezda 09
 
 NK Brotnjo, Čitluk   # champs (1): 2000/01
   | Nogometni Klub Brotnjo
+  | Brotnjo
 
 FK Leotar,  1925,  Trebinje
   | Leotar | Leotar Trebinje

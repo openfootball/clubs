@@ -22,6 +22,7 @@ PFC Lokomotiv Sofia, 1929, @ Stadion Lokomotiv, Sofia
   | Lokomotiv Sofia
   | Lokomotive Sofia [de]
   | FC Lokomotiv Sofia | Football Club Lokomotiv 1929 Sofia
+  | FC Lokomotiv Sofia 1929
   | Lokomotiv 1929
 
 Tsarsko Selo Sofia, 2015,   Sofia
@@ -31,7 +32,7 @@ PFC Akademik Sofia, 1947,  Sofia
   | Akademik | Akademik Sofia
 
 
-FC Septemvri Sofia, 1944, Sofia 
+FC Septemvri Sofia, 1944, Sofia
   | Septemvri
   | PFC Septemvri Sofia
   | Professional Football Club Septemvri
@@ -82,7 +83,7 @@ PFC Beroe Stara Zagora, 1916,   Stara Zagora
   | FC Beroe Stara Zagora
   | Beroe Stara Zagora
   | Beroe Stara Zag.
- 
+
 PFC Lokomotiv Stara Zagora (1934-2009),   Stara Zagora
   | FC Beroe 2000 Kazanlak
 

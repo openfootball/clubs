@@ -9,10 +9,10 @@ IF Brommapojkarna,   1942, @  Grimsta IP,    Stockholm (Bromma)
   | Brommapojkarna
   | Idrottsföreningen Brommapojkarna
 Djurgårdens IF, 1891, @ Tele2 Arena,      Stockholm
-  | Djurgården 
+  | Djurgården
   | Djurgårdens Idrottsförening
-  | Djurgårdens IF Fotboll 
-  
+  | Djurgårdens IF Fotboll
+
 
 FC Stockholm Inter,  @ Kristinebergs IP,   Stockholm
   | FC Stockholm Internazionale
@@ -23,7 +23,7 @@ Hammarby IF,    1897, @ Tele2 Arena,        Stockholm
   | Hammarby | Hammarby Fotboll
   | Hammarby Idrottsförening Fotbollsförening
 
-# note  - this article is about a feeder team. 
+# note  - this article is about a feeder team.
 #   For the main club, see  Hammarby IF
 #   use ii) - why? why not?
 Hammarby Talang FF,  2003,  Stockholm
@@ -35,7 +35,7 @@ Hammarby Talang FF,  2003,  Stockholm
 Vasalunds IF, Solna    # part of the Stockholm urban area
 
 
-IFK Stocksund,  @ Stockhagens IP,   Stocksund   # Danderyd / suburb in Metropolitan Stockholm  
+IFK Stocksund,  @ Stockhagens IP,   Stocksund   # Danderyd / suburb in Metropolitan Stockholm
   | Idrottsföreningen Kamraterna Stocksund
  # In 2016, the men's team took over the license
  #  of Juventus IF in the Division 3
@@ -46,7 +46,7 @@ IFK Göteborg,  1904, @ Gamla Ullevi,  Göteborg       ## Gothenburg [en]
   | Göteborg | Idrottsföreningen Kamraterna Göteborg
 
 GAIS,   1894, @ Gamla Ullevi,      Göteborg
-  | GAIS Göteborg 
+  | GAIS Göteborg
   | Göteborgs Atlet- och Idrottssällskap
   | Göteborgs Atlet- & Idrottssällskap
 
@@ -54,7 +54,7 @@ BK Häcken,  1940, @ Bravida Arena,   Göteborg
   | Häcken | Bollklubben Häcken
 Qviding FIF,  Göteborg
 Örgryte Göteborg, Göteborg
-  | Örgryte IS
+  | Örgryte | Örgryte IS
 
 Utsiktens BK, 1935, Göteborg       # in Västra Frölunda, near Gothenburg
   | Utsiktens Bollklubb
@@ -65,7 +65,7 @@ Torslanda IK, 1944, Göteborg
 
 
 Malmö FF,   1910, @ Eleda Stadion, Malmö
-  | Malmö | Malmo FF 
+  | Malmö | Malmo FF
   | Malmö Fotbollförening
   | Malmö Fotbollsförening
 
@@ -141,7 +141,7 @@ IFK Norrköping,   1897, @ Nya Parken,  Norrköping
   | Idrottsföreningen Kamraterna Norrköping
 
 Östers IF,   Växjö
-  | Östers
+  | Östers | Öster
 
 Östersunds FK,   1996, @ Jämtkraft Arena,   Östersund
   | Östersund | Östersunds
@@ -163,7 +163,7 @@ Nyköping BIS,    Nyköping
 
 Västerås SK,  1904, @ Iver Arena,  Västerås
   | Västerås | Västerås Sportklubb
-  | Vasteraas SK      ## note -  å => aa 
+  | Vasteraas SK      ## note -  å => aa
 
 Degerfors IF,  1907, @ Stora Valla, Degerfors
   | Degerfors Idrottsförening
@@ -213,14 +213,14 @@ Oskarshamns AIK, 1922, Oskarshamn
 Sollentuna FK, 2013, Sollentuna   #  a municipality in Stockholm County
   | Sollentuna Fotbollsklubb
 
-  
+
 Onsala BK, 1941,  Onsala
   | Onsala Bollklubb
-  
+
 
 FBK Karlstad, Karlstad
   | Karlbergs BK
-  | Fotbollsklubben Karlstad 
+  | Fotbollsklubben Karlstad
   | FBK
 
 IF Karlstad Fotbol, 2019, Karlstad
@@ -231,14 +231,14 @@ IF Karlstad Fotbol, 2019, Karlstad
 
 Nordic United FC, @ Södertälje Fotbollsarena, Södertälje
 # was founded in 2004 as Assyriska FF Babylon.
-#  Changes in identity have been the norm in recent years 
+#  Changes in identity have been the norm in recent years
 # with the club being known as Södertälje FC, Assyriska United IK,
 #  Södertälje FK / Assyriska United IK, United IK and United IK Nordic.
-# In 2013, the club took over the team Assyriska Botkyrka 
-# (the youth team of Assyriska FF) 
+# In 2013, the club took over the team Assyriska Botkyrka
+# (the youth team of Assyriska FF)
 # In 2022, the club changed its name to Nordic United FC
 
-  
+
 Tvååkers IF, Tvååker
   | Tvååkers Idrottsförening
 

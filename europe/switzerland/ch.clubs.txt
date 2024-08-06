@@ -165,7 +165,7 @@ Xamax Neuchâtel,              Neuchâtel
 
 
 FC La Chaux-de-Fonds, 1894,  La Chaux-de-Fonds    # champs (1): 1964/65
-
+  | Chaux-de-Fonds
 
 
 == Genève ==

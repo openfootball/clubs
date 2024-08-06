@@ -15,7 +15,7 @@ B 1903 København (1903-1992),     København      # champs (3): 1977/78 1972..1
 
 KB København (1876-1992),     København    # champs (4): 1981/82 1975/76 1969/70 1958/59
   | KB | Kjøbenhavns BK | Kjøbenhavns Boldklub
-                        
+
 # In 1991, KB and B 1903 merged their professional football teams
 #  and formed FC Copenhagen
 
@@ -42,6 +42,7 @@ Akademisk Boldklub,  Gladsaxe   # north of Copenhagen
   | AB Gladsaxe |  Akademisk Boldklub Gladsaxe
   | Akademisk BK
   | AB København
+  | AB
 
 Brøndby IF, 1964,  @ Brøndby Stadion,   Brøndbyvester       ## use Brøndby ??
   | Brøndby | Brøndbyernes Idrætsforening
@@ -79,7 +80,7 @@ Ikast FS (1935-1999),  Ikast
 
 AGF Aarhus, 1880, @ Ceres Park,  Aarhus
   | AGF | Aarhus
-  | Aarhus GF 
+  | Aarhus GF
   | Aarhus Gymnastikforening
   | Aarhus Gymnastikforening af 1880
 
@@ -132,6 +133,7 @@ FC Vestsjælland,  Slagelse
 == ?? ==
 
 HB Køge, 2009,             Køge (Herfølge)
+  | Køge
 
 Herfølge BK (1921-2009),   Køge (Herfølge)
   | Herfølge Boldklub

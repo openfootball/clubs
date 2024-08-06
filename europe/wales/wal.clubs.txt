@@ -66,7 +66,7 @@ Penybont FC
 # note: teams in english premier league & english league (championship, etc.) !!!!
 
 Swansea City AFC, 1912,     @ Liberty Stadium, Swansea
-  | Swansea | Swansea City | Swansea City FC 
+  | Swansea | Swansea City | Swansea City FC
   | Swansea City Association Football Club
 
 Cardiff City FC, 1899,   @ Cardiff City Stadium, Cardiff
@@ -95,6 +95,7 @@ Rhyl FC,  Rhyl    # in Denbighshire
 Cwmbrân Town AFC,    Cwmbrân
   | Cwmbrân Town    # champs (1): 1993/94
   | Cwmbrân Town FC
+  | Cwmbrân
 
 Prestatyn Town FC,  1910,  Prestatyn
 
@@ -119,7 +120,6 @@ Caersws FC,  Caersws
 Flint Town United FC,  Flint
   | Flint Town United
 
-Briton Ferry Llansawel AFC,  Briton Ferry 
+Briton Ferry Llansawel AFC,  Briton Ferry
   | Briton Ferry Llansawel
 
-  

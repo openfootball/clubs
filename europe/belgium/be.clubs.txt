@@ -12,7 +12,7 @@ RWD Molenbeek,  Brussels (Molenbeek)
   | Molenbeek | Racing White Daring Molenbeek
   | RWDM Brussels FC
   | FC Molenbeek Brussels Strombeek
-  | FC Brussels
+  | FC Brussels | Brussels
   | R. Racing White Bruxelles
   | Racing White Brussels
 ##  keep Molenbeek clubs separte? from wikipedia:

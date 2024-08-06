@@ -50,7 +50,7 @@ FC Torpedo Zhodino, @ Torpedo Stadium,  Zhodino
 FC Dinamo Brest
   | Dinamo Brest
   | Dynamo Brest | FC Dynamo Brest
-  | FK Dinamo Brest   
+  | FK Dinamo Brest
 
 FC Neman Grodno
   | Neman | Neman Grodno
@@ -83,8 +83,9 @@ FC Torpedo-SKA Minsk
 FC Belshina Bobruisk, 1976,   Bobruisk
   | Belshina Bobruisk
   | FK Belshyna Babruisk
+  | Belshina
 
-FC Smorgon, 1987,   @ Youth Stadium, Smorgon        #  Smorgon or Smarhon 
+FC Smorgon, 1987,   @ Youth Stadium, Smorgon        #  Smorgon or Smarhon
   | Smorgon
   | FK Smarhon | FK Smorgon
 #  1993: renamed to FC Smorgon / FK Smarhon

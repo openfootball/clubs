@@ -73,6 +73,7 @@ FK Bylis,  1972,  Ballsh
 KF Elbasani, 1923,   Elbasan
   | Klubi i Futbollit Elbasani
   | KS Elbasani | Klubi Sportiv Elbasani
+  | Elbasan
 
 # Not to be confused with KF Elbasani
 AF Elbasani,  Elbasan

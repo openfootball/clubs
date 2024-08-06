@@ -3,7 +3,7 @@
 
 
 Ferencvárosi TC,  1899, @ Groupama Arena, Budapest
-  | Ferencváros 
+  | Ferencváros
   | Ferencvárosi Torna Club
   | Ferencváros Budapest
 
@@ -36,13 +36,14 @@ MTK Budapest,   1888, @ Új Hidegkuti Nándor Stadion,  Budapest
 
 Csepel SC, Budapest     # champs (1): 1959/60
   | Csepel FC
+  | Csepel
 
 Budapesti VSC, 1911,    Budapest (Zugló)
   | Budapesti Vasutas Sport Club
 
 
 Budafoki MTE,  1912,  @ Promontor utcai Stadion,  Budapest (Budafok)
-  | BMTE 
+  | BMTE
   | Budafoki Munkás Testedző Egyesület
   | Budafok
 
@@ -56,10 +57,12 @@ Vác FC,   Vác
   | Dunakanyar-Vác   # champs (1): 1994/95
   | Dunakanyar-Vác FC
   | Váci FC
+  | Vác
 
 Dunaújváros FC (1952-2009),  Dunaújváros
   | Dunaújváros  # champs (1): 2000/01
   | Dunaferr SE
+  | Dunaferr
 
 
 
@@ -67,7 +70,7 @@ Videoton FC
   | Videoton      # champs (2): 2015/16 2011/12
   | Videoton Fehérvár
   | Fehérvár | Fehérvár FC
-  | Vidi | MOL Vidi 
+  | Vidi | MOL Vidi
   | MOL Fehérvár | MOL Fehérvár FC
   | MOL Fehérvár Football Club
 ## check today's name - videoton?
@@ -87,13 +90,13 @@ Győri ETO FC, 1904,     Győr
   | Raba ETO Gyor   ## FIX: auto-add variant!!!
   | ETO Györ        ## fix: auto-add variant!!!
 
-Gyirmót FC Győr, 1993, @ Alcufer Stadion, Győr 
+Gyirmót FC Győr, 1993, @ Alcufer Stadion, Győr
    | Gyirmót Football Club Győr
    | Gyirmót
 
 
 Paksi SE, 1952, @ Városi Stadion
-  | Paks 
+  | Paks
   | Paksi Sport Egyesület
   | Paksi FC
 
@@ -105,7 +108,7 @@ Szombathelyi Haladás,    Szombathely
   | Haladás Szombathely
   | Haladás Szombat.
   | Haladás VSE                 # formerly
-  | Haladás Vasutas Sport Egyesület   
+  | Haladás Vasutas Sport Egyesület
 
 
 Zalaegerszegi TE, 1920, @ ZTE Aréna
@@ -129,7 +132,7 @@ Mezőkövesd Zsóry SE, 1975, @ Mezőkövesdi Városi Stadion
   | Mezőkövesd-Zsóry Sport Egyesület
   | Mezőkövesdi SE
 
-Puskás Akadémia FC, 2007 
+Puskás Akadémia FC, 2007
   | Puskás | Puskás FC
   | Puskás Akadémi
   | Puskás Akadémia
@@ -190,7 +193,6 @@ Kisvárda FC,    2013, @ Várkerti Új Stadion, Kisvárda
 
 
 Nyíregyháza Spartacus,   Nyíregyháza
-  | Nyíregyháza | Nyíregyháza FC 
+  | Nyíregyháza | Nyíregyháza FC
   | Nyíregyháza Spartacus Football Club
   | Nyíregyháza Spartacus FC
-  

@@ -5,15 +5,15 @@ AC Omonia Nicosia,  1948,     Nicosia
   | Omonia | Omonia Nicosia | AC Omonia
   | Omonia Nikosia [de]
   | Athletic Club Omonia Nicosia
-  | AC Omonoia | Omonoia   
+  | AC Omonoia | Omonoia
 # note - Omonia (Ομόνοια) is the Greek language word
 #         for harmony, unity, or concord
 
 
 PΑC Omonia 29M, 2018, Nicosia
   | PAC Omonia
-  | ALS Omonia 
-  | ALS Omonia 29is Maiou  
+  | ALS Omonia
+  | ALS Omonia 29is Maiou
   | Omonia 29M
   | People's Athletic Club Omonia 29 May
 
@@ -50,7 +50,7 @@ Anorthosis Famagusta FC, Larnaca         ## note: originally based in Famagusta,
 
 AEK Larnaca FC,  Larnaca
   | AEK Larnaca
-  | AÉK Lárnaka 
+  | AÉK Lárnaka
 
 
 ## note - Not to be confused with AC Omonia
@@ -61,10 +61,12 @@ Omonia Aradippou     # Aradippou - a settlement on the outskirts of the city of 
 Pezoporikos Larnaca (1927-1994), Larnaca   # champs (1): 1988/89
   | Pezoporikos Larnaca FC
   | Pezoporikos FC
+  | Pezoporikos
 
 EPA Larnaca (1930-1994), Larnaca    # champs (1): 1970/71
   | EPA Larnaca FC
   | Enosis Pezoporikou Amol FC
+  | Pezoporikou
 # merged with Pezoporikos Larnaca and formed AEK Larnaca FC.
 
 Alki Larnaca FC (1948-2014), Larnaca

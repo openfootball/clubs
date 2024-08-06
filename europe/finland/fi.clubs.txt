@@ -31,7 +31,7 @@ IF Gnistan,   Helsinki (Oulunkylä)
 KäPa, Helsinki (Käpylä)
   | Käpylän Pallo
 
-    
+
 
 FC Haka Valkeakoski,    Valkeakoski
   | Haka Valkeakoski | Valkeakosken Haka
@@ -69,7 +69,7 @@ FC Lahti,         Lahti
 FC Kuusysi,       Lahti   # champs (5): 1992/93 1990/91 1987/88 1985/86 1983/84
   | Kuusysi Lahti
 FC Reipas Lahti,  Lahti   # champs (3): 1971/72 1968/69 1964/65
-  | FC Reipas | Reipas Lahti
+  | Reipas | FC Reipas | Reipas Lahti
 
 
 JJK Jyväskylä,     Jyväskylä
@@ -100,7 +100,7 @@ KPV Kokkola,        Kokkola
   | KPV | Kokkolan Palloveikot
 Rovaniemen Palloseura,  Rovaniemi
   | RoPS | Rovaniemi | RoPS Rovaniemi | Rovaniemi PS
-  
+
 SJK Seinäjoki,      Seinäjoki
   | Seinäjoki
   | SJK | Seinäjoen Jalkapallokerho
@@ -141,7 +141,7 @@ JIPPO Joensuu, Joensuu
 
 
 FC Jazz, Pori      # champs (1): 1997/98
-  | FC Jazz Pori
+  | Jazz | FC Jazz Pori
 
 AC Oulu, 2002, Oulu
   | Oulu
@@ -164,7 +164,7 @@ Järvenpään Palloseura, 1947, Järvenpää
 
 Salon Palloilijat,    Salo
   | SalPa
-   
+
 
 
 AC Vantaan Allianssi (2002-2006),  Vantaa
