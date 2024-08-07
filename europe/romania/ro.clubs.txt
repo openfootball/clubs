@@ -2,19 +2,43 @@
 =  Romania
 
 Steaua București,        București
-  | Steaua | Steaua Bucuresti | FC Steaua Bucuresti | FC Steaua București
+  | Steaua | FC Steaua București
   | FCSB
   | FCSB Bukarest [de] | FCS Bukarest [de]
   | CCA București     # champs (2): 1961/62 1957/58
 
 Dinamo București,  1948,       București
-  | Din. Bucuresti | Dinamo Bucuresti | FC Dinamo București
-  | FC Dinamo Bucureşti | Dinamo Bucureşti
+  | Din. Bucuresti | FC Dinamo București
   | FC Dinamo 1948
   | Dinamo Bukarest [de]
 
+
+## note - romanian text may have variants of  s+cedilla e.g.
+##           with different unicodes
+##  Rapid București   - check what is canonical char
+##  Rapid Bucureşti
+##   or
+##  FC Petrolul Ploiești
+##  FC Petrolul Ploieşti
+##   or
+##  CS Gaz Metan Mediaș
+##  CS Gaz Metan Mediaş  ## todo/check: unaccent ro - auto-generate with cedilla from with ...
+##   or
+##  FC Botoșani, Botoșani
+##  FC Botoşani
+##   or
+## CSM Politehnica Iași     ## check - older name?
+## CSM Politehnica Iaşi   ## todo/check: unaccent ro - auto-generate with cedilla from with ...
+##  or ...
+##  same with
+##  Oțelul
+##  Oţelul !!!!!!!
+
+
+
+
 Rapid București,   1923,      București
-  | FC Rapid Bucuresti | FC Rapid București | Rapid Bucureşti
+  | FC Rapid București
   | Fotbal Club Rapid 1923 | FC Rapid 1923
   | Rapid Bukarest [de]
 
@@ -23,14 +47,14 @@ Daco-Getica București, 1992,  București
   | Juventus București
 ## From 1992 to the summer of 2018, the team was known as Juventus București
 
-Sportul Studenţesc Bucureşti, 1916,  București
-  | Sportul | Sportul Studenţesc
-  | FC Sportul Studenţesc | FC Sportul Studenţesc Bucureşti
+Sportul Studențesc București, 1916,  București
+  | Sportul | Sportul Studențesc
+  | FC Sportul Studențesc | FC Sportul Studențesc București
 
 AS Progresul București,   1944,  București
   | Progresul | Progresul București
   | FC Progresul București | Fotbal Club Progresul București
-  | Naţional Bucureşti | FC Naţional Bucureşti
+  | Național București | FC Național București
 # The team was founded in 1944 as B.N.R. București,
 #   being the team of the National Bank of Romania (B.N.R.)
 
@@ -48,7 +72,7 @@ U Cluj,       Cluj
 Astra Giurgiu,   Giurgiu
   | Astra | FC Astra Giurgiu
   | AFC Astra Giurgiu
-  | Astra Ploieşti
+  | Astra Ploiești
 # name history:
 # 1945 Astra Română Ploiești
 # 1959 Rafinorul Ploiești
@@ -62,26 +86,24 @@ Astra Giurgiu,   Giurgiu
 
 
 FC Petrolul Ploiești, Ploiești
-  | Petrolul | Petrolul Ploiesti | Petrolul Ploiești
-  | FC Petrolul Ploieşti
+  | Petrolul | Petrolul Ploiești
   | Petrolul 52
   | Asociația Clubul Sportiv Petrolul 52
 
 
 Ceahlăul Piatra Neamț,  Piatra Neamț
-  | Ceahlaul | Ceahlaul Piatra Neamt | CSM Ceahlăul Piatra Neamț
+  | Ceahlăul | CSM Ceahlăul Piatra Neamț
 Concordia Chiajna,   Chiajna
   | Concordia | CS Concordia Chiajna
 FC Vaslui,   Vaslui
   | Vaslui
 Gaz Metan Mediaș,   Mediaș
-  | Gaz Metan | Gaz Metan Medias
+  | Gaz Metan
   | CS Gaz Metan Mediaș
-  | CS Gaz Metan Mediaş  ## todo/check: unaccent ro - auto-generate with cedilla from with ...
 
 Gloria Bistrița,    Bistrița
-  | Bistrita | Gloria Bistrita
-  | ACF Gloria 1922 Bistriţa
+  | Bistrita
+  | ACF Gloria 1922 Bistrița
 
 
 
@@ -130,8 +152,7 @@ AFC Turris-Oltul,  1965,  Turnu Măgurele
   | Turris Turnu Măgurele | Turris-Oltul Turnu Măgurele
 
 FC Botoșani, Botoșani
-  | FC Botoşani   ### !!!!!
-  | Botoşani
+  | Botoșani
   | Fotbal Club Botoșani
 
 FC Hermannstadt,   Hermannstadt
@@ -141,33 +162,30 @@ Săgeata Năvodari, Năvodari
   | Năvodari | AFC Săgeata Năvodari
 
 Oțelul Galați,  Galați
-  | Oţelul
-  | Oțelul   ### !!!!!!!
+  | Oțelul
   | ASC Oțelul Galați
   | FC Oțelul Galați
-  | SC Oţelul Galaţi
+  | SC Oțelul Galați
 
 Pandurii Târgu Jiu,  Târgu Jiu
   | Pandurii | Pandurii Tg Jiu | CS Pandurii Târgu Jiu
 
 
 FC Politehnica Iași,   Iași
-  | Poli Iasi | Poli Iași | Politehnica Iași
+  | Poli Iași | Politehnica Iași
   | CSM Politehnica Iași     ## check - older name?
   | CSM Poli. Iași
   | CSMS Iasi | CSM Studențesc Iași
-  | CSM Politehnica Iaşi   ## todo/check: unaccent ro - auto-generate with cedilla from with ...
-  | Politehnica Iaşi
-  ## add alternate speplling with l (small letter l)
-  | CSMS laşi | Politehnica laşi | FC Politehnica lași
-  ##  | CSMS Iașilaşi     -- todo/check: typo?  l is a small letter l ?
+  ## add alternate spelling with l (small letter l)
+  | CSMS lași | Politehnica lași | FC Politehnica lași
+  ##  | CSMS Iașilași     -- todo/check: typo?  l is a small letter l ?
 # note: This article - FC Politehnica Iași (2010) - is about the football club
 # established in 2010. For the dissolved club, see FC Politehnica Iași (1945).
 # For other uses, see Politehnica Iași.
 
 
 Poli Timișoara, Timișoara
-  | Timişoara | ACS Poli Timișoara
+  | Timișoara | ACS Poli Timișoara
   | FC Politehnica Timișoara     # champs (1): 2009/10
   | Politehnica Timișoara
   | FC Timișoara
@@ -176,11 +194,10 @@ Sepsi Sfântu Gheorghe,   Sfântu Gheorghe
   | Sepsi | Sepsi Sf. Gheorghe | Sepsi OSK
 
 ASA Târgu Mureș (2008-2018),    Târgu Mureș
-  | ASA Târgu Mureş    ### check !!!!! - why different??
-  | Târgu Mureș  | Târgu Mureş
-  | ASA Tîrgu Mureş
-  | Tîrgu Mureş        ##  Tîrgu Mureş
-  | FCM Târgu Mureş
+  | Târgu Mureș
+  | ASA Tîrgu Mureș
+  | Tîrgu Mureș
+  | FCM Târgu Mureș
 # in 2008 founded as FCM Târgu Mureș
 # In 2013, the club changed its name from
 # Fotbal Club Municipal (FCM) to Asociația Sportivă Ardealul (ASA).
@@ -279,10 +296,10 @@ FC Extensiv Craiova (1949-2013),    Caracal
   | FC Caracal
   | Extensiv
 
-FC Victoria Brăneşti (1968-2012),   Brăneşti
-  | Victoria Brăneşti
+FC Victoria Brănești (1968-2012),   Brănești
+  | Victoria Brănești
 
 CSU Voința Sibiu (2007-2012),   Sibiu
-  | Voinţa Sibiu
+  | Voința Sibiu
 
 

@@ -98,7 +98,6 @@ NK Zadar, Zadar
 
 NK Međimurje Čakovec,   Čakovec
   | Međimurje | NK Međimurje
-  | Medimurje   ## todo/fix: auto-add variant!!!
 
 NK Kamen Ingrad (1929-2008),  Velika
   | Kamen Ingrad
