@@ -9,10 +9,9 @@ FK RFS,  Riga
   | FC RFS
 
 
-Riga FC,         Riga
+Rīga FC,         Riga
   | Riga | FC Riga
-  | FK Rīga
-  | Rīga FC
+  | FK Rīga     ### always use Rīga not Riga - why? why not?
 
 
 FS METTA,        Riga

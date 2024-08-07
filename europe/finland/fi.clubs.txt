@@ -74,8 +74,8 @@ FC Reipas Lahti,  Lahti   # champs (3): 1971/72 1968/69 1964/65
 
 
 JJK Jyväskylä,     Jyväskylä
-  | JJK | JJK Jyvaskyla
-  | Jyvaskyla JK
+  | JJK
+  | Jyväskylä JK
 
 Tampere United,      Tampere
 

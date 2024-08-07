@@ -129,7 +129,6 @@ Zawisza Bydgoszcz,  Bydgoszcz
 
 Raków Częstochowa, 1921, @	Raków Municipal Stadium,  Częstochowa
   | Raków | RKS Raków | RKS Raków Częstochowa
-  | Raków Czestochowa   ## todo/fix: check unaccent for Czę
   | KS Raków Częstochowa
   | Robotniczy Klub Sportowy Raków Częstochowa
   | Rakow Tschenstochau [de]

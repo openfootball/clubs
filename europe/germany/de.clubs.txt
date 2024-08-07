@@ -217,7 +217,7 @@ SC Paderborn 07,  1907,      Paderborn
 Rot Weiss Ahlen,    Ahlen
   | Ahlen
 Rot-Weiß Oberhausen,   Oberhausen
-  | Oberhausen | Rot-Weiss Oberhausen
+  | Oberhausen        ## note - Rot-Weiss Oberhausen (auto-match via unaccent)
 SF Siegen,            Siegen
   | Siegen | Sportfreunde Siegen
 Wuppertaler SV,         Wuppertal
@@ -361,7 +361,7 @@ VfV Hildesheim,     Hildesheim
 
 BW Lohne,   Lohne
   | Blau-Weiß Lohne
-  | TuS Blau-Weiss Lohne
+  | TuS Blau-Weiß Lohne
 
 BSV SW Rehden, Rehden
   | BSV Schwarz-Weiß Rehden
@@ -424,7 +424,7 @@ Hertha BSC, 1892,            	Berlin
 Tennis Borussia Berlin, Berlin
   | TB Berlin | TeBe Berlin
 Blau-Weiß 90 Berlin (-1992), Berlin
-  | Blau-Weiss 90 Berlin
+  ## note - Blau-Weiss 90 Berlin  (auto-match via unaccent)
 SC Tasmania 1900 Berlin (-1973), Berlin
   | Tasmania Berlin | Tasmania 1900 Berlin
   | SV Tasmania Berlin

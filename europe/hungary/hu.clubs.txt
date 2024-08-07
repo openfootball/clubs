@@ -87,9 +87,6 @@ Győri ETO FC, 1904,     Győr
   | Rába ETO Győr        # champs (2): 1984..1982 (2)
   | ETO Győr | ETO FC Győr | ETC FC
   | Egyetértés Torna Osztály Futball Club Győr
-  | Gyori ETO       ## FIX: auto-add variant!!!
-  | Raba ETO Gyor   ## FIX: auto-add variant!!!
-  | ETO Györ        ## fix: auto-add variant!!!
 
 Gyirmót FC Győr, 1993, @ Alcufer Stadion, Győr
    | Gyirmót Football Club Győr
@@ -120,12 +117,9 @@ Zalaegerszegi TE, 1920, @ ZTE Aréna
 
 Diósgyőri VTK,  1910, @ DVTK, Miskolc (Diósgyőr)
   | Diósgyőr
-  | Diósgyöri VTK
   | Diósgyőri Vasgyárak Testgyakorló Köre
   | Diósgyőr-Vasgyári Testgyakorlók Köre
-  | Diósgyöri Miskolc
-  | Diósgyör
-  | Diósgyör VTK
+  | Diósgyőri Miskolc
 
 Mezőkövesd Zsóry SE, 1975, @ Mezőkövesdi Városi Stadion
   | Mezőkövesd | Mezőkövesd-Zsóry
@@ -169,7 +163,6 @@ Békéscsaba 1912 Előre, 1912,  Békéscsaba
   | Békéscsaba | Békéscsaba Előre
   | Békéscsaba 1912 Előre SE
   | Békéscsabai Előre
-  | Bekescsabai Elore   ## todo/fix: auto-add variant!!!
   | Békéscsabai Előre FC | Békéscsabai EFC
 
 Pápai FC (1995-2015),  Pápa

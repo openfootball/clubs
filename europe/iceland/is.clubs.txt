@@ -42,21 +42,21 @@ Grótta,   Seltjarnarnes
 
 ÍA Akranes,   Akranes
   | ÍA | Íþróttabandalag Akraness
-FH Hafnarfjörður,  Hafnarfjörður    # note/fix: auto-change Hafnarfjörður => Hafnarfjördur
-  | FH | FH Hafnarfjördur
+FH Hafnarfjörður,  Hafnarfjörður    # note - Hafnarfjördur (auto-match via unaccent)
+  | FH
   | FH Hafnarfjardar
 
-Breiðablik,          Kópavogur        # note/fix: Breidablik - auto-change ð to d
-  | Breidablik
-  | UMF Breidablik | Ungmennafélag Breiðablik
+Breiðablik,          Kópavogur
+  | UMF Breiðablik | Ungmennafélag Breiðablik
   | Breiðablik Kópavogur
+  # note - Breidablik (auto-match via unaccent -  auto-change ð to d)
 
 ÍBV Vestmannaeyjar,  Vestmannaeyjar
   | ÍBV
   | ÍB Vestmannaeyja  # champs (3): 2000..1998 (2) 1980/81
 
 Stjarnan,  1960,      Garðabær
-  | Stjarnan Garð. | Stjarnan Garðab.  | Stjarnan Gardab.   # note/fix: auto-change ð to d
+  | Stjarnan Garð. | Stjarnan Garðab.
   | UMF Stjarnan
   | Stjarnan Garðabær
   | Stjarnan FC

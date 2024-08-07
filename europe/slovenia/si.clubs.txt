@@ -14,10 +14,19 @@ NK Bravo, 2006,  Ljubljana
 NK Maribor, Maribor
   | Maribor
 
-ND Mura 05
+
+NŠ Mura,    Murska Sobota
+  | Nogometna šola Mura   # en - Mura Football School
   | Mura
-  | NS Mura   ## check if same as ND Mura 05??
-  | NŠ Mura
+
+ND Mura 05 (2005-2013),   Murska Sobota
+  | Nogometno društvo Mura 05
+  | Mura 05
+## The club emerged after the dissolution of NK Mura
+
+NK Mura (1924-2005), Murska Sobota
+  | Nogometni klub Mura   # en - Mura Football Club
+
 
 FC Koper
   | Koper

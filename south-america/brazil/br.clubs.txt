@@ -74,7 +74,7 @@ São José, 1933,  São José
   | São José Esporte Clube
   | São José EC
 
-Grêmio Novorizontino,  2010,  Novo Horizonte  # São Paulo    
+Grêmio Novorizontino,  2010,  Novo Horizonte  # São Paulo
   | Novorizontino
   | Novorizontino SP
 # note - Not to be confused with Grêmio Esportivo Novorizontino!!
@@ -82,15 +82,15 @@ Grêmio Novorizontino,  2010,  Novo Horizonte  # São Paulo
 #  which folded in 1999.
 
 
-Mirassol FC SP,  1925,   Mirassol  # São Paulo 
+Mirassol FC SP,  1925,   Mirassol  # São Paulo
  | Mirassol Futebol Clube,
  | Mirassol
- 
 
-Ituano FC SP,  1947,  Itu   # São Paulo 
+
+Ituano FC SP,  1947,  Itu   # São Paulo
   | Ituano FC
   | Ituano Futebol Clube | Ituano
-  
+
 
 
 == Rio de Janeiro ==
@@ -120,7 +120,7 @@ America RJ, 1904,  Mesquita
 == Minas Gerais ==
 Atlético MG,    Belo Horizonte
   | Atl. Mineiro | Atlético Mineiro
-  | CA Mineiro | C Atlético Mineiro 
+  | CA Mineiro | C Atlético Mineiro
   | Clube Atlético Mineiro
   | Club Atlético Mineiro
   | Atletico-MG | Atlético/MG
@@ -148,7 +148,7 @@ Betim FC, 2006,   Betim
 
 == Rio Grande do Sul ==
 Grêmio RS,                     Porto Alegre
-  | Gremio | Grêmio | Grêmio FBPA | Grêmio Foot-Ball Porto Alegrense
+  | Grêmio | Grêmio FBPA | Grêmio Foot-Ball Porto Alegrense
   | Grêmio PA | Grêmio Porto Alegre
 Internacional Porto Alegre,    Porto Alegre
   | Internacional | SC Internacional | Internacional RS | Sport Club Internacional
@@ -164,7 +164,7 @@ Esporte Clube Juventude, 1913, Caxias do Sul
 
 Ypiranga FC,   Erechim
   | Ypiranga Futebol Clube
-  | Ypiranga de Erechim 
+  | Ypiranga de Erechim
   | Ypiranga
   | Ypiranga FC RS
 
@@ -245,7 +245,7 @@ EC Bahia,            Salvador
 == Goiás ==
 Goiás EC,       Goiânia
   | Goiás | Goiás EC GO | Goiás Esporte Clube
-  | Goiás GO     # Goiás - GO 
+  | Goiás GO     # Goiás - GO
 Atlético GO,   Goiânia
   | Atl. Goianiense | Atlético Goianiense
   | AC Goianiense | Atlético Clube Goianiense

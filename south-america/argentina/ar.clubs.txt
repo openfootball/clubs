@@ -7,17 +7,17 @@
 All Boys,           Buenos Aires
   | Club Atlético All Boys
 Argentinos Juniors,  Buenos Aires
-  | Argentinos | Argentinos Jrs 
+  | Argentinos | Argentinos Jrs
   | Argentinos Jun | Arg. Juniors
   | Asociación Atlética Argentinos Juniors
   | AA Argentinos Juniors
 
 Boca Juniors,       Buenos Aires
-  | Boca | Boca Jrs 
+  | Boca | Boca Jrs
   | CA Boca Juniors
   | Club Atlético Boca Juniors
 River Plate,        Buenos Aires
-  | River | CA River Plate 
+  | River | CA River Plate
   | Club Atlético River Plate
   | CA River Plate (Buenos Aires)
 
@@ -25,10 +25,10 @@ San Lorenzo,        Buenos Aires
   | San Lorenzo de Almagro
   | CA San Lorenzo | CA San Lorenzo de Almagro | Club Atlético San Lorenzo de Almagro
 Vélez Sarsfield,    Buenos Aires
-  | Vélez | Vélez Sarsf | Velez Sarsfield | CA Vélez
+  | Vélez | Vélez Sarsf | CA Vélez
   | CA Vélez Sarsfield | Club Atlético Vélez Sarsfield
 Huracán,            Buenos Aires
-  | CA Huracán 
+  | CA Huracán
   | Club Atlético Huracán
 Nueva Chicago,   Buenos Aires
   | Club Atlético Nueva Chicago
@@ -152,7 +152,7 @@ Newell's Old Boys, Rosario
   | CA Newell's Old Boys | Club Atlético Newell's Old Boys
 Rosario Central,  Rosario
   | Rosario Cent. | Rosario Cen.
-  | CA Rosario Central 
+  | CA Rosario Central
   | Club Atlético Rosario Central
 Tiro Federal, 1905,  Rosario
   | Tiro Federal de Rosario
@@ -192,7 +192,7 @@ Godoy Cruz,  1921,  Mendoza       # Godoy Cruy is a city in Greater Mendoza
   | CD Godoy Cruz Antonio Tomba
   | CD Godoy Cruz AT
   | Godoy Cruz (Mendoza)
-  
+
 Gimnasia y Esgrima de Mendoza,   Mendoza
   | Gimnasia (Mendoza)
   | Gimnasia y Esgrima | Club Gimnasia y Esgrima
