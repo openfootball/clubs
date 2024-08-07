@@ -43,6 +43,7 @@ FC Ordino, Ordino
   | Ordino
 
 FC Encamp, 1950,   Encamp
+  | Encamp
 
 FS La Massana
 
@@ -53,9 +54,13 @@ FC Pas de la Casa,  El Pas de la Casa   # in Encamp parish
 
 
 Constellació Esportiva (1998-2000),   Andorra la Vella
+  | Constel·lació
+  | Constellació
+
 
 CE Principat (1989-2015),   Andorra la Vella
   | Club Esportiu Principat
+  | Principat
 
 
 

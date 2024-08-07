@@ -66,15 +66,22 @@ ND Primorje, 2011,  Ajdovščina
 
 
 
-MNK Izola,  1996,  Izola
+MNK Izola,  1996,  	@ Izola City Stadium, Izola
   | Mladinski Nogometni Klub Izola
+  | Izola | NK Izola
+
 
 NK Izola (1923-1996),  Izola
+  | Izola
   | Nogometni Klub Izola
 # Note: For the currently active club, see MNK Izola
+## todo/fix - use  NK Izola (-1996) and/or NK Izola (1996)
+##    as canonical name - why? why not?
+##   check if possible NK Izola and NK Izola (1923-1996)
+#
+#  Izola played in the 1992–93 UEFA Cup (europa_1992-93), losing to Benfica
 
 NK Rogaška,   Rogaška Slatina
- | Nogometni klub Rogaška 
+ | Nogometni klub Rogaška
  | Rogaška
- 
- 
+

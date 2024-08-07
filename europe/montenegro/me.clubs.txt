@@ -27,6 +27,7 @@ FK Bokelj
   | Bokelj | Bokelj Kotor
 FK Lovćen
   | Lovćen Cetinje
+  | Lovćen
 FK Iskra
   | Iskra
 

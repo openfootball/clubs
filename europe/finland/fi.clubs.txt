@@ -24,6 +24,7 @@ Finnairin Palloilijat Helsinki (1965-1998), Helsinki
   | Finnairin Palloilijat
 
 FC Jokerit (1999-2004),   Helsinki
+  | Jokerit
 
 IF Gnistan,   Helsinki (Oulunkylä)
   | Gnistan
@@ -169,5 +170,8 @@ Salon Palloilijat,    Salo
 
 AC Vantaan Allianssi (2002-2006),  Vantaa
   | AC Allianssi
+  | Allianssi
+
+
 
 

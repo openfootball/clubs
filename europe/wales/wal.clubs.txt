@@ -16,7 +16,7 @@ Llanelli AFC, 1896,  Llanelli
 Cefn Druids AFC
   | Cefn Druids | NEWI Cefn Druids    ## NEWI = North East Wales Institute of Higher Education
 Neath FC
-  |  Neath Athletic
+  | Neath |  Neath Athletic
 
 Port Talbot Town FC
   | Port Talbot
@@ -31,6 +31,7 @@ Bala Town FC
 Llandudno FC, 1988,    Llandudno
   | Llandudno Town FC
   | Llandudno Town
+  | Llandudno
 
 Newtown AFC
   | Newtown
@@ -98,6 +99,7 @@ Cwmbrân Town AFC,    Cwmbrân
   | Cwmbrân
 
 Prestatyn Town FC,  1910,  Prestatyn
+  | Prestatyn
 
 Afan Lido FC, 1967,   Port Talbot
   | Afan Lido

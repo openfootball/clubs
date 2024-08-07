@@ -23,14 +23,14 @@ Fjölnir Reykjavík, Reykjavík
 
 Throttur Reykjavik, Reykjavík
  | Þróttur Reykjavík
- | Knattspyrnufélagið Þróttur 
+ | Knattspyrnufélagið Þróttur
 
 
 Leiknir Reykjavík,  1973  Reykjavík (Breiðholt)
  | Leiknir R.
  | Leiknir
  | Íþróttafélagið Leiknir
- 
+
 
 ÍR Reykjavík,  Reykjavík
  | Íþróttafélag Reykjavíkur
@@ -70,9 +70,10 @@ HK Kópavogs,   Kópavogur
 KA Akureyri,   Akureyri
   | KA
   | Knattspyrnufélag Akureyrar     # "Akureyri Football Club"
-  
+
 Thór Akureyri,    Akureyri        # note: Þór Akureyri - auto-change Þ to Th - why? why not
   | Þór Akureyri
+  | Thór
 
 Keflavík ÍF,      Reykjanesbær
   | Keflavík

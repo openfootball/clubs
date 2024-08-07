@@ -22,7 +22,7 @@ FK Dukla Praha, 1958,  Praha
 
 ## formed 1893 ??
 SK Slavia Praha, 1892,  @ Sinobo Stadium, Praha
-  | Slavia Praha 
+  | Slavia Praha
   | Sportovní klub Slavia Praha
   | Sportovní klub Slavia Praha fotbal
   | SK Slavia Prague [en] | Slavia Prague [en]
@@ -39,6 +39,7 @@ Bohemians Praha 1905, 1905,  @ Ďolíček, Praha
 
 FK Viktoria Žižkov, 1903, Praha (Žižkov)
   | Viktoria Žižkov
+  | Žižkov
 
 
 FK Mladá Boleslav, 1902,  @ Lokotrans Aréna,  Mladá Boleslav   ## Central Bohemia
@@ -46,7 +47,7 @@ FK Mladá Boleslav, 1902,  @ Lokotrans Aréna,  Mladá Boleslav   ## Central Boh
 
 
 Viktoria Plzeň, 1911, @ Doosan Aréna,  Plzeň      ## Plzeň
-  | Plzeň | FC Viktoria Plzeň 
+  | Plzeň | FC Viktoria Plzeň
   | Fotbal Club Viktoria Plzeň
   | Football Club Viktoria Plzeň
   | Vikt. Pilsen [de] | Viktoria Pilsen [de]
@@ -62,7 +63,7 @@ FK Jablonec, 1945,  @ Střelnice,  Jablonec nad Nisou     ## Liberec
   | Jablonec
   | Fotbalový klub Jablonec
   | FK Baumit Jablonec      ## check - $$$ Baumit is a sponsor?
-  
+
 FC Baník Ostrava, 1922, @ Městský stadion v Ostravě-Vítkovicích,  Ostrava      ## Moravian-Silesian
   | Baník | Baník Ostrava
   | Fotbalový club Baník Ostrava
@@ -110,7 +111,7 @@ FC Zbrojovka Brno, 1913, @ Městský fotbalový stadion,   Brno     ## South Mor
 FC LeRK Brno  (1910-1995),  Brno
   | Spartak Brno KPS
 
-SK Líšeň, Brno 
+SK Líšeň, Brno
  | SK Líšeň Brno
 
 
@@ -126,7 +127,7 @@ SK Dynamo České Budějovice, 1905, @ Střelecký ostrov
   | Dynamo České Budějovice
   | České Budĕjov. | České Budějovice
   | SK Dynamo Budweis [de]
-  | Sportovní klub Dynamo České Budějovice  
+  | Sportovní klub Dynamo České Budějovice
 
 
 FK Ústí nad Labem, Ústí nad Labem
@@ -154,6 +155,7 @@ SK Kladno,  Kladno
 FK Drnovice (1932-2006), Drnovice
   | 1. FK Drnovice
   | Petra Drnovice
+  | Drnovice
 
 
 FK Pardubice,  2008,  Pardubice   ## Pardubice
@@ -179,14 +181,14 @@ FC Silon Táborsko, Tábor
   | FK MAS Táborsko
   | FK Táborsko
   | MAS Táborsko
-# in 2022, the club got a new main sponsor and 
+# in 2022, the club got a new main sponsor and
 # changed its name to FC Silon Táborsko
 # ?–2011: FK Spartak MAS Sezimovo Ústí
 # 2012–2022: FC MAS Táborsko
 # 2022–: FC Silon Táborsko
 
 
-MFK Chrudim, Chrudim 
+MFK Chrudim, Chrudim
   | Městský fotbalový klub Chrudim
   | AFK Chrudim
 
@@ -197,20 +199,20 @@ Hanácká Slávia Kroměříž, 1919,   Kroměříž
 FK Varnsdorf,  1938, Varnsdorf
   | Fotbalový klub Varnsdorf
 
-  
+
 FK Příbram, 1928, @ Na Litavce,  Příbram     ## Central Bohemia
   | Příbram
   | Fotbalový klub Příbram
   | FK Viagem Příbram
   | 1. FK Příbram
   | 1. Fotbalový klub Příbram
-# name history  
+# name history
 # 2008–2022:  1. FK Příbram
 
 
 MFK Vyškov,  1921, Vyškov
   | Městský fotbalový klub Vyškov
-# name history 
+# name history
 # 1966–1993: TJ Vyškov
 # 1993–2011: SK Rostex Vyškov
 # 2012–: MFK Vyškov

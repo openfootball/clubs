@@ -35,7 +35,7 @@ CF Rayo Majadahonda, 1976,  Majadahonda
 == Andalucía ==
 
 Málaga CF,   Málaga
-  | Málaga  
+  | Málaga
   | Málaga Club de Fútbol
   | CF Málaga | FC Málaga
 ii) Málaga CF B
@@ -333,6 +333,7 @@ UD Salamanca
 Real Racing Santander,  1913,   Santander
   | Santander | Racing Santander | Real Racing Club de Santander
   | Real Racing Club
+  | Racing
 
 Terrassa FC
   | Terrassa
@@ -391,6 +392,6 @@ SD Amorebieta,  Amorebieta-Etxano  # in the Basque Country
    | Amorebieta
    | Sociedad Deportiva Amorebieta
 
-UD Ibiza 
+UD Ibiza
   | Ibiza
   | Unión Deportiva Ibiza

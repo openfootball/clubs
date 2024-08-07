@@ -95,6 +95,7 @@ PFC Montana, 1921,    Montana
 FC Pirin Blagoevgrad, 1922,   Blagoevgrad   ## note: merged two clubs in 2009; PFC Pirin Blagoevgrad only "historic" name
   | Blagoevgrad | PFC Pirin Blagoevgrad
   | Pirin Blagoevgrad
+  | Pirin
 
 FC Dunav Ruse, 1949,   Ruse
   | Dunav | Dunav Ruse
@@ -152,6 +153,7 @@ PFC Marek Dupnitsa,   1919, Dupnitsa
   | FC Marek | FC Marek Dupnitsa
   | Marek Dupnitza
   | Marek Dupnitsa
+  | Marek
 
 
 Neftochimik Burgas, 1962,  Burgas
@@ -159,6 +161,7 @@ Neftochimik Burgas, 1962,  Burgas
   | PFC Neftochimic Burgas | Profesionalen Futbolen Klub Neftochimik 1962 Burgas
   | FK Neftochimik
   | PFC Naftex Burgas
+  | Naftex
 # name history:
 #  1962–1964 Stroitel
 #  1964–1986 Neftochimik
@@ -168,7 +171,7 @@ Neftochimik Burgas, 1962,  Burgas
 #  2009– Neftochimik
 
 FC Shumen 1929 (-2016),  Shumen
-  | FC Shumen
+  | Shumen | FC Shumen
 # in the summer of 2013 founded as an alternative to the other local club PFC Shumen 2010, which had been struggling financially for a number of years.
 # Note: Not to be confused with PFC Shumen 2010
 

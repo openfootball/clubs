@@ -11,6 +11,7 @@ Bakı FK,   Baku
   | Inter Baku
 
 FK Shafa Baku (1997-2005),  Baku
+  | Shafa | FK Shafa
   | Shafa Baku | Safa Baku
   | FK Şäfa
 
@@ -49,11 +50,13 @@ Xäzär Länkäran FK
   | Khazar Lankaran   # champs (1): 2007/08
 
 Olimpik-Şüvälan PFK
+  | Olimpik-Şüvälan
 
 Simurq PFK (2005-2015),  Zaqatala
   | Simurq PFC
   | Simurq PIK
   | Simurq Zaqatala PFK
+  | Simurq
 
 Gabala SC
   | Gabala
@@ -101,7 +104,9 @@ Araz FK Naxçıvan,     Nakchivan
 
 Karvan FK (2004-2014),   Yevlakh
   | FK Karvan Evlakh
+  | Karvan
 
 Khazri Buzovna (1994-1998),  Buzovna
-  |  FK Khazri Buzovna
+  | FK Khazri Buzovna
+  | Khazri
 

@@ -44,6 +44,7 @@ KF Vllaznia,  1919,   Shkodër
 
 KS Besa
   | Besa Kavajë
+  | Besa
 KS Teuta,   Durrës
   | Teuta | Teuta Durrës
   | KF Teuta | KF Teuta Durrës
@@ -84,9 +85,11 @@ AF Elbasani,  Elbasan
 
 KF Tomori, 1923,  Berat
   | FK Tomori
+  | Tomori
 
 KF Apolonia, 1925,  Fier
   | KF Apolonia Fier
+  | Apolonia
 
 KF Egnatia, 1934,  Rrogozhinë
   | Egnatia

@@ -36,6 +36,7 @@ BK Frem, 1886,     København (Valby-Sydhavnen)
   | Boldklubben Frem
   | Frem København | BK Frem København
   | BK Frem Copenhagen
+  | Frem
 
 
 Akademisk Boldklub,  Gladsaxe   # north of Copenhagen
@@ -75,6 +76,7 @@ FC Midtjylland, 1999,   Herning
 
 Ikast FS (1935-1999),  Ikast
   | IFS | Ikast Forenede Sportsklubber
+  | Ikast
 # In 1999 merged with Herning Fremad to found FC Midtjylland.
 
 
@@ -147,6 +149,7 @@ Køge BK (1927-2009),     Køge     # in Zealand
 
 Holbæk B&I, 1931,     Holbæk   # on Zealand
   | Holbæk Bold- & Idrætsforening
+  | Holbæk
 
 
 FC Fredericia,  Fredericia
@@ -167,6 +170,7 @@ B 1901 Nykøbing (1901-1994),  Nykøbing Falster
 
 Næstved BK,     Næstved
   | Næstved IF
+  | Næstved
 
 
 Hillerød Fodbold,   Hillerød

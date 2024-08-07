@@ -222,6 +222,7 @@ SF Siegen,            Siegen
   | Siegen | Sportfreunde Siegen
 Wuppertaler SV,         Wuppertal
   | Wuppertaler
+  | Wuppertal
 Rot-Weiss Essen,     Essen
   | Essen | RW Essen | SC Rot-Weiss Essen
 ##  - 2 (1): 1993-94
@@ -399,6 +400,7 @@ FFC Victoria 91,   Frankfurt an der Oder
 FC Stahl Brandenburg,    Brandenburg an der Havel
   | Stahl Brandenburg
   | BSV Brandenburg | BSV Stahl Brandenburg
+  | Brandenburg
 
 Union Fürstenwalde,       Fürstenwalde/Spree
   | U. Fürstenwalde | FSV Union Fürstenwalde

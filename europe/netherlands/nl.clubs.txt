@@ -32,6 +32,7 @@ SC Telstar,     Velsen
 HFC Haarlem (1889-2010),  Haarlem
   | Haarlemsche Football Club Haarlem
   | Haarlem FC | FC Haarlem
+  | Haarlem
 
 
 FC Volendam, Volendam

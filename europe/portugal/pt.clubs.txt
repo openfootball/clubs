@@ -123,7 +123,7 @@ SC Braga, Braga
 FC Vizela,  1939,  Vizela
   | Futebol Clube de Vizela
   | Vizela
- 
+
 CD Tondela, Tondela
   | Tondela
   | Clube Desportivo de Tondela
@@ -218,7 +218,7 @@ AC Marinhense,  Marinha Grande
 
 
 CU Fabril Barreiro, 1937, Barreiro
-  | Fabril Barreiro | Fabril do Barreiro
+  | Fabril | Fabril Barreiro | Fabril do Barreiro
   | GD Fabril | Grupo Desportivo Fabril
   | GD CUF Barreiro
   | CUF Barreiro | CUF do Barreiro    # Companhia União Fabril

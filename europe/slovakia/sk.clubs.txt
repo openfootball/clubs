@@ -29,11 +29,11 @@ FK Senica
 
 
 FC Košice, 2018,   Košice
-  | Football Club Košice 
+  | Football Club Košice
 # note: Not to be confused with FC VSS Košice.
-#   merged into a new club with FK Košice-Barca. 
-# From a historical and traditional point of view, 
-# the club follows the first football club from Košice, 
+#   merged into a new club with FK Košice-Barca.
+# From a historical and traditional point of view,
+# the club follows the first football club from Košice,
 # Kassai Athletikai Club from 1903, later known as FC VSS Košice,
 #   but from a legal point of view it is a new club with a clean slate.
 
@@ -56,6 +56,7 @@ FC Lokomotíva Košice, 1946,  Košice
 Dukla Banská Bystrica
   | Banská Bystrica
   | MFK Dukla Banská Bystrica
+  | FK Dukla Banská Bystrica
 
 FC Nitra
   | Nitra
@@ -92,7 +93,8 @@ FK Poprad, 1906, Poprad
 
 MŠK Púchov, 1920,  Púchov
   | Mestský Športový Klub Púchov
-  | Matador Púchov | FK Matador Púchov
+  | $$Matador$$ Púchov | FK $$Matador$$ Púchov
+  | Púchov
 # In July 2006, lost its main sponsor, Matador a.s.,
 #  and was renamed FK Púchov
 #  name history:
@@ -103,9 +105,11 @@ MŠK Púchov, 1920,  Púchov
 
 1. FC Tatran Prešov,  1898, Prešov
   | Tatran Prešov
+  | Tatran
 
 
 FC Senec (1994-2008), Senec
+  | Senec
 # in 2007/2008 season merged with FK DAC 1904 Dunajská Streda.
 
 

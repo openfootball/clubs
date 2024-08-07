@@ -98,9 +98,9 @@ FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
 
 FC Anzhi Makhachkala, 1991,  Makhachkala      ## Dagestan (Republic of) >  North Caucasian (Federal District)
   | Anzhi | Anzhi Makhachkala | FK Anzi Makhackala
-  | Anji | FC Anji Makhachkala
+  | Anji | FC Anji | FC Anji Makhachkala
 
-FK Dynamo Makhachkala,  1927, Makhachkala 
+FK Dynamo Makhachkala,  1927, Makhachkala
   | Dynamo Makhachkala
 
 
@@ -124,10 +124,11 @@ Arsenal Tula,  Tula
   | Arsenal | FC Arsenal Tula
 
 Chernomorets Novorosisk, 1907, Novorosisk
-  | Chernomorets | FC Chernomorets Novorossiysk
+  | Chernomorets
+  | FC Chernomorets Novorossiysk
+  | FC Chernomorets Novorossiisk
   | FC Chernomorets Krasnodarskiy Kray    # Novorossiysk is a city in Krasnodar Krai
   | Chernomorets Novorossisk
-
 
 FC Khimki,  Khimki
   | Khimki
@@ -168,7 +169,7 @@ Pari Nizhny Novgorod,  Nizhny Novgorod
   | Nizhnii Novgorod
   | Nizhny Novgorod | FC Nizhny Novgorod
   | FK Nizhny Novgorod
-# that was called FC Nizhny Novgorod from 2018 to 2022. 
+# that was called FC Nizhny Novgorod from 2018 to 2022.
 ## The club has been known under different names:
 ##   2015–2016: FC Volga-Olimpiyets Nizhny Novgorod
 ##   2016–2018: FC Olimpiyets Nizhny Novgorod
@@ -280,6 +281,7 @@ FC Tekstilshchik Kamyshin,    1958,    Kamyshin
   | Tekstilshchik Kamyshin
   | Tekstilschik Kamyshin
   | FC Rotor Kamyshin
+  | Kamyshin
 # name history:
 #  1979–1995: FC Tekstilshchik Kamyshin
 #  1996: FC Energiya-Tekstilshchik Kamyshin
@@ -291,4 +293,3 @@ FC Tekstilshchik Kamyshin,    1958,    Kamyshin
 FC Akron Tolyatti,  Tolyatti
  | FK Akron Togliatti
 
- 

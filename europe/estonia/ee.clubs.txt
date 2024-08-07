@@ -50,6 +50,7 @@ JK Nõmme Kalju
 
 JK Sillamäe Kalev
   | Sillamäe Kalev | Kalev Sillamäe
+  | Sillamäe
 
 FC Santos Tartu
   | Santos Tartu

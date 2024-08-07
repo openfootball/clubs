@@ -40,6 +40,7 @@ HNK Hajduk Split, 1911, @ Poljud,  Split
   | Hajduk Split
   | Hrvatski nogometni klub Hajduk Split
 RNK Split, Split
+  | Split
 
 
 NK Slaven Belupo, 1907, @ Gradski Stadion,    Koprivnica

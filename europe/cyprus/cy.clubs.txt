@@ -71,6 +71,7 @@ EPA Larnaca (1930-1994), Larnaca    # champs (1): 1970/71
 
 Alki Larnaca FC (1948-2014), Larnaca
   | Alki Larnaca
+  | Alki
 
 APOP/Kinyras Peyias FC
   | APOP | APOP / Kinyras
@@ -101,6 +102,7 @@ Digenis Morphou, Morphou
   | Digenis Akritas Morphou FC
   | Dighenis Akritas Morphou FC
   | Dighenis Morphou
+  | Akritas
 
 Alki Oroklini,  Oroklini
   | Alki Oroklinis

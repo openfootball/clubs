@@ -25,6 +25,7 @@ FK Kareda Kaunas (1935-2003),  Kaunas
 
 FK Inkaras Kaunas (1937-2003), Kaunas
   | FK Inkaras
+  | Inkaras
 
 
 
@@ -40,19 +41,34 @@ FK Sūduva,    Marijampolė
   | Sūduva Marijampolė | FK Sūduva Marijampolė
 
 FK Tauras
+  | Tauras
 FK Vėtra
-FC Šiauliai
+  | Vėtra
+
+
+FA Šiauliai, 2007, Šiauliai
+  | Šiauliai
+  | Football Academy Šiauliai
+
+FC Šiauliai (1995-2016), Šiauliai
+  | KFK Šiauliai    # 1995-2004 ?
+  | FK Šiauliai
+# In 2014, FK Šiauliai became FC Šiauliai
 
 
 FK Banga
   | Banga Gargzdai
+  | Banga
 FK Atlantas
   | Atlantas | Atlantas Klaipeda
 
 FK Kruoja
   | Kruoja Pakruojis | FK Kruoja Pakruojis
+  | Kruoja
 
 FK Palanga
 
 FK Mažeikiai,   Mažeikiai
+  | Mažeikiai
+
 

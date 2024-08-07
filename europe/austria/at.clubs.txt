@@ -69,6 +69,7 @@ Wiener Sport-Club,       Wien (Hernals)
 
 First Vienna FC,  1894,  Wien (Döbling)
   | Vienna | Vienna FC 1894 | First Vienna FC 1894
+  | First Vienna
 
 Floridsdorfer AC,  1904,  Wien (Floridsdorf)
   | FAC Team für Wien
@@ -589,6 +590,8 @@ Austria Klagenfurt,   @ Wörthersee Stadion, Klagenfurt
   | Sportklub Austria Klagenfurt
   | Klagenfurt   ## top club from Klagenfurt - use !! or such for piority if multiple?
   | FC Kärnten     ## todo: keep as separate club - why? why not?
+  | Kärnten
+## FC Kärnten | Kärnten  in uefa europa 2001/02, 2002/03, 2003/04
 
 
 Austria Kärnten (2007-2010), Klagenfurt

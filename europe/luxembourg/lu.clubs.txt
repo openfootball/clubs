@@ -80,7 +80,7 @@ CS Grevenmacher,   Grevenmacher
 
 UN Käerjéng 97,   Bascharage
   | Uewer Nidder Käerjéng 97
-
+  | Käerjéng
 
 FC Progrès Niederkorn,   Niederkorn
   | Progrès | P. Niederkorn
@@ -119,6 +119,7 @@ FC Mondercange, 1933,  Mondercange
 
 US Rumelange,  1908, Rumelange
   | Union Sportive Rumelange
+  | Rumelange
 
 FC Wiltz 71,   Wiltz
   | Wiltz

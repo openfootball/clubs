@@ -32,6 +32,7 @@ Kilikia FC (1992-2011),  Yerevan
 
 Zvartnots-AAL FC (1997-2003),  Yerevan
   | FC Zvartnots AAL
+  | Zvartnots
 
 
 
@@ -47,6 +48,7 @@ Ulisses FC
 
 FC Mika
   | Mika Ashtarak
+  | Mika
 FC Gandzasar
   | Gandzasar | Gandzasar FC
   | Gandzasar Kapan

@@ -27,11 +27,12 @@ FK Čukarički, 1926,   Belgrade (Čukarica)
 
 FK Bežanija,  1921,   Belgrade (New Belgrade)
   | Fudbalski Klub Bežanija
+  | Bežanija
 
 FK Novi Beograd, 1953,  Belgrade
   | FK IMT Novi Beograd
   | FK IMT | IMT
- 
+
 
 
 FK Obilić (1924-2015),  Belgrade
@@ -75,7 +76,7 @@ FK Spartak Subotica
 
 FK Radnički Niš,  1923,  Niš
   | Radnički Niš
-  
+
 FK Radnički 1923, 1923,   Kragujevac
   | FK Radnički Kragujevac
   | Radnički Kragujevac
@@ -102,14 +103,14 @@ FK Indjija
   | Indjija | FK Inđija
 
 
-FK Javor Ivanjica, 	Ivanjica	
+FK Javor Ivanjica, 	Ivanjica
   | FK Javor
   | Javor
   | FK Javor Matis Ivanjica  # use FK Javor Matis - Ivanjica ???
   | Javor-Matis
 
 FK Novi Pazar,  Novi Pazar
-  | Fudbalski klub Novi Pazar 
+  | Fudbalski klub Novi Pazar
   | Novi Pazar
 
 FK Proleter
@@ -125,9 +126,11 @@ FK Smederevo, 1924,  Smederevo
 
 FK Banat Zrenjanin (2006-2016),   Zrenjanin
   | Banat Zrenjanin
+  | Banat
 
 FK Hajduk Kula (1925-2013),   Kula
   | Hajduk Kula
+  | Hajduk
 
 
 OFK Bečej 1918,  1918,  Bečej

@@ -293,6 +293,7 @@ North Ferriby United AFC,  North Ferriby › East Yorkshire
 
 Sheffield Wednesday FC,   @ Hillsborough,  Sheffield (Owlerton) › South Yorkshire
   | Sheffield Wed | Sheffield Weds | Sheffield Wednes. | Sheffield Wednesday
+  | Sheff. Wednesday
   | The Wednesday FC   # old name before season 1929/30
   | Sheffield Wednesday Football Club
 Sheffield United FC,  @ Bramall Lane,  Sheffield (Highfield) › South Yorkshire
@@ -357,7 +358,7 @@ Oxford City FC,  1883,      Oxford (Marston)  › Oxfordshire
   | Oxford City
 
 Peterborough United FC, @ Abax Stadium,   Peterborough › Cambridgeshire
-  | Peterboro  | Peterborough | Peterborough Utd. 
+  | Peterboro  | Peterborough | Peterborough Utd.
   | Peterborough United
   | Peterborough United Football Club
 Cambridge United FC,    @ Abbey Stadium,   Cambridge › Cambridgeshire

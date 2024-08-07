@@ -5,7 +5,7 @@
 FC Dinamo Tbilisi, Tbilisi,  Tbilisi
   | Dinamo Tbilisi
   | FC Dinamo Tiflis [de]
-  
+
 FC Locomotive Tbilisi,   Tbilisi
   | Locomotive Tbilisi
   | FC Lokomotive Tbilisi
@@ -25,6 +25,7 @@ FC Zestafoni, 2014,  Zestafoni
 
 FC Margveti Zestafoni (1990-2000),  Zestafoni
   | Margveti Zestafoni
+  | Margveti
 # Margveti was declared bankrupt in 2000.
 
 
@@ -52,6 +53,7 @@ FC Dinamo Batumi
 FC Tskhinvali
   | Spartak Tskhinvali
   | Spartaki Tskhinvali
+  | Tskhinvali
 FC Sioni Bolnisi
   | Sioni
   | Sioni Bolnisi    # champs (1): 2006/07

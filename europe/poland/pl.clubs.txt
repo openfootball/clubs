@@ -42,6 +42,7 @@ KS Cracovia,  1906, @ Stadion Cracovii im. Józefa Piłsudskiego,    Kraków
 Hutnik Kraków, 1950,    Kraków (Nowa Huta)
   | KS Hutnik Nowa Huta
   | KS Hutnik Kraków
+  | Hutnik
 
 
 WKS Śląsk Wrocław, 1947, @ Stadion Miejski we Wrocławiu,    Wrocław
@@ -136,9 +137,11 @@ Raków Częstochowa, 1921, @	Raków Municipal Stadium,  Częstochowa
 
 Odra Opole, Opole
   | OKS Odra Opole
+  | Opole
 
 GKS Tychy,  Tychy
   | GKS Tychy 71
+  | Tychy
 
 Chrobry Głogów, Głogów
 

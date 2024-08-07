@@ -40,6 +40,7 @@ Csepel SC, Budapest     # champs (1): 1959/60
 
 Budapesti VSC, 1911,    Budapest (Zugló)
   | Budapesti Vasutas Sport Club
+  | BVSC
 
 
 Budafoki MTE,  1912,  @ Promontor utcai Stadion,  Budapest (Budafok)
@@ -145,11 +146,13 @@ Kaposvári Rákóczi FC
 Salgótarjáni BTC,  1920,  Salgótarján
  | Salgótarjáni Barátok Torna Club
  | Salgótarján BTC
+ | Salgótarján
 
 Pécsi MFC, 1950,   Pécs
   | PMFC | Pécsi Mecsek FC | Pécsi Mecsek Football Club
   | MSC Pécs
   | Pécsi Dózsa | Pécsi Dózsa Sport Club
+  | Pécs
 # name history:
 #  1950: Pécs (Pécsi Dózsa Sport Club)
 #  1956: Pécs (Pécs Baranya)
@@ -159,6 +162,7 @@ Pécsi MFC, 1950,   Pécs
 
 
 FC Sopron (1921-2008),  Sopron
+  | Sopron
 
 
 Békéscsaba 1912 Előre, 1912,  Békéscsaba

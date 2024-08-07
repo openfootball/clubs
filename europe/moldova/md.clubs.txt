@@ -10,6 +10,7 @@ FC Dinamo-Auto Tiraspol, Tiraspol
 
 CS Tiligul-Tiras Tiraspol (1938-2009), Tiraspol
   | FC Tiligul Tiraspol
+  | Tiligul
 
 
 FC Dacia Chișinău,  Chișinău
@@ -37,13 +38,16 @@ FC Zaria Balti
   | Zaria | Zaria Balti
 
 FC Nistru Otaci
+  | Nistru
 
 FC Saxan
   | Saxan
   | Saxan Gagauz Yeri
 
 FC Sfintul Gheorghe Suruceni
-  | Sfintul Gheorghe
+  | FC Sfintul Gheorghe | Sfintul Gheorghe
+  | FCSG
+
 
 FC Speranța Nisporeni
   | Speranța Nisporeni
@@ -62,6 +66,6 @@ FC Floresti
   | Floresti
 FC Dacia Buiucani
   | Dacia Buiucani
-  
+
 CSF Bălți
 

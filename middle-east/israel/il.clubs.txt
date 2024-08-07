@@ -13,7 +13,7 @@ Beitar Tel Aviv Bat Yam FC,  Tel Aviv       ## and Bat Yam
 
 Maccabi Jaffa, Tel Aviv
 
-Maccabi Kabilio Jaffa,  Tel Aviv 
+Maccabi Kabilio Jaffa,  Tel Aviv
 
 
 
@@ -64,15 +64,15 @@ Hapoel Ra'anana AFC, Ra'anana
 
 
 Maccabi Petah Tikva FC, Petah Tikva
-  | Maccabi Petah Tikva
+  | M. Petah Tikva | Maccabi Petah Tikva
   | Macc. Petach Tikva | Mac. Petach Tikva
-  | Maccabi Petach-Tikva FC   
+  | Maccabi Petach-Tikva FC
   | Maccabi Petach-Tikva
-  | M. Petah Tikva  
 
 
 Hapoel Petah Tikva FC,   Petah Tikva
-  | H. Petach Tikva | Hapoel Petah Tikva
+  | H. Petah Tikva | Hapoel Petah Tikva
+  | H. Petach Tikva
   | Hapoel Petach-Tikva FC     ## fix/todo: check dash(-) if fancy?!
   | Hapoel Petach-Tikva
 
@@ -139,7 +139,7 @@ Maccabi Bnei,  Reineh
 
 Maccabi Herzliya, Herzliya
 
-Hapoel Herzliya,  Herzliya  
+Hapoel Herzliya,  Herzliya
 
 
 Ihud Bnei Shefa-'Amr, Shefa-'Amr
@@ -150,8 +150,8 @@ Ironi Tiberias,   Tiberias
 
 Maccabi Ironi Kiryat Ata,  Kiryat Ata
 
-Maccabi Yavne,  Yavne 
-MS Dimona,  Dimona 
+Maccabi Yavne,  Yavne
+MS Dimona,  Dimona
 MS Kafr Qasim,  Kafr Qasim
-Tzeirei Kafr Kanna,   Kafr Kanna 
+Tzeirei Kafr Kanna,   Kafr Kanna
 

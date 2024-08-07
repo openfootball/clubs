@@ -15,11 +15,13 @@ RWD Molenbeek,  Brussels (Molenbeek)
   | FC Brussels | Brussels
   | R. Racing White Bruxelles
   | Racing White Brussels
+  | Racing
 ##  keep Molenbeek clubs separte? from wikipedia:
 ## This R.W.D.M. Brussels F.C. article is about the club dissolved in 2014.
 # For the predecessor club dissolved in 2002, see R.W.D. Molenbeek.
 # For the club continuing its traditions founded in 2015, see RWDM47.
-
+##
+## R. Racing White Bruxelles | Racing - used in uefa europa 1972/73
 
 Saint-Gilloise,  Brussels (Saint-Gilles)
   | R. Union Saint-Gilloise
@@ -43,11 +45,15 @@ K. Beerschot VA, 1899,  Antwerpen › Antwerpen › Vlaanderen               ## 
   | KFCO Wilrijk | KFCO Beerschot Wilrijk
   | Beerschot Wilrijk
   | Beerschot
+  | K. Beerschot AC
 # In 2013, KFCO Wilrijk decided to integrate the identity of
 #   Beerschot AC
 # In June 2013 K.FC.O. Wilrijk unofficially integrated
 # Beerschot AC's identity into theirs to become
 # FCO Beerschot Wilrijk
+#
+# beerschot | k. beerschot AC in uefa europa 1991-92, 1996-97,
+#                                            1998-99, 2005-06
 
 Germinal Beerschot (1920-2013),  Antwerpen › Antwerpen › Vlaanderen       ## officially declared bankrupt on 21 May 2013
   | Germinal | Germinal Ekeren
@@ -80,6 +86,7 @@ K Lierse SK,    Lier     › Antwerpen › Vlaanderen
 KRC Genk, 1988,    Genk         › Limburg › Vlaanderen
   | Genk | Racing Genk | Koninklijke Racing Club Genk
   | KFC Winterslag    ## todo: keep as separate club - why? why not?
+  | Winterslag
 # in 1988 formed by the merger of
 #  Waterschei Thor with KFC Winterslag
 
@@ -209,6 +216,7 @@ RFC Liège,  1892,  Liège
   | RC Liégeois
   | RFC de Liège | Royal Football Club de Liège
   | FC Liège
+  | Liège
 
 
 == ??? ==
@@ -224,6 +232,7 @@ KFC Lommel SK,  Lommel
 RAA Louviéroise, La Louvière
   | Louvieroise
   | RAA La Louviéroise
+  | La Louvière
 KSV Roeselare, Roeselare
   | Roeselare | SV Roeselare
 RFC Seraing, Seraing

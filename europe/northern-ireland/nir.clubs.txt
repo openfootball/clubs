@@ -72,8 +72,8 @@ Ards FC,  1900     #  champs (1): 1958/59
 
 Bangor FC,   Bangor
   | FC Bangor
+  | Bangor
   ## note: not to confuse with Bangor City in Wales!! - fix error in champs.txt!!
-
 
 Newry City AFC,  Newry
 

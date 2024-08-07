@@ -131,6 +131,7 @@ Tromsdalen UIL,  Tromsdalen
 
 Bryne FK,  1926,   Bryne
    | Bryne Fotballklubb
+   | Bryne
 
 Egersunds IK, Egersund
   | Egersund

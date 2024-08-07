@@ -156,6 +156,7 @@ Syrianska FC,   Södertälje
 
 Trelleborgs FF, Trelleborg
   | Trelleborgs
+  | Trelleborg
 
 FC Trollhättan, Trollhättan
 Husqvarna FF,    Huskvarna
@@ -176,6 +177,7 @@ IK Brage,   Borlänge
 
 Landskrona BoIS, 1915,  Landskrona
   | Landskrona Boll och Idrottsällskap
+  | Landskrona
 
 Akropolis IF, 1968,  Spånga
   | Akropolis Idrottsförening
