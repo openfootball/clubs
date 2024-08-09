@@ -6,14 +6,26 @@ FK Riteriai, 2005, Vilnius
   | FK Trakai
 # Note: Until 21 February 2019, the club was based in Trakai and was known as FK Trakai.
 
+
+FK TransINVEST,   Galinė   # in  Vilnius County
+  | TransINVEST
+  | Futbolo Klubas TransINVEST
+
+
 VMFD Žalgiris,  Vilnius
   | Žalgiris | Žalgiris Vilnius | FK Žalgiris | FK Žalgiris Vilnius | Vilnius FK Žalgiris
+
 
 FK Kauno Žalgiris,  Kaunas
   | Kauno Žalgiris
   | FK Žalgiris Kaunas
 FC Stumbras,        Kaunas
   | Stumbras | Stumbras Kaunas
+
+FC Hegelmann,   Kaunas
+  | Hegelmann
+  | Futbolo klubas Hegelmann
+
 
 FBK Kaunas,        Kaunas
   | Kaunas
@@ -71,4 +83,12 @@ FK Palanga
 FK Mažeikiai,   Mažeikiai
   | Mažeikiai
 
+
+FC Džiugas,   Telšiai
+  | Džiugas
+  | Football Club Džiugas Telšiai | Džiugas Telšiai
+
+DFK Dainava,    Alytus
+  | Dainava
+  | Dzūkija Futbolo Klubas Dainava
 

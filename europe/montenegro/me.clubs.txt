@@ -1,9 +1,14 @@
 ====================================
 =  Montenegro
 
-FK Budućnost Podgorica
+FK Budućnost Podgorica, 1925,  Podgorica
   | Budućnost | Budućnost Podgorica
   | Bud. Podgorica
+
+FK Podgorica, 1970,   Podgorica
+  | Fudbalski klub Podgorica
+  # formerly known as OFK Mladost 1970
+
 
 FK Mogren (1920-2016),  Budva
   | FK Mogren Budva

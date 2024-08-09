@@ -48,3 +48,17 @@ Marsa FC, 1920,  Marsa
 Żurrieq FC, 1949,  Żurrieq
   | Żurrieq | FC Żurrieq
 
+
+Melita FC,  St. Julian's
+  | Melita
+  | Melita Football Club
+
+St. Patrick FC Żabbar,  1912, Żabbar
+  | Saint Patrick FC
+  | Żabbar St. Patrick FC
+  | St. Patrick Football Club
+  | Saint Patrick FC Żabbar
+
+Naxxar Lions FC,   Naxxar
+  | Naxxar Lions Football Club
+  | Naxxar

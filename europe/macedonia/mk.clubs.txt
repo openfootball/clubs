@@ -86,3 +86,18 @@ GFK Tikvesh 1930,  1930,  Kavadarci
   | Tikvesh | FK Tikvesh
   | GFK Tikvesh
   | FK Tikvesh Kavadarci
+  | Tikves | GFK Tikves
+
+
+KF Gostivari,     Gostivar
+  | Gostivari
+
+KF Besa Dobërdoll,   Dobri Dol   # Gostivar
+  | KF Besa 1976 Dobërdoll
+  | Besa
+
+Voska Sport,  2019,  Ohrid
+  | FK Voska Sport Ohrid
+  | FK Voska Sport
+  | Fudbalski Klub Voska Sport
+
