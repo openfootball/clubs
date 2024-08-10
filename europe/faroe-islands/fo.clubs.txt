@@ -28,6 +28,7 @@ KÍ Klaksvík
   | KÍ
   | Klaksvík Ítróttarfelag
   | Klaksvíkar Ítróttarfelag
+  | Klaksvík
 
 Skála ÍF
   | Skála

@@ -24,8 +24,9 @@ Velež Mostar, 1922, Mostar
 
 NK Široki Brijeg
   | Široki Brijeg
+
 FK Borac Banja Luka
-  | Borac
+  | Borac | FK Borac
   | Borac Banja Luka     # champs (1): 2011/12
 
 FK Modriča

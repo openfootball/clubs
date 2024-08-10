@@ -20,7 +20,7 @@ SK Rapid Wien, 1899,  @ Allianz Stadion,   Wien (Hütteldorf)
   | Rapid Vienna [en]
  Keisslergasse 3 // 1140 Wien
 ii) SK Rapid Wien II
-  | Rapid Wien II
+  | Rapid Wien II | Rapid II
   | Rapid Wien Am. | Rapid Wien A.
   | SK Rapid Amateure
 
@@ -32,6 +32,7 @@ FK Austria Wien, 1911,  @ Generali Arena,   Wien (Favoriten)
  Fischhofgasse 12 // 1100 Wien
 ii) Young Violets Austria Wien
   | Young Violets | Y. Violets Austria | Young Violets A. W.
+  | Y. Violets
   | FK Austria Wien II
   | Austria Wien Amat.| Austria Wien A. | Austria Wien Amateure
 
@@ -66,6 +67,7 @@ Wiener Sport-Club,       Wien (Hernals)
   | Wiener Sportklub | Wiener SK | Wr. Sportklub
   | Wiener SC
   | Sportclub
+  | Wr. Sportclub
 
 First Vienna FC,  1894,  Wien (Döbling)
   | Vienna | Vienna FC 1894 | First Vienna FC 1894
@@ -79,9 +81,11 @@ Floridsdorfer AC,  1904,  Wien (Floridsdorf)
 
 Wiener Viktoria,         Wien (Meidling)
   | SC Wiener Viktoria
+  | Wr. Viktoria
 
 
 FC Mauerwerk,            Wien (Simmering)
+  | Mauerwerk
   | Karabakh Wien | FC Karabakh Wien
 # Von September 2014 bis Juni 2018 spielte der Verein
 #   unter dem Namen "FC Karabakh Wien"
@@ -140,6 +144,7 @@ ii) SV Mattersburg II
 SC Neusiedl am See,  Neusiedl am See
   | SC Neusiedl | Neusiedl am See | SC Neusiedl am See 1919
   | SC Neusiedl/See | SC Neusiedl/See 1919
+  | Neusiedl
 
 ASV Draßburg, Draßburg
   | Draßburg
@@ -151,6 +156,7 @@ SC-ESV Parndorf,   Parndorf
 SV Stegersbach,    Stegersbach
 
 SV Oberwart,   Oberwart
+  | Oberwart
 
 SV Heiligenkreuz
 
@@ -218,12 +224,14 @@ VSE St. Pölten (1920-1998), St. Pölten
 
 
 SV Horn,  1922,   Horn
+  | Horn
 ii) Horn Amateure
   | SV Horn II
 
 SKU Amstetten,   Amstetten
   | Amstetten SKU
   | SKU $$Ertl Glas$$ Amstetten
+  | Amstetten
 
 ASK Ebreichsdorf,   Ebreichsdorf
 
@@ -231,14 +239,17 @@ FC Marchfeld,  Mannsdorf an der Donau
   | Marchfeld Donauaue | FC Marchfeld Donauauen
   | Mannsdorf-Großenz. | FC Mannsdorf/Großenzersdorf
   | FC Marchfeld Mannsdorf | FC Marchfeld/M.
+  | Marchfeld
   | SC Mannsdorf     # vormals (alter name)
 
 SV Leobendorf,     Leobendorf
+  | Leobendorf
 SV Stripfing,      Stripfing    # Gemeinde Weikendorf
   | Stripfing
   | SV Stripfing/Weiden
 
 FCM Traiskirchen,  Traiskirchen
+  | Traiskirchen
 ASK-BSC Bruck/Leitha,  Bruck an der Leitha
   | Bruck/Leitha
 1. SC Sollenau,  Sollenau
@@ -272,6 +283,7 @@ ASKÖ Gmünd,   Gmünd
 SC Krems,  Krems
   | Kremser SC
   | SG Kremser SC/Rehberg
+  | Krems
 
 
 #  add Gebietsliga NW/Wald.  --  6-noe-nordwest-waldviertel
@@ -309,6 +321,7 @@ SC Admira Gföhl,   Gföhl
 USV Raabs/Thaya
 
 SV Gloggnitz,  Gloggnitz
+  | Gloggnitz
 USV Scheiblingkirchen-Warth
 ASC Götzendorf
 SC Brunn am Gebirge
@@ -494,7 +507,7 @@ SK Sturm Graz, 1909,   @ Merkur Arena,   Graz
   | Sportklub $$Puntigamer$$ Sturm Graz
  Sternäckerweg 118 // 8042 Graz
 ii) SK Sturm Graz II
-  | Sturm Graz II
+  | Sturm Graz II | Sturm II
   | Sturm Graz Amat. | Sturm Graz A.
   | Sturm Amateure | Sturm A.
 
@@ -513,7 +526,7 @@ TSV Hartberg, 1946,    @ Profertil Arena Hartberg,   Hartberg
 Kapfenberger SV,   Kapfenberg
   | KSV | KSV 1919 | Kapfenberger SV 1919
   | Kapfenberg 1919
-
+  | Kapfenberg
 ii) Kapfenberger SV II
 
 
@@ -564,6 +577,7 @@ USV Mettersdorf
 
 ASK Voitsberg, 1921,  Voitsberg
   | Arbeiter Sport-Klub Voitsberg
+  | Voitsberg
 
 
 == Kärnten ==
@@ -721,7 +735,7 @@ Union Innsbruck,  Innsbruck
 
 
 WSG Tirol, 1930,   Wattens
-  | Tirol
+  | Tirol | WSG
   | WSG $$Swarovski$$ Tirol | WSG $$Swarovs.$$ Tirol | Wattener Sportgemeinschaft Tirol
   | $$S.$$ Tirol | $$Swarovski$$ Tirol
   | Wattens | WSG Wattens | WSG $$Swarovski$$ Wattens        ## $$$ note: Swarovski is a sponsor
@@ -768,6 +782,7 @@ ii) SCR Altach Juniors
 Austria Lustenau, 1914,   Lustenau
   | A. Lustenau | SC Austria Lustenau
   | Sportclub Austria Lustenau
+  | Lustenau
 ii) Austria Lustenau Amateure
   | SC Austria Lustenau Amateure
   | Austria Lustenau A.
@@ -796,10 +811,12 @@ VfB Hohenems
 
 FC Wolfurt
   | $$Meusburger$$ FC Wolfurt      ## $$$ Meusburger is a sponsor
+
 SW Bregenz,   Bregenz
   | Schwarz-Weiß Bregenz | SC Schwarz-Weiß Bregenz
   | Bregenz SW
   | SC Bregenz     ## todo/check if SC Bregenz exists as its own independent club??
+  | Bregenz
 
 FC Hard
   | Hard
