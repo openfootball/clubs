@@ -20,7 +20,7 @@ Club River Plate,     Asunción
 
  Sportivo Trinidense,   1935, Asunción (Santísima Trinidad)
     | Club Sportivo Trinidense
-    | Trinidense 
+    | Trinidense
     | Sportivo Trinidens.
     | Sportivo Trini.
 
@@ -66,3 +66,4 @@ General Caballero (JLM),   Juan León Mallorquín
 
 2 de Mayo,   Pedro Juan Caballero
    | Club Sportivo 2 de Mayo
+   | CS 2 de Mayo

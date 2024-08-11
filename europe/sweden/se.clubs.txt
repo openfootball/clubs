@@ -248,4 +248,9 @@ Eskilsminne IF,  Helsingborg
   | Eskilsminne Idrottsförening
   | EIF
 
+Täby FK,  2012, Täby  # Stockholm
+  | Täby Fotbollsklubb
+
+Piteå IF, 1918,  Piteå
+  | Piteå Idrottsförening
 

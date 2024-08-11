@@ -20,6 +20,9 @@ HŠK Zrinjski,  Mostar
 
 Velež Mostar, 1922, Mostar
   | FK Velež Mostar | Fudbalski Klub Velež Mostar
+  | FK Velež
+  | Velež
+  | FK Velež Mosta
 
 
 NK Široki Brijeg
@@ -51,8 +54,7 @@ NK Čelik Zenica
   | Čelik
 FK Mladost Doboj Kakanj
   | Mladost Doboj Kakanj
-FK Velež
-  | Velež
+
 Zvijezda 09
 
 NK Brotnjo, Čitluk   # champs (1): 2000/01

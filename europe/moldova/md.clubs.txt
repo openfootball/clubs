@@ -20,7 +20,8 @@ FC Dacia Chișinău,  Chișinău
 
 FC Zimbru Chișinău,  Chișinău
   | Zimbru | FC Zimbru
-  | Zimbru Chisinau   # champs (4): 2001...1998 (3) 1993/94
+  | Zimbru Chișinău   # champs (4): 2001...1998 (3) 1993/94
+  | Zimbru Chișin.
 
 FC Veris (2011-2014),  Chișinău
   | Veris

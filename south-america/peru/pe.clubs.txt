@@ -30,9 +30,13 @@ Sport Huancayo,   Huancayo
 Alianza Universidad,  Huánuco
   | Ali. Univ. Huánuco
 
-
-Real Garcilaso,   Cusco
+Cusco FC,   Cusco
+  | Cusco Fútbol Club
+  | Real Garcilaso
   | Asociación Civil Real Atlético Garcilaso
+##  founded on 28 August 2008 as Real Garcilaso,
+##   changing their name to Cusco FC in 2019.
+
 
 Deportivo Garcilaso,  Cusco
   | Dep. Garcilaso
@@ -97,3 +101,4 @@ ADT Tarma, Tarma
   | Asociación Deportiva Tarma
   | ADT
   | AD Tarma
+  | Aso. Dep. Tarma

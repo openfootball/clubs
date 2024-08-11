@@ -70,8 +70,9 @@ Tigres UANL, 1960,       Monterrey › Nuevo León     ## 	San Nicolás de los G
 
 
 == Puebla ==
-Club Puebla,  1944,        Puebla › Puebla
+Club Puebla,  1944,    @ Estadio Cuauhtémoc,      Puebla › Puebla
   | Puebla | Puebla FC
+  | FC Puebla
   | Puebla Fútbol Club
  Calz. Ignacio Zaragoza No. 666, Col. Maravillas Unidad Deportiva Estadio Cuauhtémoc // Puebla, Pue.  C.P. 72220
 
@@ -93,7 +94,7 @@ Tiburones Rojos Veracruz, 1943,   Veracruz (Boca del Río) ›      ## Boca del 
 FC Juárez, 2015, Juárez
   | Juárez | Fútbol Club Juárez
 
-Indios de Ciudad Juarez (2005-2011),  Juárez 
+Indios de Ciudad Juarez (2005-2011),  Juárez
   | Indios | Club de Fútbol Indios de Ciudad Juárez
 
 
@@ -115,7 +116,7 @@ Atlético San Luis, 2013,   San Luis Potosí
 
 
 San Luis FC (1957-2013),  San Luis Potosí
- | San Luis Fútbol Club    
+ | San Luis Fútbol Club
 ## On May 28, 2013 it was confirmed the team would move
 ##   to Tuxtla Gutiérrez, Mexico and be renamed Chiapas Fútbol Club
 
@@ -159,11 +160,11 @@ Mineros Zacatecas,     Zacatecas
 
 Atlético Morelia,   Morelia
   | Club Atlético Morelia
-  | Monarcas Morelia | Monarcas 
+  | Monarcas Morelia | Monarcas
   | Morelia
   | Atlético Monarcas Morelia
  Av. Camelinas No. 3537, Col. 5 de Diciembre // Morelia, Michoacán C.P. 58260
-## in 1999 the club started playing under 
+## in 1999 the club started playing under
 ## the name Club Monarcas Morelia.
 # - Oro Morelia (1924–1950): Name of the club at its foundation, used in the period before entering professional football.
 # - Club Deportivo Morelia (1950–1972): Official name of the club after reaching the Segunda División.
@@ -171,7 +172,7 @@ Atlético Morelia,   Morelia
 # - Club Monarcas Morelia (1998–2020): Name assumed two years after acquisition by broadcaster TV Azteca.
 # - Club Atlético Morelia (2020–present): Name assumed after acquisition of the Zacatepec franchise.
 
-  
+
 
 == Aguascalientes ==
 Club Necaxa,  1923,       Aguascalientes
@@ -240,6 +241,6 @@ Atlante FC, 1916,          Cancún
  Av. Mayapán esq. Av. Kabah s/n Supermanzana 43 Pedregal del Bosque // Quintana Roo
 
 
-Cancún FC,  2020,    Cancún 
+Cancún FC,  2020,    Cancún
   | Cancún Fútbol Club
   | Cancún

@@ -40,6 +40,7 @@ KS Flamurtari, 1923,   Vlorë
 
 KF Vllaznia,  1919,   Shkodër
   | Vllaznia | Vllaznia Shkodër | KF Vllaznia Shkodër
+  | Vllaznia Shkod
   | FK Vllaznia
 
 
@@ -96,3 +97,4 @@ KF Apolonia, 1925,  Fier
 KF Egnatia, 1934,  Rrogozhinë
   | Egnatia
   | KF Egnatia Rrogozhinë   # champs (1): 2023/24
+  | KF Egnatia Rro

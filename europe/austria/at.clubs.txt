@@ -547,7 +547,7 @@ USV Allerheiligen,     Allerheiligen bei Wildon
 SV Wildon
   | SV $$Raiffeisen$$ Wildon
   | Wildon
-
+  | Wildon SV
 
 TuS Bad Gleichenberg,  Bad Gleichenberg
   | Bad Gleichenberg

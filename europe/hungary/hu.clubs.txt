@@ -52,6 +52,8 @@ Vasas SC,  Budapest
   | Vasas Futball Club
   | SC Vasas Budapest
 
+Soroksár SC,   Budapest (Soroksár)
+
 
 
 Vác FC,   Vác
@@ -88,9 +90,11 @@ Győri ETO FC, 1904,     Győr
   | ETO Győr | ETO FC Győr | ETC FC
   | Egyetértés Torna Osztály Futball Club Győr
 
-Gyirmót FC Győr, 1993, @ Alcufer Stadion, Győr
+Gyirmót FC Győr, 1993, @ Alcufer Stadion, Győr    #  Gyirmót, a suburb of Győr
    | Gyirmót Football Club Győr
    | Gyirmót
+   | Gyirmót SE
+
 
 
 Paksi SE, 1952, @ Városi Stadion
@@ -193,3 +197,22 @@ Nyíregyháza Spartacus,   Nyíregyháza
   | Nyíregyháza | Nyíregyháza FC
   | Nyíregyháza Spartacus Football Club
   | Nyíregyháza Spartacus FC
+
+
+FC Dorogi,  Dorog
+  | Dorogi Futball Club
+
+Budaörsi SC, 1924,    Budaörs   ## town near Budapest
+
+Aqvital FC Csákvár,  Csákvár
+
+Szeged-Csanád Grosics Akadémia, Szeged
+  | Szeged-Csanád Gros
+
+Kazincbarcikai SC, Kazincbarcika
+
+FC Ajka, Ajka
+
+Szolnoki MÁV FC, Szolnok
+
+

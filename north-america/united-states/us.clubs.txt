@@ -49,7 +49,7 @@ Milwaukee Bavarian SC,    Milwaukee
 
 == Illinois ==
 Chicago Fire, 1998,  Bridgeview     ## year 1997? use Chicago (not Bridgeview?)
-  | Chicago 
+  | Chicago
   | Chicago Fire Soccer Club
   | Chicago Fire Football Club
   | Chicago Fire FC
@@ -122,8 +122,8 @@ Hartford Athletic, Hartford
 ==  Missouri ==
 
 Saint Louis FC (2014-2020), Fenton
-## On August 25, 2020, citing the financial impact 
-## of the COVID-19 pandemic during 2020, 
+## On August 25, 2020, citing the financial impact
+## of the COVID-19 pandemic during 2020,
 ## it was announced that the 2020 season would be
 ## the final season of operation for the club
 
@@ -193,7 +193,7 @@ FC Dallas, 1996,  Frisco      ##  use Dallas (and not Frisco) ? - note: FC Dalla
 NTX Rayados,                 Dallas
   | North Texas Rayados
 
-Houston Dynamo, 2005,  Houston  
+Houston Dynamo, 2005,  Houston
   | Houston | H. Dynamo
   | Houston Dynamo FC
 
@@ -226,6 +226,7 @@ Los Angeles FC, 2018,  Los Angeles   ## use 2014?
   | LAFC
 San Jose Earthquakes, 1996,  San Jose   ## note: named >San Jose Clash< from 1996-1999
   | San Jose | SJ Earthquakes | Earthquakes      ## founding year 1994?
+  | San Jose Earthqua
 
 Orange County SC,       Irvine
 Orange County FC,       Lake Forest       # note: NOT to be confused with Orange County SC
@@ -259,6 +260,8 @@ FC Mulhouse Portland,    Portland
 == Minnesota ==
 Minnesota United FC, 2017,  Minneapolis    ## use 2015?
   | Minnesota | Minnesota United | FC Minnesota Utd.
+  | Minnesota Utd.
+
 Duluth FC,   Duluth
 
 

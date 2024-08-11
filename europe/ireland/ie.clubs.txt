@@ -4,6 +4,8 @@
 Shamrock Rovers FC,                Dublin (Tallaght)         #  Tallaght, South Dublin
   | Shamrock | Shamrock Rovers | FC Shamrock Rovers
   | Shamrock Rovers Football Club
+  ii) Shamrock Rovers II
+
 Bohemian FC,                     Dublin (Phibsborough)
   | Bohemians | Boh. Dublin | Bohemians Dublin
   | Bohemian Football Club

@@ -41,6 +41,10 @@ FK Viktoria Žižkov, 1903, Praha (Žižkov)
   | Viktoria Žižkov
   | Žižkov
 
+FC Slavoj Vyšehrad,    Praha (Nusle)
+
+
+
 
 FK Mladá Boleslav, 1902,  @ Lokotrans Aréna,  Mladá Boleslav   ## Central Bohemia
   | Mladá Boleslav | Fotbalový klub Mladá Boleslav
@@ -218,3 +222,7 @@ MFK Vyškov,  1921, Vyškov
 # 2012–: MFK Vyškov
 
 
+FK Třinec, Třinec
+ | FK Fotbal Třinec
+
+FK Baník Sokolov,  Sokolov

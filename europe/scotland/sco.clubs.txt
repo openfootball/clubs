@@ -24,6 +24,11 @@ Hibernian FC,            Edinburgh   ## Leith  - North of Edinburgh
   | Hibernian Football Club
 Edinburgh City,          Edinburgh
 
+FC Spartans,  1951,  Edinburgh
+ | The Spartans Football Club
+ | The Spartans
+
+
 
 Aberdeen FC, 1903, Aberdeen
   | Aberdeen
@@ -44,7 +49,7 @@ Dundee United, 1909,   @ Tannadice Park  Dundee
   | Dundee United Football Club
 
 Hamilton Academical FC, 1874,  @ New Douglas Park,   Hamilton
-  | Hamilton | Hamilton FC | Hamilton Accies 
+  | Hamilton | Hamilton FC | Hamilton Accies
   | Hamilton Academical
   | Hamilton Academical Football Club
 Kilmarnock FC, 1869, Kilmarnock
@@ -58,12 +63,13 @@ Ross County FC,  1929,  Dingwall
   | Ross County | FC Ross County
   | Ross County Football Club
 St Johnstone FC, 1884, Perth
-  | St Johnstone | St. Johnstone | Saint Johnstone FC 
+  | St Johnstone | St. Johnstone | Saint Johnstone FC
   | St Johnstone Football Club
   | FC St. Johnstone
- 
+
 Brechin City,  Brechin
   | Brechin
+  | FC Brechin City
 Dumbarton,     Dumbarton
   | FC Dumbarton
 
@@ -138,6 +144,7 @@ Montrose,         Montrose
 Peterhead,        Peterhead
   | Peterhead FC
 Stenhousemuir,    Stenhousemuir
+  | FC Stenhousemuir
 Stirling Albion,  Stirling
   | Stirling
 
@@ -153,4 +160,11 @@ Gretna FC, Gretna
 Kelty Hearts FC,  1975,  Kelty
   | Kelty Hearts
   | Kelty Hearts Football Club
- 
+
+Bonnyrigg Rose,  1881, Bonnyrigg
+  | Bonnyrigg Rose Football Club
+  | Bonnyrigg Rose FC
+  | Rose
+East Kilbride FC,  East Kilbride
+  | East Kilbride Football Club
+  | East Kilbride

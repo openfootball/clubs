@@ -16,6 +16,7 @@ FC Locomotive Tbilisi,   Tbilisi
 FC Iberia 1999 Tbilisi, Tbilisi (Saburtalo)
   | Iberia
   | FC Iberia 1999
+  | Iberia Tiflis [de]
   | FC Saburtalo | Saburtalo
   | Sab. Tiflis [de]
 # note - On 27 February 2024, the team's name was changed to Iberia 1999

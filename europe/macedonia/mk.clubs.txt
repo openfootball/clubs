@@ -73,8 +73,9 @@ FK Sileks, 1965,   Kratovo
 FK Turnovo
   | Turnovo
 
-FC Struga
+FC Struga,  Struga
   | Struga
+  | Struga Trim
 
 FK Borec Veles
 
@@ -91,6 +92,7 @@ GFK Tikvesh 1930,  1930,  Kavadarci
   | GFK Tikvesh
   | FK Tikvesh Kavadarci
   | Tikves | GFK Tikves
+  | GFK Tikvesh 19
 
 
 KF Gostivari,     Gostivar

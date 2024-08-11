@@ -53,6 +53,7 @@ WKS Śląsk Wrocław, 1947, @ Stadion Miejski we Wrocławiu,    Wrocław
 Jagiellonia Białystok,  Białystok
   | Jagiellonia | Jagiellonia Biał.
   | Sportowa Spółka Akcyjna Jagiellonia Białystok
+  | Jagiellonia B.
 
 Arka Gdynia,  Gdynia
   | Arka | Arka Gdynia 1929
@@ -196,3 +197,8 @@ Radomiak Radom,    Radom
 Motor Lublin,  1950,   Lublin
   | Motor Lublin SA
   | Motor Lublin Spółka Akcyjna
+  | LKP Motor Lublin
+
+Stal Rzeszów, 1944, Rzeszów
+  | ZKS Stal Rzeszow
+  | Stal Rzeszów Spółka Akcyjna

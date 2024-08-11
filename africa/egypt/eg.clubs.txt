@@ -5,9 +5,10 @@
 Al Ahly,                Cairo › Cairo
   | Al-Ahly | Al Ahly Cairo | Al Ahly SC | Al Ahly Sporting Club
   | Al Ahly Kairo [de]
-  
+
 Al Mokawloon Al Arab,   Cairo › Cairo  ## Nasr City
   | Arab Contractors (Sporting Club)
+  | Arab Contractors
   | Al Mokawloon
   | Al Moqawloon
 
@@ -26,7 +27,7 @@ ENPPI SC,               Cairo › Cairo
 Ittihad El Shorta,      Cairo › Cairo
   | Police Union
 Tala'ea El Gaish,       Cairo › Cairo
-  | Army's Vanguards 
+  | Army's Vanguards
   | Tala'ea El-Gaish SC
   | Tala'ea El Gaish Sporting Club
 Wadi Degla,             Cairo › Cairo
@@ -35,9 +36,12 @@ Pyramids FC,            Cairo › Cairo
   | Pyramids Football Club
   | Pyramids
 
-Future FC,     Cairo
+Modern Sport FC,    Cairo
+  | Modern Sport Football Club
   | Modern Future FC
   | Modern Future Football Club
+  | Future FC
+# formerly known as Modern Future FC,
 
 National Bank SC,  Cairo
   | National Bank of Egypt SC
@@ -105,9 +109,9 @@ Petrojet,   Suez › Suez
   | Petrojet FC | Petrojet Football Club
 Telephonat Bani Sweif,  Beni Suef › Beni Suef
   | TE Beni Suef
-  
-Tanta SC, Tanta  
-  | Tanta Sports Club 
+
+Tanta SC, Tanta
+  | Tanta Sports Club
   | FC Tanta
 Aswan SC, Aswan
   | Aswan Sporting Club

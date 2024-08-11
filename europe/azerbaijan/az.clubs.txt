@@ -87,6 +87,7 @@ Sumqayıt FK
 
 Sabah FC
   | Sabah
+  | Sabah FK
 
 # note - Not to be confused with FC Turan
 PFK Turan Tovuz, 1954,  Tovuz

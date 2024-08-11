@@ -8,13 +8,13 @@
 CF Montréal,  1993,    Montréal
   | Club de Foot Montreal
   | CFM | CFMTL
-  | Montreal Impact  ## before 20xx??     
+  | Montreal Impact  ## before 20xx??
   | Montreal | Montreal I. | Impact Montréal | Impact de Montréal
   | Montreal Impac
 ## todo - check fo year for
-##          CF Montréal => Montreal Impact  name change!!!  
+##          CF Montréal => Montreal Impact  name change!!!
 # Founded in 1993 as the Montreal Impact
-##  (re)founding year in 2012 for MLS 
+##  (re)founding year in 2012 for MLS
 ##     was in canadian league from (1992–2011)
 
 
@@ -44,6 +44,7 @@ FC Edmonton,  2010,   Edmonton
 == British Columbia ==
 Vancouver Whitecaps FC, 1974,  Vancouver   ## founding year is 2011? check again
   | Vancouver | Vancouver W'caps | Vancouver Whitecaps
+  | Vancouver W.
 
 Pacific FC,  2018,  Victoria   ## Langford -  Greater Victoria ??
   | Pacific | Pacific Football Club

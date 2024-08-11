@@ -10,14 +10,14 @@ Millonarios Bogotá,       Bogotá
   | Azul & Blanco - Millonarios F.C.
 
 Independiente Santa Fe,   Bogotá
-  | Santa Fe | Indep. Santa Fe 
-  | CI Santa Fe  
+  | Santa Fe | Indep. Santa Fe
+  | CI Santa Fe
   | Club Independiente Santa Fe
   | Corporación Deportiva Santa Fe
- 
+
 La Equidad,               Bogotá
   | Dep. La Equidad
-  | CD La Equidad Seguros  
+  | CD La Equidad Seguros
   | Club Deportivo La Equidad Seguros
 
 Fortaleza FC,  2010, Bogotá
@@ -32,9 +32,9 @@ Bogotá FC, 2003,   Bogotá
 Tigres FC,   Bogotá
   | Tigres Fútbol Club
 
-Real Cundinamarca, Bogotá 
+Real Cundinamarca, Bogotá
   | Real Soacha Cundinamarca
- 
+
 
 Atlético Nacional,        Medellín
   | At. Nacional | Atlético Nac.
@@ -72,7 +72,7 @@ Deportes Tolima,          Ibagué
 Alianza Petrolera FC (1990-2024),   Barrancabermeja
   | Alianza Petrolera
 
-Alianza Valledupar,    2024,  Valledupar 
+Alianza Valledupar,    2024,  Valledupar
   | Alianza FC
   | Alianza Fútbol Club
   | Alianza Valled.
@@ -117,6 +117,10 @@ Jaguares de Córdoba,  Montería
 
 Patriotas Boyacá,  Tunja
   | Patriotas
+  | Patriotas FC
+  | B. Patriotas FC
+
+
 Boyacá Chicó,      Tunja
   | Boyacá Chicó FC | Boyacá Chicó Fútbol Club
 
@@ -130,21 +134,17 @@ Deportivo Pereira,  Pereira
   | Deportes Pereira
 
 
-Patriotas FC,   Tunja
-  | Patriotas Boyacá
-  | Patriotas
 
 
 
-
-Deportes Quindío,   Armenia 
+Deportes Quindío,   Armenia
 
 Internacional de Palmira,  2024,  Palmira
   | Internacional Fútbol Club de Palmira
   | Inter. de Palmira
 
 Orsomarso SC, Palmira
- | Orsomarso Sportivo Clube 
+ | Orsomarso Sportivo Clube
 
 
 Leones FC,  Itagüí
@@ -155,7 +155,7 @@ Llaneros FC,   Villavicencio
   | Llaneros Fútbol Club
   | FC Llaneros
 
-Real Cartagena,  Cartagena 
+Real Cartagena,  Cartagena
   | Real Cartagena FC
   | Real Cartagena Fútbol Club
 

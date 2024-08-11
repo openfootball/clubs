@@ -263,22 +263,29 @@ FK Csíkszereda Miercurea Ciuc,  Miercurea Ciuc
   | Asociația Futball Klub Csíkszereda Miercurea Ciuc
 
 
-CS Corvinul Hunedoara,     Hunedoara
+CS Corvinul Hunedoara,  1921,    Hunedoara
   | Corvinul Hunedoara
   | Corvinul
-  | Corv. Hunedoara
+  | Corv. Hunedoara | Corv. Hunedoar
   | Clubul Sportiv Corvinul 1921 Hunedoara
+  | FC Corvinul Hunedoara
 
 
 AS FC Buzău,  2016,  Buzău
   | FC Buzău
   | Buzău
   | Asociația Sportivă Fotbal Club Buzău
+  | FC Gloria Buzău
 # club was originally founded on 25 August 2016,
 #  following the dissolution of FC Gloria Buzău.
+##  In the summer of 2017 FC Buzău was renamed as SCM Gloria Buzău,
+#  as part of the city new sports club SCM Gloria Buzău
+
+
 
 Unirea Slobozia, 1955,  Slobozia
    | Asociația Fotbal Club Unirea 04 Slobozia
+   | FC Unirea 2004 Slo
 
 
 Chimia Râmnicu Vâlcea (1946-2004),  Râmnicu Vâlcea
@@ -289,8 +296,6 @@ Chimia Râmnicu Vâlcea (1946-2004),  Râmnicu Vâlcea
 Unirea Urziceni (1954-2017), Urziceni   # champs (2): 2011..2009 (2)
   | FC Unirea | FC Unirea Urziceni
 
-FC Corvinul Hunedoara (1921-2004),  Hunedoara
-  | Corvinul Hunedoara
 
 FC Extensiv Craiova (1949-2013),    Caracal
   | Fotbal Club Extensiv Craiova

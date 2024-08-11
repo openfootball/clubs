@@ -153,6 +153,7 @@ FC Kryvbas Kryvyi Rih, 1959,  Kryvyi Rih
   | Futbolniy Klub Krivbas Kriviy Rig
   | Kryvbas Kryvyi Rih
   | Futbolnyy Klub Kryvbas (Kryvyi Rih)
+  | FC Kryvbas Kr
 
 
 NK Veres Rivne,  1957, Rivne
@@ -174,6 +175,7 @@ FC Mynai,  Mynai
 Polissya Zhytomyr,  Zhytomyr
   | FC Polissya Zhytomyr
   | Futbolnyi Klub Polissya Zhytomyr
+  | FC Polissya
 
 Inhulets Petrove,   Petrove
   | FC Inhulets Petrove

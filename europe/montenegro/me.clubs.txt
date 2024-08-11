@@ -18,7 +18,7 @@ FK Mogren (1920-2016),  Budva
 FK Zeta
   | Zeta
   | Zeta Golubovci
-  | FK Zeta Golub
+  | FK Zeta Golubo
 
 FK Rudar Pljevlja
   | Rudar Pljevlja

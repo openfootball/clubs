@@ -20,10 +20,12 @@ FC TVMK Tallinn
 
 
 FCI Tallinn
+
 JK Tallinna Kalev
   | Tallinna Kalev
   | Talinna Kalev
   | Kalev
+  | JK Tallinna Ka
 
 
 FC Nõmme United,   Tallinn (Nõmme)

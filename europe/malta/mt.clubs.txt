@@ -6,6 +6,8 @@ Valletta FC,         Valletta
   | Valletta
 Sliema Wanderers FC, Sliema
   | Sliema | Sliema Wanderers
+  | Sliema Wandere
+
 Birkirkara FC
   | Birkirkara
 Floriana FC
@@ -24,6 +26,7 @@ Gżira United FC
 Gudja United
 Hamrun Spartans FC
   | Hamrun | Hamrun Spartans
+  | Hamrun Spartan
 
 FC Sirens
   | Sirens

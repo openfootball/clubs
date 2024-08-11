@@ -24,6 +24,7 @@ UE Sant Julià,  Sant Julià
 
 FC Santa Coloma, Santa Coloma
   | FC Santa Colom | FC Santa Colo
+  | Santa Coloma
 
 UE Santa Coloma, Santa Coloma
 
@@ -34,6 +35,7 @@ UE Engordany
 
 Atlètic Club d'Escaldes,   Escaldes-Engordany
   | Atlètic Escaldes
+  | AC Escaldes
 
 Inter Club d'Escaldes,   Escaldes-Engordany
   | Inter Escaldes

@@ -301,6 +301,7 @@ Hannover 96, 1896,       Hannover
   | Hannoverscher Sportverein von 1896
  Robert-Enke-Straße 1 // 30169 Hannover
 ii) Hannover 96 II
+  | Hannover 96 Amat.
 
 Eintracht Braunschweig, 1895,  Braunschweig
   | Braunschweig | E. Braunschweig | Eintr. Braunschweig
@@ -515,6 +516,7 @@ VfB Stuttgart, 1893,    @ Mercedes-Benz Arena,   Stuttgart
  Mercedesstraße 109 // 70372 Stuttgart
 ii) VfB Stuttgart II
   | Stuttgart II
+  | VfB Stuttgart Am.
 
 Stuttgarter Kickers,   Stuttgart
   | Stutt. Kick. | Stuttgarter K

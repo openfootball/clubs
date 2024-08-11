@@ -7,13 +7,14 @@ Tokyo Verdy,          Tokyo
   | Verdy
 
 
-## check - use Tokyo with district or  Machida › Tokyo  ??? 
+## check - use Tokyo with district or  Machida › Tokyo  ???
 Machida Zelvia,  1989,  Tokyo (Machida)   # based in Machida, Tokyo
   | FC Machida Zelvia
-  | Football Club Machida Zelvia 
+  | Football Club Machida Zelvia
 
 
 Albirex Niigata,      Niigata & Seiro › Niigata
+  | Niigata Albirex
 Omiya Ardija,         Omiya › Saitama
 Cerezo Osaka,         Osaka › Osaka
   | C-Osaka
@@ -21,6 +22,7 @@ Gamba Osaka,           Suita › Osaka
   | G-Osaka
 Yokohama F. Marinos, 1972,   Yokohama & Yokosuka › Kanagawa
   | Yokohama | Yokohama M. | Marinos
+  | Yokohama FM
 # in 1999 (re)formed by the merger of Yokohama Marinos and
 #   Yokohama Flügels
 
@@ -46,9 +48,12 @@ Sanfrecce Hiroshima,    Hiroshima › Hiroshima
   | Hiroshima | Sanfrecce | S. Hiroshima | Sanfr. Hiroshima
 
 Vegalta Sendai,       Sendai, Miyagi
+
 Hokkaido Consadole Sapporo,  Sapporo › Hokkaido
   | Sapporo | Consa Sapporo | Consadole Sapporo
   | Hokkaido Consadole
+  | Hokkaido Consadol
+
 Avispa Fukuoka,       Hakata › Fukuoka
 Matsumoto Yamaga,     Matsumoto › Nagano
   | Yamaga | Matsumoto Yamaga FC
@@ -79,10 +84,10 @@ Kyoto Sanga,  Kyoto
 
 Fagiano Okayama,  Okayama
 
-Ehime FC,    Matsuyama 
+Ehime FC,    Matsuyama
   | Ehime Football Club
 
-Kagoshima United,  Kagoshima 
+Kagoshima United,  Kagoshima
   | Kagoshima United FC
 
 Roasso Kumamoto, Kumamoto
@@ -97,6 +102,25 @@ Thespa Gunma,   Maebashi
   | Thespakusatsu Gunma
   | Thespakusatsu
 # formerly Thespakusatsu Gunma
-    
 
- 
+
+Iwaki FC,       Iwaki    # in Fukushima Prefecture
+Fujieda MYFC,   Fujieda  # in Shizuoka Prefecture
+
+
+JEF United Chiba,  Chiba   # in Chiba Prefecture
+  | JEF Utd Ichihara
+  | JEF United Ichihara Chiba
+  | JEF Chiba
+
+Tegevajaro Miyazaki,   Miyazaki  # in Miyazaki Prefecture
+  | Tegevajaro Miyazak
+
+Tochigi SC,   Utsunomiya   #  Tochigi Prefecture
+  | Tochigi Soccer Club
+
+FC Ryukyu, Okinawa
+
+Zweigen Kanazawa,    Kanazawa  # Ishikawa Prefecture
+
+Giravanz Kitakyushu,    Kitakyushu  # Fukuoka Prefecture

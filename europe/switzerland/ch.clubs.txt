@@ -330,6 +330,7 @@ FC Portalban/Gletterens
 FC Rorschach
 FC Rotkreuz
 FC Rapperswil-Jona
+  | Rapperswil-Jona
 FC Regensdorf
 
 FC Saint-Blaise

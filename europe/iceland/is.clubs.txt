@@ -105,3 +105,7 @@ UMF Njarðvík, 1944, Njarðvík
   | Vestri
 
 
+Dalvík/Reynir, 2006,   Dalvík
+  | Knattspyrnufélagið Dalvík/Reynir
+  # formed in 2006 after the merger between
+  #    UMFS Dalvík & Reynir Árskógsströnd
