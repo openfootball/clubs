@@ -6,6 +6,7 @@ Alianza Lima,     Lima
 Sporting Cristal,  Lima
   | Club Sporting Cristal
   | CS Cristal | Cristal
+  | Sp. Cristal
 Deportivo Municipal,  Lima
   | Dep. Municipal
 Club Deportivo Universidad de San Martín de Porres, Lima
@@ -54,8 +55,13 @@ Carlos A. Mannucci,    Trujillo
 Ayacucho FC,          Ayacucho
   | Ayacucho
 
-Escuela Municipal Binacional,  Juliaca
+Deportivo Binacional FC,  Juliaca
+  | Deportivo Binacional Fútbol Club
+  | Dep. Binacional
   | Binacional
+  | Escuela Municipal Binacional
+##  formerly Escuela Municipal Deportivo Binacional
+
 
 Academia Cantolao,       Callao
   | Cantolao
@@ -69,7 +75,7 @@ Unión Comercio, Nueva Cajamarca
 
 Universidad Técnica de Cajamarca, Cajamarca
   | UTC | UTC de Cajamarca
-
+  | UTC Cajamarca
 
 Club Atlético Grau, 1919,  Piura
   | Atlético Grau
@@ -90,6 +96,7 @@ Los Chankas,  1989, Andahuaylas
 Comerciantes Unidos,   2002,  Cutervo
   | Club Deportivo Comerciantes Unidos
   | Comerciantes Uni
+  | Comerciantes Un.
   | Asociación Social Deportiva y Cultural Comerciantes Unidos
 
 
@@ -102,3 +109,12 @@ ADT Tarma, Tarma
   | ADT
   | AD Tarma
   | Aso. Dep. Tarma
+
+
+FC Carlos Stein,  2012, Lambayeque
+ | Carlos Stein
+ | Asociación FC Carlos Stein
+
+
+Club Sport Rosario,  Huaraz
+  | Sport Rosario

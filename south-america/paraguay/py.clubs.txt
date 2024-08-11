@@ -32,6 +32,7 @@ Tacuary,  Asunción
 
 Deportivo Capiatá,  Capiatá
 Deportivo Santaní,   San Estanislao
+  | Dep. Santaní
 
 Club General Díaz,  Luque
   | General Díaz
@@ -67,3 +68,8 @@ General Caballero (JLM),   Juan León Mallorquín
 2 de Mayo,   Pedro Juan Caballero
    | Club Sportivo 2 de Mayo
    | CS 2 de Mayo
+
+3 de Febrero,   Ciudad del Este
+  | Club Atlético 3 de Febrero
+  | CA 3 de Febrero
+  | Atlético 3 de Febrero

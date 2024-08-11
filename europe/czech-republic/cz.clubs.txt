@@ -41,8 +41,8 @@ FK Viktoria Žižkov, 1903, Praha (Žižkov)
   | Viktoria Žižkov
   | Žižkov
 
-FC Slavoj Vyšehrad,    Praha (Nusle)
-
+FK Slavoj Vyšehrad,    Praha (Nusle)
+  | FC Slavoj Vyšehrad
 
 
 
@@ -151,6 +151,7 @@ MFK Vítkovice,  1919,  Ostrava (Vítkovice)
 
 1. SC Znojmo FK,   Znojmo
   | Znojmo
+  | 1. SC Znojmo
 
 SK Kladno,  Kladno
   | Kladno | Sportovní Klub Kladno

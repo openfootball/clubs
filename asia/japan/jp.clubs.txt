@@ -124,3 +124,7 @@ FC Ryukyu, Okinawa
 Zweigen Kanazawa,    Kanazawa  # Ishikawa Prefecture
 
 Giravanz Kitakyushu,    Kitakyushu  # Fukuoka Prefecture
+  | Giravanz Kitakyush
+
+FC Gifu,  Gifu
+  | Football Club Gifu

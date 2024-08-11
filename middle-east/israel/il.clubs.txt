@@ -69,6 +69,7 @@ Maccabi Petah Tikva FC, Petah Tikva
   | Maccabi Petach-Tikva FC
   | Maccabi Petach-Tikva
   | M. Petach Tik | M. Petach Tikv
+  | M. Petach Tikva
 
 
 Hapoel Petah Tikva FC,   Petah Tikva
@@ -155,4 +156,15 @@ Maccabi Yavne,  Yavne
 MS Dimona,  Dimona
 MS Kafr Qasim,  Kafr Qasim
 Tzeirei Kafr Kanna,   Kafr Kanna
+
+Hapoel Marmorek,    Rehovot
+  | Hapoel Ironi Marmorek Rehovot FC
+  | Hapoel Marmorek FC
+
+Hapoel Iksal,  Iksal
+  | Hapoel Imad Iksal
+  | Hapoel Iksal Imad
+
+Hapoel Kfar Shalem,    Kfar Shalem   # neighbourhood of Tel Aviv
+  | Hap. Kfar Shalem
 

@@ -153,6 +153,8 @@ ASV Draßburg, Draßburg
 SC-ESV Parndorf,   Parndorf
   | Parndorf | SC-ESV Parndorf 1919
   | SC/ESV Parndorf | SC/ESV Parndorf 1919
+  | SC Parndorf
+
 SV Stegersbach,    Stegersbach
 
 SV Oberwart,   Oberwart
@@ -218,6 +220,8 @@ SKN St. Pölten, 2000,      St. Pölten
   | $$spusu$$ Sportklub Niederösterreich St. Pölten
 
 ii) SKN St. Pölten Juniors
+  | St. Pölten Amat.
+
 
 VSE St. Pölten (1920-1998), St. Pölten
   | Voith-Schwarze Elf St. Pölten
@@ -639,7 +643,9 @@ FC St. Veit
   | FC Sankt Veit
 FC Lendorf
   | Lendorf
-
+  | SV Lendorf
+  # Der Verein wurde 1981 als Fußballsektion des SV Lendorf gegründet
+  #   und trug daher auch den Namen SV Lendorf
 
 ASKÖ Köttmannsdorf
   | Köttmannsdorf
@@ -760,6 +766,7 @@ SVG Reichenau
   | SVG Reichenau-Innsbruck
 
 FC Zirl
+  | Zirl
 SV Reutte
 SC Kundl
 

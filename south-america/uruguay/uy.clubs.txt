@@ -20,8 +20,13 @@ Danubio FC, 1932,              Montevideo
   | Danubio | Danubio Fútbol Club
 El Tanque Sisley, 1941,        Montevideo
   | Deportivo El Tanque Sisley
+
 Centro Atlético Fénix, 1916,   Montevideo
   | Fénix | CA Fénix
+  | Fénix Montevideo
+  | Atletico Fénix Mon
+
+
 CS Miramar Misiones, 1906,     Montevideo
   | Miramar Misiones | Club Sportivo Miramar Misiones
 Montevideo Wanderers, 1902,    Montevideo
@@ -48,9 +53,7 @@ Montevideo City,               Montevideo
   | Torque
 # Founded in 2007 as Club Atlético Torque
 
-CA Fénix, Montevideo
-  | Centro Atlético Fénix
-  | Fenix Montevideo
+
 
 Juventud de Las Piedras, 1935,    Las Piedras
   | Juventud | Juventud Piedras | Club Atlético Juventud de Las Piedras

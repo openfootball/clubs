@@ -30,6 +30,7 @@ CF Fuenlabrada, Fuenlabrada      ##   autonomous community of Madrid
 
 CF Rayo Majadahonda, 1976,  Majadahonda
   | Rayo Majadahonda | Club de Fútbol Rayo Majadahonda
+  | R. Majadahonda
 
 
 == Andalucía ==
@@ -88,8 +89,14 @@ RCD Espanyol, Barcelona
   | RCD Espanyol de Barcelona
   | Reial Club Deportiu Espanyol de Barcelona
 
+UE Sant Andreu,   Barcelona (Sant Andreu)
+ | Unió Esportiva Sant Andreu
+
+
 Gimnàstic Tarragona, Tarragona
   | Gimnàstic
+  | Gimn. Tarragona
+
 Girona FC,           Gerona
   | Girona | Girona Futbol Club | FC Girona
 
@@ -395,3 +402,36 @@ SD Amorebieta,  Amorebieta-Etxano  # in the Basque Country
 UD Ibiza
   | Ibiza
   | Unión Deportiva Ibiza
+
+
+CD Ebro,  Zaragoza
+ | Club Deportivo Ebro
+
+
+
+CF Villanovense,  Villanueva de la Serena   # Extremadura
+  | Club de Fútbol Villanovense
+
+Union Mutilvera,    Aranguren (Mutilva),  #  Navarre
+  | Unión Deportiva Mutilvera
+
+CD Calahorra,   Calahorra  #  La Rioja
+  | Club Deportivo Calahorra
+
+Lorca FC (2003-2022),   Lorca   # Murcia
+  | Lorca Fútbol Club
+  | La Hoya Lorca CF
+  | La Hoya Deportiva Club de Fútbol
+
+# note  - Not to be confused with Lorca FC.
+CF Lorca Deportiva,  2012, Lorca   # Murcia
+  | Club de Fútbol Lorca Deportiva
+  | Lorca Deportiva
+
+
+Ontinyent CF (1947-2019),   Ontinyent    # Valencia
+  | Ontinyent Club de Fútbol
+
+Ontinyent 1931 CF, 2019,  Ontinyent    # Valencia
+  | Ontinyent 1931 Club de Futbol
+# Refounded in 2019 as the successor of Ontinyent CF

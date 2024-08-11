@@ -48,8 +48,8 @@ Atlético El Vigía,     El Vigía
 
 
 # note - Llaneros FC   name in use by club in Colombia!!!
-Llaneros Guanare,     Guanare    
-  | Llaneros FC           
+Llaneros Guanare,     Guanare
+  | Llaneros FC
   | Llaneros | Llaneros de Guanare
   | Llaneros Escuela de Fútbol
 
@@ -77,4 +77,8 @@ Rayo Zuliano,  Maracaibo
   | Deportivo Rayo Zuliano
   | Departivo Rayo
 
-  
+Mineros de Guayana,    Puerto Ordaz
+  | Asociación Civil Club Deportivo Mineros de Guayana
+  | ACCD Mineros de Guayana
+  | Mineros
+  | Min. Guayana

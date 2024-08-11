@@ -10,7 +10,7 @@ Millonarios Bogotá,       Bogotá
   | Azul & Blanco - Millonarios F.C.
 
 Independiente Santa Fe,   Bogotá
-  | Santa Fe | Indep. Santa Fe
+  | Santa Fe | Indep. Santa Fe | Ind. Santa Fe
   | CI Santa Fe
   | Club Independiente Santa Fe
   | Corporación Deportiva Santa Fe
@@ -127,8 +127,11 @@ Boyacá Chicó,      Tunja
 Rionegro Águilas, Rionegro
   | Águilas Doradas
   | Águilas Doradas Rionegro
+  | Rionegro Águil
 
 Unión Magdalena,  Santa Marta
+  | UM Santa Marta
+
 
 Deportivo Pereira,  Pereira
   | Deportes Pereira

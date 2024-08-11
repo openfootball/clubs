@@ -26,6 +26,8 @@ Gibraltar Phoenix FC
 FC Magpies
   | Magpies
   | FCB Magpies
+  | FC Bruno's Magpies
+
 Mons Calpe SC
   | Mons Calpe
 Boca Juniors Gibraltar FC

@@ -3,7 +3,7 @@
 
 Universidad de Chile,   Santiago (Ñuñoa)
   | U. de Chile | Club Universidad de Chile
-  | Univers. de Chile
+  | Univers. de Chile | Univ. de Chile
 
 Universidad Católica,   Santiago (Las Condes)
   | CDUC | Univ. Católica | CD Universidad Católica | Club Deportivo Universidad Católica
@@ -16,7 +16,7 @@ Colo-Colo,         Santiago (Macul)
 CD Palestino,  Santiago (La Cisterna)
   | Club Deportivo Palestino
   | Palestino
-  
+
 CD Magallanes,  1897,      Santiago (San Bernardo)
   | Club Deportivo Magallanes
   | Magallanes
@@ -51,6 +51,7 @@ Unión La Calera,     La Calera
   | Un. La Calera
 CD Universidad de Concepción,      Concepción
   | Univ. d. Concepción | Universidad de Concepción
+  | UD Concepción
 Deportes Vallenar,   Vallenar
   | Club de Deportes Vallenar
 Deportes La Serena,  La Serena
@@ -65,5 +66,4 @@ CD Ñublense,    1916,    Chillán   # capital city of the Ñuble Region in the 
    | Ñublense
 
 Deportes Melipilla, Melipilla  #  a comune in the Santiago Metropolitan Region
-   | Corporacion de Deportes Melipilla  
-   
+   | Corporacion de Deportes Melipilla
