@@ -28,6 +28,7 @@ NK Široki Brijeg
 FK Borac Banja Luka
   | Borac | FK Borac
   | Borac Banja Luka     # champs (1): 2011/12
+  | Borac Banja L.
 
 FK Modriča
   | Modriča

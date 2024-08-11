@@ -65,7 +65,7 @@ SC Dnipro-1,  2017,  Dnipropetrovsk      ## todo/check - differnt from FC Dnipro
 FC Vorskla Poltava
   | Vorskla
   | Vorskla Poltava
-  | Vorskla Poltawa [de]
+  | Vorskla Poltawa [de] | Vorskla Poltaw [de]
   | Futbolnyy Klub Vorskla (Poltava)
 
 FC Karpaty Lviv, 1963, Lviv
@@ -79,7 +79,7 @@ FC Lviv, 2006, Lviv
 
 FC Rukh Lviv,  2003, Lviv
   | Rukh Lviv
-  | Futbolnyy Klub Rukh Lviv 
+  | Futbolnyy Klub Rukh Lviv
   | Rukh Vynnyky
 ## In 2003  founded as FC Rukh Vynnyky
 
@@ -95,7 +95,7 @@ SC Tavriya Simferopol
 
 FC Zorya Luhansk
   | Zorya | Zorya Luhansk
-  | Sorja Luhansk [de] | FK Sorja Luhansk [de] 
+  | Sorja Luhansk [de] | FK Sorja Luhansk [de]
   | Zorya Lugansk [de] | FC Zorya Lugansk [de]
   | Futbolnyy Klub Zorya (Luhansk)
   | Zorya Voroshilovgrad   # champs (1): 1973/74
@@ -125,14 +125,16 @@ FC Chornomorets Odesa
 
 Desna Chernihiv
   | Desna
-  | SFC Desna Tscherni
   | FC Desna Chernihiv
   | FK Desna Chernihiv
   | Desna Chernigov
   | Sportyvno-Futbolnyi Klub Desna Chernihiv
+  | Desna Tscherni
+  | SFC Desna Tscherni
 
 
 Kolos Kovalivka
+  | K. Kovalivka
   | FC Kolos Kovalivka
   | Futbolnyy Klub Kolos Kovalivka
 
@@ -156,16 +158,16 @@ FC Kryvbas Kryvyi Rih, 1959,  Kryvyi Rih
 NK Veres Rivne,  1957, Rivne
   | Veres | Veres Rivne
   | Narodnyy Klub Veres Rivne
-  
 
 
-LNZ Cherkasy,   Cherkasy  
+
+LNZ Cherkasy,   Cherkasy
   | FC LNZ Cherkasy | LNZ Cherkasy FC
   | Futbolnyi Klub LNZ Cherkasy
   | LNZ
 
 
-FC Mynai,  Mynai	
+FC Mynai,  Mynai
   | Futbolnyy Klub Mynai
 
 
@@ -175,7 +177,7 @@ Polissya Zhytomyr,  Zhytomyr
 
 Inhulets Petrove,   Petrove
   | FC Inhulets Petrove
-  | Futbolnyy Klub Inhulets Petrove  
+  | Futbolnyy Klub Inhulets Petrove
   | Football Club Inhulets Petrove
 
 
@@ -185,7 +187,7 @@ FC Zirka Kropyvnytskyi,  1911,   Kropyvnytskyi   # in Kirovohrad Oblast
   | FK Zirka Kirovohrad
 
 
-FC Hirnyk-Sport,  1989, Horishni Plavni 
+FC Hirnyk-Sport,  1989, Horishni Plavni
   | Hirnyk | Hirnyk-Sport
   | FC Hirnyk-Sport Horishni Plavni
   | Hirnyk-Sport Horishni Plavni

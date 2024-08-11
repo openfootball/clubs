@@ -35,6 +35,8 @@ FC Irtysh Pavlodar
 
 FC Ordabasy Shymkent
   | Ordabasy | Ordabasy Shymkent
+  | Ordabassy Sch.
+
 
 FC Atyrau
   | Atyrau
@@ -53,8 +55,13 @@ FC Alma-Ata (2000-2008),  Almaty
   | Alma-Ata
 
 
-FC Kaysar Kyzylorda
+FC Kaysar Kyzylorda,     Kyzylorda
   | Kaysar
+  | FC Kaysar
+  | FC Kaisar
+  | FC Qaisar Qys
+
+
 FC Taraz
 
 FK Zhenys

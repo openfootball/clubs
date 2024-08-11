@@ -17,6 +17,7 @@ PFC Levski Sofia, 1914,     Sofia
 
 PFC Slavia Sofia, 1913,     Sofia
   | Slavia Sofia | Professional Football Club Slavia Sofia
+  | PFC Slavia Sof
 
 PFC Lokomotiv Sofia, 1929, @ Stadion Lokomotiv, Sofia
   | Lokomotiv Sofia
@@ -48,6 +49,7 @@ PFC Botev Plovdiv, 1912,       Plovdiv
 
 PFC Lokomotiv Plovdiv, 1926,   Plovdiv
   | Lokomotiv Plovdiv
+  | Lok. Plovdiv
   | PFC Lokomotiv Plovdiv 1926
   | PFC Lokomotiv Plovdiv 1936    ## todo/check: if 1936 is error (used by wikipedia?)
 

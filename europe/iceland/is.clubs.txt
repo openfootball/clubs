@@ -16,6 +16,7 @@ Valur Reykjavík,  1911, Reykjavík
 Víkingur Reykjavík, Reykjavík
   | Víkingur R.
   | KF Víkingur | Víkingur
+  | Víkingur Reykj
 
 
 Fjölnir Reykjavík, Reykjavík
@@ -42,8 +43,10 @@ Grótta,   Seltjarnarnes
 
 ÍA Akranes,   Akranes
   | ÍA | Íþróttabandalag Akraness
+
 FH Hafnarfjörður,  Hafnarfjörður    # note - Hafnarfjördur (auto-match via unaccent)
   | FH
+  | Hafnarfjörður
   | FH Hafnarfjardar
 
 Breiðablik,          Kópavogur

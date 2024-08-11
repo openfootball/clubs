@@ -21,7 +21,10 @@ CF Esperança d'Andorra, Andorra la Vella
 UE Sant Julià,  Sant Julià
   | Sant Julià
 
+
 FC Santa Coloma, Santa Coloma
+  | FC Santa Colom | FC Santa Colo
+
 UE Santa Coloma, Santa Coloma
 
 
@@ -34,6 +37,7 @@ Atlètic Club d'Escaldes,   Escaldes-Engordany
 
 Inter Club d'Escaldes,   Escaldes-Engordany
   | Inter Escaldes
+  | Inter Club DE
 
 CE Carroi,   Escaldes-Engordany
   | Carroi | Club Esportiu Carroi

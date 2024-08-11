@@ -3,12 +3,13 @@
 
 KF Drita,  1947,  Gjilan
   | Drita | Klubi Futbollistik Drita
-  | Drita Gjilan | Drita KF Gjilan 
+  | Drita Gjilan | Drita KF Gjilan
   | FC Drita
 
 FC Prishtina,     Prishtina
   | Prishtina
   | Prishtina KF
+  | FC Pristina
 
 Flamurtari Prishtina,  Prishtina
 
@@ -19,11 +20,11 @@ KF Trepça'89,   Mitrovica      ## note:  Not to be confused with FK Trepča or 
 FC Ballkani,  1947,  Suva Reka  # or Suharekë or Therandë
   | Ballkani
   | Klubi Futbollistik Ballkani
-  | Football Club Ballkani 
-  | KF Ballkani Suhareka 
+  | Football Club Ballkani
+  | KF Ballkani Suhareka
 
 
-FC Suhareka, 2023,  Suva Reka  # or Suharekë or Therandë  
+FC Suhareka, 2023,  Suva Reka  # or Suharekë or Therandë
   | Suhareka
   | Football Club Suhareka
   | Klubi Futbollistik Suhareka
@@ -35,7 +36,7 @@ KF Feronikeli
 
 KF Gjilani
   | Klubi Futbollistik Gjilani
-  | SC Gjilani [en] 
+  | SC Gjilani [en]
   | Sport Club Gjilani [en]
   | Gjilani
 

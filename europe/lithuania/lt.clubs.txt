@@ -13,12 +13,15 @@ FK TransINVEST,   Galinė   # in  Vilnius County
 
 
 VMFD Žalgiris,  Vilnius
-  | Žalgiris | Žalgiris Vilnius | FK Žalgiris | FK Žalgiris Vilnius | Vilnius FK Žalgiris
-
+  | Žalgiris | Žalgiris Vilnius | FK Žalgiris | FK Žalgiris Vilnius
+  | Vilnius FK Žalgiris
+  | Žalg. Vilnius
 
 FK Kauno Žalgiris,  Kaunas
   | Kauno Žalgiris
   | FK Žalgiris Kaunas
+  | Žalg. Kaunas
+
 FC Stumbras,        Kaunas
   | Stumbras | Stumbras Kaunas
 

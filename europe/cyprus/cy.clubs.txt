@@ -47,6 +47,7 @@ Karmiotissa Pano Polemidia,  Limassol (Pano Polemidia)
 
 Anorthosis Famagusta FC, Larnaca         ## note: originally based in Famagusta, now based in Larnaca
   | Anorthosis | Anorthosis Famagusta
+  | Anorthosis F.
 
 AEK Larnaca FC,  Larnaca
   | AEK Larnaca

@@ -83,6 +83,7 @@ FC Ilves,            Tampere
   | Ilves | Ilves Tampere
   | FC Ilves Tampere
   | Tampereen Ilves
+  | Tampereen Ilve
 # They were formed in 1975 as a merger between
 #  Ilves-Kissat Tampere and TaPa Tampere
 

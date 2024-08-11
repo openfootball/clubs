@@ -31,6 +31,7 @@ FC Dnepr Mogilev
 FC Shakhtyor Soligorsk
   | Shakhtyor
   | Shakhter Soligorsk
+  | Sh. Soligorsk
   | Shakhtyor Soligorsk   # champs (1): 2006/07
   | Shakhtior Saligorsk
   | FK Šachcior Salihorsk | Šachcior S.

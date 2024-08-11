@@ -80,6 +80,9 @@ KVC Westerlo, 1933,    Westerlo › Antwerpen › Vlaanderen
 
 K Lierse SK,    Lier     › Antwerpen › Vlaanderen
   | Lierse | Lierse SK
+  | KFC Oosterzonen
+## founded in 1943 as Oosterzonen in Oosterwijk,
+#   was relocated to Lier following the bankruptcy of Lierse in 2018
 
 
 == Limburg › Vlaanderen ==
@@ -148,7 +151,7 @@ KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
 KMSK Deinze,  1926,   Deinze
   | Deinze
   | Koninklijke Maatschappij Sportkring Deinze
-
+  | MSK Deinze
 
 
 == West-Vlaanderen › Vlaanderen ==
@@ -241,5 +244,6 @@ RFC Seraing, Seraing
   | Royal Football Club Seraing
 AFC Tubize, Tubize
   | Tubize
+  | FC Tubize
 Oud-Heverlee Leuven, 2002,   Leuven   ## Flemish Brabant > Flanders
   | Leuven | OH Leuven | Oud-Heverlee

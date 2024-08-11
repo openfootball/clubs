@@ -3,6 +3,7 @@
 
 FC Levadia Tallinn
   | Levadia | Levadia Tallinn
+  | Levadia Tall.
   | FC Levadia Maardu
   | FCI Levadia | FCI Levadia Tallinn
   | FCI
@@ -61,6 +62,7 @@ JK Tammeka Tartu
 Paide Linnameeskond,   Paide
   | Paide
   | Paide Linnameesk.
+  | Paide Linnam.
 
 
 JK Tulevik Viljandi,   Viljandi

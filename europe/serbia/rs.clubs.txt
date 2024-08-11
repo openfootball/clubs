@@ -23,6 +23,7 @@ FK Rad Belgrade, Belgrade
 FK Čukarički, 1926,   Belgrade (Čukarica)
   | Čukarički | Čukarički Belgrade
   | Čukarički Belgrad [de]
+  | Čukarički Belg
 
 
 FK Bežanija,  1921,   Belgrade (New Belgrade)
@@ -93,6 +94,7 @@ Bačka Topola,  1913,   Bačka Topola
   | FK TSC
   | TSC
   | Topolski Sportski Club
+  | FK Topola
 
 FK Napredak
   | Napredak | Napredak Krusevac

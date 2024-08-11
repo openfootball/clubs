@@ -4,6 +4,7 @@
 FK Budućnost Podgorica, 1925,  Podgorica
   | Budućnost | Budućnost Podgorica
   | Bud. Podgorica
+  | B. Podgorica
 
 FK Podgorica, 1970,   Podgorica
   | Fudbalski klub Podgorica
@@ -17,6 +18,8 @@ FK Mogren (1920-2016),  Budva
 FK Zeta
   | Zeta
   | Zeta Golubovci
+  | FK Zeta Golub
+
 FK Rudar Pljevlja
   | Rudar Pljevlja
 OFK Petrovac
@@ -25,6 +28,7 @@ FK Čelik Nikšić
   | Čelik Nikšić
 FK Sutjeska
   | Sutjeska | Sutjeska Nikšić | FK Sutjeska Nikšić
+  | Sutj. Nikšić
 
 OFK Titograd
   | Titograd
@@ -35,6 +39,7 @@ FK Lovćen
   | Lovćen
 FK Iskra
   | Iskra
+  | FK Iskra Danil
 
 Mladost Ljeskopolje
 FK Kom

@@ -4,16 +4,23 @@
 
 FC Dinamo Tbilisi, Tbilisi,  Tbilisi
   | Dinamo Tbilisi
+  | Dinamo Tiflis [de]
   | FC Dinamo Tiflis [de]
 
 FC Locomotive Tbilisi,   Tbilisi
   | Locomotive Tbilisi
   | FC Lokomotive Tbilisi
   | Lokomotiv Tbilisi
+  | FC Lokomotivi
 
-FC Iberia 1999 Tbilisi, Tbilisi
+FC Iberia 1999 Tbilisi, Tbilisi (Saburtalo)
   | Iberia
   | FC Iberia 1999
+  | FC Saburtalo | Saburtalo
+  | Sab. Tiflis [de]
+# note - On 27 February 2024, the team's name was changed to Iberia 1999
+
+
 
 FC Ameri Tbilisi (2002-2009), Tbilisi
   | Ameri
@@ -42,10 +49,12 @@ FC Gagra
 
 FC Torpedo Kutaisi
   | Torpedo Kutaisi
+  | Torp. Kutaisi
 
 
 FC Chikhura Sachkhere
   | Chikhura | Chikhura Sachkhere
+  | Ch. Sachkhere
 FC Samtredia
   | Samtredia
 FC Dinamo Batumi
@@ -58,8 +67,6 @@ FC Sioni Bolnisi
   | Sioni
   | Sioni Bolnisi    # champs (1): 2006/07
 
-FC Saburtalo
-  | Saburtalo
 
 FC Kolkheti Poti, 1913,  Poti
   | FC Kolkheti-1913 Poti

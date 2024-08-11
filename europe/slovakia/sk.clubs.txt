@@ -69,6 +69,7 @@ AS Trenčín
 FC DAC 1904 Dunajská Streda
   | Dunajská Streda
   | DAC Dunajská Streda
+  | Dunajská Str.
 
 MFK Ružomberok
   | Ružomberok

@@ -26,6 +26,7 @@ FC Dinamo City,  1950,    Tirana
 FK Partizani Tirana, Tirana
   | Partizani | FK Partizani
   | Partizani Tirana
+  | Partiz. Tirana
 
 
 
@@ -54,6 +55,7 @@ KF Laçi,    Laç
 
 FK Kukësi,  Kukës
   | Kukës | Kukësi
+  | KS Kukësi
 
 
 KS Luftëtari,   Gjirokastër

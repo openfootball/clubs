@@ -3,6 +3,7 @@
 
 NK Olimpija Ljubljana,   Ljubljana
   | Olimpija Ljubljana
+  | Ol. Ljubljana
 NK IB Ljubljana,   Ljubljana
   | IB Ljubljana
 

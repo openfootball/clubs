@@ -8,6 +8,7 @@ FK Makedonija Skopje, 1932,  Skopje (Gjorče Petrov)
   | Makedonija | FK Makedonija GP Skopje
   | Makedonija GP
   | FK Makedonija Gjorče Petrov
+  | Gjorče Petrov
 
 FK Vardar,  Skopje
   | Vardar
@@ -43,6 +44,7 @@ FK Shkëndija 79
   | Shkëndija
   | KF Shkëndija | KF Shkëndija 79
   | Shkëndija Tetovo
+  | Shk. Tetovo
 
 FK Teteks
   | Teteks
@@ -60,11 +62,13 @@ Brera Strumica, 2010,    Strumica
   | FK AP Brera Strumica
   | Fudbalski Klub Akademija Pandev Brera Strumica
   | Akademija Pandev
+  | Ak. Pandev
 
 
 FK Sileks, 1965,   Kratovo
   | Sileks
   | Sileks Kratovo
+  | FK Sileks Krat | FK Sileks Kra
 
 FK Turnovo
   | Turnovo

@@ -60,12 +60,14 @@ Simurq PFK (2005-2015),  Zaqatala
 
 Gabala SC
   | Gabala
-  | Gabala FK
+  | Gabala FK | FK Gabala
   | Qäbälä
 
 Keşla FK
   | Keşla
   | Keşlə FK   ## todo/fix: auto-create variants ş=>ş (with cedilla? and comma?)
+  | FK Keshla
+
 
 Käpäz PFK, 1959,    Ganja
   | Käpäz   # champs (2): 2000..1998 (2)
@@ -74,11 +76,14 @@ Käpäz PFK, 1959,    Ganja
   | Kapaz Professional Football Club
 
 Sabail
-  | Səbail FK
+  | Səbail FK   ### todo/fix - add  ə to unaccent ???
   | Sabail FC
+  | Sabail FK
 
 Sumqayıt FK
   | Sumqayıt
+  | Sumgayit FK
+
 
 Sabah FC
   | Sabah

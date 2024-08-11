@@ -4,6 +4,7 @@
 FC Sheriff Tiraspol, Tiraspol
   | Sheriff | FC Sheriff | Sheriff Tiraspol | FC Tiraspol
   | Tiraspol
+  | FC Sheriff T.
 
 FC Dinamo-Auto Tiraspol, Tiraspol
   | Dinamo-Auto
@@ -47,18 +48,20 @@ FC Saxan
 FC Sfintul Gheorghe Suruceni
   | FC Sfintul Gheorghe | Sfintul Gheorghe
   | FCSG
-
+  | FC Sfintul Gh | FC Sfintul Ghe
 
 FC Speranța Nisporeni
   | Speranța Nisporeni
+  | Sp. Nisporeni
 
 FC Codru
 
 
 CS Petrocub Hîncești, 1990, Sărata-Galbenă
-  | FC Petrocub-Hincesti
   | CS Petrocub
   | Petrocub | Petrocub-Hincesti
+  | FC Petrocub-Hincesti
+  | FC Petrocub
 
 CF Spartanii Sportul Selemet
   | Spartanii

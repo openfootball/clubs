@@ -23,6 +23,7 @@ Apollon Smyrnis FC,  Athens
 Atromitos FC,      Athens    ## use!? - Peristeri a suburban municipality in the northwestern part of the Athens agglomeration
   | Atromitos
   | PAE APS Atromitos Athinon
+  | Atromitos Ath.
   | Atromitos Athen [de]
 
 Panionios GSS,     Athens    ## use!? - Nea Smyrni a municipality and a southern suburb of Athens
@@ -44,7 +45,7 @@ Ethnikos Asteras FC, Athens   ## Kaisariani - a suburban town and a municipality
 
 
 AE Kifisia FC, Athens  ##  Kifissia - a suburban town in the Athens agglomeration
-  | AE Kifisia  
+  | AE Kifisia
   | Athlitiki Enosi Kifisia
   | Kifisia
 

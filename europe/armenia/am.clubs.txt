@@ -14,6 +14,7 @@ FC Ararat Yerevan, 1935,  Yerevan
 Ararat-Armenia FC, 2017,  Yerevan
   | Ararat-Armenia
   | FC Ararat-Armenia
+  | Ararat-Arm.
 
 FC BKMA Yerevan,   1947,  Yerevan
   | Banaki Kentronakan Marzakan Akumb   # en - Central Sport Club of the Army
@@ -36,9 +37,10 @@ Zvartnots-AAL FC (1997-2003),  Yerevan
 
 
 
-FC Pyunik
+FC Pyunik,  Yerevan
   | Pyunik | Pyunik FC
   | Pyunik Yerevan
+  | Pyu. Yerevan
   | FC Pyunik Yerevan
   | Pjunik Erewan [de]
 
