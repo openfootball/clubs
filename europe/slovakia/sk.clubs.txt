@@ -58,6 +58,10 @@ Dukla Banská Bystrica
   | MFK Dukla Banská Bystrica
   | FK Dukla Banská Bystrica
 
+MŠK Považská Bystrica,  Považská Bystrica
+  | Považská Bystrica
+
+
 FC Nitra
   | Nitra
 MFK Petržalka
@@ -117,7 +121,7 @@ FC Senec (1994-2008), Senec
 FK Pohronie,     Žiar nad Hronom
 
 FK Železiarne Podbrezová,  Podbrezová
-  | ŽP Šport Podbrezová
+  | ŽP Šport Podbrezová | Šport Podbrezová
   | Podbrezová
 # 1936 – Renamed ŠKP Podbrezová
 # 2006 – Merged with Brezno and renamed FO ŽP Šport Podbrezová
@@ -130,3 +134,6 @@ KFC Komárno,   1900,  Komárno
   | Komárňanský futbalový club
   | Komáromi Football Club
   | KFC
+
+FK Humenné,  Humenné
+

@@ -146,6 +146,7 @@ FC Metalurh Zaporizhya,    1935,   Zaporizhya
   | Metalurh Zaporizhya | MFC Metalurh Zaporizhya | Municipal Football Club Metalurh Zaporizhya
   | Metalurg Zaporizhya
   | Metalurg Zaporizhia
+  | Metalurh Zaporizhy
 
 FC Kryvbas Kryvyi Rih, 1959,  Kryvyi Rih
   | Kryvbas
@@ -162,10 +163,16 @@ NK Veres Rivne,  1957, Rivne
 
 
 
-LNZ Cherkasy,   Cherkasy
+LNZ Cherkasy,  2006,  @ Central Stadium,   Cherkasy
   | FC LNZ Cherkasy | LNZ Cherkasy FC
   | Futbolnyi Klub LNZ Cherkasy
+  | Football Club LNZ Cherkasy [en]
   | LNZ
+  | LNZ Lebedyn
+# name history:
+# 2006–2013: FC Shpola-LNZ-Lebedyn Shpola
+# 2013–2021: FC LNZ-Lebedyn Lebedyn
+# 2021–present: FC LNZ Cherkasy
 
 
 FC Mynai,  Mynai
@@ -181,6 +188,7 @@ Inhulets Petrove,   Petrove
   | FC Inhulets Petrove
   | Futbolnyy Klub Inhulets Petrove
   | Football Club Inhulets Petrove
+  | FC Ingulets
 
 
 

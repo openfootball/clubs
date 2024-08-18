@@ -78,7 +78,7 @@ Tuzlaspor,  İstanbul (Tuzla)
 Pendikspor,   1950,  İstanbul (Pendik)
   | Pendik Spor Kulubü
 
-Karagümrük,   Istanbul (Karagümrük)  # Karagümrük neighbourhood Fatih district   
+Karagümrük,   Istanbul (Karagümrük)  # Karagümrük neighbourhood Fatih district
   | Fatih Karagümrük Spor Kulübü
 
 Eyüpspor,   Istanbul (Eyüp)
@@ -131,7 +131,7 @@ Keçiörengücü,  Ankara
 
 
 
-Ankara Keçiörengücü,  Keçiören   ## ›  Ankara  
+Ankara Keçiörengücü,  Keçiören   ## ›  Ankara
   | Ankara Keçiörengücü Spor Kulübü
 
 
@@ -216,6 +216,7 @@ Adanaspor,  1954,      Adana
   | Adanaspor AŞ
 Adana Demirspor, 1940, Adana
   | Ad. Demirspor | Adana Demir Spor Kulübü
+  | Adana Demirsp.
 
 
 Gaziantepspor, 1969,  Gaziantep
@@ -295,18 +296,22 @@ Hatayspor,  1967,  Antakya       # Hatay Province
 Bandırmaspor,  Bandırma   ## ›  Balıkesir
 
 Çorum,  Çorum   ## ›  Çorum
-  |  Çorum Futbol Kulübü 
+  |  Çorum Futbol Kulübü
+  |  Çorum Belediyespor
+#  note  Belediyespor - en: Municipality Sports
+#        Belediyesi   - en: Municipality
+#        Kulübü       - en: Club
 
-Manisa,  Manisa  ## ›  Manisa  
+Manisa,  Manisa  ## ›  Manisa
   | Manisa FK
   | Manisa Futbol Kulübü
   | Manisa Büyükşehir Belediyespor  # formerly
 
 
-Bodrum,  1931,  Bodrum   ## ›  Muğla  
+Bodrum,  1931,  Bodrum   ## ›  Muğla
   | Bodrumspor
   | Bodrum FK
-  | Bodrum Futbol Kulübü 
+  | Bodrum Futbol Kulübü
   | Bodrum Belediyesi Bodrumspor
 
 

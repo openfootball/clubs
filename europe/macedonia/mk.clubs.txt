@@ -6,7 +6,7 @@ FK Metalurg Skopje,  Skopje
 
 FK Makedonija Skopje, 1932,  Skopje (Gjorče Petrov)
   | Makedonija | FK Makedonija GP Skopje
-  | Makedonija GP
+  | Makedonija GP | Makedonija GjP
   | FK Makedonija Gjorče Petrov
   | Gjorče Petrov
 

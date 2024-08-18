@@ -95,3 +95,13 @@ NK Rogaška,   Rogaška Slatina
  | Nogometni klub Rogaška
  | Rogaška
 
+
+NK Bistrica,     Slovenska Bistrica
+  | Nogometni klub Bistrica
+  | Bistrica
+
+
+ND Beltinci,   Beltinci
+  | Nogometno društvo Beltinci
+#  established in 2006 as a phoenix club of NK Beltinci
+

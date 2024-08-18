@@ -19,6 +19,7 @@ ii) South Georgia Tormenta 2
 
 == Alabama ==
 Birmingham Legion FC,  Birmingham
+  | Birmingham Legion
 
 == Arkansas ==
 Little Rock Rangers,   Little Rock
@@ -160,6 +161,7 @@ Philadelphia Lone Star FC,  Philadelphia
 
 Pittsburgh Riverhounds SC,  Pittsburgh
   | Pittsburgh Riverhounds
+  | Pittsburgh Riverho
 
 Erie Commodores FC,       Erie
 Reading United AC,        Reading
@@ -251,6 +253,7 @@ Tacoma Defiance,   Tacoma
 
 == Oregon ==
 Portland Timbers, 2011,  Portland         ## year  2009?  -- Hillsboro, Oregon ??
+  | Portland T.
   | Portland
 ii) Portland Timbers 2
 

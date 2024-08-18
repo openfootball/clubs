@@ -20,7 +20,7 @@ Club Deportivo Oriente Petrolero,  Santa Cruz de la Sierra
 
 Club Blooming,             Santa Cruz de la Sierra
   | Blooming
-  | CSCyD Blooming 
+  | CSCyD Blooming
   | Club Social Cultural y Deportivo de Blooming
 
 Real Santa Cruz,          Santa Cruz de la Sierra
@@ -50,7 +50,7 @@ Club Deportivo San José,           Oruro
 # Not to be confused with Club San José.
 GV San José,   	Oruro
   | GV San José Oruro
-  | G. Villarroel CD San José 
+  | G. Villarroel CD San José
   | Club Gualberto Villarroel Deportivo San José
 
 
@@ -79,7 +79,7 @@ Universitario de Vinto,	 Cochabamba
   | FC Universitario
   | FC Universitario de Vinto
   | Fútbol Club Universitario de Vinto
- 
+
 
 San Antonio Bulo Bulo,	Entre Ríos
   |  San Ant. Bulo Bulo
@@ -115,12 +115,13 @@ Real Tomayapo, 	Tarija
 
 
 
-Palmaflor del Trópico,  2008,  Villa Tunari   # or Tunari in the department of Cochabamba 
+Palmaflor del Trópico,  2008,  Villa Tunari   # or Tunari in the department of Cochabamba
   | Club Deportivo Palmaflor del Trópico
   | Municipal Vinto          # (-2019)
-  | Club Atlético Palmaflor  # (-2022)  
-  | CA Palmaflor 
-# The club was named Municipal Vinto until 2019, and 
+  | Club Atlético Palmaflor  # (-2022)
+  | CA Palmaflor
+  | Club At. Palmaflor
+# The club was named Municipal Vinto until 2019, and
 #  Club Atlético Palmaflor until the end of 2022
 #   the club was moved from Vinto to Quillacollo
 #   by its new owners in 2018

@@ -132,6 +132,7 @@ América MG,     Belo Horizonte
   | América FC | América Futebol Clube
   | América Futebol Clube (MG)
   | América FC (Belo Horizonte)
+  | Am. Mineiro
 Tupi MG,   Juiz de Fora
   | Tupi | Tupi FC | Tupi Football Club
 
@@ -144,6 +145,11 @@ Ipatinga Futebol Clube, 1998, Ipatinga
 
 Betim FC, 2006,   Betim
   | Betim Futebol Clube
+
+Tombense FC, Tombos
+  | Tombense Futebol Clube
+  | Tombense
+  | Tombense FC MG
 
 
 == Rio Grande do Sul ==
@@ -175,6 +181,10 @@ América de Natal,  1915,    Natal
   | América RN
   | América Futebol Clube (RN)
 
+ABC FC RN,   Natal
+  | ABC Futebol Clube
+  | ABC FC
+  | ABC
 
 
 == Paraíba ==

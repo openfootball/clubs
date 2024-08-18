@@ -35,6 +35,7 @@ Bohemians Praha 1905, 1905,  @ Ďolíček, Praha
   | FC Bohemians Prag 1905
   | Bohemians EKD Praha      # champs (1): 1983/84
   | Bohemians Prague 1905 [en]
+  | Bohem. Prag
 
 
 FK Viktoria Žižkov, 1903, Praha (Žižkov)

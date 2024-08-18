@@ -93,6 +93,7 @@ Atlético Bucaramanga, Bucaramanga
 
 Real Santander,   Bucaramanga
   | Club Deportivo Real Santander
+  | CD Real Santander
 
 
 Atlético Huila, Neiva
@@ -135,7 +136,7 @@ Unión Magdalena,  Santa Marta
 
 Deportivo Pereira,  Pereira
   | Deportes Pereira
-
+  | Dep. Pereira
 
 
 

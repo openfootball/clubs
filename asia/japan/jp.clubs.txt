@@ -128,3 +128,14 @@ Giravanz Kitakyushu,    Kitakyushu  # Fukuoka Prefecture
 
 FC Gifu,  Gifu
   | Football Club Gifu
+
+
+Blaublitz Akita,     Akita  #  Akita Prefecture
+
+
+Iwate Grulla Morioka,   Morioka  # Iwate Prefecture
+  | Iwate Grulla Morio
+
+AC Nagano Parceiro,    Nagano  # Nagano Prefecture
+  | Nagano Parceiro
+

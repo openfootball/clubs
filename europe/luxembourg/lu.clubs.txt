@@ -127,7 +127,8 @@ FC Wiltz 71,   Wiltz
 FC Swift Hesperange,  Hesperange
   | Swift Hesperange
   | Football Club Swift Hesper
-  | FC Swift Hesper | Swift Hesper
+  | FC Swift Hesper
+  | Swift Hesper | Swift Hesperan
 
 SC Bettembourg,  1927, Bettemburg
   |	Sporting Club Bettemburg

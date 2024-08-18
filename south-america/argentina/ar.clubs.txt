@@ -6,6 +6,7 @@
 
 All Boys,           Buenos Aires
   | Club Atlético All Boys
+  | CA All Boys
 Argentinos Juniors,  Buenos Aires
   | Argentinos | Argentinos Jrs
   | Argentinos Jun | Arg. Juniors
@@ -96,7 +97,7 @@ Club Atlético Banfield,   Banfield › Buenos Aires
   | Banfield | CA Banfield
 
 Defensa y Justicia,   Gobernador Julio A. Costa › Buenos Aires
-  | Defensa y Just. | Defensa y Jus.
+  | Defensa y Just. | Defensa y Jus. | Defensa y Justic.
   | Club Social y Deportivo Defensa y Justicia
   | CSD Defensa y Justicia
 
@@ -235,6 +236,7 @@ Patronato,           Paraná › Entre Ríos
   | Club Atlético Patronato de la Juventud Católica
   | CA Patronato Juventud Católica
   | Patronato Paraná
+  | Patronato Par.
 
 == Provincia Misiones ==
 

@@ -68,6 +68,7 @@ Carabobo FC,           Valencia
 Trujillanos FC,        Valera
   | Trujillanos
 Academia Puerto Cabello,   Puerto Cabello
+  | A. Pu. Cabello
 Monagas Sport Club,  Maturín
   | Monagas | Monagas SC
 Portuguesa FC,       Acarigua

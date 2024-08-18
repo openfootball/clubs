@@ -40,7 +40,7 @@ Amiens SC,             Amiens   › Hauts-de-France
   | Amiens
   | Amiens Sporting Club Football
 FC Chambly, 1989,   Chambly › Hauts-de-France
-  | Chambly 
+  | Chambly
   | Football Club Chambly Oise
   | Football Club de Chambly Oise
 Angers SCO, 1919,            Angers   › Pays de la Loire   ##  Maine-et-Loire > Pays de la Loire
@@ -79,11 +79,11 @@ Montpellier HSC, 1974,  @ Stade de la Mosson,  Montpellier     ## Hérault > Lan
   | Montpellier-Hérault Sport Club
 
 FC Nantes, 1943,  @ Stade de la Beaujoire-Louis Fonteneau,   Nantes      ## Loire-Atlantique > Pays de la Loire
-  | Nantes 
+  | Nantes
   | Football Club de Nantes
   | Football Club de Nantes Atlantique
 OGC Nice, 1904,   @ Allianz Riviera,  Nice    ## Alpes-Maritimes > Provence-Alpes-Côte d'Azur
-  | Nice  
+  | Nice
   | Olympique Gymnaste Club Nice Côte d'Azur
   | Olympique Club Gymnaste Club de Nice-Côte d'Azur
   | OGC Nizza [de]
@@ -136,7 +136,7 @@ Clermont Foot 63,  @ Stade Gabriel Montpied, Clermont
   | Clermont Foot Auvergne
 
 Le Havre AC,  @ Stade Océane,  Le Havre
-  | Le Havre | Havre AC 
+  | Le Havre | Havre AC
   | Le Havre Athletic Club
   | Le Havre Athletic Club Football
   | AC Le Havre
@@ -160,10 +160,10 @@ US Quevilly-Rouen Métropole,  Petit-Quevilly
   | Union sportive Quevilly-Rouen Métropole
 
 FC Sochaux-Montbéliard, Montbéliard
-  | Football Club Sochaux-Montbéliard 
+  | Football Club Sochaux-Montbéliard
   | Football Club de Sochaux-Montbéliard
-  | Sochaux | FC Sochaux 
- 
+  | Sochaux | FC Sochaux
+
 
 Tours FC, Tours
   | Tours | Tours Football Club | FC Tours
@@ -174,7 +174,7 @@ AC Arles-Avignon, Avignon
   | Arles | Arles-Avignon | Athletic Club Arles-Avignon
 
 SC Bastia, 1905,  Bastia    ## Haute-Corse > Corsica
-  | Bastia 
+  | Bastia
   | Sporting Club de Bastia
   | Sporting Club Bastiais
 
@@ -234,7 +234,7 @@ Perpignan FC,  Canet-en-Roussillon
 
 FC Rouen,  Rouen
   | FC Rouen 1899
-  | Football Club de Rouen 1899 
+  | Football Club de Rouen 1899
   | Rouen
 
 
@@ -322,11 +322,15 @@ Marignane GCB,  Marignane
   | US Marignane
 
 FC Villefranche,  Villefranche-sur-Saône
-  | Football Club Villefranche Beaujolais 
+  | Football Club Villefranche Beaujolais
   | FC Villefranche Beaujolais
   | FCVB
   | Villefranche
- 
- US Avranches,  Avranches
-   | L'Union Sportive Avranches Mont Saint Michel
-   | Avranches
+
+US Avranches,  Avranches
+  | L'Union Sportive Avranches Mont Saint Michel
+  | Avranches
+
+AS Saint-Priest, Saint-Priest
+  | Association Sportive de Saint Priest
+  | Saint-Priest

@@ -225,3 +225,10 @@ CU Fabril Barreiro, 1937, Barreiro
 
 FC Barreirense,  1911,  Barreiro
   | Futebol Clube Barreirense
+
+Amarante FC,    Amarante
+  | Amarante Futebol Clube
+  | Amarante
+
+FC Vilaverdense,    Vila Verde
+  | Länk FC Vilaverdense

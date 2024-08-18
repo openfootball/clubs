@@ -53,6 +53,10 @@ Montevideo City,               Montevideo
   | Torque
 # Founded in 2007 as Club Atlético Torque
 
+La Luz FC,  1929,  Montevideo (Aires Puros)
+  | La Luz
+  | La Luz Fútbol Club
+
 
 
 Juventud de Las Piedras, 1935,    Las Piedras
@@ -65,6 +69,6 @@ Club Plaza Colonia de Deportes,   Colonia
   | Plaza Colonia | Plaza Colonia CD
 
 CD Maldonado,               Maldonado
-  | Deportivo Maldonado
   | Club Deportivo Maldonado
-
+  | Deportivo Maldonado
+  | D. Maldonado

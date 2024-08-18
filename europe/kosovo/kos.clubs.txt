@@ -46,8 +46,14 @@ KF Llapi
   | Llapi
 KF Ferizaj
   | Ferizaj
-Dukagjini
+
 Vushtrria
+
+
+KF Dukagjini,  1958,  @ 18 June Stadium,   Klina      # or Klinë
+  | Klubi Futbollistik Dukagjini Klinë
+  | Dukagjini
+
 KF Malisheva, 2016,  Malisheva
   | Malisheva
   | Klubi i Futbollit Malisheva

@@ -24,6 +24,7 @@ Pumas UNAM, 1954,   Ciudad de México
 Deportivo Toluca FC,  1917,  Toluca › México
   | Toluca | Club Toluca
   | Deportivo Toluca
+  | Dep. Toluca
  Felipe Villanueva No. 300 1er piso,  Colonia San Bernardino //  Toluca, Estado de México. C.P. 50080
 
 Potros UAEM,  1970,  Toluca › México
@@ -37,6 +38,12 @@ CD Guadalajara Chivas, 1906,   Guadalajara (Zapopan) › Jalisco     ## use Zapo
   | Deportivo Guadalajara | Club Deportivo Guadalajara
  Francisco I. Madero No. 5840, Col. Jocotán // Zapopan
 
+CD Tapatío,   Guadalajara
+ | Club Deportivo Tapatío
+# note - official reserve team of CD Guadalajara
+#   use ii) or such to link - why? why not?
+
+
 Club Atlas,  1916,              Guadalajara › Jalisco
   | Atlas | Club Atlas de Guadalajara | Atlas FC
   | Atlas Guadalajara
@@ -44,7 +51,11 @@ Club Atlas,  1916,              Guadalajara › Jalisco
 
 Leones Negros U. de G., 1970,  Guadalajara › Jalisco
   | Leones Negros
-  | UDG | U. de G. | U. Guadalajara | U. de Guadalajara | Universidad de Guadalajara
+  | UDG | U. de G. | U. Guadalajara | U. de Guadalajara
+  | Universidad de Guadalajara
+  | Club Leones Negros de la Universidad de Guadalajara
+  | Leones Negros UdeG
+  | CD Leones Negros
 
 Estudiantes UAG, 1971         # en Zapopan, Jalisco
   | UAG | Estudiantes | Estudiantes Tecos
@@ -79,6 +90,15 @@ Club Puebla,  1944,    @ Estadio Cuauhtémoc,      Puebla › Puebla
 Lobos BUAP, 1967,         Puebla › Puebla
   | BUAP | Benemérita Universidad Autónoma de Puebla
   | Lobos de la BUAP Puebla
+
+
+== Tlaxcala ==
+
+Tlaxcala FC, 2014,  @ Estadio Tlahuicole,  Tlaxcala
+  | Tlaxcala Fútbol Club
+  | Coyotes de Tlaxcala
+  | Tlaxcala
+
 
 == Veracruz ==
 Tiburones Rojos Veracruz, 1943,   Veracruz (Boca del Río) ›      ## Boca del Río
@@ -129,6 +149,7 @@ Club León, 1944,           León
  Boulevard Adolfo López Mateos 1810, Col. La Martinica // León
 
 Celaya, 1954               # en Celaya, Guanajuato
+  | Club Celaya
 
 
 == Morelos ==
@@ -142,6 +163,11 @@ Zacatepec, 1948,     Zacatepec   # Cuernavaca  ??
 Club Tijuana, 2007,        Tijuana
   | Tijuana | Xolos | Club Tijuana Xoloitzcuintles de Caliente
  Paseo del Centenario 9211 Local 3 Módulo 6, Col. Zona Río // Tijuana, B.C. C.P. 22320
+
+
+== Baja California Sur ==
+Club Atlético La Paz,   La Paz
+  | Club Atl. La Paz
 
 
 == Sinaloa ==
@@ -208,11 +234,15 @@ U. de C.,               Colima City
 
 == Sonora ==
 Cimarrones de Sonora,   Hermosillo
+  | Cimarrones Sonora
   | Sonora | Cimarrones de Sonora Fútbol Club
 
-
 == Oaxaca ==
-Oaxaca,  2012, Oaxaca
+Alebrijes de Oaxaca,   2012, Oaxaca
+  | Aleb. de Oaxaca
+  | Alebrijes de Oaxaca Fútbol Club
+  | Oaxaca
+
 
 == Chiapas ==
 Jaguares Chiapas, 2002,    Tuxtla Gutiérrez     ##  Chiapas FC or Jaguares de Chiapas

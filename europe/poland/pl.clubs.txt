@@ -11,6 +11,7 @@ Legia Warszawa,  1916, @ Stadion Wojska Polskiego im. Marszałka Józefa Piłsud
 KSP Polonia Warszawa,  Warszawa
   | Polonia Warszawa
   | Polonia Warsaw
+  | Polonia Warschau [de]
 
 Gwardia Warszawa,  1948,  Warszawa   # champs (2): 1957/58 1955/56
   | Gwardia
@@ -105,6 +106,7 @@ Bruk-Bet Termalica Nieciecza, 1922, @ Stadion Sportowy Bruk-Bet Termalica, Nieci
   | Termalica B-B.
   | Termalica Nieciecza
   | Bruk-Bet Termalica Nieciecza Klub Sportowy
+  | Nieciecza KS
 
 Widzew Łódź,  Łódź
   | RTS Widzew Łódź
@@ -131,9 +133,10 @@ Zawisza Bydgoszcz,  Bydgoszcz
 
 Raków Częstochowa, 1921, @	Raków Municipal Stadium,  Częstochowa
   | Raków | RKS Raków | RKS Raków Częstochowa
-  | KS Raków Częstochowa
+  | KS Raków Częstochowa | Raków Częstoch
   | Robotniczy Klub Sportowy Raków Częstochowa
   | Rakow Tschenstochau [de]
+
 
 
 Odra Opole, Opole
@@ -202,3 +205,12 @@ Motor Lublin,  1950,   Lublin
 Stal Rzeszów, 1944, Rzeszów
   | ZKS Stal Rzeszow
   | Stal Rzeszów Spółka Akcyjna
+
+Resovia Rzeszów,   1905,    Rzeszów
+  | $$Apklan$$ Resovia Rzeszów
+  | Resovia
+  | CWKS Resovia Rzeszów Spółka Akcyjna
+
+KS Wisła Puławy,  Puławy
+  | Klub Sportowy Wisła Puławy
+

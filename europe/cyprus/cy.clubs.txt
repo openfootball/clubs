@@ -88,6 +88,7 @@ Pafos FC
 Doxa Katokopia FC,  Katokopia
   | Doxa | Doxa Katokopias FC
   | Doxa Katokopia
+  | Doxa Katokopias
 
 Enosis Neon Paralimni FC
   | Paralimni
@@ -107,4 +108,12 @@ Digenis Morphou, Morphou
 
 Alki Oroklini,  Oroklini
   | Alki Oroklinis
+
+
+Othellos Athienou, Athienou
+  | Othellos Athienou FC
+  | Athletic Club Othellos Athienou
+
+AEZ Zakakiou,  Zakaki
+  | Athletic Union of Zakaki
 

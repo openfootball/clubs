@@ -116,6 +116,7 @@ FC Viitorul Constanța (2009-2021),   Ovidiu
 
 FCV Farul Constanța,  Constanța
   | FC Farul Constanța
+  | FC Farul Const | FC Farul Constanț
   | Farul Constanța
   | Farul                 # Farul translates as "the Lighthouse"
 ## Established in 1920 as SPM Constanța,
@@ -193,6 +194,7 @@ Poli Timișoara, Timișoara
 
 Sepsi Sfântu Gheorghe,   Sfântu Gheorghe
   | Sepsi | Sepsi Sf. Gheorghe | Sepsi OSK
+  | Sf. Gheorghe
 
 ASA Târgu Mureș (2008-2018),    Târgu Mureș
   | Târgu Mureș
@@ -257,6 +259,7 @@ FCM Bacău,  1950,   Bacău
 
 
 FK Csíkszereda Miercurea Ciuc,  Miercurea Ciuc
+  | FK Csíkszereda
   | Csíkszereda Miercurea Ciuc
   | Csíkszereda
   | Csiksz. M. Ciuc
@@ -286,6 +289,17 @@ AS FC Buzău,  2016,  Buzău
 Unirea Slobozia, 1955,  Slobozia
    | Asociația Fotbal Club Unirea 04 Slobozia
    | FC Unirea 2004 Slo
+   | FC Unirea Slobozia
+
+CS Tunari,    Tunari
+  | Clubul Sportiv Tunari
+  | Tunari
+
+CSC 1599 Șelimbăr,   Șelimbăr
+  | Club Sportiv Comunal 1599 Șelimbăr
+  | 1599 Șelimbăr
+  | Șelimbăr
+
 
 
 Chimia Râmnicu Vâlcea (1946-2004),  Râmnicu Vâlcea

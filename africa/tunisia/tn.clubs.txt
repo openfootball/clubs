@@ -1,7 +1,21 @@
 = Tunisia
 
-Espérance Sportive de Tunis,  Tunis 
+Espérance Sportive de Tunis,  Tunis
   | Esp. Sp. Tunis
-  
+
 JS Kairouanaise,  Kairouan
-  | JSK | Jeunesse Sportive Kairouanaise 
+  | JSK | Jeunesse Sportive Kairouanaise
+
+
+US Monastir,  Monastir   # or Mestir
+  | Union Sportive Monastirienne
+  | USM
+
+Olympique de Béja,  Béja
+  | Olympique Béja
+  | O Béja
+  | OB
+
+US Ben Guerdane,   Ben Guerdane
+  | Union Sportive de Ben Guerdane
+  | USBG

@@ -12,7 +12,7 @@ Puntarenas FC,    Puntarenas
 LD Alajuelense,   Alajuela › Alajuela     #  23 kilómetros al oeste de San José
   | Alajuelense
   | Liga Deportiva Alajuelense
- 
+
 Carmelita,        Santa Bárbara › Heredia
   | Asociación Deportiva Carmelita
 CS Cartaginés,     Cartago › Cartago
@@ -26,6 +26,7 @@ CS Herediano,       Heredia › Heredia  #  10 km al noroeste de San José
 
 AD Municipal Liberia,   	Liberia › Guanacaste
   | Liberia
+  | Municipal Liberia
 Limón FC,             Limón › Limón
   | Limón
 Municipal Pérez Zeledón, 1962,   San Isidro de El General › San José
@@ -34,6 +35,7 @@ Santos de Guápiles,    Guápiles › Limón
   | Santos
 Deportivo Saprissa,    San Juan de Tibás › San José
   | Saprissa
+  | Dep. Saprissa
 Universidad de Costa Rica, 1941  Montes de Oca › San José
   | UCR | CF Universidad de Costa Rica | Club de Futbol Universidad de Costa Rica
   | Uni. de Costa Rica
@@ -44,7 +46,6 @@ ADR Jicaral, 1981
   | Asociación Deportiva y Recreativa Jicaral
 
 AD Guanacasteca,  Nicoya
-  | Asociación Deportiva Guanacasteca 
+  | Asociación Deportiva Guanacasteca
   | Guanacasteca
 
-  

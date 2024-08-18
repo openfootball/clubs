@@ -27,14 +27,24 @@ Knockbreda FC, Belfast
   | Knockbreda Football Club
   | Breda
 
+Dundela FC, Belfast
+  | Dundela Football Club
+  | FC Dundela
+
+
 
 Cliftonville FC
   | Cliftonville
   | FC Cliftonville
 
-Portadown FC
+Portadown FC,   Portadown
   | Portadown   # champs (3): 2002/03 1992..1990 (2)
   | FC Portadown
+
+Annagh United FC,  Portadown
+  | Annagh United Football Club
+  | Annagh United
+  | FC Annagh United
 
 Lisburn Distillery FC, 1880,  Ballyskeagh
   | Lisburn Distillery    # champs (1): 1963/64

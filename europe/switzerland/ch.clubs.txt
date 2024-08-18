@@ -40,6 +40,7 @@ Grasshoppers Zürich, 1886,  @ Stadion Letzigrund,      Zürich
 FC Zürich, 1896, @ Stadion Letzigrund,     Zürich
   | Zürich
   | Fussball Club Zürich
+ii) FC Zürich II
 
 FC Red Star Zürich,     Zürich
   | Red Star Zürich
@@ -62,6 +63,7 @@ FC Winterthur, 1896,  @ Schützenwiese,      Winterthur
 FC Basel, 1893,  @ Sankt-Jakob-Park,        Basel
   | Basel | FC Basel 1893
   | Fussball Club Basel 1893
+ii) FC Basel II
 
 FC Black Stars Basel,   Basel
   | Black Stars Basel
@@ -75,6 +77,8 @@ BSC Young Boys, 1898,  @  Wankdorf,          Bern
   | Young Boys | Young Boys Bern
   | Berner Sport-Club Young Boys | BSC YB
   | YB Bern
+ii) BSC Young Boys II
+
 
 FC Breitenrain Bern
 FC Prishtina Bern
@@ -92,6 +96,8 @@ FC Thun, 1898,                 Thun
 FC Luzern, 1901,   @ Swissporarena,      Luzern    ## use Lucerne [fr] - why??
   | Luzern
   | Fussball Club Luzern
+ii) FC Luzern II
+
 
 FC Kickers Luzern,  Luzern
 
@@ -104,6 +110,8 @@ FC St. Gallen, 1879,    @ Kybunpark,          St. Gallen
   | St. Gallen | FC St. Gallen 1879
   | FC Sankt Gallen
   | Fussball Club St. Gallen 1879
+ii) St. Gallen A.
+
 
 FC Winkeln St. Gallen
 
@@ -252,6 +260,7 @@ FC Buchs AG
   | FC Buchs
 FC Bulle
 SC Brühl
+  | SC Brühl SG
 FC Bavois
 FC Bischofszell 1913
 FC Breitenrain

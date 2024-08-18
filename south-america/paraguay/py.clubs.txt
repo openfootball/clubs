@@ -25,9 +25,11 @@ Club River Plate,     Asunción
     | Sportivo Trini.
 
 Tacuary,  Asunción
-  | Tacuary Asunción
+  | Tacuary Asunción | Tacuary Asunci
   | Club Tacuary
 
+Resistencia FC,   Asunción (Ricardo Brugada)
+  | Resistencia Sport Club
 
 
 Deportivo Capiatá,  Capiatá
