@@ -73,9 +73,10 @@ FC Saturn Ramenskoye, 1946,  Ramenskoye    # Ramenskoe - a town and the administ
 
 
 Zenit St. Petersburg, 1925,     St. Petersburg
-  | Zenit | Zenit Petersb. | Zenit Petersburg | Zenit St. Peter | Zenit St. Petersb. | Zenit Saint Petersburg
+  | Zenit | Zenit Petersb. | Zenit Petersburg | Zenit St. Peter | Zenit St. Petersb.
+  | Zenit Saint Petersburg
   | FC Zenit | FC Zenit St Petersburg | FC Zenit Saint Petersburg
-  | FK Zenit Sankt-Petersburg
+  | FK Zenit Sankt-Petersburg | Zenit Sankt Petersburg
   | Futbolniy Klub Zenit (Sankt-Peterburg)
 
 Dinamo St. Petersburg,     St. Petersburg

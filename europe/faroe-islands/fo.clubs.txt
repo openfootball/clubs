@@ -9,9 +9,10 @@ EB/Streymur
 NSÍ Runavík
   | NSÍ
 
-Víkingur,   2008,   Leirvík     # note: the stadium (Serpugerdi Stadium) is in Norðragøta
-  | Víkingur Gøta
+Víkingur Gøta,   2008,   Leirvík     # note: the stadium (Serpugerdi Stadium) is in Norðragøta
+  | Víkingur
 #  founded in 2008 after the merger of GÍ Gøta and Leirvík ÍF
+
 
 GÍ Gøta (1926-2008),   Gøta
   | GÍ | Gøtu Ítróttarfelag
