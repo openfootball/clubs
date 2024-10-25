@@ -38,8 +38,16 @@ Deportivo Lara,        Barquisimeto
 Deportivo Anzoátegui,  Puerto La Cruz
   | Dvo. Anzoátegui | Deportivo Anzoátegui Sport Club
 
-AC Mineros,            Ciudad Guayana
+AC Mineros,            Ciudad Guayana (Puerto Ordaz)
   | Mineros | Mineros Guayana | Mineros de Guayana
+  | Asociación Civil Club Deportivo Mineros de Guayana
+  | ACCD Mineros de Guayana
+  | Min. Guayana
+## dividing Ciudad Guayana into its predominant halves -
+## the old town of San Félix, to the east,
+## and the newer area of Puerto Ordaz, to the west.
+
+
 LALA FC,               Ciudad Guayana
   | LALA
 
@@ -78,8 +86,3 @@ Rayo Zuliano,  Maracaibo
   | Deportivo Rayo Zuliano
   | Departivo Rayo
 
-Mineros de Guayana,    Puerto Ordaz
-  | Asociación Civil Club Deportivo Mineros de Guayana
-  | ACCD Mineros de Guayana
-  | Mineros
-  | Min. Guayana
